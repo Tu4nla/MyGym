@@ -4,4 +4,5 @@ Trang giáo án tập luyện mobile-first với GIF giải phẫu ExerciseDB.
 
 ## Website
 
-https://tu4nla.github.io/MyGym/
+- MyGym: https://tu4nla.github.io/MyGym/
+- Phú Quý Trip: https://tu4nla.github.io/MyGym/phu-quy/
