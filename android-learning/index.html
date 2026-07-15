@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#101114">
+  <title>Android Middle Interview Handbook</title>
+  <link rel="stylesheet" href="styles/main.css">
+</head>
+<body>
+  <div class="app-shell">
+    <header class="topbar">
+      <button id="menu-button" class="icon-button" aria-label="Mở mục lục">☰</button>
+      <div class="brand">
+        <span class="eyebrow">ANDROID LEARNING</span>
+        <strong>Middle Interview Handbook</strong>
+      </div>
+      <div class="top-actions">
+        <span id="progress-label" class="progress-label">0%</span>
+        <button id="theme-button" class="icon-button" aria-label="Đổi giao diện">◐</button>
+      </div>
+    </header>
+
+    <div class="layout">
+      <aside id="sidebar" class="sidebar">
+        <div class="sidebar-head">
+          <h2>Mục lục</h2>
+          <button id="close-menu-button" class="icon-button mobile-only" aria-label="Đóng mục lục">×</button>
+        </div>
+        <input id="search-input" class="search-input" type="search" placeholder="Tìm bài học…">
+        <div class="course-progress">
+          <div class="course-progress-row"><span>Tiến độ</span><strong id="progress-count">0/0</strong></div>
+          <div class="progress-track"><span id="progress-bar"></span></div>
+        </div>
+        <nav id="catalog"></nav>
+      </aside>
+
+      <main id="content" class="content" tabindex="-1">
+        <div class="loading">Đang tải nội dung…</div>
+      </main>
+
+      <aside id="lesson-toc" class="lesson-toc desktop-only"></aside>
+    </div>
+  </div>
+
+  <script type="module" src="scripts/app.js"></script>
+</body>
+</html>

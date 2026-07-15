@@ -1,0 +1,12 @@
+{
+  "process": {"term":"Process","vi":"Tiến trình","definition":"Một chương trình đang được hệ điều hành thực thi với vùng nhớ và tài nguyên riêng."},
+  "thread": {"term":"Thread","vi":"Luồng thực thi","definition":"Đơn vị thực thi bên trong process; các thread cùng process dùng chung heap nhưng có stack riêng."},
+  "concurrency": {"term":"Concurrency","vi":"Tính đồng thời","definition":"Khả năng quản lý nhiều task cùng tiến triển trong một khoảng thời gian."},
+  "parallelism": {"term":"Parallelism","vi":"Tính song song","definition":"Nhiều task thực sự chạy đồng thời trên nhiều CPU core."},
+  "blocking": {"term":"Blocking","vi":"Chặn luồng","definition":"Thread bị giữ lại và không thể làm việc khác trong thời gian chờ."},
+  "non-blocking": {"term":"Non-blocking","vi":"Không chặn luồng","definition":"Thread không bị giữ vô ích trong thời gian chờ I/O hoặc event."},
+  "race-condition": {"term":"Race condition","vi":"Điều kiện tranh chấp","definition":"Kết quả phụ thuộc vào thứ tự thực thi không xác định của nhiều task truy cập state dùng chung."},
+  "critical-section": {"term":"Critical section","vi":"Vùng tới hạn","definition":"Đoạn code truy cập tài nguyên dùng chung và cần được bảo vệ khỏi cập nhật đồng thời."},
+  "mutex": {"term":"Mutex","vi":"Khóa loại trừ lẫn nhau","definition":"Cơ chế đảm bảo chỉ một coroutine hoặc thread đi vào critical section tại một thời điểm."},
+  "stale-result": {"term":"Stale result","vi":"Kết quả lỗi thời","definition":"Kết quả không còn tương ứng với yêu cầu hoặc state hiện tại, thường do response cũ về trễ."}
+}

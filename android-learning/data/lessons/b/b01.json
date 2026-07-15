@@ -1,0 +1,199 @@
+{
+  "id": "b01",
+  "code": "B01",
+  "title": "Process, Thread, Concurrency, Parallelism, Blocking và Non-blocking",
+  "summary": "Nền tảng để hiểu đúng Coroutine, Flow, Socket.IO, SSE, WorkManager và cách ra quyết định khi có nhiều tác vụ đồng thời.",
+  "estimatedMinutes": 120,
+  "sections": [
+    {
+      "id": "objectives",
+      "title": "1. Mục tiêu bài học",
+      "blocks": [
+        {"type":"list","items":["Phân biệt process, thread, task và coroutine.","Phân biệt concurrency với parallelism; synchronous với asynchronous; blocking với non-blocking.","Nhận diện I/O-bound và CPU-bound để chọn dispatcher phù hợp.","Biết khi nào nên chạy đồng thời, khi nào phải tuần tự và khi nào cần giới hạn concurrency.","Phân tích các yêu cầu thực tế tại Upzi: search, Home, chat và SSE.","Trả lời được các câu hỏi phỏng vấn từ cơ bản đến xoáy sâu."]},
+        {"type":"callout","variant":"purpose","title":"Tại sao bài này quan trọng?","content":"Coroutine chỉ là công cụ. Nếu chưa hiểu thread, blocking, dependency, cancellation và race condition, bạn có thể viết code chạy được nhưng vẫn tạo lag, dữ liệu cũ ghi đè dữ liệu mới hoặc làm hệ thống khó kiểm soát."}
+      ]
+    },
+    {
+      "id": "process-thread",
+      "title": "2. Process, Thread, Stack và Heap",
+      "blocks": [
+        {"type":"heading","content":"Process là gì?"},
+        {"type":"paragraph","content":"Process (tiến trình) là một chương trình đang được hệ điều hành thực thi. Mỗi process có không gian bộ nhớ, tài nguyên và các thread riêng. Thông thường một ứng dụng Android chạy trong process chính có tên tương ứng package name."},
+        {"type":"callout","title":"Thuật ngữ — Memory space","content":"Không gian bộ nhớ là vùng bộ nhớ mà một process được phép truy cập. Hai process không thể đọc trực tiếp biến của nhau; nếu cần giao tiếp phải dùng IPC như Binder, AIDL, ContentProvider, socket hoặc persistent storage."},
+        {"type":"code","language":"text","content":"Upzi process\n├── Heap dùng chung trong process\n├── Main thread\n├── OkHttp / worker threads\n├── Socket event processing\n└── Coroutine tasks được schedule lên các thread"},
+        {"type":"heading","content":"Thread là gì?"},
+        {"type":"paragraph","content":"Thread (luồng thực thi) là đơn vị thực thi bên trong process. Các thread trong cùng process dùng chung heap nhưng mỗi thread có stack và trạng thái thực thi riêng."},
+        {"type":"table","headers":["Thành phần","Ý nghĩa"],"rows":[["Stack","Lưu function call, biến local, return address và execution context; mỗi thread có stack riêng."],["Heap","Lưu object runtime; các thread cùng process có thể truy cập chung."],["Main thread","Xử lý UI, lifecycle callback, touch, animation và Compose rendering."],["Worker thread","Thực hiện công việc ngoài UI như blocking I/O hoặc CPU work."]]},
+        {"type":"callout","variant":"warning","title":"Câu hỏi bẫy","content":"Nếu một Android Service chạy ở process khác, singleton của process chính không được dùng chung. Mỗi process có vùng nhớ riêng và tạo singleton riêng."}
+      ]
+    },
+    {
+      "id": "main-thread",
+      "title": "3. Main Thread, Frame và ANR",
+      "blocks": [
+        {"type":"paragraph","content":"Main Thread còn gọi là UI Thread. Nó cần liên tục xử lý input và hoàn thành công việc render trong thời gian ngắn. Khi đặt tác vụ chờ lâu hoặc tính toán nặng trên main thread, giao diện không thể phản hồi."},
+        {"type":"code","language":"kotlin","label":"Sai — block main thread","content":"Button(onClick = {\n    Thread.sleep(5_000)\n}) {\n    Text(\"Tải dữ liệu\")\n}"},
+        {"type":"callout","variant":"warning","title":"ANR — Application Not Responding","content":"ANR là trạng thái hệ thống xác định ứng dụng không phản hồi trong ngưỡng cho phép. Không phải mọi lần giật UI đều thành ANR, nhưng block main thread kéo dài là nguyên nhân điển hình."},
+        {"type":"callout","variant":"purpose","title":"Mục đích của asynchronous work","content":"Không nhất thiết làm server trả lời nhanh hơn; mục tiêu trước hết là không giữ main thread trong thời gian chờ và để UI tiếp tục phản hồi."}
+      ]
+    },
+    {
+      "id": "core-differences",
+      "title": "4. Các cặp khái niệm dễ nhầm",
+      "blocks": [
+        {"type":"heading","content":"Synchronous và Asynchronous"},
+        {"type":"paragraph","content":"Synchronous mô tả control flow phải chờ tác vụ trước hoàn thành rồi mới đi tiếp. Asynchronous cho phép khởi động công việc, tiếp tục xử lý việc khác và nhận kết quả sau."},
+        {"type":"heading","content":"Concurrency và Parallelism"},
+        {"type":"paragraph","content":"Concurrency là nhiều task cùng tiến triển trong một khoảng thời gian, kể cả khi chúng xen kẽ trên một CPU core. Parallelism là nhiều task thực sự thực thi đồng thời trên nhiều core."},
+        {"type":"heading","content":"Blocking và Non-blocking"},
+        {"type":"paragraph","content":"Blocking mô tả thread bị giữ lại khi chờ. Non-blocking nghĩa là thread có thể được trả về để làm việc khác trong lúc hệ thống chờ I/O hoặc event."},
+        {"type":"table","headers":["Khái niệm","Câu hỏi nó trả lời","Ví dụ"],"rows":[["Synchronous / Asynchronous","Control flow có đứng chờ kết quả tại chỗ không?","Hai API gọi tuần tự hoặc khởi động đồng thời."],["Blocking / Non-blocking","Thread có bị giữ trong thời gian chờ không?","Thread.sleep block; delay suspend coroutine."],["Concurrency","Có quản lý nhiều task cùng tiến triển không?","UI vừa nhận input vừa chờ API và socket."],["Parallelism","Các task có thực sự chạy cùng lúc trên nhiều core không?","Xử lý nhiều ảnh độc lập trên CPU pool."]]},
+        {"type":"callout","title":"Điểm cần nhớ","content":"Asynchronous không đồng nghĩa multi-thread. Một event loop có thể quản lý nhiều thao tác bất đồng bộ trên số thread giới hạn. Tương tự, chuyển blocking API sang Dispatchers.IO không biến nó thành non-blocking; nó chỉ chuyển nơi bị block."}
+      ]
+    },
+    {
+      "id": "coroutine-thread",
+      "title": "5. Coroutine có phải Thread không?",
+      "blocks": [
+        {"type":"paragraph","content":"Không. Thread là tài nguyên thực thi do hệ điều hành quản lý. Coroutine là abstraction nhẹ được dispatcher schedule lên thread. Nhiều coroutine có thể dùng chung một số thread và một coroutine có thể suspend rồi tiếp tục trên thread khác theo dispatcher."},
+        {"type":"code","language":"kotlin","label":"suspend không tự chuyển background","content":"suspend fun calculate(): Long {\n    // Nếu caller đang ở Main thì đoạn CPU-heavy này vẫn chạy trên Main.\n    return performHeavyCalculation()\n}\n\nviewModelScope.launch {\n    val result = calculate()\n}"},
+        {"type":"code","language":"kotlin","label":"Chọn context phù hợp","content":"suspend fun calculate(): Long = withContext(Dispatchers.Default) {\n    performHeavyCalculation()\n}"},
+        {"type":"callout","variant":"warning","title":"Sai lầm thường gặp","content":"Từ khóa suspend chỉ cho phép function tạm dừng coroutine tại suspension point. Nó không tạo thread mới và không đảm bảo background execution."},
+        {"type":"heading","content":"delay khác Thread.sleep"},
+        {"type":"code","language":"kotlin","content":"viewModelScope.launch {\n    delay(3_000)       // Suspend coroutine, không giữ thread trong lúc chờ.\n    // Thread.sleep(3_000) // Block thread hiện tại.\n}"}
+      ]
+    },
+    {
+      "id": "io-cpu-dispatcher",
+      "title": "6. I/O-bound, CPU-bound và chọn Dispatcher",
+      "blocks": [
+        {"type":"paragraph","content":"I/O-bound là tác vụ dành phần lớn thời gian chờ input/output như network, database, file, socket, NFC. CPU-bound dành phần lớn thời gian tính toán như decode ảnh, OCR preprocessing, encryption, compression hoặc parse dữ liệu rất lớn."},
+        {"type":"table","headers":["Yêu cầu","Loại công việc","Hướng xử lý"],"rows":[["Render Compose UI","UI","Dispatchers.Main"],["Đọc file bằng API blocking","I/O-bound blocking","Dispatchers.IO"],["Retrofit suspend API","I/O bất đồng bộ","Thường không cần bọc IO chỉ để chờ network"],["Compress ảnh/video","CPU-bound","Dispatchers.Default"],["OCR preprocessing","CPU-bound","Dispatchers.Default, có thể giới hạn parallelism"]]},
+        {"type":"callout","variant":"requirement","title":"Yêu cầu cụ thể — đọc metadata video","content":"Trước khi upload, app phải đọc metadata từ file local bằng SDK blocking nhưng UI vẫn phải thao tác bình thường."},
+        {"type":"code","language":"kotlin","content":"suspend fun readVideoMetadata(file: File): VideoMetadata =\n    withContext(Dispatchers.IO) {\n        metadataReader.read(file)\n    }"},
+        {"type":"callout","title":"Khi không nên dùng Dispatchers.Default","content":"Không cần chuyển dispatcher cho phép tính nhỏ như ghép hai chuỗi hoặc map vài chục phần tử. Context switch cũng có chi phí; chỉ chuyển khi công việc đủ nặng hoặc có bằng chứng profiler."}
+      ]
+    },
+    {
+      "id": "decision-concurrency",
+      "title": "7. Khi nào cần Concurrency?",
+      "blocks": [
+        {"type":"callout","variant":"purpose","title":"Mục đích","content":"Giảm latency của các công việc độc lập, giữ UI phản hồi và quản lý nhiều nguồn dữ liệu cùng tồn tại."},
+        {"type":"heading","content":"Dấu hiệu nên cân nhắc"},
+        {"type":"list","items":["Màn hình cần tải nhiều API hoặc nhiều data source độc lập.","App vừa nhận Socket.IO/SSE event vừa xử lý user interaction.","Request cũ có thể về sau request mới.","Một phần dữ liệu có thể hiển thị trước mà không phải chờ toàn màn hình.","Có tác vụ dài cần bị cancel khi người dùng đổi màn hình hoặc đổi query."]},
+        {"type":"heading","content":"Khi không nên chạy đồng thời"},
+        {"type":"list","items":["Task B cần output của task A.","Business bắt buộc giữ đúng thứ tự.","Backend giới hạn số request hoặc có rate limit nghiêm ngặt.","Tác vụ quá nhỏ khiến chi phí orchestration lớn hơn lợi ích.","Dữ liệu cần tính nhất quán như một transaction và không cho phép partial success."]},
+        {"type":"callout","variant":"requirement","title":"Yêu cầu cụ thể — Upzi Job Detail","content":"Khi mở Job Detail, app tải job, trạng thái đã lưu, trạng thái ứng tuyển và thông tin công ty. Người dùng vẫn phải scroll hoặc back được trong lúc tải."},
+        {"type":"paragraph","content":"Job, saved status và application status có thể độc lập. Company detail chỉ chạy ngay nếu đã có companyId từ route/cache; nếu companyId nằm trong job response thì company phải chờ job."},
+        {"type":"code","language":"kotlin","content":"suspend fun loadJobDetail(jobId: String): JobDetailData = coroutineScope {\n    val jobDeferred = async { jobRepository.getJob(jobId) }\n    val savedDeferred = async { savedJobRepository.isSaved(jobId) }\n    val appliedDeferred = async { applicationRepository.getStatus(jobId) }\n\n    val job = jobDeferred.await()\n    val company = companyRepository.getCompany(job.companyId)\n\n    JobDetailData(\n        job = job,\n        company = company,\n        isSaved = savedDeferred.await(),\n        applicationStatus = appliedDeferred.await()\n    )\n}"},
+        {"type":"callout","title":"Quyết định kỹ thuật","content":"Không dùng async cho mọi dòng code. Trước khi chạy đồng thời phải xác định dependency, error policy, cancellation policy và giới hạn tài nguyên."}
+      ]
+    },
+    {
+      "id": "case-home",
+      "title": "8. Case study — Upzi Home tải nhiều section",
+      "blocks": [
+        {"type":"callout","variant":"requirement","title":"Yêu cầu sản phẩm","content":"Home hiển thị Profile, Recommended Jobs, Recent Searches và Unread Message Count. Recommendation có thể mất 3 giây. Nếu recommendation lỗi, các phần còn lại vẫn phải hiển thị. Khi rời màn hình, request không còn giá trị phải bị hủy."},
+        {"type":"heading","content":"Phân tích"},
+        {"type":"list","items":["Bốn nguồn là I/O-bound và có thể độc lập.","Business cho phép partial success.","Một loading chung sẽ buộc toàn màn hình chờ section chậm nhất.","Cần scope gắn lifecycle để tự hủy khi ViewModel bị clear.","Cần error state riêng cho từng section."]},
+        {"type":"code","language":"kotlin","label":"UI state theo section","content":"data class SectionState<T>(\n    val isLoading: Boolean = false,\n    val data: T? = null,\n    val error: Throwable? = null\n)\n\ndata class HomeUiState(\n    val profile: SectionState<Profile> = SectionState(),\n    val recommendations: SectionState<List<Job>> = SectionState(),\n    val recentSearches: SectionState<List<String>> = SectionState(),\n    val unreadCount: SectionState<Int> = SectionState()\n)"},
+        {"type":"code","language":"kotlin","label":"Error isolation","content":"fun loadHome() {\n    viewModelScope.launch {\n        supervisorScope {\n            launch { loadProfile() }\n            launch { loadRecommendations() }\n            launch { loadRecentSearches() }\n            launch { loadUnreadCount() }\n        }\n    }\n}"},
+        {"type":"heading","content":"Vì sao chọn supervisor semantics?"},
+        {"type":"paragraph","content":"Một section lỗi không được tự động cancel sibling vì yêu cầu cho phép phần còn lại tiếp tục. Nếu dữ liệu phải đồng nhất và một phần lỗi làm toàn bộ kết quả vô nghĩa, coroutineScope fail-fast sẽ phù hợp hơn."},
+        {"type":"heading","content":"Edge cases"},
+        {"type":"list","items":["Pull-to-refresh nhiều lần làm request cũ ghi đè request mới.","User logout trong lúc tải.","Nhiều request cùng gặp 401 và đồng thời refresh token.","Recommendation trả duplicate job.","Cache và network trả dữ liệu ở thời điểm khác nhau."]}
+      ]
+    },
+    {
+      "id": "case-search",
+      "title": "9. Case study — Search và stale result",
+      "blocks": [
+        {"type":"callout","variant":"requirement","title":"Yêu cầu sản phẩm","content":"Khi người dùng nhập keyword hoặc đổi filter liên tục, app chỉ hiển thị kết quả tương ứng yêu cầu mới nhất và không gọi API cho mọi ký tự."},
+        {"type":"paragraph","content":"Giả sử request “And” mất 3 giây còn “Android” mất 1 giây. Nếu không cancel hoặc ignore request cũ, kết quả “And” có thể về sau và ghi đè màn hình đang hiển thị “Android”. Đây là stale result — kết quả đã lỗi thời so với state hiện tại."},
+        {"type":"code","language":"kotlin","content":"queryFlow\n    .debounce(300)\n    .distinctUntilChanged()\n    .flatMapLatest { query ->\n        repository.searchJobs(query)\n    }"},
+        {"type":"list","items":["debounce chờ người dùng ngừng nhập trong một khoảng thời gian.","distinctUntilChanged bỏ qua query giống nhau liên tiếp.","flatMapLatest hủy collection/request trước khi query mới đến nếu upstream hỗ trợ cancellation."]},
+        {"type":"callout","variant":"warning","title":"Đã áp dụng hay phương án đề xuất?","content":"Khi dùng ví dụ này trong phỏng vấn, chỉ nói “đã dùng flatMapLatest” nếu implementation Upzi thực tế có dùng. Nếu chưa, hãy nói đây là phương án bạn lựa chọn khi thiết kế lại."}
+      ]
+    },
+    {
+      "id": "case-chat-sse",
+      "title": "10. Case study — Chat và SSE",
+      "blocks": [
+        {"type":"heading","content":"Chat là bài toán concurrency"},
+        {"type":"paragraph","content":"Cùng một thời điểm chat có thể nhận message mới, ack, typing, read/delivered event, REST history và retry từ offline queue. Nếu UI tự xử lý từng callback độc lập, rất dễ duplicate, sai thứ tự hoặc state mới bị response cũ ghi đè."},
+        {"type":"code","language":"text","content":"Socket events ─┐\nREST history  ──┼──> ChatRepository / Database ──> StateFlow ──> UI\nOffline queue ──┘"},
+        {"type":"list","items":["Dùng serverId/clientId để deduplicate.","Biến local pending message thành server message khi ack về.","Database hoặc reducer thống nhất giúp serialization và single source of truth.","Reconnect socket chưa đủ; cần sync missed messages bằng cursor hoặc last message ID."]},
+        {"type":"heading","content":"SSE multi-endpoint"},
+        {"type":"paragraph","content":"Nhiều SSE stream có thể hoạt động đồng thời. Khi filter đổi, stream cũ cần bị cancel. Nếu các stream độc lập, lỗi một stream không nhất thiết dừng các stream khác."},
+        {"type":"code","language":"kotlin","content":"private var streamingJob: Job? = null\n\nfun changeFilter(filter: JobFilter) {\n    streamingJob?.cancel()\n    streamingJob = viewModelScope.launch {\n        supervisorScope {\n            launch { collectSkillJobs(filter) }\n            launch { collectNearbyJobs(filter) }\n            launch { collectRecentJobs(filter) }\n        }\n    }\n}"},
+        {"type":"callout","title":"Điều cần đánh giá","content":"Có giữ stream khi app background không phụ thuộc requirement, battery và khả năng sync lại. Phần lớn feed/recommendation có thể đóng stream và đồng bộ khi foreground thay vì giữ connection vô hạn."}
+      ]
+    },
+    {
+      "id": "parallel-limit-sync",
+      "title": "11. Parallelism, giới hạn Concurrency và Synchronization",
+      "blocks": [
+        {"type":"heading","content":"Khi cần Parallelism"},
+        {"type":"paragraph","content":"Parallelism hữu ích cho công việc CPU-heavy có thể chia độc lập, chẳng hạn OCR và crop khuôn mặt sau bước preprocessing trong EID Check. Không dùng parallelism cho phép tính quá nhỏ hoặc chuỗi bước phụ thuộc hoàn toàn."},
+        {"type":"code","language":"kotlin","content":"suspend fun processDocument(image: Bitmap) =\n    withContext(Dispatchers.Default) {\n        val processed = preprocessImage(image)\n        coroutineScope {\n            val mrz = async { recognizeMrz(processed) }\n            val face = async { cropFace(processed) }\n            DocumentResult(mrz.await(), face.await())\n        }\n    }"},
+        {"type":"heading","content":"Giới hạn concurrency"},
+        {"type":"callout","variant":"requirement","title":"Yêu cầu cụ thể — upload 50 ảnh","content":"Không được upload cả 50 file đồng thời vì có thể tốn RAM, connection, pin và gây rate limit. Chỉ cho phép tối đa 3 upload cùng lúc."},
+        {"type":"code","language":"kotlin","content":"val uploadLimit = Semaphore(3)\n\nsuspend fun uploadAll(files: List<File>) = coroutineScope {\n    files.map { file ->\n        async {\n            uploadLimit.withPermit { upload(file) }\n        }\n    }.awaitAll()\n}"},
+        {"type":"heading","content":"Synchronization"},
+        {"type":"paragraph","content":"Synchronization bảo vệ critical section — đoạn code truy cập tài nguyên dùng chung và không được cho nhiều tác vụ cập nhật đồng thời."},
+        {"type":"callout","variant":"requirement","title":"Yêu cầu cụ thể — 5 request cùng trả 401","content":"Chỉ một request được refresh token. Các request còn lại phải chờ và dùng token mới, tránh tạo nhiều refresh request và ghi đè token."},
+        {"type":"code","language":"kotlin","content":"private val refreshMutex = Mutex()\n\nsuspend fun refreshIfNeeded(expiredToken: String): String =\n    refreshMutex.withLock {\n        val current = tokenStorage.accessToken()\n        if (current != expiredToken) return current\n\n        val newToken = authApi.refreshToken()\n        tokenStorage.save(newToken)\n        newToken\n    }"},
+        {"type":"callout","variant":"warning","title":"Race condition","content":"Race condition xảy ra khi kết quả phụ thuộc vào thứ tự thực thi không xác định. count++ không atomic vì gồm đọc, cộng và ghi; hai thread có thể đọc cùng giá trị rồi ghi mất một lần tăng."}
+      ]
+    },
+    {
+      "id": "interview",
+      "title": "12. Câu hỏi phỏng vấn và cách trả lời",
+      "blocks": [
+        {"type":"heading","content":"Process khác Thread thế nào?"},
+        {"type":"callout","title":"Câu trả lời","content":"Process là chương trình đang chạy với vùng nhớ và tài nguyên riêng. Thread là đơn vị thực thi trong process. Các thread cùng process dùng chung heap nhưng có stack riêng; hai process cần IPC để giao tiếp."},
+        {"type":"heading","content":"Concurrency khác Parallelism thế nào?"},
+        {"type":"callout","title":"Câu trả lời","content":"Concurrency là nhiều task cùng tiến triển trong một khoảng thời gian, có thể xen kẽ trên một core. Parallelism là nhiều task thực sự chạy đồng thời trên nhiều core."},
+        {"type":"heading","content":"suspend có tự chạy background không?"},
+        {"type":"callout","title":"Câu trả lời","content":"Không. suspend chỉ cho phép coroutine tạm dừng; dispatcher phụ thuộc coroutine context. CPU-heavy hoặc blocking work vẫn có thể block Main nếu không chuyển context phù hợp."},
+        {"type":"heading","content":"Retrofit suspend API có cần withContext(IO)?"},
+        {"type":"callout","title":"Câu trả lời","content":"Thông thường không cần chỉ để chờ network vì Retrofit/OkHttp thực hiện request bất đồng bộ. Nhưng blocking file I/O hoặc CPU-heavy parsing vẫn cần context phù hợp."},
+        {"type":"heading","content":"Có phải cứ nhiều API là dùng async?"},
+        {"type":"callout","title":"Câu trả lời","content":"Không. Trước tiên phải xác định dependency, error policy, cancellation và backend limits. Các API độc lập có thể chạy đồng thời; API phụ thuộc phải tuần tự; số lượng lớn cần bounded concurrency."},
+        {"type":"heading","content":"Câu trả lời gắn với Upzi"},
+        {"type":"callout","variant":"purpose","title":"Mẫu trả lời","content":"Ở Upzi, concurrency xuất hiện rõ trong search, chat và SSE. Search cần latest semantics để request cũ không ghi đè query mới. Chat nhận socket, ack, read receipt và REST history nên em quy chúng về repository hoặc source of truth thống nhất. SSE cần cancel stream cũ khi filter đổi và isolate lỗi nếu các stream độc lập. Em chọn kỹ thuật dựa trên dependency và error policy, không đơn giản dùng async cho mọi việc."}
+      ]
+    },
+    {
+      "id": "exercises",
+      "title": "13. Bài tập thực hành và checklist",
+      "blocks": [
+        {"type":"heading","content":"Bài tập 1 — Phân loại tác vụ"},
+        {"type":"list","ordered":true,"items":["Gọi API lấy job.","Render LazyColumn.","Compress video.","Đọc file local.","Parse JSON 20 MB.","Nhận Socket.IO message.","Lưu preference vào DataStore."]},
+        {"type":"callout","title":"Yêu cầu","content":"Phân loại UI, I/O-bound hoặc CPU-bound và đề xuất context phù hợp. Giải thích tại sao, không chỉ ghi tên dispatcher."},
+        {"type":"heading","content":"Bài tập 2 — Sửa đoạn code"},
+        {"type":"code","language":"kotlin","content":"fun onSearchClick() {\n    viewModelScope.launch {\n        Thread.sleep(2_000)\n        val jobs = repository.getJobs()\n        _uiState.value = JobsUiState(jobs)\n    }\n}"},
+        {"type":"callout","title":"Tìm ít nhất 5 vấn đề","content":"Gợi ý: block Main, loading/error state, cancellation, request cũ ghi đè request mới và khả năng repository dùng blocking API."},
+        {"type":"heading","content":"Bài tập 3 — Home partial success"},
+        {"type":"paragraph","content":"Thiết kế Home gọi Profile, Recommendation và Activity. Recommendation lỗi nhưng phần khác vẫn hiển thị. Viết UI state và chọn coroutineScope hay supervisorScope, kèm lý do."},
+        {"type":"heading","content":"Bài tập 4 — Chat duplicate"},
+        {"type":"paragraph","content":"REST history và Socket cùng trả message serverId=100; ack của message local trả serverId=101; user nhấn retry. Hãy chỉ ra unique key, operation cần atomic và source of truth."},
+        {"type":"heading","content":"Checklist tự đánh giá"},
+        {"type":"list","items":["Tôi phân biệt được process và thread.","Tôi giải thích được concurrency và parallelism bằng ví dụ.","Tôi biết asynchronous không đồng nghĩa multi-thread.","Tôi biết suspend không tự chuyển background.","Tôi nhận diện I/O-bound và CPU-bound.","Tôi biết khi nào chạy tuần tự, đồng thời hoặc giới hạn concurrency.","Tôi giải thích được stale result trong Upzi search.","Tôi phân tích được concurrency trong chat và SSE.","Tôi hiểu race condition, critical section và mục đích của Mutex."]},
+        {"type":"callout","variant":"purpose","title":"Tóm tắt cần nhớ","content":"Concurrency là quyết định thiết kế, không chỉ là cú pháp coroutine. Luôn bắt đầu bằng requirement, dependency, error policy, lifecycle, cancellation và giới hạn tài nguyên; sau đó mới chọn launch, async, Flow, Mutex hoặc Semaphore."}
+      ]
+    }
+  ],
+  "quiz": [
+    {"id":"b01-q01","type":"single","question":"suspend function có tự động chạy trên background thread không?","options":[{"id":"a","text":"Có, luôn chạy trên Dispatchers.IO"},{"id":"b","text":"Không, dispatcher phụ thuộc coroutine context"},{"id":"c","text":"Chỉ khi gọi trong ViewModel"}],"correctOptionIds":["b"],"explanation":"suspend chỉ cho phép coroutine tạm dừng; nó không tự tạo thread hoặc đổi dispatcher."},
+    {"id":"b01-q02","type":"single","question":"Điểm khác nhau chính giữa concurrency và parallelism là gì?","options":[{"id":"a","text":"Concurrency luôn cần nhiều CPU core"},{"id":"b","text":"Parallelism chỉ là chuyển qua lại giữa nhiều task"},{"id":"c","text":"Concurrency là nhiều task cùng tiến triển; parallelism là thực thi đồng thời thật sự"}],"correctOptionIds":["c"],"explanation":"Concurrency có thể xảy ra trên một core bằng interleaving; parallelism thường cần nhiều core."},
+    {"id":"b01-q03","type":"single","question":"Tác vụ nào phù hợp nhất với Dispatchers.Default?","options":[{"id":"a","text":"Cập nhật Text trong Compose"},{"id":"b","text":"Compress ảnh dung lượng lớn"},{"id":"c","text":"Chờ Retrofit suspend request"}],"correctOptionIds":["b"],"explanation":"Compression là CPU-bound; UI thuộc Main, còn Retrofit suspend thường đã bất đồng bộ."},
+    {"id":"b01-q04","type":"multiple","question":"Khi nào nên cân nhắc chạy các tác vụ đồng thời?","options":[{"id":"a","text":"Các API độc lập và chạy tuần tự làm tăng latency"},{"id":"b","text":"Task B bắt buộc cần output của Task A"},{"id":"c","text":"Business cho phép partial success"},{"id":"d","text":"Có nhiều nguồn event cùng tồn tại như socket và REST"}],"correctOptionIds":["a","c","d"],"explanation":"Dependency bắt buộc là lý do giữ tuần tự; các lựa chọn còn lại là tín hiệu nên cân nhắc concurrency."},
+    {"id":"b01-q05","type":"single","question":"Vì sao query cũ có thể ghi đè query mới trong search?","options":[{"id":"a","text":"Response time không đảm bảo cùng thứ tự với request"},{"id":"b","text":"StateFlow luôn đảo thứ tự event"},{"id":"c","text":"Dispatchers.Main tự retry request"}],"correctOptionIds":["a"],"explanation":"Request gửi trước có thể trả về sau. Cần cancellation/latest semantics hoặc kiểm soát version."},
+    {"id":"b01-q06","type":"single","question":"Home cho phép một section lỗi nhưng section khác vẫn tải. Chọn hướng nào phù hợp hơn?","options":[{"id":"a","text":"supervisorScope và state riêng cho từng section"},{"id":"b","text":"Một try/catch ngoài cùng và một loading chung"},{"id":"c","text":"Thread.sleep để chờ mọi API"}],"correctOptionIds":["a"],"explanation":"Supervisor semantics hỗ trợ error isolation khi các section độc lập và business cho phép partial success."},
+    {"id":"b01-q07","type":"single","question":"withContext(Dispatchers.IO) biến blocking API thành non-blocking đúng không?","options":[{"id":"a","text":"Đúng"},{"id":"b","text":"Sai, nó chỉ chuyển blocking work sang thread pool phù hợp"}],"correctOptionIds":["b"],"explanation":"Thread trong IO pool vẫn bị block; main thread chỉ không còn là nơi bị block."},
+    {"id":"b01-q08","type":"single","question":"Tại sao upload 50 file không nên khởi chạy toàn bộ cùng lúc?","options":[{"id":"a","text":"Coroutine không hỗ trợ upload"},{"id":"b","text":"Có thể quá tải connection, RAM, pin và backend"},{"id":"c","text":"async chỉ chạy được một task"}],"correctOptionIds":["b"],"explanation":"Cần bounded concurrency, ví dụ Semaphore, để cân bằng throughput và tài nguyên."},
+    {"id":"b01-q09","type":"single","question":"5 request cùng gặp 401 và chỉ được refresh token một lần. Kỹ thuật nào trực tiếp bảo vệ critical section?","options":[{"id":"a","text":"Mutex"},{"id":"b","text":"LazyColumn"},{"id":"c","text":"SharedTransition"}],"correctOptionIds":["a"],"explanation":"Mutex đảm bảo chỉ một coroutine vào đoạn refresh và cập nhật token tại một thời điểm."},
+    {"id":"b01-q10","type":"single","question":"delay và Thread.sleep khác nhau quan trọng nhất ở điểm nào?","options":[{"id":"a","text":"delay suspend coroutine; Thread.sleep block thread"},{"id":"b","text":"delay luôn chính xác hơn"},{"id":"c","text":"Thread.sleep chỉ block khi ở Main"}],"correctOptionIds":["a"],"explanation":"Thread.sleep block bất kỳ thread nào nó chạy trên; delay cho phép thread làm việc khác trong thời gian chờ."}
+  ]
+}
