@@ -1,0 +1,167 @@
+{
+  "id": "b02",
+  "code": "B02",
+  "title": "Coroutine căn bản",
+  "summary": "Hiểu coroutine, suspend, builder, scope, lifecycle, cancellation và cách ra quyết định khi áp dụng trong Android.",
+  "estimatedMinutes": 150,
+  "sections": [
+    {
+      "id": "objectives",
+      "title": "1. Mục tiêu bài học",
+      "blocks": [
+        {"type":"list","items":["Giải thích coroutine là abstraction nhẹ chứ không phải thread.","Phân biệt suspend function, suspension point, coroutine builder, scope, context và Job.","Biết dùng launch, async, withContext, coroutineScope và runBlocking đúng mục đích.","Thiết kế tác vụ Android không block Main và gắn đúng lifecycle.","Phân tích dependency, error policy, cancellation và resource limits trước khi tạo coroutine.","Nhận diện GlobalScope, fire-and-forget, nuốt CancellationException và async không cần thiết."]},
+        {"type":"callout","variant":"purpose","title":"Tại sao bài này quan trọng?","content":"Coroutine làm code bất đồng bộ dễ đọc hơn, nhưng không tự giải quyết lifecycle, race condition, retry, idempotency hay error isolation. Kỹ sư Middle phải hiểu contract phía sau từng coroutine."}
+      ]
+    },
+    {
+      "id": "foundation",
+      "title": "2. Kiến thức nền và thuật ngữ",
+      "blocks": [
+        {"type":"paragraph","content":"Coroutine là một đơn vị công việc có thể suspend rồi resume mà không giữ thread trong thời gian chờ. Dispatcher schedule coroutine lên thread; Job biểu diễn vòng đời; CoroutineScope quản lý các Job con."},
+        {"type":"table","headers":["Thuật ngữ","Định nghĩa"],"rows":[["Coroutine","Đơn vị công việc có thể tạm dừng và tiếp tục."],["Suspend function","Hàm đánh dấu suspend, chỉ gọi từ coroutine hoặc suspend function khác."],["Suspension point","Điểm coroutine có thể tạm dừng như delay hoặc await."],["Coroutine builder","API tạo coroutine như launch, async, runBlocking."],["CoroutineScope","Phạm vi quản lý lifecycle và context."],["CoroutineContext","Tập phần tử như Job, Dispatcher, CoroutineName."],["Job","Handle biểu diễn lifecycle, cancellation và quan hệ cha-con."],["Dispatcher","Quyết định coroutine được schedule ở đâu."]]},
+        {"type":"callout","variant":"warning","title":"Suspend không có nghĩa là background","content":"Suspend function vẫn có thể chạy trên Main. CPU-heavy hoặc blocking code vẫn block thread nếu không chuyển context phù hợp."}
+      ]
+    },
+    {
+      "id": "mechanism",
+      "title": "3. Cơ chế hoạt động bên trong",
+      "blocks": [
+        {"type":"paragraph","content":"Compiler chuyển suspend function thành state machine. Mỗi suspension point là một trạng thái. Khi kết quả chưa sẵn sàng, hàm lưu continuation và trả quyền điều khiển; khi kết quả có, continuation được resume từ trạng thái đã lưu."},
+        {"type":"code","language":"kotlin","label":"Code nguồn","content":"suspend fun loadUser(): User {\n    delay(100)\n    return api.getUser()\n}"},
+        {"type":"code","language":"text","label":"Mô hình khái niệm","content":"state 0 -> delay -> suspend và lưu continuation\nresume -> state 1 -> api.getUser -> suspend nếu cần\nresume -> trả User"},
+        {"type":"paragraph","content":"Continuation không tạo thread mới. Khi coroutine suspend, thread được trả cho dispatcher để chạy việc khác. Khi resume, coroutine có thể tiếp tục trên cùng hoặc thread khác tùy dispatcher."},
+        {"type":"callout","title":"Chi phí","content":"Coroutine nhẹ hơn thread nhưng vẫn có allocation, scheduling và context switch. Không nên tạo coroutine chỉ để bọc mọi hàm nhỏ."}
+      ]
+    },
+    {
+      "id": "purpose",
+      "title": "4. Mục đích, dấu hiệu cần dùng và khi không nên dùng",
+      "blocks": [
+        {"type":"heading","content":"Mục đích"},
+        {"type":"list","items":["Giữ Main thread phản hồi trong lúc chờ network, database, file hoặc timer.","Biểu diễn chuỗi bất đồng bộ bằng control flow dễ đọc.","Gắn lifecycle và cancellation của task vào scope.","Tổ chức quan hệ cha-con để tránh công việc mồ côi.","Chạy các tác vụ độc lập đồng thời khi requirement cho phép."]},
+        {"type":"heading","content":"Dấu hiệu nên dùng"},
+        {"type":"list","items":["Repository có suspend API hoặc Flow.","ViewModel cần tải dữ liệu và tự hủy khi bị clear.","Request cũ cần bị cancel khi query hoặc filter đổi.","Cần orchestration giữa nhiều nguồn dữ liệu.","Tác vụ có thời gian chờ nhưng UI vẫn phải phản hồi."]},
+        {"type":"heading","content":"Khi không nên dùng hoặc không cần tạo coroutine mới"},
+        {"type":"list","items":["Hàm đồng bộ rất nhỏ có thể gọi trực tiếp.","Tạo async rồi await ngay, không có concurrency thực sự.","Công việc phải sống qua process death; WorkManager thường phù hợp hơn.","Dùng coroutine để che giấu blocking API mà không đổi dispatcher.","Tạo scope mới trong repository chỉ để fire-and-forget."]}
+      ]
+    },
+    {
+      "id": "builders",
+      "title": "5. Coroutine builder căn bản",
+      "blocks": [
+        {"type":"table","headers":["API","Trả về","Dùng khi"],"rows":[["launch","Job","Công việc không trả giá trị trực tiếp."],["async","Deferred<T>","Cần một giá trị để await, thường cho task độc lập."],["withContext","T","Chuyển context và chờ kết quả."],["coroutineScope","T","Tạo scope con, chờ toàn bộ child, fail-fast."],["runBlocking","T","Bridge blocking cho test/CLI; tránh trong Android UI."]]},
+        {"type":"code","language":"kotlin","label":"launch trong ViewModel","content":"fun loadProfile() {\n    viewModelScope.launch {\n        _uiState.update { it.copy(isLoading = true) }\n        try {\n            val profile = repository.getProfile()\n            _uiState.update { it.copy(isLoading = false, profile = profile) }\n        } catch (cancelled: CancellationException) {\n            throw cancelled\n        } catch (error: Throwable) {\n            _uiState.update { it.copy(isLoading = false, error = error) }\n        }\n    }\n}"},
+        {"type":"code","language":"kotlin","label":"withContext tại blocking boundary","content":"suspend fun readDraft(file: File): String =\n    withContext(Dispatchers.IO) { file.readText() }"},
+        {"type":"callout","variant":"warning","title":"runCatching và cancellation","content":"Nếu dùng runCatching quanh suspend call, phải bảo đảm CancellationException không bị biến thành lỗi nghiệp vụ."}
+      ]
+    },
+    {
+      "id": "suspend-design",
+      "title": "6. Thiết kế suspend function",
+      "blocks": [
+        {"type":"paragraph","content":"Suspend function cần contract rõ về dispatcher ownership, cancellation, error và side effect. Caller cần biết hàm có main-safe, idempotent và cancellable hay không."},
+        {"type":"code","language":"kotlin","label":"Main-safe repository boundary","content":"class DraftRepository(\n    private val dao: DraftDao,\n    private val io: CoroutineDispatcher\n) {\n    suspend fun save(draft: Draft) = withContext(io) {\n        dao.upsert(draft)\n    }\n}"},
+        {"type":"list","items":["Repository chịu trách nhiệm chuyển dispatcher cho blocking work mà nó sở hữu.","Inject dispatcher khi logic cần test deterministically.","Không tạo scope mồ côi bên trong suspend function.","Propagate cancellation trừ khi business bắt buộc hoàn tất.","Atomicity cần transaction hoặc synchronization, không chỉ coroutine."]},
+        {"type":"callout","title":"Khi không chuyển dispatcher","content":"Retrofit suspend API thường đã chạy bất đồng bộ qua OkHttp; bọc Dispatchers.IO chỉ để chờ network thường không cần thiết. Blocking parser hoặc file I/O vẫn là chuyện khác."}
+      ]
+    },
+    {
+      "id": "requirement",
+      "title": "7. Yêu cầu sản phẩm cụ thể và phân tích",
+      "blocks": [
+        {"type":"callout","variant":"requirement","title":"Yêu cầu — Job Detail","content":"Mở Job Detail phải hiển thị loading ngay, cho phép back tức thời, không để response cũ ghi đè job mới và có retry. Khi rời màn hình, request không còn giá trị phải bị hủy."},
+        {"type":"heading","content":"Phân tích dependency, error, lifecycle và resource limits"},
+        {"type":"list","items":["Dependency: company detail chỉ chạy sau khi có companyId nếu route chưa cung cấp.","Lifecycle: scope thuộc ViewModel hoặc navigation entry, không dùng GlobalScope.","Error policy: lỗi job là lỗi toàn màn hình; retry tạo Job mới.","Cancellation: request cũ bị hủy khi jobId đổi hoặc ViewModel clear.","Resource limit: chỉ một load chính cho cùng màn hình.","State: loading, content và error phải gắn đúng jobId."]},
+        {"type":"code","language":"kotlin","content":"private var loadJob: Job? = null\n\nfun load(jobId: String) {\n    loadJob?.cancel()\n    loadJob = viewModelScope.launch {\n        _uiState.value = JobUiState.Loading(jobId)\n        try {\n            val job = repository.getJob(jobId)\n            ensureActive()\n            _uiState.value = JobUiState.Content(job)\n        } catch (cancelled: CancellationException) {\n            throw cancelled\n        } catch (error: Throwable) {\n            _uiState.value = JobUiState.Error(jobId, error)\n        }\n    }\n}"},
+        {"type":"callout","title":"Trade-off","content":"Job handle rõ ràng cho single-request screen. Với input liên tục, Flow và flatMapLatest thường mô tả latest semantics tốt hơn."}
+      ]
+    },
+    {
+      "id": "upzi",
+      "title": "8. Case study Upzi",
+      "blocks": [
+        {"type":"callout","variant":"confirmed","title":"Confirmed — nền tảng","content":"Upzi sử dụng Kotlin Coroutine/Flow, ViewModel và Jetpack Compose; search, chat và SSE đều cần quản lý tác vụ bất đồng bộ theo lifecycle."},
+        {"type":"callout","variant":"inferred","title":"Inferred — Search lifecycle","content":"Từ yêu cầu search/filter có thể suy luận request cũ phải bị cancel hoặc ignored khi query mới xuất hiện để tránh stale result. Operator thực tế cần kiểm tra code trước khi tuyên bố trong phỏng vấn."},
+        {"type":"code","language":"kotlin","label":"Proposed — latest search semantics","content":"searchCriteria\n    .debounce(300)\n    .distinctUntilChanged()\n    .flatMapLatest(repository::search)\n    .onEach { _uiState.value = SearchUiState.Content(it) }\n    .catch { _uiState.value = SearchUiState.Error(it) }\n    .launchIn(viewModelScope)"},
+        {"type":"callout","variant":"proposed","title":"Proposed — Home partial success","content":"Nếu Profile, Recommendations và Unread Count độc lập, mỗi section nên có state riêng và supervisor semantics. Nếu cần snapshot nhất quán, dùng fail-fast hoặc backend aggregate."},
+        {"type":"callout","variant":"needs-confirmation","title":"Needs confirmation","content":"Cần xác nhận implementation Upzi đang dùng flatMapLatest, supervisorScope hay Job handle trước khi kể như kinh nghiệm đã triển khai."}
+      ]
+    },
+    {
+      "id": "alternatives",
+      "title": "9. Phương án thay thế và trade-off",
+      "blocks": [
+        {"type":"table","headers":["Phương án","Ưu điểm","Nhược điểm / khi tránh"],"rows":[["Callback","Tương thích SDK cũ","Dễ callback hell, khó cancellation và error propagation."],["RxJava","Operator mạnh","Learning curve và dependency lớn nếu dự án đã chuẩn hóa Coroutine/Flow."],["Executor/Future","Kiểm soát thread pool trực tiếp","Boilerplate và lifecycle thủ công."],["WorkManager","Bền vững qua process death, có retry/constraint","Không phù hợp UI request tức thời."],["Coroutine","Control flow dễ đọc, structured concurrency","Dễ lạm dụng scope, dispatcher và async."]]},
+        {"type":"paragraph","content":"UI-bound work phù hợp với coroutine gắn ViewModel/lifecycle. Upload bắt buộc hoàn thành sau khi app bị kill phù hợp WorkManager. SDK callback có thể giữ callback public API và dùng coroutine nội bộ hoặc adapter."}
+      ]
+    },
+    {
+      "id": "edge-cases",
+      "title": "10. Edge cases và sai lầm thường gặp",
+      "blocks": [
+        {"type":"list","items":["catch Throwable nuốt CancellationException.","GlobalScope tiếp tục chạy sau logout hoặc rời màn hình.","launch trong repository tạo side effect caller không chờ.","async không await làm exception khó quan sát.","Nhiều coroutine cập nhật mutable state gây lost update.","Blocking SDK chạy trên Main dù hàm có suspend.","Tạo hàng nghìn async không giới hạn làm cạn RAM, connection hoặc rate limit.","Retry non-idempotent gửi trùng application hoặc message.","Timeout bị đánh đồng với mọi loại cancellation.","Job cũ ghi đè state của request mới."]},
+        {"type":"code","language":"kotlin","label":"Sai — nuốt cancellation","content":"try { repository.load() }\ncatch (error: Throwable) { emit(Fallback) }"},
+        {"type":"code","language":"kotlin","label":"Đúng hơn","content":"try { repository.load() }\ncatch (cancelled: CancellationException) { throw cancelled }\ncatch (error: Throwable) { emit(Fallback) }"}
+      ]
+    },
+    {
+      "id": "interview",
+      "title": "11. Câu hỏi phỏng vấn và câu xoáy",
+      "blocks": [
+        {"type":"heading","content":"Coroutine khác Thread thế nào?"},
+        {"type":"callout","title":"Trả lời","content":"Thread là tài nguyên thực thi của OS. Coroutine là abstraction nhẹ được schedule trên thread và có thể suspend mà không giữ thread."},
+        {"type":"heading","content":"Suspend có tự chạy background không?"},
+        {"type":"callout","title":"Trả lời","content":"Không. Dispatcher quyết định nơi chạy; blocking hoặc CPU-heavy code vẫn có thể block Main."},
+        {"type":"heading","content":"launch và async khác gì?"},
+        {"type":"callout","title":"Trả lời","content":"launch trả Job; async trả Deferred để await value. Không dùng async chỉ để thay launch."},
+        {"type":"heading","content":"Tại sao GlobalScope nguy hiểm?"},
+        {"type":"callout","title":"Trả lời","content":"Nó không gắn lifecycle caller nên dễ tạo công việc mồ côi và side effect sau logout."},
+        {"type":"heading","content":"Câu bẫy — suspend có luôn non-blocking không?"},
+        {"type":"callout","title":"Trả lời","content":"Không. Suspend function có thể chứa Thread.sleep, blocking I/O hoặc CPU loop."},
+        {"type":"heading","content":"Câu bẫy — async rồi await ngay có nhanh hơn không?"},
+        {"type":"callout","title":"Trả lời","content":"Không. Await ngay làm flow vẫn tuần tự và còn thêm overhead."},
+        {"type":"heading","content":"Mẫu trả lời gắn kinh nghiệm"},
+        {"type":"callout","variant":"purpose","title":"Mẫu trả lời","content":"Ở Upzi, em dùng coroutine trong ViewModel/repository để giữ UI không block và gắn request với lifecycle. Với search, em ưu tiên latest semantics. Với nhiều section độc lập, em phân tích partial success trước khi chọn supervisor semantics. Em tách cancellation khỏi lỗi nghiệp vụ và không dùng GlobalScope cho tác vụ màn hình."}
+      ]
+    },
+    {
+      "id": "exercises",
+      "title": "12. Bài tập thực hành và tình huống",
+      "blocks": [
+        {"type":"heading","content":"Bài tập 1 — Main-safe boundary"},
+        {"type":"paragraph","content":"Viết FileDraftRepository có load/save, inject dispatcher và bảo đảm caller có thể gọi từ Main."},
+        {"type":"heading","content":"Bài tập 2 — Latest request"},
+        {"type":"paragraph","content":"Thiết kế ViewModel nhận jobId thay đổi liên tục. Request cũ bị hủy, loading/error gắn đúng jobId và cancellation không thành error."},
+        {"type":"heading","content":"Bài tập 3 — Phân tích async"},
+        {"type":"code","language":"kotlin","content":"val user = async { api.user() }.await()\nval jobs = async { api.jobs(user.id) }.await()"},
+        {"type":"callout","title":"Yêu cầu","content":"Giải thích vì sao không có concurrency và viết lại code thể hiện rõ dependency."},
+        {"type":"heading","content":"Bài tập tình huống — Upload CV"},
+        {"type":"paragraph","content":"User chọn 20 file, backend giới hạn 3 request đồng thời, thao tác cần sống qua process kill. Quyết định phần dùng coroutine, WorkManager, retry và idempotency."}
+      ]
+    },
+    {
+      "id": "checklist",
+      "title": "13. Checklist và tóm tắt",
+      "blocks": [
+        {"type":"heading","content":"Checklist tự đánh giá"},
+        {"type":"list","items":["Tôi giải thích được coroutine không phải thread.","Tôi biết suspend không tự chuyển background.","Tôi phân biệt launch, async, withContext và coroutineScope.","Tôi chọn scope theo lifecycle.","Tôi không nuốt CancellationException.","Tôi xác định dependency trước concurrency.","Tôi biết khi nào giới hạn concurrency.","Tôi phân biệt UI work và durable work.","Tôi mô tả dispatcher ownership.","Tôi kể case Upzi với nhãn trung thực."]},
+        {"type":"heading","content":"Tóm tắt cần nhớ"},
+        {"type":"list","items":["Coroutine là abstraction được schedule trên thread.","Suspend không đảm bảo background hay non-blocking.","Scope, Job và context tạo lifecycle contract.","launch dành cho Job; async dành cho Deferred value.","Structured concurrency giữ child trong lifetime của parent.","Quyết định dựa trên dependency, error, cancellation và resource limits."]}
+      ]
+    }
+  ],
+  "quiz": [
+    {"id":"b02-q01","question":"Coroutine có phải thread không?","options":["Có","Không","Chỉ trên Android","Chỉ khi dùng IO"],"answerIndex":1,"explanation":"Coroutine là abstraction được schedule trên thread."},
+    {"id":"b02-q02","question":"Suspend đảm bảo điều gì?","options":["Chạy background","Không block","Có thể tạm dừng tại suspension point","Tạo thread mới"],"answerIndex":2,"explanation":"Suspend chỉ cho phép tham gia cơ chế tạm dừng/tiếp tục."},
+    {"id":"b02-q03","question":"API nào trả Deferred<T>?","options":["launch","async","withContext","coroutineScope"],"answerIndex":1,"explanation":"async trả Deferred để await value."},
+    {"id":"b02-q04","question":"Blocking file I/O nên dùng gì?","options":["Main","IO","GlobalScope","runBlocking UI"],"answerIndex":1,"explanation":"Blocking I/O nên chuyển sang IO dispatcher."},
+    {"id":"b02-q05","question":"Vì sao GlobalScope không hợp request màn hình?","options":["Chậm","Không có lifecycle parent phù hợp","Không gọi API được","Không có exception"],"answerIndex":1,"explanation":"Task có thể sống lâu hơn màn hình."},
+    {"id":"b02-q06","question":"Catch Throwable cần làm gì với CancellationException?","options":["Bỏ qua","Đổi thành UI error","Rethrow","Retry vô hạn"],"answerIndex":2,"explanation":"Cancellation phải được propagate."},
+    {"id":"b02-q07","question":"async rồi await ngay có concurrency không?","options":["Có","Không","Chỉ trên Default","Chỉ khi API nhanh"],"answerIndex":1,"explanation":"Await ngay làm control flow tuần tự."},
+    {"id":"b02-q08","question":"Work sống qua process death nên ưu tiên gì?","options":["viewModelScope","GlobalScope","WorkManager","lifecycleScope"],"answerIndex":2,"explanation":"WorkManager hỗ trợ persistence, retry và constraints."},
+    {"id":"b02-q09","question":"Coroutine luôn resume cùng thread?","options":["Luôn","Không nhất thiết","Chỉ Main","Chỉ IO"],"answerIndex":1,"explanation":"Dispatcher quyết định scheduling."},
+    {"id":"b02-q10","question":"Trước khi chạy hai API đồng thời cần xác định gì?","options":["Tên biến","Dependency và error policy","Màu UI","Số dòng"],"answerIndex":1,"explanation":"Dependency, cancellation, error và limits quyết định orchestration."},
+    {"id":"b02-q11","question":"runBlocking phù hợp nhất ở đâu?","options":["Compose onClick","Test hoặc CLI bridge","RecyclerView bind","MainActivity"],"answerIndex":1,"explanation":"runBlocking chặn thread caller."},
+    {"id":"b02-q12","question":"Suspend function chứa Thread.sleep trên Main sẽ thế nào?","options":["Tự sang IO","Block Main","Tự cancel","Không chạy"],"answerIndex":1,"explanation":"Suspend không biến blocking call thành non-blocking."}
+  ]
+}

@@ -5,5 +5,12 @@
     "title": "Process, Thread, Concurrency, Parallelism, Blocking và Non-blocking",
     "keywords": ["process","thread","concurrency","parallelism","blocking","non-blocking","coroutine","dispatcher","race condition","mutex","semaphore","upzi search","socket.io","sse"],
     "headings": ["Process, Thread, Stack và Heap","Main Thread, Frame và ANR","Coroutine có phải Thread không?","Khi nào cần Concurrency?","Upzi Home tải nhiều section","Search và stale result","Chat và SSE"]
+  },
+  {
+    "lessonId": "b02",
+    "code": "B02",
+    "title": "Coroutine căn bản",
+    "keywords": ["coroutine","suspend","continuation","launch","async","withContext","CoroutineScope","CoroutineContext","Job","dispatcher","cancellation","GlobalScope","WorkManager","Upzi search"],
+    "headings": ["Kiến thức nền và thuật ngữ","Cơ chế hoạt động bên trong","Coroutine builder căn bản","Thiết kế suspend function","Yêu cầu sản phẩm cụ thể và phân tích","Case study Upzi","Edge cases và sai lầm thường gặp","Câu hỏi phỏng vấn và câu xoáy"]
   }
 ]
