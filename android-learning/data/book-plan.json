@@ -1,7 +1,7 @@
 {
-  "strategy": "Generate exactly one planned lesson per run, following catalog order.",
-  "current": "b02",
-  "completed": ["b01"],
+  "strategy": "Generate the largest safe sequential batch per run without sacrificing B01-level depth; never skip catalog order.",
+  "current": "b03",
+  "completed": ["b01", "b02"],
   "qualityGate": {
     "minimumQuizQuestions": 10,
     "requiresProductRequirement": true,
@@ -15,12 +15,13 @@
   },
   "workflow": [
     "Read CONTENT_RULES.md.",
-    "Read catalog.json and choose the first planned lesson in order.",
+    "Read catalog.json and choose the first planned lesson in recommended order.",
     "Read already published related lessons to avoid contradiction and duplication.",
-    "Generate the complete lesson JSON.",
+    "Generate complete lesson JSON with B01-level depth.",
     "Update catalog status to published.",
-    "Update search-index.json.",
-    "Update this file: move lesson to completed and set current to the next planned lesson.",
-    "Open or update a pull request with a content summary and quality checklist."
+    "Update search-index.json and glossary when needed.",
+    "Update this file: add completed lessons and set current to the next planned lesson.",
+    "Validate JSON, paths, section IDs, quiz answers and explanations.",
+    "Open a pull request and merge only when all quality gates pass."
   ]
 }
