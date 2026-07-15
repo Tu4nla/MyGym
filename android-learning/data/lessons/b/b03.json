@@ -1,0 +1,162 @@
+{
+  "id": "b03",
+  "code": "B03",
+  "title": "CoroutineScope và Structured Concurrency",
+  "summary": "Hiểu CoroutineScope, quan hệ Job cha-con, structured concurrency, lifetime ownership, cancellation propagation và cách thiết kế tác vụ Android có điểm bắt đầu, điểm kết thúc và chính sách lỗi rõ ràng.",
+  "estimatedMinutes": 180,
+  "sections": [
+    {
+      "id": "objectives",
+      "title": "1. Mục tiêu bài học",
+      "blocks": [
+        {"type":"list","items":["Giải thích CoroutineScope là chủ sở hữu vòng đời của coroutine chứ không chỉ là nơi gọi launch.","Mô tả quan hệ cha-con giữa Job và cách cancellation, completion, exception lan truyền.","Phân biệt structured concurrency với fire-and-forget và unstructured concurrency.","Chọn đúng scope cho UI, ViewModel, repository, application, service và tác vụ bền vững.","Thiết kế một suspend API không tạo công việc mồ côi và không che giấu lifetime khỏi caller.","Phân tích dependency, error policy, lifecycle, concurrency limit và resource ownership trước khi launch.","Trả lời câu hỏi phỏng vấn về scope, Job hierarchy, supervisor semantics và cancellation propagation."]},
+        {"type":"callout","variant":"purpose","title":"Năng lực Middle cần đạt","content":"Không chỉ biết dùng viewModelScope.launch, bạn phải chứng minh task thuộc về ai, dừng khi nào, lỗi ảnh hưởng tới phần nào và ai chịu trách nhiệm chờ kết quả."}
+      ]
+    },
+    {
+      "id": "foundation",
+      "title": "2. Kiến thức nền và thuật ngữ",
+      "blocks": [
+        {"type":"paragraph","content":"CoroutineScope là một interface cung cấp CoroutineContext. Khi gọi launch hoặc async trên scope, coroutine mới kế thừa context đó và thường trở thành child của Job trong context. Structured concurrency yêu cầu công việc đồng thời được tổ chức thành cây có ownership rõ: parent không hoàn tất trước children, cancellation đi từ parent xuống children, và failure được xử lý theo policy đã chọn."},
+        {"type":"table","headers":["Thuật ngữ","Định nghĩa","Ý nghĩa thiết kế"],"rows":[["CoroutineScope","Chủ thể có CoroutineContext dùng để tạo coroutine","Định nghĩa lifetime và policy mặc định"],["Job","Handle biểu diễn lifecycle của coroutine","Cho phép join, cancel, quan sát completion"],["Parent Job","Job chứa các child Job","Không complete cho tới khi child kết thúc"],["Child Job","Job được tạo trong context có parent","Bị cancel khi parent bị cancel"],["Structured concurrency","Tổ chức concurrency trong lexical/lifecycle scope","Không để task sống ngoài ownership dự kiến"],["Orphan coroutine","Coroutine không còn owner hợp lệ","Dễ leak, stale update, khó debug"],["Cancellation propagation","Cơ chế truyền cancel qua cây Job","Giải phóng network, timer, file và state update"],["Failure propagation","Cơ chế exception ảnh hưởng parent/sibling","Quyết định fail-fast hay partial success"],["SupervisorJob","Job không cancel sibling khi một child fail","Phù hợp tác vụ độc lập có error state riêng"],["join","Chờ Job hoàn tất nhưng không lấy giá trị","Dùng khi cần sequencing với launch"],["await","Chờ Deferred và nhận giá trị hoặc exception","Dùng với async"],["lifetime owner","Thành phần chịu trách nhiệm bắt đầu và kết thúc task","Ví dụ ViewModel, Service, Process hoặc request scope"]]},
+        {"type":"callout","variant":"warning","title":"Scope không phải dispatcher","content":"CoroutineScope không mặc định đồng nghĩa background thread. Scope có thể dùng Main dispatcher. Scope trả lời task sống bao lâu; dispatcher trả lời task được schedule ở đâu."}
+      ]
+    },
+    {
+      "id": "mechanism",
+      "title": "3. Cơ chế Job hierarchy và structured concurrency",
+      "blocks": [
+        {"type":"code","language":"kotlin","label":"Một cây Job đơn giản","content":"val parent = scope.launch {\n    launch { loadProfile() }\n    launch { loadRecommendations() }\n}\n\nparent.join() // chỉ hoàn tất khi cả hai child kết thúc"},
+        {"type":"paragraph","content":"Mỗi launch bên trong parent nhận Job của parent làm cha. Parent chuyển sang trạng thái completing khi body xong nhưng vẫn chờ children. Nếu parent bị cancel, tất cả children đang active nhận cancellation. Nếu child ném exception không được xử lý trong cây Job thường, parent bị cancel và sibling cũng bị cancel."},
+        {"type":"table","headers":["Sự kiện","Job thường","Supervisor semantics"],"rows":[["Parent bị cancel","Tất cả child bị cancel","Tất cả child bị cancel"],["Một child fail","Parent fail, sibling bị cancel","Sibling tiếp tục; parent/scope xử lý lỗi theo boundary"],["Child hoàn tất bình thường","Parent tiếp tục chờ child khác","Tương tự"],["Body parent xong nhưng child còn chạy","Parent chưa complete","Tương tự"]]},
+        {"type":"code","language":"text","label":"State khái niệm","content":"New -> Active -> Completing -> Completed\n                 \\-> Cancelling -> Cancelled\n\nParent ở Completing vẫn chờ toàn bộ child terminal."},
+        {"type":"callout","title":"Điểm cốt lõi","content":"Structured concurrency biến lifetime thành cấu trúc có thể nhìn thấy trong code: khi block suspend trả về, các child của block đã hoàn tất hoặc đã bị hủy và dọn dẹp."}
+      ]
+    },
+    {
+      "id": "purpose-use",
+      "title": "4. Mục đích, dấu hiệu cần dùng và khi không nên tạo scope mới",
+      "blocks": [
+        {"type":"heading","content":"Mục đích"},
+        {"type":"list","items":["Ràng buộc lifetime của task với owner thực tế.","Cho caller biết khi nào toàn bộ công việc đã hoàn tất.","Lan truyền cancellation tự nhiên khi người dùng rời màn hình hoặc request không còn giá trị.","Tập trung error policy ở boundary thay vì catch rải rác.","Tránh stale state update từ request cũ.","Giúp test deterministic bằng cách chờ scope hoặc suspend function kết thúc."]},
+        {"type":"heading","content":"Dấu hiệu nên dùng structured concurrency"},
+        {"type":"list","items":["Một use case cần chạy nhiều dependency rồi trả một kết quả tổng.","Task chỉ có ý nghĩa trong lifecycle của ViewModel, screen, request hoặc Service.","Caller cần cancel toàn bộ subtree khi input thay đổi.","Bạn cần bảo đảm không còn task chạy sau khi hàm suspend trả về.","Một feature có nhiều section và cần định nghĩa fail-fast hay partial success."]},
+        {"type":"heading","content":"Khi không nên tự tạo CoroutineScope"},
+        {"type":"list","items":["Bên trong một suspend function chỉ để gọi launch rồi trả về ngay.","Trong repository để che giấu side effect mà caller không thể chờ hoặc cancel.","Mỗi lần gọi hàm lại tạo CoroutineScope(SupervisorJob() + Dispatchers.IO) mà không giữ handle để close.","Dùng GlobalScope cho request UI, analytics bắt buộc hoặc upload quan trọng.","Công việc phải sống qua process death; scope trong process không đủ, cần WorkManager hoặc hệ thống bền vững khác."]}
+      ]
+    },
+    {
+      "id": "scope-selection",
+      "title": "5. Chọn scope theo lifetime owner",
+      "blocks": [
+        {"type":"table","headers":["Scope / owner","Lifetime","Phù hợp","Không phù hợp"],"rows":[["viewModelScope","Cho tới ViewModel.clear","Load UI state, search, detail, refresh","Upload bắt buộc tiếp tục sau process death"],["lifecycleScope","Theo LifecycleOwner","Collect UI, tác vụ gắn Activity/Fragment","Business task cần sống qua recreation"],["repeatOnLifecycle","Collect khi lifecycle đạt state và tự cancel/relaunch","Flow UI visibility-aware","One-shot business mutation không nên bị lặp ngoài ý muốn"],["Application scope","Theo process","Connection manager, cache refresh có owner process rõ","Công việc bền vững qua process death"],["Service scope","Theo Service","Playback, foreground operation","Task không có Service lifecycle hợp lệ"],["Request/local scope","Trong suspend function qua coroutineScope","Fan-out/fan-in có kết quả","Fire-and-forget"],["WorkManager","Bền vững và có thể retry sau restart","Sync/upload bắt buộc","UI request tức thời"]]},
+        {"type":"code","language":"kotlin","label":"ApplicationScope có ownership rõ","content":"@Singleton\nclass ApplicationScope @Inject constructor(\n    @ApplicationDispatcher dispatcher: CoroutineDispatcher\n) : Closeable {\n    private val job = SupervisorJob()\n    val scope = CoroutineScope(job + dispatcher + CoroutineName(\"AppScope\"))\n\n    override fun close() { job.cancel() }\n}"},
+        {"type":"callout","variant":"warning","title":"Application scope không phải phép màu","content":"Nó chỉ sống theo process. Android có thể kill process bất kỳ lúc nào; dữ liệu quan trọng phải được persist và công việc bắt buộc cần cơ chế reschedule."}
+      ]
+    },
+    {
+      "id": "suspend-api",
+      "title": "6. Thiết kế suspend API có cấu trúc",
+      "blocks": [
+        {"type":"paragraph","content":"Suspend function nên hoàn tất toàn bộ công việc thuộc contract trước khi trả về. Nếu cần concurrency, dùng coroutineScope hoặc supervisorScope bên trong. Không tạo scope độc lập trừ khi API cố ý trả handle/lifecycle object cho caller."},
+        {"type":"code","language":"kotlin","label":"Đúng: caller chờ được toàn bộ công việc","content":"suspend fun loadJobScreen(jobId: String): JobScreen = coroutineScope {\n    val job = async { jobRepository.getJob(jobId) }\n    val saved = async { savedRepository.isSaved(jobId) }\n    JobScreen(job.await(), saved.await())\n}"},
+        {"type":"code","language":"kotlin","label":"Sai: tạo orphan work trong repository","content":"suspend fun saveProfile(profile: Profile) {\n    CoroutineScope(Dispatchers.IO).launch {\n        api.save(profile)\n    }\n    // Hàm trả về dù save chưa xong; caller không cancel/chờ/biết lỗi.\n}"},
+        {"type":"code","language":"kotlin","label":"Nếu thật sự cần long-lived task, trả handle hoặc dùng owner đã inject","content":"class SyncCoordinator(\n    private val appScope: CoroutineScope,\n    private val repository: SyncRepository\n) {\n    fun start(): Job = appScope.launch { repository.syncUntilCancelled() }\n}"},
+        {"type":"list","items":["Contract phải nói rõ hàm main-safe hay không.","CancellationException phải được propagate.","Không chuyển mọi lỗi thành null vì mất khả năng phân biệt cancel, network và dữ liệu rỗng.","Nếu retry mutation, phải phân tích idempotency.","Nếu fan-out lớn, phải giới hạn concurrency thay vì async không giới hạn."]}
+      ]
+    },
+    {
+      "id": "requirement",
+      "title": "7. Yêu cầu sản phẩm cụ thể và phân tích kỹ thuật",
+      "blocks": [
+        {"type":"callout","variant":"requirement","title":"Yêu cầu — Home Upzi","content":"Khi mở Home, Profile header, Recommended Jobs và Unread Chat Count tải đồng thời. Profile là bắt buộc để cá nhân hóa; recommendation và unread count có thể lỗi độc lập. Khi logout hoặc rời account, mọi request và stream thuộc user cũ phải dừng. Không được để dữ liệu user cũ ghi vào session mới."},
+        {"type":"heading","content":"Dependency graph"},
+        {"type":"list","items":["Profile phải thành công trước khi tạo recommendation criteria nếu backend không tự suy luận user.","Unread count độc lập với recommendation.","Auth session là parent lifetime của toàn bộ task user-bound.","Logout phải cancel session scope trước khi xóa token và state."]},
+        {"type":"heading","content":"Error policy"},
+        {"type":"list","items":["Profile lỗi: hiển thị lỗi chính hoặc fallback theo product decision.","Recommendation lỗi: section có retry riêng, không làm mất header.","Unread lỗi: ẩn badge hoặc hiển thị state không xác định; không mặc định 0 nếu điều đó gây hiểu nhầm.","Cancellation do logout không được log như production failure."]},
+        {"type":"heading","content":"Lifecycle và resource limits"},
+        {"type":"list","items":["Một Home ViewModel chỉ có một load generation active.","Refresh hủy generation cũ hoặc serialize theo requirement.","Socket/SSE phải gắn session scope và đóng connection khi session cancel.","Giới hạn request song song để không chiếm connection pool và rate limit.","State update cần mang generationId hoặc sessionId nếu boundary cancellation không đủ bảo vệ."]},
+        {"type":"code","language":"kotlin","label":"Partial success có cấu trúc","content":"suspend fun loadHome(userId: String): HomeResult = supervisorScope {\n    val profile = async { profileRepository.get(userId) }\n    val recommendations = async { runCatchingCancellable { jobRepository.recommended(userId) } }\n    val unread = async { runCatchingCancellable { chatRepository.unreadCount(userId) } }\n\n    HomeResult(\n        profile = profile.await(),\n        recommendations = recommendations.await(),\n        unread = unread.await()\n    )\n}\n\nsuspend inline fun <T> runCatchingCancellable(\n    crossinline block: suspend () -> T\n): Result<T> = try {\n    Result.success(block())\n} catch (cancelled: CancellationException) {\n    throw cancelled\n} catch (error: Throwable) {\n    Result.failure(error)\n}"}
+      ]
+    },
+    {
+      "id": "upzi",
+      "title": "8. Case study Upzi và tính trung thực kinh nghiệm",
+      "blocks": [
+        {"type":"callout","variant":"confirmed","title":"Confirmed — kiến trúc nền","content":"Upzi dùng Kotlin Coroutine/Flow, ViewModel và Jetpack Compose. Các luồng search, chat, Socket.IO/SSE và deep link đều tạo ra công việc cần gắn với lifecycle hoặc session rõ ràng."},
+        {"type":"callout","variant":"inferred","title":"Inferred — user session ownership","content":"Từ việc ứng dụng có chat, SSE và auth token, có thể suy luận các connection và stream user-bound cần bị hủy khi logout hoặc token/session thay đổi. Cần kiểm tra implementation thực tế trước khi khẳng định đang có SessionScope riêng."},
+        {"type":"callout","variant":"proposed","title":"Proposed — SessionScope","content":"Tạo một SessionScope có SupervisorJob, bị cancel và thay mới khi login/logout. Chat connection, unread stream và recommendation streaming dùng scope này; UI chỉ collect state từ coordinator."},
+        {"type":"code","language":"kotlin","label":"Proposed SessionScope","content":"class SessionScopeFactory(\n    private val dispatcher: CoroutineDispatcher\n) {\n    fun create(userId: String): SessionScope {\n        val job = SupervisorJob()\n        return SessionScope(\n            userId = userId,\n            scope = CoroutineScope(job + dispatcher + CoroutineName(\"Session-$userId\")),\n            cancel = { job.cancel() }\n        )\n    }\n}\n\ndata class SessionScope(\n    val userId: String,\n    val scope: CoroutineScope,\n    val cancel: () -> Unit\n)"},
+        {"type":"callout","variant":"needs-confirmation","title":"Needs confirmation","content":"Cần xác nhận Upzi hiện dùng viewModelScope trực tiếp, application scope, service scope hay coordinator riêng cho Socket.IO/SSE; không kể proposed SessionScope như thứ đã triển khai."}
+      ]
+    },
+    {
+      "id": "alternatives",
+      "title": "9. Phương án thay thế và trade-off",
+      "blocks": [
+        {"type":"table","headers":["Phương án","Ưu điểm","Trade-off / rủi ro"],"rows":[["Structured coroutineScope","Ownership và cancellation rõ, code tuần tự dễ đọc","Một child fail có thể cancel sibling nếu không đúng policy"],["supervisorScope","Hỗ trợ partial success","Phải thu và hiển thị lỗi từng child; dễ vô tình bỏ qua lỗi"],["GlobalScope","Nhanh để viết prototype","Không lifecycle, khó test, leak/stale update"],["Custom application scope","Phù hợp process-wide coordinator","Phải close, inject, quan sát lỗi; không bền qua process death"],["WorkManager","Bền vững, constraint và retry","Không dùng cho tương tác UI tức thời"],["RxJava CompositeDisposable","Lifecycle management tốt trong hệ Rx","Thêm paradigm và dependency nếu dự án chuẩn Coroutine"],["Callback owner object","Tương thích SDK cũ","Cancellation/error propagation thủ công"]]},
+        {"type":"paragraph","content":"Lựa chọn không chỉ theo API quen thuộc. Hãy bắt đầu từ requirement: task cần sống đến khi screen đóng, session kết thúc, process chết hay server xác nhận? Lifetime đó quyết định scope và persistence mechanism."}
+      ]
+    },
+    {
+      "id": "edge-cases",
+      "title": "10. Edge cases và sai lầm thường gặp",
+      "blocks": [
+        {"type":"list","items":["Tạo CoroutineScope mới trong mỗi repository call rồi mất reference.","Dùng SupervisorJob ở mọi nơi khiến lỗi quan trọng không fail-fast.","Catch Throwable và nuốt CancellationException.","ViewModel bị clear nhưng callback từ SDK không hỗ trợ cancel vẫn update state.","Child chạy finally với blocking cleanup trên Main làm trì hoãn cancellation.","Dùng NonCancellable cho toàn bộ network request thay vì chỉ cleanup rất ngắn.","Logout xóa token trước khi cancel connection khiến request retry với trạng thái nửa cũ nửa mới.","Hai refresh cùng active và response cũ ghi đè response mới.","Parent launch không join child được tạo ở một scope khác.","Application scope giữ reference Activity/Composable gây memory leak.","async tạo trước khi biết dependency có cần, gây request thừa.","Một child fail do bug lập trình nhưng bị chuyển thành Result.failure và UI chỉ hiện empty state.","Cancellation cooperative: CPU loop không có suspension point hoặc ensureActive vẫn chạy tới hết.","Timeout cancel subtree nhưng underlying blocking API không phản ứng cancel.","repeatOnLifecycle relaunch collector và vô tình kích hoạt mutation nhiều lần."]},
+        {"type":"code","language":"kotlin","label":"CPU loop phải cooperative","content":"suspend fun index(items: List<Item>): Index = withContext(Dispatchers.Default) {\n    val builder = IndexBuilder()\n    items.forEachIndexed { index, item ->\n        if (index % 100 == 0) ensureActive()\n        builder.add(item)\n    }\n    builder.build()\n}"}
+      ]
+    },
+    {
+      "id": "interview",
+      "title": "11. Câu hỏi phỏng vấn, câu xoáy và mẫu trả lời",
+      "blocks": [
+        {"type":"heading","content":"Câu hỏi cơ bản"},
+        {"type":"list","items":["CoroutineScope là gì?","Structured concurrency giải quyết vấn đề gì?","Parent Job chờ child như thế nào?","Khi parent bị cancel thì child ra sao?","Khác nhau giữa Job và SupervisorJob?","viewModelScope phù hợp loại task nào?","Tại sao không nên tạo scope trong suspend function?","coroutineScope khác việc gọi CoroutineScope(...) như thế nào?"]},
+        {"type":"heading","content":"Câu hỏi xoáy"},
+        {"type":"list","items":["Nếu một child trong coroutineScope fail, sibling và caller nhận gì?","SupervisorJob có ngăn parent cancellation đi xuống child không?","Tại sao catch Exception đôi khi phá cancellation?","Một SDK callback không hỗ trợ cancel thì structured concurrency có bảo đảm dừng thật không?","Tại sao applicationScope không thay WorkManager?","Nếu launch trong viewModelScope rồi function trả về, đó có vi phạm structured concurrency không?","Khi nào fire-and-forget là hợp lệ?","Làm sao tránh stale result khi cancellation không dừng được network call?"]},
+        {"type":"callout","title":"Mẫu trả lời gắn kinh nghiệm","content":"Trong Upzi, tôi coi lifecycle là một phần của requirement. Tác vụ chỉ phục vụ màn hình được đặt trong viewModelScope; stream hoặc connection user-bound cần owner theo session và phải dừng khi logout. Với nhiều section độc lập, tôi chọn supervisor semantics và state lỗi riêng; với dữ liệu phụ thuộc tạo một snapshot, tôi chọn fail-fast. Những phần SessionScope riêng là đề xuất kiến trúc và cần xác nhận code thực tế trước khi trình bày như implementation đã có."},
+        {"type":"callout","variant":"warning","title":"Bẫy thường gặp","content":"SupervisorJob chỉ ngăn failure của một child tự động cancel sibling. Parent cancellation vẫn cancel toàn bộ children. Nó không phải cơ chế làm task bất tử."}
+      ]
+    },
+    {
+      "id": "exercises",
+      "title": "12. Bài tập thực hành và tình huống",
+      "blocks": [
+        {"type":"heading","content":"Bài tập code"},
+        {"type":"list","items":["Viết loadDashboard chạy Profile và Unread song song, Recommendations phụ thuộc Profile; chọn fail-fast hoặc partial success và giải thích.","Refactor repository đang tạo CoroutineScope(Dispatchers.IO) trong mỗi hàm thành suspend API có cấu trúc.","Tạo SessionCoordinator có start(userId), logout() và bảo đảm connection cũ bị cancel trước khi session mới bắt đầu.","Viết test dùng StandardTestDispatcher chứng minh parent không complete trước child.","Viết CPU loop cancellable bằng ensureActive hoặc yield."]},
+        {"type":"heading","content":"Bài tập tình huống"},
+        {"type":"list","items":["Upload CV phải tiếp tục dù người dùng rời màn hình và nên retry sau process death. Chọn viewModelScope, applicationScope hay WorkManager.","Home có ba section độc lập; Recommendation lỗi 500. Thiết kế state và supervision.","Logout trong lúc Socket.IO reconnect và refresh token đang chạy. Xác định thứ tự cancel, clear token, reset state và connect session mới.","Search API không hỗ trợ cancel ở transport layer. Đề xuất generationId hoặc latest-only guard để ngăn stale update.","Một child cleanup cần ghi checkpoint 50 ms. Xác định phạm vi hợp lý của withContext(NonCancellable)."]}
+      ]
+    },
+    {
+      "id": "self-check",
+      "title": "13. Checklist tự đánh giá",
+      "blocks": [
+        {"type":"list","items":["Tôi xác định được lifetime owner trước khi chọn scope.","Tôi phân biệt scope, dispatcher và Job.","Tôi giải thích được parent completion chờ child.","Tôi biết failure propagation của Job thường và SupervisorJob.","Tôi không tạo scope mồ côi trong suspend function.","Tôi propagate CancellationException.","Tôi phân biệt process lifetime và durable work.","Tôi có policy rõ cho partial success và fail-fast.","Tôi giới hạn concurrency khi fan-out lớn.","Tôi gắn ví dụ Upzi với nhãn confirmed/inferred/proposed/needs-confirmation đúng sự thật."]}
+      ]
+    },
+    {
+      "id": "summary",
+      "title": "14. Tóm tắt cần nhớ",
+      "blocks": [
+        {"type":"list","items":["CoroutineScope định nghĩa ownership và lifetime; dispatcher định nghĩa nơi schedule.","Structured concurrency tổ chức coroutine thành cây Job có điểm kết thúc rõ.","Parent cancel sẽ cancel children; parent không complete trước children.","Job thường thường fail-fast; supervisor semantics phù hợp child độc lập.","Suspend API nên chờ toàn bộ công việc thuộc contract trước khi trả về.","viewModelScope, lifecycleScope, application scope và WorkManager giải các lifetime khác nhau.","Cancellation là cooperative; blocking API hoặc CPU loop cần hỗ trợ riêng.","Middle engineer phải nêu được dependency, error policy, lifecycle và resource limit trước khi viết launch."]}
+      ]
+    }
+  ],
+  "quiz": [
+    {"id":"b03-q01","question":"CoroutineScope chủ yếu trả lời câu hỏi nào?","options":["Task chạy trên thread nào","Task thuộc lifetime nào và dùng context nào","Task có dùng Retrofit không","Task có nhanh hơn thread không"],"answerIndex":1,"explanation":"Scope xác định ownership/lifetime và chứa context. Dispatcher mới quyết định scheduling."},
+    {"id":"b03-q02","question":"Khi parent Job bị cancel, điều gì xảy ra với children?","options":["Children luôn tiếp tục","Children bị cancel theo propagation","Chỉ child đầu tiên bị cancel","Tùy SupervisorJob nên parent cancel không lan xuống"],"answerIndex":1,"explanation":"Parent cancellation lan xuống mọi child, kể cả khi dùng supervisor semantics."},
+    {"id":"b03-q03","question":"Trong Job hierarchy thông thường, một child ném exception chưa xử lý thường dẫn đến gì?","options":["Sibling tiếp tục chắc chắn","Parent và sibling có thể bị cancel","Exception tự biến mất","Chỉ log warning"],"answerIndex":1,"explanation":"Failure của child thường làm parent fail và cancel sibling, tạo fail-fast semantics."},
+    {"id":"b03-q04","question":"SupervisorJob thay đổi điều gì?","options":["Ngăn parent cancel child","Ngăn một child failure tự động cancel sibling","Làm coroutine chạy background","Tự retry child lỗi"],"answerIndex":1,"explanation":"SupervisorJob cô lập failure giữa siblings nhưng không ngăn cancellation từ parent."},
+    {"id":"b03-q05","question":"Vì sao không nên tạo CoroutineScope mới trong một suspend repository function rồi launch?","options":["Không compile","Caller không chờ, cancel hoặc nhận lỗi đầy đủ","Luôn chạy Main","Không dùng được Retrofit"],"answerIndex":1,"explanation":"Hàm trả về trước khi work kết thúc, tạo orphan task và che giấu contract."},
+    {"id":"b03-q06","question":"Task upload bắt buộc tiếp tục sau process death nên ưu tiên gì?","options":["viewModelScope","lifecycleScope","WorkManager","GlobalScope"],"answerIndex":2,"explanation":"Coroutine scope trong process không bền qua process death; WorkManager hỗ trợ durable scheduling và retry."},
+    {"id":"b03-q07","question":"Parent launch body đã chạy xong nhưng child còn active. Parent ở trạng thái nào về mặt ý nghĩa?","options":["Đã completed","Vẫn chờ child trước khi complete","Bị cancelled","Không có quan hệ"],"answerIndex":1,"explanation":"Structured concurrency yêu cầu parent không complete trước children."},
+    {"id":"b03-q08","question":"Khi catch Throwable quanh suspend call, cần làm gì với CancellationException?","options":["Đổi thành empty state","Retry vô hạn","Ném lại","Log rồi bỏ qua"],"answerIndex":2,"explanation":"CancellationException biểu diễn control flow cancellation và nên được propagate."},
+    {"id":"b03-q09","question":"Ba section Home độc lập, một section lỗi không nên làm mất hai section còn lại. Semantics phù hợp nhất?","options":["Fail-fast Job thường duy nhất","Supervisor semantics và error state riêng","GlobalScope cho từng section","runBlocking"],"answerIndex":1,"explanation":"Supervisor semantics hỗ trợ partial success khi child độc lập, nhưng vẫn cần thu lỗi rõ ràng."},
+    {"id":"b03-q10","question":"Application scope đảm bảo điều gì?","options":["Task sống qua mọi process death","Task sống tối đa theo process và owner của scope","Task luôn chạy trên IO","Task không bao giờ bị cancel"],"answerIndex":1,"explanation":"Application scope chỉ sống theo process; Android vẫn có thể kill process."},
+    {"id":"b03-q11","question":"CPU loop dài không có suspension point phản ứng cancellation như thế nào?","options":["Luôn dừng ngay","Có thể tiếp tục cho tới khi tự kiểm tra ensureActive/yield","Tự chuyển IO","Bị WorkManager dừng"],"answerIndex":1,"explanation":"Coroutine cancellation cooperative; CPU loop phải kiểm tra trạng thái hoặc yield."},
+    {"id":"b03-q12","question":"Phát biểu nào đúng về coroutineScope?","options":["Tạo scope độc lập không có parent","Là suspend builder chờ toàn bộ children trước khi trả về","Luôn dùng SupervisorJob","Tương đương GlobalScope"],"answerIndex":1,"explanation":"coroutineScope tạo scope con có cấu trúc, kế thừa context và chờ children."},
+    {"id":"b03-q13","question":"Nếu transport không thể cancel request cũ, cách nào bảo vệ UI khỏi stale result?","options":["Dùng nhiều GlobalScope","Generation/session ID guard hoặc latest-only check","Bỏ ViewModel","Chuyển sang Main dispatcher"],"answerIndex":1,"explanation":"Cancellation ở coroutine không luôn dừng underlying work; cần guard trước state update."},
+    {"id":"b03-q14","question":"Fire-and-forget hợp lệ nhất khi nào?","options":["Mọi repository call","Có owner long-lived rõ, error monitoring và task không thuộc contract trả về hiện tại","Khi không muốn viết await","Khi dùng Dispatchers.IO"],"answerIndex":1,"explanation":"Long-lived work chỉ hợp lệ khi ownership, observability và shutdown policy được định nghĩa rõ."}
+  ]
+}
