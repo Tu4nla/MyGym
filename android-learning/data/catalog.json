@@ -4,246 +4,62 @@
     "title": "Android Middle Interview Handbook",
     "description": "Lộ trình học Android Middle theo thứ tự ưu tiên cho việc apply: nền tảng concurrency, Flow, Compose, Android platform, architecture, real-time, networking, case study, testing, system design, Kotlin chuyên sâu, SDK, performance, security và mock interview.",
     "version": "0.2.0",
-    "recommendedOrder": [
-      "B",
-      "C",
-      "D",
-      "E",
-      "F",
-      "H",
-      "G",
-      "Q",
-      "M",
-      "P",
-      "A",
-      "J",
-      "N",
-      "O",
-      "R"
-    ]
+    "recommendedOrder": ["B","C","D","E","F","H","G","Q","M","P","A","J","N","O","R"]
   },
   "chapters": [
-    {
-      "id": "b",
-      "code": "B",
-      "title": "Coroutine và Concurrency",
-      "lessons": [
-        {"id":"b01","code":"B01","title":"Process, Thread, Concurrency, Parallelism, Blocking và Non-blocking","path":"data/lessons/b/b01.json","estimatedMinutes":120,"status":"published"},
-        {"id":"b02","code":"B02","title":"Coroutine căn bản","path":"data/lessons/b/b02.json","estimatedMinutes":120,"status":"planned"},
-        {"id":"b03","code":"B03","title":"CoroutineScope và Structured Concurrency","path":"data/lessons/b/b03.json","estimatedMinutes":120,"status":"planned"},
-        {"id":"b04","code":"B04","title":"launch, async và withContext","path":"data/lessons/b/b04.json","estimatedMinutes":120,"status":"planned"},
-        {"id":"b05","code":"B05","title":"Dispatcher và Thread Pool","path":"data/lessons/b/b05.json","estimatedMinutes":120,"status":"planned"},
-        {"id":"b06","code":"B06","title":"Job và Cancellation","path":"data/lessons/b/b06.json","estimatedMinutes":120,"status":"planned"},
-        {"id":"b07","code":"B07","title":"Exception Handling","path":"data/lessons/b/b07.json","estimatedMinutes":120,"status":"planned"},
-        {"id":"b08","code":"B08","title":"coroutineScope và supervisorScope","path":"data/lessons/b/b08.json","estimatedMinutes":120,"status":"planned"},
-        {"id":"b09","code":"B09","title":"Race condition và Thread Safety","path":"data/lessons/b/b09.json","estimatedMinutes":150,"status":"planned"},
-        {"id":"b10","code":"B10","title":"Coroutine Testing","path":"data/lessons/b/b10.json","estimatedMinutes":120,"status":"planned"}
-      ]
-    },
-    {
-      "id": "c",
-      "code": "C",
-      "title": "Kotlin Flow",
-      "lessons": [
-        {"id":"c01","code":"C01","title":"Reactive Programming và Data Stream","path":"data/lessons/c/c01.json","estimatedMinutes":120,"status":"planned"},
-        {"id":"c02","code":"C02","title":"Cold Flow","path":"data/lessons/c/c02.json","estimatedMinutes":120,"status":"planned"},
-        {"id":"c03","code":"C03","title":"StateFlow","path":"data/lessons/c/c03.json","estimatedMinutes":120,"status":"planned"},
-        {"id":"c04","code":"C04","title":"SharedFlow","path":"data/lessons/c/c04.json","estimatedMinutes":120,"status":"planned"},
-        {"id":"c05","code":"C05","title":"Channel","path":"data/lessons/c/c05.json","estimatedMinutes":120,"status":"planned"},
-        {"id":"c06","code":"C06","title":"Flow Operators cơ bản","path":"data/lessons/c/c06.json","estimatedMinutes":120,"status":"planned"},
-        {"id":"c07","code":"C07","title":"Flow Operators nâng cao","path":"data/lessons/c/c07.json","estimatedMinutes":150,"status":"planned"},
-        {"id":"c08","code":"C08","title":"Debounce và Search Flow","path":"data/lessons/c/c08.json","estimatedMinutes":120,"status":"planned"},
-        {"id":"c09","code":"C09","title":"Context và Lifecycle của Flow","path":"data/lessons/c/c09.json","estimatedMinutes":120,"status":"planned"},
-        {"id":"c10","code":"C10","title":"UI State và One-time Event","path":"data/lessons/c/c10.json","estimatedMinutes":120,"status":"planned"},
-        {"id":"c11","code":"C11","title":"Flow Testing","path":"data/lessons/c/c11.json","estimatedMinutes":120,"status":"planned"}
-      ]
-    },
-    {
-      "id":"d","code":"D","title":"Jetpack Compose","lessons":[
-        {"id":"d01","code":"D01","title":"Declarative UI và Compose Runtime","path":"data/lessons/d/d01.json","estimatedMinutes":120,"status":"planned"},
-        {"id":"d02","code":"D02","title":"State trong Compose","path":"data/lessons/d/d02.json","estimatedMinutes":120,"status":"planned"},
-        {"id":"d03","code":"D03","title":"remember và rememberSaveable","path":"data/lessons/d/d03.json","estimatedMinutes":120,"status":"planned"},
-        {"id":"d04","code":"D04","title":"Side-effect APIs","path":"data/lessons/d/d04.json","estimatedMinutes":150,"status":"planned"},
-        {"id":"d05","code":"D05","title":"Stability và Recomposition","path":"data/lessons/d/d05.json","estimatedMinutes":150,"status":"planned"},
-        {"id":"d06","code":"D06","title":"Compose và ViewModel","path":"data/lessons/d/d06.json","estimatedMinutes":120,"status":"planned"},
-        {"id":"d07","code":"D07","title":"LazyColumn và hiệu năng danh sách","path":"data/lessons/d/d07.json","estimatedMinutes":150,"status":"planned"},
-        {"id":"d08","code":"D08","title":"Modifier","path":"data/lessons/d/d08.json","estimatedMinutes":120,"status":"planned"},
-        {"id":"d09","code":"D09","title":"Navigation Compose","path":"data/lessons/d/d09.json","estimatedMinutes":150,"status":"planned"},
-        {"id":"d10","code":"D10","title":"Deep Link trong Compose Navigation","path":"data/lessons/d/d10.json","estimatedMinutes":120,"status":"planned"},
-        {"id":"d11","code":"D11","title":"Animation và SharedTransition","path":"data/lessons/d/d11.json","estimatedMinutes":150,"status":"planned"},
-        {"id":"d12","code":"D12","title":"Compose Performance và UI Testing","path":"data/lessons/d/d12.json","estimatedMinutes":180,"status":"planned"}
-      ]
-    },
-    {
-      "id":"e","code":"E","title":"Android Lifecycle và Platform","lessons":[
-        {"id":"e01","code":"E01","title":"Activity Lifecycle","path":"data/lessons/e/e01.json","estimatedMinutes":120,"status":"planned"},
-        {"id":"e02","code":"E02","title":"Configuration Change","path":"data/lessons/e/e02.json","estimatedMinutes":120,"status":"planned"},
-        {"id":"e03","code":"E03","title":"Process Death và State Restoration","path":"data/lessons/e/e03.json","estimatedMinutes":150,"status":"planned"},
-        {"id":"e04","code":"E04","title":"Context và Memory Leak","path":"data/lessons/e/e04.json","estimatedMinutes":120,"status":"planned"},
-        {"id":"e05","code":"E05","title":"Service và Foreground Service","path":"data/lessons/e/e05.json","estimatedMinutes":150,"status":"planned"},
-        {"id":"e06","code":"E06","title":"WorkManager","path":"data/lessons/e/e06.json","estimatedMinutes":150,"status":"planned"},
-        {"id":"e07","code":"E07","title":"BroadcastReceiver và PendingIntent","path":"data/lessons/e/e07.json","estimatedMinutes":120,"status":"planned"},
-        {"id":"e08","code":"E08","title":"Permission và Android Version Compatibility","path":"data/lessons/e/e08.json","estimatedMinutes":150,"status":"planned"},
-        {"id":"e09","code":"E09","title":"App Link và Deep Link","path":"data/lessons/e/e09.json","estimatedMinutes":150,"status":"planned"},
-        {"id":"e10","code":"E10","title":"Memory, ANR và Platform Performance","path":"data/lessons/e/e10.json","estimatedMinutes":150,"status":"planned"}
-      ]
-    },
-    {
-      "id":"f","code":"F","title":"Architecture","lessons":[
-        {"id":"f01","code":"F01","title":"Separation of Concerns","path":"data/lessons/f/f01.json","estimatedMinutes":120,"status":"planned"},
-        {"id":"f02","code":"F02","title":"MVVM","path":"data/lessons/f/f02.json","estimatedMinutes":120,"status":"planned"},
-        {"id":"f03","code":"F03","title":"MVI và Unidirectional Data Flow","path":"data/lessons/f/f03.json","estimatedMinutes":150,"status":"planned"},
-        {"id":"f04","code":"F04","title":"Clean Architecture","path":"data/lessons/f/f04.json","estimatedMinutes":180,"status":"planned"},
-        {"id":"f05","code":"F05","title":"Repository Pattern","path":"data/lessons/f/f05.json","estimatedMinutes":120,"status":"planned"},
-        {"id":"f06","code":"F06","title":"Use Case","path":"data/lessons/f/f06.json","estimatedMinutes":120,"status":"planned"},
-        {"id":"f07","code":"F07","title":"Data Mapping","path":"data/lessons/f/f07.json","estimatedMinutes":120,"status":"planned"},
-        {"id":"f08","code":"F08","title":"Single Source of Truth","path":"data/lessons/f/f08.json","estimatedMinutes":150,"status":"planned"},
-        {"id":"f09","code":"F09","title":"Dependency Injection","path":"data/lessons/f/f09.json","estimatedMinutes":150,"status":"planned"},
-        {"id":"f10","code":"F10","title":"Modularization","path":"data/lessons/f/f10.json","estimatedMinutes":180,"status":"planned"},
-        {"id":"f11","code":"F11","title":"Error Model","path":"data/lessons/f/f11.json","estimatedMinutes":120,"status":"planned"},
-        {"id":"f12","code":"F12","title":"Architecture Upzi End-to-end","path":"data/lessons/f/f12.json","estimatedMinutes":180,"status":"planned"}
-      ]
-    },
-    {
-      "id":"h","code":"H","title":"Socket.IO, SSE và Chat","lessons":[
-        {"id":"h01","code":"H01","title":"Polling, Long Polling, SSE và WebSocket","path":"data/lessons/h/h01.json","estimatedMinutes":150,"status":"planned"},
-        {"id":"h02","code":"H02","title":"Socket.IO","path":"data/lessons/h/h02.json","estimatedMinutes":150,"status":"planned"},
-        {"id":"h03","code":"H03","title":"SSE","path":"data/lessons/h/h03.json","estimatedMinutes":150,"status":"planned"},
-        {"id":"h04","code":"H04","title":"Connection State Machine","path":"data/lessons/h/h04.json","estimatedMinutes":120,"status":"planned"},
-        {"id":"h05","code":"H05","title":"Reconnect Strategy","path":"data/lessons/h/h05.json","estimatedMinutes":150,"status":"planned"},
-        {"id":"h06","code":"H06","title":"Thiết kế gửi Message","path":"data/lessons/h/h06.json","estimatedMinutes":180,"status":"planned"},
-        {"id":"h07","code":"H07","title":"Offline Queue","path":"data/lessons/h/h07.json","estimatedMinutes":180,"status":"planned"},
-        {"id":"h08","code":"H08","title":"Delivered và Read Receipt","path":"data/lessons/h/h08.json","estimatedMinutes":150,"status":"planned"},
-        {"id":"h09","code":"H09","title":"Đồng bộ Missed Message","path":"data/lessons/h/h09.json","estimatedMinutes":150,"status":"planned"},
-        {"id":"h10","code":"H10","title":"Chat System Design của Upzi","path":"data/lessons/h/h10.json","estimatedMinutes":210,"status":"planned"},
-        {"id":"h11","code":"H11","title":"SSE Multi-endpoint của Upzi","path":"data/lessons/h/h11.json","estimatedMinutes":180,"status":"planned"}
-      ]
-    },
-    {
-      "id":"g","code":"G","title":"Networking","lessons":[
-        {"id":"g01","code":"G01","title":"HTTP căn bản","path":"data/lessons/g/g01.json","estimatedMinutes":120,"status":"planned"},
-        {"id":"g02","code":"G02","title":"REST API","path":"data/lessons/g/g02.json","estimatedMinutes":120,"status":"planned"},
-        {"id":"g03","code":"G03","title":"Retrofit và OkHttp","path":"data/lessons/g/g03.json","estimatedMinutes":150,"status":"planned"},
-        {"id":"g04","code":"G04","title":"Authentication","path":"data/lessons/g/g04.json","estimatedMinutes":120,"status":"planned"},
-        {"id":"g05","code":"G05","title":"Refresh Token đồng thời","path":"data/lessons/g/g05.json","estimatedMinutes":180,"status":"planned"},
-        {"id":"g06","code":"G06","title":"Retry và Backoff","path":"data/lessons/g/g06.json","estimatedMinutes":150,"status":"planned"},
-        {"id":"g07","code":"G07","title":"Idempotency","path":"data/lessons/g/g07.json","estimatedMinutes":120,"status":"planned"},
-        {"id":"g08","code":"G08","title":"Pagination","path":"data/lessons/g/g08.json","estimatedMinutes":150,"status":"planned"},
-        {"id":"g09","code":"G09","title":"HTTP Cache và Application Cache","path":"data/lessons/g/g09.json","estimatedMinutes":150,"status":"planned"},
-        {"id":"g10","code":"G10","title":"Multipart và Media Upload","path":"data/lessons/g/g10.json","estimatedMinutes":180,"status":"planned"},
-        {"id":"g11","code":"G11","title":"API Error Handling","path":"data/lessons/g/g11.json","estimatedMinutes":150,"status":"planned"}
-      ]
-    },
-    {
-      "id":"q","code":"Q","title":"Case Study dự án của bạn","lessons":[
-        {"id":"q01","code":"Q01","title":"Upzi Search và Job Filtering","path":"data/lessons/q/q01.json","estimatedMinutes":180,"status":"planned"},
-        {"id":"q02","code":"Q02","title":"Upzi Recommendation và SSE Streaming","path":"data/lessons/q/q02.json","estimatedMinutes":180,"status":"planned"},
-        {"id":"q03","code":"Q03","title":"Upzi Chat","path":"data/lessons/q/q03.json","estimatedMinutes":210,"status":"planned"},
-        {"id":"q04","code":"Q04","title":"Upzi Deep Link","path":"data/lessons/q/q04.json","estimatedMinutes":150,"status":"planned"},
-        {"id":"q05","code":"Q05","title":"Upzi Navigation Restructuring","path":"data/lessons/q/q05.json","estimatedMinutes":180,"status":"planned"},
-        {"id":"q06","code":"Q06","title":"Upzi DataStore và App-wide State","path":"data/lessons/q/q06.json","estimatedMinutes":150,"status":"planned"},
-        {"id":"q07","code":"Q07","title":"Upzi TransactionTooLargeException","path":"data/lessons/q/q07.json","estimatedMinutes":150,"status":"planned"},
-        {"id":"q08","code":"Q08","title":"Upzi Nested Scroll và LazyColumn","path":"data/lessons/q/q08.json","estimatedMinutes":150,"status":"planned"},
-        {"id":"q09","code":"Q09","title":"OMI Chat SDK","path":"data/lessons/q/q09.json","estimatedMinutes":210,"status":"planned"},
-        {"id":"q10","code":"Q10","title":"OMI Call SDK","path":"data/lessons/q/q10.json","estimatedMinutes":210,"status":"planned"},
-        {"id":"q11","code":"Q11","title":"EID Check VN","path":"data/lessons/q/q11.json","estimatedMinutes":210,"status":"planned"},
-        {"id":"q12","code":"Q12","title":"React Native Wallet và Payment Flow","path":"data/lessons/q/q12.json","estimatedMinutes":180,"status":"planned"}
-      ]
-    },
-    {
-      "id":"m","code":"M","title":"Testing","lessons":[
-        {"id":"m01","code":"M01","title":"Test Pyramid","path":"data/lessons/m/m01.json","estimatedMinutes":120,"status":"planned"},
-        {"id":"m02","code":"M02","title":"Testable Architecture","path":"data/lessons/m/m02.json","estimatedMinutes":150,"status":"planned"},
-        {"id":"m03","code":"M03","title":"ViewModel Testing","path":"data/lessons/m/m03.json","estimatedMinutes":150,"status":"planned"},
-        {"id":"m04","code":"M04","title":"Coroutine Testing","path":"data/lessons/m/m04.json","estimatedMinutes":150,"status":"planned"},
-        {"id":"m05","code":"M05","title":"Flow Testing","path":"data/lessons/m/m05.json","estimatedMinutes":150,"status":"planned"},
-        {"id":"m06","code":"M06","title":"Repository Testing","path":"data/lessons/m/m06.json","estimatedMinutes":150,"status":"planned"},
-        {"id":"m07","code":"M07","title":"Compose UI Testing","path":"data/lessons/m/m07.json","estimatedMinutes":150,"status":"planned"},
-        {"id":"m08","code":"M08","title":"Testing Chat và Real-time","path":"data/lessons/m/m08.json","estimatedMinutes":180,"status":"planned"}
-      ]
-    },
-    {
-      "id":"p","code":"P","title":"Mobile System Design","lessons":[
-        {"id":"p01","code":"P01","title":"Cách tiếp cận bài Mobile System Design","path":"data/lessons/p/p01.json","estimatedMinutes":150,"status":"planned"},
-        {"id":"p02","code":"P02","title":"Thiết kế Chat Application","path":"data/lessons/p/p02.json","estimatedMinutes":210,"status":"planned"},
-        {"id":"p03","code":"P03","title":"Thiết kế Notification","path":"data/lessons/p/p03.json","estimatedMinutes":180,"status":"planned"},
-        {"id":"p04","code":"P04","title":"Thiết kế Search","path":"data/lessons/p/p04.json","estimatedMinutes":180,"status":"planned"},
-        {"id":"p05","code":"P05","title":"Thiết kế Feed","path":"data/lessons/p/p05.json","estimatedMinutes":180,"status":"planned"},
-        {"id":"p06","code":"P06","title":"Thiết kế Upload Video","path":"data/lessons/p/p06.json","estimatedMinutes":210,"status":"planned"},
-        {"id":"p07","code":"P07","title":"Thiết kế Authentication","path":"data/lessons/p/p07.json","estimatedMinutes":180,"status":"planned"},
-        {"id":"p08","code":"P08","title":"Thiết kế Offline-first Feature","path":"data/lessons/p/p08.json","estimatedMinutes":210,"status":"planned"},
-        {"id":"p09","code":"P09","title":"Thiết kế Mobile SDK","path":"data/lessons/p/p09.json","estimatedMinutes":210,"status":"planned"},
-        {"id":"p10","code":"P10","title":"Thiết kế Upzi End-to-end","path":"data/lessons/p/p10.json","estimatedMinutes":240,"status":"planned"}
-      ]
-    },
-    {
-      "id":"a","code":"A","title":"Kotlin chuyên sâu","lessons":[
-        {"id":"a01","code":"A01","title":"Kotlin Type System và Null Safety","path":"data/lessons/a/a01.json","estimatedMinutes":120,"status":"planned"},
-        {"id":"a02","code":"A02","title":"Biến, Object và Tính bất biến","path":"data/lessons/a/a02.json","estimatedMinutes":120,"status":"planned"},
-        {"id":"a03","code":"A03","title":"Class, Interface và Object","path":"data/lessons/a/a03.json","estimatedMinutes":150,"status":"planned"},
-        {"id":"a04","code":"A04","title":"Data Class và Equality","path":"data/lessons/a/a04.json","estimatedMinutes":120,"status":"planned"},
-        {"id":"a05","code":"A05","title":"Enum, Sealed Class và Sealed Interface","path":"data/lessons/a/a05.json","estimatedMinutes":120,"status":"planned"},
-        {"id":"a06","code":"A06","title":"Function và Lambda","path":"data/lessons/a/a06.json","estimatedMinutes":150,"status":"planned"},
-        {"id":"a07","code":"A07","title":"Scope Function","path":"data/lessons/a/a07.json","estimatedMinutes":120,"status":"planned"},
-        {"id":"a08","code":"A08","title":"Generic và Variance","path":"data/lessons/a/a08.json","estimatedMinutes":180,"status":"planned"},
-        {"id":"a09","code":"A09","title":"Inline Function và Reified Generic","path":"data/lessons/a/a09.json","estimatedMinutes":150,"status":"planned"},
-        {"id":"a10","code":"A10","title":"Delegation","path":"data/lessons/a/a10.json","estimatedMinutes":120,"status":"planned"},
-        {"id":"a11","code":"A11","title":"Kotlin Collection API và Sequence","path":"data/lessons/a/a11.json","estimatedMinutes":150,"status":"planned"},
-        {"id":"a12","code":"A12","title":"Java Interoperability","path":"data/lessons/a/a12.json","estimatedMinutes":150,"status":"planned"}
-      ]
-    },
-    {
-      "id":"j","code":"J","title":"SDK Design","lessons":[
-        {"id":"j01","code":"J01","title":"SDK khác Application như thế nào","path":"data/lessons/j/j01.json","estimatedMinutes":120,"status":"planned"},
-        {"id":"j02","code":"J02","title":"Thiết kế Public API","path":"data/lessons/j/j02.json","estimatedMinutes":180,"status":"planned"},
-        {"id":"j03","code":"J03","title":"SDK Initialization và Lifecycle","path":"data/lessons/j/j03.json","estimatedMinutes":150,"status":"planned"},
-        {"id":"j04","code":"J04","title":"Backward Compatibility và Versioning","path":"data/lessons/j/j04.json","estimatedMinutes":150,"status":"planned"},
-        {"id":"j05","code":"J05","title":"Threading Contract","path":"data/lessons/j/j05.json","estimatedMinutes":150,"status":"planned"},
-        {"id":"j06","code":"J06","title":"Logging và Diagnostics","path":"data/lessons/j/j06.json","estimatedMinutes":150,"status":"planned"},
-        {"id":"j07","code":"J07","title":"SDK Network và Offline Queue","path":"data/lessons/j/j07.json","estimatedMinutes":180,"status":"planned"},
-        {"id":"j08","code":"J08","title":"Device Compatibility","path":"data/lessons/j/j08.json","estimatedMinutes":150,"status":"planned"},
-        {"id":"j09","code":"J09","title":"SDK Testing","path":"data/lessons/j/j09.json","estimatedMinutes":150,"status":"planned"},
-        {"id":"j10","code":"J10","title":"OMI Chat SDK và Call SDK Deep Dive","path":"data/lessons/j/j10.json","estimatedMinutes":210,"status":"planned"}
-      ]
-    },
-    {
-      "id":"n","code":"N","title":"Performance","lessons":[
-        {"id":"n01","code":"N01","title":"Mobile Performance Fundamentals","path":"data/lessons/n/n01.json","estimatedMinutes":120,"status":"planned"},
-        {"id":"n02","code":"N02","title":"Android Studio Profiler","path":"data/lessons/n/n02.json","estimatedMinutes":150,"status":"planned"},
-        {"id":"n03","code":"N03","title":"Jank và Rendering","path":"data/lessons/n/n03.json","estimatedMinutes":150,"status":"planned"},
-        {"id":"n04","code":"N04","title":"Compose Performance","path":"data/lessons/n/n04.json","estimatedMinutes":180,"status":"planned"},
-        {"id":"n05","code":"N05","title":"Memory Leak","path":"data/lessons/n/n05.json","estimatedMinutes":150,"status":"planned"},
-        {"id":"n06","code":"N06","title":"ANR","path":"data/lessons/n/n06.json","estimatedMinutes":150,"status":"planned"},
-        {"id":"n07","code":"N07","title":"App Startup và Baseline Profile","path":"data/lessons/n/n07.json","estimatedMinutes":180,"status":"planned"},
-        {"id":"n08","code":"N08","title":"Network Performance","path":"data/lessons/n/n08.json","estimatedMinutes":150,"status":"planned"}
-      ]
-    },
-    {
-      "id":"o","code":"O","title":"Security","lessons":[
-        {"id":"o01","code":"O01","title":"Mobile Security căn bản và Threat Model","path":"data/lessons/o/o01.json","estimatedMinutes":150,"status":"planned"},
-        {"id":"o02","code":"O02","title":"Token và Session","path":"data/lessons/o/o02.json","estimatedMinutes":150,"status":"planned"},
-        {"id":"o03","code":"O03","title":"Android Keystore và Encryption","path":"data/lessons/o/o03.json","estimatedMinutes":180,"status":"planned"},
-        {"id":"o04","code":"O04","title":"Network Security và TLS","path":"data/lessons/o/o04.json","estimatedMinutes":150,"status":"planned"},
-        {"id":"o05","code":"O05","title":"Logging an toàn và PII","path":"data/lessons/o/o05.json","estimatedMinutes":120,"status":"planned"},
-        {"id":"o06","code":"O06","title":"Deep Link Security","path":"data/lessons/o/o06.json","estimatedMinutes":150,"status":"planned"},
-        {"id":"o07","code":"O07","title":"SDK Security","path":"data/lessons/o/o07.json","estimatedMinutes":150,"status":"planned"}
-      ]
-    },
-    {
-      "id":"r","code":"R","title":"Mock Interview","lessons":[
-        {"id":"r01","code":"R01","title":"Giới thiệu bản thân","path":"data/lessons/r/r01.json","estimatedMinutes":120,"status":"planned"},
-        {"id":"r02","code":"R02","title":"Giải thích Level Middle","path":"data/lessons/r/r02.json","estimatedMinutes":120,"status":"planned"},
-        {"id":"r03","code":"R03","title":"Trình bày dự án theo STAR","path":"data/lessons/r/r03.json","estimatedMinutes":150,"status":"planned"},
-        {"id":"r04","code":"R04","title":"Technical Feature Deep Dive","path":"data/lessons/r/r04.json","estimatedMinutes":180,"status":"planned"},
-        {"id":"r05","code":"R05","title":"Bug Production và Root Cause Analysis","path":"data/lessons/r/r05.json","estimatedMinutes":150,"status":"planned"},
-        {"id":"r06","code":"R06","title":"Bất đồng với Backend hoặc Designer","path":"data/lessons/r/r06.json","estimatedMinutes":120,"status":"planned"},
-        {"id":"r07","code":"R07","title":"Estimate sai và Deadline","path":"data/lessons/r/r07.json","estimatedMinutes":120,"status":"planned"},
-        {"id":"r08","code":"R08","title":"Điểm mạnh và Điểm yếu","path":"data/lessons/r/r08.json","estimatedMinutes":120,"status":"planned"},
-        {"id":"r09","code":"R09","title":"Vì sao nghỉ việc","path":"data/lessons/r/r09.json","estimatedMinutes":90,"status":"planned"},
-        {"id":"r10","code":"R10","title":"Giải thích hai Timeline công việc bị trùng","path":"data/lessons/r/r10.json","estimatedMinutes":90,"status":"planned"},
-        {"id":"r11","code":"R11","title":"Mock Interview Android Middle","path":"data/lessons/r/r11.json","estimatedMinutes":240,"status":"planned"},
-        {"id":"r12","code":"R12","title":"Mock Interview System Design","path":"data/lessons/r/r12.json","estimatedMinutes":240,"status":"planned"}
-      ]
-    }
+    {"id":"b","code":"B","title":"Coroutine và Concurrency","lessons":[
+      {"id":"b01","code":"B01","title":"Process, Thread, Concurrency, Parallelism, Blocking và Non-blocking","path":"data/lessons/b/b01.json","estimatedMinutes":120,"status":"published"},
+      {"id":"b02","code":"B02","title":"Coroutine căn bản","path":"data/lessons/b/b02.json","estimatedMinutes":120,"status":"published"},
+      {"id":"b03","code":"B03","title":"CoroutineScope và Structured Concurrency","path":"data/lessons/b/b03.json","estimatedMinutes":120,"status":"planned"},
+      {"id":"b04","code":"B04","title":"launch, async và withContext","path":"data/lessons/b/b04.json","estimatedMinutes":120,"status":"planned"},
+      {"id":"b05","code":"B05","title":"Dispatcher và Thread Pool","path":"data/lessons/b/b05.json","estimatedMinutes":120,"status":"planned"},
+      {"id":"b06","code":"B06","title":"Job và Cancellation","path":"data/lessons/b/b06.json","estimatedMinutes":120,"status":"planned"},
+      {"id":"b07","code":"B07","title":"Exception Handling","path":"data/lessons/b/b07.json","estimatedMinutes":120,"status":"planned"},
+      {"id":"b08","code":"B08","title":"coroutineScope và supervisorScope","path":"data/lessons/b/b08.json","estimatedMinutes":120,"status":"planned"},
+      {"id":"b09","code":"B09","title":"Race condition và Thread Safety","path":"data/lessons/b/b09.json","estimatedMinutes":150,"status":"planned"},
+      {"id":"b10","code":"B10","title":"Coroutine Testing","path":"data/lessons/b/b10.json","estimatedMinutes":120,"status":"planned"}
+    ]},
+    {"id":"c","code":"C","title":"Kotlin Flow","lessons":[
+      {"id":"c01","code":"C01","title":"Reactive Programming và Data Stream","path":"data/lessons/c/c01.json","estimatedMinutes":120,"status":"planned"},{"id":"c02","code":"C02","title":"Cold Flow","path":"data/lessons/c/c02.json","estimatedMinutes":120,"status":"planned"},{"id":"c03","code":"C03","title":"StateFlow","path":"data/lessons/c/c03.json","estimatedMinutes":120,"status":"planned"},{"id":"c04","code":"C04","title":"SharedFlow","path":"data/lessons/c/c04.json","estimatedMinutes":120,"status":"planned"},{"id":"c05","code":"C05","title":"Channel","path":"data/lessons/c/c05.json","estimatedMinutes":120,"status":"planned"},{"id":"c06","code":"C06","title":"Flow Operators cơ bản","path":"data/lessons/c/c06.json","estimatedMinutes":120,"status":"planned"},{"id":"c07","code":"C07","title":"Flow Operators nâng cao","path":"data/lessons/c/c07.json","estimatedMinutes":150,"status":"planned"},{"id":"c08","code":"C08","title":"Debounce và Search Flow","path":"data/lessons/c/c08.json","estimatedMinutes":120,"status":"planned"},{"id":"c09","code":"C09","title":"Context và Lifecycle của Flow","path":"data/lessons/c/c09.json","estimatedMinutes":120,"status":"planned"},{"id":"c10","code":"C10","title":"UI State và One-time Event","path":"data/lessons/c/c10.json","estimatedMinutes":120,"status":"planned"},{"id":"c11","code":"C11","title":"Flow Testing","path":"data/lessons/c/c11.json","estimatedMinutes":120,"status":"planned"}
+    ]},
+    {"id":"d","code":"D","title":"Jetpack Compose","lessons":[
+      {"id":"d01","code":"D01","title":"Declarative UI và Compose Runtime","path":"data/lessons/d/d01.json","estimatedMinutes":120,"status":"planned"},{"id":"d02","code":"D02","title":"State trong Compose","path":"data/lessons/d/d02.json","estimatedMinutes":120,"status":"planned"},{"id":"d03","code":"D03","title":"remember và rememberSaveable","path":"data/lessons/d/d03.json","estimatedMinutes":120,"status":"planned"},{"id":"d04","code":"D04","title":"Side-effect APIs","path":"data/lessons/d/d04.json","estimatedMinutes":150,"status":"planned"},{"id":"d05","code":"D05","title":"Stability và Recomposition","path":"data/lessons/d/d05.json","estimatedMinutes":150,"status":"planned"},{"id":"d06","code":"D06","title":"Compose và ViewModel","path":"data/lessons/d/d06.json","estimatedMinutes":120,"status":"planned"},{"id":"d07","code":"D07","title":"LazyColumn và hiệu năng danh sách","path":"data/lessons/d/d07.json","estimatedMinutes":150,"status":"planned"},{"id":"d08","code":"D08","title":"Modifier","path":"data/lessons/d/d08.json","estimatedMinutes":120,"status":"planned"},{"id":"d09","code":"D09","title":"Navigation Compose","path":"data/lessons/d/d09.json","estimatedMinutes":150,"status":"planned"},{"id":"d10","code":"D10","title":"Deep Link trong Compose Navigation","path":"data/lessons/d/d10.json","estimatedMinutes":120,"status":"planned"},{"id":"d11","code":"D11","title":"Animation và SharedTransition","path":"data/lessons/d/d11.json","estimatedMinutes":150,"status":"planned"},{"id":"d12","code":"D12","title":"Compose Performance và UI Testing","path":"data/lessons/d/d12.json","estimatedMinutes":180,"status":"planned"}
+    ]},
+    {"id":"e","code":"E","title":"Android Lifecycle và Platform","lessons":[
+      {"id":"e01","code":"E01","title":"Activity Lifecycle","path":"data/lessons/e/e01.json","estimatedMinutes":120,"status":"planned"},{"id":"e02","code":"E02","title":"Configuration Change","path":"data/lessons/e/e02.json","estimatedMinutes":120,"status":"planned"},{"id":"e03","code":"E03","title":"Process Death và State Restoration","path":"data/lessons/e/e03.json","estimatedMinutes":150,"status":"planned"},{"id":"e04","code":"E04","title":"Context và Memory Leak","path":"data/lessons/e/e04.json","estimatedMinutes":120,"status":"planned"},{"id":"e05","code":"E05","title":"Service và Foreground Service","path":"data/lessons/e/e05.json","estimatedMinutes":150,"status":"planned"},{"id":"e06","code":"E06","title":"WorkManager","path":"data/lessons/e/e06.json","estimatedMinutes":150,"status":"planned"},{"id":"e07","code":"E07","title":"BroadcastReceiver và PendingIntent","path":"data/lessons/e/e07.json","estimatedMinutes":120,"status":"planned"},{"id":"e08","code":"E08","title":"Permission và Android Version Compatibility","path":"data/lessons/e/e08.json","estimatedMinutes":150,"status":"planned"},{"id":"e09","code":"E09","title":"App Link và Deep Link","path":"data/lessons/e/e09.json","estimatedMinutes":150,"status":"planned"},{"id":"e10","code":"E10","title":"Memory, ANR và Platform Performance","path":"data/lessons/e/e10.json","estimatedMinutes":150,"status":"planned"}
+    ]},
+    {"id":"f","code":"F","title":"Architecture","lessons":[
+      {"id":"f01","code":"F01","title":"Separation of Concerns","path":"data/lessons/f/f01.json","estimatedMinutes":120,"status":"planned"},{"id":"f02","code":"F02","title":"MVVM","path":"data/lessons/f/f02.json","estimatedMinutes":120,"status":"planned"},{"id":"f03","code":"F03","title":"MVI và Unidirectional Data Flow","path":"data/lessons/f/f03.json","estimatedMinutes":150,"status":"planned"},{"id":"f04","code":"F04","title":"Clean Architecture","path":"data/lessons/f/f04.json","estimatedMinutes":180,"status":"planned"},{"id":"f05","code":"F05","title":"Repository Pattern","path":"data/lessons/f/f05.json","estimatedMinutes":120,"status":"planned"},{"id":"f06","code":"F06","title":"Use Case","path":"data/lessons/f/f06.json","estimatedMinutes":120,"status":"planned"},{"id":"f07","code":"F07","title":"Data Mapping","path":"data/lessons/f/f07.json","estimatedMinutes":120,"status":"planned"},{"id":"f08","code":"F08","title":"Single Source of Truth","path":"data/lessons/f/f08.json","estimatedMinutes":150,"status":"planned"},{"id":"f09","code":"F09","title":"Dependency Injection","path":"data/lessons/f/f09.json","estimatedMinutes":150,"status":"planned"},{"id":"f10","code":"F10","title":"Modularization","path":"data/lessons/f/f10.json","estimatedMinutes":180,"status":"planned"},{"id":"f11","code":"F11","title":"Error Model","path":"data/lessons/f/f11.json","estimatedMinutes":120,"status":"planned"},{"id":"f12","code":"F12","title":"Architecture Upzi End-to-end","path":"data/lessons/f/f12.json","estimatedMinutes":180,"status":"planned"}
+    ]},
+    {"id":"h","code":"H","title":"Socket.IO, SSE và Chat","lessons":[
+      {"id":"h01","code":"H01","title":"Polling, Long Polling, SSE và WebSocket","path":"data/lessons/h/h01.json","estimatedMinutes":150,"status":"planned"},{"id":"h02","code":"H02","title":"Socket.IO","path":"data/lessons/h/h02.json","estimatedMinutes":150,"status":"planned"},{"id":"h03","code":"H03","title":"SSE","path":"data/lessons/h/h03.json","estimatedMinutes":150,"status":"planned"},{"id":"h04","code":"H04","title":"Connection State Machine","path":"data/lessons/h/h04.json","estimatedMinutes":120,"status":"planned"},{"id":"h05","code":"H05","title":"Reconnect Strategy","path":"data/lessons/h/h05.json","estimatedMinutes":150,"status":"planned"},{"id":"h06","code":"H06","title":"Thiết kế gửi Message","path":"data/lessons/h/h06.json","estimatedMinutes":180,"status":"planned"},{"id":"h07","code":"H07","title":"Offline Queue","path":"data/lessons/h/h07.json","estimatedMinutes":180,"status":"planned"},{"id":"h08","code":"H08","title":"Delivered và Read Receipt","path":"data/lessons/h/h08.json","estimatedMinutes":150,"status":"planned"},{"id":"h09","code":"H09","title":"Đồng bộ Missed Message","path":"data/lessons/h/h09.json","estimatedMinutes":150,"status":"planned"},{"id":"h10","code":"H10","title":"Chat System Design của Upzi","path":"data/lessons/h/h10.json","estimatedMinutes":210,"status":"planned"},{"id":"h11","code":"H11","title":"SSE Multi-endpoint của Upzi","path":"data/lessons/h/h11.json","estimatedMinutes":180,"status":"planned"}
+    ]},
+    {"id":"g","code":"G","title":"Networking","lessons":[
+      {"id":"g01","code":"G01","title":"HTTP căn bản","path":"data/lessons/g/g01.json","estimatedMinutes":120,"status":"planned"},{"id":"g02","code":"G02","title":"REST API","path":"data/lessons/g/g02.json","estimatedMinutes":120,"status":"planned"},{"id":"g03","code":"G03","title":"Retrofit và OkHttp","path":"data/lessons/g/g03.json","estimatedMinutes":150,"status":"planned"},{"id":"g04","code":"G04","title":"Authentication","path":"data/lessons/g/g04.json","estimatedMinutes":120,"status":"planned"},{"id":"g05","code":"G05","title":"Refresh Token đồng thời","path":"data/lessons/g/g05.json","estimatedMinutes":180,"status":"planned"},{"id":"g06","code":"G06","title":"Retry và Backoff","path":"data/lessons/g/g06.json","estimatedMinutes":150,"status":"planned"},{"id":"g07","code":"G07","title":"Idempotency","path":"data/lessons/g/g07.json","estimatedMinutes":120,"status":"planned"},{"id":"g08","code":"G08","title":"Pagination","path":"data/lessons/g/g08.json","estimatedMinutes":150,"status":"planned"},{"id":"g09","code":"G09","title":"HTTP Cache và Application Cache","path":"data/lessons/g/g09.json","estimatedMinutes":150,"status":"planned"},{"id":"g10","code":"G10","title":"Multipart và Media Upload","path":"data/lessons/g/g10.json","estimatedMinutes":180,"status":"planned"},{"id":"g11","code":"G11","title":"API Error Handling","path":"data/lessons/g/g11.json","estimatedMinutes":150,"status":"planned"}
+    ]},
+    {"id":"q","code":"Q","title":"Case Study dự án của bạn","lessons":[
+      {"id":"q01","code":"Q01","title":"Upzi Search và Job Filtering","path":"data/lessons/q/q01.json","estimatedMinutes":180,"status":"planned"},{"id":"q02","code":"Q02","title":"Upzi Recommendation và SSE Streaming","path":"data/lessons/q/q02.json","estimatedMinutes":180,"status":"planned"},{"id":"q03","code":"Q03","title":"Upzi Chat","path":"data/lessons/q/q03.json","estimatedMinutes":210,"status":"planned"},{"id":"q04","code":"Q04","title":"Upzi Deep Link","path":"data/lessons/q/q04.json","estimatedMinutes":150,"status":"planned"},{"id":"q05","code":"Q05","title":"Upzi Navigation Restructuring","path":"data/lessons/q/q05.json","estimatedMinutes":180,"status":"planned"},{"id":"q06","code":"Q06","title":"Upzi DataStore và App-wide State","path":"data/lessons/q/q06.json","estimatedMinutes":150,"status":"planned"},{"id":"q07","code":"Q07","title":"Upzi TransactionTooLargeException","path":"data/lessons/q/q07.json","estimatedMinutes":150,"status":"planned"},{"id":"q08","code":"Q08","title":"Upzi Nested Scroll và LazyColumn","path":"data/lessons/q/q08.json","estimatedMinutes":150,"status":"planned"},{"id":"q09","code":"Q09","title":"OMI Chat SDK","path":"data/lessons/q/q09.json","estimatedMinutes":210,"status":"planned"},{"id":"q10","code":"Q10","title":"OMI Call SDK","path":"data/lessons/q/q10.json","estimatedMinutes":210,"status":"planned"},{"id":"q11","code":"Q11","title":"EID Check VN","path":"data/lessons/q/q11.json","estimatedMinutes":210,"status":"planned"},{"id":"q12","code":"Q12","title":"React Native Wallet và Payment Flow","path":"data/lessons/q/q12.json","estimatedMinutes":180,"status":"planned"}
+    ]},
+    {"id":"m","code":"M","title":"Testing","lessons":[
+      {"id":"m01","code":"M01","title":"Test Pyramid","path":"data/lessons/m/m01.json","estimatedMinutes":120,"status":"planned"},{"id":"m02","code":"M02","title":"Testable Architecture","path":"data/lessons/m/m02.json","estimatedMinutes":150,"status":"planned"},{"id":"m03","code":"M03","title":"ViewModel Testing","path":"data/lessons/m/m03.json","estimatedMinutes":150,"status":"planned"},{"id":"m04","code":"M04","title":"Coroutine Testing","path":"data/lessons/m/m04.json","estimatedMinutes":150,"status":"planned"},{"id":"m05","code":"M05","title":"Flow Testing","path":"data/lessons/m/m05.json","estimatedMinutes":150,"status":"planned"},{"id":"m06","code":"M06","title":"Repository Testing","path":"data/lessons/m/m06.json","estimatedMinutes":150,"status":"planned"},{"id":"m07","code":"M07","title":"Compose UI Testing","path":"data/lessons/m/m07.json","estimatedMinutes":150,"status":"planned"},{"id":"m08","code":"M08","title":"Testing Chat và Real-time","path":"data/lessons/m/m08.json","estimatedMinutes":180,"status":"planned"}
+    ]},
+    {"id":"p","code":"P","title":"Mobile System Design","lessons":[
+      {"id":"p01","code":"P01","title":"Cách tiếp cận bài Mobile System Design","path":"data/lessons/p/p01.json","estimatedMinutes":150,"status":"planned"},{"id":"p02","code":"P02","title":"Thiết kế Chat Application","path":"data/lessons/p/p02.json","estimatedMinutes":210,"status":"planned"},{"id":"p03","code":"P03","title":"Thiết kế Notification","path":"data/lessons/p/p03.json","estimatedMinutes":180,"status":"planned"},{"id":"p04","code":"P04","title":"Thiết kế Search","path":"data/lessons/p/p04.json","estimatedMinutes":180,"status":"planned"},{"id":"p05","code":"P05","title":"Thiết kế Feed","path":"data/lessons/p/p05.json","estimatedMinutes":180,"status":"planned"},{"id":"p06","code":"P06","title":"Thiết kế Upload Video","path":"data/lessons/p/p06.json","estimatedMinutes":210,"status":"planned"},{"id":"p07","code":"P07","title":"Thiết kế Authentication","path":"data/lessons/p/p07.json","estimatedMinutes":180,"status":"planned"},{"id":"p08","code":"P08","title":"Thiết kế Offline-first Feature","path":"data/lessons/p/p08.json","estimatedMinutes":210,"status":"planned"},{"id":"p09","code":"P09","title":"Thiết kế Mobile SDK","path":"data/lessons/p/p09.json","estimatedMinutes":210,"status":"planned"},{"id":"p10","code":"P10","title":"Thiết kế Upzi End-to-end","path":"data/lessons/p/p10.json","estimatedMinutes":240,"status":"planned"}
+    ]},
+    {"id":"a","code":"A","title":"Kotlin chuyên sâu","lessons":[
+      {"id":"a01","code":"A01","title":"Kotlin Type System và Null Safety","path":"data/lessons/a/a01.json","estimatedMinutes":120,"status":"planned"},{"id":"a02","code":"A02","title":"Biến, Object và Tính bất biến","path":"data/lessons/a/a02.json","estimatedMinutes":120,"status":"planned"},{"id":"a03","code":"A03","title":"Class, Interface và Object","path":"data/lessons/a/a03.json","estimatedMinutes":150,"status":"planned"},{"id":"a04","code":"A04","title":"Data Class và Equality","path":"data/lessons/a/a04.json","estimatedMinutes":120,"status":"planned"},{"id":"a05","code":"A05","title":"Enum, Sealed Class và Sealed Interface","path":"data/lessons/a/a05.json","estimatedMinutes":120,"status":"planned"},{"id":"a06","code":"A06","title":"Function và Lambda","path":"data/lessons/a/a06.json","estimatedMinutes":150,"status":"planned"},{"id":"a07","code":"A07","title":"Scope Function","path":"data/lessons/a/a07.json","estimatedMinutes":120,"status":"planned"},{"id":"a08","code":"A08","title":"Generic và Variance","path":"data/lessons/a/a08.json","estimatedMinutes":180,"status":"planned"},{"id":"a09","code":"A09","title":"Inline Function và Reified Generic","path":"data/lessons/a/a09.json","estimatedMinutes":150,"status":"planned"},{"id":"a10","code":"A10","title":"Delegation","path":"data/lessons/a/a10.json","estimatedMinutes":120,"status":"planned"},{"id":"a11","code":"A11","title":"Kotlin Collection API và Sequence","path":"data/lessons/a/a11.json","estimatedMinutes":150,"status":"planned"},{"id":"a12","code":"A12","title":"Java Interoperability","path":"data/lessons/a/a12.json","estimatedMinutes":150,"status":"planned"}
+    ]},
+    {"id":"j","code":"J","title":"SDK Design","lessons":[
+      {"id":"j01","code":"J01","title":"SDK khác Application như thế nào","path":"data/lessons/j/j01.json","estimatedMinutes":120,"status":"planned"},{"id":"j02","code":"J02","title":"Thiết kế Public API","path":"data/lessons/j/j02.json","estimatedMinutes":180,"status":"planned"},{"id":"j03","code":"J03","title":"SDK Initialization và Lifecycle","path":"data/lessons/j/j03.json","estimatedMinutes":150,"status":"planned"},{"id":"j04","code":"J04","title":"Backward Compatibility và Versioning","path":"data/lessons/j/j04.json","estimatedMinutes":150,"status":"planned"},{"id":"j05","code":"J05","title":"Threading Contract","path":"data/lessons/j/j05.json","estimatedMinutes":150,"status":"planned"},{"id":"j06","code":"J06","title":"Logging và Diagnostics","path":"data/lessons/j/j06.json","estimatedMinutes":150,"status":"planned"},{"id":"j07","code":"J07","title":"SDK Network và Offline Queue","path":"data/lessons/j/j07.json","estimatedMinutes":180,"status":"planned"},{"id":"j08","code":"J08","title":"Device Compatibility","path":"data/lessons/j/j08.json","estimatedMinutes":150,"status":"planned"},{"id":"j09","code":"J09","title":"SDK Testing","path":"data/lessons/j/j09.json","estimatedMinutes":150,"status":"planned"},{"id":"j10","code":"J10","title":"OMI Chat SDK và Call SDK Deep Dive","path":"data/lessons/j/j10.json","estimatedMinutes":210,"status":"planned"}
+    ]},
+    {"id":"n","code":"N","title":"Performance","lessons":[
+      {"id":"n01","code":"N01","title":"Mobile Performance Fundamentals","path":"data/lessons/n/n01.json","estimatedMinutes":120,"status":"planned"},{"id":"n02","code":"N02","title":"Android Studio Profiler","path":"data/lessons/n/n02.json","estimatedMinutes":150,"status":"planned"},{"id":"n03","code":"N03","title":"Jank và Rendering","path":"data/lessons/n/n03.json","estimatedMinutes":150,"status":"planned"},{"id":"n04","code":"N04","title":"Compose Performance","path":"data/lessons/n/n04.json","estimatedMinutes":180,"status":"planned"},{"id":"n05","code":"N05","title":"Memory Leak","path":"data/lessons/n/n05.json","estimatedMinutes":150,"status":"planned"},{"id":"n06","code":"N06","title":"ANR","path":"data/lessons/n/n06.json","estimatedMinutes":150,"status":"planned"},{"id":"n07","code":"N07","title":"App Startup và Baseline Profile","path":"data/lessons/n/n07.json","estimatedMinutes":180,"status":"planned"},{"id":"n08","code":"N08","title":"Network Performance","path":"data/lessons/n/n08.json","estimatedMinutes":150,"status":"planned"}
+    ]},
+    {"id":"o","code":"O","title":"Security","lessons":[
+      {"id":"o01","code":"O01","title":"Mobile Security căn bản và Threat Model","path":"data/lessons/o/o01.json","estimatedMinutes":150,"status":"planned"},{"id":"o02","code":"O02","title":"Token và Session","path":"data/lessons/o/o02.json","estimatedMinutes":150,"status":"planned"},{"id":"o03","code":"O03","title":"Android Keystore và Encryption","path":"data/lessons/o/o03.json","estimatedMinutes":180,"status":"planned"},{"id":"o04","code":"O04","title":"Network Security và TLS","path":"data/lessons/o/o04.json","estimatedMinutes":150,"status":"planned"},{"id":"o05","code":"O05","title":"Logging an toàn và PII","path":"data/lessons/o/o05.json","estimatedMinutes":120,"status":"planned"},{"id":"o06","code":"O06","title":"Deep Link Security","path":"data/lessons/o/o06.json","estimatedMinutes":150,"status":"planned"},{"id":"o07","code":"O07","title":"SDK Security","path":"data/lessons/o/o07.json","estimatedMinutes":150,"status":"planned"}
+    ]},
+    {"id":"r","code":"R","title":"Mock Interview","lessons":[
+      {"id":"r01","code":"R01","title":"Giới thiệu bản thân","path":"data/lessons/r/r01.json","estimatedMinutes":120,"status":"planned"},{"id":"r02","code":"R02","title":"Giải thích Level Middle","path":"data/lessons/r/r02.json","estimatedMinutes":120,"status":"planned"},{"id":"r03","code":"R03","title":"Trình bày dự án theo STAR","path":"data/lessons/r/r03.json","estimatedMinutes":150,"status":"planned"},{"id":"r04","code":"R04","title":"Technical Feature Deep Dive","path":"data/lessons/r/r04.json","estimatedMinutes":180,"status":"planned"},{"id":"r05","code":"R05","title":"Bug Production và Root Cause Analysis","path":"data/lessons/r/r05.json","estimatedMinutes":150,"status":"planned"},{"id":"r06","code":"R06","title":"Bất đồng với Backend hoặc Designer","path":"data/lessons/r/r06.json","estimatedMinutes":120,"status":"planned"},{"id":"r07","code":"R07","title":"Estimate sai và Deadline","path":"data/lessons/r/r07.json","estimatedMinutes":120,"status":"planned"},{"id":"r08","code":"R08","title":"Điểm mạnh và Điểm yếu","path":"data/lessons/r/r08.json","estimatedMinutes":120,"status":"planned"},{"id":"r09","code":"R09","title":"Vì sao nghỉ việc","path":"data/lessons/r/r09.json","estimatedMinutes":90,"status":"planned"},{"id":"r10","code":"R10","title":"Giải thích hai Timeline công việc bị trùng","path":"data/lessons/r/r10.json","estimatedMinutes":90,"status":"planned"},{"id":"r11","code":"R11","title":"Mock Interview Android Middle","path":"data/lessons/r/r11.json","estimatedMinutes":240,"status":"planned"},{"id":"r12","code":"R12","title":"Mock Interview System Design","path":"data/lessons/r/r12.json","estimatedMinutes":240,"status":"planned"}
+    ]}
   ]
 }
