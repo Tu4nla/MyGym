@@ -1,0 +1,9 @@
+[
+  {
+    "lessonId": "b01",
+    "code": "B01",
+    "title": "Process, Thread, Concurrency, Parallelism, Blocking và Non-blocking",
+    "keywords": ["process","thread","concurrency","parallelism","blocking","non-blocking","coroutine","dispatcher","race condition","mutex","semaphore","upzi search","socket.io","sse"],
+    "headings": ["Process, Thread, Stack và Heap","Main Thread, Frame và ANR","Coroutine có phải Thread không?","Khi nào cần Concurrency?","Upzi Home tải nhiều section","Search và stale result","Chat và SSE"]
+  }
+]
