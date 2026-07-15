@@ -1,0 +1,114 @@
+{
+  "course": {
+    "id": "android-middle-interview",
+    "title": "Android Middle Interview Handbook",
+    "description": "Lộ trình học Android Middle theo lý thuyết, quyết định kỹ thuật, case study Upzi, câu hỏi phỏng vấn và bài tập.",
+    "version": "0.1.0"
+  },
+  "chapters": [
+    {
+      "id": "b",
+      "code": "B",
+      "title": "Coroutine và Concurrency",
+      "lessons": [
+        {
+          "id": "b01",
+          "code": "B01",
+          "title": "Process, Thread, Concurrency, Parallelism, Blocking và Non-blocking",
+          "path": "data/lessons/b/b01.json",
+          "estimatedMinutes": 120,
+          "status": "published"
+        },
+        {"id":"b02","code":"B02","title":"Coroutine căn bản","path":"data/lessons/b/b02.json","estimatedMinutes":120,"status":"planned"},
+        {"id":"b03","code":"B03","title":"CoroutineScope và Structured Concurrency","path":"data/lessons/b/b03.json","estimatedMinutes":120,"status":"planned"},
+        {"id":"b04","code":"B04","title":"launch, async và withContext","path":"data/lessons/b/b04.json","estimatedMinutes":120,"status":"planned"},
+        {"id":"b05","code":"B05","title":"Dispatcher và Thread Pool","path":"data/lessons/b/b05.json","estimatedMinutes":120,"status":"planned"},
+        {"id":"b06","code":"B06","title":"Job và Cancellation","path":"data/lessons/b/b06.json","estimatedMinutes":120,"status":"planned"},
+        {"id":"b07","code":"B07","title":"Exception Handling","path":"data/lessons/b/b07.json","estimatedMinutes":120,"status":"planned"},
+        {"id":"b08","code":"B08","title":"coroutineScope và supervisorScope","path":"data/lessons/b/b08.json","estimatedMinutes":120,"status":"planned"},
+        {"id":"b09","code":"B09","title":"Race condition và Thread Safety","path":"data/lessons/b/b09.json","estimatedMinutes":150,"status":"planned"},
+        {"id":"b10","code":"B10","title":"Coroutine Testing","path":"data/lessons/b/b10.json","estimatedMinutes":120,"status":"planned"}
+      ]
+    },
+    {
+      "id": "c",
+      "code": "C",
+      "title": "Kotlin Flow",
+      "lessons": [
+        {"id":"c01","code":"C01","title":"Reactive Programming và Data Stream","path":"data/lessons/c/c01.json","status":"planned"},
+        {"id":"c02","code":"C02","title":"Cold Flow","path":"data/lessons/c/c02.json","status":"planned"},
+        {"id":"c03","code":"C03","title":"StateFlow","path":"data/lessons/c/c03.json","status":"planned"},
+        {"id":"c04","code":"C04","title":"SharedFlow","path":"data/lessons/c/c04.json","status":"planned"},
+        {"id":"c05","code":"C05","title":"Channel","path":"data/lessons/c/c05.json","status":"planned"},
+        {"id":"c06","code":"C06","title":"Flow Operators cơ bản","path":"data/lessons/c/c06.json","status":"planned"},
+        {"id":"c07","code":"C07","title":"Flow Operators nâng cao","path":"data/lessons/c/c07.json","status":"planned"},
+        {"id":"c08","code":"C08","title":"Debounce và Search Flow","path":"data/lessons/c/c08.json","status":"planned"},
+        {"id":"c09","code":"C09","title":"Context và Lifecycle của Flow","path":"data/lessons/c/c09.json","status":"planned"},
+        {"id":"c10","code":"C10","title":"UI State và One-time Event","path":"data/lessons/c/c10.json","status":"planned"},
+        {"id":"c11","code":"C11","title":"Flow Testing","path":"data/lessons/c/c11.json","status":"planned"}
+      ]
+    },
+    {
+      "id":"d","code":"D","title":"Jetpack Compose","lessons":[
+        {"id":"d01","code":"D01","title":"Declarative UI và Compose Runtime","path":"data/lessons/d/d01.json","status":"planned"},
+        {"id":"d02","code":"D02","title":"State trong Compose","path":"data/lessons/d/d02.json","status":"planned"},
+        {"id":"d03","code":"D03","title":"remember và rememberSaveable","path":"data/lessons/d/d03.json","status":"planned"},
+        {"id":"d04","code":"D04","title":"Side-effect APIs","path":"data/lessons/d/d04.json","status":"planned"},
+        {"id":"d05","code":"D05","title":"Stability và Recomposition","path":"data/lessons/d/d05.json","status":"planned"},
+        {"id":"d06","code":"D06","title":"Compose và ViewModel","path":"data/lessons/d/d06.json","status":"planned"},
+        {"id":"d07","code":"D07","title":"LazyColumn và hiệu năng danh sách","path":"data/lessons/d/d07.json","status":"planned"},
+        {"id":"d08","code":"D08","title":"Modifier","path":"data/lessons/d/d08.json","status":"planned"},
+        {"id":"d09","code":"D09","title":"Navigation Compose","path":"data/lessons/d/d09.json","status":"planned"},
+        {"id":"d10","code":"D10","title":"Deep Link trong Compose Navigation","path":"data/lessons/d/d10.json","status":"planned"},
+        {"id":"d11","code":"D11","title":"Animation và SharedTransition","path":"data/lessons/d/d11.json","status":"planned"},
+        {"id":"d12","code":"D12","title":"Compose Performance","path":"data/lessons/d/d12.json","status":"planned"},
+        {"id":"d13","code":"D13","title":"Compose UI Testing","path":"data/lessons/d/d13.json","status":"planned"}
+      ]
+    },
+    {
+      "id":"e","code":"E","title":"Android Platform","lessons":[
+        {"id":"e01","code":"E01","title":"Activity Lifecycle","path":"data/lessons/e/e01.json","status":"planned"},
+        {"id":"e02","code":"E02","title":"Configuration Change","path":"data/lessons/e/e02.json","status":"planned"},
+        {"id":"e03","code":"E03","title":"Process Death và State Restoration","path":"data/lessons/e/e03.json","status":"planned"},
+        {"id":"e04","code":"E04","title":"Context và Memory Leak","path":"data/lessons/e/e04.json","status":"planned"},
+        {"id":"e05","code":"E05","title":"Service và Foreground Service","path":"data/lessons/e/e05.json","status":"planned"},
+        {"id":"e06","code":"E06","title":"WorkManager","path":"data/lessons/e/e06.json","status":"planned"},
+        {"id":"e07","code":"E07","title":"BroadcastReceiver và PendingIntent","path":"data/lessons/e/e07.json","status":"planned"},
+        {"id":"e08","code":"E08","title":"Permission và Version Compatibility","path":"data/lessons/e/e08.json","status":"planned"},
+        {"id":"e09","code":"E09","title":"App Link và Deep Link","path":"data/lessons/e/e09.json","status":"planned"},
+        {"id":"e10","code":"E10","title":"Memory, ANR và Performance","path":"data/lessons/e/e10.json","status":"planned"}
+      ]
+    },
+    {
+      "id":"f","code":"F","title":"Architecture","lessons":[
+        {"id":"f01","code":"F01","title":"Separation of Concerns","path":"data/lessons/f/f01.json","status":"planned"},
+        {"id":"f02","code":"F02","title":"MVVM","path":"data/lessons/f/f02.json","status":"planned"},
+        {"id":"f03","code":"F03","title":"MVI và Unidirectional Data Flow","path":"data/lessons/f/f03.json","status":"planned"},
+        {"id":"f04","code":"F04","title":"Clean Architecture","path":"data/lessons/f/f04.json","status":"planned"},
+        {"id":"f05","code":"F05","title":"Repository Pattern","path":"data/lessons/f/f05.json","status":"planned"},
+        {"id":"f06","code":"F06","title":"Use Case","path":"data/lessons/f/f06.json","status":"planned"},
+        {"id":"f07","code":"F07","title":"Data Mapping","path":"data/lessons/f/f07.json","status":"planned"},
+        {"id":"f08","code":"F08","title":"Single Source of Truth","path":"data/lessons/f/f08.json","status":"planned"},
+        {"id":"f09","code":"F09","title":"Dependency Injection","path":"data/lessons/f/f09.json","status":"planned"},
+        {"id":"f10","code":"F10","title":"Modularization","path":"data/lessons/f/f10.json","status":"planned"},
+        {"id":"f11","code":"F11","title":"Error Model","path":"data/lessons/f/f11.json","status":"planned"},
+        {"id":"f12","code":"F12","title":"Architecture Upzi End-to-end","path":"data/lessons/f/f12.json","status":"planned"}
+      ]
+    },
+    {
+      "id":"h","code":"H","title":"Real-time Communication","lessons":[
+        {"id":"h01","code":"H01","title":"Polling, SSE và WebSocket","path":"data/lessons/h/h01.json","status":"planned"},
+        {"id":"h02","code":"H02","title":"Socket.IO","path":"data/lessons/h/h02.json","status":"planned"},
+        {"id":"h03","code":"H03","title":"SSE","path":"data/lessons/h/h03.json","status":"planned"},
+        {"id":"h04","code":"H04","title":"Connection State Machine","path":"data/lessons/h/h04.json","status":"planned"},
+        {"id":"h05","code":"H05","title":"Reconnect Strategy","path":"data/lessons/h/h05.json","status":"planned"},
+        {"id":"h06","code":"H06","title":"Thiết kế gửi Message","path":"data/lessons/h/h06.json","status":"planned"},
+        {"id":"h07","code":"H07","title":"Offline Queue","path":"data/lessons/h/h07.json","status":"planned"},
+        {"id":"h08","code":"H08","title":"Delivered và Read Receipt","path":"data/lessons/h/h08.json","status":"planned"},
+        {"id":"h09","code":"H09","title":"Đồng bộ Missed Message","path":"data/lessons/h/h09.json","status":"planned"},
+        {"id":"h10","code":"H10","title":"Chat System Design của Upzi","path":"data/lessons/h/h10.json","status":"planned"},
+        {"id":"h11","code":"H11","title":"SSE Multi-endpoint của Upzi","path":"data/lessons/h/h11.json","status":"planned"}
+      ]
+    }
+  ]
+}
