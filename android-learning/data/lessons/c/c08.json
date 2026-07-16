@@ -1,0 +1,990 @@
+{
+  "id": "c08",
+  "code": "C08",
+  "title": "Debounce và Search Flow",
+  "summary": "Thiết kế search-as-you-type bằng Kotlin Flow với debounce, normalization, distinctUntilChanged, flatMapLatest, cancellation, stale-result protection, UI state, cache, Paging 3, lifecycle và virtual-time testing.",
+  "estimatedMinutes": 330,
+  "sections": [
+    {
+      "id": "objectives",
+      "title": "1. Mục tiêu bài học",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "Debounce và search Flow là một bài toán nhỏ về cú pháp nhưng lớn về correctness. Một pipeline tìm kiếm tốt phải đồng thời giảm request thừa, không hiển thị kết quả cũ, mô hình hóa loading/error rõ ràng, tôn trọng lifecycle, vẫn phản hồi nhanh với cache và có test deterministic. Mục tiêu của bài là giúp bạn thiết kế search như một product contract thay vì ghép vài operator theo thói quen."
+        },
+        {
+          "type": "list",
+          "items": [
+            "Phân biệt debounce, throttle, sample và distinctUntilChanged theo semantics.",
+            "Thiết kế query normalization, minimum length và empty-query policy.",
+            "Dùng flatMapLatest để thực thi latest-only nhưng vẫn phòng stale result khi dependency không cancellable.",
+            "Mô hình hóa SearchUiState và error policy có thể kiểm thử.",
+            "Kết hợp query, filter, paging, cache và lifecycle mà không duplicate request.",
+            "Xây test virtual time cho debounce, cancellation, retry và race condition."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "prerequisites",
+      "title": "2. Kiến thức nền",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "Bạn cần nắm cold Flow, StateFlow, SharedFlow, cancellation, flowOn, catch, retryWhen, combine và flatMapLatest. Search pipeline thường bắt đầu từ StateFlow do ViewModel sở hữu, chuyển qua các intermediate operator, gọi repository rồi expose state bằng stateIn. Nếu chưa hiểu ownership và sharing, bạn có thể vô tình tạo một request cho mỗi collector hoặc giữ pipeline sống lâu hơn màn hình."
+        },
+        {
+          "type": "paragraph",
+          "content": "Cần phân biệt dữ liệu dạng snapshot với event. Query text và SearchUiState là snapshot; click vào kết quả hoặc snackbar là event. Debounce chỉ nên áp vào stream query snapshot, không áp vào event bắt buộc phải xử lý từng lần."
+        }
+      ]
+    },
+    {
+      "id": "terminology",
+      "title": "3. Thuật ngữ cốt lõi",
+      "blocks": [
+        {
+          "type": "table",
+          "headers": [
+            "Thuật ngữ",
+            "Giải thích"
+          ],
+          "rows": [
+            [
+              "Debounce window",
+              "Khoảng yên lặng phải trôi qua trước khi phát giá trị gần nhất."
+            ],
+            [
+              "Leading/trailing edge",
+              "Phát ở đầu hoặc cuối cửa sổ thời gian."
+            ],
+            [
+              "Throttle",
+              "Giới hạn tần suất phát theo cửa sổ nhưng semantics khác debounce."
+            ],
+            [
+              "Sample",
+              "Định kỳ lấy latest value tại tick thời gian."
+            ],
+            [
+              "Normalization",
+              "Chuẩn hóa query trước so sánh và request: trim, collapse whitespace, case policy."
+            ],
+            [
+              "Latest-only",
+              "Chỉ kết quả của criteria mới nhất được phép cập nhật UI."
+            ],
+            [
+              "Stale result",
+              "Kết quả query cũ hoàn thành sau query mới và ghi đè state."
+            ],
+            [
+              "Generation token",
+              "Số phiên request tăng dần để loại kết quả không còn thuộc criteria hiện tại."
+            ],
+            [
+              "Single-flight",
+              "Chỉ một request tương đương được chạy hoặc dùng chung tại một thời điểm."
+            ],
+            [
+              "Empty-query policy",
+              "Quy tắc UI khi query rỗng: history, trending, empty, hoặc default feed."
+            ],
+            [
+              "Search criteria",
+              "Toàn bộ input tạo request: query, filters, sort, page, location."
+            ],
+            [
+              "Cancellation transparency",
+              "Cancellation phải được propagate, không bị catch thành lỗi nghiệp vụ."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "internal-mechanics",
+      "title": "4. Cơ chế hoạt động của debounce",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "debounce không sleep collector theo cách blocking. Operator giữ giá trị mới nhất và lập lịch emission sau timeout. Nếu upstream phát tiếp trước deadline, emission cũ bị hủy và deadline được tính lại. Khi upstream im lặng đủ lâu, latest value được phát xuống downstream."
+        },
+        {
+          "type": "paragraph",
+          "content": "Điểm quan trọng là debounce chỉ trì hoãn emission, không tự cancel request đã bắt đầu trước nó. Vì vậy debounce phải đặt trước flatMapLatest hoặc trước side effect search. Nếu gọi API trong onEach rồi mới debounce result, request thừa vẫn đã xảy ra."
+        },
+        {
+          "type": "code",
+          "language": "kotlin",
+          "label": "Đúng thứ tự operator",
+          "content": "query\n    .map(::normalizeQuery)\n    .distinctUntilChanged()\n    .debounce(350)\n    .flatMapLatest(repository::search)"
+        },
+        {
+          "type": "paragraph",
+          "content": "Timeout là product parameter, không phải hằng số thần kỳ. 250–400 ms thường là điểm bắt đầu hợp lý cho keyboard search, nhưng giá trị đúng phụ thuộc latency, search cost, ngôn ngữ nhập liệu, khả năng gõ nhanh và kỳ vọng cập nhật tức thì. Nên đo request per session, time-to-first-result và abandonment thay vì chọn theo cảm giác."
+        }
+      ]
+    },
+    {
+      "id": "debounce-vs-others",
+      "title": "5. Debounce, throttle và sample",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "Debounce trailing-edge chỉ phát sau khi input ngừng thay đổi; phù hợp search text vì người dùng thường muốn kết quả cho cụm cuối. Throttle-first phát ngay giá trị đầu rồi bỏ các giá trị trong cửa sổ; phù hợp chặn double-click hơn là search. Sample phát latest value theo nhịp cố định; phù hợp telemetry hoặc progress, nhưng có thể tạo request giữa lúc người dùng vẫn đang gõ."
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Operator",
+            "Behavior",
+            "Use case phù hợp",
+            "Rủi ro khi dùng cho search"
+          ],
+          "rows": [
+            [
+              "debounce",
+              "Chờ yên lặng rồi phát latest",
+              "Text query",
+              "Tăng latency nếu timeout quá lớn"
+            ],
+            [
+              "throttleFirst",
+              "Phát đầu cửa sổ",
+              "Prevent double tap",
+              "Có thể giữ query cũ, bỏ query cuối"
+            ],
+            [
+              "sample",
+              "Phát latest tại tick",
+              "Telemetry/progress",
+              "Request định kỳ khi user vẫn gõ"
+            ],
+            [
+              "distinctUntilChanged",
+              "Bỏ giá trị liên tiếp bằng nhau",
+              "Normalize query",
+              "Không giảm giá trị khác nhau rất nhanh"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "distinctUntilChanged không thay debounce. Nó loại duplicate liên tiếp nhưng vẫn cho qua mọi chuỗi khác nhau. Hai operator giải quyết hai dimension: identity và time. Thứ tự normalization → distinct → debounce thường tránh reset timer vì khác biệt whitespace không có ý nghĩa."
+        }
+      ]
+    },
+    {
+      "id": "normalization",
+      "title": "6. Chuẩn hóa query và criteria",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "Normalization phải khớp contract server. trim và collapse whitespace thường an toàn; lowercase chỉ an toàn nếu backend search case-insensitive hoặc client cache key cũng dùng cùng policy. Không nên bỏ dấu tiếng Việt nếu backend có tokenizer riêng, vì client-side transformation có thể thay đổi nghĩa và làm analytics lệch query người dùng thực nhập."
+        },
+        {
+          "type": "code",
+          "language": "kotlin",
+          "label": "Chuẩn hóa có chủ đích",
+          "content": "fun normalizeQuery(raw: String): String =\n    raw.trim()\n        .replace(Regex(\"\\\\s+\"), \" \")"
+        },
+        {
+          "type": "paragraph",
+          "content": "Khi search phụ thuộc query, city, job type và sort, hãy tạo immutable SearchCriteria rồi distinct trên cả object. Debounce thường chỉ cần áp lên text query; filter click có thể cần phản hồi ngay. Có thể tách queryDebounced và filtersImmediate rồi combine để tránh trì hoãn mọi thay đổi."
+        },
+        {
+          "type": "code",
+          "language": "kotlin",
+          "label": "Debounce text, filter phản hồi ngay",
+          "content": "val debouncedQuery = rawQuery\n    .map(::normalizeQuery)\n    .distinctUntilChanged()\n    .debounce(350)\n\nval criteria = combine(\n    debouncedQuery,\n    selectedCity,\n    selectedJobType,\n    sort\n) { query, city, type, sort ->\n    SearchCriteria(query, city, type, sort)\n}.distinctUntilChanged()"
+        }
+      ]
+    },
+    {
+      "id": "when-to-use",
+      "title": "7. Dấu hiệu cần dùng debounce search",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "Debounce phù hợp khi mỗi thay đổi query có thể kích hoạt work đáng kể: network request, full-text database query, expensive ranking hoặc analytics event. Dấu hiệu điển hình là request tăng theo từng phím, server bị rate limit, UI nhấp nháy loading liên tục hoặc kết quả cũ xuất hiện trong lúc người dùng vẫn đang gõ."
+        },
+        {
+          "type": "list",
+          "items": [
+            "Search-as-you-type trên network hoặc database nặng.",
+            "Autocomplete có chi phí đáng kể.",
+            "Filter text làm recompute danh sách lớn.",
+            "Backend có quota/rate limit.",
+            "Cần giảm battery, radio wakeup và connection churn.",
+            "Kết quả trung gian ít giá trị hơn query cuối."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "when-not-to-use",
+      "title": "8. Khi không nên dùng",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "Không nên debounce action mang tính command như submit, payment, send message hoặc save bắt buộc; bỏ intermediate command là sai semantics. Với local filtering cực rẻ trên vài chục item, debounce có thể làm UI cảm giác chậm mà không đem lại lợi ích tài nguyên đáng kể."
+        },
+        {
+          "type": "paragraph",
+          "content": "Không nên debounce mọi filter. Toggle location, sort hoặc chip thường là explicit intent và người dùng kỳ vọng phản hồi ngay. Nếu backend search rất nhanh và có server-side cancellation, có thể dùng timeout nhỏ hoặc không debounce nhưng vẫn cần latest-only guard."
+        },
+        {
+          "type": "list",
+          "items": [
+            "Click event bắt buộc xử lý từng lần.",
+            "Accessibility action hoặc IME Search explicit.",
+            "Barcode/QR result đã hoàn chỉnh.",
+            "Local lookup O(1) hoặc danh sách nhỏ.",
+            "Command không được phép mất.",
+            "Filter explicit cần phản hồi tức thì."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "product-contract",
+      "title": "9. Yêu cầu sản phẩm cụ thể",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "Trước khi code, phải chốt empty query hiển thị gì, số ký tự tối thiểu, timeout, filter nào immediate, có search history hay không, khi offline dùng cache nào, loading có giữ kết quả cũ không, và lỗi nào hiển thị toàn màn hình hay inline. Thiếu contract này, team dễ tranh luận operator trong khi behavior sản phẩm chưa rõ."
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Requirement",
+            "Câu hỏi cần trả lời"
+          ],
+          "rows": [
+            [
+              "Minimum length",
+              "0, 2 hay 3 ký tự? Unicode tính theo code point hay grapheme?"
+            ],
+            [
+              "Empty state",
+              "History, trending, default feed hay blank?"
+            ],
+            [
+              "Loading",
+              "Giữ old results hay clear ngay?"
+            ],
+            [
+              "Offline",
+              "Cache stale-while-revalidate hay báo lỗi?"
+            ],
+            [
+              "Pagination",
+              "Đổi query reset page và invalidate source ra sao?"
+            ],
+            [
+              "Analytics",
+              "Log raw query, normalized query hay chỉ length/hash?"
+            ],
+            [
+              "Privacy",
+              "Có được lưu search history không? TTL bao lâu?"
+            ],
+            [
+              "SLA",
+              "Kết quả đầu tiên và refresh tối đa bao lâu?"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "architecture",
+      "title": "10. Kiến trúc ViewModel và repository",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "ViewModel nên sở hữu raw query và filter state; repository sở hữu data access, cache và request deduplication. UI chỉ gửi intent và collect immutable state. Không gọi repository trực tiếp từ composable onValueChange vì recomposition/lifecycle có thể làm ownership mơ hồ và test khó."
+        },
+        {
+          "type": "code",
+          "language": "kotlin",
+          "label": "ViewModel ownership",
+          "content": "class SearchViewModel(\n    private val repository: SearchRepository\n) : ViewModel() {\n    private val rawQuery = MutableStateFlow(\"\")\n    private val selectedCity = MutableStateFlow<String?>(null)\n\n    fun onQueryChanged(value: String) {\n        rawQuery.value = value\n    }\n\n    fun onCityChanged(value: String?) {\n        selectedCity.value = value\n    }\n}"
+        },
+        {
+          "type": "paragraph",
+          "content": "Repository nên expose suspend function cho một request hoặc Flow nếu có cache + network updates. Chọn shape dựa trên domain: suspend search(criteria) rõ ràng cho one-shot latest request; Flow search(criteria) phù hợp nếu Room là source of truth và kết quả có thể cập nhật tiếp."
+        }
+      ]
+    },
+    {
+      "id": "pipeline",
+      "title": "11. Pipeline search chuẩn",
+      "blocks": [
+        {
+          "type": "code",
+          "language": "kotlin",
+          "label": "Pipeline latest-only",
+          "content": "val uiState: StateFlow<SearchUiState> =\n    combine(\n        rawQuery.map(::normalizeQuery)\n            .distinctUntilChanged()\n            .debounce(350),\n        selectedCity\n    ) { query, city -> SearchCriteria(query, city) }\n        .flatMapLatest { criteria ->\n            if (criteria.query.length < 2) {\n                flowOf(SearchUiState.Idle)\n            } else {\n                repository.search(criteria)\n                    .map<SearchResult, SearchUiState> { SearchUiState.Content(it.items) }\n                    .onStart { emit(SearchUiState.Loading(previous = null)) }\n                    .catch { error -> emit(error.toSearchUiState()) }\n            }\n        }\n        .stateIn(\n            scope = viewModelScope,\n            started = SharingStarted.WhileSubscribed(5_000),\n            initialValue = SearchUiState.Idle\n        )"
+        },
+        {
+          "type": "paragraph",
+          "content": "flatMapLatest đặt boundary latest-only: criteria mới cancel inner flow cũ. catch nằm trong inner flow để một request lỗi không terminate stream criteria bên ngoài. stateIn chia sẻ pipeline cho UI collectors và giữ latest state. WhileSubscribed giảm work khi không có subscriber nhưng cần cân nhắc replay và timeout khi rotate."
+        },
+        {
+          "type": "paragraph",
+          "content": "onStart trong inner flow đảm bảo loading gắn với đúng criteria. Nếu onStart đặt sau flatMapLatest, loading semantics vẫn có thể dùng nhưng khó mang theo previous data và request identity. Với UI giữ kết quả cũ, state nên chứa criteria và previous content để tránh spinner toàn màn hình."
+        }
+      ]
+    },
+    {
+      "id": "ui-state",
+      "title": "12. Mô hình SearchUiState",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "State nên biểu diễn đầy đủ các trạng thái có ý nghĩa sản phẩm, không chỉ boolean loading và nullable error. Boolean rời rạc dễ tạo tổ hợp bất hợp lệ như loading=false, data=null, error=null nhưng không biết là idle hay empty."
+        },
+        {
+          "type": "code",
+          "language": "kotlin",
+          "label": "Sealed UI state",
+          "content": "sealed interface SearchUiState {\n    data object Idle : SearchUiState\n    data class Loading(\n        val criteria: SearchCriteria,\n        val previous: List<SearchItem>?\n    ) : SearchUiState\n    data class Content(\n        val criteria: SearchCriteria,\n        val items: List<SearchItem>,\n        val fromCache: Boolean\n    ) : SearchUiState\n    data class Empty(val criteria: SearchCriteria) : SearchUiState\n    data class Error(\n        val criteria: SearchCriteria,\n        val kind: SearchError,\n        val previous: List<SearchItem>?\n    ) : SearchUiState\n}"
+        },
+        {
+          "type": "paragraph",
+          "content": "Mang criteria trong state giúp debug stale result, analytics và render đúng query hiện tại. Tuy nhiên không nên đưa raw sensitive query vào log/crash report. UI state có thể giữ query trong memory nhưng observability phải redact theo privacy requirement."
+        }
+      ]
+    },
+    {
+      "id": "cancellation",
+      "title": "13. Cancellation và stale-result protection",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "flatMapLatest chỉ an toàn nếu dependency cooperative cancellation. Retrofit/OkHttp coroutine adapter thường cancel Call khi coroutine bị hủy, nhưng callback bridge tự viết, legacy SDK hoặc blocking IO có thể tiếp tục chạy. Khi result cũ về sau, nó có thể mutate shared cache hoặc callback trực tiếp vào state ngoài pipeline."
+        },
+        {
+          "type": "code",
+          "language": "kotlin",
+          "label": "Generation guard cho dependency không cancellable",
+          "content": "private val generation = AtomicLong(0)\n\nsuspend fun searchLatest(criteria: SearchCriteria): SearchResult {\n    val token = generation.incrementAndGet()\n    val result = legacySearch(criteria)\n    if (token != generation.get()) throw CancellationException(\"Stale generation\")\n    return result\n}"
+        },
+        {
+          "type": "paragraph",
+          "content": "Generation guard là lớp phòng thủ, không thay cancellation. Nó ngăn commit result cũ nhưng vẫn tốn network/CPU. Cần đồng thời sửa adapter để dispose callback/listener khi awaitClose hoặc invokeOnCancellation. Không được catch CancellationException và chuyển thành Error UI."
+        }
+      ]
+    },
+    {
+      "id": "errors",
+      "title": "14. Error policy và retry",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "Search là read operation nên retry có thể hợp lý cho IOException hoặc 5xx tạm thời, nhưng không retry 400, 401, 403 hoặc cancellation. Retry phải bounded, có backoff và reset khi criteria đổi. flatMapLatest sẽ cancel retry delay của query cũ nếu pipeline được cấu trúc đúng."
+        },
+        {
+          "type": "code",
+          "language": "kotlin",
+          "label": "Retry có taxonomy",
+          "content": "repository.search(criteria)\n    .retryWhen { cause, attempt ->\n        val retryable = cause is IOException && attempt < 2\n        if (retryable) delay(300L * (attempt + 1))\n        retryable\n    }\n    .catch { cause ->\n        if (cause is CancellationException) throw cause\n        emit(SearchResult.Failure(cause.toSearchError()))\n    }"
+        },
+        {
+          "type": "paragraph",
+          "content": "Nếu backend trả rate-limit với Retry-After, policy nên tôn trọng header và có jitter để tránh đồng loạt retry. Với offline, có thể emit cache trước rồi network refresh; network fail khi đã có cache thường là inline stale indicator thay vì full-screen error."
+        }
+      ]
+    },
+    {
+      "id": "cache",
+      "title": "15. Cache, single source of truth và single-flight",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "Debounce giảm request từ input nhưng không xử lý duplicate collectors, rotate hoặc hai màn hình tìm cùng criteria. Repository nên có cache key canonical từ SearchCriteria và có single-flight hoặc database source of truth để tránh request giống nhau chạy song song."
+        },
+        {
+          "type": "code",
+          "language": "kotlin",
+          "label": "Single-flight đơn giản",
+          "content": "private val inFlight = Mutex()\nprivate val requests = mutableMapOf<SearchCriteria, Deferred<SearchResult>>()\n\nsuspend fun search(criteria: SearchCriteria): SearchResult = coroutineScope {\n    val deferred = inFlight.withLock {\n        requests[criteria] ?: async { api.search(criteria) }\n            .also { requests[criteria] = it }\n    }\n    try {\n        deferred.await()\n    } finally {\n        inFlight.withLock {\n            if (requests[criteria] === deferred) requests.remove(criteria)\n        }\n    }\n}"
+        },
+        {
+          "type": "paragraph",
+          "content": "Single-flight phải quyết định ownership cancellation: nếu một caller cancel, có cancel shared request cho caller khác không? Thường shared request nên sống trong repository scope hoặc reference-counted, không là child trực tiếp của caller đầu tiên. Thiết kế đơn giản ở trên cần được điều chỉnh nếu có nhiều caller độc lập."
+        }
+      ]
+    },
+    {
+      "id": "paging",
+      "title": "16. Search kết hợp Paging 3",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "Với Paging 3, criteria mới nên tạo Pager mới bên trong flatMapLatest; cachedIn đặt sau flatMapLatest ở ViewModel scope để chia sẻ PagingData hiện tại. Không reuse PagingSource giữa criteria vì invalidate, key và query contract khác nhau."
+        },
+        {
+          "type": "code",
+          "language": "kotlin",
+          "label": "Search Paging",
+          "content": "val pagingData = criteria\n    .filter { it.query.length >= 2 }\n    .flatMapLatest { criteria ->\n        Pager(\n            config = PagingConfig(pageSize = 20),\n            pagingSourceFactory = { repository.searchPagingSource(criteria) }\n        ).flow\n    }\n    .cachedIn(viewModelScope)"
+        },
+        {
+          "type": "paragraph",
+          "content": "Debounce query trước khi tạo Pager. Filter explicit có thể combine sau query debounce để tạo Pager ngay. Khi query rỗng, chuyển sang empty flow hoặc history Pager theo product contract. Test phải xác nhận Pager cũ ngừng load khi criteria đổi."
+        }
+      ]
+    },
+    {
+      "id": "lifecycle",
+      "title": "17. Lifecycle và sharing",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "Compose nên collect bằng collectAsStateWithLifecycle. Điều này ngừng collection khi lifecycle dưới STARTED, nhưng pipeline có thực sự ngừng hay không còn phụ thuộc stateIn/shareIn started policy. WhileSubscribed có stop timeout giúp tránh restart request khi configuration change ngắn."
+        },
+        {
+          "type": "code",
+          "language": "kotlin",
+          "label": "Compose collection",
+          "content": "@Composable\nfun SearchRoute(viewModel: SearchViewModel) {\n    val state by viewModel.uiState.collectAsStateWithLifecycle()\n    SearchScreen(\n        state = state,\n        onQueryChanged = viewModel::onQueryChanged\n    )\n}"
+        },
+        {
+          "type": "paragraph",
+          "content": "Không launch collect trong composable bằng LaunchedEffect(Unit) chỉ để copy Flow sang local mutableStateOf nếu đã có lifecycle-aware API. Với Fragment/View, dùng repeatOnLifecycle. Search history persistence hoặc prefetch background là requirement khác, không nên vô tình giữ screen search chạy application-wide."
+        }
+      ]
+    },
+    {
+      "id": "resources",
+      "title": "18. Resource limits và performance",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "Search có thể tiêu thụ connection pool, CPU tokenizer, database cursor, memory cache và radio wakeups. Timeout debounce chỉ là một control. Cần thêm HTTP timeout, max concurrent request, response size limit, page size, cache TTL và cancellation metrics."
+        },
+        {
+          "type": "paragraph",
+          "content": "Không chuyển toàn pipeline sang Dispatchers.IO bằng flowOn nếu chỉ Retrofit suspend call; client đã xử lý thread. Chỉ chuyển CPU-heavy local ranking hoặc blocking DAO legacy. flowOn chỉ ảnh hưởng upstream trước nó, nên placement phải được giải thích rõ."
+        },
+        {
+          "type": "code",
+          "language": "kotlin",
+          "label": "Chuyển CPU ranking đúng boundary",
+          "content": "repository.search(criteria)\n    .map { result -> heavyRank(result, criteria) }\n    .flowOn(Dispatchers.Default)"
+        }
+      ]
+    },
+    {
+      "id": "upzi-case",
+      "title": "19. Case study Upzi và tính trung thực",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "`confirmed`: Upzi dùng Kotlin Flow/StateFlow, Paging 3, ViewModel và Compose trong Android architecture; các pattern query state, paging và lifecycle có liên quan trực tiếp đến codebase đã mô tả. Tuy nhiên chi tiết implementation search cụ thể không được khẳng định nếu chưa đọc code hiện tại."
+        },
+        {
+          "type": "paragraph",
+          "content": "`inferred`: Với màn hình opportunity/job list có filter, có khả năng criteria gồm query, location, sort và paging. Đây là suy luận từ domain và kiến trúc, không phải xác nhận pipeline debounce đang production."
+        },
+        {
+          "type": "paragraph",
+          "content": "`proposed`: Tách rawQuery, debouncedQuery và immediate filters; combine thành SearchCriteria; flatMapLatest tạo Pager; cachedIn(viewModelScope); UI collect lifecycle-aware. Đề xuất thêm generation token nếu API layer hoặc SDK không đảm bảo cancellation."
+        },
+        {
+          "type": "paragraph",
+          "content": "`needs-confirmation`: Trước khi dùng như kinh nghiệm phỏng vấn, cần xác nhận timeout thực tế, backend search contract, minimum length, cache policy, analytics/privacy, và Upzi đã từng gặp stale result hay request storm hay chưa."
+        }
+      ]
+    },
+    {
+      "id": "alternatives",
+      "title": "20. Phương án thay thế và trade-off",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "Explicit search bằng IME action giảm request và đơn giản correctness, phù hợp search đắt hoặc người dùng nhập truy vấn dài. Trade-off là kém tức thì và thêm thao tác. Hybrid có thể autocomplete nhẹ khi gõ nhưng full search khi submit."
+        },
+        {
+          "type": "paragraph",
+          "content": "Server-side autocomplete endpoint thường rẻ hơn full search. Client có thể debounce autocomplete ngắn, còn result page dùng explicit action. Local prefix index hoặc Room FTS cho offline search tránh network nhưng tăng storage, sync complexity và ranking consistency."
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Phương án",
+            "Ưu điểm",
+            "Trade-off"
+          ],
+          "rows": [
+            [
+              "Search-as-you-type + debounce",
+              "Phản hồi tự nhiên",
+              "Race, request cost, loading complexity"
+            ],
+            [
+              "Explicit submit",
+              "Dễ kiểm soát request",
+              "Thêm thao tác"
+            ],
+            [
+              "Local FTS",
+              "Nhanh, offline",
+              "Index/storage/sync"
+            ],
+            [
+              "Server autocomplete",
+              "Payload nhỏ",
+              "Thêm endpoint và ranking"
+            ],
+            [
+              "Hybrid cache-first",
+              "TTFR thấp",
+              "Stale policy phức tạp"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "edge-cases",
+      "title": "21. Edge cases cần kiểm thử",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "Bug search thường nằm ở timing, Unicode và lifecycle. Test không chỉ happy path mà phải điều khiển clock, cancellation và completion order."
+        },
+        {
+          "type": "list",
+          "items": [
+            "User gõ `a`, `ab`, `abc` sát deadline debounce.",
+            "Query đổi đúng lúc request cũ emit loading hoặc data.",
+            "Query normalize về cùng giá trị dù raw text khác whitespace.",
+            "IME composition với tiếng Việt/tiếng Nhật chưa commit.",
+            "Query rỗng sau khi đã có content.",
+            "Filter đổi trong khi query debounce đang chờ.",
+            "Offline có cache rồi network fail.",
+            "401 không retry; IOException retry giới hạn.",
+            "Legacy request không cancellable trả result cũ sau result mới.",
+            "Rotate trong stop timeout và sau stop timeout.",
+            "Hai collectors cùng subscribe.",
+            "PagingSource cũ tiếp tục append sau criteria mới.",
+            "Response empty khác error.",
+            "Large result làm main-thread mapping chậm.",
+            "Search history chứa dữ liệu nhạy cảm."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "common-mistakes",
+      "title": "22. Sai lầm thường gặp",
+      "blocks": [
+        {
+          "type": "list",
+          "items": [
+            "Đặt debounce sau khi đã gọi API.",
+            "Cho rằng distinctUntilChanged thay debounce.",
+            "Debounce cả filter explicit và làm UI chậm.",
+            "catch CancellationException thành Error.",
+            "Đặt catch ngoài flatMapLatest làm stream query chết sau lỗi.",
+            "Không normalize trước distinct.",
+            "Chỉ dùng flatMapLatest nhưng dependency không cancellable.",
+            "Expose nhiều boolean state tạo tổ hợp bất hợp lệ.",
+            "Tạo Pager ngoài flatMapLatest và reuse PagingSource.",
+            "Dùng stateIn Eagerly khiến search chạy khi không có UI.",
+            "Log raw query vào analytics/crash.",
+            "Giữ cache không TTL hoặc không canonical key.",
+            "Retry vô hạn hoặc retry 401.",
+            "Không test virtual time, dùng delay thật."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "Một câu trả lời interview yếu thường chỉ nói debounce 300 ms rồi flatMapLatest. Câu trả lời Middle cần nói rõ product contract, operator order, cancellation, stale guard, error boundary, lifecycle, resource budget và test strategy."
+        }
+      ]
+    },
+    {
+      "id": "interview",
+      "title": "23. Câu hỏi phỏng vấn, bài tập và checklist",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "Câu hỏi cơ bản: debounce hoạt động thế nào, khác throttle ra sao, vì sao cần distinctUntilChanged, và flatMapLatest giải quyết gì. Câu hỏi sâu thường tập trung vào dependency không cancellable, catch placement, lifecycle sharing, Paging 3 và virtual time."
+        },
+        {
+          "type": "list",
+          "items": [
+            "Vì sao debounce phải đặt trước side effect?",
+            "Normalization nên đặt trước hay sau distinct?",
+            "flatMapLatest có bảo đảm request HTTP bị hủy không?",
+            "Tại sao catch nên nằm trong inner flow?",
+            "Khi nào giữ previous data trong loading/error?",
+            "Search Paging reset thế nào khi criteria đổi?",
+            "WhileSubscribed stopTimeout ảnh hưởng rotate ra sao?",
+            "Thiết kế single-flight mà một caller cancel không hủy caller khác.",
+            "Bạn bảo vệ search history và analytics thế nào?",
+            "Test stale result không cancellable ra sao?"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "Bài tập thực hành: xây SearchViewModel có raw query, city filter, debounce 300 ms, minimum length 2, flatMapLatest, retry IOException tối đa hai lần, sealed UI state và test bằng runTest/advanceTimeBy. Fake repository phải ghi nhận criteria, hỗ trợ delay tùy request và báo cancellation."
+        },
+        {
+          "type": "paragraph",
+          "content": "Bài tập tình huống: backend autocomplete rẻ nhưng full search đắt; thiết kế hybrid pipeline, state model, cache key, analytics và error UI. Giải thích operator nào áp cho autocomplete, operator nào cho explicit submit."
+        },
+        {
+          "type": "list",
+          "items": [
+            "Tôi mô tả được semantics theo thời gian.",
+            "Tôi đặt operator đúng trước side effect.",
+            "Tôi có empty/min-length policy rõ.",
+            "Tôi không nuốt cancellation.",
+            "Tôi chống stale result cho dependency legacy.",
+            "Tôi mô hình hóa state hợp lệ.",
+            "Tôi giới hạn retry và tài nguyên.",
+            "Tôi test timing bằng virtual time.",
+            "Tôi phân biệt Upzi confirmed/proposed."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "summary-quiz",
+      "title": "24. Tóm tắt cần nhớ và quiz",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "Debounce phát latest value sau một khoảng yên lặng; nó không tự hủy side effect đã bắt đầu. Pipeline search thường normalize → distinct → debounce query → combine filter → flatMapLatest request → map state → stateIn. Correctness còn phụ thuộc cancellation của dependency, error boundary, lifecycle, cache, paging và privacy."
+        },
+        {
+          "type": "callout",
+          "variant": "purpose",
+          "title": "Nguyên tắc thiết kế",
+          "content": "Bắt đầu từ search product contract và latest-only invariant; sau đó mới chọn timeout và operator."
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "c08-q01",
+      "question": "debounce phát giá trị khi nào?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ngay mỗi emission"
+        },
+        {
+          "id": "b",
+          "text": "Sau khi không có emission mới trong timeout"
+        },
+        {
+          "id": "c",
+          "text": "Theo từng tick cố định"
+        },
+        {
+          "id": "d",
+          "text": "Khi upstream lỗi"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "explanation": "Debounce trailing-edge phát latest value sau một khoảng yên lặng."
+    },
+    {
+      "id": "c08-q02",
+      "question": "Thứ tự nào hợp lý nhất?",
+      "options": [
+        {
+          "id": "a",
+          "text": "API → debounce"
+        },
+        {
+          "id": "b",
+          "text": "normalize → distinct → debounce → flatMapLatest"
+        },
+        {
+          "id": "c",
+          "text": "flatMapLatest → normalize"
+        },
+        {
+          "id": "d",
+          "text": "retry → raw input"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "explanation": "Side effect phải nằm sau debounce; normalize và distinct giảm reset timer không cần thiết."
+    },
+    {
+      "id": "c08-q03",
+      "question": "distinctUntilChanged giải quyết gì?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Giới hạn theo thời gian"
+        },
+        {
+          "id": "b",
+          "text": "Loại giá trị liên tiếp bằng nhau"
+        },
+        {
+          "id": "c",
+          "text": "Cancel HTTP"
+        },
+        {
+          "id": "d",
+          "text": "Tạo cache"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "explanation": "Nó xử lý identity, không xử lý tần suất."
+    },
+    {
+      "id": "c08-q04",
+      "question": "flatMapLatest bảo đảm điều gì?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Mọi dependency chắc chắn dừng"
+        },
+        {
+          "id": "b",
+          "text": "Inner flow cũ bị cancel khi input mới đến"
+        },
+        {
+          "id": "c",
+          "text": "Ordering mọi result"
+        },
+        {
+          "id": "d",
+          "text": "Retry tự động"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "explanation": "Nó cancel coroutine/inner flow cũ; dependency phải cooperative."
+    },
+    {
+      "id": "c08-q05",
+      "question": "Khi dependency không cancellable cần gì thêm?",
+      "options": [
+        {
+          "id": "a",
+          "text": "zip"
+        },
+        {
+          "id": "b",
+          "text": "generation guard"
+        },
+        {
+          "id": "c",
+          "text": "conflate command"
+        },
+        {
+          "id": "d",
+          "text": "GlobalScope"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "explanation": "Generation token ngăn stale result commit vào state."
+    },
+    {
+      "id": "c08-q06",
+      "question": "catch nên đặt ở đâu để lỗi một request không làm chết query stream?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Trong inner flow của flatMapLatest"
+        },
+        {
+          "id": "b",
+          "text": "Trước rawQuery"
+        },
+        {
+          "id": "c",
+          "text": "Ngoài stateIn duy nhất"
+        },
+        {
+          "id": "d",
+          "text": "Không cần catch"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "explanation": "Catch trong inner flow materialize lỗi của từng criteria."
+    },
+    {
+      "id": "c08-q07",
+      "question": "Filter explicit nên luôn debounce cùng query không?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Có"
+        },
+        {
+          "id": "b",
+          "text": "Không; thường phản hồi ngay theo product contract"
+        },
+        {
+          "id": "c",
+          "text": "Chỉ khi dùng Room"
+        },
+        {
+          "id": "d",
+          "text": "Chỉ Android 14"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "explanation": "Text typing và explicit filter có semantics khác nhau."
+    },
+    {
+      "id": "c08-q08",
+      "question": "CancellationException nên xử lý thế nào?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Chuyển thành Error UI"
+        },
+        {
+          "id": "b",
+          "text": "Retry vô hạn"
+        },
+        {
+          "id": "c",
+          "text": "Rethrow/propagate"
+        },
+        {
+          "id": "d",
+          "text": "Log raw query"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "explanation": "Cancellation là control flow, không phải lỗi nghiệp vụ."
+    },
+    {
+      "id": "c08-q09",
+      "question": "Paging 3 với criteria mới nên làm gì?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Reuse PagingSource cũ"
+        },
+        {
+          "id": "b",
+          "text": "Tạo Pager/PagingSource mới trong flatMapLatest"
+        },
+        {
+          "id": "c",
+          "text": "Dùng sample"
+        },
+        {
+          "id": "d",
+          "text": "Không invalidate"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "explanation": "Criteria mới cần nguồn paging mới và hủy nguồn cũ."
+    },
+    {
+      "id": "c08-q10",
+      "question": "WhileSubscribed stopTimeout có ích gì?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Mã hóa query"
+        },
+        {
+          "id": "b",
+          "text": "Tránh restart ngắn khi configuration change"
+        },
+        {
+          "id": "c",
+          "text": "Bảo đảm HTTP 200"
+        },
+        {
+          "id": "d",
+          "text": "Thay debounce"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "explanation": "Timeout ngắn giữ sharing qua khoảng không subscriber ngắn."
+    },
+    {
+      "id": "c08-q11",
+      "question": "Debounce phù hợp nhất với loại dữ liệu nào?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Payment command"
+        },
+        {
+          "id": "b",
+          "text": "Text query snapshot"
+        },
+        {
+          "id": "c",
+          "text": "Audit event"
+        },
+        {
+          "id": "d",
+          "text": "Send message"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "explanation": "Query snapshot cho phép bỏ intermediate values."
+    },
+    {
+      "id": "c08-q12",
+      "question": "Một retry policy search tốt cần gì?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Retry mọi Throwable"
+        },
+        {
+          "id": "b",
+          "text": "Bounded + taxonomy + backoff + không nuốt cancellation"
+        },
+        {
+          "id": "c",
+          "text": "Chỉ delay cố định vô hạn"
+        },
+        {
+          "id": "d",
+          "text": "Chạy Main"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "explanation": "Retry phải giới hạn và phân loại lỗi."
+    }
+  ]
+}

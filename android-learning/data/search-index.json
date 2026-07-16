@@ -534,5 +534,33 @@
       "retryWhen",
       "scan và reducer"
     ]
+  },
+  {
+    "lessonId": "c08",
+    "code": "C08",
+    "title": "Debounce và Search Flow",
+    "keywords": [
+      "debounce",
+      "search Flow",
+      "distinctUntilChanged",
+      "flatMapLatest",
+      "SearchCriteria",
+      "stale result",
+      "generation token",
+      "Paging 3",
+      "single-flight",
+      "virtual time"
+    ],
+    "headings": [
+      "Cơ chế debounce",
+      "Debounce và throttle",
+      "Search criteria",
+      "Latest-only",
+      "SearchUiState",
+      "Cancellation",
+      "Paging 3",
+      "Lifecycle",
+      "Upzi case study"
+    ]
   }
 ]
