@@ -193,5 +193,40 @@
       "Trade-off và edge cases",
       "Câu hỏi phỏng vấn"
     ]
+  },
+  {
+    "lessonId": "b07",
+    "code": "B07",
+    "title": "Exception Handling",
+    "keywords": [
+      "exception propagation",
+      "CoroutineExceptionHandler",
+      "try catch",
+      "launch",
+      "async",
+      "await",
+      "CancellationException",
+      "supervisorScope",
+      "fail-fast",
+      "partial success",
+      "Result",
+      "AppError",
+      "retry",
+      "backoff",
+      "idempotency",
+      "Upzi Job Detail"
+    ],
+    "headings": [
+      "Cơ chế exception propagation bên trong",
+      "launch, async và suspend function xử lý lỗi khác nhau thế nào",
+      "Ranh giới try/catch đúng và sai",
+      "CoroutineExceptionHandler: mục đích và giới hạn",
+      "Yêu cầu sản phẩm cụ thể",
+      "Chuẩn hóa error model giữa các layer",
+      "Retry, backoff và idempotency",
+      "Case study Upzi và tính trung thực kinh nghiệm",
+      "Edge cases",
+      "Câu hỏi phỏng vấn"
+    ]
   }
 ]

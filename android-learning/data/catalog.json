@@ -81,8 +81,8 @@
           "code": "B07",
           "title": "Exception Handling",
           "path": "data/lessons/b/b07.json",
-          "estimatedMinutes": 120,
-          "status": "planned"
+          "estimatedMinutes": 210,
+          "status": "published"
         },
         {
           "id": "b08",
