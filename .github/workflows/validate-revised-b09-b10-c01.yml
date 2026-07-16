@@ -1,0 +1,40 @@
+name: Validate revised B09 B10 C01
+
+on:
+  push:
+    branches:
+      - handbook/revise-b09-b10-c01
+    paths:
+      - android-learning/data/lessons/b/b09.json
+      - android-learning/data/lessons/b/b10.json
+      - android-learning/data/lessons/c/c01.json
+      - scripts/validate_revised_b09_b10_c01.py
+      - .github/workflows/validate-revised-b09-b10-c01.yml
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: handbook/revise-b09-b10-c01
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Validate lesson depth and metadata
+        run: python scripts/validate_revised_b09_b10_c01.py
+      - name: Commit catalog reading-time updates
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add android-learning/data/catalog.json
+          if git diff --cached --quiet; then
+            echo "No catalog changes"
+          else
+            git commit -m "docs(android): align revised lesson reading times"
+            git push origin HEAD:handbook/revise-b09-b10-c01
+          fi
