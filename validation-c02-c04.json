@@ -1,0 +1,29 @@
+{
+  "c02": {
+    "sections": 24,
+    "uniqueSectionIds": 24,
+    "paragraphs": 32,
+    "paragraphCharacters": 8686,
+    "codeBlocks": 9,
+    "quizQuestions": 12,
+    "quizAnswersValid": true
+  },
+  "c03": {
+    "sections": 24,
+    "uniqueSectionIds": 24,
+    "paragraphs": 30,
+    "paragraphCharacters": 13307,
+    "codeBlocks": 8,
+    "quizQuestions": 12,
+    "quizAnswersValid": true
+  },
+  "c04": {
+    "sections": 24,
+    "uniqueSectionIds": 24,
+    "paragraphs": 32,
+    "paragraphCharacters": 8685,
+    "codeBlocks": 7,
+    "quizQuestions": 12,
+    "quizAnswersValid": true
+  }
+}

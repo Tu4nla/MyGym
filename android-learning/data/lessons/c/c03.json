@@ -1,0 +1,223 @@
+{
+  "id": "c03",
+  "code": "C03",
+  "title": "StateFlow",
+  "summary": "Hiểu StateFlow như một state holder hot, always-active, có current value, equality-based conflation và multi-collector semantics; thiết kế immutable UI state, atomic update, lifecycle collection, stateIn, reducer ownership và test state transition đúng cách.",
+  "estimatedMinutes": 300,
+  "sections": [
+    {
+      "id": "objectives",
+      "title": "1. Mục tiêu bài học",
+      "blocks": [
+        {"type":"paragraph","content":"StateFlow không chỉ là LiveData viết bằng coroutine. Nó là một hot state holder có current value, phát latest state cho subscriber mới và conflates theo equality. Dùng đúng StateFlow đòi hỏi bạn phân biệt state với event, xác định owner mutation, giữ state immutable và hiểu rằng collector không phải event log."},
+        {"type":"list","items":["Giải thích MutableStateFlow/StateFlow, current value và replay latest semantics.","Hiểu equality-based conflation và hệ quả với intermediate state.","Thiết kế immutable UI state và atomic update không side effect.","Phân biệt direct MutableStateFlow với cold Flow.stateIn.","Thu thập StateFlow theo lifecycle Android đúng cách.","Tránh race, duplicated owner, event misuse và expensive state copy."]}
+      ]
+    },
+    {
+      "id": "prerequisites",
+      "title": "2. Kiến thức nền",
+      "blocks": [
+        {"type":"paragraph","content":"Bạn cần hiểu C01-C02: reactive stream, cold/hot semantics, collection lifecycle và backpressure. StateFlow là hot và không complete theo cách cold finite Flow thường complete; owner giữ state tồn tại độc lập collector."},
+        {"type":"list","items":["B09: immutable state, atomic update, CAS và single owner.","B10: coroutine testing, StateFlow conflation và TestScope.","Android ViewModel và Compose state rendering."]}
+      ]
+    },
+    {
+      "id": "terminology",
+      "title": "3. Thuật ngữ cốt lõi",
+      "blocks": [
+        {"type":"table","headers":["Thuật ngữ","Giải thích"],"rows":[["StateFlow","Hot Flow biểu diễn state hiện tại; luôn có value và subscriber mới nhận latest value."],["MutableStateFlow","Phiên bản mutable cho owner cập nhật value, compareAndSet hoặc update."],["Current value","Snapshot hiện tại có thể đọc đồng bộ qua value."],["Conflation","Nếu state thay đổi nhanh, collector chậm có thể bỏ qua intermediate value và nhận latest."],["Equality-based suppression","Gán value equal theo equals với current value thường không phát emission mới."],["State holder","Object sở hữu current state và mutation policy."],["Reducer","Hàm biến old state + action/result thành new immutable state."],["Atomic update","Cập nhật dựa trên current state bằng CAS loop, tránh lost update."],["stateIn","Chuyển cold Flow thành StateFlow trong một CoroutineScope với SharingStarted và initial value."],["SharingStarted","Policy quyết định upstream cold bắt đầu/dừng khi StateFlow được share."],["Subscriber","Collector nhận current/latest state."],["UI state","Snapshot đầy đủ đủ để render UI tại một thời điểm."]]}
+      ]
+    },
+    {
+      "id": "hot-state-holder",
+      "title": "4. StateFlow là hot state holder",
+      "blocks": [
+        {"type":"paragraph","content":"MutableStateFlow tồn tại và giữ value ngay khi được tạo, không cần collector để bắt đầu producer. Gán value cập nhật state holder; collector chỉ quan sát. Đây là khác biệt nền tảng với cold Flow, nơi producer chạy theo mỗi collection. State holder vì thế cần một owner có lifecycle rõ, thường là ViewModel hoặc repository sống theo session. Nếu tạo MutableStateFlow trong composable hoặc trong một function được gọi lại nhiều lần, bạn có thể vô tình tạo nhiều nguồn state độc lập, khiến UI quan sát object này trong khi producer đang cập nhật object khác. StateFlow không tự giải quyết ownership; nó chỉ cung cấp primitive giữ latest value và broadcast update. Thiết kế production phải trả lời ai được phép ghi, state sống bao lâu, khi owner bị hủy thì upstream nào dừng, và collector mới cần nhận trạng thái ban đầu nào. Với stateIn, những câu hỏi này còn gắn với SharingStarted, initialValue và scope được chọn. Chọn scope quá dài có thể giữ network/database observation không cần thiết; chọn scope quá ngắn làm upstream restart liên tục và mất lợi ích chia sẻ. State holder vì thế cần một owner có lifecycle rõ, thường là ViewModel hoặc repository sống theo session. Nếu tạo MutableStateFlow trong composable hoặc trong một function được gọi lại nhiều lần, bạn có thể vô tình tạo nhiều nguồn state độc lập, khiến UI quan sát object này trong khi producer đang cập nhật object khác. StateFlow không tự giải quyết ownership; nó chỉ cung cấp primitive giữ latest value và broadcast update. Thiết kế production phải trả lời ai được phép ghi, state sống bao lâu, khi owner bị hủy thì upstream nào dừng, và collector mới cần nhận trạng thái ban đầu nào. Với stateIn, những câu hỏi này còn gắn với SharingStarted, initialValue và scope được chọn. Chọn scope quá dài có thể giữ network/database observation không cần thiết; chọn scope quá ngắn làm upstream restart liên tục và mất lợi ích chia sẻ. State holder vì thế cần một owner có lifecycle rõ, thường là ViewModel hoặc repository sống theo session. Nếu tạo MutableStateFlow trong composable hoặc trong một function được gọi lại nhiều lần, bạn có thể vô tình tạo nhiều nguồn state độc lập, khiến UI quan sát object này trong khi producer đang cập nhật object khác. StateFlow không tự giải quyết ownership; nó chỉ cung cấp primitive giữ latest value và broadcast update. Thiết kế production phải trả lời ai được phép ghi, state sống bao lâu, khi owner bị hủy thì upstream nào dừng, và collector mới cần nhận trạng thái ban đầu nào. Với stateIn, những câu hỏi này còn gắn với SharingStarted, initialValue và scope được chọn. Chọn scope quá dài có thể giữ network/database observation không cần thiết; chọn scope quá ngắn làm upstream restart liên tục và mất lợi ích chia sẻ. State holder vì thế cần một owner có lifecycle rõ, thường là ViewModel hoặc repository sống theo session. Nếu tạo MutableStateFlow trong composable hoặc trong một function được gọi lại nhiều lần, bạn có thể vô tình tạo nhiều nguồn state độc lập, khiến UI quan sát object này trong khi producer đang cập nhật object khác. StateFlow không tự giải quyết ownership; nó chỉ cung cấp primitive giữ latest value và broadcast update. Thiết kế production phải trả lời ai được phép ghi, state sống bao lâu, khi owner bị hủy thì upstream nào dừng, và collector mới cần nhận trạng thái ban đầu nào. Với stateIn, những câu hỏi này còn gắn với SharingStarted, initialValue và scope được chọn. Chọn scope quá dài có thể giữ network/database observation không cần thiết; chọn scope quá ngắn làm upstream restart liên tục và mất lợi ích chia sẻ."},
+        {"type":"code","language":"kotlin","label":"State tồn tại trước collector","content":"val state = MutableStateFlow(0)\nstate.value = 1\nstate.value = 2\n\nstate.collect { value ->\n    println(value) // collector mới bắt đầu từ 2\n}"},
+        {"type":"paragraph","content":"Collector mới không nhận toàn bộ lịch sử 0,1,2; nó nhận current value 2 rồi các update tiếp theo. Vì vậy StateFlow phù hợp state, không phù hợp audit/event log. Latest value phải đủ để UI khôi phục màn hình tại thời điểm hiện tại mà không cần biết toàn bộ chuỗi sự kiện trước đó. Ví dụ SearchUiState cần query, loading, items và error hiện hành; collector mới chỉ cần snapshot này để render. Ngược lại, các occurrence như mở màn hình, hiển thị snackbar hoặc gửi analytics không thể suy ra an toàn chỉ từ latest value, bởi cùng một event có thể cần được xử lý đúng một lần và không nên tự động replay sau configuration change. Khi review một StateFlow, hãy kiểm tra invariant của snapshot: các field có thể tồn tại đồng thời không, loading và error có mâu thuẫn không, list có immutable không, và state transition nào được phép. Một StateFlow tốt không chỉ là data class nhiều field; nó là state machine có owner, transition và lifecycle contract rõ ràng. Latest value phải đủ để UI khôi phục màn hình tại thời điểm hiện tại mà không cần biết toàn bộ chuỗi sự kiện trước đó. Ví dụ SearchUiState cần query, loading, items và error hiện hành; collector mới chỉ cần snapshot này để render. Ngược lại, các occurrence như mở màn hình, hiển thị snackbar hoặc gửi analytics không thể suy ra an toàn chỉ từ latest value, bởi cùng một event có thể cần được xử lý đúng một lần và không nên tự động replay sau configuration change. Khi review một StateFlow, hãy kiểm tra invariant của snapshot: các field có thể tồn tại đồng thời không, loading và error có mâu thuẫn không, list có immutable không, và state transition nào được phép. Một StateFlow tốt không chỉ là data class nhiều field; nó là state machine có owner, transition và lifecycle contract rõ ràng. Latest value phải đủ để UI khôi phục màn hình tại thời điểm hiện tại mà không cần biết toàn bộ chuỗi sự kiện trước đó. Ví dụ SearchUiState cần query, loading, items và error hiện hành; collector mới chỉ cần snapshot này để render. Ngược lại, các occurrence như mở màn hình, hiển thị snackbar hoặc gửi analytics không thể suy ra an toàn chỉ từ latest value, bởi cùng một event có thể cần được xử lý đúng một lần và không nên tự động replay sau configuration change. Khi review một StateFlow, hãy kiểm tra invariant của snapshot: các field có thể tồn tại đồng thời không, loading và error có mâu thuẫn không, list có immutable không, và state transition nào được phép. Một StateFlow tốt không chỉ là data class nhiều field; nó là state machine có owner, transition và lifecycle contract rõ ràng. Latest value phải đủ để UI khôi phục màn hình tại thời điểm hiện tại mà không cần biết toàn bộ chuỗi sự kiện trước đó. Ví dụ SearchUiState cần query, loading, items và error hiện hành; collector mới chỉ cần snapshot này để render. Ngược lại, các occurrence như mở màn hình, hiển thị snackbar hoặc gửi analytics không thể suy ra an toàn chỉ từ latest value, bởi cùng một event có thể cần được xử lý đúng một lần và không nên tự động replay sau configuration change. Khi review một StateFlow, hãy kiểm tra invariant của snapshot: các field có thể tồn tại đồng thời không, loading và error có mâu thuẫn không, list có immutable không, và state transition nào được phép. Một StateFlow tốt không chỉ là data class nhiều field; nó là state machine có owner, transition và lifecycle contract rõ ràng."}
+      ]
+    },
+    {
+      "id": "conflation",
+      "title": "5. Equality-based conflation",
+      "blocks": [
+        {"type":"paragraph","content":"StateFlow chỉ quan tâm latest state. Nếu producer cập nhật nhanh hơn collector xử lý, collector có thể bỏ qua intermediate state. Ngoài ra, nếu new value equals old value, emission mới thường bị suppress. Hai tính chất này là feature cho state, nhưng gây bất ngờ nếu bạn dùng StateFlow như event queue."},
+        {"type":"code","language":"kotlin","label":"Equal state không phát lại","content":"data class UiState(val loading: Boolean)\nval state = MutableStateFlow(UiState(false))\n\nstate.value = UiState(false) // equals current, không có emission mới"},
+        {"type":"paragraph","content":"Nếu UI cần render lại vì một occurrence mới dù data equal, đó có thể là event chứ không phải state. Đừng thêm random timestamp vào state chỉ để ép emission; hãy thiết kế event channel riêng hoặc model occurrence có identity thật."}
+      ]
+    },
+    {
+      "id": "immutable-state",
+      "title": "6. Immutable state và single owner",
+      "blocks": [
+        {"type":"paragraph","content":"StateFlow thread-safe không có nghĩa object bên trong thread-safe. Nếu value chứa MutableList và owner sửa list tại chỗ, equals/reference có thể không đổi và collector không nhận state mới. Reader cũng có thể thấy list đang mutation. Vì vậy value nên là immutable snapshot."},
+        {"type":"code","language":"kotlin","label":"Expose read-only StateFlow","content":"private val _uiState = MutableStateFlow(SearchUiState())\nval uiState: StateFlow<SearchUiState> = _uiState.asStateFlow()\n\nfun onQueryChanged(query: String) {\n    _uiState.update { old -> old.copy(query = query) }\n}"},
+        {"type":"paragraph","content":"Chỉ owner giữ MutableStateFlow; layer khác nhận StateFlow read-only và gửi intent/action về owner. Nếu nhiều repository, composable và callback cùng giữ mutable reference, ownership mất và race khó kiểm soát."}
+      ]
+    },
+    {
+      "id": "atomic-update",
+      "title": "7. update, compareAndSet và CAS loop",
+      "blocks": [
+        {"type":"paragraph","content":"Pattern _state.value = _state.value.copy(...) là read-modify-write. Hai writer concurrent có thể cùng đọc old state và mất update. update thực hiện CAS loop: đọc state, tính new, compare-and-set; nếu conflict thì chạy lambda lại với state mới."},
+        {"type":"code","language":"kotlin","label":"Lost update và atomic update","content":"// Dễ mất update nếu nhiều writer\n_state.value = _state.value.copy(unread = _state.value.unread + 1)\n\n// Atomic theo snapshot StateFlow\n_state.update { old -> old.copy(unread = old.unread + 1) }"},
+        {"type":"paragraph","content":"Vì lambda có thể chạy nhiều lần, nó phải pure. Không gọi analytics, network, database write hoặc generate side effect không idempotent trong update lambda. Tính new state thuần, commit side effect ở boundary khác."}
+      ]
+    },
+    {
+      "id": "state-machine",
+      "title": "8. UI state như một state machine",
+      "blocks": [
+        {"type":"paragraph","content":"Một UiState tốt đủ để render screen mà không cần đọc thêm mutable flag rời. Thay vì ba StateFlow loading, data, error dễ tạo combination vô nghĩa, dùng sealed state hoặc data class với invariant rõ."},
+        {"type":"code","language":"kotlin","label":"Sealed state","content":"sealed interface JobDetailUiState {\n    data object Loading : JobDetailUiState\n    data class Content(val job: Job, val refreshing: Boolean) : JobDetailUiState\n    data class Error(val message: UiText) : JobDetailUiState\n}"},
+        {"type":"paragraph","content":"Sealed state ngăn Loading=true đồng thời error!=null nếu đó là state bất hợp lệ. Data class phù hợp khi screen có nhiều section independent và cần partial state. Lựa chọn dựa trên state space và invariant, không theo sở thích syntax."}
+      ]
+    },
+    {
+      "id": "state-vs-event",
+      "title": "9. StateFlow không phải one-time event bus",
+      "blocks": [
+        {"type":"paragraph","content":"Snackbar và navigation là occurrence, không phải current state đơn giản. Nếu lưu NavigateToDetail(id) trong StateFlow, collector mới sau rotate có thể nhận lại và navigate lần hai. Reset event về null tạo handshake race giữa producer và collector."},
+        {"type":"paragraph","content":"Một số effect có thể model thành state có acknowledgement rõ, ví dụ pendingDialogId và UI gửi DialogHandled(id). Nhưng cần identity và reducer, không phải set null tùy timing. Với event thực sự transient, SharedFlow hoặc Channel có delivery policy rõ hơn."},
+        {"type":"callout","variant":"warning","title":"Đừng chữa duplicate event bằng equals hack","content":"Thêm UUID vào mọi event trong StateFlow chỉ ép emission nhưng không giải quyết subscriber absence, replay và acknowledgement semantics."}
+      ]
+    },
+    {
+      "id": "state-in",
+      "title": "10. stateIn: chuyển cold Flow thành StateFlow",
+      "blocks": [
+        {"type":"paragraph","content":"stateIn collect cold upstream trong một scope và giữ latest value. Đây là bridge phổ biến từ repository Flow sang UI state. Nhưng nó tạo hot producer có lifetime theo scope, nên SharingStarted và initial value là quyết định kiến trúc."},
+        {"type":"code","language":"kotlin","label":"Repository Flow thành UI StateFlow","content":"val uiState: StateFlow<JobDetailUiState> = repository.observeJob(id)\n    .map { job ->\n        if (job == null) JobDetailUiState.Loading\n        else JobDetailUiState.Content(job, refreshing = false)\n    }\n    .stateIn(\n        scope = viewModelScope,\n        started = SharingStarted.WhileSubscribed(5_000),\n        initialValue = JobDetailUiState.Loading\n    )"},
+        {"type":"paragraph","content":"WhileSubscribed dừng upstream khi không subscriber sau timeout. Eagerly chạy ngay cả khi UI chưa collect. Lazily start khi subscriber đầu tiên nhưng sau đó không tự stop. Chọn theo resource và UX."}
+      ]
+    },
+    {
+      "id": "purpose",
+      "title": "11. Mục đích và vấn đề được giải quyết",
+      "blocks": [
+        {"type":"paragraph","content":"StateFlow cung cấp một source of truth in-memory có current value, hỗ trợ nhiều collector và tích hợp tự nhiên với Compose. Nó thay thế pattern callback get-current + register-listener bằng một abstraction duy nhất."},
+        {"type":"list","items":["Giữ latest UI/domain state.","Cho subscriber mới render ngay current snapshot.","Kết nối cold repository Flow với hot ViewModel state.","Cập nhật immutable state atomically.","Tách mutation owner khỏi read-only collector."]}
+      ]
+    },
+    {
+      "id": "when-to-use",
+      "title": "12. Khi nên dùng StateFlow",
+      "blocks": [
+        {"type":"paragraph","content":"Dùng StateFlow khi có một giá trị hiện tại hữu nghĩa và consumer mới cần latest value. ViewModel UI state, session state, selected filter và connectivity state là ví dụ điển hình."},
+        {"type":"list","items":["UI state cần current snapshot.","State được update nhiều lần và nhiều collector quan sát.","Cold Flow cần share latest trong scope rõ.","Compose collect state theo lifecycle.","Reducer cần atomic immutable update."]}
+      ]
+    },
+    {
+      "id": "when-not-to-use",
+      "title": "13. Khi không nên dùng StateFlow",
+      "blocks": [
+        {"type":"paragraph","content":"Không dùng StateFlow cho event log, queue command hoặc stream cần giữ mọi item. Conflation và equality suppression cố ý bỏ intermediate/equal value. Nếu không có current value hợp lý, initial value giả có thể làm model sai; SharedFlow hoặc cold Flow có thể phù hợp hơn."},
+        {"type":"list","items":["One-time navigation/snackbar không có acknowledgement state.","Audit/event stream phải giữ đủ item.","One-shot suspend result.","State không có owner hoặc lifecycle rõ.","Payload rất lớn mutation tần suất cao khiến copy snapshot đắt."]}
+      ]
+    },
+    {
+      "id": "requirement",
+      "title": "14. Yêu cầu sản phẩm cụ thể: Search UI State",
+      "blocks": [
+        {"type":"callout","variant":"purpose","title":"Requirement","content":"Search screen phải giữ query, filter, loading, items, pagination và error của request hiện hành. Rotate/recompose không mất state. Request cũ không được ghi đè state mới. Snackbar lỗi retry là effect riêng, không được replay vô hạn."},
+        {"type":"paragraph","content":"State model cần phân biệt initial loading, refresh và append. Một boolean isLoading duy nhất có thể không đủ vì refresh cần giữ content cũ, append lỗi không nên thay toàn screen bằng Error. Data class với section-specific status phù hợp hơn sealed state đơn giản."}
+      ]
+    },
+    {
+      "id": "analysis",
+      "title": "15. Phân tích dependency, error policy, lifecycle và resource limits",
+      "blocks": [
+        {"type":"table","headers":["Khía cạnh","Quyết định"],"rows":[["Owner","SearchViewModel là writer duy nhất của MutableStateFlow."],["Input","UI gửi intent; không trực tiếp sửa MutableStateFlow."],["Concurrency","Latest-only Job/generation; update state atomically."],["Lifecycle","State sống theo ViewModel; UI collect theo STARTED."],["Error","Initial error khác refresh/append error; cancellation không thành error."],["Event","Snackbar/navigation tách effect stream hoặc acknowledged state."],["Resource","Items lớn cần Paging hoặc persistent collection; tránh copy toàn list mỗi event."],["Testing","Assert state transition và conflation semantics, không giả định event log."]]}
+      ]
+    },
+    {
+      "id": "viewmodel-code",
+      "title": "16. Ví dụ ViewModel reducer",
+      "blocks": [
+        {"type":"code","language":"kotlin","label":"Immutable reducer","content":"data class SearchUiState(\n    val query: String = \"\",\n    val items: List<Job> = emptyList(),\n    val loading: Boolean = false,\n    val error: UiText? = null\n)\n\nprivate val _state = MutableStateFlow(SearchUiState())\nval state = _state.asStateFlow()\n\nfun reduce(result: SearchResult) {\n    _state.update { old ->\n        when (result) {\n            is SearchResult.Started -> old.copy(loading = true, error = null)\n            is SearchResult.Success -> old.copy(loading = false, items = result.items)\n            is SearchResult.Failure -> old.copy(loading = false, error = result.message)\n        }\n    }\n}"},
+        {"type":"paragraph","content":"Reducer là pure mapping old + result → new. Network call không nằm trong update. Nếu result thuộc generation cũ, lọc trước reducer. UI đọc state read-only và render; mọi mutation đi qua intent/result."}
+      ]
+    },
+    {
+      "id": "compose-collection",
+      "title": "17. Thu thập StateFlow trong Compose",
+      "blocks": [
+        {"type":"code","language":"kotlin","label":"Lifecycle-aware collection","content":"@Composable\nfun SearchRoute(viewModel: SearchViewModel) {\n    val state by viewModel.state.collectAsStateWithLifecycle()\n    SearchScreen(state = state, onIntent = viewModel::onIntent)\n}"},
+        {"type":"paragraph","content":"collectAsStateWithLifecycle ngừng collect khi lifecycle dưới ngưỡng active và collect lại sau đó. ViewModel StateFlow vẫn giữ latest value, nên UI nhận state mới nhất khi quay lại. Đừng launch collect thủ công trong composable body vì recomposition có thể tạo collector mới."},
+        {"type":"paragraph","content":"StateFlow emission không đồng nghĩa Compose luôn recompose mọi child. Compose còn dùng stability và state read tracking. Tuy nhiên mutable object bên trong state có thể phá cả Flow equality và Compose observation."}
+      ]
+    },
+    {
+      "id": "multiple-stateflows",
+      "title": "18. Một StateFlow tổng hay nhiều StateFlow nhỏ",
+      "blocks": [
+        {"type":"paragraph","content":"Một state tổng giúp invariant và snapshot consistency rõ; UI nhận một version đồng bộ. Nhiều StateFlow nhỏ giảm copy và collector có thể chọn phần cần, nhưng combine có thể tạo transient combination và ownership phân tán."},
+        {"type":"paragraph","content":"Với screen, thường ưu tiên một UiState tổng. Với domain service app-wide, nhiều state độc lập có thể hợp lý. Nếu một action phải thay query, loading và error cùng lúc, một atomic snapshot tốt hơn ba assignment rời."}
+      ]
+    },
+    {
+      "id": "upzi-case",
+      "title": "19. Case study Upzi và mức độ xác nhận",
+      "blocks": [
+        {"type":"callout","variant":"purpose","title":"confirmed","content":"Upzi dùng ViewModel, Compose/Android UI, search, chat và paging; các feature này cần UI state giữ qua recomposition/lifecycle."},
+        {"type":"callout","title":"inferred","content":"Có thể suy luận StateFlow được dùng rộng rãi, nhưng từng UiState shape, reducer và stateIn policy cụ thể chưa được xác nhận đầy đủ."},
+        {"type":"callout","title":"proposed","content":"Đề xuất mỗi screen có một immutable UiState, ViewModel là single writer, repository Flow được stateIn khi cần, chat message reducer dùng atomic update/single owner, effects tách khỏi state."},
+        {"type":"callout","variant":"warning","title":"needs-confirmation","content":"Cần đọc code production để xác nhận screen nào dùng nhiều MutableStateFlow, screen nào dùng state tổng và cách one-time event hiện được xử lý."}
+      ]
+    },
+    {
+      "id": "alternatives",
+      "title": "20. Phương án thay thế và trade-off",
+      "blocks": [
+        {"type":"table","headers":["Phương án","Ưu điểm","Trade-off"],"rows":[["StateFlow","Current value, coroutine/Compose friendly","Conflation, cần initial value"],["LiveData","Lifecycle-aware truyền thống","Interop/operator/concurrency hạn chế hơn"],["SharedFlow replay=1","Không bắt buộc initial value","Không có value sync và state semantics kém rõ"],["Compose mutableStateOf","Đơn giản UI-local state","Không phù hợp repository/domain observation"],["Redux/MVI store","Reducer/action rõ","Boilerplate và event architecture lớn hơn"],["SavedStateHandle StateFlow","Phục hồi process cho state nhỏ","Không lưu object lớn/source of truth"]]},
+        {"type":"paragraph","content":"StateFlow không tự persistence. Process death sẽ mất value nếu không derive lại từ Room/SavedStateHandle. Đừng nhầm giữ state qua configuration change với giữ qua process death."}
+      ]
+    },
+    {
+      "id": "edge-cases",
+      "title": "21. Edge cases và sai lầm thường gặp",
+      "blocks": [
+        {"type":"list","items":["Gán object equals current nên không emit.","Mutation MutableList tại chỗ không đổi reference/equality.","Collector chậm bỏ intermediate state.","update lambda có side effect và chạy lại.","Nhiều writer làm invariant khó kiểm soát.","StateFlow dùng cho navigation event gây replay.","initial value giả tạo flash UI sai.","stateIn Eagerly giữ upstream quá lâu.","WhileSubscribed restart upstream và side effect khi subscriber quay lại.","StateFlow không persistence qua process death.","Một UiState list rất lớn copy mỗi tick gây allocation cao."]},
+        {"type":"paragraph","content":"Phần lớn lỗi StateFlow không nằm ở API, mà ở model state và ownership. Nếu state không immutable, event/state không phân biệt và writer không duy nhất, thread-safe holder vẫn không cứu được business invariant."}
+      ]
+    },
+    {
+      "id": "interview",
+      "title": "22. Câu hỏi phỏng vấn và hướng trả lời",
+      "blocks": [
+        {"type":"table","headers":["Câu hỏi","Điểm cần trả lời"],"rows":[["StateFlow là hot hay cold?","Hot, có current value độc lập collector."],["Subscriber mới nhận gì?","Latest current value, không toàn lịch sử."],["StateFlow có conflate không?","Có, latest state và equality suppression."],["value = value.copy có race không?","Có thể nếu nhiều writer; dùng update/CAS và single owner."],["update lambda có side effect được không?","Không nên vì CAS retry."],["stateIn cần gì?","Scope, SharingStarted, initial value và upstream contract."],["StateFlow cho event được không?","Thường không; phải phân tích replay/conflation/acknowledgement."],["Giữ qua process death không?","Không tự động; cần persistence/SavedStateHandle/source of truth."]]}
+      ]
+    },
+    {
+      "id": "experience-practice",
+      "title": "23. Mẫu trả lời, bài tập và checklist",
+      "blocks": [
+        {"type":"paragraph","content":"Mẫu trả lời: Tôi dùng StateFlow cho current UI state, expose read-only và giữ MutableStateFlow trong ViewModel. State là immutable snapshot, update atomically và không side effect trong lambda. Cold repository Flow được stateIn theo viewModelScope/WhileSubscribed khi cần share. One-time effect không nhét tùy tiện vào StateFlow."},
+        {"type":"paragraph","content":"Bài tập 1: tạo hai coroutine tăng unread bằng value-copy và tái hiện lost update, sau đó sửa bằng update. Bài tập 2: chứng minh collector chậm bỏ intermediate value. Bài tập 3: thiết kế SearchUiState phân biệt initial, refresh và append error."},
+        {"type":"list","items":["Tôi xác định current state có ý nghĩa gì.","Tôi expose read-only StateFlow.","Tôi có single writer.","State immutable và equals đúng.","update lambda không side effect.","Tôi phân biệt state/event.","Tôi chọn stateIn scope/sharing policy có lý do.","Tôi có persistence strategy cho process death."]}
+      ]
+    },
+    {
+      "id": "summary-quiz",
+      "title": "24. Tóm tắt cần nhớ và quiz",
+      "blocks": [
+        {"type":"callout","variant":"purpose","title":"Tóm tắt","content":"StateFlow là hot state holder có current value và latest-value conflation. Nó phù hợp immutable state với single owner, không phải event queue. update giúp atomic snapshot nhưng lambda phải pure. stateIn biến cold upstream thành hot state và đòi hỏi lifetime/sharing policy rõ."},
+        {"type":"paragraph","content":"Quiz kiểm tra semantics và architecture, không chỉ API."}
+      ]
+    }
+  ],
+  "quiz": [
+    {"id":"c03-q01","question":"StateFlow là hot hay cold?","options":["Cold","Hot","Tùy collect","Không phải Flow"],"answerIndex":1,"explanation":"StateFlow giữ value độc lập collector và là hot stream."},
+    {"id":"c03-q02","question":"Subscriber mới của StateFlow nhận gì?","options":["Toàn bộ lịch sử","Current/latest value","Không nhận gì cho tới update mới","Chỉ initial value"],"answerIndex":1,"explanation":"StateFlow replay latest current state, không giữ event history."},
+    {"id":"c03-q03","question":"Gán value equals current thường gây gì?","options":["Emission mới","Không emission mới","Crash","Complete Flow"],"answerIndex":1,"explanation":"StateFlow suppress value equal theo equals semantics."},
+    {"id":"c03-q04","question":"Vì sao MutableList trong StateFlow nguy hiểm?","options":["List không compile","Mutation tại chỗ có thể không emit và phá snapshot consistency","Luôn chậm","Không collect được"],"answerIndex":1,"explanation":"State nên immutable; mutation nội bộ không tạo new value/equality change đáng tin."},
+    {"id":"c03-q05","question":"_state.value = _state.value.copy(...) có thể mất update khi nào?","options":["Một writer","Nhiều writer concurrent","Không bao giờ","Chỉ Compose"],"answerIndex":1,"explanation":"Đây là compound read-modify-write; update/CAS an toàn hơn."},
+    {"id":"c03-q06","question":"Side effect trong StateFlow.update lambda có an toàn không?","options":["Có luôn","Không nên vì lambda có thể chạy lại","Chỉ analytics","Chỉ network"],"answerIndex":1,"explanation":"CAS conflict có thể retry lambda, lặp side effect."},
+    {"id":"c03-q07","question":"stateIn cần quyết định nào?","options":["Scope, SharingStarted, initial value","Chỉ dispatcher","Chỉ replay","Chỉ tên state"],"answerIndex":0,"explanation":"Ba yếu tố quyết định lifetime, start/stop và current value ban đầu."},
+    {"id":"c03-q08","question":"StateFlow có phù hợp audit event phải giữ đủ không?","options":["Có","Không, vì conflation","Chỉ khi Main","Chỉ replay=10"],"answerIndex":1,"explanation":"StateFlow có thể bỏ intermediate value và không phải event log."},
+    {"id":"c03-q09","question":"collectAsStateWithLifecycle giúp gì?","options":["Persist process death","Collect theo lifecycle active","Tạo network cache","Bỏ equality"],"answerIndex":1,"explanation":"Nó start/stop collection theo lifecycle và integrate Compose state."},
+    {"id":"c03-q10","question":"StateFlow có tự sống qua process death không?","options":["Có","Không","Chỉ Android 14","Chỉ ViewModel"],"answerIndex":1,"explanation":"Cần SavedStateHandle, Room hoặc source of truth để phục hồi."},
+    {"id":"c03-q11","question":"Một owner duy nhất của MutableStateFlow có lợi gì?","options":["Giảm invariant/race complexity","Tăng thread count","Tự persistence","Bỏ cần test"],"answerIndex":0,"explanation":"Single writer làm mutation policy và reasoning rõ."},
+    {"id":"c03-q12","question":"One-time navigation event nên làm gì?","options":["Luôn lưu trong StateFlow không reset","Thiết kế effect/acknowledgement semantics riêng","Thêm random delay","Dùng mutable list"],"answerIndex":1,"explanation":"Event cần delivery/replay policy khác current state."}
+  ]
+}

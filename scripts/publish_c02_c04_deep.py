@@ -1,0 +1,106 @@
+import json
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parents[1]
+DATA = ROOT / "android-learning" / "data"
+LESSONS = ["c02", "c03", "c04"]
+REPORT_PATH = ROOT / "validation-c02-c04.json"
+
+loaded = {}
+report = {}
+for lesson_id in LESSONS:
+    path = DATA / "lessons" / "c" / f"{lesson_id}.json"
+    try:
+        lesson = json.loads(path.read_text())
+    except Exception as error:
+        report[lesson_id] = {"parseError": f"{type(error).__name__}: {error}"}
+        continue
+
+    loaded[lesson_id] = lesson
+    section_ids = [section["id"] for section in lesson.get("sections", [])]
+    paragraphs = [
+        block["content"]
+        for section in lesson.get("sections", [])
+        for block in section.get("blocks", [])
+        if block.get("type") == "paragraph"
+    ]
+    code_blocks = [
+        block
+        for section in lesson.get("sections", [])
+        for block in section.get("blocks", [])
+        if block.get("type") == "code"
+    ]
+    quiz = lesson.get("quiz", [])
+    report[lesson_id] = {
+        "sections": len(lesson.get("sections", [])),
+        "uniqueSectionIds": len(set(section_ids)),
+        "paragraphs": len(paragraphs),
+        "paragraphCharacters": sum(len(text) for text in paragraphs),
+        "codeBlocks": len(code_blocks),
+        "quizQuestions": len(quiz),
+        "quizAnswersValid": all(
+            len(question.get("options", [])) >= 2
+            and any(key in question for key in ("answerIndex", "answerIndexes", "correctOptionIds"))
+            and bool(question.get("explanation", "").strip())
+            for question in quiz
+        ),
+    }
+
+REPORT_PATH.write_text(json.dumps(report, ensure_ascii=False, indent=2) + "\n")
+print(json.dumps(report, ensure_ascii=False, indent=2))
+
+assert set(loaded) == set(LESSONS), report
+for lesson_id, lesson in loaded.items():
+    metrics = report[lesson_id]
+    assert lesson["id"] == lesson_id
+    assert metrics["sections"] == 24, (lesson_id, metrics)
+    assert metrics["uniqueSectionIds"] == 24, (lesson_id, metrics)
+    assert metrics["paragraphs"] >= 22, (lesson_id, metrics)
+    assert metrics["paragraphCharacters"] >= 8500, (lesson_id, metrics)
+    assert metrics["codeBlocks"] >= 4, (lesson_id, metrics)
+    assert metrics["quizQuestions"] >= 10, (lesson_id, metrics)
+    assert metrics["quizAnswersValid"], (lesson_id, metrics)
+
+catalog_path = DATA / "catalog.json"
+catalog = json.loads(catalog_path.read_text())
+chapter = next(ch for ch in catalog["chapters"] if ch["id"] == "c")
+ids = [item["id"] for item in chapter["lessons"]]
+assert ids.index("c03") == ids.index("c02") + 1
+assert ids.index("c04") == ids.index("c03") + 1
+
+for lesson_id in LESSONS:
+    item = next(entry for entry in chapter["lessons"] if entry["id"] == lesson_id)
+    assert item["status"] in ("planned", "published")
+    item["status"] = "published"
+    item["estimatedMinutes"] = loaded[lesson_id]["estimatedMinutes"]
+
+catalog_path.write_text(json.dumps(catalog, ensure_ascii=False, indent=2) + "\n")
+
+plan_path = DATA / "book-plan.json"
+plan = json.loads(plan_path.read_text())
+assert plan["current"] in ("c02", "c05")
+for lesson_id in LESSONS:
+    if lesson_id not in plan["completed"]:
+        plan["completed"].append(lesson_id)
+plan["current"] = "c05"
+plan_path.write_text(json.dumps(plan, ensure_ascii=False, indent=2) + "\n")
+
+index_path = DATA / "search-index.json"
+index = json.loads(index_path.read_text())
+entries = [
+    {"lessonId":"c02","code":"C02","title":"Cold Flow","keywords":["cold Flow","lazy execution","per collector","flowOn","context preservation","exception transparency","retryWhen","stateIn","multiple collectors","cache network"],"headings":["Lazy execution","Mỗi collector tạo execution riêng","Emit và collect tuần tự","Context preservation và flowOn","Exception transparency","Cancellation propagation","Repository observation và command","Retry và side effect"]},
+    {"lessonId":"c03","code":"C03","title":"StateFlow","keywords":["StateFlow","MutableStateFlow","stateIn","update","compareAndSet","conflation","immutable UI state","single owner","collectAsStateWithLifecycle","process death"],"headings":["Hot state holder","Equality-based conflation","Immutable state","Atomic update","UI state machine","State và event","stateIn","Compose collection"]},
+    {"lessonId":"c04","code":"C04","title":"SharedFlow","keywords":["SharedFlow","MutableSharedFlow","replay","extraBufferCapacity","BufferOverflow","tryEmit","shareIn","broadcast","UI effect","socket events"],"headings":["Hot broadcast stream","Replay","Buffer và backpressure","emit và tryEmit","Subscriber absence","SharedFlow và StateFlow","One-time effect","shareIn"]}
+]
+existing_ids = {entry["lessonId"] for entry in index}
+index.extend(entry for entry in entries if entry["lessonId"] not in existing_ids)
+index_path.write_text(json.dumps(index, ensure_ascii=False, indent=2) + "\n")
+
+for path in (catalog_path, plan_path, index_path):
+    json.loads(path.read_text())
+for ch in catalog["chapters"]:
+    for item in ch["lessons"]:
+        if item["status"] == "published":
+            assert (ROOT / "android-learning" / item["path"]).exists(), item["path"]
+
+print("C02-C04 deep publication validation passed")

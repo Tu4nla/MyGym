@@ -1,0 +1,66 @@
+name: Publish C02 C03 C04 Deep
+
+on:
+  push:
+    branches:
+      - handbook/c02-c04-deep
+    paths:
+      - android-learning/data/lessons/c/c02.json
+      - android-learning/data/lessons/c/c03.json
+      - android-learning/data/lessons/c/c04.json
+      - scripts/repair_c02_c04_json.py
+      - scripts/publish_c02_c04_deep.py
+      - .github/workflows/publish-c02-c04-deep.yml
+  pull_request:
+    branches:
+      - main
+    types: [opened, synchronize]
+    paths:
+      - android-learning/data/lessons/c/c02.json
+      - android-learning/data/lessons/c/c03.json
+      - android-learning/data/lessons/c/c04.json
+      - scripts/repair_c02_c04_json.py
+      - scripts/publish_c02_c04_deep.py
+      - .github/workflows/publish-c02-c04-deep.yml
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  validate-and-publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: handbook/c02-c04-deep
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Repair targeted JSON escaping
+        run: python scripts/repair_c02_c04_json.py
+      - name: Validate depth and generate metadata
+        run: python scripts/publish_c02_c04_deep.py
+      - name: Commit repaired lessons and generated metadata
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add android-learning/data/lessons/c/c02.json android-learning/data/lessons/c/c03.json android-learning/data/lessons/c/c04.json android-learning/data/catalog.json android-learning/data/book-plan.json android-learning/data/search-index.json validation-c02-c04.json
+          if git diff --cached --quiet; then
+            echo "No generated changes"
+          else
+            git commit -m "docs(android): publish validated C02 C03 C04"
+            git pull --rebase origin handbook/c02-c04-deep
+            git push origin HEAD:handbook/c02-c04-deep
+          fi
+      - name: Persist repairs and validation report on failure
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add android-learning/data/lessons/c/c02.json android-learning/data/lessons/c/c03.json android-learning/data/lessons/c/c04.json validation-c02-c04.json || true
+          if ! git diff --cached --quiet; then
+            git commit -m "fix(android): persist C02-C04 validation repairs"
+            git pull --rebase origin handbook/c02-c04-deep
+            git push origin HEAD:handbook/c02-c04-deep
+          fi
