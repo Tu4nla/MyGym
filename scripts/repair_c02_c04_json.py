@@ -3,7 +3,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 BASE = ROOT / "android-learning" / "data" / "lessons" / "c"
 
-replacements = {
+basic_replacements = {
     "c02.json": {
         'println("call API")': 'println(\\"call API\\")',
         'println("flow created")': 'println(\\"flow created\\")',
@@ -14,8 +14,6 @@ replacements = {
     },
     "c03.json": {
         'val query: String = ""': 'val query: String = \\"\\"',
-        'MutableStateFlow tồn tại và giữ value ngay khi được tạo, không cần collector để bắt đầu producer. Gán value cập nhật state holder; collector chỉ quan sát. Đây là khác biệt nền tảng với cold Flow, nơi producer chạy theo mỗi collection.': 'MutableStateFlow tồn tại và giữ value ngay khi được tạo, không cần collector để bắt đầu producer. Gán value cập nhật state holder; collector chỉ quan sát. Đây là khác biệt nền tảng với cold Flow, nơi producer chạy theo mỗi collection. State holder vì thế cần một owner có lifecycle rõ, thường là ViewModel hoặc repository sống theo session. Nếu tạo MutableStateFlow trong composable hoặc trong một function được gọi lại nhiều lần, bạn có thể vô tình tạo nhiều nguồn state độc lập, khiến UI quan sát object này trong khi producer đang cập nhật object khác. StateFlow không tự giải quyết ownership; nó chỉ cung cấp primitive giữ latest value và broadcast update. Thiết kế production phải trả lời ai được phép ghi, state sống bao lâu, khi owner bị hủy thì upstream nào dừng, và collector mới cần nhận trạng thái ban đầu nào. Với stateIn, những câu hỏi này còn gắn với SharingStarted, initialValue và scope được chọn. Chọn scope quá dài có thể giữ network/database observation không cần thiết; chọn scope quá ngắn làm upstream restart liên tục và mất lợi ích chia sẻ.',
-        'Collector mới không nhận toàn bộ lịch sử 0,1,2; nó nhận current value 2 rồi các update tiếp theo. Vì vậy StateFlow phù hợp state, không phù hợp audit/event log.': 'Collector mới không nhận toàn bộ lịch sử 0,1,2; nó nhận current value 2 rồi các update tiếp theo. Vì vậy StateFlow phù hợp state, không phù hợp audit/event log. Latest value phải đủ để UI khôi phục màn hình tại thời điểm hiện tại mà không cần biết toàn bộ chuỗi sự kiện trước đó. Ví dụ SearchUiState cần query, loading, items và error hiện hành; collector mới chỉ cần snapshot này để render. Ngược lại, các occurrence như mở màn hình, hiển thị snackbar hoặc gửi analytics không thể suy ra an toàn chỉ từ latest value, bởi cùng một event có thể cần được xử lý đúng một lần và không nên tự động replay sau configuration change. Khi review một StateFlow, hãy kiểm tra invariant của snapshot: các field có thể tồn tại đồng thời không, loading và error có mâu thuẫn không, list có immutable không, và state transition nào được phép. Một StateFlow tốt không chỉ là data class nhiều field; nó là state machine có owner, transition và lifecycle contract rõ ràng.',
     },
     "c04.json": {
         'println("A: $it")': 'println(\\"A: $it\\")',
@@ -26,11 +24,22 @@ replacements = {
     },
 }
 
-for filename, mapping in replacements.items():
+for filename, mapping in basic_replacements.items():
     path = BASE / filename
     text = path.read_text()
     for old, new in mapping.items():
         text = text.replace(old, new)
+
+    if filename == "c02.json" and "Điểm quan trọng về ownership của cold Flow" not in text:
+        old = "Hai collector không tự chia sẻ result. Mỗi collection chạy block flow riêng, có local variable riêng và có thể tạo side effect riêng. Đây là semantics quan trọng nhất khi repository trả cold Flow gọi network: UI collect ở hai nơi có thể tạo hai request."
+        new = old + " Điểm quan trọng về ownership của cold Flow là object Flow chỉ mô tả recipe, còn execution thuộc từng collector. Vì thế repository không thể giả định rằng trả về cùng một Flow instance đồng nghĩa dùng chung request hoặc cache. Khi màn hình, analytics và một component phụ cùng collect, mỗi collector có thể mở một call chain, đăng ký observer hoặc đọc tài nguyên riêng. Trước khi share upstream, cần xác định kết quả có thật sự dùng chung được không, scope nào sở hữu cache, khi không còn subscriber thì producer dừng ngay hay trì hoãn, và lỗi của một consumer có được ảnh hưởng consumer khác hay không. stateIn hoặc shareIn chỉ giải quyết việc chia sẻ execution trong một scope; chúng không tự chọn freshness policy, cache invalidation hay quyền sở hữu dữ liệu. Với network one-shot, suspend function kết hợp cache thường dễ hiểu hơn Flow phát đúng một item. Với Room hoặc DataStore, cold Flow tự nhiên hơn vì mỗi collection đăng ký observation và cancellation unregister observer."
+        text = text.replace(old, new)
+
+    if filename == "c04.json" and "Điểm cốt lõi khi dùng SharedFlow trong sản phẩm" not in text:
+        old = "MutableSharedFlow tồn tại độc lập collector. Producer có thể emit bất cứ lúc nào; subscriber chỉ nhận theo replay và thời điểm subscription. Khác cold Flow, thêm subscriber không chạy lại producer block. Khác Channel point-to-point, SharedFlow broadcast cùng emission tới nhiều subscriber active."
+        new = old + " Điểm cốt lõi khi dùng SharedFlow trong sản phẩm là phải mô tả rõ delivery contract thay vì chỉ nói đây là event stream. replay quyết định subscriber mới nhìn lại bao nhiêu item; extraBufferCapacity quyết định producer có thể đi trước subscriber active bao xa; onBufferOverflow quyết định suspend, bỏ item cũ hay bỏ item mới khi queue đầy. Các lựa chọn này tác động trực tiếp tới correctness. Progress hoặc telemetry có thể chấp nhận drop, nhưng payment command, logout bắt buộc hoặc navigation quan trọng thường không được phép mất âm thầm. SharedFlow cũng không lưu một current state có thể đọc đồng bộ như StateFlow, nên collector đến muộn không thể tự dựng lại UI nếu replay bằng 0. Với socket event, owner cần kết hợp snapshot bền vững và event delta, xử lý duplicate/out-of-order, rồi reduce thành StateFlow cho UI; expose raw SharedFlow trực tiếp thường đẩy quá nhiều trách nhiệm đồng bộ xuống từng màn hình."
+        text = text.replace(old, new)
+
     path.write_text(text)
 
-print("Applied targeted JSON string escaping and depth repairs")
+print("Applied idempotent JSON escaping and depth repairs")
