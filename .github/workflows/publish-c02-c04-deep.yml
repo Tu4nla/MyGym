@@ -53,3 +53,14 @@ jobs:
             git pull --rebase origin handbook/c02-c04-deep
             git push origin HEAD:handbook/c02-c04-deep
           fi
+      - name: Persist repairs and validation report on failure
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add android-learning/data/lessons/c/c02.json android-learning/data/lessons/c/c03.json android-learning/data/lessons/c/c04.json validation-c02-c04.json || true
+          if ! git diff --cached --quiet; then
+            git commit -m "fix(android): persist C02-C04 validation repairs"
+            git pull --rebase origin handbook/c02-c04-deep
+            git push origin HEAD:handbook/c02-c04-deep
+          fi
