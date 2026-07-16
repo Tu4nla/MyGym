@@ -160,5 +160,38 @@
       "Trade-off và edge cases",
       "Câu hỏi phỏng vấn"
     ]
+  },
+  {
+    "lessonId": "b06",
+    "code": "B06",
+    "title": "Job và Cancellation",
+    "keywords": [
+      "Job",
+      "cancellation",
+      "CancellationException",
+      "cooperative cancellation",
+      "ensureActive",
+      "yield",
+      "isActive",
+      "NonCancellable",
+      "withTimeout",
+      "timeout",
+      "parent child",
+      "stale result",
+      "generation guard",
+      "Upzi search"
+    ],
+    "headings": [
+      "Cơ chế trạng thái của Job",
+      "Cooperative cancellation hoạt động như thế nào",
+      "Cancellation propagation trong cây Job",
+      "Cleanup an toàn với try/finally",
+      "Timeout và cancellation",
+      "Yêu cầu sản phẩm cụ thể",
+      "Case study Upzi và mức độ xác nhận",
+      "Phương án thay thế",
+      "Trade-off và edge cases",
+      "Câu hỏi phỏng vấn"
+    ]
   }
 ]
