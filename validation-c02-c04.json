@@ -1,0 +1,11 @@
+{
+  "c02": {
+    "parseError": "JSONDecodeError: Expecting ',' delimiter: line 35 column 155 (char 3651)"
+  },
+  "c03": {
+    "parseError": "JSONDecodeError: Expecting ',' delimiter: line 137 column 135 (char 13599)"
+  },
+  "c04": {
+    "parseError": "JSONDecodeError: Expecting ',' delimiter: line 36 column 178 (char 3703)"
+  }
+}
