@@ -466,5 +466,39 @@
       "Channel và Flow",
       "Durability và idempotency"
     ]
+  },
+  {
+    "lessonId": "c06",
+    "code": "C06",
+    "title": "Flow Operators cơ bản",
+    "keywords": [
+      "Flow operators",
+      "map",
+      "transform",
+      "filter",
+      "filterNotNull",
+      "onEach",
+      "onStart",
+      "onCompletion",
+      "catch",
+      "distinctUntilChanged",
+      "take",
+      "drop",
+      "first",
+      "single",
+      "toList",
+      "terminal operator"
+    ],
+    "headings": [
+      "Intermediate và terminal operator",
+      "map và transform",
+      "filter family",
+      "onEach",
+      "onStart và onCompletion",
+      "catch boundary",
+      "distinctUntilChanged",
+      "take và drop",
+      "terminal operators"
+    ]
   }
 ]

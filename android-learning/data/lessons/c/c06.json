@@ -1,0 +1,228 @@
+{
+  "id": "c06",
+  "code": "C06",
+  "title": "Flow Operators cơ bản",
+  "summary": "Hiểu sâu nhóm operator nền tảng của Kotlin Flow, cách chúng tạo pipeline lazy, thứ tự xử lý emission, tác động tới exception, cancellation, context, backpressure và cách chuyển yêu cầu sản phẩm thành chuỗi operator có contract rõ ràng.",
+  "estimatedMinutes": 300,
+  "sections": [
+    {
+      "id": "objectives",
+      "title": "1. Mục tiêu bài học",
+      "blocks": [
+        {"type":"paragraph","content":"Operator là ngôn ngữ chính để mô tả data pipeline bằng Flow. Biết tên map, filter hoặc onEach chưa đủ; Android Middle phải dự đoán được operator nào chạy khi nào, ở context nào, lỗi đi qua đâu, cancellation dừng phần nào và vì sao một chuỗi operator nhìn hợp lý vẫn có thể tạo duplicate work hoặc state sai."},
+        {"type":"list","items":["Phân biệt intermediate operator và terminal operator.","Giải thích semantics của map, transform, filter, filterNotNull, onEach, onStart, onCompletion, catch, take, drop, distinctUntilChanged và các terminal operator cơ bản.","Thiết kế thứ tự operator theo requirement thay vì nối tùy hứng.","Phân tích exception, cancellation, context và backpressure xuyên suốt pipeline.","Viết code Android thực tế, test được và không che lỗi bằng fallback tùy tiện."]}
+      ]
+    },
+    {
+      "id": "prerequisites",
+      "title": "2. Kiến thức nền",
+      "blocks": [
+        {"type":"paragraph","content":"Bài này giả định bạn đã hiểu cold Flow, StateFlow, SharedFlow, Channel, coroutine cancellation và exception propagation. Operator không tạo ra một thế giới runtime mới; phần lớn chúng chỉ bọc upstream bằng một Flow mới và thực thi khi downstream bắt đầu terminal collection."},
+        {"type":"list","items":["C01-C05: stream contract, cold/hot semantics, state/event và backpressure.","B06-B08: cancellation, exception và structured concurrency.","B10: runTest, virtual time và controlled fake."]}
+      ]
+    },
+    {
+      "id": "terminology",
+      "title": "3. Thuật ngữ và mô hình tinh thần",
+      "blocks": [
+        {"type":"table","headers":["Thuật ngữ","Giải thích"],"rows":[["Intermediate operator","Trả về Flow mới nhưng chưa chạy pipeline, ví dụ map hoặc filter."],["Terminal operator","Bắt đầu collection và tạo kết quả/side effect cuối, ví dụ collect, first, single, toList."],["Upstream","Phần pipeline nằm trước operator hiện tại."],["Downstream","Phần pipeline nằm sau operator hiện tại."],["Transparent operator","Không tự tạo coroutine độc lập và giữ nguyên contract cancellation/exception trừ semantics đã công bố."],["Short-circuit","Dừng collection sớm khi đủ điều kiện, ví dụ first hoặc take."],["Side effect","Tác động ngoài giá trị stream như logging, analytics, cache write hoặc UI state update."],["Conflation by equality","Bỏ emission mới nếu bằng emission trước theo equals, điển hình distinctUntilChanged."],["Exception boundary","Vị trí catch có thể quan sát lỗi từ upstream trước nó."],["Completion","Pipeline kết thúc bình thường, lỗi hoặc cancellation."]]}
+      ]
+    },
+    {
+      "id": "mechanism",
+      "title": "4. Cơ chế hoạt động bên trong của operator chain",
+      "blocks": [
+        {"type":"paragraph","content":"Khi viết source.map(...).filter(...), mỗi operator tạo một Flow wrapper giữ tham chiếu tới upstream. Chưa có item nào chạy. Khi collect, downstream collector được bọc lần lượt rồi gọi collect ngược lên upstream. Vì vậy emission đi từ source qua map, filter và cuối cùng tới collector; exception đi theo hướng ngược lại tới boundary catch phù hợp."},
+        {"type":"code","language":"kotlin","label":"Pipeline lazy và tuần tự","content":"val pipeline = repository.observeJobs()\n    .map { jobs -> jobs.filter(Job::isVisible) }\n    .filter { jobs -> jobs.isNotEmpty() }\n\n// Chưa chạy upstream\npipeline.collect { jobs -> render(jobs) }"},
+        {"type":"paragraph","content":"Trong pipeline không có buffer hoặc operator concurrency, emit và downstream processing tuần tự. map chưa hoàn tất thì filter chưa chạy; collector chưa xử lý xong item hiện tại thì upstream chưa emit item tiếp theo. Thứ tự operator vì thế ảnh hưởng cả correctness lẫn chi phí CPU."}
+      ]
+    },
+    {
+      "id": "map-transform",
+      "title": "5. map và transform",
+      "blocks": [
+        {"type":"paragraph","content":"map biến đúng một input thành đúng một output. Nó phù hợp transformation thuần và giữ cardinality. transform linh hoạt hơn: một input có thể emit zero, one hoặc nhiều output, đồng thời có thể gọi suspend function. Chọn transform khi cardinality thực sự thay đổi; nếu chỉ đổi kiểu dữ liệu, map đọc dễ hơn."},
+        {"type":"code","language":"kotlin","label":"map và transform","content":"val cards = jobs.map { list -> list.map(Job::toCard) }\n\nval events = states.transform { state ->\n    emit(AnalyticsEvent.StateSeen(state.name))\n    if (state is UiState.Error) emit(AnalyticsEvent.ErrorSeen(state.code))\n}"},
+        {"type":"paragraph","content":"Không nên nhét side effect vào map rồi vẫn trả lại input chỉ để pipeline tiếp tục. Điều đó làm map mất ý nghĩa và khiến retry có thể lặp side effect. onEach hoặc một layer command rõ ràng phù hợp hơn."}
+      ]
+    },
+    {
+      "id": "filter-family",
+      "title": "6. filter, filterNot và filterNotNull",
+      "blocks": [
+        {"type":"paragraph","content":"filter giữ item thỏa predicate; filterNot giữ item không thỏa; filterNotNull loại null và đồng thời narrow type từ T? thành T. Predicate được chạy cho từng emission, nên nếu predicate đắt hoặc có side effect, cost và hành vi lặp lại theo mỗi collection."},
+        {"type":"code","language":"kotlin","label":"Lọc dữ liệu có chủ đích","content":"repository.observeMessages()\n    .filterNotNull()\n    .filter { message -> message.conversationId == activeConversationId }\n    .collect(::reduce)"},
+        {"type":"paragraph","content":"Lọc error state để UI không thấy lỗi thường là thiết kế sai. filter nên dùng cho contract dữ liệu hợp lệ, không phải để che trạng thái khó xử lý. Nếu item bị loại có ý nghĩa vận hành, cần metric hoặc log thay vì im lặng."}
+      ]
+    },
+    {
+      "id": "on-each",
+      "title": "7. onEach và side effect quan sát được",
+      "blocks": [
+        {"type":"paragraph","content":"onEach chạy một action cho mỗi emission rồi truyền nguyên item xuống downstream. Nó hữu ích cho logging, metric hoặc ghi cache khi đó thực sự là một phần contract. Vì onEach thuộc upstream, nếu downstream retry hoặc collect lại, side effect có thể chạy lại."},
+        {"type":"code","language":"kotlin","label":"Quan sát pipeline","content":"repository.observeJobs()\n    .onEach { jobs -> metrics.recordResultCount(jobs.size) }\n    .map { jobs -> jobs.map(Job::toCard) }\n    .collect(::render)"},
+        {"type":"paragraph","content":"Không dùng onEach cho navigation hoặc snackbar nếu pipeline có thể recollect, retry hoặc có nhiều collector. One-time effect cần delivery contract riêng. Ghi database trong onEach cũng phải xem xét idempotency vì collection mới có thể lặp write."}
+      ]
+    },
+    {
+      "id": "start-completion",
+      "title": "8. onStart và onCompletion",
+      "blocks": [
+        {"type":"paragraph","content":"onStart chạy trước khi upstream bắt đầu collect và có thể emit giá trị mở đầu như Loading. onCompletion chạy khi upstream kết thúc bình thường, lỗi hoặc cancellation; cause bằng null chỉ khi hoàn tất bình thường. Hai operator này mô tả lifecycle của collection, không phải lifecycle Android tự động."},
+        {"type":"code","language":"kotlin","label":"Biểu diễn loading và completion","content":"repository.loadCards()\n    .map<Cards, UiState> { UiState.Content(it) }\n    .onStart { emit(UiState.Loading) }\n    .onCompletion { cause -> logger.debug(\"cards completed: $cause\") }"},
+        {"type":"paragraph","content":"Với hot hoặc infinite stream, onCompletion thường chỉ xảy ra khi collector bị cancel hoặc upstream fail. Không nên mong nó chạy như callback khi app xuống background. Loading emit bằng onStart cũng có thể lặp mỗi lần lifecycle recollect; requirement UI phải chấp nhận điều đó."}
+      ]
+    },
+    {
+      "id": "catch",
+      "title": "9. catch và exception transparency",
+      "blocks": [
+        {"type":"paragraph","content":"catch chỉ bắt exception từ upstream trước nó. Exception ném trong collector downstream không bị bắt. Vị trí catch vì vậy quyết định operator nào được bảo vệ và fallback nào được áp dụng. catch không nên biến CancellationException thành UiError."},
+        {"type":"code","language":"kotlin","label":"Đặt catch đúng boundary","content":"repository.observeJobs()\n    .map { jobs -> jobs.map(Job::toCard) }\n    .catch { error ->\n        if (error is CancellationException) throw error\n        emit(emptyList())\n    }\n    .collect { cards -> render(cards) }"},
+        {"type":"paragraph","content":"Fallback empty list chỉ đúng nếu product chấp nhận không phân biệt dữ liệu rỗng và tải thất bại. Thường tốt hơn là map thành sealed UiState hoặc domain error rõ ràng. catch rộng ở repository có thể làm mất thông tin HTTP code, retry-after hoặc authentication failure mà layer trên cần quyết định."}
+      ]
+    },
+    {
+      "id": "distinct",
+      "title": "10. distinctUntilChanged và equality contract",
+      "blocks": [
+        {"type":"paragraph","content":"distinctUntilChanged bỏ emission liên tiếp nếu equals cho rằng chúng bằng nhau. Nó không loại mọi duplicate trong lịch sử, chỉ so với item gần nhất. Operator này hữu ích giảm render hoặc request lặp, nhưng correctness phụ thuộc equality của model."},
+        {"type":"code","language":"kotlin","label":"Loại query lặp liên tiếp","content":"query\n    .map(String::trim)\n    .distinctUntilChanged()\n    .collectLatest(repository::search)"},
+        {"type":"paragraph","content":"Nếu model chứa MutableList được sửa tại chỗ, equality có thể không phản ánh thay đổi và emission bị mất. Ngược lại data class chứa timestamp thay đổi mỗi lần sẽ làm distinct vô dụng. Có thể dùng distinctUntilChangedBy để chọn key, nhưng phải chứng minh các field bị bỏ qua không ảnh hưởng downstream."}
+      ]
+    },
+    {
+      "id": "take-drop",
+      "title": "11. take, takeWhile, drop và dropWhile",
+      "blocks": [
+        {"type":"paragraph","content":"take(n) nhận n item rồi cancel upstream bằng cơ chế nội bộ; first cũng short-circuit. takeWhile dừng trước item đầu tiên không thỏa. drop bỏ số item đầu, còn dropWhile bỏ cho tới khi predicate lần đầu false. Các operator này thay đổi lifetime collection, không chỉ thay đổi dữ liệu."},
+        {"type":"code","language":"kotlin","label":"Đợi trạng thái đầu tiên đạt điều kiện","content":"val authenticated = sessionStates\n    .filterIsInstance<SessionState.Authenticated>()\n    .first()"},
+        {"type":"paragraph","content":"Dùng drop(1) để bỏ initial value của StateFlow là mùi thiết kế nếu initial value có ý nghĩa. Collector mới sau recreate lại drop current state và có thể bỏ mất dữ liệu cần render. Hãy mô hình state/event rõ thay vì dựa vào vị trí emission."}
+      ]
+    },
+    {
+      "id": "terminal",
+      "title": "12. Terminal operators cơ bản",
+      "blocks": [
+        {"type":"paragraph","content":"collect xử lý mọi emission cho tới completion hoặc cancellation. first trả item đầu rồi dừng upstream; firstOrNull trả null nếu không có item. single yêu cầu đúng một item và throw nếu zero hoặc nhiều hơn một. toList thu toàn bộ item nên chỉ phù hợp finite Flow."},
+        {"type":"code","language":"kotlin","label":"Chọn terminal operator theo contract","content":"val config = configFlow.first()\nval snapshot = finiteMigrationSteps.toList()\nrepository.observeJobs().collect(::render)"},
+        {"type":"paragraph","content":"Gọi toList trên Room Flow hoặc SharedFlow sẽ chờ vô hạn và có thể giữ memory tăng mãi. single trên source có thể emit lại khi DB đổi cũng sai contract. Terminal operator phải phản ánh cardinality và completion thực tế của source."}
+      ]
+    },
+    {
+      "id": "purpose-problem",
+      "title": "13. Mục đích và vấn đề kỹ thuật được giải quyết",
+      "blocks": [
+        {"type":"paragraph","content":"Operator giúp tách source, transformation, policy và sink thành pipeline có thể đọc, compose và test. Thay vì callback lồng nhau hoặc mutable state rải rác, mỗi stage mô tả một quyết định: normalize input, bỏ duplicate, map domain model, materialize loading/error và cuối cùng render."},
+        {"type":"list","items":["Chuẩn hóa dữ liệu giữa repository, domain và UI.","Loại input không hợp lệ và duplicate có chủ đích.","Quan sát lifecycle pipeline mà không phá data contract.","Short-circuit khi chỉ cần một phần dữ liệu.","Tập trung error mapping tại boundary đúng."]}
+      ]
+    },
+    {
+      "id": "when-to-use",
+      "title": "14. Khi nên dùng operator pipeline",
+      "blocks": [
+        {"type":"paragraph","content":"Dùng operator khi dữ liệu có nhiều emission hoặc cần transformation/lifecycle policy theo thời gian. Pipeline đặc biệt phù hợp cho Room, DataStore, user intent, connectivity và state derivation. Operator nên biểu diễn requirement rõ, mỗi stage có tên hoặc logic đủ đơn giản để review."},
+        {"type":"list","items":["Chuyển entity thành domain/UI model.","Normalize và deduplicate query hoặc filter.","Biểu diễn loading/error/content cho stream.","Lấy snapshot đầu tiên từ stream dài hạn.","Quan sát metric không làm thay đổi item."]}
+      ]
+    },
+    {
+      "id": "when-not-to-use",
+      "title": "15. Khi không nên ép mọi logic thành operator",
+      "blocks": [
+        {"type":"paragraph","content":"Một command one-shot đơn giản thường rõ hơn bằng suspend function và code tuần tự. Pipeline quá dài, chứa nhiều side effect và branch business phức tạp có thể khó debug hơn reducer hoặc use case explicit. Không dùng Flow chỉ để tránh viết một hàm bình thường."},
+        {"type":"list","items":["Transaction cần nhiều bước imperative và rollback rõ.","Business rule phức tạp nên tách thành pure function có tên.","Command bắt buộc không được phụ thuộc có collector.","Side effect critical cần durability hoặc acknowledgement.","Operator chain làm mất observability và error context."]}
+      ]
+    },
+    {
+      "id": "requirement-analysis",
+      "title": "16. Yêu cầu sản phẩm và phân tích đầy đủ",
+      "blocks": [
+        {"type":"callout","variant":"purpose","title":"Danh sách việc làm có filter","content":"Khi filter hoặc sort thay đổi, UI phải normalize input, bỏ cấu hình trùng liên tiếp, hiển thị loading cho request hiện hành, map response sang card và phân biệt empty với error. Rời màn hình phải dừng collection; quay lại được phép dùng current cached state."},
+        {"type":"paragraph","content":"Dependency gồm intent Flow, repository search API và mapper. Error policy không được map cancellation thành lỗi. Lifecycle owner là ViewModel; UI collect theo STARTED. Resource limit gồm không gọi lại khi filter equal, không xử lý mapping nặng trên Main và không tích lũy list vô hạn. C06 chỉ dùng operator cơ bản; latest-only và debounce sẽ được đào sâu ở C07-C08."},
+        {"type":"table","headers":["Khía cạnh","Quyết định"],"rows":[["Input","map normalize rồi distinctUntilChanged"],["Loading","onStart hoặc materialize trong request Flow"],["Mapping","map DTO/domain sang immutable card"],["Error","catch technical error, propagate cancellation"],["Lifecycle","ViewModel sở hữu pipeline, UI collect theo lifecycle"],["Observability","onEach metric không chứa command critical"]]}
+      ]
+    },
+    {
+      "id": "android-code",
+      "title": "17. Ví dụ Kotlin/Android thực tế",
+      "blocks": [
+        {"type":"code","language":"kotlin","label":"Pipeline repository sang UI state","content":"fun observeVisibleJobs(): Flow<JobsUiState> =\n    repository.observeJobs()\n        .map { jobs -> jobs.filter(Job::isVisible) }\n        .map<List<Job>, JobsUiState> { jobs ->\n            if (jobs.isEmpty()) JobsUiState.Empty\n            else JobsUiState.Content(jobs.map(Job::toCard))\n        }\n        .onStart { emit(JobsUiState.Loading) }\n        .catch { error ->\n            if (error is CancellationException) throw error\n            emit(JobsUiState.Error(error.toUiText()))\n        }"},
+        {"type":"paragraph","content":"Hai map được tách để mỗi stage có trách nhiệm rõ: lọc domain trước, sau đó materialize UI state. onStart phát Loading mỗi collection; nếu StateFlow bên ngoài giữ state thì cần cân nhắc có muốn loading lại khi UI resubscribe không. catch đặt sau các map nên bắt cả source và mapping error, nhưng không bắt lỗi trong collector UI."}
+      ]
+    },
+    {
+      "id": "upzi-case",
+      "title": "18. Case study Upzi và mức độ xác nhận",
+      "blocks": [
+        {"type":"callout","title":"confirmed","content":"Upzi có search/filter, paging, chat và các ViewModel/repository dùng coroutine/Flow; đây là các khu vực cần normalize, map, filter và error mapping."},
+        {"type":"callout","title":"inferred","content":"Các pipeline cụ thể nhiều khả năng sử dụng một số operator cơ bản, nhưng thứ tự operator và error policy hiện tại chưa được xác nhận từ code trong run này."},
+        {"type":"callout","title":"proposed","content":"Chuẩn hóa query/filter bằng map + distinctUntilChanged, tách mapper pure, dùng onEach cho metric không critical, materialize loading/content/error rõ và test từng stage bằng fake repository."},
+        {"type":"callout","variant":"warning","title":"needs-confirmation","content":"Cần đọc implementation thực tế trước khi dùng ví dụ operator cụ thể như kinh nghiệm đã triển khai trong phỏng vấn."}
+      ]
+    },
+    {
+      "id": "alternatives-tradeoffs",
+      "title": "19. Phương án thay thế và trade-off",
+      "blocks": [
+        {"type":"table","headers":["Phương án","Ưu điểm","Giới hạn"],"rows":[["Operator chain","Composable, lazy, dễ test theo stream","Dài quá sẽ khó đọc"],["Suspend imperative","Rõ cho one-shot command","Không biểu diễn update liên tục"],["Reducer","Tốt cho state transition phức tạp","Cần model intent/result"],["RxJava operators","Mạnh trong codebase Rx","Interop và learning cost"],["Pure helper function","Tên rõ, test đơn giản","Không tự xử lý lifecycle stream"]]},
+        {"type":"paragraph","content":"Operator chain tốt khi mỗi stage ngắn và contract rõ. Khi lambda dài, có nhiều branch hoặc được tái sử dụng, tách thành named function/use case thường tăng khả năng review. Giảm số dòng không phải mục tiêu; mục tiêu là làm policy dữ liệu và lỗi có thể dự đoán."}
+      ]
+    },
+    {
+      "id": "edge-cases",
+      "title": "20. Edge cases quan trọng",
+      "blocks": [
+        {"type":"paragraph","content":"Các edge case thường xuất hiện ở ranh giới cardinality, equality, lifecycle và side effect. Một pipeline pass unit test success path vẫn có thể sai khi source không emit, emit vô hạn, collector restart hoặc mapping throw."},
+        {"type":"list","items":["first throw NoSuchElementException khi source complete không emit.","single throw khi source emit hơn một item.","toList treo trên infinite Flow.","distinctUntilChanged bỏ update vì mutable object hoặc equality sai.","onStart phát loading lại khi recollect.","onEach side effect bị lặp khi retry hoặc nhiều collector.","catch không bắt lỗi downstream collector.","take cancel upstream và có thể kích hoạt cleanup.","filter loại toàn bộ item khiến UI chờ vô hạn nếu không model empty state."]}
+      ]
+    },
+    {
+      "id": "mistakes",
+      "title": "21. Sai lầm thường gặp",
+      "blocks": [
+        {"type":"list","items":["Dùng map cho side effect rồi trả lại input.","Catch mọi Throwable và nuốt CancellationException.","Dùng emptyList làm fallback cho mọi lỗi.","Đặt distinct trước normalize khiến query tương đương vẫn gọi lại.","Dùng drop(1) để chữa event/state model sai.","Gọi toList trên stream không complete.","Nhét business logic lớn vào lambda không có tên.","Cho rằng onCompletion chỉ chạy khi thành công.","Không xem xét nhiều collector làm lặp onEach và upstream work."]},
+        {"type":"paragraph","content":"Một dấu hiệu pipeline kém là người review không thể trả lời mỗi operator bảo vệ requirement nào. Khi đó hãy viết lại theo requirement, đặt tên helper và thêm test theo timeline emission thay vì chỉ test final value."}
+      ]
+    },
+    {
+      "id": "interview",
+      "title": "22. Câu hỏi phỏng vấn, câu hỏi xoáy và mẫu trả lời",
+      "blocks": [
+        {"type":"list","items":["Intermediate và terminal operator khác nhau thế nào?","map khác transform ở cardinality nào?","catch bắt được exception trong collect không?","Vì sao distinctUntilChanged phụ thuộc equals?","first khác single thế nào?","onStart có chạy lại khi lifecycle recollect không?","take dừng upstream bằng cách nào?","Vì sao onEach có thể lặp side effect?","toList nguy hiểm với source nào?"]},
+        {"type":"paragraph","content":"Mẫu trả lời tốt nên bắt đầu từ contract: source cold hay hot, số emission, completion, error và owner lifecycle. Sau đó giải thích từng operator theo thứ tự và nêu trade-off. Ví dụ: tôi normalize query trước distinct để hai input tương đương không gọi lại; catch chỉ map technical error và rethrow cancellation; side effect metric dùng onEach vì chấp nhận at-least-once, còn command critical không đặt trong pipeline này."},
+        {"type":"paragraph","content":"Câu xoáy thường hỏi đổi thứ tự operator có ảnh hưởng không. Câu trả lời là có: filter trước map có thể giảm CPU nhưng chỉ đúng nếu predicate dùng được trên input; catch trước map không bắt mapping error; distinct trước normalize không loại input tương đương; onStart ở vị trí khác có thể chỉ áp dụng cho upstream segment khác."}
+      ]
+    },
+    {
+      "id": "practice",
+      "title": "23. Bài tập, tình huống và checklist tự đánh giá",
+      "blocks": [
+        {"type":"paragraph","content":"Bài tập 1: tạo Flow phát 1,2,2,3,null; dùng filterNotNull, distinctUntilChanged và map để tạo chuỗi label. Viết test chứng minh thứ tự output. Bài tập 2: mô hình Room Flow thành Loading/Empty/Content/Error và kiểm tra catch không bắt lỗi collector. Bài tập 3: so sánh first, single và toList trên finite/infinite source."},
+        {"type":"paragraph","content":"Tình huống: filter việc làm gồm keyword, city và salary. Hãy quyết định normalize field nào, equality nào dùng để distinct, loading phát khi nào, empty khác error ra sao và metric nào được phép at-least-once. Tiêu chí hoàn thành gồm không gọi repository khi filter tương đương, cancellation không thành error và lifecycle recollect không tạo navigation/snackbar lặp."},
+        {"type":"list","items":["Tôi biết operator là intermediate hay terminal.","Tôi dự đoán được thứ tự emission và side effect.","Tôi biết catch bảo vệ upstream nào.","Tôi không nuốt cancellation.","Tôi kiểm tra cardinality trước khi dùng first/single/toList.","Tôi hiểu equality của distinct.","Tôi biết recollection có lặp onStart/onEach không.","Tôi tách business logic lớn thành hàm có tên."]}
+      ]
+    },
+    {
+      "id": "summary-quiz-guide",
+      "title": "24. Tóm tắt cần nhớ và hướng dẫn quiz",
+      "blocks": [
+        {"type":"paragraph","content":"Operator cơ bản không đơn giản chỉ vì API ngắn. Mỗi operator thay đổi data, cardinality, lifecycle, error boundary hoặc side effect contract. Hãy chọn theo requirement, đặt đúng thứ tự, giữ transformation thuần khi có thể và test cả emission timeline, cancellation, empty source, duplicate và recollection."},
+        {"type":"list","items":["map giữ cardinality; transform có thể phát zero hoặc nhiều item.","filter loại item, không nên dùng để che error state.","onEach có thể lặp khi recollect hoặc retry.","catch chỉ bắt upstream trước nó.","distinct phụ thuộc equality và chỉ loại duplicate liên tiếp.","first/take short-circuit; single/toList đòi contract completion phù hợp."]}
+      ]
+    }
+  ],
+  "quiz": [
+    {"id":"c06-q01","type":"single","question":"Operator nào bắt đầu collection?","options":[{"id":"a","text":"map"},{"id":"b","text":"filter"},{"id":"c","text":"collect"},{"id":"d","text":"onEach"}],"correctOptionIds":["c"],"explanation":"collect là terminal operator; các operator còn lại chỉ tạo Flow mới và vẫn lazy."},
+    {"id":"c06-q02","type":"single","question":"map phù hợp nhất khi nào?","options":[{"id":"a","text":"Một input thành một output"},{"id":"b","text":"Một input thành nhiều output"},{"id":"c","text":"Muốn side effect rồi trả input"},{"id":"d","text":"Muốn dừng upstream"}],"correctOptionIds":["a"],"explanation":"map giữ cardinality một-một; transform phù hợp khi số output có thể thay đổi."},
+    {"id":"c06-q03","type":"single","question":"catch đặt trước map có bắt exception ném trong map không?","options":[{"id":"a","text":"Luôn bắt"},{"id":"b","text":"Không, vì map nằm downstream của catch"},{"id":"c","text":"Chỉ trên Main"},{"id":"d","text":"Chỉ khi dùng StateFlow"}],"correctOptionIds":["b"],"explanation":"catch chỉ quan sát exception từ upstream trước vị trí của nó."},
+    {"id":"c06-q04","type":"single","question":"distinctUntilChanged loại loại duplicate nào?","options":[{"id":"a","text":"Mọi duplicate trong lịch sử"},{"id":"b","text":"Duplicate liên tiếp theo equals"},{"id":"c","text":"Chỉ null"},{"id":"d","text":"Chỉ object cùng reference"}],"correctOptionIds":["b"],"explanation":"Nó so sánh item mới với item trước gần nhất theo equality contract."},
+    {"id":"c06-q05","type":"single","question":"onEach có rủi ro gì với side effect?","options":[{"id":"a","text":"Không bao giờ chạy"},{"id":"b","text":"Có thể chạy lại khi recollect hoặc retry"},{"id":"c","text":"Luôn chạy đúng một lần"},{"id":"d","text":"Tự lưu bền vững"}],"correctOptionIds":["b"],"explanation":"onEach thuộc pipeline nên mỗi execution upstream có thể lặp side effect."},
+    {"id":"c06-q06","type":"single","question":"Terminal operator nào yêu cầu đúng một item?","options":[{"id":"a","text":"first"},{"id":"b","text":"single"},{"id":"c","text":"collect"},{"id":"d","text":"take"}],"correctOptionIds":["b"],"explanation":"single throw nếu source không emit hoặc emit nhiều hơn một item."},
+    {"id":"c06-q07","type":"single","question":"Vì sao toList nguy hiểm với Room Flow dài hạn?","options":[{"id":"a","text":"Không compile"},{"id":"b","text":"Flow có thể không complete nên toList chờ vô hạn"},{"id":"c","text":"Room không hỗ trợ Flow"},{"id":"d","text":"toList tự cancel ngay"}],"correctOptionIds":["b"],"explanation":"toList chỉ trả khi upstream complete, trong khi observation Flow thường sống tới cancellation."},
+    {"id":"c06-q08","type":"single","question":"onStart có thể phát Loading khi nào?","options":[{"id":"a","text":"Trước mỗi collection của upstream segment"},{"id":"b","text":"Chỉ một lần trong toàn app"},{"id":"c","text":"Sau onCompletion"},{"id":"d","text":"Chỉ khi lỗi"}],"correctOptionIds":["a"],"explanation":"Mỗi lần pipeline được collect, onStart chạy lại; lifecycle recollection vì thế có thể phát Loading lại."},
+    {"id":"c06-q09","type":"single","question":"Cách xử lý CancellationException trong catch rộng là gì?","options":[{"id":"a","text":"Map thành UiError"},{"id":"b","text":"Rethrow để giữ cancellation"},{"id":"c","text":"Retry vô hạn"},{"id":"d","text":"Emit empty list"}],"correctOptionIds":["b"],"explanation":"Cancellation là control flow của structured concurrency và không nên bị biến thành lỗi sản phẩm."},
+    {"id":"c06-q10","type":"single","question":"drop(1) trên StateFlow có rủi ro gì?","options":[{"id":"a","text":"Collector mới có thể bỏ current state cần render"},{"id":"b","text":"Tự tăng replay"},{"id":"c","text":"Đổi StateFlow thành Channel"},{"id":"d","text":"Luôn deadlock"}],"correctOptionIds":["a"],"explanation":"Mỗi collector mới lại bỏ emission đầu, trong khi đó thường là latest state quan trọng."},
+    {"id":"c06-q11","type":"multiple","question":"Những yếu tố nào cần kiểm tra trước khi dùng distinctUntilChanged?","options":[{"id":"a","text":"Equality của model"},{"id":"b","text":"Object có mutable field hay không"},{"id":"c","text":"Field nào downstream thực sự quan tâm"},{"id":"d","text":"Màu icon Android Studio"}],"correctOptionIds":["a","b","c"],"explanation":"distinct chỉ đúng khi equality phản ánh đầy đủ thay đổi có ý nghĩa với downstream và model không bị mutation tại chỗ."},
+    {"id":"c06-q12","type":"multiple","question":"Những trường hợp nào có thể khiến side effect trong pipeline lặp lại?","options":[{"id":"a","text":"Nhiều collector"},{"id":"b","text":"Lifecycle recollect"},{"id":"c","text":"Retry upstream"},{"id":"d","text":"Đổi tên biến local"}],"correctOptionIds":["a","b","c"],"explanation":"Mỗi execution hoặc retry của upstream có thể chạy lại onEach/map chứa side effect; đổi tên biến không ảnh hưởng runtime."}
+  ]
+}
