@@ -1,1 +1,1008 @@
-PLACEHOLDER
+{
+  "id": "c10",
+  "code": "C10",
+  "title": "UI State và One-time Event",
+  "summary": "Thiết kế UI state, event, command và effect với StateFlow, SharedFlow, Channel, acknowledgement, lifecycle và durability.",
+  "estimatedMinutes": 330,
+  "sections": [
+    {
+      "id": "objectives",
+      "title": "1. Mục tiêu bài học",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "Bài này xây dựng mô hình tư duy để phân biệt UI state với one-time event, thay vì chỉ ghi nhớ StateFlow dùng cho state và SharedFlow dùng cho event. Mục tiêu là hiểu dữ liệu nào phải tồn tại để render lại màn hình, dữ liệu nào chỉ biểu diễn một occurrence, và contract delivery nào phù hợp với lifecycle Android."
+        },
+        {
+          "type": "list",
+          "items": [
+            "Thiết kế immutable UI state có invariant rõ ràng.",
+            "Phân loại state, event, command và effect.",
+            "Giải thích vì sao Event wrapper thường chỉ che giấu vấn đề ownership.",
+            "Chọn StateFlow, SharedFlow, Channel hoặc persisted state dựa trên delivery contract.",
+            "Thiết kế reducer, effect handling và test strategy có thể chứng minh correctness."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "prerequisites",
+      "title": "2. Kiến thức nền",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "Bạn cần nắm StateFlow, SharedFlow, Channel, lifecycle-aware collection, repeatOnLifecycle, collectAsStateWithLifecycle, structured concurrency và cancellation. C09 là nền trực tiếp vì lifecycle restart quyết định event có thể bị miss, replay nhầm hoặc xử lý lặp."
+        },
+        {
+          "type": "list",
+          "items": [
+            "C03 StateFlow",
+            "C04 SharedFlow",
+            "C05 Channel",
+            "C09 Context và Lifecycle của Flow",
+            "Immutable data class và reducer pattern"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "terminology",
+      "title": "3. Định nghĩa và thuật ngữ",
+      "blocks": [
+        {
+          "type": "table",
+          "headers": [
+            "Thuật ngữ",
+            "Giải thích"
+          ],
+          "rows": [
+            [
+              "UI state",
+              "Snapshot đủ để render màn hình tại một thời điểm."
+            ],
+            [
+              "Event",
+              "Occurrence đã xảy ra, ví dụ user bấm retry hoặc socket báo typing."
+            ],
+            [
+              "Command",
+              "Yêu cầu hệ thống thực hiện hành động, thường cần ownership và completion semantics."
+            ],
+            [
+              "Effect",
+              "Tác động ra ngoài reducer như navigation, snackbar, analytics hoặc gọi repository."
+            ],
+            [
+              "Durable state",
+              "State cần sống qua process death, thường lưu SavedStateHandle hoặc database."
+            ],
+            [
+              "Ephemeral effect",
+              "Effect chỉ có ý nghĩa trong cửa sổ UI hiện tại."
+            ],
+            [
+              "Reducer",
+              "Hàm biến old state + action thành new state và có thể sinh effect."
+            ],
+            [
+              "Delivery contract",
+              "Cam kết về replay, loss, duplication, ordering và acknowledgement."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mechanism",
+      "title": "4. Cơ chế hoạt động bên trong",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "StateFlow giữ một current value và phát latest value cho collector mới. Đây là semantics phù hợp cho state vì collector sau configuration change cần nhận snapshot mới nhất để render lại mà không cần lịch sử trước đó."
+        },
+        {
+          "type": "paragraph",
+          "content": "SharedFlow và Channel không tự biến dữ liệu thành event đúng nghĩa. Chúng chỉ cung cấp transport semantics. Với SharedFlow, replay, buffer và overflow quyết định collector muộn có nhận lại hay không. Với Channel, mỗi element được consume bởi một receiver, nhưng element vẫn có thể mất khi process chết hoặc producer bị hủy trước khi gửi."
+        },
+        {
+          "type": "paragraph",
+          "content": "Lifecycle-aware collection tạo chu kỳ subscribe, unsubscribe và subscribe lại. Vì vậy effect transport phải được đánh giá ở ba thời điểm: trước khi collector active, trong lúc collector active và sau khi collector restart. Nếu không định nghĩa rõ ba trạng thái này, app dễ miss navigation, hiện snackbar hai lần hoặc xử lý command trùng."
+        },
+        {
+          "type": "code",
+          "language": "kotlin",
+          "label": "State và effect tách riêng",
+          "content": "data class ProfileUiState(\n    val isLoading: Boolean = false,\n    val profile: Profile? = null,\n    val error: String? = null\n)\n\nsealed interface ProfileEffect {\n    data object NavigateBack : ProfileEffect\n    data class ShowSnackbar(val message: String) : ProfileEffect\n}"
+        },
+        {
+          "type": "paragraph",
+          "content": "Một cách kiểm tra đơn giản là hỏi: nếu UI bị destroy rồi tạo lại ngay sau đó, value này có cần xuất hiện lại để màn hình đúng không? Nếu có, nó thuộc state. Nếu không, hãy hỏi tiếp hậu quả khi bỏ lỡ occurrence là gì. Câu hỏi thứ hai quyết định effect có thể best-effort hay phải có acknowledgement/durability."
+        },
+        {
+          "type": "paragraph",
+          "content": "StateFlow dùng equality-based conflation. Nếu state mới bằng state cũ theo equals, collector có thể không nhận emission mới. Vì vậy mutable collection bên trong state là nguy hiểm: sửa list tại chỗ rồi gán lại cùng object có thể không tạo update mà UI cần. State nên immutable và mỗi transition tạo object mới."
+        },
+        {
+          "type": "code",
+          "language": "kotlin",
+          "label": "Reducer thuần",
+          "content": "fun reduce(state: CheckoutUiState, action: CheckoutAction): CheckoutUiState =\n    when (action) {\n        is CheckoutAction.QuantityChanged -> state.copy(quantity = action.value)\n        CheckoutAction.SubmitStarted -> state.copy(isSubmitting = true, error = null)\n        is CheckoutAction.SubmitFailed -> state.copy(isSubmitting = false, error = action.message)\n        CheckoutAction.SubmitSucceeded -> state.copy(isSubmitting = false, completed = true)\n    }"
+        }
+      ]
+    },
+    {
+      "id": "purpose",
+      "title": "5. Mục đích của kỹ thuật",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "Tách state và event giúp mỗi loại dữ liệu có contract đúng. State phải idempotent khi render nhiều lần; event thường cần tiêu thụ theo occurrence. Khi trộn hai loại vào một data class mà không có quy tắc, UI có thể lặp navigation sau rotation hoặc bỏ mất error khi collector chưa active."
+        },
+        {
+          "type": "paragraph",
+          "content": "Mục đích sâu hơn là đưa logic màn hình về state machine có thể kiểm thử. ViewModel nhận action, reducer tạo state mới, effect runner thực hiện side effect, và UI chỉ render state rồi xử lý effect theo contract đã chọn."
+        }
+      ]
+    },
+    {
+      "id": "problems",
+      "title": "6. Vấn đề kỹ thuật được giải quyết",
+      "blocks": [
+        {
+          "type": "list",
+          "items": [
+            "Navigation lặp sau configuration change.",
+            "Snackbar bị miss khi app vừa vào background.",
+            "Loading và error mâu thuẫn trong cùng state.",
+            "Duplicate API call do event được collect lại.",
+            "Event wrapper mutable gây race condition giữa nhiều collector.",
+            "Không thể test rõ vì logic nằm rải rác trong composable và callback."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "Các lỗi này thường không nằm ở một operator riêng lẻ mà nằm ở việc định nghĩa sai loại dữ liệu. Một value có thể trông giống event nhưng thực tế là state, ví dụ dialog 'phiên đăng nhập hết hạn' phải tiếp tục hiển thị cho đến khi user acknowledgement; khi đó nó là state chứ không phải fire-and-forget event."
+        }
+      ]
+    },
+    {
+      "id": "signals",
+      "title": "7. Dấu hiệu cần dùng",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "Bạn cần mô hình state/effect rõ khi màn hình có nhiều asynchronous source, navigation theo kết quả, retry, process recreation, dialog cần acknowledgement, optimistic update hoặc command phải chống duplicate."
+        },
+        {
+          "type": "list",
+          "items": [
+            "UI phải khôi phục đúng sau rotation.",
+            "Có nhiều collector hoặc nhiều surface cùng quan sát.",
+            "Có effect không được phép mất.",
+            "Có effect có thể drop khi UI không active.",
+            "Có requirement audit, acknowledgement hoặc exactly-once ở mức domain."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "not-use",
+      "title": "8. Khi không nên áp dụng máy móc",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "Màn hình đơn giản chỉ hiển thị data read-only có thể chỉ cần một StateFlow duy nhất. Không nên tạo reducer framework phức tạp, effect bus toàn app hoặc sealed class hàng chục case nếu product behavior đơn giản."
+        },
+        {
+          "type": "paragraph",
+          "content": "Không nên dùng one-time event abstraction để che dữ liệu lẽ ra là state. Ví dụ lỗi validation của form phải nằm trong UI state vì cần render lại ổn định; đưa lỗi đó vào SharedFlow khiến collector restart làm mất thông tin."
+        }
+      ]
+    },
+    {
+      "id": "requirements",
+      "title": "9. Yêu cầu sản phẩm cụ thể",
+      "blocks": [
+        {
+          "type": "table",
+          "headers": [
+            "Requirement",
+            "Thiết kế phù hợp"
+          ],
+          "rows": [
+            [
+              "Rotation không làm mất nội dung",
+              "StateFlow hoặc persisted state"
+            ],
+            [
+              "Snackbar chỉ cần khi UI đang visible",
+              "Ephemeral SharedFlow với replay=0"
+            ],
+            [
+              "Navigation không được lặp",
+              "Effect có id hoặc state transition được acknowledgement"
+            ],
+            [
+              "Dialog phải còn sau rotation",
+              "Đưa dialog model vào UI state"
+            ],
+            [
+              "Command thanh toán không được mất",
+              "Durable command queue + idempotency key"
+            ],
+            [
+              "Toast analytics có thể drop",
+              "Best-effort effect transport"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "Điểm quyết định không phải component UI nào được dùng mà là hậu quả khi mất, lặp hoặc reorder. Một snackbar 'Đã lưu' có thể drop mà không ảnh hưởng dữ liệu, nhưng command gửi đơn hàng thì không thể dùng cùng transport semantics."
+        },
+        {
+          "type": "paragraph",
+          "content": "Một requirement thường bị bỏ quên là multi-window hoặc nhiều destination cùng active. Khi hai UI surface cùng collect một SharedFlow, cả hai có thể xử lý effect. Nếu chỉ một nơi được phép navigation, cần coordinator hoặc route ownership thay vì giả định chỉ có một collector."
+        }
+      ]
+    },
+    {
+      "id": "analysis",
+      "title": "10. Dependency, error policy, lifecycle và resource limits",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "Dependency direction nên để ViewModel phụ thuộc use case/repository, còn UI chỉ phụ thuộc state/effect contract. Reducer thuần không nên gọi network trực tiếp; effect handler hoặc coroutine trong ViewModel chịu trách nhiệm gọi dependency và dispatch result action trở lại."
+        },
+        {
+          "type": "paragraph",
+          "content": "Error policy phải phân biệt recoverable error, validation error và fatal/session error. Validation error là state. Recoverable network error thường là state kèm retry action. Session expired có thể là state toàn app hoặc effect điều hướng, nhưng cần ownership rõ để tránh nhiều màn hình cùng điều hướng."
+        },
+        {
+          "type": "paragraph",
+          "content": "Lifecycle policy phải chỉ rõ producer sống trong viewModelScope hay application scope, collector dùng STARTED hay RESUMED, và effect nào được buffer khi UI inactive. Resource limit gồm buffer size, overflow policy, số effect pending và timeout acknowledgement."
+        },
+        {
+          "type": "paragraph",
+          "content": "Process death là boundary quan trọng. StateFlow, SharedFlow và Channel đều nằm trong memory. Dữ liệu quan trọng phải persisted bằng SavedStateHandle, database hoặc server; transport in-memory không tạo durability."
+        },
+        {
+          "type": "paragraph",
+          "content": "Khi effect dùng extraBufferCapacity, cần hiểu producer có thể emit thành công trước khi collector xử lý. Buffer không đồng nghĩa persistence; app bị kill thì toàn bộ pending effect biến mất. Overflow policy DROP_OLDEST hay DROP_LATEST chỉ phù hợp với effect có thể mất."
+        },
+        {
+          "type": "paragraph",
+          "content": "Nếu một effect chứa payload lớn như bitmap hoặc danh sách dài, buffer có thể giữ nhiều object và tăng memory pressure. Effect nên chứa identifier tối thiểu; consumer tải detail từ repository hoặc state store."
+        },
+        {
+          "type": "code",
+          "language": "kotlin",
+          "label": "Lifecycle-aware collection trong Fragment",
+          "content": "viewLifecycleOwner.lifecycleScope.launch {\n    viewLifecycleOwner.repeatOnLifecycle(Lifecycle.State.STARTED) {\n        launch { viewModel.state.collect(::render) }\n        launch { viewModel.effects.collect(::handleEffect) }\n    }\n}"
+        },
+        {
+          "type": "paragraph",
+          "content": "Observability cũng thuộc contract. Log effect cần correlation id nhưng logging collector không được consume event theo kiểu single-consumer. Với Channel, thêm logging receiver có thể tranh item với UI; với SharedFlow, logging nhận bản copy nhưng phải tránh tạo side effect lặp."
+        }
+      ]
+    },
+    {
+      "id": "minimal-code",
+      "title": "11. Ví dụ code tối giản",
+      "blocks": [
+        {
+          "type": "code",
+          "language": "kotlin",
+          "label": "ViewModel với state và effect",
+          "content": "class EditorViewModel : ViewModel() {\n    private val _state = MutableStateFlow(EditorUiState())\n    val state: StateFlow<EditorUiState> = _state.asStateFlow()\n\n    private val _effects = MutableSharedFlow<EditorEffect>(extraBufferCapacity = 1)\n    val effects: SharedFlow<EditorEffect> = _effects.asSharedFlow()\n\n    fun save() = viewModelScope.launch {\n        _state.update { it.copy(isSaving = true, error = null) }\n        runCatching { repository.save(_state.value.form) }\n            .onSuccess {\n                _state.update { it.copy(isSaving = false, isSaved = true) }\n                _effects.emit(EditorEffect.NavigateBack)\n            }\n            .onFailure { error ->\n                _state.update { it.copy(isSaving = false, error = error.message) }\n            }\n    }\n}"
+        },
+        {
+          "type": "paragraph",
+          "content": "Trong ví dụ này, loading và error là state vì UI phải render lại được. NavigateBack là effect vì occurrence thành công chỉ cần xử lý một lần trong lifecycle hiện tại. Tuy nhiên nếu navigation tuyệt đối không được miss, cần thêm acknowledgement hoặc chuyển completion thành persisted state mà destination coordinator xử lý."
+        },
+        {
+          "type": "paragraph",
+          "content": "Code tối giản này chủ ý không dùng replay cho effect. Khi UI inactive, NavigateBack có thể bị miss. Điều đó chỉ đúng nếu feature contract chấp nhận hoặc success state sẽ được kiểm tra lại khi UI trở về. Với contract nghiêm ngặt hơn, cần pendingEffect trong state hoặc coordinator durable."
+        },
+        {
+          "type": "code",
+          "language": "kotlin",
+          "label": "Compose collection",
+          "content": "@Composable\nfun EditorRoute(viewModel: EditorViewModel, onBack: () -> Unit) {\n    val state by viewModel.state.collectAsStateWithLifecycle()\n    LaunchedEffect(viewModel) {\n        viewModel.effects.collect { effect ->\n            when (effect) {\n                EditorEffect.NavigateBack -> onBack()\n                is EditorEffect.ShowSnackbar -> Unit\n            }\n        }\n    }\n    EditorScreen(state = state, onSave = viewModel::save)\n}"
+        }
+      ]
+    },
+    {
+      "id": "upzi",
+      "title": "12. Ví dụ Upzi hoặc dự án liên quan",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "`confirmed`: Upzi dùng Jetpack Compose, StateFlow, Paging3 và lifecycle-aware architecture trong nhiều màn hình. Vì vậy UI state bất biến và collection theo lifecycle là hướng phù hợp với kiến trúc đã biết."
+        },
+        {
+          "type": "paragraph",
+          "content": "`inferred`: Với chat, trạng thái danh sách hội thoại, loading, unread count và connection state nên là StateFlow; các occurrence như scroll-to-message hoặc open attachment nhiều khả năng cần effect riêng. Đây là suy luận từ kiến trúc chat đã mô tả, chưa xác nhận implementation cụ thể."
+        },
+        {
+          "type": "paragraph",
+          "content": "`proposed`: Chuẩn hóa mỗi feature bằng FeatureUiState, FeatureAction và FeatureEffect. Navigation effect có unique id; UI acknowledgement sau khi xử lý để tránh lặp. Snackbar best-effort dùng SharedFlow replay=0."
+        },
+        {
+          "type": "paragraph",
+          "content": "`needs-confirmation`: Cần xác nhận Upzi hiện dùng Event wrapper, Channel hay SharedFlow cho navigation/one-time event trước khi trình bày như kinh nghiệm thực tế trong phỏng vấn."
+        },
+        {
+          "type": "code",
+          "language": "kotlin",
+          "label": "Proposed contract cho chat",
+          "content": "data class ChatUiState(\n    val messages: List<MessageUi> = emptyList(),\n    val isLoading: Boolean = false,\n    val connection: ConnectionState = ConnectionState.Disconnected,\n    val pendingDialog: DialogModel? = null\n)\n\nsealed interface ChatEffect {\n    data class ScrollToMessage(val id: String) : ChatEffect\n    data class OpenAttachment(val url: String) : ChatEffect\n}"
+        }
+      ]
+    },
+    {
+      "id": "alternatives",
+      "title": "13. Phương án thay thế",
+      "blocks": [
+        {
+          "type": "table",
+          "headers": [
+            "Phương án",
+            "Phù hợp khi",
+            "Hạn chế"
+          ],
+          "rows": [
+            [
+              "StateFlow + SharedFlow",
+              "State và effect tách rõ",
+              "Effect vẫn không durable"
+            ],
+            [
+              "StateFlow duy nhất",
+              "Màn hình đơn giản, effect biểu diễn được thành state",
+              "Có thể cần acknowledgement field"
+            ],
+            [
+              "Channel",
+              "Single-consumer queue trong memory",
+              "Không replay cho collector mới, không durable"
+            ],
+            [
+              "SavedStateHandle",
+              "State nhỏ cần qua process recreation",
+              "Không dành cho payload lớn hoặc queue phức tạp"
+            ],
+            [
+              "Database command queue",
+              "Command quan trọng cần durability",
+              "Phức tạp hơn, cần cleanup/idempotency"
+            ],
+            [
+              "Navigation coordinator",
+              "Điều hướng toàn app có ownership tập trung",
+              "Tăng abstraction và coupling nếu lạm dụng"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "LiveData<Event<T>> vẫn xuất hiện trong codebase cũ. Migration không nên chỉ đổi type sang SharedFlow; cần xác định lại state, effect và lifecycle semantics. Nếu giữ nguyên mutable Event wrapper, vấn đề thiết kế vẫn còn."
+        }
+      ]
+    },
+    {
+      "id": "tradeoffs",
+      "title": "14. Lý do lựa chọn và trade-off",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "StateFlow mang lại render idempotent và dễ test nhưng buộc state model phải nhất quán. SharedFlow thuận tiện cho effect best-effort nhưng dễ miss khi không có subscriber. Channel có queue semantics rõ hơn nhưng không giải quyết process death và có thể chỉ một receiver nhận item."
+        },
+        {
+          "type": "paragraph",
+          "content": "Ack-based effect giúp chống lặp nhưng làm protocol phức tạp: phải lưu pending effect, xử lý id, timeout và cleanup. Chỉ nên dùng cho effect có hậu quả lớn. Với snackbar thông thường, complexity đó không đáng."
+        },
+        {
+          "type": "paragraph",
+          "content": "Đưa navigation vào state có thể tăng độ tin cậy, ví dụ state = Completed và coordinator quyết định điều hướng. Đổi lại, cần transition acknowledgement để không điều hướng lại vô hạn."
+        },
+        {
+          "type": "paragraph",
+          "content": "Một mô hình khác là encode pending effect trong state với effectId. UI xử lý rồi gọi acknowledge(effectId). Cách này chống replay nhầm qua rotation nhưng vẫn không chống process death nếu state không persisted. Nếu persisted, cần cleanup để effect không sống vô hạn."
+        },
+        {
+          "type": "code",
+          "language": "kotlin",
+          "label": "Ack-based effect state",
+          "content": "data class UiState(\n    val data: Data? = null,\n    val pendingEffect: PendingEffect? = null\n)\n\ndata class PendingEffect(val id: String, val effect: Effect)\n\nfun acknowledge(id: String) {\n    _state.update { state ->\n        if (state.pendingEffect?.id == id) state.copy(pendingEffect = null) else state\n    }\n}"
+        },
+        {
+          "type": "paragraph",
+          "content": "MVI framework có thể chuẩn hóa reducer và effect nhưng không thay thế product reasoning. Framework càng generic càng dễ che mất delivery contract cụ thể. Nên giữ contract feature-level đọc được và tránh global event bus."
+        }
+      ]
+    },
+    {
+      "id": "edge-cases",
+      "title": "15. Edge cases",
+      "blocks": [
+        {
+          "type": "list",
+          "items": [
+            "Collector chưa STARTED khi effect được emit.",
+            "Rotation xảy ra giữa khi effect emit và UI xử lý.",
+            "Hai collector cùng nghe effect.",
+            "Effect handler bị cancel giữa chừng.",
+            "SharedFlow buffer đầy.",
+            "User bấm save hai lần trước khi request đầu hoàn tất.",
+            "Process chết sau server success nhưng trước local acknowledgement.",
+            "Dialog state bị clear quá sớm.",
+            "Navigation effect đến khi destination đã mở.",
+            "Retry tạo duplicate command."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "Mỗi edge case nên được gắn với một invariant. Ví dụ save command phải single-flight hoặc idempotent; dialog chỉ clear khi user action xác nhận; navigation effect phải có destination ownership và duplicate suppression."
+        },
+        {
+          "type": "paragraph",
+          "content": "Khi nhiều effect liên tiếp đến nhanh, một field pendingEffect duy nhất có thể ghi đè effect trước. Nếu cần queue, phải mô hình hóa queue có giới hạn, acknowledgement theo id và overflow policy. Đó là lúc database queue hoặc coordinator chuyên trách có thể phù hợp hơn."
+        },
+        {
+          "type": "paragraph",
+          "content": "Khi effect handler gọi suspend function dài, lifecycle cancellation có thể dừng giữa chừng. Effect handler nên giới hạn ở thao tác UI nhanh; command dài phải do ViewModel/use case sở hữu."
+        },
+        {
+          "type": "code",
+          "language": "kotlin",
+          "label": "Single-flight submit",
+          "content": "private var submitJob: Job? = null\n\nfun submit() {\n    if (submitJob?.isActive == true) return\n    submitJob = viewModelScope.launch {\n        dispatch(Action.SubmitStarted)\n        val result = runCatching { repository.submit() }\n        dispatch(result.fold(\n            onSuccess = { Action.SubmitSucceeded },\n            onFailure = { Action.SubmitFailed(it.message ?: \"Unknown\") }\n        ))\n    }\n}"
+        },
+        {
+          "type": "paragraph",
+          "content": "Nếu app có accessibility service hoặc automated test collector, event broadcast có thể được quan sát bởi nhiều consumer. Effect handler phải idempotent hoặc ownership phải rõ. Đặc biệt navigation và permission request không nên được kích hoạt từ nhiều collector."
+        }
+      ]
+    },
+    {
+      "id": "mistakes",
+      "title": "16. Sai lầm thường gặp",
+      "blocks": [
+        {
+          "type": "list",
+          "items": [
+            "Dùng nullable String error làm event rồi set null sau khi UI đọc.",
+            "Bọc event trong mutable Event<T> và cho nhiều collector cùng consume.",
+            "Dùng SharedFlow replay=1 cho navigation nhưng không clear replay cache.",
+            "Dùng Channel như durable queue.",
+            "Đặt tất cả thứ vào một UiState nhưng không định nghĩa invariant.",
+            "Emit effect từ composable trong mỗi recomposition.",
+            "Collect effect không gắn lifecycle.",
+            "Dùng collectAsState cho event stream."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "Event wrapper thường tạo shared mutable consumption flag. Nó có thể hoạt động trong demo một collector nhưng khó reasoning khi có logging, test collector hoặc nhiều surface. Vấn đề gốc vẫn là delivery contract chưa rõ."
+        },
+        {
+          "type": "paragraph",
+          "content": "Một sai lầm khác là đưa NavController hoặc SnackbarHostState vào ViewModel. Đây là dependency UI có lifecycle ngắn, làm ViewModel giữ reference sai tầng và khó test. ViewModel nên phát contract độc lập platform, UI adapter thực hiện effect."
+        },
+        {
+          "type": "paragraph",
+          "content": "Dùng distinctUntilChanged cho event stream cũng nguy hiểm: hai snackbar giống nội dung nhưng là hai occurrence khác nhau sẽ bị collapse nếu equality giống nhau."
+        },
+        {
+          "type": "code",
+          "language": "kotlin",
+          "label": "Sai: event như boolean",
+          "content": "data class BadUiState(\n    val navigateBack: Boolean = false\n)\n// Rotation có thể đọc lại true và điều hướng lần nữa."
+        },
+        {
+          "type": "paragraph",
+          "content": "Đưa timestamp vào mọi state chỉ để ép StateFlow emit là code smell. Điều đó phá equality semantics, làm UI recomposition không cần thiết và che mutation bug. Hãy sửa immutable transition hoặc mô hình occurrence thành effect đúng nghĩa."
+        }
+      ]
+    },
+    {
+      "id": "interview-basic",
+      "title": "17. Câu hỏi phỏng vấn cơ bản",
+      "blocks": [
+        {
+          "type": "list",
+          "items": [
+            "StateFlow khác SharedFlow khi biểu diễn UI state thế nào?",
+            "Tại sao navigation không nên là boolean trong state mà không có acknowledgement?",
+            "Khi nào dialog là state thay vì event?",
+            "Channel có đảm bảo exactly-once không?",
+            "Process death ảnh hưởng one-time event thế nào?"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "Câu trả lời tốt phải nói đến current value, replay, lifecycle restart, durability và hậu quả khi duplicate/miss; không chỉ nêu API."
+        },
+        {
+          "type": "paragraph",
+          "content": "Ví dụ phỏng vấn tốt: snackbar 'Đã sao chép' là effect best-effort; clipboard content hiện tại là state ngoài app; payment status là durable state; animation confetti là effect có thể drop. Cùng UI feedback nhưng contract khác nhau."
+        }
+      ]
+    },
+    {
+      "id": "interview-deep",
+      "title": "18. Câu hỏi xoáy sâu và câu hỏi bẫy",
+      "blocks": [
+        {
+          "type": "list",
+          "items": [
+            "SharedFlow replay=0 có mất event khi không có subscriber không?",
+            "Channel có giữ item qua rotation không? Qua process death không?",
+            "repeatOnLifecycle restart collector có thể làm gì với replay=1?",
+            "Làm sao xử lý payment success nếu app chết trước navigation?",
+            "Hai collector cùng collect SharedFlow effect thì điều gì xảy ra?",
+            "Exactly-once ở UI có thực sự đạt được không?"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "Điểm bẫy là exactly-once thường không thể bảo đảm chỉ bằng primitive in-memory. Bạn thường đạt at-least-once + idempotency hoặc persisted state + acknowledgement."
+        },
+        {
+          "type": "paragraph",
+          "content": "Một câu trả lời senior nên nói rằng 'one-time event' không phải loại dữ liệu tuyệt đối. Cùng một business fact có thể được mô hình thành state hoặc event tùy contract. PaymentSucceeded thường là durable state; snackbar thông báo nó chỉ là effect."
+        },
+        {
+          "type": "paragraph",
+          "content": "Khi interviewer hỏi Channel có tốt hơn SharedFlow cho event không, câu trả lời phải phân tích single-consumer, buffering, lifecycle gap và process death thay vì chọn một API mặc định."
+        }
+      ]
+    },
+    {
+      "id": "experience-answer",
+      "title": "19. Mẫu trả lời gắn với kinh nghiệm",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "Tôi tách dữ liệu render lâu dài thành immutable StateFlow và các effect best-effort như snackbar thành SharedFlow replay=0. Với action có hậu quả lớn, tôi không dựa vào Channel để bảo đảm delivery mà dùng idempotency key và persisted status. Ở dự án Upzi, phần kiến trúc StateFlow và Compose là confirmed; cách xử lý navigation effect cụ thể cần xác nhận trước khi trình bày như implementation thật."
+        },
+        {
+          "type": "paragraph",
+          "content": "Khi debug lỗi lặp navigation, tôi kiểm tra lifecycle restart, replay, source ownership và whether effect đã được acknowledgement thay vì chỉ thêm cờ hasNavigated trong composable."
+        },
+        {
+          "type": "paragraph",
+          "content": "Khi làm code review, tôi yêu cầu tác giả ghi rõ event có được phép mất khi background không, có replay sau rotation không, và xử lý duplicate thế nào. Ba câu hỏi này thường phát hiện bug trước khi bàn đến StateFlow hay Channel."
+        }
+      ]
+    },
+    {
+      "id": "practice",
+      "title": "20. Bài tập thực hành",
+      "blocks": [
+        {
+          "type": "list",
+          "items": [
+            "Refactor màn hình login đang dùng LiveData<Event<T>> sang UiState + UiEffect.",
+            "Viết reducer cho form đăng ký có validation, loading và success.",
+            "Thêm acknowledgement cho navigation quan trọng.",
+            "Viết test chứng minh snackbar có thể drop khi UI inactive nhưng dialog state không mất.",
+            "Mô phỏng double-click save và chống duplicate."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "Tiêu chí hoàn thành: state immutable, invariant được ghi rõ, effect contract có replay/buffer policy, test có lifecycle restart và không dùng delay thực."
+        },
+        {
+          "type": "paragraph",
+          "content": "Phần test nên dùng runTest và Turbine hoặc collector thủ công. Hãy assert sequence state, assert effect count, cancel/restart collector và kiểm tra process-recreation simulation bằng cách tạo ViewModel mới từ persisted state."
+        },
+        {
+          "type": "code",
+          "language": "kotlin",
+          "label": "Test không lặp navigation sau acknowledge",
+          "content": "@Test\nfun navigation_is_not_replayed_after_ack() = runTest {\n    val vm = createViewModel()\n    vm.onSaveSuccess()\n    val effect = vm.state.value.pendingEffect!!\n    vm.acknowledge(effect.id)\n\n    val recreated = createViewModel(savedState = vm.savedSnapshot())\n    assertNull(recreated.state.value.pendingEffect)\n}"
+        },
+        {
+          "type": "paragraph",
+          "content": "Bài tập nâng cao: tạo một EffectDeliveryPolicy enum chỉ để tài liệu hóa best-effort, acknowledged và durable; sau đó chứng minh vì sao abstraction này không nên tự động chọn primitive mà vẫn cần implementation theo feature."
+        }
+      ]
+    },
+    {
+      "id": "scenario",
+      "title": "21. Bài tập tình huống",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "Tình huống 1: Upload hoàn tất khi app background. Hãy quyết định nên dùng notification, persisted state hay effect trong UI. Trả lời phải nêu hậu quả nếu process chết."
+        },
+        {
+          "type": "paragraph",
+          "content": "Tình huống 2: Session expired từ nhiều API đồng thời. Thiết kế ownership để chỉ điều hướng login một lần, đồng thời giữ được reason và tránh vòng lặp."
+        },
+        {
+          "type": "paragraph",
+          "content": "Tình huống 3: Chat nhận deep link tới message chưa tải. Thiết kế state/effect để load dữ liệu, scroll đúng một lần và khôi phục sau rotation."
+        },
+        {
+          "type": "paragraph",
+          "content": "Tình huống 4: App nhận push mở màn hình chi tiết nhưng user đã ở đúng destination. Thiết kế duplicate suppression dựa trên route identity thay vì bỏ mọi event giống nhau."
+        },
+        {
+          "type": "paragraph",
+          "content": "Tình huống 5: Một snackbar lỗi giống nhau xảy ra hai lần do hai request khác nhau. Giải thích vì sao distinctUntilChanged trên effect stream là sai và nên gắn requestId nếu cần trace."
+        },
+        {
+          "type": "paragraph",
+          "content": "Tình huống 6: Server trả success, app crash trước khi UI nhận effect. Khi mở lại, repository đọc persisted operation status và state machine chuyển sang Completed; navigation coordinator xử lý dựa trên state, không chờ event cũ."
+        }
+      ]
+    },
+    {
+      "id": "checklist",
+      "title": "22. Checklist tự đánh giá",
+      "blocks": [
+        {
+          "type": "list",
+          "items": [
+            "Tôi phân biệt được snapshot và occurrence.",
+            "State của tôi đủ render lại màn hình.",
+            "Tôi biết effect nào được phép mất.",
+            "Tôi biết effect nào cần acknowledgement.",
+            "Tôi không dùng Channel như durable queue.",
+            "Tôi đã định nghĩa replay, buffer và overflow.",
+            "Tôi xử lý lifecycle restart.",
+            "Tôi có strategy cho process death.",
+            "Reducer có invariant và test.",
+            "Case Upzi được gắn nhãn trung thực."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "summary",
+      "title": "23. Tóm tắt cần nhớ",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "UI state là snapshot; one-time event là occurrence. Primitive Flow chỉ cung cấp transport, không tự quyết định semantics. Chọn StateFlow, SharedFlow, Channel hay persisted storage dựa trên replay, loss, duplication, ordering, acknowledgement và durability."
+        },
+        {
+          "type": "paragraph",
+          "content": "Đối với Android, lifecycle restart và process death là hai boundary bắt buộc phải phân tích. State nên render idempotent. Effect quan trọng cần ownership và acknowledgement; command quan trọng cần durability và idempotency."
+        },
+        {
+          "type": "paragraph",
+          "content": "Không có primitive nào tự mang semantics exactly-once. Correctness đến từ domain state, idempotency, acknowledgement và persistence. State/effect split chỉ là bước đầu để làm contract hiển nhiên và kiểm thử được."
+        }
+      ]
+    },
+    {
+      "id": "quiz",
+      "title": "24. Quiz có giải thích đáp án",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "Quiz kiểm tra khả năng chọn semantics chứ không chỉ nhớ tên API."
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "question": "Dữ liệu nào phù hợp nhất với StateFlow?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Snackbar occurrence"
+        },
+        {
+          "id": "b",
+          "text": "Snapshot form hiện tại"
+        },
+        {
+          "id": "c",
+          "text": "Navigation command"
+        },
+        {
+          "id": "d",
+          "text": "Analytics ping"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "explanation": "StateFlow giữ latest snapshot và phù hợp dữ liệu cần render lại."
+    },
+    {
+      "id": "q2",
+      "question": "SharedFlow replay=0 khi không có subscriber sẽ thế nào?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Luôn lưu event"
+        },
+        {
+          "id": "b",
+          "text": "Có thể mất event"
+        },
+        {
+          "id": "c",
+          "text": "Persist xuống disk"
+        },
+        {
+          "id": "d",
+          "text": "Chuyển thành state"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "explanation": "Không có replay và không có subscriber thì emission không được lưu cho collector tương lai."
+    },
+    {
+      "id": "q3",
+      "question": "Dialog xác nhận phải còn sau rotation nên được mô hình hóa là gì?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ephemeral effect"
+        },
+        {
+          "id": "b",
+          "text": "UI state"
+        },
+        {
+          "id": "c",
+          "text": "Analytics event"
+        },
+        {
+          "id": "d",
+          "text": "Channel command"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "explanation": "Dialog cần tiếp tục render cho đến acknowledgement nên là state."
+    },
+    {
+      "id": "q4",
+      "question": "Channel có bảo đảm delivery qua process death không?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Có"
+        },
+        {
+          "id": "b",
+          "text": "Không"
+        },
+        {
+          "id": "c",
+          "text": "Chỉ trên Android 14"
+        },
+        {
+          "id": "d",
+          "text": "Chỉ khi buffered"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "explanation": "Channel là primitive in-memory."
+    },
+    {
+      "id": "q5",
+      "question": "Navigation effect replay=1 có nguy cơ gì?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Không compile"
+        },
+        {
+          "id": "b",
+          "text": "Lặp navigation khi collector mới subscribe"
+        },
+        {
+          "id": "c",
+          "text": "Mất current state"
+        },
+        {
+          "id": "d",
+          "text": "Tăng thread count"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "explanation": "Collector mới có thể nhận lại effect cũ."
+    },
+    {
+      "id": "q6",
+      "question": "Exactly-once cho payment command nên dựa chủ yếu vào gì?",
+      "options": [
+        {
+          "id": "a",
+          "text": "SharedFlow"
+        },
+        {
+          "id": "b",
+          "text": "Channel"
+        },
+        {
+          "id": "c",
+          "text": "Idempotency + persisted status"
+        },
+        {
+          "id": "d",
+          "text": "Toast"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "explanation": "Primitive in-memory không đủ; cần durability và idempotency."
+    },
+    {
+      "id": "q7",
+      "question": "Validation error của form thường nên nằm ở đâu?",
+      "options": [
+        {
+          "id": "a",
+          "text": "UI state"
+        },
+        {
+          "id": "b",
+          "text": "One-time effect"
+        },
+        {
+          "id": "c",
+          "text": "Global event bus"
+        },
+        {
+          "id": "d",
+          "text": "Channel"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "explanation": "Validation error cần render ổn định theo current input."
+    },
+    {
+      "id": "q8",
+      "question": "Hai collector cùng collect SharedFlow effect thì sao?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Chỉ một collector nhận"
+        },
+        {
+          "id": "b",
+          "text": "Cả hai active collector có thể nhận"
+        },
+        {
+          "id": "c",
+          "text": "Không collector nào nhận"
+        },
+        {
+          "id": "d",
+          "text": "Flow tự deduplicate"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "explanation": "SharedFlow là broadcast cho subscriber active."
+    },
+    {
+      "id": "q9",
+      "question": "Event wrapper có vấn đề chính gì?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Không dùng được Kotlin"
+        },
+        {
+          "id": "b",
+          "text": "Thường dựa trên mutable consumed flag và khó scale nhiều collector"
+        },
+        {
+          "id": "c",
+          "text": "Luôn leak memory"
+        },
+        {
+          "id": "d",
+          "text": "Không test được"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "explanation": "Mutable consumption state làm ownership và concurrency khó reasoning."
+    },
+    {
+      "id": "q10",
+      "question": "repeatOnLifecycle ảnh hưởng collector thế nào?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Collector chạy mãi"
+        },
+        {
+          "id": "b",
+          "text": "Collector bị cancel và tạo lại theo lifecycle"
+        },
+        {
+          "id": "c",
+          "text": "Persist event"
+        },
+        {
+          "id": "d",
+          "text": "Đổi dispatcher"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "explanation": "Block collection restart theo lifecycle state."
+    },
+    {
+      "id": "q11",
+      "question": "Effect quan trọng không được mất cần thêm gì?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Chỉ tăng buffer"
+        },
+        {
+          "id": "b",
+          "text": "Ownership, acknowledgement hoặc persisted protocol"
+        },
+        {
+          "id": "c",
+          "text": "Chỉ debounce"
+        },
+        {
+          "id": "d",
+          "text": "Chỉ distinctUntilChanged"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "explanation": "Reliability cần protocol rõ, không chỉ buffer."
+    },
+    {
+      "id": "q12",
+      "question": "Mục tiêu chính của reducer là gì?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tạo thread"
+        },
+        {
+          "id": "b",
+          "text": "Biến state cũ + action thành state mới có kiểm soát"
+        },
+        {
+          "id": "c",
+          "text": "Persist database"
+        },
+        {
+          "id": "d",
+          "text": "Render Compose"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "explanation": "Reducer tập trung transition và invariant."
+    }
+  ]
+}

@@ -192,8 +192,8 @@
           "code": "C10",
           "title": "UI State và One-time Event",
           "path": "data/lessons/c/c10.json",
-          "estimatedMinutes": 120,
-          "status": "planned"
+          "estimatedMinutes": 330,
+          "status": "published"
         },
         {
           "id": "c11",
