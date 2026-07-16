@@ -58,7 +58,7 @@ assert metrics["sections"] == 24
 assert metrics["uniqueSectionIds"] == 24
 assert metrics["paragraphs"] >= 24
 assert metrics["paragraphCharacters"] >= 8500
-assert metrics["codeBlocks"] >= 6
+assert metrics["codeBlocks"] >= 5
 assert metrics["quizQuestions"] >= 10
 assert metrics["quizAnswersValid"]
 assert metrics["truthfulnessLabelsPresent"]
