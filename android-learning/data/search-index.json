@@ -534,5 +534,32 @@
       "retryWhen",
       "scan và reducer"
     ]
+  },
+  {
+    "lessonId": "c08",
+    "code": "C08",
+    "title": "Debounce và Search Flow",
+    "keywords": [
+      "debounce",
+      "search flow",
+      "flatMapLatest",
+      "distinctUntilChanged",
+      "stale result",
+      "generation guard",
+      "Paging 3",
+      "SearchKey",
+      "canonical query",
+      "virtual time"
+    ],
+    "headings": [
+      "Debounce mechanism",
+      "Operator order",
+      "Latest-only cancellation",
+      "Loading and empty state",
+      "Paging search",
+      "Cache and single-flight",
+      "Upzi case study",
+      "Virtual-time testing"
+    ]
   }
 ]

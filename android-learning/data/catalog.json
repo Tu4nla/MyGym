@@ -176,8 +176,8 @@
           "code": "C08",
           "title": "Debounce và Search Flow",
           "path": "data/lessons/c/c08.json",
-          "estimatedMinutes": 120,
-          "status": "planned"
+          "estimatedMinutes": 330,
+          "status": "published"
         },
         {
           "id": "c09",
