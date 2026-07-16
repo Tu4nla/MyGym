@@ -3,28 +3,162 @@
     "lessonId": "b01",
     "code": "B01",
     "title": "Process, Thread, Concurrency, Parallelism, Blocking và Non-blocking",
-    "keywords": ["process","thread","concurrency","parallelism","blocking","non-blocking","coroutine","dispatcher","race condition","mutex","semaphore","upzi search","socket.io","sse"],
-    "headings": ["Process, Thread, Stack và Heap","Main Thread, Frame và ANR","Coroutine có phải Thread không?","Khi nào cần Concurrency?","Upzi Home tải nhiều section","Search và stale result","Chat và SSE"]
+    "keywords": [
+      "process",
+      "thread",
+      "concurrency",
+      "parallelism",
+      "blocking",
+      "non-blocking",
+      "coroutine",
+      "dispatcher",
+      "race condition",
+      "mutex",
+      "semaphore",
+      "upzi search",
+      "socket.io",
+      "sse"
+    ],
+    "headings": [
+      "Process, Thread, Stack và Heap",
+      "Main Thread, Frame và ANR",
+      "Coroutine có phải Thread không?",
+      "Khi nào cần Concurrency?",
+      "Upzi Home tải nhiều section",
+      "Search và stale result",
+      "Chat và SSE"
+    ]
   },
   {
     "lessonId": "b02",
     "code": "B02",
     "title": "Coroutine căn bản",
-    "keywords": ["coroutine","suspend","continuation","launch","async","withContext","CoroutineScope","CoroutineContext","Job","dispatcher","cancellation","GlobalScope","WorkManager","Upzi search"],
-    "headings": ["Kiến thức nền và thuật ngữ","Cơ chế hoạt động bên trong","Coroutine builder căn bản","Thiết kế suspend function","Yêu cầu sản phẩm cụ thể và phân tích","Case study Upzi","Edge cases và sai lầm thường gặp","Câu hỏi phỏng vấn và câu xoáy"]
+    "keywords": [
+      "coroutine",
+      "suspend",
+      "continuation",
+      "launch",
+      "async",
+      "withContext",
+      "CoroutineScope",
+      "CoroutineContext",
+      "Job",
+      "dispatcher",
+      "cancellation",
+      "GlobalScope",
+      "WorkManager",
+      "Upzi search"
+    ],
+    "headings": [
+      "Kiến thức nền và thuật ngữ",
+      "Cơ chế hoạt động bên trong",
+      "Coroutine builder căn bản",
+      "Thiết kế suspend function",
+      "Yêu cầu sản phẩm cụ thể và phân tích",
+      "Case study Upzi",
+      "Edge cases và sai lầm thường gặp",
+      "Câu hỏi phỏng vấn và câu xoáy"
+    ]
   },
   {
     "lessonId": "b03",
     "code": "B03",
     "title": "CoroutineScope và Structured Concurrency",
-    "keywords": ["CoroutineScope","structured concurrency","Job hierarchy","parent job","child job","SupervisorJob","coroutineScope","supervisorScope","cancellation propagation","failure propagation","viewModelScope","lifecycleScope","application scope","session scope","WorkManager","Upzi session"],
-    "headings": ["Kiến thức nền và thuật ngữ","Cơ chế Job hierarchy và structured concurrency","Chọn scope theo lifetime owner","Thiết kế suspend API có cấu trúc","Yêu cầu sản phẩm cụ thể và phân tích kỹ thuật","Case study Upzi và tính trung thực kinh nghiệm","Edge cases và sai lầm thường gặp","Câu hỏi phỏng vấn, câu xoáy và mẫu trả lời"]
+    "keywords": [
+      "CoroutineScope",
+      "structured concurrency",
+      "Job hierarchy",
+      "parent job",
+      "child job",
+      "SupervisorJob",
+      "coroutineScope",
+      "supervisorScope",
+      "cancellation propagation",
+      "failure propagation",
+      "viewModelScope",
+      "lifecycleScope",
+      "application scope",
+      "session scope",
+      "WorkManager",
+      "Upzi session"
+    ],
+    "headings": [
+      "Kiến thức nền và thuật ngữ",
+      "Cơ chế Job hierarchy và structured concurrency",
+      "Chọn scope theo lifetime owner",
+      "Thiết kế suspend API có cấu trúc",
+      "Yêu cầu sản phẩm cụ thể và phân tích kỹ thuật",
+      "Case study Upzi và tính trung thực kinh nghiệm",
+      "Edge cases và sai lầm thường gặp",
+      "Câu hỏi phỏng vấn, câu xoáy và mẫu trả lời"
+    ]
   },
   {
     "lessonId": "b04",
     "code": "B04",
     "title": "launch, async và withContext",
-    "keywords": ["launch","async","withContext","Job","Deferred","await","join","CoroutineStart.LAZY","fan-out","fan-in","context switch","structured concurrency","supervisorScope","cancellation","Upzi Job Detail"],
-    "headings": ["launch: khởi tạo công việc không trả giá trị","async: concurrent work có kết quả","withContext: chuyển context và trả kết quả trực tiếp","Cơ chế bên trong và timeline","Cách chọn đúng và dấu hiệu cần dùng","Yêu cầu sản phẩm cụ thể","Ví dụ thực tế Upzi","Phương án thay thế và trade-off","Edge cases và sai lầm thường gặp","Câu hỏi phỏng vấn và câu hỏi bẫy"]
+    "keywords": [
+      "launch",
+      "async",
+      "withContext",
+      "Job",
+      "Deferred",
+      "await",
+      "join",
+      "CoroutineStart.LAZY",
+      "fan-out",
+      "fan-in",
+      "context switch",
+      "structured concurrency",
+      "supervisorScope",
+      "cancellation",
+      "Upzi Job Detail"
+    ],
+    "headings": [
+      "launch: khởi tạo công việc không trả giá trị",
+      "async: concurrent work có kết quả",
+      "withContext: chuyển context và trả kết quả trực tiếp",
+      "Cơ chế bên trong và timeline",
+      "Cách chọn đúng và dấu hiệu cần dùng",
+      "Yêu cầu sản phẩm cụ thể",
+      "Ví dụ thực tế Upzi",
+      "Phương án thay thế và trade-off",
+      "Edge cases và sai lầm thường gặp",
+      "Câu hỏi phỏng vấn và câu hỏi bẫy"
+    ]
+  },
+  {
+    "lessonId": "b05",
+    "code": "B05",
+    "title": "Dispatcher và Thread Pool",
+    "keywords": [
+      "CoroutineDispatcher",
+      "thread pool",
+      "Dispatchers.Main",
+      "Dispatchers.IO",
+      "Dispatchers.Default",
+      "Dispatchers.Unconfined",
+      "limitedParallelism",
+      "I/O-bound",
+      "CPU-bound",
+      "blocking",
+      "suspending",
+      "context switch",
+      "starvation",
+      "dispatcher injection",
+      "Upzi"
+    ],
+    "headings": [
+      "Dispatcher là gì",
+      "Thread pool, queue và worker",
+      "Main, IO, Default và Unconfined",
+      "I/O-bound và CPU-bound",
+      "Context switching và starvation",
+      "limitedParallelism",
+      "Dispatcher injection",
+      "Yêu cầu sản phẩm Upzi",
+      "Trade-off và edge cases",
+      "Câu hỏi phỏng vấn"
+    ]
   }
 ]
