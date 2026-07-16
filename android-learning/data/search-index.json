@@ -434,5 +434,37 @@
       "One-time effect",
       "shareIn"
     ]
+  },
+  {
+    "lessonId": "c05",
+    "code": "C05",
+    "title": "Channel",
+    "keywords": [
+      "Channel",
+      "SendChannel",
+      "ReceiveChannel",
+      "rendezvous",
+      "buffered channel",
+      "backpressure",
+      "close",
+      "cancel",
+      "fan-in",
+      "fan-out",
+      "actor",
+      "work queue",
+      "onUndeliveredElement",
+      "trySend",
+      "durable queue"
+    ],
+    "headings": [
+      "Send và receive",
+      "Capacity và backpressure",
+      "Close và cancel",
+      "Undelivered element",
+      "Fan-in và fan-out",
+      "Actor ownership",
+      "Channel và Flow",
+      "Durability và idempotency"
+    ]
   }
 ]

@@ -152,8 +152,8 @@
           "code": "C05",
           "title": "Channel",
           "path": "data/lessons/c/c05.json",
-          "estimatedMinutes": 120,
-          "status": "planned"
+          "estimatedMinutes": 300,
+          "status": "published"
         },
         {
           "id": "c06",
