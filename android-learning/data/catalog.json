@@ -73,8 +73,8 @@
           "code": "B06",
           "title": "Job và Cancellation",
           "path": "data/lessons/b/b06.json",
-          "estimatedMinutes": 120,
-          "status": "planned"
+          "estimatedMinutes": 180,
+          "status": "published"
         },
         {
           "id": "b07",
