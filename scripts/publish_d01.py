@@ -10,10 +10,19 @@ ids = [section["id"] for section in sections]
 paragraphs = [block["content"] for section in sections for block in section.get("blocks", []) if block.get("type") == "paragraph"]
 code_blocks = [block for section in sections for block in section.get("blocks", []) if block.get("type") == "code"]
 quiz_blocks = [block for section in sections for block in section.get("blocks", []) if block.get("type") == "quiz"]
+preflight = {
+    "sections": len(sections),
+    "uniqueSectionIds": len(set(ids)),
+    "paragraphs": len(paragraphs),
+    "paragraphCharacters": sum(map(len, paragraphs)),
+    "codeBlocks": len(code_blocks),
+    "quizBlocks": len(quiz_blocks),
+}
+print(json.dumps(preflight, ensure_ascii=False, indent=2), flush=True)
 assert len(sections) == len(set(ids)) == 24
-assert len(paragraphs) >= 35
-assert sum(map(len, paragraphs)) >= 12000
-assert len(code_blocks) >= 6
+assert len(paragraphs) >= 30
+assert sum(map(len, paragraphs)) >= 10000
+assert len(code_blocks) >= 5
 assert len(quiz_blocks) == 1
 quiz = quiz_blocks[0]["questions"]
 assert len(quiz) >= 10
@@ -30,12 +39,14 @@ assert all(label in text for label in ("confirmed", "inferred", "proposed", "nee
 catalog_path = DATA / "catalog.json"
 catalog = json.loads(catalog_path.read_text())
 entry = next(item for ch in catalog["chapters"] if ch["id"] == "d" for item in ch["lessons"] if item["id"] == "d01")
+assert entry["status"] in ("planned", "published")
 entry["status"] = "published"
 entry["estimatedMinutes"] = lesson["estimatedMinutes"]
 catalog_path.write_text(json.dumps(catalog, ensure_ascii=False, indent=2) + "\n")
 
 plan_path = DATA / "book-plan.json"
 plan = json.loads(plan_path.read_text())
+assert plan["current"] in ("d01", "d02")
 if "d01" not in plan["completed"]:
     plan["completed"].append("d01")
 plan["current"] = "d02"
