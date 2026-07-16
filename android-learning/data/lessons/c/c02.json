@@ -41,7 +41,7 @@
       "id": "per-collector",
       "title": "5. Mỗi collector tạo một execution riêng",
       "blocks": [
-        {"type":"code","language":"kotlin","label":"Hai collector, hai producer execution","content":"val jobs = flow {\n    println("request")\n    emit(api.searchJobs())\n}\n\nlaunch { jobs.collect() }\nlaunch { jobs.collect() }\n// request có thể được in hai lần"},
+        {"type":"code","language":"kotlin","label":"Hai collector, hai producer execution","content":"val jobs = flow {\n    println(\"request\")\n    emit(api.searchJobs())\n}\n\nlaunch { jobs.collect() }\nlaunch { jobs.collect() }\n// request có thể được in hai lần"},
         {"type":"paragraph","content":"Hai collector không tự chia sẻ result. Mỗi collection chạy block flow riêng, có local variable riêng và có thể tạo side effect riêng. Đây là semantics quan trọng nhất khi repository trả cold Flow gọi network: UI collect ở hai nơi có thể tạo hai request."},
         {"type":"paragraph","content":"Per-collector isolation đôi khi là điều mong muốn. Ví dụ Flow đọc file và parse theo request riêng, hoặc query phụ thuộc parameter của caller. Nhưng nếu upstream đắt và nhiều consumer cần cùng latest state, hãy share có chủ đích ở owner scope thay vì hy vọng cold Flow tự cache."}
       ]

@@ -60,7 +60,7 @@
       "title": "7. emit và tryEmit",
       "blocks": [
         {"type":"paragraph","content":"emit là suspend và tôn trọng backpressure; nếu buffer đầy với SUSPEND, producer chờ. tryEmit không suspend, trả true nếu item được chấp nhận theo cấu hình. true không đồng nghĩa mọi subscriber chắc chắn đã xử lý item; nó chỉ nói emission được chấp nhận vào SharedFlow semantics."},
-        {"type":"code","language":"kotlin","label":"Phát event có kiểm tra","content":"if (!_effects.tryEmit(UiEffect.ShowSnackbar(message))) {\n    logger.warn("effect buffer full")\n}"},
+        {"type":"code","language":"kotlin","label":"Phát event có kiểm tra","content":"if (!_effects.tryEmit(UiEffect.ShowSnackbar(message))) {\n    logger.warn(\"effect buffer full\")\n}"},
         {"type":"paragraph","content":"Bỏ qua Boolean của tryEmit có thể làm event mất âm thầm. Với producer ở suspend context và event bắt buộc, emit thường rõ hơn. Với callback không được suspend, tryEmit cần metric/fallback và buffer policy được thiết kế trước."}
       ]
     },

@@ -1,17 +1,17 @@
 {
   "c02": {
-    "parseError": "JSONDecodeError: Expecting ',' delimiter: line 44 column 135 (char 4712)"
+    "parseError": "JSONDecodeError: Expecting ',' delimiter: line 83 column 173 (char 9563)"
   },
   "c03": {
     "sections": 24,
     "uniqueSectionIds": 24,
     "paragraphs": 30,
-    "paragraphCharacters": 6815,
+    "paragraphCharacters": 8438,
     "codeBlocks": 8,
     "quizQuestions": 12,
     "quizAnswersValid": true
   },
   "c04": {
-    "parseError": "JSONDecodeError: Expecting ',' delimiter: line 63 column 163 (char 6596)"
+    "parseError": "JSONDecodeError: Expecting ',' delimiter: line 89 column 315 (char 9482)"
   }
 }
