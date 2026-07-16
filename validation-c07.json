@@ -1,3 +1,11 @@
 {
-  "status": "pending"
+  "id": "c07",
+  "sections": 24,
+  "uniqueSectionIds": 24,
+  "paragraphs": 44,
+  "paragraphCharacters": 12605,
+  "codeBlocks": 13,
+  "quizQuestions": 12,
+  "quizAnswersValid": true,
+  "truthfulnessLabelsPresent": true
 }

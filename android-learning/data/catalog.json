@@ -168,8 +168,8 @@
           "code": "C07",
           "title": "Flow Operators nâng cao",
           "path": "data/lessons/c/c07.json",
-          "estimatedMinutes": 150,
-          "status": "planned"
+          "estimatedMinutes": 330,
+          "status": "published"
         },
         {
           "id": "c08",
