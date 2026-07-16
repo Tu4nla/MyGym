@@ -89,8 +89,8 @@
           "code": "B08",
           "title": "coroutineScope và supervisorScope",
           "path": "data/lessons/b/b08.json",
-          "estimatedMinutes": 120,
-          "status": "planned"
+          "estimatedMinutes": 210,
+          "status": "published"
         },
         {
           "id": "b09",
