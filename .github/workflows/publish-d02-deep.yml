@@ -37,6 +37,7 @@ jobs:
           python scripts/publish_d02_deep.py
       - name: Commit generated publication files
         run: |
+          git restore scripts/publish_d02_deep.py
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add android-learning/data/lessons/d/d02.json android-learning/data/catalog.json android-learning/data/book-plan.json android-learning/data/search-index.json validation-d02.json
