@@ -128,24 +128,24 @@
           "code": "C02",
           "title": "Cold Flow",
           "path": "data/lessons/c/c02.json",
-          "estimatedMinutes": 120,
-          "status": "planned"
+          "estimatedMinutes": 300,
+          "status": "published"
         },
         {
           "id": "c03",
           "code": "C03",
           "title": "StateFlow",
           "path": "data/lessons/c/c03.json",
-          "estimatedMinutes": 120,
-          "status": "planned"
+          "estimatedMinutes": 300,
+          "status": "published"
         },
         {
           "id": "c04",
           "code": "C04",
           "title": "SharedFlow",
           "path": "data/lessons/c/c04.json",
-          "estimatedMinutes": 120,
-          "status": "planned"
+          "estimatedMinutes": 300,
+          "status": "published"
         },
         {
           "id": "c05",

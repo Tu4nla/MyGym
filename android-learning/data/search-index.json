@@ -353,5 +353,86 @@
       "Trade-off và edge cases",
       "Câu hỏi phỏng vấn"
     ]
+  },
+  {
+    "lessonId": "c02",
+    "code": "C02",
+    "title": "Cold Flow",
+    "keywords": [
+      "cold Flow",
+      "lazy execution",
+      "per collector",
+      "flowOn",
+      "context preservation",
+      "exception transparency",
+      "retryWhen",
+      "stateIn",
+      "multiple collectors",
+      "cache network"
+    ],
+    "headings": [
+      "Lazy execution",
+      "Mỗi collector tạo execution riêng",
+      "Emit và collect tuần tự",
+      "Context preservation và flowOn",
+      "Exception transparency",
+      "Cancellation propagation",
+      "Repository observation và command",
+      "Retry và side effect"
+    ]
+  },
+  {
+    "lessonId": "c03",
+    "code": "C03",
+    "title": "StateFlow",
+    "keywords": [
+      "StateFlow",
+      "MutableStateFlow",
+      "stateIn",
+      "update",
+      "compareAndSet",
+      "conflation",
+      "immutable UI state",
+      "single owner",
+      "collectAsStateWithLifecycle",
+      "process death"
+    ],
+    "headings": [
+      "Hot state holder",
+      "Equality-based conflation",
+      "Immutable state",
+      "Atomic update",
+      "UI state machine",
+      "State và event",
+      "stateIn",
+      "Compose collection"
+    ]
+  },
+  {
+    "lessonId": "c04",
+    "code": "C04",
+    "title": "SharedFlow",
+    "keywords": [
+      "SharedFlow",
+      "MutableSharedFlow",
+      "replay",
+      "extraBufferCapacity",
+      "BufferOverflow",
+      "tryEmit",
+      "shareIn",
+      "broadcast",
+      "UI effect",
+      "socket events"
+    ],
+    "headings": [
+      "Hot broadcast stream",
+      "Replay",
+      "Buffer và backpressure",
+      "emit và tryEmit",
+      "Subscriber absence",
+      "SharedFlow và StateFlow",
+      "One-time effect",
+      "shareIn"
+    ]
   }
 ]
