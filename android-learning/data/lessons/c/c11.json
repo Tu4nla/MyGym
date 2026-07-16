@@ -1,0 +1,975 @@
+{
+  "id": "c11",
+  "code": "C11",
+  "title": "Flow Testing",
+  "summary": "Kiểm thử Kotlin Flow theo product contract: virtual time, scheduler, cold/hot stream, StateFlow, SharedFlow, cancellation, retry, lifecycle, callback cleanup, Paging và race condition bằng controlled fake.",
+  "estimatedMinutes": 360,
+  "sections": [
+    {
+      "id": "objectives",
+      "title": "1. Mục tiêu bài học",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "Flow Testing không phải là gọi collect rồi so sánh vài giá trị. Một bài test đáng tin cậy phải kiểm soát scheduler, virtual time, lifecycle của collector, thời điểm subscription, cancellation, backpressure, retry và các nguồn hot/cold khác nhau. Mục tiêu của chương này là giúp bạn thiết kế test có khả năng phát hiện race condition và regression thật, thay vì chỉ xác nhận happy path trên máy local."
+        },
+        {
+          "type": "list",
+          "items": [
+            "Phân biệt cách test cold Flow, StateFlow, SharedFlow và Channel-derived Flow.",
+            "Dùng runTest, TestCoroutineScheduler, StandardTestDispatcher và UnconfinedTestDispatcher đúng vai trò.",
+            "Kiểm soát virtual time cho debounce, timeout, retry và SharingStarted.WhileSubscribed.",
+            "Test cancellation, stale result, retry boundary, collector restart và resource cleanup.",
+            "Thiết kế fake có kiểm soát thay vì mock trả giá trị tức thì.",
+            "Đánh giá Turbine, collect thủ công và state-based assertion theo product contract."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "prerequisites",
+      "title": "2. Kiến thức nền",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "Bạn cần nắm Coroutine Testing ở B10, đặc biệt là runTest, TestDispatcher, virtual time và structured concurrency. Đồng thời cần hiểu cold Flow, StateFlow, SharedFlow, Channel, operator nâng cao, lifecycle collection và UI state/event semantics từ C02 đến C10. Flow Testing là điểm giao của tất cả các chủ đề đó: một sai sót về scheduler có thể khiến test treo, một sai sót về lifecycle có thể bỏ sót event, và một fake quá đơn giản có thể che hoàn toàn race condition."
+        },
+        {
+          "type": "list",
+          "items": [
+            "B10: runTest, advanceTimeBy, advanceUntilIdle và test scheduler.",
+            "C02-C04: cold/hot semantics, replay, conflation và subscription timing.",
+            "C06-C08: operator chain, debounce, flatMapLatest, retryWhen và search flow.",
+            "C09: repeatOnLifecycle, stateIn/shareIn và SharingStarted.",
+            "C10: state, event, effect, acknowledgement và durability."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "terminology",
+      "title": "3. Định nghĩa và chú giải thuật ngữ",
+      "blocks": [
+        {
+          "type": "table",
+          "headers": [
+            "Thuật ngữ",
+            "Giải thích"
+          ],
+          "rows": [
+            [
+              "TestCoroutineScheduler",
+              "Bộ lập lịch ảo điều phối các TestDispatcher dùng chung trong test."
+            ],
+            [
+              "Virtual time",
+              "Thời gian logic được tăng bằng advanceTimeBy hoặc advanceUntilIdle, không phải chờ đồng hồ thật."
+            ],
+            [
+              "StandardTestDispatcher",
+              "Dispatcher không tự chạy task ngay; test phải nhường hoặc advance scheduler."
+            ],
+            [
+              "UnconfinedTestDispatcher",
+              "Bắt đầu coroutine gần như ngay lập tức trên thread test nhưng vẫn dùng scheduler; hữu ích cho collector sẵn sàng nhận emission."
+            ],
+            [
+              "Turbine",
+              "Thư viện hỗ trợ awaitItem, awaitComplete, awaitError và kiểm tra item chưa tiêu thụ."
+            ],
+            [
+              "Controlled fake",
+              "Fake cho phép test điều khiển thời điểm phát dữ liệu, lỗi và completion."
+            ],
+            [
+              "Subscription race",
+              "Producer emit trước khi collector thực sự subscribe, gây mất event với replay bằng 0."
+            ],
+            [
+              "Conflation",
+              "Intermediate state bị bỏ qua vì StateFlow chỉ giữ latest value."
+            ],
+            [
+              "Cancellation probe",
+              "Hook hoặc fake dùng để xác nhận upstream bị cancel và cleanup đã chạy."
+            ],
+            [
+              "Leak detection",
+              "Xác nhận không còn child coroutine hoặc listener chưa đóng sau test."
+            ],
+            [
+              "State-based assertion",
+              "Kiểm tra state cuối hoặc chuỗi state có ý nghĩa thay vì bám implementation detail."
+            ],
+            [
+              "Temporal assertion",
+              "Kiểm tra điều kiện về thời điểm, thứ tự, khoảng delay hoặc cancellation."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "internal-mechanism",
+      "title": "4. Cơ chế hoạt động bên trong",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "runTest tạo một TestScope gắn với TestCoroutineScheduler. Các dispatcher dùng cùng scheduler sẽ đưa task vào một hàng đợi có timestamp ảo. Khi code gọi delay, task không block thread thật mà được xếp lại ở thời điểm tương lai. Test chỉ tiến thời gian khi gọi runCurrent, advanceTimeBy hoặc advanceUntilIdle. Vì vậy một test có thể mô phỏng debounce 500 ms, retry ba lần và timeout 30 giây trong vài mili giây thực."
+        },
+        {
+          "type": "paragraph",
+          "content": "Điểm quan trọng là tất cả coroutine liên quan phải dùng dispatcher được inject từ cùng scheduler. Nếu repository hoặc ViewModel tự hard-code Dispatchers.IO, một phần code chạy ngoài scheduler ảo, test trở nên nondeterministic hoặc phải chờ thật. Dependency injection của dispatcher không chỉ để tối ưu production; nó là điều kiện để test kiểm soát concurrency."
+        },
+        {
+          "type": "paragraph",
+          "content": "StandardTestDispatcher xếp coroutine mới vào queue và không chạy ngay. Điều này giúp mô phỏng thực tế nhưng tạo subscription race nếu test emit vào SharedFlow trước khi collector có cơ hội start. UnconfinedTestDispatcher thường được dùng cho collector trong test để subscription khởi động ngay, nhưng không nên dùng như thuốc chữa mọi race condition. Test phải hiểu đúng contract: collector cần active trước emission hay replay phải giữ event."
+        },
+        {
+          "type": "code",
+          "language": "kotlin",
+          "label": "Một scheduler cho toàn bộ test",
+          "content": "@Test\nfun `debounce emits latest query`() = runTest {\n    val dispatcher = StandardTestDispatcher(testScheduler)\n    val repository = FakeSearchRepository()\n    val viewModel = SearchViewModel(repository, dispatcher)\n\n    viewModel.onQueryChanged(\"ko\")\n    viewModel.onQueryChanged(\"kotlin\")\n\n    advanceTimeBy(299)\n    assertTrue(repository.requests.isEmpty())\n\n    advanceTimeBy(1)\n    runCurrent()\n\n    assertEquals(listOf(\"kotlin\"), repository.requests)\n}"
+        },
+        {
+          "type": "paragraph",
+          "content": "advanceTimeBy chỉ tăng clock và chạy task có thời điểm nhỏ hơn mốc mới trong một số trường hợp; runCurrent giúp chạy các task sẵn sàng tại đúng thời điểm hiện tại. advanceUntilIdle tiếp tục chạy cho đến khi queue hết, nhưng có thể che bug nếu production có stream vô hạn hoặc retry vô hạn. Chọn primitive theo điều bạn muốn chứng minh, không dùng advanceUntilIdle theo thói quen."
+        }
+      ]
+    },
+    {
+      "id": "purpose",
+      "title": "5. Mục đích của kỹ thuật",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "Mục đích của Flow Testing là chứng minh contract quan sát được: giá trị nào được phát, theo thứ tự nào, khi nào không được phát, lỗi đi đâu, cancellation có dừng work cũ không, và lifecycle restart có tạo duplicate effect không. Test tốt không kiểm tra rằng một operator cụ thể được gọi; nó kiểm tra behavior mà sản phẩm cần."
+        },
+        {
+          "type": "paragraph",
+          "content": "Flow pipeline thường chứa thời gian, concurrency và hot stream nên có nhiều bug không xuất hiện trong unit test đồng bộ. Ví dụ search cũ trả về sau search mới, event bị emit trước subscription, StateFlow conflation làm mất intermediate state, retry tiếp tục sau khi user rời màn hình hoặc callbackFlow không unregister listener. Flow Testing tạo môi trường xác định để tái hiện những race condition đó."
+        }
+      ]
+    },
+    {
+      "id": "problems-solved",
+      "title": "6. Vấn đề kỹ thuật được giải quyết",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "Không có virtual time, test debounce hoặc retry phải sleep thật, vừa chậm vừa flaky. Không có controlled fake, network response thường trả ngay nên không thể tạo out-of-order completion. Không test lifecycle, code có thể pass unit test nhưng duplicate collector khi Fragment recreate. Không test hot stream subscription, event có thể mất trong production dù test luôn nhận được vì collector được start sẵn."
+        },
+        {
+          "type": "list",
+          "items": [
+            "Loại bỏ Thread.sleep và phụ thuộc tốc độ máy CI.",
+            "Tái hiện stale result, overlapping request và cancellation race.",
+            "Phát hiện SharedFlow event bị mất hoặc replay sai.",
+            "Kiểm tra StateFlow chỉ giữ latest value và initial state đúng.",
+            "Chứng minh callbackFlow cleanup listener khi collector cancel.",
+            "Kiểm tra retry/backoff không vượt giới hạn và không retry lỗi không phù hợp."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "signs-to-use",
+      "title": "7. Dấu hiệu cần dùng",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "Cần viết Flow test khi behavior phụ thuộc thời gian, nhiều emission, nhiều source, lifecycle hoặc cancellation. Một function trả Flow chỉ emit một item vẫn có thể test như suspend function, nhưng pipeline search, socket, Room observation, UI state reducer và one-time effect bắt buộc cần test behavior theo thời gian."
+        },
+        {
+          "type": "list",
+          "items": [
+            "Có debounce, sample, timeout, retryWhen hoặc delay.",
+            "Có flatMapLatest, merge, combine hoặc nhiều request song song.",
+            "Có StateFlow/SharedFlow với replay, buffer hoặc overflow policy.",
+            "Có stateIn/shareIn và SharingStarted.WhileSubscribed.",
+            "Có callbackFlow, listener registration hoặc awaitClose.",
+            "Có UI state machine và effect cần tránh duplicate sau recreate."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "when-not-to-use",
+      "title": "8. Khi không nên dùng",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "Không cần biến mọi test thành Turbine hoặc mô phỏng scheduler phức tạp. Nếu logic là pure reducer từ state và action sang state mới, test function đồng bộ trực tiếp sẽ rõ hơn. Nếu repository expose suspend function one-shot, test suspend result thay vì bọc thành flow chỉ để dùng awaitItem. Flow Testing không thay thế integration test của Room, Retrofit adapter hoặc lifecycle thật trên Android."
+        },
+        {
+          "type": "paragraph",
+          "content": "Không nên assert toàn bộ chuỗi emission nếu product contract chỉ quan tâm state cuối, vì test sẽ giòn trước thay đổi implementation vô hại. Ngược lại, đừng chỉ assert state cuối khi thứ tự Loading → Content → Error là requirement. Mức assertion phải bám contract, không bám sở thích thư viện test."
+        }
+      ]
+    },
+    {
+      "id": "product-requirements",
+      "title": "9. Yêu cầu sản phẩm cụ thể",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "Trước khi viết test, hãy biến yêu cầu mơ hồ thành delivery contract. Với search: query ngắn hơn hai ký tự không gọi API; debounce 300 ms; query mới cancel request cũ; lỗi query cũ không ghi đè query mới; retry chỉ khi user bấm lại. Với chat: message optimistic xuất hiện ngay; ack timeout chuyển trạng thái failed; ack đến muộn không tạo duplicate; collector recreate không hiển thị lại snackbar đã xử lý."
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Requirement",
+            "Assertion cần có"
+          ],
+          "rows": [
+            [
+              "Debounce 300 ms",
+              "Không request trước 300 ms; đúng một request latest sau mốc."
+            ],
+            [
+              "Latest query thắng",
+              "Request cũ bị cancel hoặc result cũ bị ignore bằng generation key."
+            ],
+            [
+              "Loading không flicker",
+              "Không phát Loading lặp cho cùng canonical key nếu cache còn hợp lệ."
+            ],
+            [
+              "One-time event",
+              "Không replay sau collector restart trừ khi contract yêu cầu acknowledgement."
+            ],
+            [
+              "WhileSubscribed",
+              "Upstream start ở subscriber đầu, stop sau timeout khi subscriber cuối rời."
+            ],
+            [
+              "Callback cleanup",
+              "Listener được unregister đúng một lần khi collection cancel."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dependency-error-lifecycle",
+      "title": "10. Dependency, error policy, lifecycle và resource limits",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "Dispatcher phải được inject và tất cả TestDispatcher nên dùng chung testScheduler. Clock, UUID generator, retry policy và data source cũng nên inject khi behavior phụ thuộc thời gian hoặc identity. Một fake tốt thường có CompletableDeferred hoặc Channel để test quyết định khi nào request hoàn thành, thay vì trả kết quả cứng ngay."
+        },
+        {
+          "type": "paragraph",
+          "content": "Error policy phải được test ở đúng boundary. catch chỉ bắt lỗi upstream trước nó; CancellationException không được biến thành domain error; retryWhen phải giới hạn attempt và chỉ retry lỗi transient. Test nên xác nhận cả số lần gọi, khoảng backoff ảo và trạng thái cuối."
+        },
+        {
+          "type": "paragraph",
+          "content": "Lifecycle cần test ở hai cấp. Unit test ViewModel kiểm tra collector scope, SharingStarted và restart semantics bằng subscription count. Instrumented test kiểm tra repeatOnLifecycle hoặc collectAsStateWithLifecycle trong lifecycle thật. Không nên giả rằng unit test TestScope chứng minh Fragment không leak viewLifecycleOwner."
+        },
+        {
+          "type": "paragraph",
+          "content": "Resource limit gồm số coroutine đang chạy, số request đồng thời, buffer capacity và listener count. Test có thể expose activeCalls trong fake để assert flatMapLatest chỉ còn một request, hoặc expose listenerCount để assert callbackFlow cleanup. Sau test, runTest cũng kiểm tra child coroutine chưa hoàn tất; backgroundScope nên dùng cho collector sống suốt test và tự cancel khi test kết thúc."
+        },
+        {
+          "type": "code",
+          "language": "kotlin",
+          "label": "Controlled fake với CompletableDeferred",
+          "content": "class ControlledRepository : SearchRepository {\n    data class Pending(\n        val query: String,\n        val result: CompletableDeferred<List<Job>>\n    )\n\n    val pending = mutableListOf<Pending>()\n\n    override suspend fun search(query: String): List<Job> {\n        val request = Pending(query, CompletableDeferred())\n        pending += request\n        return request.result.await()\n    }\n}"
+        },
+        {
+          "type": "code",
+          "language": "kotlin",
+          "label": "Retry policy có cancellation",
+          "content": "\nfun <T> Flow<T>.retryTransient(maxAttempts: Long): Flow<T> =\n    retryWhen { cause, attempt ->\n        if (cause is CancellationException) throw cause\n        cause is IOException && attempt < maxAttempts\n    }\n"
+        }
+      ]
+    },
+    {
+      "id": "minimal-code",
+      "title": "11. Ví dụ code tối giản",
+      "blocks": [
+        {
+          "type": "code",
+          "language": "kotlin",
+          "label": "Test cold Flow bằng Turbine",
+          "content": "@Test\nfun `repository emits cache then network`() = runTest {\n    repository.observeUser().test {\n        assertEquals(User.cached(), awaitItem())\n\n        api.complete(User.remote())\n        assertEquals(User.remote(), awaitItem())\n\n        cancelAndIgnoreRemainingEvents()\n    }\n}"
+        },
+        {
+          "type": "paragraph",
+          "content": "Turbine tạo collector và cung cấp awaitItem có timeout, giúp lỗi rõ hơn collect thủ công. Tuy nhiên test vẫn phải điều khiển producer bằng fake. Nếu fake emit tất cả dữ liệu trước khi test block subscribe, bạn đang test replay chứ không test flow runtime."
+        },
+        {
+          "type": "code",
+          "language": "kotlin",
+          "label": "Test StateFlow bằng collector nền",
+          "content": "@Test\nfun `state changes from idle to content`() = runTest {\n    val states = mutableListOf<SearchUiState>()\n    val job = backgroundScope.launch(UnconfinedTestDispatcher(testScheduler)) {\n        viewModel.uiState.toList(states)\n    }\n\n    viewModel.search(\"kotlin\")\n    repository.complete(Result.success(listOf(Job(\"Android\"))))\n    advanceUntilIdle()\n\n    assertEquals(SearchUiState.Idle, states.first())\n    assertTrue(states.last() is SearchUiState.Content)\n\n    job.cancel()\n}"
+        },
+        {
+          "type": "paragraph",
+          "content": "StateFlow conflates update nhanh, nên không phải mọi intermediate state đều chắc chắn được collector chậm nhìn thấy. Nếu Loading là requirement cần quan sát, hãy đảm bảo collector đã active và scheduler cho phép nó chạy giữa các update. Nếu chỉ cần state cuối, assert uiState.value thường rõ và ít giòn hơn."
+        },
+        {
+          "type": "code",
+          "language": "kotlin",
+          "label": "Test error bằng Turbine",
+          "content": "\n@Test\nfun flow_exposes_mapping_error() = runTest {\n    repository.observeBrokenPayload().test {\n        val error = awaitError()\n        assertIs<DomainMappingException>(error)\n    }\n}\n"
+        }
+      ]
+    },
+    {
+      "id": "upzi-example",
+      "title": "12. Ví dụ thực tế Upzi hoặc dự án liên quan",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "`confirmed`: kiến trúc Upzi đã dùng Coroutine/Flow, StateFlow, Paging và chat realtime. Vì vậy các bài test cần ưu tiên search pipeline, paging refresh state, optimistic message, ack timeout và lifecycle của collector."
+        },
+        {
+          "type": "paragraph",
+          "content": "`inferred`: search và filter nhiều khả năng dùng latest semantics; chat có optimistic clientId và ack timeout khoảng 10 giây. Chi tiết operator và test hiện có chưa được xác nhận, nên không được nói rằng các test dưới đây đã tồn tại trong codebase."
+        },
+        {
+          "type": "paragraph",
+          "content": "`proposed`: tạo FakeChatGateway cho phép sendMessage trả CompletableDeferred theo clientId. Test phát hai message, hoàn thành ack theo thứ tự ngược, advance virtual time qua timeout và xác nhận reducer map ack đúng message, không dựa vào vị trí list."
+        },
+        {
+          "type": "code",
+          "language": "kotlin",
+          "label": "Proposed ack timeout test",
+          "content": "@Test\nfun `late ack does not duplicate timed out message`() = runTest {\n    val gateway = ControlledChatGateway()\n    val vm = ChatViewModel(gateway, dispatcher = StandardTestDispatcher(testScheduler))\n\n    vm.send(\"hello\")\n    val clientId = vm.uiState.value.messages.single().clientId\n\n    advanceTimeBy(10_000)\n    runCurrent()\n    assertEquals(SendStatus.Failed, vm.message(clientId).status)\n\n    gateway.ack(clientId, serverId = \"s-1\")\n    advanceUntilIdle()\n\n    val matches = vm.uiState.value.messages.filter {\n        it.clientId == clientId || it.serverId == \"s-1\"\n    }\n    assertEquals(1, matches.size)\n}"
+        },
+        {
+          "type": "paragraph",
+          "content": "`needs-confirmation`: cần xác nhận chính xác ack timeout, retry policy, socket reconnection ownership, Paging RemoteMediator và nơi map clientId/serverId trước khi dùng case study như kinh nghiệm đã triển khai. Nếu chưa xác nhận, chỉ trình bày đây là thiết kế test đề xuất."
+        }
+      ]
+    },
+    {
+      "id": "alternatives",
+      "title": "13. Phương án thay thế",
+      "blocks": [
+        {
+          "type": "table",
+          "headers": [
+            "Phương án",
+            "Khi phù hợp",
+            "Giới hạn"
+          ],
+          "rows": [
+            [
+              "Turbine",
+              "Chuỗi emission, completion, error và timeout",
+              "Thêm dependency; dễ lạm dụng assert implementation detail."
+            ],
+            [
+              "Collect thủ công",
+              "Pipeline nhỏ, cần toàn quyền scheduler",
+              "Boilerplate và dễ quên cancel collector."
+            ],
+            [
+              "Assert StateFlow.value",
+              "Chỉ quan tâm snapshot cuối",
+              "Không kiểm tra transition, event hoặc timing."
+            ],
+            [
+              "Pure reducer test",
+              "Business rule state transition đồng bộ",
+              "Không kiểm tra Flow wiring/lifecycle."
+            ],
+            [
+              "Instrumented lifecycle test",
+              "repeatOnLifecycle, Compose và process recreation",
+              "Chậm hơn unit test, cần Android environment."
+            ],
+            [
+              "Integration test Room/Paging",
+              "Adapter, invalidation và transaction thật",
+              "Không thay thế unit test race condition có kiểm soát."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tradeoffs",
+      "title": "14. Lý do lựa chọn và trade-off",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "Turbine làm test đọc gần với contract stream nhưng có thể khiến đội ngũ assert từng emission không quan trọng. Controlled fake tạo test mạnh hơn mock đơn giản nhưng cần code bảo trì. StandardTestDispatcher sát scheduling thực hơn nhưng yêu cầu runCurrent/advance rõ ràng; UnconfinedTestDispatcher tiện cho subscription nhưng có thể che ordering bug."
+        },
+        {
+          "type": "paragraph",
+          "content": "Virtual time giúp test nhanh và deterministic, nhưng chỉ kiểm soát coroutine delay đi qua scheduler. Thư viện dùng timer riêng, callback thread riêng hoặc Dispatchers.IO hard-code vẫn nằm ngoài clock ảo. Vì vậy test architecture và dependency injection quan trọng hơn bản thân API test."
+        },
+        {
+          "type": "paragraph",
+          "content": "Test state cuối ít giòn nhưng có thể bỏ sót flicker hoặc duplicate effect. Test toàn bộ sequence phát hiện transition sai nhưng dễ vỡ khi thêm state trung gian hợp lệ. Hãy ghi rõ sequence nào là product contract và sequence nào chỉ là implementation."
+        }
+      ]
+    },
+    {
+      "id": "edge-cases",
+      "title": "15. Edge cases",
+      "blocks": [
+        {
+          "type": "list",
+          "items": [
+            "SharedFlow replay = 0 emit trước subscription nên event mất.",
+            "StateFlow phát hai object equals nhau nên collector không nhận emission thứ hai.",
+            "advanceUntilIdle không kết thúc vì upstream có retry vô hạn hoặc ticker.",
+            "callbackFlow quên awaitClose làm listener leak hoặc exception.",
+            "catch nuốt CancellationException và phát Error khi collector bị hủy.",
+            "flatMapLatest gọi SDK không cooperative cancellation nên stale result vẫn về.",
+            "WhileSubscribed stopTimeout chưa hết khi subscriber mới quay lại, upstream không restart.",
+            "Debounce dynamic timeout trả 0 cho query rỗng nhưng test giả định mọi input chờ như nhau.",
+            "Collector trong backgroundScope chưa cancel nhưng test vẫn cần kiểm tra item dư.",
+            "PagingData không thể so sánh trực tiếp; cần AsyncPagingDataDiffer hoặc paging-testing."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "Một edge case quan trọng là hot flow không complete. Gọi toList() trực tiếp trên StateFlow trong test sẽ treo. Hãy dùng take(n), backgroundScope hoặc Turbine rồi cancelAndIgnoreRemainingEvents. Test treo thường là dấu hiệu contract completion bị hiểu sai, không phải chỉ thiếu timeout."
+        },
+        {
+          "type": "code",
+          "language": "kotlin",
+          "label": "Test WhileSubscribed stop timeout",
+          "content": "@Test\nfun `upstream stops after timeout`() = runTest {\n    val source = CountingSource()\n    val state = source.flow.stateIn(\n        scope = backgroundScope,\n        started = SharingStarted.WhileSubscribed(5_000),\n        initialValue = 0\n    )\n\n    val job = backgroundScope.launch(\n        UnconfinedTestDispatcher(testScheduler)\n    ) { state.collect() }\n\n    runCurrent()\n    assertEquals(1, source.starts)\n\n    job.cancel()\n    advanceTimeBy(4_999)\n    assertEquals(0, source.stops)\n\n    advanceTimeBy(1)\n    runCurrent()\n    assertEquals(1, source.stops)\n}"
+        },
+        {
+          "type": "code",
+          "language": "kotlin",
+          "label": "Test WhileSubscribed timeout",
+          "content": "\n@Test\nfun upstream_stops_after_timeout() = runTest {\n    val job = backgroundScope.launch { shared.take(1).collect() }\n    runCurrent()\n    job.cancel()\n\n    advanceTimeBy(4_999)\n    assertTrue(fakeSource.isActive)\n\n    advanceTimeBy(1)\n    runCurrent()\n    assertFalse(fakeSource.isActive)\n}\n"
+        }
+      ]
+    },
+    {
+      "id": "common-mistakes",
+      "title": "16. Sai lầm thường gặp",
+      "blocks": [
+        {
+          "type": "list",
+          "items": [
+            "Dùng Thread.sleep thay virtual time.",
+            "Inject TestDispatcher nhưng mỗi dependency dùng scheduler khác nhau.",
+            "Emit SharedFlow trước khi collector active rồi kết luận event system đúng.",
+            "Mock repository trả ngay nên không thể test cancellation hoặc stale result.",
+            "Assert chỉ state cuối dù requirement yêu cầu Loading/Content transition.",
+            "Dùng advanceUntilIdle cho stream vô hạn và làm test treo.",
+            "Quên cancel collector hoặc bỏ qua unconsumed Turbine events.",
+            "Test implementation operator thay vì observable contract.",
+            "Nuốt CancellationException trong fake hoặc catch.",
+            "Cho fake khác behavior production, ví dụ fake replay event nhưng production replay = 0."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "Một sai lầm tinh vi là dùng UnconfinedTestDispatcher cho toàn bộ code để test dễ pass. Dispatcher này làm nhiều coroutine chạy ngay, làm giảm khả năng lộ subscription race và ordering bug. Hãy dùng nó có chủ đích cho collector cần subscribe sớm, còn code under test nên chạy trên StandardTestDispatcher nếu production behavior cần scheduling."
+        },
+        {
+          "type": "code",
+          "language": "kotlin",
+          "label": "Không nuốt cancellation",
+          "content": "flow {\n    emit(api.load())\n}.catch { error ->\n    if (error is CancellationException) throw error\n    emit(Result.failure(error))\n}"
+        }
+      ]
+    },
+    {
+      "id": "basic-interview",
+      "title": "17. Câu hỏi phỏng vấn cơ bản",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "Câu hỏi: Vì sao runTest tốt hơn runBlocking trong coroutine test? Trả lời: runTest cung cấp TestScope, virtual time, kiểm soát child coroutine và timeout; runBlocking dùng thời gian thật và không tự quản scheduler ảo."
+        },
+        {
+          "type": "paragraph",
+          "content": "Câu hỏi: StandardTestDispatcher khác UnconfinedTestDispatcher thế nào? Trả lời: Standard xếp task vào scheduler và cần test nhường/advance; Unconfined bắt đầu coroutine ngay tới điểm suspension, hữu ích để collector subscribe nhưng ordering khác production."
+        },
+        {
+          "type": "paragraph",
+          "content": "Câu hỏi: Test debounce như thế nào? Trả lời: dùng cùng TestCoroutineScheduler, emit input, advanceTimeBy trước ngưỡng để assert chưa gọi, advance tới ngưỡng và runCurrent để assert chỉ latest được gọi."
+        },
+        {
+          "type": "paragraph",
+          "content": "Câu hỏi: Vì sao StateFlow test có thể không thấy intermediate state? Trả lời: StateFlow conflates theo equality và collector có thể không chạy giữa hai update nhanh; cần xác định intermediate state có phải contract không."
+        }
+      ]
+    },
+    {
+      "id": "deep-interview",
+      "title": "18. Câu hỏi xoáy sâu và câu hỏi bẫy",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "Bẫy: advanceUntilIdle có luôn an toàn không? Không. Với stream vô hạn, ticker, retry không giới hạn hoặc upstream được share lâu dài, scheduler không bao giờ idle. Cần advance theo mốc cụ thể hoặc cancel owner."
+        },
+        {
+          "type": "paragraph",
+          "content": "Bẫy: SharedFlow emit thành công nghĩa là collector đã xử lý event? Không. emit chỉ tuân buffer/backpressure contract; khi không có subscriber và replay = 0, event có thể biến mất mà emit vẫn hoàn tất."
+        },
+        {
+          "type": "paragraph",
+          "content": "Câu sâu: Làm sao test flatMapLatest khi dependency không cancellable? Controlled fake nên cho phép request cũ hoàn thành sau request mới. Test phải chứng minh generation key chặn stale result, thay vì chỉ assert cancel được gọi."
+        },
+        {
+          "type": "paragraph",
+          "content": "Câu sâu: Làm sao test WhileSubscribed? Start collector, runCurrent, assert upstream start; cancel collector; advance dưới stopTimeout và assert chưa stop; advance qua timeout rồi assert stop; subscribe lại và assert restart đúng số lần."
+        },
+        {
+          "type": "paragraph",
+          "content": "Câu sâu: Làm sao biết test đang bám implementation detail? Nếu thay flatMapLatest bằng generation token mà contract vẫn đúng nhưng test fail chỉ vì verify operator/cancel call cụ thể, test đang bám implementation. Assert result, active request limit và stale protection thay vì tên operator."
+        },
+        {
+          "type": "code",
+          "language": "kotlin",
+          "label": "No-event assertion",
+          "content": "\n@Test\nfun duplicate_query_does_not_call_api_again() = runTest {\n    pipeline.test {\n        queries.emit(\"android\")\n        advanceTimeBy(300)\n        awaitItem()\n\n        queries.emit(\"android\")\n        advanceTimeBy(300)\n        expectNoEvents()\n        assertEquals(1, api.calls)\n        cancelAndIgnoreRemainingEvents()\n    }\n}\n"
+        }
+      ]
+    },
+    {
+      "id": "experience-answer",
+      "title": "19. Mẫu trả lời gắn với kinh nghiệm",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "Một câu trả lời trung thực có thể là: “Trong dự án dùng StateFlow và coroutine, tôi ưu tiên test theo behavior. Tôi inject dispatcher để mọi coroutine dùng cùng TestCoroutineScheduler, dùng controlled fake để chủ động hoàn thành request theo thứ tự ngược và dùng virtual time cho debounce hoặc timeout. Với StateFlow tôi phân biệt state cuối và transition bắt buộc; với SharedFlow tôi đảm bảo collector active trước emission hoặc test đúng replay contract. Tôi cũng kiểm tra cancellation, retry limit và cleanup listener.”"
+        },
+        {
+          "type": "paragraph",
+          "content": "Khi nói về Upzi, chỉ khẳng định phần `confirmed` như kiến trúc Coroutine/Flow và chat optimistic. Phần test ack timeout, search generation guard hoặc Turbine phải gắn `proposed` hay `needs-confirmation` nếu chưa xác nhận đã có trong codebase."
+        }
+      ]
+    },
+    {
+      "id": "practical-exercises",
+      "title": "20. Bài tập thực hành",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "Bài 1: Viết SearchViewModel có debounce 300 ms, minimum length 2 và flatMapLatest. Tạo ControlledSearchRepository lưu từng request bằng CompletableDeferred. Test: query ngắn không gọi; ba query trong 300 ms chỉ gọi latest; request cũ hoàn thành sau request mới không ghi đè; cancellation không biến thành Error."
+        },
+        {
+          "type": "paragraph",
+          "content": "Bài 2: Viết callbackFlow bọc LocationListener giả. Test listener được add khi collect, remove đúng một lần khi cancel, error callback đóng flow và không còn emission sau close."
+        },
+        {
+          "type": "paragraph",
+          "content": "Bài 3: Test StateFlow UI state với reducer. Xác định transition nào là contract, assert initial state, loading, content, retry và preservation của old data. Thử tạo hai update equals nhau để quan sát conflation."
+        },
+        {
+          "type": "paragraph",
+          "content": "Tiêu chí hoàn thành: không dùng Thread.sleep; cùng một testScheduler; không còn child coroutine; fake điều khiển được thời điểm completion; test fail khi cố tình bỏ cancellation hoặc cleanup."
+        },
+        {
+          "type": "code",
+          "language": "kotlin",
+          "label": "Fake repository điều khiển emission",
+          "content": "\nclass FakeUserRepository : UserRepository {\n    private val events = MutableSharedFlow<UserResult>()\n    override fun observeUser(): Flow<UserResult> = events\n    suspend fun emit(value: UserResult) = events.emit(value)\n}\n"
+        }
+      ]
+    },
+    {
+      "id": "scenario-exercises",
+      "title": "21. Bài tập tình huống",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "Tình huống 1: Snackbar “Saved” đôi khi không hiện khi quay lại màn hình. Hãy viết hai test: một chứng minh SharedFlow replay = 0 mất event khi không có subscriber; một cho pending-effect-in-state với acknowledgement. So sánh duplicate risk sau process recreation."
+        },
+        {
+          "type": "paragraph",
+          "content": "Tình huống 2: Socket reconnect tạo hai collector và message duplicate. Thiết kế fake socket có subscriptionCount, test lifecycle STARTED/STOPPED và scope ownership. Xác định bug ở UI collector hay shared producer."
+        },
+        {
+          "type": "paragraph",
+          "content": "Tình huống 3: Paging search đổi filter nhanh. Test generation key, cachedIn scope và refresh state. Dùng paging-testing hoặc AsyncPagingDataDiffer thay vì so sánh PagingData object."
+        },
+        {
+          "type": "paragraph",
+          "content": "Tình huống 4: retryWhen với exponential backoff tiếp tục chạy khi user rời màn hình. Dùng virtual time và cancellation probe để chứng minh retry dừng khi scope cancel."
+        },
+        {
+          "type": "code",
+          "language": "kotlin",
+          "label": "Test stale result bằng generation key",
+          "content": "@Test\nfun `old result cannot overwrite latest state`() = runTest {\n    viewModel.search(\"android\")\n    viewModel.search(\"kotlin\")\n\n    fake.complete(\"kotlin\", listOf(Job(\"Kotlin\")))\n    fake.complete(\"android\", listOf(Job(\"Android\")))\n    advanceUntilIdle()\n\n    assertEquals(\"kotlin\", viewModel.uiState.value.query)\n    assertEquals(listOf(\"Kotlin\"), viewModel.uiState.value.items.map { it.title })\n}"
+        },
+        {
+          "type": "code",
+          "language": "kotlin",
+          "label": "Kiểm tra backoff bị hủy khi logout",
+          "content": "\n@Test\nfun logout_cancels_retry_backoff() = runTest {\n    viewModel.load()\n    advanceTimeBy(1_500)\n\n    viewModel.logout()\n    advanceUntilIdle()\n\n    assertEquals(2, api.attempts)\n    assertEquals(SessionState.LoggedOut, viewModel.state.value.session)\n}\n"
+        }
+      ]
+    },
+    {
+      "id": "self-checklist",
+      "title": "22. Checklist tự đánh giá",
+      "blocks": [
+        {
+          "type": "list",
+          "items": [
+            "Tôi giải thích được runTest và TestCoroutineScheduler hoạt động thế nào.",
+            "Tất cả dispatcher trong test dùng cùng scheduler.",
+            "Tôi biết khi nào dùng Standard và khi nào dùng Unconfined.",
+            "Tôi không dùng Thread.sleep cho debounce/retry.",
+            "Tôi kiểm soát được subscription trước emission của hot flow.",
+            "Tôi phân biệt assert state cuối với assert transition.",
+            "Tôi test cancellation, stale result và cleanup.",
+            "Tôi tránh advanceUntilIdle với stream vô hạn.",
+            "Tôi dùng controlled fake thay mock trả ngay.",
+            "Tôi kiểm tra event dư hoặc child coroutine chưa kết thúc.",
+            "Tôi biết giới hạn của unit test lifecycle.",
+            "Tôi gắn nhãn trung thực cho case study Upzi."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "summary",
+      "title": "23. Tóm tắt cần nhớ",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "Flow Testing là bài toán kiểm soát thời gian, scheduler, subscription và lifecycle. runTest chỉ hiệu quả khi dependency inject dispatcher và cùng dùng một scheduler. StandardTestDispatcher giúp test scheduling rõ; UnconfinedTestDispatcher hữu ích để collector subscribe sớm. Virtual time thay thế sleep cho debounce, retry và timeout."
+        },
+        {
+          "type": "paragraph",
+          "content": "Cold Flow thường test sequence và completion; StateFlow cần chú ý initial value, equality conflation và state cuối; SharedFlow cần test replay, buffer và thời điểm subscription; callbackFlow cần test cleanup. Controlled fake là công cụ chính để tạo race condition, out-of-order completion và cancellation."
+        },
+        {
+          "type": "paragraph",
+          "content": "Test phải bám product contract. Không assert operator cụ thể nếu nhiều implementation có thể đúng. Không dùng test xanh để suy ra lifecycle production đã an toàn. Các behavior phụ thuộc Android lifecycle, Room, Paging hoặc process recreation vẫn cần integration/instrumented test."
+        }
+      ]
+    },
+    {
+      "id": "quiz-section",
+      "title": "24. Quiz có giải thích đáp án",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "Quiz bên dưới kiểm tra reasoning về scheduler, virtual time, hot flow, cancellation và lifecycle. Mỗi đáp án giải thích vì sao lựa chọn đúng và vì sao lựa chọn khác có thể gây test flaky hoặc sai contract."
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "question": "runTest mang lại lợi ích chính nào so với runBlocking?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Virtual time và quản lý child coroutine trong TestScope"
+        },
+        {
+          "id": "b",
+          "text": "Tự động mock mọi dependency"
+        },
+        {
+          "id": "c",
+          "text": "Buộc code chạy trên Dispatchers.IO"
+        },
+        {
+          "id": "d",
+          "text": "Tự động kiểm tra UI"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "explanation": "runTest cung cấp TestScope, TestCoroutineScheduler, timeout và kiểm tra coroutine chưa hoàn tất. Nó không mock dependency hay thay thế UI test."
+    },
+    {
+      "id": "q2",
+      "question": "StandardTestDispatcher có đặc điểm nào?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Mọi coroutine chạy ngay lập tức"
+        },
+        {
+          "id": "b",
+          "text": "Task được xếp vào scheduler và cần nhường hoặc advance"
+        },
+        {
+          "id": "c",
+          "text": "Không hỗ trợ virtual time"
+        },
+        {
+          "id": "d",
+          "text": "Luôn dùng thread thật"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "explanation": "StandardTestDispatcher không tự chạy task mới ngay; test kiểm soát execution bằng runCurrent, advanceTimeBy hoặc advanceUntilIdle."
+    },
+    {
+      "id": "q3",
+      "question": "Cách đúng để test debounce 300 ms là gì?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Thread.sleep(300)"
+        },
+        {
+          "id": "b",
+          "text": "advanceTimeBy trên scheduler dùng chung rồi runCurrent"
+        },
+        {
+          "id": "c",
+          "text": "Mock debounce operator"
+        },
+        {
+          "id": "d",
+          "text": "Dùng Dispatchers.IO thật"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "explanation": "Virtual time làm test nhanh và deterministic. Sleep thật làm test chậm và flaky."
+    },
+    {
+      "id": "q4",
+      "question": "Vì sao SharedFlow replay=0 có thể mất event trong test?",
+      "options": [
+        {
+          "id": "a",
+          "text": "StateFlow conflation"
+        },
+        {
+          "id": "b",
+          "text": "Event emit trước khi collector subscribe"
+        },
+        {
+          "id": "c",
+          "text": "runTest luôn drop event"
+        },
+        {
+          "id": "d",
+          "text": "Turbine không hỗ trợ SharedFlow"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "explanation": "SharedFlow replay=0 không lưu event cho subscriber đến sau. Test phải đảm bảo collector active hoặc test đúng behavior mất event."
+    },
+    {
+      "id": "q5",
+      "question": "Tại sao StateFlow collector có thể không thấy Loading?",
+      "options": [
+        {
+          "id": "a",
+          "text": "StateFlow không phát initial value"
+        },
+        {
+          "id": "b",
+          "text": "StateFlow conflation và collector chưa chạy giữa hai update nhanh"
+        },
+        {
+          "id": "c",
+          "text": "StateFlow chỉ chạy trên Main"
+        },
+        {
+          "id": "d",
+          "text": "Loading luôn bị catch"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "explanation": "StateFlow giữ latest value và collector có thể bỏ qua intermediate update nếu không được schedule kịp."
+    },
+    {
+      "id": "q6",
+      "question": "Controlled fake tốt hơn mock trả ngay ở điểm nào?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ít code hơn mọi trường hợp"
+        },
+        {
+          "id": "b",
+          "text": "Cho phép điều khiển completion, lỗi và thứ tự để tạo race condition"
+        },
+        {
+          "id": "c",
+          "text": "Không cần scheduler"
+        },
+        {
+          "id": "d",
+          "text": "Tự động chạy instrumented test"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "explanation": "Controlled fake cho phép request cũ/new hoàn thành theo thứ tự chủ động, rất cần để test cancellation và stale result."
+    },
+    {
+      "id": "q7",
+      "question": "advanceUntilIdle nguy hiểm khi nào?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Flow có stream hoặc retry vô hạn"
+        },
+        {
+          "id": "b",
+          "text": "Test chỉ có một emission"
+        },
+        {
+          "id": "c",
+          "text": "Không có coroutine"
+        },
+        {
+          "id": "d",
+          "text": "Dùng JSON fake"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "explanation": "Scheduler sẽ không idle nếu luôn có task tương lai, ticker hoặc retry vô hạn; test có thể treo."
+    },
+    {
+      "id": "q8",
+      "question": "catch trong Flow test nên xử lý CancellationException thế nào?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Luôn đổi thành Error state"
+        },
+        {
+          "id": "b",
+          "text": "Phải rethrow/không nuốt cancellation"
+        },
+        {
+          "id": "c",
+          "text": "Retry vô hạn"
+        },
+        {
+          "id": "d",
+          "text": "Emit null"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "explanation": "Cancellation là control flow của coroutine. Nuốt nó có thể làm work tiếp tục và phát lỗi giả khi lifecycle cancel."
+    },
+    {
+      "id": "q9",
+      "question": "Cách phù hợp nhất để test callbackFlow cleanup là gì?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Chỉ assert item đầu"
+        },
+        {
+          "id": "b",
+          "text": "Cancel collector rồi assert listener remove đúng một lần"
+        },
+        {
+          "id": "c",
+          "text": "Dùng sleep"
+        },
+        {
+          "id": "d",
+          "text": "Không thể test unit"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "explanation": "Contract quan trọng của callbackFlow gồm registration và cleanup qua awaitClose, không chỉ giá trị emitted."
+    },
+    {
+      "id": "q10",
+      "question": "Test nào ít bám implementation detail hơn?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Verify flatMapLatest được gọi"
+        },
+        {
+          "id": "b",
+          "text": "Assert result mới thắng và request active không vượt contract"
+        },
+        {
+          "id": "c",
+          "text": "Verify số dòng code"
+        },
+        {
+          "id": "d",
+          "text": "Assert class name operator"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "explanation": "Behavior test cho phép đổi implementation mà vẫn bảo vệ product contract."
+    },
+    {
+      "id": "q11",
+      "question": "Khi nào dùng UnconfinedTestDispatcher hợp lý?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Cho mọi production coroutine"
+        },
+        {
+          "id": "b",
+          "text": "Để collector test subscribe ngay trước khi producer emit"
+        },
+        {
+          "id": "c",
+          "text": "Thay mọi scheduler"
+        },
+        {
+          "id": "d",
+          "text": "Để chạy network thật"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "explanation": "Nó hữu ích cho collector cần active sớm, nhưng lạm dụng có thể che scheduling race."
+    },
+    {
+      "id": "q12",
+      "question": "Điều nào unit Flow test không tự chứng minh?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Virtual debounce"
+        },
+        {
+          "id": "b",
+          "text": "Reducer transition"
+        },
+        {
+          "id": "c",
+          "text": "Fragment dùng viewLifecycleOwner đúng trong lifecycle Android thật"
+        },
+        {
+          "id": "d",
+          "text": "Retry attempt count"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "explanation": "Lifecycle integration của Fragment/Compose cần instrumented hoặc integration test; TestScope không thay thế môi trường Android."
+    }
+  ]
+}
