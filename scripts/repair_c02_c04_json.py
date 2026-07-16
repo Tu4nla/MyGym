@@ -8,6 +8,9 @@ replacements = {
         'println("call API")': 'println(\\"call API\\")',
         'println("flow created")': 'println(\\"flow created\\")',
         'println("request")': 'println(\\"request\\")',
+        'log("completed")': 'log(\\"completed\\")',
+        'log("cancelled")': 'log(\\"cancelled\\")',
+        'log("failed", cause)': 'log(\\"failed\\", cause)',
     },
     "c03.json": {
         'val query: String = ""': 'val query: String = \\"\\"',
@@ -19,6 +22,7 @@ replacements = {
         'println("B: $it")': 'println(\\"B: $it\\")',
         'events.emit("hello")': 'events.emit(\\"hello\\")',
         'logger.warn("effect buffer full")': 'logger.warn(\\"effect buffer full\\")',
+        'UiEffect.ShowSnackbar("Saved")': 'UiEffect.ShowSnackbar(\\"Saved\\")',
     },
 }
 
