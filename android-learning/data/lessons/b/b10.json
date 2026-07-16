@@ -1,47 +1,223 @@
 {
-  "id":"b10",
-  "code":"B10",
-  "title":"Coroutine Testing",
-  "summary":"Thiết kế test deterministic cho coroutine bằng kotlinx-coroutines-test, TestScope, virtual time, dispatcher injection, structured assertions và kiểm soát cancellation, exception, timeout và concurrency.",
-  "estimatedMinutes":210,
-  "sections":[
-    {"id":"objectives","title":"1. Mục tiêu bài học","blocks":[{"type":"list","items":["Hiểu vì sao test coroutine dễ flaky nếu dùng thời gian và dispatcher thật.","Dùng runTest, TestScope, StandardTestDispatcher, UnconfinedTestDispatcher và virtual time đúng mục đích.","Inject dispatcher/scope để production code testable.","Test cancellation, timeout, exception propagation, retry và race-sensitive behavior.","Phân biệt unit test, integration test và instrumentation test cho coroutine Android."]}]},
-    {"id":"prerequisites","title":"2. Kiến thức nền","blocks":[{"type":"list","items":["B03-B09: structured concurrency, dispatcher, cancellation, exception và thread safety.","JUnit/Kotlin test cơ bản, fake dependency và assertion.","Hiểu ViewModel, repository và lifecycle ownership."]}]},
-    {"id":"terminology","title":"3. Thuật ngữ","blocks":[{"type":"table","headers":["Thuật ngữ","Ý nghĩa"],"rows":[["runTest","Test builder tạo TestScope và quản lý coroutine con"],["TestCoroutineScheduler","Bộ lập lịch virtual time dùng chung"],["StandardTestDispatcher","Queue task; test chủ động advance/yield"],["UnconfinedTestDispatcher","Chạy eager đến suspension đầu tiên"],["Virtual time","Thời gian mô phỏng, delay không chờ wall-clock"],["advanceUntilIdle","Chạy toàn bộ task đã schedule tới khi idle"],["runCurrent","Chạy task đang sẵn sàng tại thời điểm hiện tại"],["advanceTimeBy","Dịch virtual clock theo khoảng chỉ định"],["MainDispatcherRule","Rule thay Dispatchers.Main trong unit test JVM"]]}]},
-    {"id":"mechanism","title":"4. Cơ chế hoạt động bên trong","blocks":[{"type":"paragraph","content":"runTest theo dõi child coroutine thuộc TestScope và dùng scheduler ảo. delay chỉ đăng ký continuation vào scheduler; test có thể advance mà không chờ thật. Tuy nhiên code chạy trên dispatcher thật, scope mồ côi hoặc callback ngoài coroutine-test có thể thoát khỏi scheduler và làm test flaky."},{"type":"code","language":"kotlin","label":"Virtual time","content":"@Test fun retriesAfterDelay() = runTest {\n    val job = launch { delay(5_000); repository.retry() }\n    runCurrent()\n    assertFalse(job.isCompleted)\n    advanceTimeBy(5_000)\n    runCurrent()\n    assertTrue(job.isCompleted)\n}"}]},
-    {"id":"purpose","title":"5. Mục đích","blocks":[{"type":"list","items":["Loại bỏ sleep và phụ thuộc máy chạy test.","Kiểm tra state transition theo từng bước.","Phát hiện coroutine leak, exception chưa quan sát và task chưa hoàn tất.","Mô phỏng timeout/retry nhanh và deterministic."]}]},
-    {"id":"problem","title":"6. Vấn đề kỹ thuật được giải quyết","blocks":[{"type":"list","items":["Test pass/fail ngẫu nhiên vì timing.","ViewModel dùng Dispatchers.Main trong JVM test.","delay/backoff làm suite chậm.","Assertion chạy trước child coroutine.","Coroutine fire-and-forget sống sau khi test kết thúc."]}]},
-    {"id":"when-to-use","title":"7. Dấu hiệu cần dùng","blocks":[{"type":"list","items":["Production code có suspend function, launch, async, timeout hoặc retry.","Test phải kiểm tra loading → content/error.","Có debounce, backoff, polling hoặc heartbeat.","Cần xác minh cancellation khi input/lifecycle đổi."]}]},
-    {"id":"when-not-to-use","title":"8. Khi không nên chỉ dùng coroutine unit test","blocks":[{"type":"list","items":["Cần kiểm chứng Room/Retrofit/WorkManager thực tế: dùng integration test phù hợp.","Cần kiểm chứng lifecycle Android/Compose: dùng instrumentation/UI test.","Cần benchmark scheduling/performance thật: virtual time không đại diện wall-clock.","Không nên mock mọi thứ đến mức test implementation detail."]}]},
-    {"id":"requirement","title":"9. Yêu cầu sản phẩm cụ thể","blocks":[{"type":"callout","variant":"purpose","title":"Search latest-only","content":"Khi nhập query A rồi B, A bị cancel hoặc bị vô hiệu hóa; chỉ B cập nhật UI. Loading và error không được phát từ request cũ. Test phải điều khiển thứ tự completion để chứng minh behavior."}]},
-    {"id":"analysis","title":"10. Phân tích dependency, error policy, lifecycle và resource limits","blocks":[{"type":"table","headers":["Khía cạnh","Quyết định test"],"rows":[["Dependency","Fake repository điều khiển completion và exception"],["Dispatcher","Inject CoroutineDispatcher dùng cùng test scheduler"],["Lifecycle","Test scope phải sở hữu mọi child; không GlobalScope"],["Error policy","Assert CancellationException không thành UiError"],["Resource","Không sleep; giới hạn số task/retry"],["Observability","Assert state sequence và call count"]]}]},
-    {"id":"minimal-code","title":"11. Code Kotlin/Android thực tế","blocks":[{"type":"code","language":"kotlin","label":"Dispatcher injection","content":"class UserRepository(private val io: CoroutineDispatcher) {\n    suspend fun load() = withContext(io) { api.load() }\n}\n\n@Test fun loadUsesControlledScheduler() = runTest {\n    val dispatcher = StandardTestDispatcher(testScheduler)\n    val repository = UserRepository(dispatcher)\n    val deferred = async { repository.load() }\n    runCurrent()\n    assertEquals(expected, deferred.await())\n}"},{"type":"code","language":"kotlin","label":"MainDispatcherRule","content":"class MainDispatcherRule(\n    val dispatcher: TestDispatcher = StandardTestDispatcher()\n) : TestWatcher() {\n    override fun starting(d: Description) = Dispatchers.setMain(dispatcher)\n    override fun finished(d: Description) = Dispatchers.resetMain()\n}"}]},
-    {"id":"upzi-case","title":"12. Case study Upzi","blocks":[{"type":"callout","title":"confirmed","content":"Upzi có search, chat optimistic/ack, paging và coroutine-based ViewModel/repository; các flow này cần test cancellation và ordering."},{"type":"callout","title":"inferred","content":"Test hiện tại có thể chưa dùng chung scheduler hoặc fake điều khiển completion; chưa có bằng chứng cụ thể."},{"type":"callout","title":"proposed","content":"Tạo MainDispatcherRule, dispatcher provider inject được, fake chat/search repository và test latest-only, ack idempotent, reconnect backoff bằng virtual time."},{"type":"callout","variant":"warning","title":"needs-confirmation","content":"Cần xác nhận framework test, Turbine và coverage hiện tại trước khi mô tả là đã triển khai."}]},
-    {"id":"alternatives","title":"13. Phương án thay thế","blocks":[{"type":"table","headers":["Phương án","Khi phù hợp","Trade-off"],"rows":[["Fake","Behavior domain rõ","Phải bảo trì fake contract"],["Mock","Verify interaction nhỏ","Dễ test implementation detail"],["Integration test","Kiểm chứng layer thật","Chậm hơn và setup phức tạp"],["Instrumentation","Lifecycle/platform thật","Chậm, cần device/emulator"],["Manual delay/sleep","Hầu như không nên","Flaky và chậm"]]}]},
-    {"id":"tradeoffs","title":"14. Lựa chọn và trade-off","blocks":[{"type":"list","items":["StandardTestDispatcher cho kiểm soát chính xác nhưng cần runCurrent/advance.","UnconfinedTestDispatcher tiện cho test đơn giản nhưng có thể che ordering bug.","Fake tăng tính đọc hiểu nhưng phải đồng bộ với contract.","Virtual time test policy thời gian, không đo performance thật.","Inject scope tăng testability nhưng ownership phải rõ để tránh caller tùy tiện."]}]},
-    {"id":"edge-cases","title":"15. Edge cases","blocks":[{"type":"list","items":["Code tạo dispatcher mới không dùng test scheduler.","Child coroutine chưa join khi test kết thúc.","SharedFlow không có collector nên event mất.","StateFlow conflation làm thiếu intermediate state.","withContext(Dispatchers.IO) hard-code khiến advanceUntilIdle không điều khiển được.","Callback API gọi từ thread thật.","Timeout test nhầm virtual time và wall-clock."]}]},
-    {"id":"mistakes","title":"16. Sai lầm thường gặp","blocks":[{"type":"list","items":["Thread.sleep trong test.","Dùng runBlocking thay runTest cho code có delay.","Không reset Dispatchers.Main.","AdvanceUntilIdle mọi nơi và không kiểm tra intermediate state.","Mock private implementation thay vì output contract.","Bỏ qua cancellation và chỉ test success/error.","Dùng UnconfinedTestDispatcher để ép test pass."]}]},
-    {"id":"interview-basic","title":"17. Câu hỏi phỏng vấn cơ bản","blocks":[{"type":"list","items":["runTest khác runBlocking thế nào?","Virtual time là gì?","StandardTestDispatcher và UnconfinedTestDispatcher khác nhau thế nào?","runCurrent, advanceTimeBy, advanceUntilIdle dùng khi nào?","Vì sao inject dispatcher?"]}]},
-    {"id":"interview-deep","title":"18. Câu hỏi xoáy sâu","blocks":[{"type":"list","items":["Tại sao advanceUntilIdle có thể che bug state trung gian?","Code hard-code Dispatchers.IO test thế nào?","Làm sao test request A complete sau B?","Làm sao phát hiện coroutine leak?","StateFlow conflation ảnh hưởng assertion sequence ra sao?","Virtual time có test được ANR/performance không?"]}]},
-    {"id":"experience-answer","title":"19. Mẫu trả lời gắn kinh nghiệm","blocks":[{"type":"paragraph","content":"Tôi inject dispatcher vào repository/ViewModel boundary, dùng runTest với scheduler chung và fake dependency điều khiển thời điểm trả kết quả. Với latest-only search, tôi chủ động cho B hoàn tất trước A rồi assert chỉ B cập nhật state; cancellation không bị map thành error. Chỉ khẳng định phần đã có trong codebase, còn rule/fake mới là proposed nếu chưa xác nhận."}]},
-    {"id":"practice","title":"20. Bài tập thực hành","blocks":[{"type":"list","items":["Viết MainDispatcherRule.","Test loading → content theo từng runCurrent.","Test retry 3 lần bằng virtual time.","Test timeout không chờ thật.","Test latest-only với hai CompletableDeferred."]}]},
-    {"id":"scenario","title":"21. Bài tập tình huống","blocks":[{"type":"paragraph","content":"Chat reconnect dùng exponential backoff 1s, 2s, 4s và dừng khi logout. Hãy viết fake socket, advance virtual time, assert số lần connect, sau đó logout và chứng minh không còn retry."}]},
-    {"id":"checklist","title":"22. Checklist tự đánh giá","blocks":[{"type":"list","items":["Mọi coroutine test thuộc TestScope.","Dispatcher dùng chung scheduler.","Không sleep.","Có assertion intermediate state.","Có test cancellation/exception.","Không hard-code dispatcher trong production dependency.","Biết test nào cần integration/instrumentation."]}]},
-    {"id":"summary","title":"23. Tóm tắt","blocks":[{"type":"list","items":["Determinism đến từ ownership và scheduler kiểm soát được.","runTest + virtual time thay sleep.","Dispatcher injection là thiết kế production, không chỉ mẹo test.","Test tốt kiểm chứng contract, cancellation, ordering và error policy."]}]},
-    {"id":"quiz-guide","title":"24. Quiz có giải thích","blocks":[{"type":"paragraph","content":"Các câu hỏi tập trung vào lựa chọn test tool và reasoning về scheduler."}]}
+  "id": "b10",
+  "code": "B10",
+  "title": "Coroutine Testing",
+  "summary": "Thiết kế test coroutine deterministic bằng TestScope, virtual time và dispatcher injection; kiểm tra state transition, cancellation, timeout, retry, exception propagation, latest-only behavior và coroutine leak mà không phụ thuộc thời gian thật.",
+  "estimatedMinutes": 300,
+  "sections": [
+    {
+      "id": "objectives",
+      "title": "1. Mục tiêu bài học",
+      "blocks": [
+        {"type":"paragraph","content":"Coroutine test tốt không chỉ làm delay chạy nhanh hơn. Mục tiêu là kiểm soát hoàn toàn ai sở hữu coroutine, task được schedule khi nào, thời gian tiến ra sao và dependency hoàn tất theo thứ tự nào. Khi kiểm soát được bốn yếu tố này, test mới chứng minh được contract thay vì chỉ hy vọng timing thuận lợi."},
+        {"type":"list","items":["Giải thích vì sao test coroutine dễ flaky khi dispatcher, scope hoặc clock không kiểm soát được.","Dùng runTest, TestScope, TestCoroutineScheduler và virtual time đúng vai trò.","Phân biệt StandardTestDispatcher và UnconfinedTestDispatcher bằng behavior scheduling cụ thể.","Inject dispatcher và scope theo ownership thay vì hard-code Dispatchers.IO hoặc GlobalScope.","Test state trung gian, cancellation, timeout, retry, latest-only, exception và leak.","Biết lúc nào unit test không đủ và phải dùng integration hoặc instrumentation test."]}
+      ]
+    },
+    {
+      "id": "prerequisites",
+      "title": "2. Kiến thức nền",
+      "blocks": [
+        {"type":"paragraph","content":"Bạn cần hiểu structured concurrency, Job, cancellation, exception propagation và dispatcher. Test framework chỉ deterministic khi production code tôn trọng các boundary đó. Nếu code tự tạo scope mồ côi hoặc dispatcher riêng, scheduler test không thể nhìn thấy toàn bộ công việc."},
+        {"type":"list","items":["JUnit hoặc Kotlin test cơ bản.","Fake dependency, assertion và state-based testing.","ViewModel, repository, StateFlow và lifecycle ownership.","B06-B09: cancellation, exception, supervisor semantics và thread safety."]}
+      ]
+    },
+    {
+      "id": "terminology",
+      "title": "3. Thuật ngữ cốt lõi",
+      "blocks": [
+        {"type":"table","headers":["Thuật ngữ","Giải thích"],"rows":[["runTest","Test builder tạo TestScope, quản lý child coroutine và kết nối với TestCoroutineScheduler."],["TestScope","CoroutineScope dành cho test; mọi child có cấu trúc nên nằm trong scope này để framework theo dõi."],["TestCoroutineScheduler","Bộ lập lịch giữ queue task và virtual clock dùng chung bởi các TestDispatcher."],["StandardTestDispatcher","Dispatcher queue task; test phải yield, runCurrent hoặc advance để task chạy."],["UnconfinedTestDispatcher","Chạy coroutine eager đến suspension đầu tiên; tiện nhưng dễ che ordering bug."],["Virtual time","Clock mô phỏng; delay đăng ký continuation theo mốc ảo thay vì chờ wall-clock."],["runCurrent","Chạy các task sẵn sàng tại thời điểm ảo hiện tại."],["advanceTimeBy","Dịch virtual clock một khoảng; task tới hạn cần được scheduler chạy."],["advanceUntilIdle","Chạy liên tục tới khi không còn task; hữu ích cho final state nhưng có thể che transition trung gian."],["MainDispatcherRule","JUnit rule thay Dispatchers.Main trong JVM test và reset sau test."],["Fake","Implementation kiểm soát được của dependency, mô phỏng contract thay vì verify chi tiết private."],["Test leak","Coroutine còn sống hoặc task chưa hoàn tất khi test kết thúc."]]}
+      ]
+    },
+    {
+      "id": "mechanism",
+      "title": "4. Cơ chế hoạt động của runTest và virtual time",
+      "blocks": [
+        {"type":"paragraph","content":"runTest tạo một TestScope gắn với TestCoroutineScheduler. Khi coroutine gọi delay(5_000), scheduler không ngủ năm giây thật. Nó lưu continuation vào queue với deadline virtualTime + 5_000. Test có thể advance clock tới deadline rồi cho continuation chạy trong vài microsecond wall-clock."},
+        {"type":"paragraph","content":"Điều này chỉ đúng với coroutine chạy trên TestDispatcher dùng cùng scheduler. Nếu production code hard-code Dispatchers.IO, tạo HandlerThread riêng hoặc callback từ SDK gọi trên thread thật, phần đó thoát khỏi virtual scheduler. Test lúc ấy có thể phải chờ thật, chạy nondeterministic hoặc kết thúc khi task ngoài scope vẫn còn sống."},
+        {"type":"code","language":"kotlin","label":"Quan sát queue theo từng bước","content":"@Test\nfun emitsLoadingThenContent() = runTest {\n    val dispatcher = StandardTestDispatcher(testScheduler)\n    val fake = ControlledUserRepository()\n    val viewModel = UserViewModel(fake, dispatcher)\n\n    viewModel.load()\n    assertEquals(UiState.Idle, viewModel.state.value)\n\n    runCurrent()\n    assertEquals(UiState.Loading, viewModel.state.value)\n\n    fake.complete(User("Tuan"))\n    runCurrent()\n    assertEquals(UiState.Content(User("Tuan")), viewModel.state.value)\n}"},
+        {"type":"paragraph","content":"Test trên cố ý không gọi advanceUntilIdle ngay. Nó dừng ở từng scheduling boundary để chứng minh loading xuất hiện trước content. Nếu chỉ advanceUntilIdle rồi assert final state, implementation có thể bỏ qua Loading mà test vẫn pass."}
+      ]
+    },
+    {
+      "id": "scheduler-sharing",
+      "title": "5. Một scheduler chung cho toàn bộ test",
+      "blocks": [
+        {"type":"paragraph","content":"Nhiều TestDispatcher có thể cùng tồn tại, nhưng để test deterministic chúng nên dùng chung testScheduler của runTest. Nếu MainDispatcherRule tạo scheduler A còn repository dispatcher dùng scheduler B, advanceUntilIdle trên A không chạy task ở B. Đây là nguyên nhân phổ biến khiến test treo hoặc assertion chạy quá sớm."},
+        {"type":"code","language":"kotlin","label":"Dùng chung scheduler","content":"@Test\nfun load() = runTest {\n    val main = StandardTestDispatcher(testScheduler)\n    val io = StandardTestDispatcher(testScheduler)\n    val repository = UserRepository(api, io)\n    val viewModel = UserViewModel(repository, main)\n\n    viewModel.load()\n    advanceUntilIdle()\n    assertEquals(expected, viewModel.state.value)\n}"},
+        {"type":"callout","variant":"warning","title":"Dấu hiệu scheduler bị tách","content":"Bạn gọi advanceUntilIdle nhưng task vẫn chưa chạy; test chỉ pass khi thêm Thread.sleep; hoặc coroutine báo còn active sau khi test kết thúc. Hãy kiểm tra dispatcher có dùng cùng testScheduler hay không."}
+      ]
+    },
+    {
+      "id": "dispatchers",
+      "title": "6. StandardTestDispatcher và UnconfinedTestDispatcher",
+      "blocks": [
+        {"type":"paragraph","content":"StandardTestDispatcher gần với mô hình queue rõ ràng: launch chỉ enqueue task, không chạy body ngay cho tới khi test yield hoặc điều khiển scheduler. Điều này buộc test mô tả chính xác boundary và rất phù hợp để kiểm tra ordering, loading state và concurrent work."},
+        {"type":"paragraph","content":"UnconfinedTestDispatcher chạy coroutine eager trên call stack hiện tại tới suspension đầu tiên. Nó tiện cho test đơn giản vì ít cần runCurrent, nhưng behavior eager có thể khác production. Một ViewModel emit Loading ngay lập tức trong test với Unconfined nhưng production dispatcher có thể enqueue, nên test vô tình dựa vào ordering không được contract bảo đảm."},
+        {"type":"table","headers":["Tiêu chí","StandardTestDispatcher","UnconfinedTestDispatcher"],"rows":[["Khởi chạy","Queue, cần điều khiển scheduler","Eager tới suspension đầu"],["Kiểm tra ordering","Rõ và chính xác","Có thể che race/order bug"],["Boilerplate","Nhiều runCurrent/advance hơn","Ít hơn"],["Khuyến nghị","Mặc định cho unit test concurrency/state","Chỉ dùng khi eager behavior không ảnh hưởng contract"]]}
+      ]
+    },
+    {
+      "id": "purpose",
+      "title": "7. Mục đích của coroutine testing",
+      "blocks": [
+        {"type":"paragraph","content":"Mục đích là biến asynchronous behavior thành một state machine có thể điều khiển. Test phải chủ động cho dependency success, fail hoặc complete sai thứ tự; chủ động tiến clock; và assert cả output lẫn cancellation policy. Khi đó test không phụ thuộc tốc độ máy CI hay scheduler OS."},
+        {"type":"paragraph","content":"Test coroutine còn là feedback về design production. Nếu một class không thể test nếu không sleep, thường ownership hoặc dependency injection chưa rõ. Dispatcher injection không phải hack cho test; nó làm execution policy thuộc outer layer thay vì bị hard-code trong business logic."}
+      ]
+    },
+    {
+      "id": "problem",
+      "title": "8. Vấn đề kỹ thuật được giải quyết",
+      "blocks": [
+        {"type":"list","items":["Assertion chạy trước child coroutine nên test fail ngẫu nhiên.","delay, debounce và retry làm suite chậm nếu dùng wall-clock.","Dispatchers.Main không tồn tại trong JVM unit test.","Request cũ complete sau request mới nhưng test không điều khiển được thứ tự.","CancellationException bị map nhầm thành UiError mà test success/error thông thường không phát hiện.","Fire-and-forget coroutine sống sau test và làm test sau bị ảnh hưởng.","Mock verify quá nhiều implementation detail nhưng bỏ sót state contract."]}
+      ]
+    },
+    {
+      "id": "when-to-use",
+      "title": "9. Khi nên dùng coroutine unit test",
+      "blocks": [
+        {"type":"paragraph","content":"Dùng unit test khi behavior có thể quan sát qua output, state hoặc interaction contract và không cần Android framework thật. Những policy như debounce, timeout, retry, latest-only và supervisor behavior đặc biệt phù hợp vì virtual time và controlled fake giúp tạo đúng failure scenario."},
+        {"type":"list","items":["Suspend use case hoặc repository mapping.","ViewModel loading/content/error transition.","Search latest-only và cancellation khi query đổi.","Retry với exponential backoff.","Timeout và fallback.","Concurrent fan-out, fail-fast hoặc partial success.","Polling/reconnect dừng khi logout hoặc owner scope bị cancel."]}
+      ]
+    },
+    {
+      "id": "when-not-to-use",
+      "title": "10. Khi unit test coroutine không đủ",
+      "blocks": [
+        {"type":"paragraph","content":"Virtual scheduler không kiểm chứng Room transaction, Retrofit converter, WorkManager constraint hoặc lifecycle Android thật. Với các boundary đó, cần integration hoặc instrumentation test. Cũng không dùng virtual time để benchmark latency, ANR hoặc throughput vì clock ảo cố tình bỏ qua chi phí wall-clock."},
+        {"type":"paragraph","content":"Không nên mock toàn bộ Flow/operator chain chỉ để verify từng method được gọi. Test nên tập trung vào contract: input nào tạo state sequence nào, task nào bị cancel và error nào được expose. Implementation có thể refactor mà contract không đổi."}
+      ]
+    },
+    {
+      "id": "requirement",
+      "title": "11. Yêu cầu sản phẩm cụ thể: Search latest-only",
+      "blocks": [
+        {"type":"callout","variant":"purpose","title":"Requirement","content":"Người dùng nhập query A rồi nhanh chóng nhập B. Request A có thể chậm hơn và complete sau B. Chỉ kết quả B được phép cập nhật UI; cancellation của A không hiện toast lỗi; loading state không được bị request A tắt sau khi B vẫn đang chạy."},
+        {"type":"paragraph","content":"Test phải tạo hai operation độc lập và điều khiển completion. Nếu fake repository chỉ trả ngay lập tức, test không tạo được stale-result scenario. Controlled fake nên trả CompletableDeferred cho từng query để test complete B trước A, rồi kiểm tra A bị cancel hoặc kết quả A bị generation guard loại bỏ."}
+      ]
+    },
+    {
+      "id": "analysis",
+      "title": "12. Phân tích dependency, error policy, lifecycle và resource limits",
+      "blocks": [
+        {"type":"table","headers":["Khía cạnh","Quyết định test"],"rows":[["Dependency","Fake repository cho phép complete/fail/cancel từng request theo ID."],["Dispatcher","Main và IO dùng TestDispatcher chung scheduler."],["Scope ownership","ViewModel scope được thay Main dispatcher; child không thoát bằng GlobalScope."],["Error policy","CancellationException không map thành UiError; domain/network error mới thành error state."],["State contract","Assert Idle → Loading(B) → Content(B), không nhận Content(A)."],["Resource","Không Thread.sleep; số retry và pending task có giới hạn."],["Leak detection","Kết thúc test không còn child active hoặc channel/collector chưa đóng."],["Observability","Fake ghi call order, cancellation signal và số collector."]]}
+      ]
+    },
+    {
+      "id": "dispatcher-injection",
+      "title": "13. Dispatcher injection và MainDispatcherRule",
+      "blocks": [
+        {"type":"code","language":"kotlin","label":"Production boundary inject dispatcher","content":"class UserRepository(\n    private val api: UserApi,\n    private val ioDispatcher: CoroutineDispatcher\n) {\n    suspend fun load(): User = withContext(ioDispatcher) { api.load() }\n}"},
+        {"type":"paragraph","content":"Repository không cần biết dispatcher test. Nó chỉ nhận execution policy. Production DI truyền Dispatchers.IO; test truyền StandardTestDispatcher(testScheduler). Điều quan trọng là không inject dispatcher vào mọi private helper một cách máy móc; chỉ inject ở boundary thực sự chuyển context."},
+        {"type":"code","language":"kotlin","label":"MainDispatcherRule","content":"class MainDispatcherRule(\n    val dispatcher: TestDispatcher = StandardTestDispatcher()\n) : TestWatcher() {\n    override fun starting(description: Description) {\n        Dispatchers.setMain(dispatcher)\n    }\n\n    override fun finished(description: Description) {\n        Dispatchers.resetMain()\n    }\n}"},
+        {"type":"paragraph","content":"Rule phải reset Main trong finally-equivalent lifecycle của JUnit. Nếu quên reset, test sau dùng dispatcher cũ và suite phụ thuộc thứ tự chạy."}
+      ]
+    },
+    {
+      "id": "controlled-fake",
+      "title": "14. Controlled fake thay vì sleep",
+      "blocks": [
+        {"type":"code","language":"kotlin","label":"Fake điều khiển completion","content":"class ControlledSearchRepository : SearchRepository {\n    private val requests = mutableMapOf<String, CompletableDeferred<List<Job>>>()\n\n    override suspend fun search(query: String): List<Job> {\n        val deferred = CompletableDeferred<List<Job>>()\n        requests[query] = deferred\n        return deferred.await()\n    }\n\n    fun complete(query: String, value: List<Job>) {\n        requests.getValue(query).complete(value)\n    }\n\n    fun fail(query: String, error: Throwable) {\n        requests.getValue(query).completeExceptionally(error)\n    }\n}"},
+        {"type":"paragraph","content":"Fake này biến network timing thành API test điều khiển được. Test không cần delay ngẫu nhiên để A chậm hơn B. Nó tạo A và B, chạy scheduler để cả hai đăng ký, rồi complete B trước A. Nếu production code cancel A, deferred của A nhận cancellation; nếu dùng generation guard, A có thể complete nhưng state không đổi."}
+      ]
+    },
+    {
+      "id": "latest-only-test",
+      "title": "15. Test latest-only và cancellation",
+      "blocks": [
+        {"type":"code","language":"kotlin","label":"B hoàn tất trước A","content":"@Test\nfun onlyLatestQueryUpdatesUi() = runTest {\n    val dispatcher = StandardTestDispatcher(testScheduler)\n    val repo = ControlledSearchRepository()\n    val vm = SearchViewModel(repo, dispatcher)\n\n    vm.search("A")\n    runCurrent()\n    vm.search("B")\n    runCurrent()\n\n    repo.complete("B", listOf(Job("B1")))\n    runCurrent()\n    assertEquals(listOf(Job("B1")), vm.state.value.items)\n\n    repo.complete("A", listOf(Job("A1")))\n    runCurrent()\n    assertEquals(listOf(Job("B1")), vm.state.value.items)\n    assertNull(vm.state.value.error)\n}"},
+        {"type":"paragraph","content":"Test chứng minh outcome, nhưng nên bổ sung assertion cancellation nếu đó là contract: fake có thể expose wasCancelled(A). Nếu transport không cancellable và design dùng generation ID, test không ép cancellation mà chỉ chứng minh stale result bị bỏ qua. Đây là khác biệt giữa implementation và business contract."}
+      ]
+    },
+    {
+      "id": "time-testing",
+      "title": "16. Test timeout, debounce và retry bằng virtual time",
+      "blocks": [
+        {"type":"paragraph","content":"Với virtual time, test có thể kiểm tra ranh giới chính xác: trước 300 ms debounce chưa gọi repository; đúng 300 ms gọi một lần; query mới trước deadline hủy timer cũ. Tương tự, retry 1s, 2s, 4s có thể hoàn tất trong test ngay lập tức nhưng vẫn giữ semantics thời gian."},
+        {"type":"code","language":"kotlin","label":"Exponential backoff","content":"@Test\nfun retriesWithBackoff() = runTest {\n    val fake = FailingSocket(failuresBeforeSuccess = 3)\n    val reconnect = ReconnectLoop(fake, StandardTestDispatcher(testScheduler))\n\n    reconnect.start()\n    runCurrent()\n    assertEquals(1, fake.attempts)\n\n    advanceTimeBy(1_000); runCurrent()\n    assertEquals(2, fake.attempts)\n\n    advanceTimeBy(2_000); runCurrent()\n    assertEquals(3, fake.attempts)\n\n    advanceTimeBy(4_000); runCurrent()\n    assertEquals(4, fake.attempts)\n}"},
+        {"type":"paragraph","content":"Hãy assert cả boundary trước deadline, không chỉ sau deadline. Nếu chỉ advanceUntilIdle, một retry loop không giới hạn có thể khiến test không idle hoặc chạy quá nhiều iteration. Production policy phải có max retry, external cancellation hoặc state stop rõ ràng."}
+      ]
+    },
+    {
+      "id": "flow-testing",
+      "title": "17. Test StateFlow và SharedFlow đúng semantics",
+      "blocks": [
+        {"type":"paragraph","content":"StateFlow conflates: collector chậm có thể chỉ thấy giá trị mới nhất, nên test không nên mặc định mọi intermediate assignment đều được thu thập. Nếu requirement cần toàn bộ event, StateFlow không phải abstraction phù hợp. Với SharedFlow, event có thể mất nếu emit khi chưa có collector và replay = 0."},
+        {"type":"paragraph","content":"Khi test state sequence, collector phải được start trước action và chạy trên scheduler được điều khiển. Có thể dùng Turbine nếu project đã dùng, hoặc launch collector vào backgroundScope. backgroundScope phù hợp với collector sống lâu vì runTest sẽ cancel nó khi kết thúc."},
+        {"type":"code","language":"kotlin","label":"Collector trong backgroundScope","content":"@Test\nfun stateSequence() = runTest {\n    val values = mutableListOf<UiState>()\n    val job = backgroundScope.launch(UnconfinedTestDispatcher(testScheduler)) {\n        viewModel.state.take(3).toList(values)\n    }\n\n    viewModel.load()\n    advanceUntilIdle()\n\n    assertEquals(listOf(Idle, Loading, Content(data)), values)\n    job.cancel()\n}"}
+      ]
+    },
+    {
+      "id": "exceptions",
+      "title": "18. Test exception, supervisor và cancellation policy",
+      "blocks": [
+        {"type":"paragraph","content":"Không chỉ assert UiError. Test cần phân loại lỗi. Domain failure có thể map thành error state; CancellationException phải propagate hoặc bị coi là control flow, không hiện toast; programmer bug có thể nên fail test thay vì bị catch thành generic error."},
+        {"type":"paragraph","content":"Với supervisorScope, hãy tạo hai child: dependency bắt buộc success, dependency tùy chọn fail. Assert content chính vẫn hiển thị và section tùy chọn có error riêng. Với coroutineScope fail-fast, assert sibling bị cancel. Controlled fake nên ghi cancellation để test chứng minh propagation, không chỉ final state."}
+      ]
+    },
+    {
+      "id": "upzi-case",
+      "title": "19. Case study Upzi và mức độ xác nhận",
+      "blocks": [
+        {"type":"callout","variant":"purpose","title":"confirmed","content":"Upzi có search/filter, chat optimistic/ack, paging và coroutine-based ViewModel/repository. Đây là các flow cần test ordering, cancellation, duplicate event và lifecycle."},
+        {"type":"callout","title":"inferred","content":"Có thể suy luận test cần controlled fake và scheduler chung, nhưng framework test hiện tại, Turbine usage và coverage cụ thể chưa được xác nhận."},
+        {"type":"callout","title":"proposed","content":"Tạo MainDispatcherRule, DispatcherProvider inject được, fake search điều khiển completion, fake socket điều khiển reconnect và test chat reducer với duplicate/out-of-order event."},
+        {"type":"callout","variant":"warning","title":"needs-confirmation","content":"Cần kiểm tra source test hiện tại trước khi nói đã áp dụng virtual time, Turbine hoặc cancellation assertion trong production project."},
+        {"type":"paragraph","content":"Khi phỏng vấn, có thể trình bày test design đề xuất dựa trên requirement đã xác nhận. Không nên đổi proposed thành đã triển khai nếu chưa có commit hoặc test file chứng minh."}
+      ]
+    },
+    {
+      "id": "alternatives",
+      "title": "20. Fake, mock, integration và instrumentation",
+      "blocks": [
+        {"type":"table","headers":["Loại test","Phù hợp","Giới hạn"],"rows":[["Fake-based unit test","State machine, timing policy, cancellation, retry","Fake phải giữ đúng contract"],["Mock interaction test","Boundary nhỏ, verify call quan trọng","Dễ khóa chặt implementation detail"],["Integration test","Room, Retrofit adapter, repository thật","Setup phức tạp và chậm hơn"],["Instrumentation/UI test","Lifecycle, Compose, permission, Android Main thật","Chạy device/emulator, chi phí cao"],["Benchmark/stress test","Performance, contention, race xác suất","Không thay unit test deterministic"]]}
+      ]
+    },
+    {
+      "id": "tradeoffs",
+      "title": "21. Trade-off và edge cases",
+      "blocks": [
+        {"type":"paragraph","content":"StandardTestDispatcher tăng độ chính xác nhưng test dài hơn vì phải điều khiển scheduler. UnconfinedTestDispatcher giảm boilerplate nhưng có thể tạo false confidence. Fake dễ đọc hơn mock cho stateful behavior, đổi lại phải cập nhật khi contract thay đổi."},
+        {"type":"list","items":["Code tạo dispatcher/executor mới không dùng scheduler test.","Child coroutine không thuộc TestScope khiến runTest không chờ hoặc không cancel.","advanceUntilIdle che state trung gian.","Infinite polling/retry làm scheduler không bao giờ idle.","SharedFlow emit trước collector khiến event mất.","StateFlow conflation làm collector không thấy mọi assignment.","Callback API chạy thread thật và complete sau test.","Main dispatcher không reset làm test phụ thuộc thứ tự.","Fake complete cùng deferred nhiều lần gây IllegalStateException.","Test cancellation nhưng catch Exception trong production nuốt CancellationException."]}
+      ]
+    },
+    {
+      "id": "mistakes-interview",
+      "title": "22. Sai lầm thường gặp và câu hỏi phỏng vấn",
+      "blocks": [
+        {"type":"list","items":["Dùng Thread.sleep hoặc delay thật trong test.","Dùng runBlocking thay runTest cho code có virtual delay.","Hard-code Dispatchers.IO trong production boundary.","Gọi advanceUntilIdle ngay và chỉ assert final state.","Dùng UnconfinedTestDispatcher để ép test pass.","Verify quá nhiều private call nhưng không assert output contract.","Không test cancellation, timeout và stale result.","Không kiểm tra coroutine còn sống sau logout hoặc clear."]},
+        {"type":"table","headers":["Câu hỏi","Ý chính cần trả lời"],"rows":[["runTest khác runBlocking thế nào?","TestScope, virtual time, child tracking và timeout test."],["Standard và Unconfined khác gì?","Queue có kiểm soát so với eager tới suspension; tác động tới ordering."],["Vì sao inject dispatcher?","Outer layer sở hữu execution policy; scheduler test điều khiển được."],["advanceUntilIdle có rủi ro gì?","Bỏ qua transition trung gian và có thể không kết thúc với loop vô hạn."],["Test latest-only thế nào?","Controlled fake, complete B trước A, assert stale result/cancellation."],["Virtual time có đo performance không?","Không; nó test policy thời gian, không wall-clock latency."],["Làm sao phát hiện leak?","Structured scope, runTest child tracking, backgroundScope cho collector dài hạn, assert lifecycle stop."]]}
+      ]
+    },
+    {
+      "id": "experience",
+      "title": "23. Mẫu trả lời, bài tập và checklist",
+      "blocks": [
+        {"type":"paragraph","content":"Mẫu trả lời: Tôi inject dispatcher ở boundary repository/ViewModel, dùng runTest với một scheduler chung và controlled fake để quyết định request nào complete trước. Với search latest-only, tôi cho B trả trước A rồi assert chỉ B cập nhật UI; cancellation không bị map thành error. Với reconnect, tôi advance virtual time theo 1s, 2s, 4s và cancel session để chứng minh retry dừng."},
+        {"type":"paragraph","content":"Bài tập thực hành: viết MainDispatcherRule; test Loading → Content theo từng runCurrent; test retry ba lần bằng virtual time; test timeout không chờ thật; test latest-only bằng hai CompletableDeferred; test supervisor partial success; và cố tình tạo GlobalScope leak để quan sát vì sao framework không kiểm soát được."},
+        {"type":"list","items":["Mọi coroutine test thuộc TestScope hoặc backgroundScope có chủ đích.","Mọi TestDispatcher dùng chung scheduler.","Không Thread.sleep.","Có assertion state trung gian, không chỉ final state.","Có test cancellation và CancellationException policy.","Dependency timing được controlled fake điều khiển.","Biết test nào cần integration hoặc instrumentation.","Không tuyên bố Upzi đã dùng tool/test pattern chưa xác nhận."]}
+      ]
+    },
+    {
+      "id": "summary-quiz",
+      "title": "24. Tóm tắt cần nhớ và quiz",
+      "blocks": [
+        {"type":"callout","variant":"purpose","title":"Tóm tắt","content":"Determinism đến từ ownership rõ, scheduler kiểm soát được và dependency có timing điều khiển được. runTest + virtual time thay sleep; dispatcher injection giúp production code testable; test tốt phải chứng minh state transition, cancellation, ordering và error policy chứ không chỉ happy path."},
+        {"type":"paragraph","content":"Quiz bên dưới có đáp án lựa chọn và giải thích. Mục tiêu là chọn công cụ dựa trên semantics, không học thuộc API scheduler."}
+      ]
+    }
   ],
-  "quiz":[
-    {"id":"b10-q01","question":"runTest có lợi ích chính nào?","options":["Tăng CPU","Quản lý TestScope và virtual time","Chạy UI thật","Tạo thread vô hạn"],"answerIndex":1,"explanation":"runTest theo dõi coroutine con và tích hợp TestCoroutineScheduler."},
-    {"id":"b10-q02","question":"StandardTestDispatcher thường chạy task khi nào?","options":["Ngay lập tức luôn","Khi scheduler được điều khiển/yield","Sau 1 giây thật","Chỉ Main"],"answerIndex":1,"explanation":"Task được queue để test chủ động runCurrent hoặc advance."},
-    {"id":"b10-q03","question":"Vì sao không nên Thread.sleep?","options":["Không compile","Chậm và flaky theo wall-clock","Không dùng được JUnit","Làm coroutine atomic"],"answerIndex":1,"explanation":"Sleep phụ thuộc timing máy thật và không điều khiển scheduler."},
-    {"id":"b10-q04","question":"advanceTimeBy(5000) làm gì?","options":["Ngủ 5 giây thật","Dịch virtual clock","Đổi timezone","Cancel test"],"answerIndex":1,"explanation":"Nó tiến thời gian ảo, thường cần runCurrent để chạy task đúng mốc."},
-    {"id":"b10-q05","question":"UnconfinedTestDispatcher có rủi ro gì?","options":["Không hỗ trợ coroutine","Eager execution có thể che ordering bug","Luôn deadlock","Không có scheduler"],"answerIndex":1,"explanation":"Nó chạy eager tới suspension đầu, khác scheduling production thông thường."},
-    {"id":"b10-q06","question":"Cách tốt nhất test latest-only là gì?","options":["Sleep ngẫu nhiên","Fake điều khiển completion A/B","Mock println","Chạy emulator 100 lần"],"answerIndex":1,"explanation":"Điều khiển thứ tự completion cho phép chứng minh stale result bị loại."},
-    {"id":"b10-q07","question":"Hard-code Dispatchers.IO gây vấn đề gì?","options":["Syntax error","Test scheduler không điều khiển được đầy đủ","IO không có thread","StateFlow dừng"],"answerIndex":1,"explanation":"Code thoát khỏi scheduler test, gây nondeterminism hoặc cần chờ thật."},
-    {"id":"b10-q08","question":"advanceUntilIdle có thể che điều gì?","options":["Final state","Intermediate state/order","JSON parse","Compilation"],"answerIndex":1,"explanation":"Chạy hết queue khiến test bỏ qua loading hoặc transition quan trọng."},
-    {"id":"b10-q09","question":"Virtual time không dùng để làm gì?","options":["Test delay","Test backoff","Đo performance wall-clock thật","Test timeout policy"],"answerIndex":2,"explanation":"Scheduler ảo không phản ánh latency và CPU thực tế."},
-    {"id":"b10-q10","question":"MainDispatcherRule phải làm gì sau test?","options":["Không gì","resetMain","shutdown Android","clear database luôn"],"answerIndex":1,"explanation":"Phải trả Dispatchers.Main về trạng thái ban đầu để tránh ảnh hưởng test khác."},
-    {"id":"b10-q11","question":"Fake tốt hơn mock khi nào?","options":["Cần behavior có state và completion điều khiển","Muốn verify private call","Không có interface","Chỉ UI"],"answerIndex":0,"explanation":"Fake mô phỏng contract có trạng thái, hữu ích cho concurrent flow."},
-    {"id":"b10-q12","question":"Test cancellation đúng nên assert gì?","options":["Chỉ job cancelled","Không emit error/stale state và resource dừng","Thread bị kill","App restart"],"answerIndex":1,"explanation":"Cancellation là behavior toàn flow, không chỉ một flag Job."}
+  "quiz": [
+    {"id":"b10-q01","question":"Lợi ích cốt lõi của runTest là gì?","options":["Tăng số thread","Tạo TestScope, quản lý child coroutine và virtual time","Chạy Android UI thật","Tự mock repository"],"answerIndex":1,"explanation":"runTest cung cấp scope và scheduler test để điều khiển coroutine có cấu trúc và thời gian ảo."},
+    {"id":"b10-q02","question":"StandardTestDispatcher thường chạy launch body khi nào?","options":["Luôn ngay lập tức","Khi test yield hoặc điều khiển scheduler","Sau một giây thật","Chỉ khi dùng Dispatchers.Main"],"answerIndex":1,"explanation":"Task được enqueue; runCurrent, advance hoặc suspension của test cho scheduler cơ hội chạy."},
+    {"id":"b10-q03","question":"Rủi ro chính của UnconfinedTestDispatcher là gì?","options":["Không hỗ trợ delay","Eager execution có thể che ordering bug","Không có TestScope","Luôn deadlock"],"answerIndex":1,"explanation":"Behavior eager tới suspension đầu tiên có thể khác production scheduling và tạo false confidence."},
+    {"id":"b10-q04","question":"Vì sao các TestDispatcher nên dùng chung testScheduler?","options":["Để compile nhanh","Để một thao tác advance điều khiển toàn bộ task liên quan","Để không cần fake","Để chạy instrumentation"],"answerIndex":1,"explanation":"Scheduler tách biệt có queue và clock riêng; advance scheduler này không chạy task của scheduler khác."},
+    {"id":"b10-q05","question":"advanceUntilIdle có thể che vấn đề nào?","options":["JSON parse","State trung gian và ordering","Compilation error","Room schema"],"answerIndex":1,"explanation":"Chạy hết queue rồi chỉ assert final state có thể bỏ qua Loading hoặc transition sai."},
+    {"id":"b10-q06","question":"Cách deterministic nhất để test A complete sau B là gì?","options":["Thread.sleep ngẫu nhiên","Controlled fake với CompletableDeferred riêng cho A và B","Chạy emulator nhiều lần","Thêm log"],"answerIndex":1,"explanation":"Test chủ động complete B rồi A, không phụ thuộc latency thật."},
+    {"id":"b10-q07","question":"Hard-code Dispatchers.IO gây vấn đề gì trong unit test?","options":["Không compile","Task có thể thoát scheduler test","IO không có thread","StateFlow bị tắt"],"answerIndex":1,"explanation":"Virtual time và advance không kiểm soát dispatcher thật được đầy đủ."},
+    {"id":"b10-q08","question":"Virtual time không phù hợp để làm gì?","options":["Test debounce","Test retry backoff","Đo latency/performance wall-clock thật","Test timeout policy"],"answerIndex":2,"explanation":"Clock ảo bỏ qua thời gian thực nên không đại diện performance production."},
+    {"id":"b10-q09","question":"CancellationException nên được test theo policy nào?","options":["Luôn map thành UiError","Không bị coi như lỗi người dùng nếu chỉ là cancellation control flow","Luôn retry","Luôn crash app"],"answerIndex":1,"explanation":"Cancellation thường là control flow và phải propagate hoặc bị bỏ qua theo boundary, không thành toast lỗi."},
+    {"id":"b10-q10","question":"backgroundScope hữu ích cho trường hợp nào?","options":["Collector sống lâu trong test và được cancel khi runTest kết thúc","Thay Room database","Chạy UI thật","Tạo thread pool production"],"answerIndex":0,"explanation":"Collector vô hạn không nên chặn runTest; backgroundScope quản lý lifetime phù hợp."},
+    {"id":"b10-q11","question":"StateFlow collector có chắc thấy mọi intermediate assignment không?","options":["Có","Không, StateFlow conflates giá trị","Chỉ trên Main","Chỉ khi dùng mock"],"answerIndex":1,"explanation":"Collector chậm có thể chỉ thấy giá trị mới nhất; test phải hiểu semantics thay vì giả định event log."},
+    {"id":"b10-q12","question":"Khi nào cần integration test thay vì chỉ unit test coroutine?","options":["Khi muốn test Room/Retrofit/WorkManager boundary thật","Khi có một suspend function thuần","Khi muốn advanceTimeBy","Khi fake trả data"],"answerIndex":0,"explanation":"Platform và integration boundary cần implementation thật; scheduler unit test không chứng minh chúng hoạt động đúng."}
   ]
 }
