@@ -652,5 +652,38 @@
       "Upzi",
       "Interview"
     ]
+  },
+  {
+    "lessonId": "d01",
+    "code": "D01",
+    "title": "Declarative UI và Compose Runtime",
+    "keywords": [
+      "declarative UI",
+      "Jetpack Compose",
+      "Compose Runtime",
+      "composition",
+      "recomposition",
+      "Composer",
+      "slot table",
+      "snapshot state",
+      "Recomposer",
+      "Applier",
+      "remember",
+      "positional memoization",
+      "key",
+      "stability",
+      "skippable",
+      "restartable"
+    ],
+    "headings": [
+      "Declarative UI và imperative UI",
+      "Compiler transform và Composer",
+      "Composition, recomposition và apply changes",
+      "Snapshot state và invalidation",
+      "Slot table và remember",
+      "Identity, key và positional memoization",
+      "Stability và skippability",
+      "State ownership và side-effect boundary"
+    ]
   }
 ]

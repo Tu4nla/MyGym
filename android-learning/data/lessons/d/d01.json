@@ -50,23 +50,71 @@
       "blocks": [
         {
           "type": "table",
-          "headers": ["Thuật ngữ", "Giải thích"],
+          "headers": [
+            "Thuật ngữ",
+            "Giải thích"
+          ],
           "rows": [
-            ["Declarative UI", "Mô tả UI cần có từ state hiện tại thay vì ra lệnh từng bước thay đổi widget."],
-            ["Composition", "Quá trình chạy Composable lần đầu để tạo hoặc cập nhật cấu trúc node mà runtime quản lý."],
-            ["Recomposition", "Chạy lại các nhóm Composable bị ảnh hưởng sau khi state đã đọc thay đổi."],
-            ["Composer", "Đối tượng runtime được compiler plugin truyền ngầm để ghi/đọc group, slot và change operation."],
-            ["Slot table", "Cấu trúc lưu group, identity, remembered values và metadata của composition."],
-            ["Snapshot", "Cơ chế quản lý phiên bản và quan sát đọc/ghi state nhất quán."],
-            ["MutableState", "State holder tích hợp snapshot system; ghi value có thể invalidate scope đã đọc nó."],
-            ["RecomposeScope", "Phạm vi có thể được đánh dấu cần recomposition khi dependency state thay đổi."],
-            ["Applier", "Thành phần áp change operation lên cây node đích, ví dụ UI tree."],
-            ["Skippable", "Nhóm có thể được runtime bỏ qua khi input ổn định và không đổi."],
-            ["Restartable", "Nhóm mà runtime có thể bắt đầu recomposition tại chính boundary đó."],
-            ["Positional memoization", "Giữ remembered value dựa trên vị trí logic của lời gọi trong composition."],
-            ["Key", "Danh tính bổ sung giúp runtime phân biệt item khi vị trí thay đổi."],
-            ["Stability", "Cam kết rằng runtime có thể suy luận an toàn về khả năng thay đổi của giá trị."],
-            ["Side effect", "Tác động ra bên ngoài quá trình mô tả UI, như gọi API, ghi analytics hoặc đăng ký listener."]
+            [
+              "Declarative UI",
+              "Mô tả UI cần có từ state hiện tại thay vì ra lệnh từng bước thay đổi widget."
+            ],
+            [
+              "Composition",
+              "Quá trình chạy Composable lần đầu để tạo hoặc cập nhật cấu trúc node mà runtime quản lý."
+            ],
+            [
+              "Recomposition",
+              "Chạy lại các nhóm Composable bị ảnh hưởng sau khi state đã đọc thay đổi."
+            ],
+            [
+              "Composer",
+              "Đối tượng runtime được compiler plugin truyền ngầm để ghi/đọc group, slot và change operation."
+            ],
+            [
+              "Slot table",
+              "Cấu trúc lưu group, identity, remembered values và metadata của composition."
+            ],
+            [
+              "Snapshot",
+              "Cơ chế quản lý phiên bản và quan sát đọc/ghi state nhất quán."
+            ],
+            [
+              "MutableState",
+              "State holder tích hợp snapshot system; ghi value có thể invalidate scope đã đọc nó."
+            ],
+            [
+              "RecomposeScope",
+              "Phạm vi có thể được đánh dấu cần recomposition khi dependency state thay đổi."
+            ],
+            [
+              "Applier",
+              "Thành phần áp change operation lên cây node đích, ví dụ UI tree."
+            ],
+            [
+              "Skippable",
+              "Nhóm có thể được runtime bỏ qua khi input ổn định và không đổi."
+            ],
+            [
+              "Restartable",
+              "Nhóm mà runtime có thể bắt đầu recomposition tại chính boundary đó."
+            ],
+            [
+              "Positional memoization",
+              "Giữ remembered value dựa trên vị trí logic của lời gọi trong composition."
+            ],
+            [
+              "Key",
+              "Danh tính bổ sung giúp runtime phân biệt item khi vị trí thay đổi."
+            ],
+            [
+              "Stability",
+              "Cam kết rằng runtime có thể suy luận an toàn về khả năng thay đổi của giá trị."
+            ],
+            [
+              "Side effect",
+              "Tác động ra bên ngoài quá trình mô tả UI, như gọi API, ghi analytics hoặc đăng ký listener."
+            ]
           ]
         }
       ]
@@ -184,14 +232,35 @@
         },
         {
           "type": "table",
-          "headers": ["Requirement", "Thiết kế Compose tương ứng"],
+          "headers": [
+            "Requirement",
+            "Thiết kế Compose tương ứng"
+          ],
           "rows": [
-            ["Loading lần đầu", "Hiển thị skeleton khi chưa có content."],
-            ["Refresh không xóa dữ liệu", "Giữ items và biểu diễn isRefreshing/error riêng."],
-            ["Item không giữ nhầm state", "Dùng stable business key trong LazyColumn."],
-            ["Rotate không mất filter", "Owner ở ViewModel hoặc rememberSaveable khi đúng scope."],
-            ["Không gửi analytics khi recomposition", "Đặt trong LaunchedEffect với key lifecycle hợp lý."],
-            ["Accessibility", "Cung cấp semantics, contentDescription và mergeDescendants đúng contract."]
+            [
+              "Loading lần đầu",
+              "Hiển thị skeleton khi chưa có content."
+            ],
+            [
+              "Refresh không xóa dữ liệu",
+              "Giữ items và biểu diễn isRefreshing/error riêng."
+            ],
+            [
+              "Item không giữ nhầm state",
+              "Dùng stable business key trong LazyColumn."
+            ],
+            [
+              "Rotate không mất filter",
+              "Owner ở ViewModel hoặc rememberSaveable khi đúng scope."
+            ],
+            [
+              "Không gửi analytics khi recomposition",
+              "Đặt trong LaunchedEffect với key lifecycle hợp lý."
+            ],
+            [
+              "Accessibility",
+              "Cung cấp semantics, contentDescription và mergeDescendants đúng contract."
+            ]
           ]
         }
       ]
@@ -278,13 +347,37 @@
       "blocks": [
         {
           "type": "table",
-          "headers": ["Phương án", "Ưu điểm", "Giới hạn"],
+          "headers": [
+            "Phương án",
+            "Ưu điểm",
+            "Giới hạn"
+          ],
           "rows": [
-            ["XML + ViewBinding", "Ổn định, tooling lâu năm, phù hợp codebase cũ", "State synchronization và boilerplate cao hơn."],
-            ["Data Binding", "Binding expression và observable integration", "Debug khó, compile chậm, logic dễ rò vào XML."],
-            ["Custom View", "Kiểm soát rendering và input sâu", "Chi phí lifecycle, measure/layout và state restoration cao."],
-            ["ComposeView trong View", "Migration theo component", "Phải quản lý composition strategy và interoperability."],
-            ["AndroidView trong Compose", "Tái sử dụng View chưa có bản Compose", "Boundary state/lifecycle và performance cần kiểm soát."]
+            [
+              "XML + ViewBinding",
+              "Ổn định, tooling lâu năm, phù hợp codebase cũ",
+              "State synchronization và boilerplate cao hơn."
+            ],
+            [
+              "Data Binding",
+              "Binding expression và observable integration",
+              "Debug khó, compile chậm, logic dễ rò vào XML."
+            ],
+            [
+              "Custom View",
+              "Kiểm soát rendering và input sâu",
+              "Chi phí lifecycle, measure/layout và state restoration cao."
+            ],
+            [
+              "ComposeView trong View",
+              "Migration theo component",
+              "Phải quản lý composition strategy và interoperability."
+            ],
+            [
+              "AndroidView trong Compose",
+              "Tái sử dụng View chưa có bản Compose",
+              "Boundary state/lifecycle và performance cần kiểm soát."
+            ]
           ]
         },
         {
@@ -520,149 +613,631 @@
               "id": "d01-q01",
               "question": "Declarative UI chủ yếu thay đổi điều gì?",
               "options": [
-                {"id": "a", "text": "Cách mô tả UI từ state"},
-                {"id": "b", "text": "Android không còn main thread"},
-                {"id": "c", "text": "Mọi UI đều không có mutation"},
-                {"id": "d", "text": "Không cần lifecycle"}
+                {
+                  "id": "a",
+                  "text": "Cách mô tả UI từ state"
+                },
+                {
+                  "id": "b",
+                  "text": "Android không còn main thread"
+                },
+                {
+                  "id": "c",
+                  "text": "Mọi UI đều không có mutation"
+                },
+                {
+                  "id": "d",
+                  "text": "Không cần lifecycle"
+                }
               ],
-              "correctOptionIds": ["a"],
+              "correctOptionIds": [
+                "a"
+              ],
               "explanation": "Declarative UI mô tả UI mong muốn từ state. Runtime vẫn mutation cây node và Android vẫn có main thread/lifecycle."
             },
             {
               "id": "d01-q02",
               "question": "Composable function được compiler bổ sung gì ở mức khái niệm?",
               "options": [
-                {"id": "a", "text": "Composer và changed flags"},
-                {"id": "b", "text": "Một Activity mới"},
-                {"id": "c", "text": "Một database transaction"},
-                {"id": "d", "text": "Một Binder service"}
+                {
+                  "id": "a",
+                  "text": "Composer và changed flags"
+                },
+                {
+                  "id": "b",
+                  "text": "Một Activity mới"
+                },
+                {
+                  "id": "c",
+                  "text": "Một database transaction"
+                },
+                {
+                  "id": "d",
+                  "text": "Một Binder service"
+                }
               ],
-              "correctOptionIds": ["a"],
+              "correctOptionIds": [
+                "a"
+              ],
               "explanation": "Compiler plugin biến đổi Composable để tham gia giao thức runtime qua Composer và metadata thay đổi."
             },
             {
               "id": "d01-q03",
               "question": "Ghi MutableState thường dẫn tới điều gì?",
               "options": [
-                {"id": "a", "text": "Invalidate scope đã đọc state"},
-                {"id": "b", "text": "Recreate process ngay"},
-                {"id": "c", "text": "Luôn redraw toàn app"},
-                {"id": "d", "text": "Không có tác dụng"}
+                {
+                  "id": "a",
+                  "text": "Invalidate scope đã đọc state"
+                },
+                {
+                  "id": "b",
+                  "text": "Recreate process ngay"
+                },
+                {
+                  "id": "c",
+                  "text": "Luôn redraw toàn app"
+                },
+                {
+                  "id": "d",
+                  "text": "Không có tác dụng"
+                }
               ],
-              "correctOptionIds": ["a"],
+              "correctOptionIds": [
+                "a"
+              ],
               "explanation": "Snapshot system đánh dấu những scope phụ thuộc cần recomposition; phạm vi thực tế phụ thuộc nơi state được đọc."
             },
             {
               "id": "d01-q04",
               "question": "remember giữ value dựa chủ yếu vào yếu tố nào?",
               "options": [
-                {"id": "a", "text": "Vị trí/identity trong composition"},
-                {"id": "b", "text": "Tên biến Kotlin"},
-                {"id": "c", "text": "Địa chỉ IP"},
-                {"id": "d", "text": "Tên Activity trong manifest"}
+                {
+                  "id": "a",
+                  "text": "Vị trí/identity trong composition"
+                },
+                {
+                  "id": "b",
+                  "text": "Tên biến Kotlin"
+                },
+                {
+                  "id": "c",
+                  "text": "Địa chỉ IP"
+                },
+                {
+                  "id": "d",
+                  "text": "Tên Activity trong manifest"
+                }
               ],
-              "correctOptionIds": ["a"],
+              "correctOptionIds": [
+                "a"
+              ],
               "explanation": "remember dùng slot table và positional identity; key có thể bổ sung identity khi vị trí thay đổi."
             },
             {
               "id": "d01-q05",
               "question": "Khi reorder list, key business giúp gì?",
               "options": [
-                {"id": "a", "text": "Giữ state theo đúng entity"},
-                {"id": "b", "text": "Tự gọi API nhanh hơn"},
-                {"id": "c", "text": "Loại bỏ mọi recomposition"},
-                {"id": "d", "text": "Tự persist qua process death"}
+                {
+                  "id": "a",
+                  "text": "Giữ state theo đúng entity"
+                },
+                {
+                  "id": "b",
+                  "text": "Tự gọi API nhanh hơn"
+                },
+                {
+                  "id": "c",
+                  "text": "Loại bỏ mọi recomposition"
+                },
+                {
+                  "id": "d",
+                  "text": "Tự persist qua process death"
+                }
               ],
-              "correctOptionIds": ["a"],
+              "correctOptionIds": [
+                "a"
+              ],
               "explanation": "Key xác lập identity để state/node không đi theo index khi item di chuyển."
             },
             {
               "id": "d01-q06",
               "question": "Vì sao không gọi analytics trực tiếp trong body Composable?",
               "options": [
-                {"id": "a", "text": "Body có thể chạy nhiều lần và không phải lifecycle callback"},
-                {"id": "b", "text": "Composable không chạy trên Android"},
-                {"id": "c", "text": "Analytics chỉ dùng XML"},
-                {"id": "d", "text": "Kotlin cấm network"}
+                {
+                  "id": "a",
+                  "text": "Body có thể chạy nhiều lần và không phải lifecycle callback"
+                },
+                {
+                  "id": "b",
+                  "text": "Composable không chạy trên Android"
+                },
+                {
+                  "id": "c",
+                  "text": "Analytics chỉ dùng XML"
+                },
+                {
+                  "id": "d",
+                  "text": "Kotlin cấm network"
+                }
               ],
-              "correctOptionIds": ["a"],
+              "correctOptionIds": [
+                "a"
+              ],
               "explanation": "Recomposition có thể làm body chạy lại; side effect phải gắn với effect/lifecycle contract rõ."
             },
             {
               "id": "d01-q07",
               "question": "Sửa MutableList tại chỗ nhưng giữ cùng reference có rủi ro gì?",
               "options": [
-                {"id": "a", "text": "Compose không quan sát được mutation"},
-                {"id": "b", "text": "Luôn crash compiler"},
-                {"id": "c", "text": "Tự đổi sang immutable"},
-                {"id": "d", "text": "Tạo Activity mới"}
+                {
+                  "id": "a",
+                  "text": "Compose không quan sát được mutation"
+                },
+                {
+                  "id": "b",
+                  "text": "Luôn crash compiler"
+                },
+                {
+                  "id": "c",
+                  "text": "Tự đổi sang immutable"
+                },
+                {
+                  "id": "d",
+                  "text": "Tạo Activity mới"
+                }
               ],
-              "correctOptionIds": ["a"],
+              "correctOptionIds": [
+                "a"
+              ],
               "explanation": "Collection thường không phát snapshot invalidation. Dùng immutable replacement hoặc snapshot-aware collection."
             },
             {
               "id": "d01-q08",
               "question": "Recomposition có luôn kéo theo layout và draw toàn bộ không?",
               "options": [
-                {"id": "a", "text": "Không"},
-                {"id": "b", "text": "Có, luôn luôn"},
-                {"id": "c", "text": "Chỉ trên emulator"},
-                {"id": "d", "text": "Chỉ khi dùng Flow"}
+                {
+                  "id": "a",
+                  "text": "Không"
+                },
+                {
+                  "id": "b",
+                  "text": "Có, luôn luôn"
+                },
+                {
+                  "id": "c",
+                  "text": "Chỉ trên emulator"
+                },
+                {
+                  "id": "d",
+                  "text": "Chỉ khi dùng Flow"
+                }
               ],
-              "correctOptionIds": ["a"],
+              "correctOptionIds": [
+                "a"
+              ],
               "explanation": "Runtime có thể skip nhóm và chỉ apply thay đổi cần thiết; layout/draw phụ thuộc node/property bị thay đổi."
             },
             {
               "id": "d01-q09",
               "question": "@Immutable nên được hiểu là gì?",
               "options": [
-                {"id": "a", "text": "Một lời cam kết correctness với compiler/runtime"},
-                {"id": "b", "text": "Mẹo luôn làm app nhanh"},
-                {"id": "c", "text": "Cách persist database"},
-                {"id": "d", "text": "Thay thế equals"}
+                {
+                  "id": "a",
+                  "text": "Một lời cam kết correctness với compiler/runtime"
+                },
+                {
+                  "id": "b",
+                  "text": "Mẹo luôn làm app nhanh"
+                },
+                {
+                  "id": "c",
+                  "text": "Cách persist database"
+                },
+                {
+                  "id": "d",
+                  "text": "Thay thế equals"
+                }
               ],
-              "correctOptionIds": ["a"],
+              "correctOptionIds": [
+                "a"
+              ],
               "explanation": "Đánh dấu sai có thể khiến runtime tin object không thay đổi và skip sai, gây UI stale."
             },
             {
               "id": "d01-q10",
               "question": "State nào hợp lý để giữ bằng remember?",
               "options": [
-                {"id": "a", "text": "Expanded state cục bộ của component"},
-                {"id": "b", "text": "Token đăng nhập dài hạn"},
-                {"id": "c", "text": "Database source of truth"},
-                {"id": "d", "text": "Upload job cần sống sau process death"}
+                {
+                  "id": "a",
+                  "text": "Expanded state cục bộ của component"
+                },
+                {
+                  "id": "b",
+                  "text": "Token đăng nhập dài hạn"
+                },
+                {
+                  "id": "c",
+                  "text": "Database source of truth"
+                },
+                {
+                  "id": "d",
+                  "text": "Upload job cần sống sau process death"
+                }
               ],
-              "correctOptionIds": ["a"],
+              "correctOptionIds": [
+                "a"
+              ],
               "explanation": "remember phù hợp presentation state có lifetime theo composition, không thay thế persistence hoặc background work."
             },
             {
               "id": "d01-q11",
               "question": "Cách giảm phạm vi recomposition nào đúng về nguyên tắc?",
               "options": [
-                {"id": "a", "text": "Đọc state gần nơi sử dụng"},
-                {"id": "b", "text": "Đưa mọi state lên root"},
-                {"id": "c", "text": "Gọi Thread.sleep trong body"},
-                {"id": "d", "text": "Dùng index làm key"}
+                {
+                  "id": "a",
+                  "text": "Đọc state gần nơi sử dụng"
+                },
+                {
+                  "id": "b",
+                  "text": "Đưa mọi state lên root"
+                },
+                {
+                  "id": "c",
+                  "text": "Gọi Thread.sleep trong body"
+                },
+                {
+                  "id": "d",
+                  "text": "Dùng index làm key"
+                }
               ],
-              "correctOptionIds": ["a"],
+              "correctOptionIds": [
+                "a"
+              ],
               "explanation": "State read tracking invalidates scope đọc state; hoãn read xuống boundary nhỏ hơn có thể giảm phạm vi."
             },
             {
               "id": "d01-q12",
               "question": "Metric nào đáng tin hơn để đánh giá performance UI?",
               "options": [
-                {"id": "a", "text": "Frame time và jank cùng profiling"},
-                {"id": "b", "text": "Số dòng Kotlin"},
-                {"id": "c", "text": "Số @Composable"},
-                {"id": "d", "text": "Chỉ số recomposition đơn lẻ"}
+                {
+                  "id": "a",
+                  "text": "Frame time và jank cùng profiling"
+                },
+                {
+                  "id": "b",
+                  "text": "Số dòng Kotlin"
+                },
+                {
+                  "id": "c",
+                  "text": "Số @Composable"
+                },
+                {
+                  "id": "d",
+                  "text": "Chỉ số recomposition đơn lẻ"
+                }
               ],
-              "correctOptionIds": ["a"],
+              "correctOptionIds": [
+                "a"
+              ],
               "explanation": "Recomposition count chỉ là tín hiệu. User cảm nhận frame time/jank; cần profiling layout, draw, allocation và work trong body."
             }
           ]
         }
       ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "d01-q01",
+      "question": "Declarative UI chủ yếu thay đổi điều gì?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Cách mô tả UI từ state"
+        },
+        {
+          "id": "b",
+          "text": "Android không còn main thread"
+        },
+        {
+          "id": "c",
+          "text": "Mọi UI đều không có mutation"
+        },
+        {
+          "id": "d",
+          "text": "Không cần lifecycle"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "explanation": "Declarative UI mô tả UI mong muốn từ state. Runtime vẫn mutation cây node và Android vẫn có main thread/lifecycle."
+    },
+    {
+      "id": "d01-q02",
+      "question": "Composable function được compiler bổ sung gì ở mức khái niệm?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Composer và changed flags"
+        },
+        {
+          "id": "b",
+          "text": "Một Activity mới"
+        },
+        {
+          "id": "c",
+          "text": "Một database transaction"
+        },
+        {
+          "id": "d",
+          "text": "Một Binder service"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "explanation": "Compiler plugin biến đổi Composable để tham gia giao thức runtime qua Composer và metadata thay đổi."
+    },
+    {
+      "id": "d01-q03",
+      "question": "Ghi MutableState thường dẫn tới điều gì?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Invalidate scope đã đọc state"
+        },
+        {
+          "id": "b",
+          "text": "Recreate process ngay"
+        },
+        {
+          "id": "c",
+          "text": "Luôn redraw toàn app"
+        },
+        {
+          "id": "d",
+          "text": "Không có tác dụng"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "explanation": "Snapshot system đánh dấu những scope phụ thuộc cần recomposition; phạm vi thực tế phụ thuộc nơi state được đọc."
+    },
+    {
+      "id": "d01-q04",
+      "question": "remember giữ value dựa chủ yếu vào yếu tố nào?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Vị trí/identity trong composition"
+        },
+        {
+          "id": "b",
+          "text": "Tên biến Kotlin"
+        },
+        {
+          "id": "c",
+          "text": "Địa chỉ IP"
+        },
+        {
+          "id": "d",
+          "text": "Tên Activity trong manifest"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "explanation": "remember dùng slot table và positional identity; key có thể bổ sung identity khi vị trí thay đổi."
+    },
+    {
+      "id": "d01-q05",
+      "question": "Khi reorder list, key business giúp gì?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Giữ state theo đúng entity"
+        },
+        {
+          "id": "b",
+          "text": "Tự gọi API nhanh hơn"
+        },
+        {
+          "id": "c",
+          "text": "Loại bỏ mọi recomposition"
+        },
+        {
+          "id": "d",
+          "text": "Tự persist qua process death"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "explanation": "Key xác lập identity để state/node không đi theo index khi item di chuyển."
+    },
+    {
+      "id": "d01-q06",
+      "question": "Vì sao không gọi analytics trực tiếp trong body Composable?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Body có thể chạy nhiều lần và không phải lifecycle callback"
+        },
+        {
+          "id": "b",
+          "text": "Composable không chạy trên Android"
+        },
+        {
+          "id": "c",
+          "text": "Analytics chỉ dùng XML"
+        },
+        {
+          "id": "d",
+          "text": "Kotlin cấm network"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "explanation": "Recomposition có thể làm body chạy lại; side effect phải gắn với effect/lifecycle contract rõ."
+    },
+    {
+      "id": "d01-q07",
+      "question": "Sửa MutableList tại chỗ nhưng giữ cùng reference có rủi ro gì?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Compose không quan sát được mutation"
+        },
+        {
+          "id": "b",
+          "text": "Luôn crash compiler"
+        },
+        {
+          "id": "c",
+          "text": "Tự đổi sang immutable"
+        },
+        {
+          "id": "d",
+          "text": "Tạo Activity mới"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "explanation": "Collection thường không phát snapshot invalidation. Dùng immutable replacement hoặc snapshot-aware collection."
+    },
+    {
+      "id": "d01-q08",
+      "question": "Recomposition có luôn kéo theo layout và draw toàn bộ không?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Không"
+        },
+        {
+          "id": "b",
+          "text": "Có, luôn luôn"
+        },
+        {
+          "id": "c",
+          "text": "Chỉ trên emulator"
+        },
+        {
+          "id": "d",
+          "text": "Chỉ khi dùng Flow"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "explanation": "Runtime có thể skip nhóm và chỉ apply thay đổi cần thiết; layout/draw phụ thuộc node/property bị thay đổi."
+    },
+    {
+      "id": "d01-q09",
+      "question": "@Immutable nên được hiểu là gì?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Một lời cam kết correctness với compiler/runtime"
+        },
+        {
+          "id": "b",
+          "text": "Mẹo luôn làm app nhanh"
+        },
+        {
+          "id": "c",
+          "text": "Cách persist database"
+        },
+        {
+          "id": "d",
+          "text": "Thay thế equals"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "explanation": "Đánh dấu sai có thể khiến runtime tin object không thay đổi và skip sai, gây UI stale."
+    },
+    {
+      "id": "d01-q10",
+      "question": "State nào hợp lý để giữ bằng remember?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Expanded state cục bộ của component"
+        },
+        {
+          "id": "b",
+          "text": "Token đăng nhập dài hạn"
+        },
+        {
+          "id": "c",
+          "text": "Database source of truth"
+        },
+        {
+          "id": "d",
+          "text": "Upload job cần sống sau process death"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "explanation": "remember phù hợp presentation state có lifetime theo composition, không thay thế persistence hoặc background work."
+    },
+    {
+      "id": "d01-q11",
+      "question": "Cách giảm phạm vi recomposition nào đúng về nguyên tắc?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Đọc state gần nơi sử dụng"
+        },
+        {
+          "id": "b",
+          "text": "Đưa mọi state lên root"
+        },
+        {
+          "id": "c",
+          "text": "Gọi Thread.sleep trong body"
+        },
+        {
+          "id": "d",
+          "text": "Dùng index làm key"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "explanation": "State read tracking invalidates scope đọc state; hoãn read xuống boundary nhỏ hơn có thể giảm phạm vi."
+    },
+    {
+      "id": "d01-q12",
+      "question": "Metric nào đáng tin hơn để đánh giá performance UI?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Frame time và jank cùng profiling"
+        },
+        {
+          "id": "b",
+          "text": "Số dòng Kotlin"
+        },
+        {
+          "id": "c",
+          "text": "Số @Composable"
+        },
+        {
+          "id": "d",
+          "text": "Chỉ số recomposition đơn lẻ"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "explanation": "Recomposition count chỉ là tín hiệu. User cảm nhận frame time/jank; cần profiling layout, draw, allocation và work trong body."
     }
   ]
 }

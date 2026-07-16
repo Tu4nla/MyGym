@@ -215,8 +215,8 @@
           "code": "D01",
           "title": "Declarative UI và Compose Runtime",
           "path": "data/lessons/d/d01.json",
-          "estimatedMinutes": 120,
-          "status": "planned"
+          "estimatedMinutes": 360,
+          "status": "published"
         },
         {
           "id": "d02",
