@@ -48,3 +48,15 @@ jobs:
             git commit -m "docs(android): publish C02 C03 C04"
             git push origin HEAD:handbook/c02-c04-deep
           fi
+      - name: Persist validation report
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if [ -f validation-c02-c04.json ]; then
+            git add validation-c02-c04.json
+            if ! git diff --cached --quiet; then
+              git commit -m "ci(android): record C02-C04 validation metrics"
+              git push origin HEAD:handbook/c02-c04-deep
+            fi
+          fi
