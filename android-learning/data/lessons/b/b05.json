@@ -1,1 +1,192 @@
-{}
+{
+  "id": "b05",
+  "code": "B05",
+  "title": "Dispatcher và Thread Pool",
+  "summary": "Hiểu CoroutineDispatcher, thread pool, Dispatchers.Main/IO/Default/Unconfined, limitedParallelism, context switch, starvation và cách chọn execution context theo loại workload trong Android.",
+  "estimatedMinutes": 180,
+  "sections": [
+    {
+      "id": "objectives",
+      "title": "1. Mục tiêu bài học",
+      "blocks": [
+        {"type":"list","items":["Giải thích dispatcher là scheduler abstraction chứ không phải thread.","Phân biệt Main, IO, Default và Unconfined theo workload.","Hiểu thread pool, queue, worker thread, context switching và starvation.","Phân tích I/O-bound, CPU-bound, blocking và suspending work.","Biết khi nào dùng withContext, khi nào dependency phải tự main-safe.","Dùng limitedParallelism để giới hạn tài nguyên thay vì tạo thread pool tùy tiện.","Phân tích một requirement Upzi có network, parsing và UI update.","Trả lời câu hỏi phỏng vấn về dispatcher và thread pool ở mức Middle."]}
+      ]
+    },
+    {
+      "id": "prerequisites",
+      "title": "2. Kiến thức nền cần có",
+      "blocks": [
+        {"type":"list","items":["B01: thread, blocking, non-blocking và concurrency.","B02: suspend function và continuation.","B03: CoroutineScope, Job hierarchy và structured concurrency.","B04: launch, async và withContext."]}
+      ]
+    },
+    {
+      "id": "terms",
+      "title": "3. Thuật ngữ quan trọng",
+      "blocks": [
+        {"type":"table","headers":["Thuật ngữ","Định nghĩa","Ý nghĩa"],"rows":[["CoroutineDispatcher","Thành phần quyết định coroutine được schedule ở execution resource nào","Không nhất thiết ánh xạ 1:1 với một thread"],["Thread pool","Tập worker thread dùng lại để xử lý task","Giảm chi phí tạo/hủy thread"],["Task queue","Hàng đợi công việc chờ worker rảnh","Queue dài có thể tăng latency"],["Context switch","CPU chuyển từ execution context này sang context khác","Có overhead và ảnh hưởng cache locality"],["I/O-bound","Work chủ yếu chờ network, file, database hoặc socket","Có thể chịu nhiều concurrency hơn CPU-bound"],["CPU-bound","Work chủ yếu tiêu thụ CPU như parse lớn, sort, crypto, image processing","Nên giới hạn theo số core"],["Blocking call","Giữ thread trong lúc chờ","Có thể làm cạn pool nếu fan-out lớn"],["Suspending call","Nhường thread khi chờ nếu implementation hỗ trợ","Không đồng nghĩa tự động chạy background"],["Starvation","Task cần chạy nhưng không có worker khả dụng trong thời gian dài","Thường do blocking sai pool hoặc concurrency không giới hạn"],["limitedParallelism","View của dispatcher giới hạn số task chạy song song","Hữu ích để bảo vệ resource cụ thể"]]},
+        {"type":"callout","variant":"warning","title":"Dispatcher không phải thread","content":"Dispatchers.IO không phải một thread tên IO. Nó là policy/scheduler sử dụng một tập worker và có thể cho coroutine chạy trên nhiều thread khác nhau qua các lần resume."}
+      ]
+    },
+    {
+      "id": "mechanism",
+      "title": "4. Cơ chế hoạt động bên trong",
+      "blocks": [
+        {"type":"paragraph","content":"Khi coroutine được resume, dispatcher quyết định enqueue continuation vào đâu. Worker thread lấy task từ queue và thực thi cho tới suspension point, completion hoặc một đoạn code khác chuyển context. Sau suspension, continuation có thể resume trên thread khác nhưng vẫn trong cùng coroutine context về mặt logic."},
+        {"type":"code","language":"text","label":"Luồng khái niệm","content":"Coroutine resume\n  -> Dispatcher.dispatch(...)\n  -> enqueue continuation\n  -> worker thread lấy task\n  -> chạy tới suspension/completion\n  -> continuation được schedule lại khi có kết quả"},
+        {"type":"list","items":["Main dispatcher tích hợp với Android main looper.","Default tối ưu cho CPU-bound work và thường có parallelism gần số CPU core.","IO dành cho blocking I/O với elasticity cao hơn Default.","IO và Default có thể chia sẻ underlying workers; chuyển giữa chúng không bảo đảm đổi thread vật lý.","Unconfined bắt đầu ở caller thread và resume theo thread của suspending function; khó kiểm soát trong production."]}
+      ]
+    },
+    {
+      "id": "dispatchers",
+      "title": "5. Main, IO, Default và Unconfined",
+      "blocks": [
+        {"type":"table","headers":["Dispatcher","Dùng cho","Không nên dùng cho"],"rows":[["Dispatchers.Main","UI state, Compose state, navigation, tương tác View","Network blocking, decode ảnh lớn, sort lớn"],["Dispatchers.IO","Blocking network/file/database API, legacy SDK blocking","CPU loop nặng chỉ vì muốn tránh Main"],["Dispatchers.Default","JSON transform lớn, sorting, diff, crypto, image processing CPU-bound","Blocking socket/file kéo dài"],["Dispatchers.Unconfined","Test hoặc framework-level use case rất đặc biệt","Business code Android thông thường"],["limitedParallelism(n)","Giới hạn đồng thời cho resource cụ thể","Dùng như tối ưu mù quáng không đo lường"]]},
+        {"type":"callout","variant":"purpose","title":"Nguyên tắc chọn","content":"Chọn theo loại workload và contract của dependency, không chọn theo tên layer. Repository không mặc định IO; mapper CPU-heavy có thể cần Default, còn Retrofit suspend API thường đã non-blocking và main-safe."}
+      ]
+    },
+    {
+      "id": "purpose",
+      "title": "6. Mục đích và vấn đề kỹ thuật được giải quyết",
+      "blocks": [
+        {"type":"list","items":["Giữ main thread phản hồi tốt để tránh jank và ANR.","Dùng CPU core hiệu quả mà không tạo quá nhiều thread.","Cô lập blocking I/O khỏi pool CPU-bound.","Giới hạn concurrency để bảo vệ database, backend, socket hoặc file descriptor.","Làm execution contract rõ ràng và testable qua dispatcher injection."]}
+      ]
+    },
+    {
+      "id": "when-to-use",
+      "title": "7. Khi nào cần chuyển dispatcher",
+      "blocks": [
+        {"type":"list","items":["API là blocking và caller có thể chạy trên Main.","Có CPU transform đủ lớn để vượt frame budget.","Một loop hoặc parser không có suspension point.","SDK bên thứ ba không công bố main-safe contract.","Bạn cần giới hạn số tác vụ truy cập resource cùng lúc."]},
+        {"type":"callout","title":"Dấu hiệu thực tế","content":"Frame drop, StrictMode violation, ANR trace có blocking call trên main, CPU spike, queue dài, timeout dây chuyền hoặc số request đồng thời tăng không kiểm soát."}
+      ]
+    },
+    {
+      "id": "when-not-to-use",
+      "title": "8. Khi không nên dùng withContext một cách máy móc",
+      "blocks": [
+        {"type":"list","items":["Bao quanh mọi Retrofit suspend call bằng Dispatchers.IO dù client đã bất đồng bộ.","Chuyển context cho đoạn code vài phép gán nhỏ.","Lồng nhiều withContext IO/Default tạo code khó đọc nhưng không có benefit.","Dùng IO để che giấu CPU work.","Tạo newFixedThreadPoolContext cho từng repository hoặc từng request.","Dùng Unconfined để làm test pass rồi đem vào production."]}
+      ]
+    },
+    {
+      "id": "requirement",
+      "title": "9. Yêu cầu sản phẩm cụ thể",
+      "blocks": [
+        {"type":"callout","variant":"requirement","title":"Requirement — Job Detail Upzi","content":"Màn Job Detail phải tải dữ liệu từ API, đọc saved state local, parse markdown description dài và hiển thị UI trong dưới 300 ms ở điều kiện cache hit. Không được block main thread. Nếu description rất dài, parsing không được làm giật animation chuyển màn hình."}
+      ]
+    },
+    {
+      "id": "analysis",
+      "title": "10. Phân tích dependency, lifecycle, error policy và resource limits",
+      "blocks": [
+        {"type":"list","items":["Retrofit suspend API: nếu dùng OkHttp async adapter thì thường main-safe, không cần ép IO.","Room suspend API: thường tự quản execution context theo implementation; vẫn cần kiểm tra contract.","Markdown parsing lớn: CPU-bound, cân nhắc Default.","UI state mutation: Main dispatcher qua viewModelScope/Compose integration.","Request thuộc ViewModel lifecycle và phải cancel khi screen không còn cần.","Nếu load detail và saved state độc lập, có thể async song song.","Nếu parse description chỉ cần sau detail, dependency là sequential: await detail rồi parse.","Nếu nhiều block markdown, không nên async vô hạn; giới hạn concurrency."]},
+        {"type":"code","language":"kotlin","label":"Thiết kế đề xuất","content":"class LoadJobDetailUseCase(\n    private val repository: JobRepository,\n    private val savedRepository: SavedRepository,\n    private val defaultDispatcher: CoroutineDispatcher\n) {\n    suspend operator fun invoke(id: String): JobDetailUi = coroutineScope {\n        val detailDeferred = async { repository.getJob(id) }\n        val savedDeferred = async { savedRepository.isSaved(id) }\n\n        val detail = detailDeferred.await()\n        val rendered = withContext(defaultDispatcher) {\n            MarkdownParser.parse(detail.description)\n        }\n\n        JobDetailUi(detail, rendered, savedDeferred.await())\n    }\n}"}
+      ]
+    },
+    {
+      "id": "simple-example",
+      "title": "11. Ví dụ code tối giản",
+      "blocks": [
+        {"type":"code","language":"kotlin","label":"Main-safe wrapper cho blocking API","content":"class LegacyFileReader(\n    private val ioDispatcher: CoroutineDispatcher\n) {\n    suspend fun read(path: String): String = withContext(ioDispatcher) {\n        File(path).readText()\n    }\n}"},
+        {"type":"paragraph","content":"Caller không cần biết phải chuyển IO. Class sở hữu blocking dependency nên tự cung cấp main-safe contract."}
+      ]
+    },
+    {
+      "id": "upzi",
+      "title": "12. Ví dụ Upzi và mức độ xác nhận",
+      "blocks": [
+        {"type":"table","headers":["Nội dung","Trạng thái","Ghi chú"],"rows":[["Upzi dùng Coroutines/Flow và ViewModel","confirmed","Được xác nhận từ bối cảnh dự án"],["Job Detail parse markdown trên Default","proposed","Thiết kế khuyến nghị, chưa xác nhận đã triển khai"],["Retrofit suspend call không bọc IO","inferred","Hợp lý nếu dùng async adapter nhưng cần kiểm tra code thực tế"],["Inject dispatcher để test","proposed","Nên áp dụng nếu chưa có"]]},
+        {"type":"callout","variant":"warning","title":"Cách kể khi phỏng vấn","content":"Không nói 'tôi đã chuyển markdown parser sang Default' nếu chưa xác nhận. Có thể nói: 'Với workload parse dài, tôi sẽ profile và chuyển CPU-heavy section sang Default nếu đo thấy ảnh hưởng frame.'"}
+      ]
+    },
+    {
+      "id": "alternatives",
+      "title": "13. Phương án thay thế",
+      "blocks": [
+        {"type":"table","headers":["Phương án","Ưu điểm","Nhược điểm"],"rows":[["withContext(IO/Default)","Rõ ràng, structured, dễ test khi inject","Có thể lạm dụng và tạo context switch thừa"],["Dependency tự main-safe","Caller đơn giản, contract tốt","Cần thiết kế nhất quán"],["Executor riêng","Cô lập resource đặc thù","Tốn thread và lifecycle management"],["limitedParallelism","Giới hạn concurrency mà không quản thread thủ công","Cần hiểu resource bottleneck"],["WorkManager","Phù hợp durable work","Không phù hợp request UI tức thời"]]}
+      ]
+    },
+    {
+      "id": "tradeoffs",
+      "title": "14. Lý do lựa chọn và trade-off",
+      "blocks": [
+        {"type":"list","items":["Ưu tiên dispatcher chuẩn trước khi tạo pool riêng.","Inject dispatcher ở boundary cần test hoặc có blocking/CPU-heavy contract.","limitedParallelism bảo vệ resource nhưng có thể tăng latency hàng đợi.","Pool lớn tăng throughput I/O nhưng tăng memory, scheduling overhead và nguy cơ overload backend.","Context switch cải thiện responsiveness khi đúng workload nhưng không miễn phí."]}
+      ]
+    },
+    {
+      "id": "edge-cases",
+      "title": "15. Edge cases",
+      "blocks": [
+        {"type":"list","items":["Blocking call trong Default làm nghẽn CPU pool.","CPU work trong IO có thể tranh worker với blocking I/O.","Nested withContext cùng dispatcher có thể không đổi thread nhưng vẫn làm contract khó hiểu.","Callback API wrap bằng suspendCancellableCoroutine nhưng callback vẫn chạy trên thread riêng.","Cancellation không dừng native/blocking call nếu API không hỗ trợ interrupt/cancel.","limitedParallelism(1) không thay thế mutex cho mọi bài toán shared state.","ThreadLocal không an toàn nếu giả định coroutine luôn resume cùng thread."]}
+      ]
+    },
+    {
+      "id": "mistakes",
+      "title": "16. Sai lầm thường gặp",
+      "blocks": [
+        {"type":"list","items":["Nghĩ suspend tự động chạy background.","Bọc mọi repository function bằng IO.","Tạo thread pool mới nhưng không close.","Dùng GlobalScope + IO cho fire-and-forget.","Không inject dispatcher nên test phụ thuộc timing thật.","Không giới hạn fan-out blocking requests.","Cập nhật Compose state từ execution context không phù hợp."]}
+      ]
+    },
+    {
+      "id": "interview-basic",
+      "title": "17. Câu hỏi phỏng vấn cơ bản",
+      "blocks": [
+        {"type":"list","items":["CoroutineDispatcher là gì?","Khác nhau giữa Main, IO và Default?","withContext có tạo coroutine mới không?","suspend có đồng nghĩa background không?","Vì sao thread pool được dùng thay vì tạo thread mới?","I/O-bound khác CPU-bound thế nào?"]}
+      ]
+    },
+    {
+      "id": "interview-deep",
+      "title": "18. Câu hỏi xoáy sâu và câu hỏi bẫy",
+      "blocks": [
+        {"type":"list","items":["Dispatchers.IO và Default có luôn dùng thread pool hoàn toàn tách biệt không?","Chuyển từ IO sang Default có chắc chắn đổi thread không?","Retrofit suspend call có cần withContext(IO) không?","limitedParallelism(1) có giống single-thread executor không?","Nếu CPU loop nằm trong IO thì chuyện gì xảy ra?","Tại sao nhiều thread hơn chưa chắc nhanh hơn?"]}
+      ]
+    },
+    {
+      "id": "suggested-answer",
+      "title": "19. Mẫu trả lời gắn với kinh nghiệm",
+      "blocks": [
+        {"type":"callout","variant":"purpose","title":"Mẫu trả lời","content":"Trong Upzi tôi dùng Coroutines/Flow cho UI và networking. Khi chọn dispatcher, tôi không mặc định repository là IO mà nhìn vào workload. Network suspend API nếu đã bất đồng bộ thì có thể gọi từ Main; còn parsing markdown hoặc transform lớn là CPU-bound nên cân nhắc Default. Với blocking SDK hoặc file API, tôi bọc ở boundary bằng withContext(IO) để API main-safe. Nếu fan-out lớn, tôi giới hạn concurrency thay vì tạo coroutine không giới hạn."}
+      ]
+    },
+    {
+      "id": "exercises",
+      "title": "20. Bài tập thực hành",
+      "blocks": [
+        {"type":"list","items":["Viết một main-safe wrapper cho blocking file API.","Benchmark parse JSON 1 MB trên Main và Default.","Tạo 100 blocking tasks rồi so sánh không giới hạn với limitedParallelism(4).","Inject StandardTestDispatcher vào use case và kiểm tra kết quả."]}
+      ]
+    },
+    {
+      "id": "scenario",
+      "title": "21. Bài tập tình huống phỏng vấn",
+      "blocks": [
+        {"type":"paragraph","content":"Một màn hình gọi 20 API song song bằng async(Dispatchers.IO), sau đó parse mỗi response trên IO. App thỉnh thoảng lag và backend trả 429. Hãy phân tích ít nhất bốn vấn đề và đề xuất thiết kế mới có giới hạn concurrency, dispatcher đúng workload, retry policy và cancellation."}
+      ]
+    },
+    {
+      "id": "self-check",
+      "title": "22. Checklist tự đánh giá",
+      "blocks": [
+        {"type":"list","items":["Tôi phân biệt dispatcher và thread.","Tôi phân biệt I/O-bound và CPU-bound.","Tôi biết suspend không tự chuyển background.","Tôi biết khi nào Retrofit suspend không cần IO.","Tôi biết tác hại của blocking Default.","Tôi hiểu starvation và queue latency.","Tôi biết dùng limitedParallelism theo resource.","Tôi inject dispatcher khi cần test.","Tôi không tạo thread pool tùy tiện.","Tôi mô tả Upzi đúng mức confirmed/inferred/proposed."]}
+      ]
+    },
+    {
+      "id": "summary",
+      "title": "23. Tóm tắt cần nhớ",
+      "blocks": [
+        {"type":"list","items":["Dispatcher quyết định scheduling, không phải identity thread cố định.","Main cho UI, IO cho blocking I/O, Default cho CPU-bound.","Suspending không đồng nghĩa background.","Dependency nên tự main-safe khi nó sở hữu blocking implementation.","Context switch có chi phí và không nên dùng máy móc.","Thread pool quá lớn có thể làm hệ thống chậm hơn.","Giới hạn concurrency là một phần của thiết kế resource.","Đo lường trước khi tối ưu."]}
+      ]
+    }
+  ],
+  "quiz": [
+    {"id":"b05-q01","question":"CoroutineDispatcher chủ yếu quyết định điều gì?","options":["Coroutine thuộc ViewModel nào","Continuation được schedule ở execution resource nào","API trả JSON hay XML","Job có parent hay không"],"answerIndex":1,"explanation":"Dispatcher quyết định nơi và cách continuation được schedule."},
+    {"id":"b05-q02","question":"Workload nào phù hợp nhất với Dispatchers.Default?","options":["Blocking socket lâu","Parse và sort dữ liệu CPU-heavy","UI navigation","Chờ callback camera"],"answerIndex":1,"explanation":"Default dành cho CPU-bound work."},
+    {"id":"b05-q03","question":"Suspend function có tự động chạy background không?","options":["Có","Không","Chỉ trên Android 14","Chỉ khi dùng Retrofit"],"answerIndex":1,"explanation":"suspend chỉ cho phép suspension; dispatcher/context mới quyết định scheduling."},
+    {"id":"b05-q04","question":"Vì sao không nên bọc mọi Retrofit suspend call bằng withContext(IO)?","options":["Retrofit không hỗ trợ coroutine","Async adapter thường đã non-blocking và main-safe","IO không có thread","withContext không compile"],"answerIndex":1,"explanation":"Context switch có thể thừa nếu network client đã bất đồng bộ."},
+    {"id":"b05-q05","question":"Blocking call dài trên Dispatchers.Default có nguy cơ gì?","options":["Làm nghẽn CPU pool và gây starvation","Tự chuyển sang IO","Tăng số core CPU","Không có ảnh hưởng"],"answerIndex":0,"explanation":"Blocking giữ worker của pool dành cho CPU work."},
+    {"id":"b05-q06","question":"limitedParallelism(4) giải quyết vấn đề gì?","options":["Bảo đảm đúng 4 thread vật lý","Giới hạn số task chạy song song trên view dispatcher","Làm task sống qua process death","Tự retry lỗi"],"answerIndex":1,"explanation":"Nó giới hạn parallelism logic, không bảo đảm identity của thread."},
+    {"id":"b05-q07","question":"Dispatchers.IO và Default có thể chia sẻ điều gì?","options":["Cùng Job","Underlying worker threads","Cùng lifecycle owner","Cùng exception handler bắt buộc"],"answerIndex":1,"explanation":"Chúng có thể chia sẻ underlying scheduler/workers."},
+    {"id":"b05-q08","question":"Work nào nên chạy trên Main?","options":["Decode ảnh lớn","Update Compose UI state","Đọc file blocking","Sort 1 triệu phần tử"],"answerIndex":1,"explanation":"UI state và interaction thuộc Main."},
+    {"id":"b05-q09","question":"Tại sao nhiều thread hơn chưa chắc nhanh hơn?","options":["Thread không chạy được Kotlin","Tăng scheduling overhead, memory và contention","CPU chỉ cho một thread","Coroutine cấm nhiều thread"],"answerIndex":1,"explanation":"Quá nhiều thread làm tăng overhead và contention."},
+    {"id":"b05-q10","question":"Cách tốt nhất để bọc legacy blocking file API là gì?","options":["GlobalScope.launch","withContext(IO) ở class sở hữu dependency","runBlocking trên Main","Unconfined"],"answerIndex":1,"explanation":"Boundary sở hữu blocking API nên cung cấp main-safe suspend contract."},
+    {"id":"b05-q11","question":"Unconfined phù hợp nhất với trường hợp nào?","options":["Business code Android mặc định","Use case rất đặc biệt hoặc test/framework","Mọi network call","Compose animation"],"answerIndex":1,"explanation":"Unconfined khó dự đoán thread resume và không nên là lựa chọn mặc định."},
+    {"id":"b05-q12","question":"Khi nào nên profile trước khi chuyển sang Default?","options":["Đoạn transform có khả năng ảnh hưởng frame hoặc CPU","Mọi phép gán biến","Mọi suspend call","Mọi function repository"],"answerIndex":0,"explanation":"Chỉ chuyển khi workload đủ lớn hoặc đo thấy ảnh hưởng đáng kể."}
+  ]
+}
