@@ -1,0 +1,227 @@
+{
+  "id": "c02",
+  "code": "C02",
+  "title": "Cold Flow",
+  "summary": "Hiểu đầy đủ semantics của cold Flow: producer chỉ chạy khi collect, mỗi collector có execution riêng, exception/completion/cancellation truyền theo pipeline, context preservation, flowOn, flow builder transparency, duplicate upstream work và cách chuyển cold stream thành shared state có chủ đích.",
+  "estimatedMinutes": 300,
+  "sections": [
+    {
+      "id": "objectives",
+      "title": "1. Mục tiêu bài học",
+      "blocks": [
+        {"type":"paragraph","content":"Cold Flow thường được giới thiệu bằng một câu ngắn: code trong flow { } chỉ chạy khi collect. Điều đó đúng nhưng chưa đủ. Để dùng đúng trong production, bạn phải hiểu mỗi collector tạo execution riêng, exception và cancellation đi theo call chain nào, context được giữ ra sao, side effect nào bị lặp, và lúc nào cần share upstream."},
+        {"type":"list","items":["Giải thích lazy execution và per-collector execution của cold Flow.","Phân tích emit/collect tuần tự, suspension, context preservation và exception transparency.","Phân biệt flow, flowOf, asFlow và suspend one-shot API.","Dự đoán behavior khi có nhiều collector, cancellation, retry và completion.","Tránh duplicate network request hoặc duplicate listener do collect nhiều lần.","Thiết kế repository API cold Flow có contract rõ và chuyển sang stateIn/shareIn có chủ đích."]}
+      ]
+    },
+    {
+      "id": "prerequisites",
+      "title": "2. Kiến thức nền",
+      "blocks": [
+        {"type":"paragraph","content":"Bạn cần hiểu coroutine, suspend function, structured concurrency, dispatcher, cancellation và exception handling. Cold Flow không tạo một hệ concurrency tách biệt; collection chạy trong coroutine của collector và kế thừa lifetime từ scope đang collect."},
+        {"type":"list","items":["C01: producer, collector, cold/hot, backpressure và lifecycle.","B06-B08: cancellation, exception propagation và scope semantics.","B10: TestScope và controlled fake để test Flow deterministic."]}
+      ]
+    },
+    {
+      "id": "terminology",
+      "title": "3. Thuật ngữ cốt lõi",
+      "blocks": [
+        {"type":"table","headers":["Thuật ngữ","Giải thích"],"rows":[["Cold Flow","Flow mà producer được khởi động riêng cho từng collector."],["Flow builder","Hàm như flow { } tạo recipe phát dữ liệu; block chưa chạy tại thời điểm khai báo."],["Collection","Việc thực thi pipeline bằng collect, first, single, toList hoặc terminal operator khác."],["Terminal operator","Operator bắt đầu collection và trả kết quả hoặc side effect cuối."],["Intermediate operator","Operator như map/filter tạo Flow mới nhưng chưa chạy cho tới terminal collection."],["Emission","Một giá trị được emit từ upstream và truyền qua pipeline."],["Context preservation","Upstream không tự ý đổi context collector; flowOn chỉ thay context phần upstream trước nó."],["Exception transparency","Flow không được emit sau khi downstream đã throw; lỗi phải được propagate/catch đúng boundary."],["Completion","Producer kết thúc bình thường; collector kết thúc sau emission cuối."],["Cancellation","Collector coroutine bị cancel thì producer và pipeline cùng nhận cancellation."],["Re-collection","Collect lại cùng cold Flow sẽ chạy producer lại từ đầu."],["Side effect","Network call, DB write, analytics hoặc listener registration có thể bị lặp qua mỗi collection."]]}
+      ]
+    },
+    {
+      "id": "lazy-execution",
+      "title": "4. Lazy execution: khai báo Flow chưa chạy producer",
+      "blocks": [
+        {"type":"code","language":"kotlin","label":"Flow chỉ là recipe cho tới khi collect","content":"val users: Flow<List<User>> = flow {\n    println("call API")\n    emit(api.loadUsers())\n}\n\nprintln("flow created")\n// Chưa có request\n\nusers.collect { value -> println(value) }\n// Lúc này mới in call API"},
+        {"type":"paragraph","content":"flow { } trả về một object mô tả cách collect, không launch coroutine và không gọi API ngay. Terminal operator là điểm bắt đầu execution. Điều này làm Flow composable: bạn có thể nối map/filter mà chưa tốn tài nguyên, rồi outer layer quyết định scope và thời điểm collect."},
+        {"type":"paragraph","content":"Lazy semantics cũng tạo rủi ro hiểu nhầm. Một repository function trả Flow nhưng caller không collect thì không có side effect. Nếu business command bắt buộc phải chạy dù không có observer, cold Flow không phải abstraction phù hợp; suspend command hoặc durable worker rõ hơn."}
+      ]
+    },
+    {
+      "id": "per-collector",
+      "title": "5. Mỗi collector tạo một execution riêng",
+      "blocks": [
+        {"type":"code","language":"kotlin","label":"Hai collector, hai producer execution","content":"val jobs = flow {\n    println("request")\n    emit(api.searchJobs())\n}\n\nlaunch { jobs.collect() }\nlaunch { jobs.collect() }\n// request có thể được in hai lần"},
+        {"type":"paragraph","content":"Hai collector không tự chia sẻ result. Mỗi collection chạy block flow riêng, có local variable riêng và có thể tạo side effect riêng. Đây là semantics quan trọng nhất khi repository trả cold Flow gọi network: UI collect ở hai nơi có thể tạo hai request."},
+        {"type":"paragraph","content":"Per-collector isolation đôi khi là điều mong muốn. Ví dụ Flow đọc file và parse theo request riêng, hoặc query phụ thuộc parameter của caller. Nhưng nếu upstream đắt và nhiều consumer cần cùng latest state, hãy share có chủ đích ở owner scope thay vì hy vọng cold Flow tự cache."}
+      ]
+    },
+    {
+      "id": "sequential-pipeline",
+      "title": "6. Emit và collect mặc định chạy tuần tự",
+      "blocks": [
+        {"type":"paragraph","content":"Trong pipeline không buffer, emit chỉ hoàn tất khi downstream xử lý emission đó xong. Producer và collector không chạy tự do trên hai thread khác nhau. Điều này tạo backpressure tự nhiên và giúp reasoning đơn giản: item thứ hai không vượt qua item thứ nhất."},
+        {"type":"code","language":"kotlin","label":"Thứ tự thực thi","content":"flow {\n    emit(1)\n    emit(2)\n}\n.map { value -> value * 10 }\n.collect { value ->\n    delay(1_000)\n    println(value)\n}"},
+        {"type":"paragraph","content":"Nếu collector chậm một giây, emit tiếp theo cũng bị giữ lại. Thêm buffer sẽ tạo queue boundary và cho upstream chạy trước; đó là thay đổi semantics, không chỉ optimization. Cần phân tích memory và stale work trước khi buffer."}
+      ]
+    },
+    {
+      "id": "context-preservation",
+      "title": "7. Context preservation và flowOn",
+      "blocks": [
+        {"type":"paragraph","content":"Flow tuân thủ context preservation: code downstream collect chạy trong context của collector, còn upstream không được tự withContext sang context khác rồi emit trực tiếp. flowOn là operator chuẩn để chuyển context cho upstream trước nó mà không đổi downstream context."},
+        {"type":"code","language":"kotlin","label":"flowOn chỉ ảnh hưởng upstream","content":"repository.observeUsers()\n    .map { users -> users.sortedBy(User::name) }\n    .flowOn(Dispatchers.Default)\n    .collect { users ->\n        render(users) // context của collector, thường Main\n    }"},
+        {"type":"paragraph","content":"Trong ví dụ, source và map trước flowOn chạy trên Default; collect vẫn ở context caller. Nếu có map khác sau flowOn, map đó chạy cùng collector. flowOn có thể tạo channel boundary, nên cancellation, buffering và ordering cần được hiểu khi pipeline phức tạp."},
+        {"type":"callout","variant":"warning","title":"Không emit từ context tùy ý trong flow","content":"withContext(Dispatchers.IO) { emit(value) } trong flow builder vi phạm flow invariant. Hãy chuyển blocking work bằng flowOn hoặc gọi suspend API đã main-safe rồi emit trong context hiện tại."}
+      ]
+    },
+    {
+      "id": "exception-transparency",
+      "title": "8. Exception transparency và catch boundary",
+      "blocks": [
+        {"type":"paragraph","content":"Exception từ producer hoặc intermediate operator đi xuống terminal collector. catch chỉ bắt exception phát sinh ở upstream trước catch; nó không bắt exception ném trong collector downstream. Điều này giúp lỗi thuộc layer nào được xử lý ở boundary tương ứng."},
+        {"type":"code","language":"kotlin","label":"catch chỉ bắt upstream","content":"flow { emit(api.load()) }\n    .map(::transform)\n    .catch { error -> emit(fallback(error)) }\n    .collect { value ->\n        render(value) // render throw không bị catch ở trên\n    }"},
+        {"type":"paragraph","content":"CancellationException phải được propagate. catch operator thường không catch cancellation thông thường theo semantics coroutine, nhưng nếu bạn dùng catch rộng trong suspend code hoặc runCatching, hãy bảo đảm không biến cancellation thành fallback/error state."},
+        {"type":"paragraph","content":"Exception transparency còn có nghĩa không emit thêm sau khi downstream đã throw. Muốn fallback, dùng catch/onCompletion hoặc thiết kế data state rõ; không bọc emit trong try/catch rồi tiếp tục phát bất chấp downstream failure."}
+      ]
+    },
+    {
+      "id": "completion",
+      "title": "9. Completion, onCompletion và finite Flow",
+      "blocks": [
+        {"type":"paragraph","content":"Cold Flow có thể finite hoặc infinite. flowOf(1,2,3) complete sau item cuối. Room Flow thường sống cho tới collector cancel. onCompletion được gọi khi upstream complete bình thường, fail hoặc cancel; cause giúp phân biệt."},
+        {"type":"code","language":"kotlin","label":"Theo dõi completion","content":"source\n    .onCompletion { cause ->\n        when {\n            cause == null -> log("completed")\n            cause is CancellationException -> log("cancelled")\n            else -> log("failed", cause)\n        }\n    }\n    .collect(::render)"},
+        {"type":"paragraph","content":"Không nên dùng onCompletion như finally để emit UI error tùy tiện, vì emission khi downstream cancel có thể thất bại. Cleanup resource thuộc producer nên đặt trong try/finally hoặc awaitClose đối với callbackFlow."}
+      ]
+    },
+    {
+      "id": "cancellation",
+      "title": "10. Cancellation propagation",
+      "blocks": [
+        {"type":"paragraph","content":"Collection là suspend call thuộc coroutine collector. Khi scope bị cancel, collect bị cancel và cancellation truyền lên producer. delay, emit và các suspend API cancellable phản ứng tự nhiên; blocking call không cancellable có thể tiếp tục giữ thread."},
+        {"type":"code","language":"kotlin","label":"Collector cancel thì producer dừng","content":"val job = viewModelScope.launch {\n    repository.observeUpdates().collect(::reduce)\n}\n\njob.cancel()\n// upstream nhận cancellation theo structured concurrency"},
+        {"type":"paragraph","content":"Flow không tự sống theo lifecycle Android. Nếu collect trong một scope sống quá lâu, producer cũng sống lâu. UI nên collect bằng repeatOnLifecycle hoặc collectAsStateWithLifecycle; ViewModel-owned pipeline có thể dùng stateIn trong viewModelScope."}
+      ]
+    },
+    {
+      "id": "purpose",
+      "title": "11. Mục đích và vấn đề kỹ thuật được giải quyết",
+      "blocks": [
+        {"type":"paragraph","content":"Cold Flow phù hợp khi muốn mô tả một pipeline lazy, tái sử dụng được và mỗi caller tự sở hữu collection. Nó đặc biệt phù hợp với Room query, DataStore và transformation không cần producer global."},
+        {"type":"list","items":["Trì hoãn work cho tới khi có consumer.","Gắn lifetime producer với collector bằng structured cancellation.","Compose transformation mà chưa chạy side effect.","Cho mỗi caller execution độc lập.","Biểu diễn nhiều emission từ source cold như Room query."]}
+      ]
+    },
+    {
+      "id": "when-to-use",
+      "title": "12. Khi nên dùng cold Flow",
+      "blocks": [
+        {"type":"paragraph","content":"Dùng cold Flow khi source tự nhiên được khởi động theo subscriber và mỗi subscriber có thể sở hữu execution riêng. Room DAO Flow là ví dụ điển hình: collection đăng ký observer, cancellation unregister observer."},
+        {"type":"list","items":["Query database phát lại khi dữ liệu đổi.","Pipeline transformation lazy.","Đọc file/chunk theo collection.","API cache-then-network có contract nhiều emission và mỗi caller độc lập.","Repository observation mà owner bên ngoài quyết định share hay không."]}
+      ]
+    },
+    {
+      "id": "when-not-to-use",
+      "title": "13. Khi không nên dùng cold Flow",
+      "blocks": [
+        {"type":"paragraph","content":"Nếu operation chỉ trả một kết quả, suspend function thường đơn giản hơn. Nếu producer phải tồn tại độc lập subscriber như socket session, cold Flow trực tiếp có thể tạo kết nối mới cho mỗi collector; cần hot owner hoặc sharing layer."},
+        {"type":"list","items":["Command bắt buộc chạy dù không có collector.","One-shot API không cần nhiều emission.","App-wide connection cần một producer duy nhất.","Event bus global không có owner.","Side effect không idempotent có thể bị lặp khi recollect."]}
+      ]
+    },
+    {
+      "id": "requirement",
+      "title": "14. Yêu cầu sản phẩm cụ thể: Job Detail cache + network",
+      "blocks": [
+        {"type":"callout","variant":"purpose","title":"Requirement","content":"Mở Job Detail phải hiển thị cache ngay nếu có, sau đó refresh network và cập nhật dữ liệu mới. Rời màn hình phải cancel refresh nếu không còn giá trị. Hai collector UI không được vô tình tạo hai request nếu requirement chỉ muốn một refresh chung."},
+        {"type":"paragraph","content":"Có hai contract khả dĩ. Contract A: repository trả Flow emit cache rồi gọi network cho mỗi collector; caller chấp nhận execution độc lập. Contract B: repository chỉ expose Room Flow, refresh là suspend command riêng do ViewModel gọi một lần. Contract B thường rõ hơn vì observation và side effect refresh tách biệt."},
+        {"type":"paragraph","content":"Nếu muốn share refresh, owner phải rõ: ViewModel stateIn có thể share pipeline cho nhiều UI collector. Không nên giấu global cache/share trong repository mà không document lifetime và invalidation."}
+      ]
+    },
+    {
+      "id": "analysis",
+      "title": "15. Phân tích dependency, error policy, lifecycle và resource limits",
+      "blocks": [
+        {"type":"table","headers":["Khía cạnh","Quyết định"],"rows":[["Source","Room Flow là observation; refresh API là suspend command tách riêng."],["Lifecycle","ViewModel sở hữu refresh và stateIn; UI collect theo lifecycle."],["Error","Cache vẫn hiển thị khi refresh fail; refresh error là metadata, không terminate DB observation."],["Cancellation","Rời screen cancel refresh ViewModel nếu ViewModel bị clear; config change policy tùy navigation owner."],["Multiple collectors","UI dùng chung StateFlow từ ViewModel, tránh collect cold network flow hai lần."],["Resource","distinctUntilChanged cho entity; tránh emit/copy payload lớn không đổi."],["Persistence","Network success ghi Room transaction; UI nhận update qua DB source of truth."],["Testing","Assert cache emission, refresh success/fail, cancellation và số API call."]]}
+      ]
+    },
+    {
+      "id": "repository-design",
+      "title": "16. Thiết kế repository: observation và command tách biệt",
+      "blocks": [
+        {"type":"code","language":"kotlin","label":"Repository contract rõ ràng","content":"interface JobRepository {\n    fun observeJob(id: String): Flow<Job?>\n    suspend fun refreshJob(id: String)\n}\n\nclass JobRepositoryImpl(\n    private val dao: JobDao,\n    private val api: JobApi\n) : JobRepository {\n    override fun observeJob(id: String): Flow<Job?> =\n        dao.observeById(id).map { it?.toDomain() }\n\n    override suspend fun refreshJob(id: String) {\n        val remote = api.getJob(id)\n        dao.upsert(remote.toEntity())\n    }\n}"},
+        {"type":"paragraph","content":"observeJob là cold Flow không side effect network; mỗi collector chỉ đăng ký Room observer. refreshJob là command một lần, caller quyết định khi nào chạy và retry thế nào. UI state kết hợp observation với refresh metadata trong ViewModel."},
+        {"type":"paragraph","content":"Thiết kế này tránh vấn đề recollect do lifecycle tạo network request lại. Nếu requirement thực sự là mỗi collection phải refresh, có thể dùng onStart, nhưng phải document và test multiple collectors."}
+      ]
+    },
+    {
+      "id": "builder-choices",
+      "title": "17. flow, flowOf, asFlow và channel-based builder",
+      "blocks": [
+        {"type":"table","headers":["Builder","Dùng khi","Lưu ý"],"rows":[["flow { }","Producer suspend tuần tự","Không emit từ context khác; phù hợp cold pipeline"],["flowOf","Một số giá trị có sẵn","Finite, synchronous recipe"],["Iterable.asFlow","Chuyển collection thành emissions","Không tự background"],["callbackFlow","Bridge callback đa thread","Cần awaitClose và capacity policy"],["channelFlow","Nhiều child coroutine emit concurrent","Phức tạp hơn; cần structured design"]]},
+        {"type":"paragraph","content":"Đừng chọn callbackFlow chỉ vì API trả nhiều item. Nếu producer đã là suspend tuần tự, flow builder đơn giản hơn và giữ backpressure tự nhiên. channelFlow phù hợp khi cần fan-in từ nhiều child coroutine nhưng cần hiểu ordering và buffer."}
+      ]
+    },
+    {
+      "id": "retry",
+      "title": "18. Retry, repeat collection và side effect",
+      "blocks": [
+        {"type":"paragraph","content":"retry/retryWhen chạy lại upstream cold producer. Điều này nghĩa network call, listener registration hoặc local side effect trước điểm failure có thể được thực hiện lại. Chỉ retry operation idempotent hoặc có policy duplicate rõ."},
+        {"type":"code","language":"kotlin","label":"Retry có điều kiện","content":"flow { emit(api.loadJobs()) }\n    .retryWhen { cause, attempt ->\n        val retryable = cause is IOException && attempt < 2\n        if (retryable) delay(1_000L shl attempt.toInt())\n        retryable\n    }"},
+        {"type":"paragraph","content":"Re-collection do lifecycle và retry đều chạy producer lại nhưng nguyên nhân khác nhau. Đừng nhầm share/cache với retry. Một Flow cold gọi POST mutation không idempotent là design nguy hiểm vì collector/retry có thể lặp side effect."}
+      ]
+    },
+    {
+      "id": "upzi-case",
+      "title": "19. Case study Upzi và mức độ xác nhận",
+      "blocks": [
+        {"type":"callout","variant":"purpose","title":"confirmed","content":"Upzi có Job Detail, search, paging, chat và các repository/ViewModel coroutine. Job Detail là domain phù hợp để phân tách observation cache và refresh network."},
+        {"type":"callout","title":"inferred","content":"Có thể suy luận dữ liệu job detail được load qua repository và UI state, nhưng Room Flow/cache topology cụ thể chưa được xác nhận."},
+        {"type":"callout","title":"proposed","content":"Đề xuất repository expose observeJob(id): Flow<Job?> từ local source và refreshJob(id) suspend command. ViewModel share state bằng stateIn và chỉ trigger refresh một lần theo policy."},
+        {"type":"callout","variant":"warning","title":"needs-confirmation","content":"Cần xác nhận Upzi hiện có Room cache cho Job Detail hay chỉ network one-shot; không được kể proposed cache-first Flow như đã triển khai nếu chưa có source chứng minh."}
+      ]
+    },
+    {
+      "id": "alternatives",
+      "title": "20. Phương án thay thế và trade-off",
+      "blocks": [
+        {"type":"table","headers":["Phương án","Ưu điểm","Trade-off"],"rows":[["Suspend one-shot","Contract đơn giản","Không observe update"],["Cold Flow cache+network cùng block","API gọn","Recollect/multi-collector có thể lặp request"],["Observe Flow + refresh command","Ownership side effect rõ","Caller phải orchestration hai API"],["stateIn ở ViewModel","Share latest UI state","Cần scope/SharingStarted policy"],["shareIn repository","Dùng chung upstream rộng hơn","Lifetime/invalidation khó hơn nếu scope quá dài"]]},
+        {"type":"paragraph","content":"Không có mẫu duy nhất. Quyết định phải dựa trên source of truth, số collector, lifecycle và side effect. Tách observation/command thường dễ reasoning nhất cho cache-network architecture."}
+      ]
+    },
+    {
+      "id": "edge-cases",
+      "title": "21. Edge cases và sai lầm thường gặp",
+      "blocks": [
+        {"type":"list","items":["Hai collector tạo hai request ngoài ý muốn.","Lifecycle stop/start recollect và chạy onStart network lại.","flowOn đặt sai vị trí khiến CPU work vẫn chạy Main.","withContext rồi emit vi phạm Flow invariant.","catch đặt sau/before operator sai boundary.","Nuốt CancellationException thành fallback.","retry lặp POST side effect không idempotent.","onCompletion emit khi cancellation và gây lỗi thứ cấp.","Blocking SDK trong flow giữ thread dù collector cancel.","stateIn scope quá dài giữ upstream không cần thiết."]},
+        {"type":"paragraph","content":"Sai lầm gốc thường là không viết contract. Nếu không biết producer có được chạy lại không, nhiều collector có chia sẻ không và side effect có idempotent không, code có thể chạy đúng demo nhưng sai khi lifecycle thay đổi."}
+      ]
+    },
+    {
+      "id": "interview",
+      "title": "22. Câu hỏi phỏng vấn và hướng trả lời",
+      "blocks": [
+        {"type":"table","headers":["Câu hỏi","Điểm cần trả lời"],"rows":[["Cold Flow là gì?","Producer khởi động theo từng collection; lazy và per-collector execution."],["Khai báo flow có chạy ngay không?","Không; terminal operator mới bắt đầu."],["Hai collector thì sao?","Hai execution/upstream riêng, có thể duplicate side effect."],["flowOn ảnh hưởng đâu?","Upstream trước operator; downstream giữ collector context."],["catch bắt collector exception không?","Không; catch chỉ xử lý upstream trước nó."],["Cancellation truyền thế nào?","Collector cancel thì pipeline/upstream cancel theo structured concurrency."],["Khi nào stateIn?","Khi cần share cold upstream thành hot state trong owner scope rõ."],["retry có rủi ro gì?","Chạy lại upstream và side effect; cần idempotency/policy."]]}
+      ]
+    },
+    {
+      "id": "experience-practice",
+      "title": "23. Mẫu trả lời, bài tập và checklist",
+      "blocks": [
+        {"type":"paragraph","content":"Mẫu trả lời: Tôi coi cold Flow là recipe lazy chạy riêng cho mỗi collector. Vì vậy trước khi trả Flow từ repository tôi kiểm tra upstream có side effect không và nhiều collector có tạo duplicate work không. Với cache-network, tôi thường tách observe local Flow và refresh suspend command; ViewModel stateIn để share state cho UI."},
+        {"type":"paragraph","content":"Bài tập 1: viết Flow in log khi producer chạy, collect hai lần và chứng minh producer chạy hai lần. Bài tập 2: tạo Job Detail observe+refresh, test lifecycle recollect không gọi API lại ngoài policy. Bài tập 3: đặt map trước/sau flowOn và log thread để giải thích context."},
+        {"type":"list","items":["Tôi biết terminal operator nào bắt đầu collection.","Tôi biết mỗi collector có execution riêng.","Tôi xác định side effect có bị lặp không.","Tôi hiểu flowOn boundary.","Tôi không nuốt cancellation.","Tôi biết khi nào tách observation và command.","Tôi có test multiple collectors và recollection."]}
+      ]
+    },
+    {
+      "id": "summary-quiz",
+      "title": "24. Tóm tắt cần nhớ và quiz",
+      "blocks": [
+        {"type":"callout","variant":"purpose","title":"Tóm tắt","content":"Cold Flow là pipeline lazy và per-collector. Collection sở hữu producer lifetime; pipeline mặc định tuần tự; flowOn đổi upstream context; exception/cancellation truyền theo structured call chain. Nhiều collector hoặc retry có thể lặp side effect, vì vậy sharing và repository contract phải có chủ đích."},
+        {"type":"paragraph","content":"Quiz bên dưới kiểm tra semantics và design reasoning thay vì chỉ syntax."}
+      ]
+    }
+  ],
+  "quiz": [
+    {"id":"c02-q01","question":"Khi nào block trong flow { } bắt đầu chạy?","options":["Khi khai báo Flow","Khi có terminal collection","Khi app start","Khi compile"],"answerIndex":1,"explanation":"Cold Flow lazy; terminal operator như collect/first mới thực thi producer."},
+    {"id":"c02-q02","question":"Hai collector trên cùng cold Flow thường tạo gì?","options":["Một execution chung","Hai producer execution riêng","Không producer nào","Compile error"],"answerIndex":1,"explanation":"Cold Flow chạy block riêng cho mỗi collection."},
+    {"id":"c02-q03","question":"Pipeline Flow không buffer xử lý emission thế nào?","options":["Producer luôn chạy trước vô hạn","Tuần tự, emit chờ downstream xử lý","Luôn drop item","Luôn chạy nhiều thread"],"answerIndex":1,"explanation":"Sequential suspension tạo backpressure tự nhiên."},
+    {"id":"c02-q04","question":"flowOn ảnh hưởng phần nào?","options":["Toàn bộ collector downstream","Upstream trước flowOn","Chỉ terminal operator","Không phần nào"],"answerIndex":1,"explanation":"flowOn chuyển context upstream và giữ downstream context của collector."},
+    {"id":"c02-q05","question":"catch operator có bắt exception ném trong collect downstream không?","options":["Có","Không","Chỉ Main","Chỉ IOException"],"answerIndex":1,"explanation":"catch chỉ bắt exception từ upstream trước nó."},
+    {"id":"c02-q06","question":"Collector bị cancel thì upstream cold Flow thường thế nào?","options":["Tiếp tục vĩnh viễn","Bị cancel theo structured concurrency","Tự chuyển GlobalScope","Luôn retry"],"answerIndex":1,"explanation":"Collection và producer nằm trong cùng coroutine call chain."},
+    {"id":"c02-q07","question":"Vì sao cold Flow gọi network có thể nguy hiểm với nhiều collector?","options":["Vì không hỗ trợ HTTP","Vì mỗi collector có thể tạo request riêng","Vì Flow luôn cache","Vì collect chỉ chạy Main"],"answerIndex":1,"explanation":"Per-collector execution lặp side effect nếu không share hoặc tách command."},
+    {"id":"c02-q08","question":"Repository cache-network thường rõ ràng với contract nào?","options":["Observe local Flow và refresh suspend command","Global SharedFlow cho mọi thứ","POST trong flow retry vô hạn","UI gọi DAO trực tiếp"],"answerIndex":0,"explanation":"Tách observation và side-effect command làm ownership/recollection rõ."},
+    {"id":"c02-q09","question":"retry trên cold Flow làm gì?","options":["Tiếp tục từ emission cuối","Chạy lại upstream producer","Chỉ retry collector","Biến Flow thành hot"],"answerIndex":1,"explanation":"retry re-collect upstream, nên side effect có thể lặp."},
+    {"id":"c02-q10","question":"Khi nào stateIn phù hợp?","options":["Khi cần share cold upstream thành latest state trong scope rõ","Mọi suspend function","Để tránh JSON parse","Để tạo database"],"answerIndex":0,"explanation":"stateIn tạo hot StateFlow và cần owner scope/sharing policy."},
+    {"id":"c02-q11","question":"withContext rồi emit trực tiếp trong flow builder có thể gây gì?","options":["Flow invariant violation","Tự buffer","Tự retry","Không vấn đề"],"answerIndex":0,"explanation":"Flow context preservation không cho emit tùy context; dùng flowOn."},
+    {"id":"c02-q12","question":"Một command POST không idempotent có nên bọc trong cold Flow dễ retry/recollect không?","options":["Nên luôn","Không nên nếu chưa có duplicate policy","Chỉ khi Main","Chỉ khi flowOf"],"answerIndex":1,"explanation":"Retry hoặc recollect có thể lặp side effect server."}
+  ]
+}
