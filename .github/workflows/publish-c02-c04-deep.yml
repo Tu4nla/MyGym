@@ -10,6 +10,16 @@ on:
       - android-learning/data/lessons/c/c04.json
       - scripts/publish_c02_c04_deep.py
       - .github/workflows/publish-c02-c04-deep.yml
+  pull_request:
+    branches:
+      - main
+    types: [opened, synchronize]
+    paths:
+      - android-learning/data/lessons/c/c02.json
+      - android-learning/data/lessons/c/c03.json
+      - android-learning/data/lessons/c/c04.json
+      - scripts/publish_c02_c04_deep.py
+      - .github/workflows/publish-c02-c04-deep.yml
   workflow_dispatch:
 
 permissions:
