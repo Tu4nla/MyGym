@@ -4,19 +4,15 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / "android-learning" / "data"
 LESSONS = ["c02", "c03", "c04"]
+REPORT_PATH = ROOT / "validation-c02-c04.json"
 
 loaded = {}
+report = {}
 for lesson_id in LESSONS:
     path = DATA / "lessons" / "c" / f"{lesson_id}.json"
-    assert path.exists(), path
     lesson = json.loads(path.read_text())
     loaded[lesson_id] = lesson
-
-    assert lesson["id"] == lesson_id
-    assert len(lesson["sections"]) == 24
     section_ids = [section["id"] for section in lesson["sections"]]
-    assert len(section_ids) == len(set(section_ids))
-
     paragraphs = [
         block["content"]
         for section in lesson["sections"]
@@ -29,16 +25,35 @@ for lesson_id in LESSONS:
         for block in section.get("blocks", [])
         if block.get("type") == "code"
     ]
-    assert len(paragraphs) >= 22, (lesson_id, len(paragraphs))
-    assert sum(len(text) for text in paragraphs) >= 8500, lesson_id
-    assert len(code_blocks) >= 4, (lesson_id, len(code_blocks))
+    quiz = lesson.get("quiz", [])
+    report[lesson_id] = {
+        "sections": len(lesson["sections"]),
+        "uniqueSectionIds": len(set(section_ids)),
+        "paragraphs": len(paragraphs),
+        "paragraphCharacters": sum(len(text) for text in paragraphs),
+        "codeBlocks": len(code_blocks),
+        "quizQuestions": len(quiz),
+        "quizAnswersValid": all(
+            len(question.get("options", [])) >= 2
+            and any(key in question for key in ("answerIndex", "answerIndexes", "correctOptionIds"))
+            and bool(question.get("explanation", "").strip())
+            for question in quiz
+        ),
+    }
 
-    quiz = lesson["quiz"]
-    assert len(quiz) >= 10
-    for question in quiz:
-        assert len(question.get("options", [])) >= 2
-        assert any(key in question for key in ("answerIndex", "answerIndexes", "correctOptionIds"))
-        assert question.get("explanation", "").strip()
+REPORT_PATH.write_text(json.dumps(report, ensure_ascii=False, indent=2) + "\n")
+print(json.dumps(report, ensure_ascii=False, indent=2))
+
+for lesson_id, lesson in loaded.items():
+    metrics = report[lesson_id]
+    assert lesson["id"] == lesson_id
+    assert metrics["sections"] == 24, (lesson_id, metrics)
+    assert metrics["uniqueSectionIds"] == 24, (lesson_id, metrics)
+    assert metrics["paragraphs"] >= 22, (lesson_id, metrics)
+    assert metrics["paragraphCharacters"] >= 8500, (lesson_id, metrics)
+    assert metrics["codeBlocks"] >= 4, (lesson_id, metrics)
+    assert metrics["quizQuestions"] >= 10, (lesson_id, metrics)
+    assert metrics["quizAnswersValid"], (lesson_id, metrics)
 
 catalog_path = DATA / "catalog.json"
 catalog = json.loads(catalog_path.read_text())
@@ -68,27 +83,9 @@ index_path = DATA / "search-index.json"
 index = json.loads(index_path.read_text())
 assert not any(entry["lessonId"] in LESSONS for entry in index)
 index.extend([
-    {
-        "lessonId": "c02",
-        "code": "C02",
-        "title": "Cold Flow",
-        "keywords": ["cold Flow", "lazy execution", "per collector", "flowOn", "context preservation", "exception transparency", "retryWhen", "stateIn", "multiple collectors", "cache network"],
-        "headings": ["Lazy execution", "Mỗi collector tạo execution riêng", "Emit và collect tuần tự", "Context preservation và flowOn", "Exception transparency", "Cancellation propagation", "Repository observation và command", "Retry và side effect"]
-    },
-    {
-        "lessonId": "c03",
-        "code": "C03",
-        "title": "StateFlow",
-        "keywords": ["StateFlow", "MutableStateFlow", "stateIn", "update", "compareAndSet", "conflation", "immutable UI state", "single owner", "collectAsStateWithLifecycle", "process death"],
-        "headings": ["Hot state holder", "Equality-based conflation", "Immutable state", "Atomic update", "UI state machine", "State và event", "stateIn", "Compose collection"]
-    },
-    {
-        "lessonId": "c04",
-        "code": "C04",
-        "title": "SharedFlow",
-        "keywords": ["SharedFlow", "MutableSharedFlow", "replay", "extraBufferCapacity", "BufferOverflow", "tryEmit", "shareIn", "broadcast", "UI effect", "socket events"],
-        "headings": ["Hot broadcast stream", "Replay", "Buffer và backpressure", "emit và tryEmit", "Subscriber absence", "SharedFlow và StateFlow", "One-time effect", "shareIn"]
-    }
+    {"lessonId":"c02","code":"C02","title":"Cold Flow","keywords":["cold Flow","lazy execution","per collector","flowOn","context preservation","exception transparency","retryWhen","stateIn","multiple collectors","cache network"],"headings":["Lazy execution","Mỗi collector tạo execution riêng","Emit và collect tuần tự","Context preservation và flowOn","Exception transparency","Cancellation propagation","Repository observation và command","Retry và side effect"]},
+    {"lessonId":"c03","code":"C03","title":"StateFlow","keywords":["StateFlow","MutableStateFlow","stateIn","update","compareAndSet","conflation","immutable UI state","single owner","collectAsStateWithLifecycle","process death"],"headings":["Hot state holder","Equality-based conflation","Immutable state","Atomic update","UI state machine","State và event","stateIn","Compose collection"]},
+    {"lessonId":"c04","code":"C04","title":"SharedFlow","keywords":["SharedFlow","MutableSharedFlow","replay","extraBufferCapacity","BufferOverflow","tryEmit","shareIn","broadcast","UI effect","socket events"],"headings":["Hot broadcast stream","Replay","Buffer và backpressure","emit và tryEmit","Subscriber absence","SharedFlow và StateFlow","One-time effect","shareIn"]}
 ])
 index_path.write_text(json.dumps(index, ensure_ascii=False, indent=2) + "\n")
 
