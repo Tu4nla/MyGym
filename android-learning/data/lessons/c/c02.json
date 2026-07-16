@@ -80,7 +80,7 @@
       "title": "9. Completion, onCompletion và finite Flow",
       "blocks": [
         {"type":"paragraph","content":"Cold Flow có thể finite hoặc infinite. flowOf(1,2,3) complete sau item cuối. Room Flow thường sống cho tới collector cancel. onCompletion được gọi khi upstream complete bình thường, fail hoặc cancel; cause giúp phân biệt."},
-        {"type":"code","language":"kotlin","label":"Theo dõi completion","content":"source\n    .onCompletion { cause ->\n        when {\n            cause == null -> log("completed")\n            cause is CancellationException -> log("cancelled")\n            else -> log("failed", cause)\n        }\n    }\n    .collect(::render)"},
+        {"type":"code","language":"kotlin","label":"Theo dõi completion","content":"source\n    .onCompletion { cause ->\n        when {\n            cause == null -> log(\"completed\")\n            cause is CancellationException -> log(\"cancelled\")\n            else -> log(\"failed\", cause)\n        }\n    }\n    .collect(::render)"},
         {"type":"paragraph","content":"Không nên dùng onCompletion như finally để emit UI error tùy tiện, vì emission khi downstream cancel có thể thất bại. Cleanup resource thuộc producer nên đặt trong try/finally hoặc awaitClose đối với callbackFlow."}
       ]
     },

@@ -1,17 +1,29 @@
 {
   "c02": {
-    "parseError": "JSONDecodeError: Expecting ',' delimiter: line 83 column 173 (char 9563)"
+    "sections": 24,
+    "uniqueSectionIds": 24,
+    "paragraphs": 32,
+    "paragraphCharacters": 7704,
+    "codeBlocks": 9,
+    "quizQuestions": 12,
+    "quizAnswersValid": true
   },
   "c03": {
     "sections": 24,
     "uniqueSectionIds": 24,
     "paragraphs": 30,
-    "paragraphCharacters": 10061,
+    "paragraphCharacters": 11684,
     "codeBlocks": 8,
     "quizQuestions": 12,
     "quizAnswersValid": true
   },
   "c04": {
-    "parseError": "JSONDecodeError: Expecting ',' delimiter: line 89 column 315 (char 9482)"
+    "sections": 24,
+    "uniqueSectionIds": 24,
+    "paragraphs": 32,
+    "paragraphCharacters": 7770,
+    "codeBlocks": 7,
+    "quizQuestions": 12,
+    "quizAnswersValid": true
   }
 }

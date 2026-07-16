@@ -86,7 +86,7 @@
       "title": "10. One-time UI effect và acknowledgement",
       "blocks": [
         {"type":"paragraph","content":"Snackbar/navigation thường được phát qua SharedFlow replay=0 trong ViewModel. Pattern này phù hợp khi UI active chắc chắn đang collect và mất effect khi UI absent là chấp nhận được. Nếu effect không được phép mất, cần pending effect state hoặc queue có acknowledgement."},
-        {"type":"code","language":"kotlin","label":"Effect stream read-only","content":"private val _effects = MutableSharedFlow<UiEffect>(\n    replay = 0,\n    extraBufferCapacity = 1\n)\nval effects: SharedFlow<UiEffect> = _effects.asSharedFlow()\n\nfun onSaved() {\n    _effects.tryEmit(UiEffect.ShowSnackbar("Saved"))\n}"},
+        {"type":"code","language":"kotlin","label":"Effect stream read-only","content":"private val _effects = MutableSharedFlow<UiEffect>(\n    replay = 0,\n    extraBufferCapacity = 1\n)\nval effects: SharedFlow<UiEffect> = _effects.asSharedFlow()\n\nfun onSaved() {\n    _effects.tryEmit(UiEffect.ShowSnackbar(\"Saved\"))\n}"},
         {"type":"paragraph","content":"extraBufferCapacity=1 giúp producer không suspend khi collector active tạm chậm, nhưng không bảo đảm effect phát trước subscription được giữ. Requirement phải chấp nhận semantics đó. Với navigation critical, state-driven navigation hoặc acknowledged command có thể đáng tin cậy hơn."}
       ]
     },
