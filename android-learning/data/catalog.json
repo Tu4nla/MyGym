@@ -184,8 +184,8 @@
           "code": "C09",
           "title": "Context và Lifecycle của Flow",
           "path": "data/lessons/c/c09.json",
-          "estimatedMinutes": 120,
-          "status": "planned"
+          "estimatedMinutes": 330,
+          "status": "published"
         },
         {
           "id": "c10",

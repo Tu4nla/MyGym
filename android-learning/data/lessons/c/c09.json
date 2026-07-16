@@ -1,0 +1,903 @@
+{
+  "id": "c09",
+  "code": "C09",
+  "title": "Context và Lifecycle của Flow",
+  "summary": "Phân tích sâu CoroutineContext, flowOn, lifecycle-aware collection, scope ownership, stateIn/shareIn và cách thiết kế producer/collector lifetime an toàn trong Android.",
+  "estimatedMinutes": 330,
+  "sections": [
+    {
+      "id": "objectives",
+      "title": "1. Mục tiêu bài học",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "Flow chỉ an toàn khi ba thứ khớp nhau: context nơi upstream thực thi, lifecycle sở hữu collector và lifecycle sở hữu producer. Bài này giúp bạn nhìn một pipeline không chỉ như chuỗi operator, mà như một topology có coroutine, Job, dispatcher, scope và boundary hủy cụ thể. Sau bài học, bạn phải giải thích được vì sao một Flow vẫn tiếp tục chạy dù UI đã biến mất, vì sao flowOn chỉ đổi context phía upstream, vì sao repeatOnLifecycle tạo lại collection, và vì sao stateIn/shareIn có thể giữ producer sống lâu hơn màn hình."
+        },
+        {
+          "type": "list",
+          "items": [
+            "Phân tích context preservation và flowOn.",
+            "Phân biệt lifecycle của collector, upstream và shared producer.",
+            "Dùng repeatOnLifecycle/collectAsStateWithLifecycle đúng contract.",
+            "Chọn viewModelScope, lifecycleScope, application scope và external scope.",
+            "Thiết kế stateIn/shareIn với SharingStarted phù hợp.",
+            "Nhận diện leak, duplicate collector, lost event, restart storm và stale state."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "prerequisites",
+      "title": "2. Kiến thức nền",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "Bạn cần nắm structured concurrency, CoroutineContext, Job hierarchy, cancellation, cold Flow, StateFlow, SharedFlow, Channel và các operator cơ bản. Đặc biệt, cần hiểu rằng cold Flow không tự chạy khi được tạo; execution bắt đầu ở terminal operator. Với hot stream, producer có thể tồn tại độc lập collector, nên lifecycle của producer và collector là hai vấn đề khác nhau."
+        },
+        {
+          "type": "paragraph",
+          "content": "B06-B10 cung cấp nền tảng về cancellation, exception và testing. C02-C04 giải thích cold/hot stream. C06-C08 giải thích operator và search pipeline. C09 nối các mảnh đó thành một mô hình ownership hoàn chỉnh: ai tạo coroutine, ai giữ Job, điều gì kích hoạt start, điều gì trigger stop, và resource nào được giải phóng khi lifecycle thay đổi."
+        }
+      ]
+    },
+    {
+      "id": "terminology",
+      "title": "3. Định nghĩa và chú giải thuật ngữ",
+      "blocks": [
+        {
+          "type": "table",
+          "headers": [
+            "Thuật ngữ",
+            "Giải thích"
+          ],
+          "rows": [
+            [
+              "CoroutineContext",
+              "Tập hợp Job, dispatcher, name và các element khác gắn với coroutine."
+            ],
+            [
+              "Context preservation",
+              "Flow không cho emit từ context tùy ý; upstream giữ tính tuần tự và context contract."
+            ],
+            [
+              "flowOn",
+              "Chuyển context của phần upstream trước operator, thường bằng coroutine/channel boundary."
+            ],
+            [
+              "Collector lifecycle",
+              "Khoảng thời gian terminal collector còn active."
+            ],
+            [
+              "Producer lifecycle",
+              "Khoảng thời gian nguồn hot hoặc shared upstream còn chạy."
+            ],
+            [
+              "Scope ownership",
+              "Component chịu trách nhiệm tạo và hủy Job."
+            ],
+            [
+              "repeatOnLifecycle",
+              "Khởi chạy block khi lifecycle đạt state yêu cầu, hủy block khi rơi xuống state đó, rồi có thể khởi chạy lại."
+            ],
+            [
+              "launchWhenStarted",
+              "API cũ thường suspend coroutine thay vì hủy collection; dễ giữ upstream hoạt động không cần thiết."
+            ],
+            [
+              "collectAsStateWithLifecycle",
+              "Adapter Compose thu Flow thành State theo LifecycleOwner."
+            ],
+            [
+              "stateIn",
+              "Chuyển Flow thành StateFlow trong một scope, với initial value và sharing policy."
+            ],
+            [
+              "shareIn",
+              "Chuyển Flow thành SharedFlow trong một scope với replay và sharing policy."
+            ],
+            [
+              "WhileSubscribed",
+              "Start upstream khi có subscriber và stop sau timeout khi không còn subscriber."
+            ],
+            [
+              "Restart storm",
+              "Upstream bị start/stop quá thường xuyên do lifecycle hoặc sharing policy không phù hợp."
+            ],
+            [
+              "External scope",
+              "Scope sống lâu hơn caller, dùng khi work phải hoàn tất độc lập màn hình, nhưng cần owner rõ."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "internal-mechanism",
+      "title": "4. Cơ chế hoạt động bên trong",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "Flow mặc định bảo toàn context: code trong builder và intermediate operator chạy trong coroutine của collector, trừ khi có operator tạo boundary như flowOn, buffer, channelFlow, shareIn hoặc stateIn. Điều này giữ emission tuần tự và giảm race condition. Nếu gọi withContext bên trong flow rồi emit từ context khác, runtime có thể ném lỗi vì vi phạm invariant."
+        },
+        {
+          "type": "code",
+          "language": "kotlin",
+          "label": "Vi phạm context invariant",
+          "content": "fun broken(): Flow<Int> = flow {\n    withContext(Dispatchers.IO) {\n        emit(1) // Sai: emit từ context khác context collector.\n    }\n}"
+        },
+        {
+          "type": "paragraph",
+          "content": "flowOn không đổi context của downstream. Nó tách phần upstream trước flowOn sang context được chỉ định, còn operator phía sau và collect tiếp tục chạy theo context của collector. Về mặt thực thi, flowOn thường tạo thêm coroutine và channel nội bộ. Vì vậy nó không phải cú pháp trang trí; nó thay đổi scheduling, buffering, cancellation timing và stack trace."
+        },
+        {
+          "type": "code",
+          "language": "kotlin",
+          "label": "Boundary của flowOn",
+          "content": "repository.observe()\n    .map { heavyTransform(it) }       // Chạy trên Default.\n    .flowOn(Dispatchers.Default)\n    .onEach { renderModel(it) }       // Chạy theo collector, thường Main.\n    .collect()"
+        },
+        {
+          "type": "paragraph",
+          "content": "Lifecycle collector và lifecycle producer có thể lệch nhau. repeatOnLifecycle hủy collector khi UI xuống dưới STARTED, nhưng nếu source đã được stateIn trong viewModelScope thì shared producer có thể tiếp tục theo SharingStarted. Ngược lại, cold Flow không share sẽ bị hủy hoàn toàn rồi restart khi lifecycle STARTED trở lại. Hai trường hợp này có chi phí và semantics rất khác nhau."
+        },
+        {
+          "type": "paragraph",
+          "content": "Cần vẽ ba Job: Job của UI collection, Job của ViewModel và Job của shared producer. Khi màn hình STOPPED, UI Job bị hủy. ViewModel Job vẫn sống. Nếu stateIn dùng Eagerly, producer vẫn chạy. Nếu WhileSubscribed với timeout, producer dừng sau timeout nếu không còn subscriber. Khi màn hình quay lại, collector mới nhận current value rồi producer có thể restart tùy policy."
+        }
+      ]
+    },
+    {
+      "id": "purpose",
+      "title": "5. Mục đích của kỹ thuật",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "Quản lý context và lifecycle nhằm đảm bảo work chạy ở nơi phù hợp, chỉ sống trong khoảng thời gian cần thiết và có owner chịu trách nhiệm. Mục tiêu không phải là 'đưa mọi thứ sang IO' hay 'collect khi STARTED', mà là biến product contract thành lifecycle contract cụ thể. Ví dụ socket session có thể cần sống theo tài khoản đăng nhập; search request chỉ cần sống theo query hiện tại; animation rendering chỉ cần sống khi UI visible."
+        },
+        {
+          "type": "paragraph",
+          "content": "Một thiết kế tốt phải trả lời bốn câu: ai start producer, ai stop producer, subscriber mới nhận gì, và điều gì xảy ra khi không có subscriber. Nếu không trả lời được, pipeline thường dựa vào hành vi ngẫu nhiên của navigation hoặc configuration change."
+        }
+      ]
+    },
+    {
+      "id": "problems-solved",
+      "title": "6. Vấn đề kỹ thuật được giải quyết",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "Context contract tránh block Main thread, tránh emit concurrent không kiểm soát và giúp cancellation lan truyền đúng. Lifecycle-aware collection tránh update UI khi view không còn active, tránh duplicate collector sau recreation và giảm resource usage. Sharing policy tránh tạo nhiều upstream giống nhau khi nhiều collector cùng quan sát."
+        },
+        {
+          "type": "paragraph",
+          "content": "Bài toán thực tế gồm database observation chạy lặp, socket listener không unregister, network polling tiếp tục khi app background, cache producer bị restart liên tục, snackbar event bị replay sai, hoặc UI không nhận state sau rotation. Các lỗi này không nằm ở một operator riêng lẻ; chúng xuất hiện khi scope, lifecycle và hot/cold semantics không khớp."
+        }
+      ]
+    },
+    {
+      "id": "when-to-use",
+      "title": "7. Dấu hiệu cần dùng",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "Cần phân tích lifecycle khi Flow được collect từ Activity, Fragment, Compose, service hoặc nhiều layer khác nhau; khi source mở listener/socket/polling; khi dùng stateIn/shareIn; hoặc khi CPU/network work nặng cần đổi dispatcher. Dấu hiệu rõ là bug chỉ xuất hiện sau rotation, back stack, app background/foreground hoặc nhiều collector."
+        },
+        {
+          "type": "list",
+          "items": [
+            "Màn hình mở lại làm API gọi lại ngoài ý muốn.",
+            "Socket callback tiếp tục sau logout.",
+            "Hai composable cùng collect tạo hai request.",
+            "Flow nặng làm jank Main thread.",
+            "StateFlow không update khi quay lại màn hình.",
+            "Producer không dừng dù không còn subscriber.",
+            "collect trong composable gây nhiều coroutine."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "when-not-to-use",
+      "title": "8. Khi không nên dùng",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "Không cần stateIn/shareIn cho mọi Flow. Với command one-shot hoặc suspend function, chia sẻ producer có thể làm contract khó hiểu. Không cần flowOn nếu upstream đã main-safe và library tự dispatch đúng. Không nên tạo applicationScope chỉ để tránh cancellation; work sống lâu phải có product reason và persistence/retry phù hợp."
+        },
+        {
+          "type": "paragraph",
+          "content": "Không dùng lifecycle gating để che giấu bug ownership. Nếu repository giữ callback listener vĩnh viễn, việc UI ngừng collect không đủ. Producer phải unregister khi scope bị hủy hoặc khi subscriber count về zero theo policy. Tương tự, không dùng Eagerly chỉ vì muốn 'đỡ restart'; nó có thể giữ network, sensor hoặc location chạy suốt process."
+        }
+      ]
+    },
+    {
+      "id": "product-requirements",
+      "title": "9. Yêu cầu sản phẩm cụ thể",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "Requirement phải được viết bằng hành vi quan sát được. Ví dụ: danh sách job cập nhật khi màn hình visible; khi user chuyển app nền quá 5 giây thì dừng polling; quay lại trong 5 giây không restart để tránh flash loading; logout phải đóng socket ngay; state cuối cùng phải hiện lại sau rotation; process death chỉ khôi phục query/filter chứ không khôi phục request đang chạy."
+        },
+        {
+          "type": "paragraph",
+          "content": "Các requirement này ánh xạ trực tiếp thành STARTED lifecycle, WhileSubscribed(stopTimeoutMillis = 5_000), ViewModel scope, session scope, SavedStateHandle và cache policy. Không có một cấu hình lifecycle đúng cho mọi feature. Chat realtime, feed polling, location tracking và form editor có lifetime khác nhau."
+        },
+        {
+          "type": "code",
+          "language": "kotlin",
+          "label": "Requirement thành sharing policy",
+          "content": "val uiState: StateFlow<FeedUiState> =\n    repository.observeFeed()\n        .map(::toUiState)\n        .stateIn(\n            scope = viewModelScope,\n            started = SharingStarted.WhileSubscribed(5_000),\n            initialValue = FeedUiState.Loading\n        )"
+        }
+      ]
+    },
+    {
+      "id": "analysis",
+      "title": "10. Phân tích dependency, error policy, lifecycle và resource limits",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "Dependency cần khai báo main-safety. Repository API nên nói rõ Flow có cold hay shared, có mở resource không, có tự retry không và collector cancellation có đóng resource không. callbackFlow phải awaitClose để unregister callback. Nếu dependency blocking, flowOn(IO) chỉ chuyển thread; cancellation có thể vẫn không dừng blocking call nếu library không hỗ trợ interrupt/cancel."
+        },
+        {
+          "type": "code",
+          "language": "kotlin",
+          "label": "Bridge callback có cleanup",
+          "content": "fun observeConnection(): Flow<ConnectionState> = callbackFlow {\n    val listener = object : Listener {\n        override fun onChanged(state: ConnectionState) {\n            trySend(state)\n        }\n    }\n    client.addListener(listener)\n    awaitClose { client.removeListener(listener) }\n}"
+        },
+        {
+          "type": "paragraph",
+          "content": "Error policy phải gắn với lifecycle. Nếu upstream restart sau mỗi STARTED, một retry loop không giới hạn có thể reset attempt counter mỗi lần và tạo retry storm. Nếu stateIn giữ upstream sống, lỗi uncaught có thể làm shared producer chết và không tự restart theo cách bạn tưởng. Cần materialize error thành state, giới hạn retry, log nguyên nhân và xác định trigger retry thủ công."
+        },
+        {
+          "type": "paragraph",
+          "content": "Resource limits gồm số collector, số listener, connection pool, sensor registration, memory replay và CPU transform. Một StateFlow chỉ giữ latest value nhưng object đó có thể rất lớn. SharedFlow replay nhiều item có thể giữ reference dài. WhileSubscribed timeout quá dài giữ resource; quá ngắn tạo restart storm. Tất cả nên được đo bằng metric: active subscriptions, upstream starts, cancellations, request count và time-to-first-value."
+        },
+        {
+          "type": "paragraph",
+          "content": "Lifecycle còn liên quan process death. ViewModel sống qua configuration change nhưng không sống qua process death. State quan trọng cần SavedStateHandle hoặc persistence. Không nên kỳ vọng StateFlow tự khôi phục dữ liệu. Ngược lại, không lưu object lớn hoặc transient error vào saved state."
+        }
+      ]
+    },
+    {
+      "id": "minimal-code",
+      "title": "11. Ví dụ code tối giản",
+      "blocks": [
+        {
+          "type": "code",
+          "language": "kotlin",
+          "label": "Fragment collect đúng lifecycle",
+          "content": "viewLifecycleOwner.lifecycleScope.launch {\n    viewLifecycleOwner.repeatOnLifecycle(Lifecycle.State.STARTED) {\n        viewModel.uiState.collect { state ->\n            render(state)\n        }\n    }\n}"
+        },
+        {
+          "type": "paragraph",
+          "content": "Dùng viewLifecycleOwner thay vì Fragment lifecycle để tránh collector sống lâu hơn view. repeatOnLifecycle tạo coroutine con khi STARTED và hủy khi STOPPED. Khi STARTED lại, block được chạy lại, nghĩa là cold upstream có thể restart. Đây là hành vi có chủ đích, không phải bug."
+        },
+        {
+          "type": "code",
+          "language": "kotlin",
+          "label": "Compose lifecycle-aware collection",
+          "content": "@Composable\nfun FeedScreen(viewModel: FeedViewModel) {\n    val state by viewModel.uiState.collectAsStateWithLifecycle()\n    FeedContent(state)\n}"
+        },
+        {
+          "type": "paragraph",
+          "content": "collectAsStateWithLifecycle kết hợp Flow với LifecycleOwner hiện tại và cung cấp State cho Compose. Nó không thay thế ownership của ViewModel hay sharing policy. Nếu ViewModel expose cold Flow gọi network, composable rời rồi quay lại vẫn có thể tạo request mới."
+        }
+      ]
+    },
+    {
+      "id": "upzi-example",
+      "title": "12. Ví dụ thực tế Upzi hoặc dự án liên quan",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "`confirmed`: Upzi dùng single-activity, Jetpack Compose, StateFlow và Paging trong nhiều màn hình. Vì vậy collection gắn với lifecycle composable và ViewModel ownership là mô hình phù hợp với kiến trúc đã biết. Các deeplink, chat và paging đều có nguy cơ duplicate work nếu collector hoặc producer lifetime không rõ."
+        },
+        {
+          "type": "paragraph",
+          "content": "`inferred`: Chat socket có thể được sở hữu bởi session/repository scope thay vì từng composable, vì connection cần tiếp tục khi chuyển giữa chat detail và chat list nhưng phải dừng khi logout. Đây là suy luận hợp lý từ kiến trúc socket hiện có, chưa xác nhận toàn bộ implementation production."
+        },
+        {
+          "type": "paragraph",
+          "content": "`proposed`: Expose `StateFlow<ChatUiState>` từ ViewModel bằng stateIn(WhileSubscribed(5_000)), trong khi socket connection do session-scoped manager sở hữu. UI chỉ collect state; repository reduce socket event vào local store. Cách này tách lifecycle connection khỏi lifecycle màn hình và tránh nhiều màn hình tự mở socket."
+        },
+        {
+          "type": "code",
+          "language": "kotlin",
+          "label": "Thiết kế đề xuất cho chat",
+          "content": "class ChatViewModel(\n    repository: ChatRepository\n) : ViewModel() {\n    val uiState = repository.observeConversation()\n        .map(ChatUiState::Content)\n        .catch { emit(ChatUiState.Error(it.toUserMessage())) }\n        .stateIn(\n            viewModelScope,\n            SharingStarted.WhileSubscribed(5_000),\n            ChatUiState.Loading\n        )\n}"
+        },
+        {
+          "type": "paragraph",
+          "content": "`needs-confirmation`: Trước khi dùng trong phỏng vấn, cần xác nhận socket manager hiện tại sống theo application, session hay screen; listener có unregister khi logout không; và repository đã share event stream hay mỗi collector tạo subscription riêng. Chỉ những phần đã kiểm chứng mới được kể như kinh nghiệm thực tế."
+        }
+      ]
+    },
+    {
+      "id": "alternatives",
+      "title": "13. Phương án thay thế",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "Thay repeatOnLifecycle có thể dùng collectAsStateWithLifecycle trong Compose, hoặc flowWithLifecycle cho một Flow đơn lẻ. Tuy nhiên repeatOnLifecycle phù hợp khi collect nhiều Flow song song trong cùng block. Với background work cần đảm bảo hoàn tất, WorkManager phù hợp hơn external CoroutineScope trong process."
+        },
+        {
+          "type": "paragraph",
+          "content": "Thay stateIn có thể giữ MutableStateFlow và chủ động reduce state trong ViewModel. Cách này rõ ownership nhưng cần code orchestration. shareIn phù hợp stream event/shared data không có current state. Với dữ liệu bền vững, Room/DataStore làm source of truth thường tốt hơn giữ replay trong memory."
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Phương án",
+            "Phù hợp",
+            "Giới hạn"
+          ],
+          "rows": [
+            [
+              "repeatOnLifecycle",
+              "UI collect theo STARTED/RESUMED",
+              "Cold upstream restart mỗi lần block chạy lại"
+            ],
+            [
+              "collectAsStateWithLifecycle",
+              "Compose state rendering",
+              "Không giải quyết producer ownership"
+            ],
+            [
+              "stateIn",
+              "Derived current state shared",
+              "Cần initial value và sharing policy"
+            ],
+            [
+              "shareIn",
+              "Broadcast shared upstream",
+              "Không có value property"
+            ],
+            [
+              "WorkManager",
+              "Work bền qua process death",
+              "Không dành cho realtime UI stream"
+            ],
+            [
+              "Application scope",
+              "Producer sống theo process",
+              "Dễ leak/resource waste nếu lạm dụng"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tradeoffs",
+      "title": "14. Lý do lựa chọn và trade-off",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "WhileSubscribed thường cân bằng cho screen state: giữ producer khi có subscriber, trì hoãn stop một khoảng ngắn để vượt qua rotation/navigation nhanh. Trade-off là timeout giữ resource dù UI đã biến mất. Eagerly giảm latency subscriber đầu nhưng tiêu tốn resource từ khi scope tạo. Lazily chỉ start khi có subscriber đầu tiên nhưng sau đó không tự stop."
+        },
+        {
+          "type": "paragraph",
+          "content": "STARTED thường đủ cho render UI; RESUMED chặt hơn nhưng có thể stop khi dialog/overlay làm mất focus và gây restart ngoài ý muốn. CREATED có thể giữ collector khi UI không visible. Chọn lifecycle state theo requirement, không theo thói quen."
+        },
+        {
+          "type": "paragraph",
+          "content": "Đặt flowOn gần source giúp context boundary dễ đọc. Nhiều flowOn có thể cần khi các đoạn upstream có cost khác nhau, nhưng topology phức tạp hơn. Chuyển cả pipeline sang IO có thể khiến CPU transform tranh chấp I/O threads. Dispatchers.Default phù hợp CPU, IO phù hợp blocking I/O."
+        }
+      ]
+    },
+    {
+      "id": "edge-cases",
+      "title": "15. Edge cases",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "Một cold Flow phát initial cache rồi đăng ký socket có thể bị restart khi lifecycle quay lại, gây duplicate socket listener nếu cleanup sai. callbackFlow phải unregister trong awaitClose. Nếu register callback thất bại giữa chừng, cần cleanup partial resource."
+        },
+        {
+          "type": "paragraph",
+          "content": "WhileSubscribed với replay giữ latest state khi upstream dừng. Khi quay lại, UI nhận state cũ ngay rồi upstream refresh. Nếu product không muốn hiển thị stale data, state cần freshness metadata thay vì xóa replay mù quáng."
+        },
+        {
+          "type": "paragraph",
+          "content": "Nhiều collector cùng lúc có thể làm subscriber count không về zero, khiến producer không dừng dù màn hình chính đã đóng. Debug cần log subscription owner, không chỉ count."
+        },
+        {
+          "type": "paragraph",
+          "content": "collectLatest hủy rendering block khi value mới đến; nếu block chứa transaction hoặc analytics bắt buộc, cancellation có thể làm side effect dở dang. Lifecycle cancellation cũng có hiệu ứng tương tự."
+        },
+        {
+          "type": "paragraph",
+          "content": "Process background không đồng nghĩa lifecycle mọi screen STOPPED ngay trong mọi tình huống multi-window/PiP. Requirement phải dùng ProcessLifecycleOwner hoặc service state nếu phụ thuộc toàn app, không suy từ một màn hình."
+        }
+      ]
+    },
+    {
+      "id": "common-mistakes",
+      "title": "16. Sai lầm thường gặp",
+      "blocks": [
+        {
+          "type": "list",
+          "items": [
+            "Collect trực tiếp trong composable bằng LaunchedEffect sai key.",
+            "Dùng lifecycleScope của Fragment thay vì viewLifecycleOwner.",
+            "Cho repository tự tạo CoroutineScope không có owner/hủy.",
+            "Đặt flowOn sau operator nặng và tưởng operator trước collect chuyển context.",
+            "Dùng Eagerly cho sensor/socket mà không có product reason.",
+            "Tin rằng StateFlow tự survive process death.",
+            "Dùng catch để nuốt CancellationException.",
+            "Tạo nhiều stateIn cho cùng upstream ở nhiều ViewModel.",
+            "Dùng launchWhenStarted và nghĩ upstream đã bị hủy.",
+            "Không test số lần upstream start qua rotation/background."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "Điểm chung là bỏ qua ownership. Mỗi coroutine scope phải có owner, mỗi hot producer phải có stop condition, mỗi resource phải có cleanup, và mỗi shared stream phải có subscriber semantics rõ. Code compile không đồng nghĩa lifecycle đúng."
+        }
+      ]
+    },
+    {
+      "id": "interview-basic",
+      "title": "17. Câu hỏi phỏng vấn cơ bản",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "**flowOn đổi context phần nào?** Nó đổi context của upstream nằm trước flowOn, không đổi downstream collector. Thường tạo coroutine/channel boundary."
+        },
+        {
+          "type": "paragraph",
+          "content": "**repeatOnLifecycle khác collect bình thường?** Nó start block khi lifecycle đạt state, cancel khi rơi xuống dưới state và restart khi đạt lại. Vì vậy cold Flow có thể được recollect."
+        },
+        {
+          "type": "paragraph",
+          "content": "**stateIn cần những gì?** Scope sở hữu producer, SharingStarted, initial value. Cần giải thích lifetime của scope và policy start/stop."
+        },
+        {
+          "type": "paragraph",
+          "content": "**ViewModel có survive process death không?** Không. Nó survive configuration change, còn process death cần SavedStateHandle/persistence."
+        }
+      ]
+    },
+    {
+      "id": "interview-deep",
+      "title": "18. Câu hỏi xoáy sâu và câu hỏi bẫy",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "**Tại sao repeatOnLifecycle vẫn có thể tốn network khi UI STOPPED?** Vì collector bị hủy nhưng upstream có thể đã được share trong scope dài hơn với Eagerly hoặc timeout chưa hết. Phải phân biệt collector Job và producer Job."
+        },
+        {
+          "type": "paragraph",
+          "content": "**Hai flowOn liên tiếp hoạt động thế nào?** Mỗi flowOn ảnh hưởng upstream gần nó; có thể tạo nhiều boundary. Cần đọc chain từ collector ngược lên và xác định operator nào nằm giữa các boundary."
+        },
+        {
+          "type": "paragraph",
+          "content": "**WhileSubscribed(5_000) có đảm bảo socket đóng sau 5 giây?** Chỉ nếu socket registration thuộc upstream được share và cancellation thực sự trigger cleanup. Nếu manager giữ connection ở scope khác, subscriber policy không đóng socket."
+        },
+        {
+          "type": "paragraph",
+          "content": "**Có nên collect StateFlow trong repository?** Có thể, nếu repository là owner của derived state hoặc side effect và scope rõ. Nhưng collect chỉ để copy value sang MutableStateFlow khác có thể tạo duplicate state holder và synchronization complexity."
+        }
+      ]
+    },
+    {
+      "id": "experience-answer",
+      "title": "19. Mẫu trả lời gắn với kinh nghiệm",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "Mẫu trả lời trung thực: “Trong dự án Compose, tôi ưu tiên expose StateFlow từ ViewModel và collect bằng collectAsStateWithLifecycle. Tôi phân biệt lifecycle của UI collector với lifecycle của producer. Với cold Flow tốn kém, tôi dùng stateIn trong viewModelScope và chọn WhileSubscribed có timeout để tránh restart trong rotation ngắn, nhưng vẫn dừng upstream khi màn hình rời lâu. Với callback/socket, tôi kiểm tra cleanup trong awaitClose hoặc owner session. Phần session-scoped socket trong Upzi cần xác nhận implementation trước khi trình bày như kinh nghiệm production.”"
+        },
+        {
+          "type": "paragraph",
+          "content": "Câu trả lời tốt phải nêu requirement, failure mode, lựa chọn scope/policy, trade-off và cách test. Tránh nói chung chung “dùng lifecycleScope để tránh leak” vì lifecycleScope vẫn có thể chọn sai owner hoặc giữ producer khác sống."
+        }
+      ]
+    },
+    {
+      "id": "practical-exercises",
+      "title": "20. Bài tập thực hành",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "Bài 1: Tạo cold Flow log mỗi lần start/complete. Collect bằng repeatOnLifecycle, rotate màn hình và ghi lại số lần start. Sau đó chuyển thành stateIn(WhileSubscribed(5_000)) và so sánh. Tiêu chí hoàn thành: giải thích chính xác Job nào bị hủy và vì sao request có hoặc không restart."
+        },
+        {
+          "type": "paragraph",
+          "content": "Bài 2: Viết callbackFlow bọc listener, test rằng cancel collector gọi removeListener đúng một lần. Thêm trường hợp addListener ném lỗi và đảm bảo không leak resource partial."
+        },
+        {
+          "type": "paragraph",
+          "content": "Bài 3: Xây pipeline CPU transform với flowOn(Default), collector Main. Log thread/coroutine name ở từng operator và vẽ topology. Không được kết luận chỉ dựa vào tên thread; cần giải thích context boundary."
+        },
+        {
+          "type": "code",
+          "language": "kotlin",
+          "label": "Khung test restart",
+          "content": "@Test\nfun upstream_restarts_after_stop_timeout() = runTest {\n    var starts = 0\n    val source = flow {\n        starts++\n        emit(1)\n        awaitCancellation()\n    }\n    // Hoàn thiện stateIn + subscriber test bằng test scheduler.\n}"
+        }
+      ]
+    },
+    {
+      "id": "scenario-exercises",
+      "title": "21. Bài tập tình huống",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "Tình huống chat: chat list và chat detail cùng cần realtime event. Thiết kế scope connection, shared event stream, local source of truth và lifecycle UI. Phải xử lý logout, reconnect, app background, duplicate event và process death. Nêu phần nào là in-memory, phần nào bền vững."
+        },
+        {
+          "type": "paragraph",
+          "content": "Tình huống location: màn hình bản đồ chỉ visible trong 30 giây nhưng tracking phải tiếp tục khi user bắt đầu chuyến đi. Hãy tách preview location theo screen lifecycle khỏi active-trip tracking theo foreground service. Không được dùng applicationScope để thay thế yêu cầu foreground service."
+        },
+        {
+          "type": "paragraph",
+          "content": "Tình huống feed: rotation liên tục tạo flash loading và API gọi lại. Đề xuất stateIn/WhileSubscribed/cache, rồi nêu trường hợp dữ liệu stale và cách biểu diễn freshness."
+        }
+      ]
+    },
+    {
+      "id": "self-check",
+      "title": "22. Checklist tự đánh giá",
+      "blocks": [
+        {
+          "type": "list",
+          "items": [
+            "Tôi xác định được owner của mọi CoroutineScope.",
+            "Tôi biết collector và producer có cùng lifetime hay không.",
+            "Tôi giải thích được flowOn ảnh hưởng đoạn nào.",
+            "Tôi dùng viewLifecycleOwner trong Fragment.",
+            "Tôi biết cold Flow sẽ restart khi repeatOnLifecycle chạy lại.",
+            "Tôi chọn SharingStarted theo requirement.",
+            "Tôi có cleanup cho callback/socket/sensor.",
+            "Tôi không dựa vào StateFlow để survive process death.",
+            "Tôi test upstream start count và cancellation.",
+            "Tôi phân biệt screen lifecycle, process lifecycle và session lifecycle.",
+            "Tôi không nuốt CancellationException.",
+            "Tôi có metric cho active subscriptions và resource usage."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "summary",
+      "title": "23. Tóm tắt cần nhớ",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "Flow context và lifecycle là bài toán ownership. flowOn đổi upstream context, repeatOnLifecycle quản lý collector theo UI state, còn stateIn/shareIn tạo producer trong scope khác. Vì vậy phải theo dõi ít nhất ba thứ: context execution, Job của collector và Job của producer."
+        },
+        {
+          "type": "paragraph",
+          "content": "Không có sharing policy mặc định đúng cho mọi feature. WhileSubscribed phù hợp nhiều screen state nhưng vẫn cần timeout và freshness policy. Eagerly/Lazily có use case riêng. Resource như socket, callback, sensor phải có cleanup thực sự; lifecycle API không sửa được dependency không cancellable."
+        },
+        {
+          "type": "paragraph",
+          "content": "ViewModel chỉ qua configuration change, không qua process death. Product requirement phải quyết định dữ liệu nào giữ memory, saved state hay database. Cách kiểm chứng đáng tin nhất là test lifecycle transition, subscription count, upstream start/stop và cancellation cleanup."
+        }
+      ]
+    },
+    {
+      "id": "quiz-guide",
+      "title": "24. Quiz có giải thích đáp án",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "Quiz kiểm tra khả năng reasoning về context, Job ownership và lifecycle transition thay vì chỉ nhớ tên API. Khi trả lời, hãy vẽ upstream, boundary, collector scope và producer scope. Mỗi giải thích phải chỉ ra vì sao lựa chọn đúng thỏa product contract và vì sao lựa chọn còn lại có thể gây leak, restart hoặc stale state."
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "question": "flowOn ảnh hưởng phần nào của pipeline?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Toàn bộ pipeline"
+        },
+        {
+          "id": "b",
+          "text": "Phần upstream trước flowOn"
+        },
+        {
+          "id": "c",
+          "text": "Chỉ collector"
+        },
+        {
+          "id": "d",
+          "text": "Chỉ StateFlow"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "explanation": "flowOn chuyển context của upstream trước nó; downstream tiếp tục theo collector."
+    },
+    {
+      "id": "q2",
+      "question": "repeatOnLifecycle làm gì khi lifecycle xuống dưới STARTED?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Suspend block nhưng giữ upstream"
+        },
+        {
+          "id": "b",
+          "text": "Hủy block collection"
+        },
+        {
+          "id": "c",
+          "text": "Hủy ViewModel"
+        },
+        {
+          "id": "d",
+          "text": "Xóa StateFlow"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "explanation": "Block con bị cancel và có thể được khởi chạy lại khi lifecycle đạt state."
+    },
+    {
+      "id": "q3",
+      "question": "ViewModel survive điều gì?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Process death"
+        },
+        {
+          "id": "b",
+          "text": "Configuration change"
+        },
+        {
+          "id": "c",
+          "text": "Force stop"
+        },
+        {
+          "id": "d",
+          "text": "Reboot"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "explanation": "ViewModel survive configuration change, không survive process death."
+    },
+    {
+      "id": "q4",
+      "question": "WhileSubscribed dùng để làm gì?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ép Main thread"
+        },
+        {
+          "id": "b",
+          "text": "Start/stop shared upstream theo subscriber"
+        },
+        {
+          "id": "c",
+          "text": "Persist database"
+        },
+        {
+          "id": "d",
+          "text": "Chặn exception"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "explanation": "Policy điều khiển shared producer theo số subscriber và timeout."
+    },
+    {
+      "id": "q5",
+      "question": "collectAsStateWithLifecycle giải quyết chính điều gì?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Persist state"
+        },
+        {
+          "id": "b",
+          "text": "Lifecycle-aware collection trong Compose"
+        },
+        {
+          "id": "c",
+          "text": "Share network request"
+        },
+        {
+          "id": "d",
+          "text": "Retry"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "explanation": "Nó adapter Flow thành Compose State theo lifecycle."
+    },
+    {
+      "id": "q6",
+      "question": "callbackFlow cần awaitClose vì sao?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Để emit nhanh hơn"
+        },
+        {
+          "id": "b",
+          "text": "Để cleanup callback khi cancel"
+        },
+        {
+          "id": "c",
+          "text": "Để đổi dispatcher"
+        },
+        {
+          "id": "d",
+          "text": "Để tạo StateFlow"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "explanation": "awaitClose là nơi unregister listener/resource."
+    },
+    {
+      "id": "q7",
+      "question": "Eagerly có trade-off nào?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Producer chỉ chạy khi có subscriber"
+        },
+        {
+          "id": "b",
+          "text": "Producer chạy ngay theo scope và có thể tốn resource"
+        },
+        {
+          "id": "c",
+          "text": "Không replay"
+        },
+        {
+          "id": "d",
+          "text": "Không thể cancel"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "explanation": "Eagerly start ngay khi scope tạo."
+    },
+    {
+      "id": "q8",
+      "question": "StateFlow có tự survive process death không?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Có"
+        },
+        {
+          "id": "b",
+          "text": "Không"
+        },
+        {
+          "id": "c",
+          "text": "Chỉ Android 14+"
+        },
+        {
+          "id": "d",
+          "text": "Chỉ khi Eagerly"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "explanation": "StateFlow là in-memory; cần persistence/SavedStateHandle."
+    },
+    {
+      "id": "q9",
+      "question": "repeatOnLifecycle với cold Flow có thể gây gì?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Không bao giờ restart"
+        },
+        {
+          "id": "b",
+          "text": "Recollect và restart upstream"
+        },
+        {
+          "id": "c",
+          "text": "Mất type safety"
+        },
+        {
+          "id": "d",
+          "text": "Đổi thread"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "explanation": "Mỗi lần block start lại, cold Flow được collect lại."
+    },
+    {
+      "id": "q10",
+      "question": "flowOn thường tạo gì?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Database transaction"
+        },
+        {
+          "id": "b",
+          "text": "Coroutine/channel boundary"
+        },
+        {
+          "id": "c",
+          "text": "SavedState"
+        },
+        {
+          "id": "d",
+          "text": "Foreground service"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "explanation": "flowOn thay đổi topology bằng boundary nội bộ."
+    },
+    {
+      "id": "q11",
+      "question": "Socket manager sống theo session là loại lifetime nào?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Screen"
+        },
+        {
+          "id": "b",
+          "text": "Composable frame"
+        },
+        {
+          "id": "c",
+          "text": "Session/account"
+        },
+        {
+          "id": "d",
+          "text": "Một emission"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "explanation": "Connection có thể sống qua nhiều màn hình nhưng phải dừng khi logout."
+    },
+    {
+      "id": "q12",
+      "question": "Cách test lifecycle đáng tin?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Chỉ nhìn UI"
+        },
+        {
+          "id": "b",
+          "text": "Đếm upstream starts, cancellation và cleanup"
+        },
+        {
+          "id": "c",
+          "text": "Chỉ dùng delay thật"
+        },
+        {
+          "id": "d",
+          "text": "Tắt log"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "explanation": "Metric và test transition cho thấy ownership thực tế."
+    }
+  ]
+}
