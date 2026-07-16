@@ -11,7 +11,7 @@
       {"id":"b01","code":"B01","title":"Process, Thread, Concurrency, Parallelism, Blocking và Non-blocking","path":"data/lessons/b/b01.json","estimatedMinutes":120,"status":"published"},
       {"id":"b02","code":"B02","title":"Coroutine căn bản","path":"data/lessons/b/b02.json","estimatedMinutes":120,"status":"published"},
       {"id":"b03","code":"B03","title":"CoroutineScope và Structured Concurrency","path":"data/lessons/b/b03.json","estimatedMinutes":180,"status":"published"},
-      {"id":"b04","code":"B04","title":"launch, async và withContext","path":"data/lessons/b/b04.json","estimatedMinutes":120,"status":"planned"},
+      {"id":"b04","code":"B04","title":"launch, async và withContext","path":"data/lessons/b/b04.json","estimatedMinutes":180,"status":"published"},
       {"id":"b05","code":"B05","title":"Dispatcher và Thread Pool","path":"data/lessons/b/b05.json","estimatedMinutes":120,"status":"planned"},
       {"id":"b06","code":"B06","title":"Job và Cancellation","path":"data/lessons/b/b06.json","estimatedMinutes":120,"status":"planned"},
       {"id":"b07","code":"B07","title":"Exception Handling","path":"data/lessons/b/b07.json","estimatedMinutes":120,"status":"planned"},
