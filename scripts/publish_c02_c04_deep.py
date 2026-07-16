@@ -70,7 +70,7 @@ assert ids.index("c04") == ids.index("c03") + 1
 
 for lesson_id in LESSONS:
     item = next(entry for entry in chapter["lessons"] if entry["id"] == lesson_id)
-    assert item["status"] == "planned"
+    assert item["status"] in ("planned", "published")
     item["status"] = "published"
     item["estimatedMinutes"] = loaded[lesson_id]["estimatedMinutes"]
 
@@ -78,7 +78,7 @@ catalog_path.write_text(json.dumps(catalog, ensure_ascii=False, indent=2) + "\n"
 
 plan_path = DATA / "book-plan.json"
 plan = json.loads(plan_path.read_text())
-assert plan["current"] == "c02"
+assert plan["current"] in ("c02", "c05")
 for lesson_id in LESSONS:
     if lesson_id not in plan["completed"]:
         plan["completed"].append(lesson_id)
@@ -87,12 +87,13 @@ plan_path.write_text(json.dumps(plan, ensure_ascii=False, indent=2) + "\n")
 
 index_path = DATA / "search-index.json"
 index = json.loads(index_path.read_text())
-assert not any(entry["lessonId"] in LESSONS for entry in index)
-index.extend([
+entries = [
     {"lessonId":"c02","code":"C02","title":"Cold Flow","keywords":["cold Flow","lazy execution","per collector","flowOn","context preservation","exception transparency","retryWhen","stateIn","multiple collectors","cache network"],"headings":["Lazy execution","Mỗi collector tạo execution riêng","Emit và collect tuần tự","Context preservation và flowOn","Exception transparency","Cancellation propagation","Repository observation và command","Retry và side effect"]},
     {"lessonId":"c03","code":"C03","title":"StateFlow","keywords":["StateFlow","MutableStateFlow","stateIn","update","compareAndSet","conflation","immutable UI state","single owner","collectAsStateWithLifecycle","process death"],"headings":["Hot state holder","Equality-based conflation","Immutable state","Atomic update","UI state machine","State và event","stateIn","Compose collection"]},
     {"lessonId":"c04","code":"C04","title":"SharedFlow","keywords":["SharedFlow","MutableSharedFlow","replay","extraBufferCapacity","BufferOverflow","tryEmit","shareIn","broadcast","UI effect","socket events"],"headings":["Hot broadcast stream","Replay","Buffer và backpressure","emit và tryEmit","Subscriber absence","SharedFlow và StateFlow","One-time effect","shareIn"]}
-])
+]
+existing_ids = {entry["lessonId"] for entry in index}
+index.extend(entry for entry in entries if entry["lessonId"] not in existing_ids)
 index_path.write_text(json.dumps(index, ensure_ascii=False, indent=2) + "\n")
 
 for path in (catalog_path, plan_path, index_path):
