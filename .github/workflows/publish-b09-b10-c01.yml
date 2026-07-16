@@ -1,0 +1,40 @@
+name: Publish B09 B10 C01
+
+on:
+  push:
+    branches:
+      - handbook/b09-b10-c01
+    paths:
+      - scripts/publish_b09_b10_c01.py
+      - .github/workflows/publish-b09-b10-c01.yml
+      - android-learning/data/lessons/b/b09.json
+      - android-learning/data/lessons/b/b10.json
+      - android-learning/data/lessons/c/c01.json
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: handbook/b09-b10-c01
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Publish and validate sequential batch
+        run: python scripts/publish_b09_b10_c01.py
+      - name: Commit generated metadata
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add android-learning/data/catalog.json android-learning/data/book-plan.json android-learning/data/search-index.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "docs(android): publish B09 B10 and C01"
+            git push origin HEAD:handbook/b09-b10-c01
+          fi
