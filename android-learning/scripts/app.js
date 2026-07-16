@@ -8,7 +8,7 @@ const THEME_KEY = 'android-learning-theme';
 let catalog;
 let lessonIndex = new Map();
 
-const escapeHtml = (value = '') => value.replace(/[&<>'"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[c]));
+const escapeHtml = (value = '') => String(value).replace(/[&<>'"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[c]));
 const progress = loadProgress();
 
 function loadProgress(){
@@ -103,25 +103,37 @@ function renderBlock(block){
   }
 }
 function renderLessonToc(lesson){ tocEl.innerHTML=`<h3>Trong bài này</h3>${lesson.sections.map(s=>`<a href="#${s.id}">${escapeHtml(s.title)}</a>`).join('')} ${lesson.quiz?.length?'<a href="#quiz">Quiz cuối bài</a>':''}`; }
+
+function normalizeQuizQuestion(q){
+  const options=(q.options||[]).map((option,index)=>typeof option==='string'?{id:String(index),text:option}:{id:String(option.id??index),text:option.text??String(option)});
+  let correctOptionIds=[];
+  if(Array.isArray(q.correctOptionIds)) correctOptionIds=q.correctOptionIds.map(String);
+  else if(Array.isArray(q.answerIndexes)) correctOptionIds=q.answerIndexes.map(String);
+  else if(Number.isInteger(q.answerIndex)) correctOptionIds=[String(q.answerIndex)];
+  return {...q,options,correctOptionIds,type:q.type==='multiple'||correctOptionIds.length>1?'multiple':'single'};
+}
+function normalizedQuiz(lesson){ return (lesson.quiz||[]).map(normalizeQuizQuestion); }
 function renderQuiz(lesson){
-  return `<section id="quiz" class="lesson-section"><h2>Quiz cuối bài</h2><p>Chọn đáp án rồi nhấn “Chấm điểm”. Mỗi câu đều có giải thích.</p><form id="quiz-form">${lesson.quiz.map((q,index)=>`<div class="quiz-card" data-question="${q.id}"><strong>${index+1}. ${escapeHtml(q.question)}</strong>${q.options.map(o=>`<label class="quiz-option"><input type="${q.type==='multiple'?'checkbox':'radio'}" name="${q.id}" value="${o.id}"> ${escapeHtml(o.text)}</label>`).join('')}<div class="quiz-result" id="result-${q.id}"></div></div>`).join('')}<div class="quiz-actions"><button type="submit" class="button primary">Chấm điểm</button><button type="reset" class="button secondary">Làm lại</button></div><div id="quiz-summary" class="callout purpose" hidden></div></form></section>`;
+  const quiz=normalizedQuiz(lesson);
+  return `<section id="quiz" class="lesson-section"><h2>Quiz cuối bài</h2><p>Chọn đáp án rồi nhấn “Chấm điểm”. Mỗi câu đều có giải thích.</p><form id="quiz-form">${quiz.map((q,index)=>`<div class="quiz-card" data-question="${q.id}"><strong>${index+1}. ${escapeHtml(q.question)}</strong>${q.options.map(o=>`<label class="quiz-option"><input type="${q.type==='multiple'?'checkbox':'radio'}" name="${q.id}" value="${escapeHtml(o.id)}"> ${escapeHtml(o.text)}</label>`).join('')}<div class="quiz-result" id="result-${q.id}"></div></div>`).join('')}<div class="quiz-actions"><button type="submit" class="button primary">Chấm điểm</button><button type="reset" class="button secondary">Làm lại</button></div><div id="quiz-summary" class="callout purpose" hidden></div></form></section>`;
 }
 function bindLessonEvents(lesson){
   document.querySelectorAll('[data-copy]').forEach(btn=>btn.onclick=async()=>{ await navigator.clipboard.writeText(decodeURIComponent(btn.dataset.copy)); const old=btn.textContent; btn.textContent='Đã copy'; setTimeout(()=>btn.textContent=old,1200); });
   $('#done-button').onclick=()=>setDone(lesson.id,!isDone(lesson.id));
-  const form=$('#quiz-form'); if(form){ form.addEventListener('submit',e=>{e.preventDefault();gradeQuiz(lesson);}); form.addEventListener('reset',()=>setTimeout(()=>{lesson.quiz.forEach(q=>$('#result-'+q.id).textContent='');$('#quiz-summary').hidden=true;},0)); }
+  const form=$('#quiz-form'); if(form){ form.addEventListener('submit',e=>{e.preventDefault();gradeQuiz(lesson);}); form.addEventListener('reset',()=>setTimeout(()=>{normalizedQuiz(lesson).forEach(q=>$('#result-'+q.id).textContent='');$('#quiz-summary').hidden=true;},0)); }
 }
 function gradeQuiz(lesson){
+  const quiz=normalizedQuiz(lesson);
   let score=0;
-  lesson.quiz.forEach(q=>{
+  quiz.forEach(q=>{
     const selected=[...document.querySelectorAll(`input[name="${q.id}"]:checked`)].map(i=>i.value).sort();
     const expected=[...q.correctOptionIds].sort();
     const correct=JSON.stringify(selected)===JSON.stringify(expected); if(correct)score++;
     const result=$('#result-'+q.id); result.textContent=`${correct?'✓ Đúng':'✗ Chưa đúng'} — ${q.explanation}`; result.style.color=correct?'var(--accent2)':'var(--danger)';
   });
-  const percent=Math.round(score/lesson.quiz.length*100); const previous=progress.lessons[lesson.id]?.bestQuizScore||0;
+  const percent=Math.round(score/quiz.length*100); const previous=progress.lessons[lesson.id]?.bestQuizScore||0;
   progress.lessons[lesson.id]={...(progress.lessons[lesson.id]||{}),bestQuizScore:Math.max(previous,percent),quizAttempts:(progress.lessons[lesson.id]?.quizAttempts||0)+1}; saveProgress();
-  const summary=$('#quiz-summary'); summary.hidden=false; summary.innerHTML=`<div class="callout-title">Kết quả</div>Bạn đúng <strong>${score}/${lesson.quiz.length}</strong> câu (${percent}%). Điểm cao nhất: ${Math.max(previous,percent)}%.`;
+  const summary=$('#quiz-summary'); summary.hidden=false; summary.innerHTML=`<div class="callout-title">Kết quả</div>Bạn đúng <strong>${score}/${quiz.length}</strong> câu (${percent}%). Điểm cao nhất: ${Math.max(previous,percent)}%.`;
   summary.scrollIntoView({behavior:'smooth',block:'center'});
 }
 
