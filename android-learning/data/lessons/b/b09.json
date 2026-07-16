@@ -2,46 +2,621 @@
   "id": "b09",
   "code": "B09",
   "title": "Race condition và Thread Safety",
-  "summary": "Hiểu race condition, atomicity, visibility, ordering và cách bảo vệ shared mutable state bằng confinement, immutable state, Mutex, atomic primitives, actor và database transaction trong Android/Kotlin.",
-  "estimatedMinutes": 210,
+  "summary": "Phân tích race condition từ interleaving thực tế, hiểu atomicity, visibility, ordering và happens-before; từ đó chọn đúng giữa immutable state, confinement, Mutex, atomic primitive, actor và transaction cho Android/Kotlin.",
+  "estimatedMinutes": 300,
   "sections": [
-    {"id":"objectives","title":"1. Mục tiêu bài học","blocks":[{"type":"list","items":["Nhận diện race condition từ interleaving thay vì chỉ nhìn từng dòng code.","Phân biệt atomicity, visibility, ordering và thread safety.","Chọn confinement, immutable state, Mutex, Atomic*, actor hoặc transaction theo invariant.","Phân tích correctness, lifecycle và contention trong feature Android thực tế.","Trả lời sâu về shared state ở mức Android Middle."]}]},
-    {"id":"prerequisites","title":"2. Kiến thức nền","blocks":[{"type":"list","items":["CoroutineScope, dispatcher, structured concurrency, cancellation và exception propagation.","Khái niệm process, thread, heap và concurrent execution.","Biết mutable state có thể được truy cập từ nhiều coroutine dù cùng viết bằng Kotlin."]}]},
-    {"id":"terminology","title":"3. Thuật ngữ","blocks":[{"type":"table","headers":["Thuật ngữ","Ý nghĩa"],"rows":[["Race condition","Kết quả phụ thuộc timing/interleaving không được kiểm soát"],["Data race","Hai execution truy cập cùng memory, ít nhất một write, thiếu synchronization"],["Atomicity","Operation xuất hiện như một bước không thể xen ngang"],["Visibility","Write từ execution này được execution khác quan sát"],["Ordering","Thứ tự quan sát operation phù hợp happens-before"],["Critical section","Đoạn code phải bảo vệ theo cùng lock/invariant"],["Thread confinement","Shared state chỉ được đọc/ghi bởi một execution context"],["Linearizability","Operation concurrent có thể xem như xảy ra tại một điểm tức thời hợp lệ"]]}]},
-    {"id":"mechanism","title":"4. Cơ chế bên trong","blocks":[{"type":"paragraph","content":"counter++ là read-modify-write, không phải một operation nguyên tử. Hai coroutine có thể cùng đọc giá trị cũ, cùng tính giá trị mới rồi ghi đè nhau. Chuyển dispatcher không tự tạo synchronization; coroutine có thể resume trên thread khác. Correctness phải dựa trên ownership hoặc primitive đồng bộ, không dựa vào timing may mắn."},{"type":"code","language":"kotlin","label":"Lost update","content":"var counter = 0\ncoroutineScope {\n    repeat(1_000) { launch(Dispatchers.Default) { counter++ } }\n}\nprintln(counter) // có thể < 1000"}]},
-    {"id":"purpose","title":"5. Mục đích","blocks":[{"type":"list","items":["Giữ invariant của state khi có concurrent access.","Tránh lost update, duplicate side effect, stale overwrite và collection corruption.","Làm behavior deterministic hơn để test, debug và vận hành production."]}]},
-    {"id":"problem","title":"6. Vấn đề kỹ thuật được giải quyết","blocks":[{"type":"list","items":["Hai request refresh token chạy đồng thời.","Hai ack chat cùng sửa trạng thái message.","Pagination và refresh cùng ghi cache.","Nhiều callback SDK cập nhật cùng session state.","Read-modify-write trên database không nằm trong transaction."]}]},
-    {"id":"when-to-use","title":"7. Dấu hiệu cần dùng","blocks":[{"type":"list","items":["Có shared mutable state với nhiều writer.","Có invariant gồm nhiều field phải đổi cùng nhau.","Operation gồm check-then-act như kiểm tra cache rồi fetch.","Bug chỉ xuất hiện ngẫu nhiên dưới tải hoặc mạng chậm.","Log cho thấy duplicate request, duplicate event hoặc state đi lùi."]}]},
-    {"id":"when-not-to-use","title":"8. Khi không nên dùng lock như phản xạ mặc định","blocks":[{"type":"list","items":["State có thể immutable và thay cả snapshot.","Ownership có thể confinement vào một actor/single writer.","Server hoặc database mới là source of truth cần transaction/idempotency.","Operation dài chứa network call: không nên giữ Mutex trong lúc chờ I/O nếu có thể tách pha."]}]},
-    {"id":"requirement","title":"9. Yêu cầu sản phẩm cụ thể","blocks":[{"type":"callout","variant":"purpose","title":"Chat message acknowledgement","content":"Một message optimistic có thể nhận ack socket, response HTTP fallback và sync missed-message gần nhau. Trạng thái chỉ được tiến theo CREATED → SENT → DELIVERED → READ; không được lùi hoặc nhân đôi message."}]},
-    {"id":"analysis","title":"10. Phân tích dependency, error policy, lifecycle và resource limits","blocks":[{"type":"table","headers":["Khía cạnh","Quyết định"],"rows":[["Dependency","Repository sở hữu message store; caller không sửa collection trực tiếp"],["Invariant","Status monotonic và clientId/serverId ánh xạ duy nhất"],["Lifecycle","State sống theo conversation/session, không theo từng composable"],["Error policy","Duplicate ack là idempotent; conflict được log/metric"],["Resource","Critical section ngắn; không network inside lock"],["Persistence","Room transaction cho read-modify-write bền vững"]]}]},
-    {"id":"minimal-code","title":"11. Code Kotlin thực tế","blocks":[{"type":"code","language":"kotlin","label":"Mutex bảo vệ invariant","content":"class MessageStore {\n    private val mutex = Mutex()\n    private val items = mutableMapOf<String, Message>()\n\n    suspend fun applyAck(clientId: String, serverId: String, status: Status) = mutex.withLock {\n        val old = items[clientId] ?: return@withLock\n        val next = old.copy(serverId = old.serverId ?: serverId, status = maxOf(old.status, status))\n        items[clientId] = next\n    }\n}"},{"type":"code","language":"kotlin","label":"Immutable StateFlow update","content":"private val _state = MutableStateFlow(ChatState())\nfun updateMessage(value: Message) {\n    _state.update { state -> state.copy(messages = state.messages.upsert(value)) }\n}"}]},
-    {"id":"upzi-case","title":"12. Case study Upzi","blocks":[{"type":"callout","title":"confirmed","content":"Upzi có chat optimistic clientId, ack, delivered/read và paging; đây là miền có shared state và duplicate/out-of-order event."},{"type":"callout","title":"inferred","content":"Nhiều nguồn event có thể cùng cập nhật message list; primitive synchronization cụ thể chưa được xác nhận."},{"type":"callout","title":"proposed","content":"Dùng single-writer reducer hoặc repository actor, monotonic status, Room transaction và idempotent upsert theo clientId/serverId."},{"type":"callout","variant":"warning","title":"needs-confirmation","content":"Cần xác nhận nơi sở hữu message state và cách hiện tại xử lý ack trùng trước khi kể như giải pháp đã triển khai."}]},
-    {"id":"alternatives","title":"13. Phương án thay thế","blocks":[{"type":"table","headers":["Phương án","Phù hợp","Giới hạn"],"rows":[["Immutable snapshot + StateFlow.update","UI state nhỏ","Invariant xuyên nhiều store khó hơn"],["Mutex","Critical section suspend ngắn","Contention và deadlock logic nếu lồng lock"],["AtomicInteger/AtomicReference","Một giá trị/compare-and-set","Khó cho invariant nhiều field"],["Actor/Channel","Single writer, event tuần tự","Cần lifecycle, backpressure, error policy"],["Room transaction","State bền vững","Không thay thế synchronization ngoài DB"]]}]},
-    {"id":"tradeoffs","title":"14. Lựa chọn và trade-off","blocks":[{"type":"list","items":["Confinement giảm lock nhưng có thể tạo queue bottleneck.","Mutex rõ ràng nhưng scope lock quá rộng làm tăng latency.","Atomic nhanh cho operation đơn giản nhưng CAS loop khó đọc.","Immutable state dễ reasoning nhưng copy collection lớn có chi phí.","Database transaction bảo đảm persistence, không tự bảo vệ cache memory riêng."]}]},
-    {"id":"edge-cases","title":"15. Edge cases","blocks":[{"type":"list","items":["Cancellation xảy ra khi đang chờ Mutex.","Exception bên trong critical section vẫn phải release lock.","Reentrant assumption sai: Kotlin Mutex không reentrant.","Hai lock lấy khác thứ tự gây deadlock logic.","StateFlow update chứa side effect có thể chạy lại trong CAS loop.","Server event đến out of order hoặc duplicate.","Process death giữa memory update và database commit."]}]},
-    {"id":"mistakes","title":"16. Sai lầm thường gặp","blocks":[{"type":"list","items":["Cho rằng coroutine single-threaded mặc định.","Dùng Dispatchers.IO để chữa race.","Chỉ khóa write nhưng read vẫn không nhất quán.","Giữ lock qua network call.","Expose MutableList ra ngoài repository.","Dùng volatile cho compound operation.","Không định nghĩa invariant trước khi chọn primitive."]}]},
-    {"id":"interview-basic","title":"17. Câu hỏi phỏng vấn cơ bản","blocks":[{"type":"list","items":["Race condition là gì?","counter++ có atomic không?","Mutex khác synchronized thế nào trong coroutine?","Volatile giải quyết gì và không giải quyết gì?","Thread confinement là gì?","StateFlow.update có ý nghĩa gì?"]}]},
-    {"id":"interview-deep","title":"18. Câu hỏi xoáy sâu","blocks":[{"type":"list","items":["Tại sao cùng Main dispatcher vẫn có logic race qua suspension?","Mutex có bảo vệ transaction server không?","Khi nào actor tốt hơn Mutex?","CAS có thể gặp ABA problem thế nào?","Làm sao thiết kế status monotonic khi event out of order?","Cancellation trong critical section ảnh hưởng invariant ra sao?"]}]},
-    {"id":"experience-answer","title":"19. Mẫu trả lời theo kinh nghiệm","blocks":[{"type":"paragraph","content":"Tôi bắt đầu bằng invariant và owner của state. Với chat, tôi không cho nhiều layer sửa list trực tiếp; mọi event đi qua một reducer/repository, upsert idempotent theo clientId/serverId và chỉ cho status tiến. Phần nào đã áp dụng cần xác nhận; phần actor/Mutex cụ thể chỉ nên nói là proposed nếu chưa có bằng chứng."}]},
-    {"id":"practice","title":"20. Bài tập thực hành","blocks":[{"type":"list","items":["Viết test tạo 10.000 increment để tái hiện lost update.","Sửa bằng Mutex, AtomicInteger và confinement; đo khác biệt.","Thiết kế upsert message idempotent với status monotonic.","Tách network phase khỏi critical section."]}]},
-    {"id":"scenario","title":"21. Bài tập tình huống","blocks":[{"type":"paragraph","content":"Refresh token nhận đồng thời 20 response 401. Hãy thiết kế single-flight refresh, cách các request chờ kết quả, cách propagate lỗi logout và cách tránh giữ lock khi retry request gốc."}]},
-    {"id":"checklist","title":"22. Checklist tự đánh giá","blocks":[{"type":"list","items":["Tôi nêu được invariant.","Tôi biết owner và số writer của state.","Tôi phân biệt atomicity/visibility/ordering.","Tôi không dùng dispatcher như synchronization.","Tôi giữ critical section ngắn.","Tôi có idempotency và duplicate policy.","Tôi test interleaving thay vì chỉ happy path."]}]},
-    {"id":"summary","title":"23. Tóm tắt","blocks":[{"type":"list","items":["Race condition là lỗi correctness do interleaving.","Giải pháp tốt nhất thường là giảm shared mutable state và xác định single owner.","Mutex, atomic, actor và transaction giải các phạm vi khác nhau.","Middle engineer phải nói được invariant, contention, lifecycle và failure policy."]}]},
-    {"id":"quiz-guide","title":"24. Quiz có giải thích","blocks":[{"type":"paragraph","content":"Chọn đáp án đúng nhất; phần giải thích nhấn mạnh reasoning thay vì học thuộc primitive."}]}
+    {
+      "id": "objectives",
+      "title": "1. Mục tiêu bài học",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "Mục tiêu của bài này không phải là ghi nhớ rằng counter++ không thread-safe, mà là hình thành cách suy luận về shared mutable state. Sau bài học, bạn phải nhìn một requirement thực tế, xác định state nào đang được chia sẻ, ai có quyền ghi, invariant nào phải luôn đúng và những interleaving nào có thể phá vỡ invariant đó."
+        },
+        {
+          "type": "list",
+          "items": [
+            "Giải thích race condition bằng timeline đọc-tính-ghi thay vì chỉ nói do nhiều thread.",
+            "Phân biệt atomicity, visibility, ordering, data race, logical race và thread safety.",
+            "Thiết kế ownership rõ ràng trước khi chọn lock hoặc atomic primitive.",
+            "Chọn đúng giữa immutable snapshot, confinement, Mutex, Atomic*, actor và database transaction.",
+            "Đánh giá cancellation, contention, fairness, lifecycle và persistence khi bảo vệ shared state.",
+            "Trình bày một case study Android Middle có requirement, invariant, failure scenario, giải pháp và test strategy."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "prerequisites",
+      "title": "2. Kiến thức nền",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "Bạn cần hiểu coroutine không phải là một thread riêng. Một coroutine có thể suspend ở thread A và resume ở thread B, tùy dispatcher và scheduler. Vì vậy, việc code được viết tuần tự trong một suspend function không tự động bảo đảm rằng toàn bộ application chỉ có một execution path chạm vào cùng state."
+        },
+        {
+          "type": "paragraph",
+          "content": "Bạn cũng cần nắm structured concurrency, cancellation và exception propagation. Những cơ chế này quản lý lifetime của công việc, nhưng không tự tạo mutual exclusion. Hai child coroutine cùng thuộc một parent scope vẫn có thể chạy xen kẽ và ghi vào cùng object nếu design cho phép."
+        },
+        {
+          "type": "list",
+          "items": [
+            "Process, thread, heap, stack và shared memory.",
+            "CoroutineScope, dispatcher, suspension point và cancellation.",
+            "MutableStateFlow, immutable data class và StateFlow.update.",
+            "Room transaction và khái niệm source of truth."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "terminology",
+      "title": "3. Định nghĩa và chú giải thuật ngữ",
+      "blocks": [
+        {
+          "type": "table",
+          "headers": ["Thuật ngữ", "Giải thích chi tiết"],
+          "rows": [
+            ["Race condition", "Kết quả cuối cùng phụ thuộc vào timing hoặc thứ tự xen kẽ giữa nhiều execution path. Race có thể xảy ra dù từng operation riêng lẻ không gây crash."],
+            ["Data race", "Hai execution truy cập cùng vùng nhớ đồng thời, ít nhất một truy cập là write và không có synchronization phù hợp. Data race là một dạng cụ thể; logical race có thể tồn tại ngay cả khi mọi read/write riêng lẻ đều atomic."],
+            ["Atomicity", "Một operation hoặc một nhóm operation xuất hiện như một bước không thể bị quan sát ở trạng thái trung gian. Atomic read không đồng nghĩa compound check-then-act là atomic."],
+            ["Visibility", "Một write của execution A được execution B quan sát đúng lúc. Không có happens-before, B có thể đọc giá trị cũ do cache, compiler hoặc CPU reordering."],
+            ["Ordering", "Thứ tự operation mà execution khác quan sát. Compiler và CPU có thể reorder nếu semantic single-thread không đổi, trừ khi synchronization tạo constraint."],
+            ["Happens-before", "Quan hệ bảo đảm rằng write trước một synchronization point sẽ được nhìn thấy sau synchronization point tương ứng."],
+            ["Critical section", "Đoạn code thao tác lên invariant dùng chung và phải được bảo vệ như một đơn vị."],
+            ["Invariant", "Điều kiện phải luôn đúng, ví dụ message status không được đi lùi, số dư không âm hoặc clientId chỉ ánh xạ tới một serverId."],
+            ["Thread confinement", "State chỉ được truy cập từ một execution context hoặc một owner tuần tự, nhờ đó giảm nhu cầu lock."],
+            ["Linearizability", "Mỗi operation concurrent có thể được hình dung là xảy ra tại một điểm tức thời hợp lệ giữa lúc bắt đầu và kết thúc."],
+            ["Contention", "Nhiều execution tranh cùng lock hoặc resource, dẫn đến chờ đợi và giảm throughput."],
+            ["Idempotency", "Thực hiện cùng một operation nhiều lần vẫn cho cùng hiệu ứng cuối, rất quan trọng khi event hoặc request có thể duplicate."]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mechanism",
+      "title": "4. Cơ chế race condition bên trong",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "Hãy phân rã counter++ thành ba bước: đọc counter hiện tại, cộng một, rồi ghi kết quả. Nếu counter đang là 10, coroutine A có thể đọc 10 rồi bị tạm dừng. Coroutine B cũng đọc 10, tính 11 và ghi 11. Sau đó A tiếp tục, vẫn dựa trên giá trị đã đọc trước đó và ghi 11. Hai lần increment nhưng kết quả chỉ tăng một; đây là lost update."
+        },
+        {
+          "type": "code",
+          "language": "text",
+          "label": "Timeline lost update",
+          "content": "Initial counter = 10\nA: read 10\nB: read 10\nB: compute 11\nB: write 11\nA: compute 11\nA: write 11\nFinal counter = 11, expected = 12"
+        },
+        {
+          "type": "paragraph",
+          "content": "Điểm quan trọng là race không đòi hỏi hai dòng code chạy đúng cùng một nanosecond. Chỉ cần lifetime của hai compound operation chồng lấp và không có synchronization. Suspension point còn mở rộng cửa sổ race: một coroutine có thể kiểm tra state, suspend để gọi network, rồi quay lại commit dựa trên assumption đã cũ."
+        },
+        {
+          "type": "code",
+          "language": "kotlin",
+          "label": "Check-then-act bị stale",
+          "content": "suspend fun loadIfMissing(key: String): Value {\n    cache[key]?.let { return it }\n    val remote = api.load(key) // suspend; coroutine khác có thể đã ghi cache\n    cache[key] = remote\n    return remote\n}"
+        },
+        {
+          "type": "paragraph",
+          "content": "Đoạn code trên có thể tạo hai request giống nhau hoặc làm response cũ ghi đè response mới. Khóa toàn bộ hàm bao gồm network call có thể sửa duplicate request nhưng lại giữ lock quá lâu. Thiết kế tốt hơn thường là single-flight: chỉ khóa pha kiểm tra và đăng ký in-flight work, sau đó release lock trước khi chờ I/O."
+        }
+      ]
+    },
+    {
+      "id": "memory-model",
+      "title": "5. Atomicity, visibility, ordering và memory model",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "Thread safety không chỉ là tránh hai writer cùng ghi. Một writer có thể cập nhật object nhưng reader khác vẫn thấy state cũ nếu không có synchronization tạo visibility guarantee. Tương tự, một flag được set có thể bị reader quan sát trước khi các field liên quan đã được publish đầy đủ nếu ordering không được bảo đảm."
+        },
+        {
+          "type": "paragraph",
+          "content": "@Volatile hữu ích cho visibility của một field đơn và ngăn một số reordering quanh field đó. Tuy nhiên, volatile không biến sequence read-modify-write thành atomic. var count by volatile rồi count++ vẫn có thể lost update. Với compound invariant, bạn cần lock, CAS trên toàn snapshot, confinement hoặc transaction."
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Đừng dùng volatile như một mutex nhỏ",
+          "content": "Volatile phù hợp cho flag độc lập như isClosed hoặc reference snapshot được thay nguyên khối. Nó không bảo vệ nhiều field phải thay đổi cùng nhau và không giúp check-then-act trở thành một transaction."
+        }
+      ]
+    },
+    {
+      "id": "purpose",
+      "title": "6. Mục đích của thread safety",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "Mục đích cuối cùng không phải là làm cho mọi access đều có lock, mà là giữ invariant của hệ thống dưới mọi interleaving hợp lệ. Một design thread-safe tốt phải vừa đúng về correctness, vừa không làm lifecycle khó kiểm soát, không giữ tài nguyên quá lâu và không biến một lock thành bottleneck toàn ứng dụng."
+        },
+        {
+          "type": "paragraph",
+          "content": "Trong Android, race thường biểu hiện thành UI state đi lùi, duplicate item, loading không tắt, token refresh lặp, paging ghi đè refresh hoặc optimistic message bị nhân đôi. Những bug này khó tái hiện vì thay đổi theo latency, số core CPU, logging và timing của scheduler."
+        }
+      ]
+    },
+    {
+      "id": "problem",
+      "title": "7. Những vấn đề kỹ thuật cần giải quyết",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "Một số vấn đề có bề ngoài giống nhau nhưng cần primitive khác nhau. Lost update trên một integer có thể dùng AtomicInteger. Invariant gồm message status, serverId và timestamp thường cần update cả snapshot hoặc serialized reducer. Số dư hoặc inventory nằm ở database cần transaction. Duplicate API mutation cần idempotency ở server; Mutex phía client không đủ khi app có nhiều process hoặc user dùng nhiều thiết bị."
+        },
+        {
+          "type": "list",
+          "items": [
+            "Single-flight refresh token khi nhiều request cùng nhận 401.",
+            "Pagination và refresh cùng cập nhật cache hoặc UI state.",
+            "Socket ack, HTTP fallback và missed-message sync cùng upsert một message.",
+            "Callback SDK và coroutine cùng thay session state.",
+            "Read-modify-write trên Room không nằm trong transaction.",
+            "Hai lần nhấn gửi hoặc retry network tạo duplicate side effect."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "when-to-use",
+      "title": "8. Dấu hiệu cần áp dụng synchronization hoặc single-owner design",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "Dấu hiệu rõ nhất là có shared mutable state với từ hai writer trở lên. Tuy nhiên, ngay cả một writer cũng có thể có logical race nếu operation bị chia thành nhiều pha qua suspension và assumption giữa các pha không còn đúng. Vì vậy hãy tìm invariant và lifetime, không chỉ đếm thread."
+        },
+        {
+          "type": "list",
+          "items": [
+            "Bug xuất hiện ngẫu nhiên khi mạng chậm, CPU tải cao hoặc bật song song nhiều request.",
+            "State có thể đi lùi, ví dụ READ quay về DELIVERED hoặc Content quay lại Loading cũ.",
+            "Có pattern check-then-act, read-modify-write hoặc load-then-save.",
+            "Nhiều nguồn event cập nhật cùng entity: socket, REST, database observer và user action.",
+            "Có duplicate request, duplicate event hoặc retry cùng idempotency key.",
+            "Một invariant trải trên nhiều field hoặc nhiều bảng."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "when-not-to-use",
+      "title": "9. Khi không nên dùng lock như phản xạ mặc định",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "Lock là công cụ, không phải kiến trúc. Nếu state có thể trở thành immutable snapshot và chỉ được thay bởi một reducer, bạn giảm mạnh số critical section. Nếu dữ liệu thuộc server hoặc database, synchronization trong RAM không thay thế transaction và idempotency ở source of truth."
+        },
+        {
+          "type": "paragraph",
+          "content": "Cũng không nên giữ Mutex quanh network call dài. Điều đó khiến mọi caller xếp hàng, làm cancellation khó phản ứng và có thể tạo deadlock logic khi callback cần cùng lock để hoàn tất. Hãy tách operation thành pha chuẩn bị ngắn dưới lock, pha I/O ngoài lock, rồi pha commit có revalidation."
+        },
+        {
+          "type": "list",
+          "items": [
+            "State hoàn toàn local trong một call stack và không escape.",
+            "Operation đã được serialize tự nhiên bởi một actor hoặc single-thread owner.",
+            "Correctness cần database transaction hoặc server idempotency, không phải memory lock.",
+            "Giá trị chỉ được thay nguyên snapshot bằng atomic reference.",
+            "Bạn chưa định nghĩa invariant nhưng đã định thêm lock theo cảm tính."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "requirement",
+      "title": "10. Yêu cầu sản phẩm cụ thể",
+      "blocks": [
+        {
+          "type": "callout",
+          "variant": "purpose",
+          "title": "Chat acknowledgement và đồng bộ trạng thái",
+          "content": "Một message optimistic được tạo với clientId. Sau đó app có thể nhận HTTP response, socket ack, delivered event, read event và missed-message sync theo thứ tự bất kỳ. Hệ thống phải bảo đảm chỉ có một logical message, serverId không bị thay đổi trái phép và status chỉ tiến CREATED → SENDING → SENT → DELIVERED → READ."
+        },
+        {
+          "type": "paragraph",
+          "content": "Requirement này chứa ba invariant. Thứ nhất, uniqueness: cùng clientId không tạo hai item. Thứ hai, identity consistency: một clientId chỉ map tới một serverId sau khi được xác nhận. Thứ ba, monotonic state: event đến trễ không được làm status đi lùi. Nếu chỉ dùng MutableList và update từ từng callback, mỗi callback có thể đúng cục bộ nhưng tổng thể vẫn sai."
+        },
+        {
+          "type": "paragraph",
+          "content": "Ngoài correctness, requirement còn có resource constraint: critical section phải ngắn vì chat event có thể đến dày; persistence phải chịu process death; duplicate event phải idempotent; conflict bất thường cần log metric thay vì crash người dùng."
+        }
+      ]
+    },
+    {
+      "id": "analysis",
+      "title": "11. Phân tích dependency, error policy, lifecycle và resource limits",
+      "blocks": [
+        {
+          "type": "table",
+          "headers": ["Khía cạnh", "Phân tích và quyết định"],
+          "rows": [
+            ["Ownership", "MessageRepository hoặc ChatStore là owner duy nhất. UI, socket adapter và API layer gửi event, không trực tiếp sửa list."],
+            ["Invariant", "Uniqueness theo clientId/serverId, status monotonic, timestamp merge có policy rõ, unread count không âm."],
+            ["Concurrency", "Mọi mutation đi qua reducer tuần tự hoặc Mutex bảo vệ snapshot; network và disk I/O không nằm trong lock memory nếu có thể tách."],
+            ["Lifecycle", "Store sống theo conversation hoặc session. Logout phải đóng actor/cancel scope và không nhận event của session cũ."],
+            ["Error policy", "Duplicate hợp lệ được bỏ qua; conflict identity được log/metric; persistence failure không được làm memory và DB âm thầm lệch vô hạn."],
+            ["Persistence", "Room transaction bảo vệ read-modify-write bền vững; in-memory synchronization không thay thế transaction."],
+            ["Resource", "Queue có giới hạn hoặc monitoring; critical section O(1) hoặc O(log n); tránh copy list khổng lồ cho mỗi event."],
+            ["Testing", "Test permutation của event, duplicate, out-of-order, cancellation, process recreation và concurrent producers."]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "minimal-code",
+      "title": "12. Ví dụ Kotlin: Mutex bảo vệ invariant",
+      "blocks": [
+        {
+          "type": "code",
+          "language": "kotlin",
+          "label": "MessageStore với critical section ngắn",
+          "content": "class MessageStore {\n    private val mutex = Mutex()\n    private val byClientId = mutableMapOf<String, Message>()\n\n    suspend fun apply(event: MessageEvent): Message? = mutex.withLock {\n        val current = byClientId[event.clientId] ?: return@withLock null\n\n        val mergedServerId = when {\n            current.serverId == null -> event.serverId\n            event.serverId == null -> current.serverId\n            current.serverId == event.serverId -> current.serverId\n            else -> throw IdentityConflict(event.clientId)\n        }\n\n        val next = current.copy(\n            serverId = mergedServerId,\n            status = maxOf(current.status, event.status),\n            updatedAt = maxOf(current.updatedAt, event.timestamp)\n        )\n        byClientId[event.clientId] = next\n        next\n    }\n}"
+        },
+        {
+          "type": "paragraph",
+          "content": "withLock bảo đảm chỉ một coroutine thực thi merge tại một thời điểm và tự release lock khi block kết thúc hoặc ném exception. Phần merge không gọi network, không delay và không ghi database; vì vậy thời gian giữ lock ngắn. Tuy nhiên, map vẫn không nên được expose ra ngoài vì caller có thể mutation mà không qua mutex."
+        },
+        {
+          "type": "paragraph",
+          "content": "Cancellation khi đang chờ Mutex làm coroutine ngừng chờ. Khi đã vào critical section, code không có suspension point nên hoàn tất nhanh, giúp invariant không dở dang. Nếu critical section có suspend call, cần hiểu rõ cancellation có thể xảy ra giữa các bước và phải thiết kế rollback hoặc commit nguyên tử."
+        }
+      ]
+    },
+    {
+      "id": "immutable-state",
+      "title": "13. Immutable snapshot và StateFlow.update",
+      "blocks": [
+        {
+          "type": "code",
+          "language": "kotlin",
+          "label": "Atomic update trên immutable state",
+          "content": "private val _state = MutableStateFlow(ChatState())\nval state: StateFlow<ChatState> = _state.asStateFlow()\n\nfun apply(event: MessageEvent) {\n    _state.update { old ->\n        old.copy(messages = old.messages.merge(event))\n    }\n}"
+        },
+        {
+          "type": "paragraph",
+          "content": "StateFlow.update thường sử dụng compare-and-set loop. Nếu một writer khác cập nhật state giữa lúc lambda tính toán và CAS, lambda có thể được chạy lại với state mới. Vì vậy lambda phải thuần: không gửi analytics, không gọi network, không tăng counter bên ngoài và không tạo side effect không idempotent."
+        },
+        {
+          "type": "paragraph",
+          "content": "Immutable snapshot giúp reader luôn thấy một state nhất quán và giảm nguy cơ expose MutableList. Đổi lại, copy collection lớn cho từng event có thể tốn CPU và allocation. Có thể dùng persistent collection, index map nội bộ hoặc reducer batching tùy throughput."
+        }
+      ]
+    },
+    {
+      "id": "atomic-primitives",
+      "title": "14. Atomic primitive và compare-and-set",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "AtomicInteger, AtomicLong và AtomicReference phù hợp khi invariant nằm trong một giá trị hoặc một immutable snapshot có thể thay bằng CAS. CAS so sánh giá trị hiện tại với expected; nếu khớp thì ghi update, nếu không thì caller đọc lại và thử lại."
+        },
+        {
+          "type": "code",
+          "language": "kotlin",
+          "label": "CAS loop cho snapshot",
+          "content": "val ref = AtomicReference(SessionState())\n\nfun markConnected() {\n    while (true) {\n        val old = ref.get()\n        val next = old.copy(isConnected = true, generation = old.generation + 1)\n        if (ref.compareAndSet(old, next)) return\n    }\n}"
+        },
+        {
+          "type": "paragraph",
+          "content": "CAS tránh blocking lock nhưng không miễn phí: dưới contention cao, nhiều thread có thể tính rồi thất bại và retry. Logic phức tạp trong CAS loop làm code khó đọc; side effect tuyệt đối không nên nằm trong loop. ABA problem cũng có thể xuất hiện nếu reference quay về giá trị cũ nhưng lịch sử thay đổi có ý nghĩa, khi đó cần version/generation."
+        }
+      ]
+    },
+    {
+      "id": "actor-confinement",
+      "title": "15. Actor và single-writer confinement",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "Actor biến nhiều producer concurrent thành một consumer tuần tự. Mọi mutation được biểu diễn thành command gửi qua Channel; actor là owner duy nhất của mutable state. Đây là cách mạnh để reasoning vì invariant chỉ được sửa tại một nơi."
+        },
+        {
+          "type": "code",
+          "language": "kotlin",
+          "label": "Reducer actor đơn giản",
+          "content": "class ChatActor(scope: CoroutineScope) {\n    private val commands = Channel<MessageEvent>(capacity = Channel.BUFFERED)\n    private val state = mutableMapOf<String, Message>()\n\n    init {\n        scope.launch {\n            for (event in commands) {\n                state[event.clientId] = merge(state[event.clientId], event)\n            }\n        }\n    }\n\n    suspend fun submit(event: MessageEvent) = commands.send(event)\n}"
+        },
+        {
+          "type": "paragraph",
+          "content": "Actor không tự giải quyết mọi thứ. Bạn phải quyết định channel capacity, behavior khi producer nhanh hơn consumer, cách đóng actor, xử lý exception trong reducer và cách query state. Nếu actor scope chết nhưng producer vẫn send, cần error policy rõ. Actor cũng có thể trở thành bottleneck nếu reducer làm I/O hoặc xử lý nặng."
+        }
+      ]
+    },
+    {
+      "id": "transactions",
+      "title": "16. Database transaction và idempotency",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "Memory synchronization chỉ bảo vệ state trong một process. Khi correctness liên quan dữ liệu bền vững, Room transaction phải bao trọn read-modify-write. Ví dụ unreadCount được đọc, tính lại và ghi phải nằm trong cùng transaction; nếu không, hai writer có thể cùng đọc giá trị cũ và mất update."
+        },
+        {
+          "type": "code",
+          "language": "kotlin",
+          "label": "Room transaction bảo vệ invariant bền vững",
+          "content": "@Transaction\nsuspend fun applyAck(event: AckEntity) {\n    val current = messageDao.findByClientId(event.clientId) ?: return\n    val next = current.copy(\n        serverId = current.serverId ?: event.serverId,\n        status = maxOf(current.status, event.status)\n    )\n    messageDao.update(next)\n}"
+        },
+        {
+          "type": "paragraph",
+          "content": "Transaction client vẫn không ngăn server xử lý duplicate mutation từ nhiều thiết bị. Đối với send message, payment hoặc apply job, cần idempotency key ở API. Server phải coi các request cùng key là cùng logical operation và trả lại kết quả cũ thay vì thực hiện side effect lần nữa."
+        }
+      ]
+    },
+    {
+      "id": "upzi-case",
+      "title": "17. Case study Upzi và mức độ xác nhận",
+      "blocks": [
+        {
+          "type": "callout",
+          "variant": "purpose",
+          "title": "confirmed",
+          "content": "Upzi có chat với optimistic clientId, ack timeout, delivered/read state, paging và real-time events. Đây là các nguồn đã xác nhận tạo ra yêu cầu merge entity và quản lý event đến không đồng bộ."
+        },
+        {
+          "type": "callout",
+          "title": "inferred",
+          "content": "Từ kiến trúc chat có thể suy luận nhiều nguồn event có khả năng cùng cập nhật message collection. Tuy nhiên primitive synchronization và ownership hiện tại của message store chưa được xác nhận đầy đủ."
+        },
+        {
+          "type": "callout",
+          "title": "proposed",
+          "content": "Đề xuất một single-writer ChatRepository hoặc reducer actor; mọi HTTP/socket/database event được chuyển thành MessageEvent, merge idempotent theo clientId/serverId, status monotonic và persistence bằng Room transaction."
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "needs-confirmation",
+          "content": "Cần xác nhận code production hiện dùng Mutex, StateFlow.update, actor hay cơ chế khác; cách xử lý serverId conflict; và liệu duplicate ack đã có metric hay chưa trước khi trình bày như kinh nghiệm đã triển khai."
+        },
+        {
+          "type": "paragraph",
+          "content": "Khi trả lời phỏng vấn, có thể nói chắc về problem domain đã gặp: optimistic item, ack và event out-of-order. Phần reducer actor hoặc Mutex chỉ nên trình bày là phương án thiết kế nếu chưa kiểm chứng trong source code."
+        }
+      ]
+    },
+    {
+      "id": "alternatives",
+      "title": "18. Phương án thay thế và cách chọn",
+      "blocks": [
+        {
+          "type": "table",
+          "headers": ["Phương án", "Phù hợp khi", "Không phù hợp khi"],
+          "rows": [
+            ["Immutable snapshot + StateFlow.update", "UI/domain state có thể copy nguyên snapshot; nhiều reader, mutation tương đối nhẹ", "Collection rất lớn hoặc lambda chứa side effect"],
+            ["Mutex", "Critical section suspend ngắn, invariant nhiều field, code cần rõ ràng", "Giữ lock qua I/O dài hoặc cần cross-process correctness"],
+            ["AtomicInteger/AtomicReference", "Một counter, flag hoặc snapshot CAS đơn giản", "Invariant trải trên nhiều object hoặc logic CAS quá phức tạp"],
+            ["Actor/Channel", "Nhiều producer, cần single writer và ordering event", "Lifecycle/channel policy chưa rõ hoặc reducer làm I/O nặng"],
+            ["Single-thread dispatcher", "Legacy component cần confinement rõ", "Dùng như global bottleneck hoặc quên close executor"],
+            ["Room transaction", "Invariant bền vững trong database", "State chỉ ở memory hoặc cần server-side idempotency"],
+            ["Server idempotency", "Mutation có side effect và có thể retry/duplicate", "Chỉ bảo vệ UI state cục bộ"]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tradeoffs",
+      "title": "19. Lý do lựa chọn và trade-off",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "Confinement thường là lựa chọn dễ reasoning nhất vì giảm shared mutable state, nhưng mọi command phải đi qua một queue và queue có thể thành bottleneck. Mutex dễ áp dụng cục bộ, song lock scope rộng làm latency tăng và lock ordering phức tạp có thể gây deadlock logic."
+        },
+        {
+          "type": "paragraph",
+          "content": "Atomic primitive có throughput tốt cho operation nhỏ nhưng CAS loop dễ trở thành code khó bảo trì. Immutable state đơn giản cho reader và Compose, đổi lại allocation có thể lớn. Database transaction bảo đảm durability nhưng không bảo vệ in-memory cache nằm ngoài transaction. Không có primitive nào giải mọi tầng; thường phải kết hợp ownership memory, transaction database và idempotency server."
+        }
+      ]
+    },
+    {
+      "id": "edge-cases",
+      "title": "20. Edge cases cần phân tích",
+      "blocks": [
+        {
+          "type": "list",
+          "items": [
+            "Coroutine bị cancel trong lúc chờ Mutex: operation chưa vào critical section và không nên để lại reservation rác.",
+            "Exception trong withLock: lock được release nhưng state có thể đã mutation một phần nếu bạn sửa nhiều object trước khi throw.",
+            "Kotlin Mutex không reentrant: cùng coroutine cố lấy lại cùng mutex có thể tự chờ vô hạn.",
+            "Hai mutex được lấy theo thứ tự khác nhau giữa hai code path tạo deadlock logic.",
+            "StateFlow.update lambda chạy lại do CAS conflict; side effect bên trong có thể bị lặp.",
+            "Actor channel đầy: send suspend hoặc drop event; cả hai đều phải là policy có chủ đích.",
+            "Event duplicate hoặc out-of-order: reducer phải idempotent và monotonic.",
+            "Process death sau memory update nhưng trước DB commit: sau restart state có thể quay lại.",
+            "Multi-process app: memory lock trong process A không bảo vệ process B.",
+            "Server đã commit nhưng client timeout và retry: cần idempotency key thay vì chỉ Mutex."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mistakes",
+      "title": "21. Sai lầm thường gặp",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "Sai lầm phổ biến nhất là nhầm scheduler với synchronization: chuyển mọi code sang Dispatchers.IO không làm state thread-safe. Một sai lầm khác là chỉ khóa writer nhưng vẫn expose MutableList cho reader; lúc đó reader có thể quan sát collection đang thay đổi hoặc tự mutation ngoài lock."
+        },
+        {
+          "type": "list",
+          "items": [
+            "Cho rằng coroutine chạy tuần tự nên không có race.",
+            "Dùng delay để làm bug biến mất thay vì sửa invariant.",
+            "Dùng volatile cho compound operation.",
+            "Giữ lock qua network hoặc database call dài mà không phân tích contention.",
+            "Gọi callback hoặc analytics trong CAS loop.",
+            "Không đóng actor/channel khi session kết thúc.",
+            "Dùng nhiều lock nhưng không có lock ordering convention.",
+            "Chỉ test happy path, không test event permutation và duplicate.",
+            "Dùng client-side synchronization để thay server idempotency."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "interview",
+      "title": "22. Câu hỏi phỏng vấn và hướng trả lời sâu",
+      "blocks": [
+        {
+          "type": "table",
+          "headers": ["Câu hỏi", "Điểm cần có trong câu trả lời"],
+          "rows": [
+            ["Race condition là gì?", "Nêu kết quả phụ thuộc interleaving; đưa timeline cụ thể; phân biệt với data race."],
+            ["counter++ có atomic không?", "Phân rã read-modify-write; giải thích lost update; nêu AtomicInteger hoặc Mutex."],
+            ["Mutex khác synchronized thế nào?", "Mutex suspend thay vì block thread khi chờ; không reentrant; phù hợp coroutine nhưng vẫn cần critical section ngắn."],
+            ["Volatile giải quyết gì?", "Visibility và ordering cho field; không bảo vệ compound invariant."],
+            ["Cùng Main dispatcher có race không?", "Có logical race qua suspension/reentrancy hoặc nhiều callback; single thread không tự biến multi-step business operation thành transaction."],
+            ["Khi nào actor tốt hơn Mutex?", "Nhiều producer, cần ordering và single owner; đổi lại phải quản lý queue, lifecycle và backpressure."],
+            ["StateFlow.update có side effect được không?", "Không nên vì lambda có thể chạy lại trong CAS loop."],
+            ["Mutex có bảo vệ server mutation không?", "Không; cần idempotency/transaction phía server và có thể optimistic concurrency control."]
+          ]
+        },
+        {
+          "type": "callout",
+          "title": "Câu hỏi đào sâu",
+          "content": "Hãy chuẩn bị trả lời: nếu refresh token có 20 request cùng 401 thì làm single-flight thế nào; nếu owner coroutine bị cancel khi refresh đang chạy thì các waiter nhận gì; nếu actor queue đầy thì chọn suspend, drop hay coalesce dựa trên requirement nào."
+        }
+      ]
+    },
+    {
+      "id": "experience-answer",
+      "title": "23. Mẫu trả lời gắn với kinh nghiệm",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "Tôi bắt đầu từ invariant và ownership thay vì thêm lock ngay. Với chat, invariant là một logical message không bị duplicate, clientId chỉ map tới một serverId và status chỉ tiến. Tôi gom event từ HTTP, socket và sync về một owner để merge theo cùng rule, còn persistence dùng transaction. Các phần Upzi như optimistic clientId, ack và delivered/read là confirmed; primitive cụ thể như actor hoặc Mutex chỉ nên nói là proposed nếu chưa kiểm tra source hiện tại."
+        },
+        {
+          "type": "paragraph",
+          "content": "Khi interviewer hỏi trade-off, tôi giải thích rằng Mutex đơn giản cho critical section ngắn, actor phù hợp khi cần ordering từ nhiều producer, còn StateFlow.update hợp với immutable UI snapshot. Tôi tránh network trong lock và dùng idempotency key cho side effect server vì client lock không bảo vệ retry hoặc nhiều thiết bị."
+        }
+      ]
+    },
+    {
+      "id": "practice",
+      "title": "24. Bài tập, checklist, tóm tắt và quiz",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "Bài tập 1: tạo 10.000 coroutine increment cùng counter trên Dispatchers.Default, chạy nhiều lần để quan sát lost update. Sửa lần lượt bằng Mutex, AtomicInteger và single-writer actor. Với mỗi phương án, ghi lại correctness, throughput, độ rõ code và behavior khi cancel scope."
+        },
+        {
+          "type": "paragraph",
+          "content": "Bài tập 2: thiết kế ChatMessageReducer nhận Created, Ack, Delivered và Read theo mọi permutation. Tiêu chí hoàn thành: không duplicate, status monotonic, serverId conflict được phát hiện, duplicate event idempotent và có test ít nhất 20 permutation."
+        },
+        {
+          "type": "paragraph",
+          "content": "Bài tập tình huống: 20 request cùng nhận 401. Thiết kế single-flight refresh không giữ Mutex trong lúc retry request gốc. Hãy chỉ ra owner của in-flight Deferred, cách waiter nhận cùng kết quả, cách clear state khi refresh fail và cách tránh request của session cũ tiếp tục sau logout."
+        },
+        {
+          "type": "list",
+          "items": [
+            "Tôi nêu được invariant trước khi chọn primitive.",
+            "Tôi phân biệt atomicity, visibility và ordering.",
+            "Tôi biết tại sao dispatcher không phải synchronization.",
+            "Tôi giữ critical section ngắn và không chứa side effect khó rollback.",
+            "Tôi biết khi nào cần transaction hoặc server idempotency.",
+            "Tôi test duplicate, out-of-order, cancellation và process recreation.",
+            "Tôi trình bày đúng mức độ confirmed/inferred/proposed của case study Upzi."
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "purpose",
+          "title": "Tóm tắt cần nhớ",
+          "content": "Race condition là vấn đề của interleaving và invariant, không chỉ của số thread. Giải pháp mạnh nhất thường là giảm shared mutable state và chỉ định một owner. Mutex, atomic, actor, transaction và idempotency giải những phạm vi khác nhau; Android Middle phải giải thích được phạm vi bảo đảm, lifecycle, cancellation và trade-off của từng lựa chọn."
+        },
+        {
+          "type": "paragraph",
+          "content": "Quiz bên dưới dùng câu hỏi có lựa chọn để kiểm tra reasoning. Mỗi câu có đáp án và giải thích; không nên chỉ học thuộc tên primitive."
+        }
+      ]
+    }
   ],
   "quiz": [
-    {"id":"b09-q01","question":"Vì sao counter++ có thể mất update?","options":["Vì Int luôn nullable","Vì là read-modify-write có thể xen ngang","Vì coroutine không dùng thread","Vì println chậm"],"answerIndex":1,"explanation":"Hai execution có thể đọc cùng giá trị cũ rồi ghi cùng kết quả mới."},
-    {"id":"b09-q02","question":"Dispatchers.IO có tự làm code thread-safe không?","options":["Có","Chỉ với suspend function","Không","Chỉ Android 14"],"answerIndex":2,"explanation":"Dispatcher chỉ scheduling, không tạo mutual exclusion hay happens-before cần thiết."},
-    {"id":"b09-q03","question":"Primitive phù hợp cho critical section suspend ngắn là gì?","options":["Mutex","delay","GlobalScope","NonCancellable"],"answerIndex":0,"explanation":"Mutex hỗ trợ suspend khi chờ lock và release an toàn qua withLock."},
-    {"id":"b09-q04","question":"Volatile không đủ cho operation nào?","options":["Đọc một flag","Ghi một flag","counter++","Publish reference"],"answerIndex":2,"explanation":"Volatile hỗ trợ visibility nhưng không biến compound read-modify-write thành atomic."},
-    {"id":"b09-q05","question":"Cách giảm shared mutable state mạnh nhất?","options":["Tăng thread pool","Single owner/confinement","Thêm delay","Dùng IO"],"answerIndex":1,"explanation":"Một writer tuần tự hóa mutation và giảm bề mặt synchronization."},
-    {"id":"b09-q06","question":"Điều gì không nên làm trong Mutex nếu tránh được?","options":["Cập nhật map","Kiểm tra invariant","Network call dài","Copy data class"],"answerIndex":2,"explanation":"Giữ lock qua I/O làm tăng contention và dễ tạo dependency cycle."},
-    {"id":"b09-q07","question":"StateFlow.update có thể chạy lambda nhiều lần vì sao?","options":["Compose recomposition","CAS retry khi conflict","GC","Main thread"],"answerIndex":1,"explanation":"Atomic update thường dùng compare-and-set loop nên lambda phải không có side effect."},
-    {"id":"b09-q08","question":"Kotlin Mutex có reentrant mặc định không?","options":["Có","Không","Chỉ Main","Chỉ JVM 21"],"answerIndex":1,"explanation":"Cùng coroutine lock lại cùng Mutex có thể tự chờ vô hạn."},
-    {"id":"b09-q09","question":"Room transaction bảo đảm tốt nhất điều gì?","options":["Mọi cache memory","Các operation DB trong transaction","Server idempotency","UI thread safety"],"answerIndex":1,"explanation":"Transaction áp dụng cho phạm vi database, không tự đồng bộ mọi state ngoài DB."},
-    {"id":"b09-q10","question":"Status chat out-of-order nên xử lý thế nào?","options":["Luôn nhận event cuối đến","Monotonic transition/idempotent reducer","Xóa message","Retry vô hạn"],"answerIndex":1,"explanation":"Thứ tự arrival không nhất thiết là thứ tự nghiệp vụ; reducer phải giữ invariant."},
-    {"id":"b09-q11","question":"Actor phù hợp khi nào?","options":["Nhiều event cần single writer tuần tự","Một phép cộng duy nhất","Không có shared state","Chỉ test"],"answerIndex":0,"explanation":"Actor gom mutation qua queue và một consumer sở hữu state."},
-    {"id":"b09-q12","question":"Bước đầu khi sửa race nên là gì?","options":["Thêm synchronized khắp nơi","Định nghĩa invariant và ownership","Đổi dispatcher","Tăng timeout"],"answerIndex":1,"explanation":"Không biết invariant thì không thể chọn đúng phạm vi và primitive bảo vệ."}
+    {
+      "id": "b09-q01",
+      "question": "Vì sao counter++ có thể tạo lost update?",
+      "options": ["Vì Int không immutable", "Vì counter++ gồm read, compute và write có thể xen kẽ", "Vì coroutine không dùng CPU", "Vì println không thread-safe"],
+      "answerIndex": 1,
+      "explanation": "Hai execution có thể cùng đọc giá trị cũ rồi cùng ghi một giá trị mới, khiến một lần increment bị mất."
+    },
+    {
+      "id": "b09-q02",
+      "question": "Dispatchers.IO có tự làm một MutableMap thread-safe không?",
+      "options": ["Có", "Có nếu mọi hàm là suspend", "Không", "Chỉ trên Android 14 trở lên"],
+      "answerIndex": 2,
+      "explanation": "Dispatcher quyết định scheduling, không tạo mutual exclusion hoặc happens-before cho shared state."
+    },
+    {
+      "id": "b09-q03",
+      "question": "@Volatile không đủ để bảo vệ operation nào?",
+      "options": ["Đọc một boolean flag", "Ghi một reference snapshot", "counter++", "Publish một immutable reference"],
+      "answerIndex": 2,
+      "explanation": "Volatile hỗ trợ visibility nhưng counter++ là compound read-modify-write và không trở thành atomic."
+    },
+    {
+      "id": "b09-q04",
+      "question": "Vì sao không nên gọi analytics trong StateFlow.update lambda?",
+      "options": ["Vì StateFlow chỉ chạy trên Main", "Vì lambda có thể chạy lại khi CAS conflict", "Vì analytics luôn blocking", "Vì update không nhận lambda"],
+      "answerIndex": 1,
+      "explanation": "CAS loop có thể retry và chạy lambda nhiều lần, làm side effect bị lặp."
+    },
+    {
+      "id": "b09-q05",
+      "question": "Lựa chọn phù hợp cho nhiều producer nhưng muốn một writer tuần tự là gì?",
+      "options": ["Actor/Channel", "Thêm nhiều thread", "GlobalScope", "delay"],
+      "answerIndex": 0,
+      "explanation": "Actor serialize command qua một consumer duy nhất, giúp ownership và ordering rõ ràng."
+    },
+    {
+      "id": "b09-q06",
+      "question": "Điều gì nên tránh trong critical section của Mutex?",
+      "options": ["Merge hai data class", "Kiểm tra invariant", "Network call dài", "Cập nhật một map nội bộ"],
+      "answerIndex": 2,
+      "explanation": "I/O dài làm tăng contention, kéo dài cancellation và có thể tạo dependency cycle."
+    },
+    {
+      "id": "b09-q07",
+      "question": "Room transaction bảo đảm điều gì mà Mutex memory không bảo đảm?",
+      "options": ["Render Compose nhanh hơn", "Atomicity của read-modify-write bền vững trong database", "Server không duplicate request", "Không cần test"],
+      "answerIndex": 1,
+      "explanation": "Transaction bảo vệ dữ liệu database qua nhiều statement; Mutex chỉ có hiệu lực trong vùng memory/process mà nó quản lý."
+    },
+    {
+      "id": "b09-q08",
+      "question": "Kotlin Mutex có reentrant mặc định không?",
+      "options": ["Có", "Không", "Chỉ khi dùng Main dispatcher", "Chỉ với withContext"],
+      "answerIndex": 1,
+      "explanation": "Mutex không reentrant; cùng coroutine lấy lại lock chưa release có thể tự chờ vô hạn."
+    },
+    {
+      "id": "b09-q09",
+      "question": "Client-side Mutex có đủ để ngăn server xử lý duplicate mutation không?",
+      "options": ["Đủ", "Không, cần idempotency hoặc transaction phía server", "Chỉ cần khi offline", "Chỉ cần thêm retry"],
+      "answerIndex": 1,
+      "explanation": "Request có thể duplicate do timeout, retry, nhiều process hoặc nhiều thiết bị; server phải có cơ chế idempotency riêng."
+    },
+    {
+      "id": "b09-q10",
+      "question": "Biện pháp thường giúp giảm bề mặt synchronization mạnh nhất là gì?",
+      "options": ["Tăng kích thước thread pool", "Single owner và immutable state", "Thêm nhiều lock", "Dùng Dispatchers.Unconfined"],
+      "answerIndex": 1,
+      "explanation": "Single ownership và immutable snapshot giảm số writer và số điểm cần phối hợp."
+    },
+    {
+      "id": "b09-q11",
+      "question": "ABA problem liên quan đến điều gì?",
+      "options": ["Reference đổi A→B→A nên CAS chỉ nhìn giá trị hiện tại có thể bỏ lỡ lịch sử", "Android Binder", "Room migration", "Coroutine cancellation"],
+      "answerIndex": 0,
+      "explanation": "Nếu lịch sử thay đổi có ý nghĩa, giá trị quay về A có thể đánh lừa CAS; version/generation giúp phát hiện."
+    },
+    {
+      "id": "b09-q12",
+      "question": "Một reducer chat tốt nên xử lý event out-of-order thế nào?",
+      "options": ["Luôn nhận event cuối cùng đến", "Dùng status monotonic và merge idempotent", "Xóa toàn bộ cache", "Chạy mọi event trên IO"],
+      "answerIndex": 1,
+      "explanation": "Policy monotonic ngăn status đi lùi và idempotency làm duplicate event không đổi kết quả cuối."
+    }
   ]
 }
