@@ -1,8 +1,0 @@
-[
-  {"term":"Composition","definition":"Quá trình Compose Runtime chạy các Composable để xây dựng hoặc cập nhật cấu trúc UI logic."},
-  {"term":"Recomposition","definition":"Việc chạy lại những Composable scope bị invalid khi state đã đọc thay đổi."},
-  {"term":"Slot table","definition":"Cấu trúc runtime lưu group, identity, remembered values và metadata của composition."},
-  {"term":"Snapshot state","definition":"Cơ chế quản lý state có version và theo dõi read/write để tạo invalidation nhất quán."},
-  {"term":"Positional memoization","definition":"Giữ remembered value dựa trên vị trí logic của lời gọi trong composition."},
-  {"term":"Skippable group","definition":"Nhóm Composable có thể được bỏ qua khi input ổn định và không đổi."}
-]
