@@ -223,8 +223,8 @@
           "code": "D02",
           "title": "State trong Compose",
           "path": "data/lessons/d/d02.json",
-          "estimatedMinutes": 120,
-          "status": "planned"
+          "estimatedMinutes": 360,
+          "status": "published"
         },
         {
           "id": "d03",
