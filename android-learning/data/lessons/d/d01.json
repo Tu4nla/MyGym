@@ -1,0 +1,668 @@
+{
+  "id": "d01",
+  "code": "D01",
+  "title": "Declarative UI và Compose Runtime",
+  "summary": "Giải thích mô hình UI khai báo, cơ chế snapshot state, composition, recomposition, slot table, applier, frame scheduling và cách thiết kế Composable đúng theo product contract.",
+  "estimatedMinutes": 360,
+  "sections": [
+    {
+      "id": "objectives",
+      "title": "1. Mục tiêu bài học",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "Jetpack Compose không chỉ là một bộ widget mới. Nó thay đổi cách Android biểu diễn UI: thay vì giữ tham chiếu tới từng View rồi ra lệnh cập nhật từng thuộc tính, developer mô tả UI tương ứng với state hiện tại và để runtime quyết định phần nào cần chạy lại, phần nào cần giữ, phần nào cần áp dụng xuống cây giao diện. Mục tiêu của bài này là xây nền tảng đủ sâu để bạn không dùng Compose theo kiểu viết XML bằng Kotlin."
+        },
+        {
+          "type": "paragraph",
+          "content": "Sau bài học, bạn phải giải thích được composition, recomposition, state read tracking, snapshot, slot table, identity của Composable, key, stability, skippability, side effect boundary và frame scheduling ở mức đủ dùng khi debug UI nhấp nháy, chạy lại quá nhiều hoặc giữ nhầm state. Bạn cũng phải biết phân biệt đâu là contract của UI khai báo và đâu chỉ là chi tiết implementation của Compose Runtime."
+        },
+        {
+          "type": "list",
+          "items": [
+            "Phân biệt imperative UI và declarative UI bằng ownership, synchronization và source of truth.",
+            "Mô tả pipeline từ state change đến recomposition và apply changes.",
+            "Hiểu vì sao Composable không phải View, không phải coroutine và không nên chứa side effect tùy ý.",
+            "Thiết kế UI function thuần theo state và event callback.",
+            "Phân tích identity, positional memoization, key và state retention.",
+            "Đánh giá trade-off về performance, lifecycle, testability và migration từ View system."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "prerequisites",
+      "title": "2. Kiến thức nền",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "Bạn cần nắm Activity/Fragment ở mức cơ bản, main thread, frame rendering, ViewModel và immutable state. Kiến thức Coroutine/Flow ở chương B và C đặc biệt quan trọng vì Compose thường collect StateFlow thành State rồi render lại. Tuy nhiên Flow không phải Compose state; Flow là stream bất đồng bộ, còn Compose snapshot state là cơ chế quan sát read/write trong runtime."
+        },
+        {
+          "type": "paragraph",
+          "content": "Bạn cũng cần phân biệt object identity với value equality. Compose có thể quyết định bỏ qua một nhóm khi input được xem là ổn định và không đổi, nhưng quyết định này không đồng nghĩa mọi object bằng nhau theo equals đều có cùng identity trong slot table. Hai khái niệm phục vụ hai bài toán khác nhau: identity giúp giữ vị trí và state, còn equality/stability giúp quyết định có cần chạy lại hay không."
+        }
+      ]
+    },
+    {
+      "id": "terminology",
+      "title": "3. Định nghĩa và chú giải thuật ngữ",
+      "blocks": [
+        {
+          "type": "table",
+          "headers": ["Thuật ngữ", "Giải thích"],
+          "rows": [
+            ["Declarative UI", "Mô tả UI cần có từ state hiện tại thay vì ra lệnh từng bước thay đổi widget."],
+            ["Composition", "Quá trình chạy Composable lần đầu để tạo hoặc cập nhật cấu trúc node mà runtime quản lý."],
+            ["Recomposition", "Chạy lại các nhóm Composable bị ảnh hưởng sau khi state đã đọc thay đổi."],
+            ["Composer", "Đối tượng runtime được compiler plugin truyền ngầm để ghi/đọc group, slot và change operation."],
+            ["Slot table", "Cấu trúc lưu group, identity, remembered values và metadata của composition."],
+            ["Snapshot", "Cơ chế quản lý phiên bản và quan sát đọc/ghi state nhất quán."],
+            ["MutableState", "State holder tích hợp snapshot system; ghi value có thể invalidate scope đã đọc nó."],
+            ["RecomposeScope", "Phạm vi có thể được đánh dấu cần recomposition khi dependency state thay đổi."],
+            ["Applier", "Thành phần áp change operation lên cây node đích, ví dụ UI tree."],
+            ["Skippable", "Nhóm có thể được runtime bỏ qua khi input ổn định và không đổi."],
+            ["Restartable", "Nhóm mà runtime có thể bắt đầu recomposition tại chính boundary đó."],
+            ["Positional memoization", "Giữ remembered value dựa trên vị trí logic của lời gọi trong composition."],
+            ["Key", "Danh tính bổ sung giúp runtime phân biệt item khi vị trí thay đổi."],
+            ["Stability", "Cam kết rằng runtime có thể suy luận an toàn về khả năng thay đổi của giá trị."],
+            ["Side effect", "Tác động ra bên ngoài quá trình mô tả UI, như gọi API, ghi analytics hoặc đăng ký listener."]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "internal-mechanism",
+      "title": "4. Cơ chế hoạt động bên trong",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "Khi compiler gặp một hàm có @Composable, nó biến đổi hàm đó để nhận thêm Composer và các bit mask mô tả tham số nào đã thay đổi. Lời gọi Composable vì thế không còn là lời gọi Kotlin thuần túy. Runtime dùng Composer để mở group, ghi slot, nhớ value và phát change operation. Đây là lý do không thể gọi Composable tùy ý từ một function thường: nó cần chạy trong một composition context hợp lệ."
+        },
+        {
+          "type": "paragraph",
+          "content": "Trong composition đầu tiên, runtime đi qua cây lời gọi. Mỗi vị trí lời gọi tạo group logic trong slot table. remember lưu value vào slot tương ứng. Khi UI node cần tạo, runtime ghi operation để insert node; khi thuộc tính thay đổi, runtime ghi operation update. Sau phase tính toán, change list được Applier áp vào cây đích. Composition vì vậy không nhất thiết trực tiếp sửa UI ngay tại mỗi dòng code."
+        },
+        {
+          "type": "paragraph",
+          "content": "Khi một Composable đọc MutableState.value, snapshot system ghi nhận RecomposeScope hiện tại phụ thuộc vào state đó. Khi value được ghi với giá trị được mutation policy xem là thay đổi, state đánh dấu những scope liên quan là invalid. Recomposer lên lịch công việc trên frame clock, chạy lại các scope invalid, tạo change list mới rồi apply. Nếu state thay đổi nhiều lần trước frame tiếp theo, runtime có thể gộp nhiều invalidation thành một đợt recomposition."
+        },
+        {
+          "type": "paragraph",
+          "content": "Recomposition không đồng nghĩa toàn bộ màn hình chạy lại. Boundary restartable và vị trí state read quyết định phạm vi bị invalid. Nếu parent đọc state rồi truyền kết quả xuống nhiều child, parent có thể chạy lại và kéo theo nhiều lời gọi. Nếu state read được hoãn xuống child gần nơi sử dụng, phạm vi nhỏ hơn. Đây là lý do placement của state read ảnh hưởng performance dù UI cuối giống nhau."
+        },
+        {
+          "type": "paragraph",
+          "content": "Runtime có thể skip một group khi compiler đánh dấu group skippable và các tham số được xem là không đổi. Stability giúp runtime tin rằng nếu reference hoặc value được so sánh không đổi thì bên trong object cũng không âm thầm thay đổi theo cách Compose không quan sát được. Một mutable collection bị sửa tại chỗ nhưng reference không đổi là ví dụ phá contract: UI có thể không được invalid đúng lúc."
+        },
+        {
+          "type": "paragraph",
+          "content": "Identity mặc định dựa nhiều vào vị trí lời gọi. Nếu một danh sách thay đổi thứ tự mà không có key phù hợp, remembered state có thể đi theo vị trí thay vì theo item business. key không phải công cụ tăng tốc chung; nó là cách nói với runtime rằng group này thuộc về entity nào khi vị trí dịch chuyển. LazyColumn cũng dùng item key cho cùng bài toán identity, reuse và state preservation."
+        },
+        {
+          "type": "code",
+          "language": "kotlin",
+          "label": "Mô hình compiler/runtime được giản lược",
+          "content": "@Composable\nfun Greeting(name: String) {\n    Text(\"Hello $name\")\n}\n\n// Ý tưởng sau compiler transform, không phải API để tự viết:\nfun Greeting(name: String, composer: Composer, changed: Int) {\n    composer.startRestartGroup(/* key */)\n    Text(\"Hello $name\", composer, /* changed mask */)\n    composer.endRestartGroup()\n}"
+        },
+        {
+          "type": "paragraph",
+          "content": "Đoạn biến đổi trên chỉ là mô hình tư duy. Chi tiết bytecode thay đổi theo phiên bản compiler, nên không nên phụ thuộc vào tên hàm nội bộ. Điều cần giữ là invariant: compiler bổ sung giao thức để runtime theo dõi group, tham số và khả năng restart/skip."
+        }
+      ]
+    },
+    {
+      "id": "purpose",
+      "title": "5. Mục đích của kỹ thuật",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "Declarative UI giảm gánh nặng đồng bộ giữa model và nhiều widget. Với imperative UI, mỗi nhánh business phải nhớ cập nhật visibility, text, loading, error, enabled và accessibility state đúng thứ tự. Chỉ cần bỏ sót một lệnh, UI rơi vào trạng thái không hợp lệ. Với declarative UI, developer định nghĩa một mapping từ UiState sang UI tree và runtime chịu trách nhiệm hội tụ cây hiện tại về cây mong muốn."
+        },
+        {
+          "type": "paragraph",
+          "content": "Compose Runtime cung cấp incremental update để mô hình khai báo vẫn đủ hiệu năng trên thiết bị di động. Thay vì dựng lại toàn bộ UI thật mỗi lần state đổi, runtime giữ cấu trúc composition, theo dõi dependency và chỉ tính/apply phần cần thiết. Mục tiêu không phải không có mutation; mutation vẫn tồn tại trong runtime và node tree, nhưng được cô lập khỏi code mô tả UI."
+        }
+      ]
+    },
+    {
+      "id": "problems-solved",
+      "title": "6. Vấn đề kỹ thuật được giải quyết",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "Compose giải quyết state synchronization, UI branching phức tạp, reuse theo function, preview/testability và giảm boilerplate binding. Quan trọng hơn, nó ép kiến trúc làm rõ source of truth. Khi một TextField hiển thị query, query phải đến từ state và thay đổi đi qua event callback. Nếu vừa giữ local state vừa giữ ViewModel state mà không có ownership rõ, declarative UI vẫn có thể sai như View system."
+        },
+        {
+          "type": "list",
+          "items": [
+            "Tránh cập nhật thiếu một View khi state thay đổi.",
+            "Biểu diễn loading/content/empty/error bằng cấu trúc UI rõ ràng.",
+            "Tách rendering khỏi business side effect.",
+            "Cho phép recomposition cục bộ dựa trên state dependency.",
+            "Tái sử dụng UI bằng function và parameter thay vì subclass nặng.",
+            "Tạo semantic tree phục vụ accessibility và UI testing."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "signs-to-use",
+      "title": "7. Dấu hiệu cần dùng",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "Compose phù hợp khi màn hình có state thay đổi thường xuyên, nhiều biến thể UI, design system cần tái sử dụng, animation theo state hoặc dự án muốn unidirectional data flow. Với dự án mới, Compose thường giảm chi phí XML, adapter và binding. Với dự án cũ, nên chọn migration boundary rõ như màn hình mới hoặc một component độc lập."
+        },
+        {
+          "type": "paragraph",
+          "content": "Dấu hiệu mạnh nhất không phải đội ngũ thích Kotlin DSL, mà là product cần thay đổi UI nhanh trong khi vẫn giữ tính nhất quán. Compose có lợi khi requirement có thể viết thành state machine và component contract."
+        }
+      ]
+    },
+    {
+      "id": "when-not-to-use",
+      "title": "8. Khi không nên dùng",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "Không nên rewrite toàn bộ ứng dụng View ổn định chỉ để đồng nhất công nghệ. Migration lớn làm tăng regression, mất thời gian tái tạo behavior accessibility, text input, nested scrolling và custom view đã được kiểm chứng. Compose có interoperability, vì vậy chiến lược hỗn hợp thường an toàn hơn."
+        },
+        {
+          "type": "paragraph",
+          "content": "Không nên đưa mọi giá trị vào MutableState chỉ vì UI cần đọc. Dữ liệu domain dài hạn vẫn nên thuộc repository/ViewModel; Compose state nên đại diện state cần quan sát trong composition. Không dùng remember để thay thế persistence, process restoration hoặc business source of truth."
+        }
+      ]
+    },
+    {
+      "id": "product-requirements",
+      "title": "9. Yêu cầu sản phẩm cụ thể",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "Giả sử màn hình danh sách cơ hội có các trạng thái initial, loading, content, empty, refresh error và blocking error. Product yêu cầu dữ liệu cũ vẫn hiển thị khi pull-to-refresh lỗi, filter chip giữ lựa chọn khi rotate, scroll position không nhảy khi item cập nhật và analytics chỉ gửi khi màn hình thực sự xuất hiện. Từ requirement này, UI model phải tách content khỏi refresh status thay vì dùng một sealed class loại trừ lẫn nhau quá mức."
+        },
+        {
+          "type": "table",
+          "headers": ["Requirement", "Thiết kế Compose tương ứng"],
+          "rows": [
+            ["Loading lần đầu", "Hiển thị skeleton khi chưa có content."],
+            ["Refresh không xóa dữ liệu", "Giữ items và biểu diễn isRefreshing/error riêng."],
+            ["Item không giữ nhầm state", "Dùng stable business key trong LazyColumn."],
+            ["Rotate không mất filter", "Owner ở ViewModel hoặc rememberSaveable khi đúng scope."],
+            ["Không gửi analytics khi recomposition", "Đặt trong LaunchedEffect với key lifecycle hợp lý."],
+            ["Accessibility", "Cung cấp semantics, contentDescription và mergeDescendants đúng contract."]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dependency-error-lifecycle",
+      "title": "10. Dependency, error policy, lifecycle và resource limits",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "Composable nên nhận dữ liệu đã chuẩn hóa và callback, không trực tiếp tạo repository hay gọi service locator. Dependency owner thường là ViewModel, DI container hoặc route-level Composable. Điều này giữ rendering có thể preview/test và tránh dependency được tạo lại theo recomposition."
+        },
+        {
+          "type": "paragraph",
+          "content": "Error policy thuộc state owner. Composable chỉ quyết định cách trình bày và phát user action. Nếu Composable tự catch exception từ API, lifecycle và retry ownership trở nên mơ hồ. Với one-time effect như snackbar, contract phải nói rõ event có được replay sau recreate, có cần acknowledgement hay không."
+        },
+        {
+          "type": "paragraph",
+          "content": "Lifecycle của composition ngắn hơn process và có thể ngắn hơn ViewModel. Một Composable có thể enter, leave rồi enter lại do navigation hoặc conditional UI. Resource được đăng ký trong composition phải cleanup bằng DisposableEffect. Coroutine gắn UI dùng LaunchedEffect hoặc rememberCoroutineScope, không dùng scope tự tạo không được cancel."
+        },
+        {
+          "type": "paragraph",
+          "content": "Resource limit cần xét số lần recomposition, object allocation, snapshot write frequency, layout/draw cost và số collector. Recomposition rẻ không có nghĩa miễn phí; vấn đề thường đến từ expensive work chạy trong body, unstable parameter kéo phạm vi invalid lớn hoặc list thiếu key gây mất reuse."
+        }
+      ]
+    },
+    {
+      "id": "minimal-code",
+      "title": "11. Ví dụ code tối giản",
+      "blocks": [
+        {
+          "type": "code",
+          "language": "kotlin",
+          "label": "UI khai báo theo state",
+          "content": "data class CounterUiState(\n    val count: Int,\n    val canDecrease: Boolean\n)\n\n@Composable\nfun CounterScreen(\n    state: CounterUiState,\n    onIncrease: () -> Unit,\n    onDecrease: () -> Unit\n) {\n    Column {\n        Text(text = state.count.toString())\n        Row {\n            Button(onClick = onDecrease, enabled = state.canDecrease) {\n                Text(\"-\")\n            }\n            Button(onClick = onIncrease) {\n                Text(\"+\")\n            }\n        }\n    }\n}"
+        },
+        {
+          "type": "paragraph",
+          "content": "CounterScreen không sở hữu business state và không biết count được lưu ở đâu. Với cùng state, nó mô tả cùng UI. Callback là event đi ra ngoài, giúp preview và test dễ dàng."
+        },
+        {
+          "type": "code",
+          "language": "kotlin",
+          "label": "State local đúng phạm vi",
+          "content": "@Composable\nfun ExpandableDescription(text: String) {\n    var expanded by remember { mutableStateOf(false) }\n\n    Column {\n        Text(\n            text = text,\n            maxLines = if (expanded) Int.MAX_VALUE else 3\n        )\n        TextButton(onClick = { expanded = !expanded }) {\n            Text(if (expanded) \"Thu gọn\" else \"Xem thêm\")\n        }\n    }\n}"
+        },
+        {
+          "type": "paragraph",
+          "content": "expanded là presentation state cục bộ và có lifetime bằng vị trí Composable. Nếu product yêu cầu giữ sau process death hoặc chia sẻ giữa nhiều màn hình, remember không còn đủ."
+        }
+      ]
+    },
+    {
+      "id": "upzi-example",
+      "title": "12. Ví dụ thực tế Upzi hoặc dự án liên quan",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "`confirmed`: Upzi Android dùng Jetpack Compose Material3, single-activity navigation, StateFlow và Paging 3. Vì vậy declarative UI, lifecycle-aware collection và stable list identity là các chủ đề gắn trực tiếp với kiến trúc dự án."
+        },
+        {
+          "type": "paragraph",
+          "content": "`inferred`: các màn hình campaign, opportunity hoặc chat nhiều khả năng render từ UiState và PagingData, nhưng phạm vi state hoisting, stability annotation và recomposition metrics hiện chưa được xác nhận đầy đủ. Không nên tuyên bố đã tối ưu compiler stability nếu chưa đo hoặc chưa xem report."
+        },
+        {
+          "type": "paragraph",
+          "content": "`proposed`: route-level Composable collect StateFlow bằng collectAsStateWithLifecycle, sau đó truyền immutable UiState xuống screen-level Composable. LazyColumn dùng item.id làm key; event callback gọi ViewModel; analytics xuất hiện màn hình dùng LaunchedEffect với screen identity, không đặt trực tiếp trong body."
+        },
+        {
+          "type": "code",
+          "language": "kotlin",
+          "label": "Proposed route/screen separation",
+          "content": "@Composable\nfun OpportunityRoute(\n    viewModel: OpportunityViewModel,\n    onOpenDetail: (String) -> Unit\n) {\n    val state by viewModel.uiState.collectAsStateWithLifecycle()\n\n    OpportunityScreen(\n        state = state,\n        onRetry = viewModel::retry,\n        onOpportunityClick = onOpenDetail\n    )\n}\n\n@Composable\nfun OpportunityScreen(\n    state: OpportunityUiState,\n    onRetry: () -> Unit,\n    onOpportunityClick: (String) -> Unit\n) {\n    LazyColumn {\n        items(state.items, key = { it.id }) { item ->\n            OpportunityRow(item, onClick = { onOpportunityClick(item.id) })\n        }\n    }\n}"
+        },
+        {
+          "type": "paragraph",
+          "content": "`needs-confirmation`: cần xác nhận model UiState cụ thể, nơi collect PagingData, key hiện dùng, screen analytics policy và baseline profile trước khi dùng ví dụ này như kinh nghiệm đã triển khai. Khi phỏng vấn, chỉ nói phần đã kiểm chứng trong code hoặc đo bằng tooling."
+        }
+      ]
+    },
+    {
+      "id": "alternatives",
+      "title": "13. Phương án thay thế",
+      "blocks": [
+        {
+          "type": "table",
+          "headers": ["Phương án", "Ưu điểm", "Giới hạn"],
+          "rows": [
+            ["XML + ViewBinding", "Ổn định, tooling lâu năm, phù hợp codebase cũ", "State synchronization và boilerplate cao hơn."],
+            ["Data Binding", "Binding expression và observable integration", "Debug khó, compile chậm, logic dễ rò vào XML."],
+            ["Custom View", "Kiểm soát rendering và input sâu", "Chi phí lifecycle, measure/layout và state restoration cao."],
+            ["ComposeView trong View", "Migration theo component", "Phải quản lý composition strategy và interoperability."],
+            ["AndroidView trong Compose", "Tái sử dụng View chưa có bản Compose", "Boundary state/lifecycle và performance cần kiểm soát."]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "Không có lựa chọn tuyệt đối. Compose mạnh ở state-driven UI và tốc độ phát triển, còn View system vẫn phù hợp với component legacy đã tối ưu hoặc SDK chỉ cung cấp View. Quyết định nên dựa trên risk, ownership và khả năng test chứ không theo xu hướng."
+        }
+      ]
+    },
+    {
+      "id": "tradeoffs",
+      "title": "14. Lý do lựa chọn và trade-off",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "Declarative UI đổi explicit mutation lấy runtime machinery. Developer viết ít code đồng bộ widget hơn nhưng phải hiểu state ownership, identity và recomposition. Bug mới thường không phải TextView quên setText mà là state read sai scope, effect chạy lại, remembered value gắn nhầm item hoặc object mutable không được quan sát."
+        },
+        {
+          "type": "paragraph",
+          "content": "Compose cải thiện reuse và preview nhưng tăng dependency vào compiler plugin/runtime version. Performance tốt khi model đúng, song list lớn, text input, nested scrolling và custom drawing vẫn cần profiling. Không nên dùng số recomposition đơn lẻ để kết luận chậm; phải đo frame time, layout/draw, allocation và user-visible jank."
+        },
+        {
+          "type": "paragraph",
+          "content": "State hoisting tăng testability và single source of truth nhưng hoist quá mức làm API dài và parent recomposition rộng. Local presentation state hợp lý khi ownership chỉ thuộc component. Tiêu chí chọn là ai cần đọc/ghi, lifetime bao lâu và có cần khôi phục hay chia sẻ không."
+        }
+      ]
+    },
+    {
+      "id": "edge-cases",
+      "title": "15. Edge cases",
+      "blocks": [
+        {
+          "type": "list",
+          "items": [
+            "Sửa MutableList tại chỗ nhưng không gán state mới, UI không được invalid đúng.",
+            "Đổi thứ tự list không có key làm remember state đi theo vị trí.",
+            "State thay đổi trong lúc composition có thể gây snapshot conflict hoặc vòng lặp recomposition.",
+            "Đọc state quá cao trong cây làm phạm vi recomposition lớn.",
+            "Composable rời composition trước khi coroutine hoàn thành; cần cancellation đúng.",
+            "Conditional call làm group xuất hiện/mất; remembered value phải theo identity đúng.",
+            "Lambda capture object cũ dẫn đến stale callback trong effect dài hạn.",
+            "Configuration change giữ ViewModel nhưng composition local state bị tạo lại.",
+            "Process death mất remember và ViewModel memory state nếu không có SavedStateHandle/persistence.",
+            "AndroidView giữ listener hoặc View reference sau khi Composable rời composition."
+          ]
+        },
+        {
+          "type": "code",
+          "language": "kotlin",
+          "label": "Key bảo vệ identity khi đổi thứ tự",
+          "content": "@Composable\nfun EditablePeople(people: List<Person>) {\n    Column {\n        people.forEach { person ->\n            key(person.id) {\n                var draft by remember { mutableStateOf(person.name) }\n                OutlinedTextField(\n                    value = draft,\n                    onValueChange = { draft = it }\n                )\n            }\n        }\n    }\n}"
+        }
+      ]
+    },
+    {
+      "id": "common-mistakes",
+      "title": "16. Sai lầm thường gặp",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "Sai lầm phổ biến nhất là đặt side effect trực tiếp trong body. Body có thể chạy nhiều lần, bị bỏ qua hoặc bị hủy trước apply. Gọi API, gửi analytics, start animation imperative hoặc đăng ký listener trong body đều vi phạm giả định. Dùng effect API theo lifecycle contract ở bài D04."
+        },
+        {
+          "type": "paragraph",
+          "content": "Sai lầm thứ hai là tối ưu trước khi đo bằng cách thêm @Stable/@Immutable tùy tiện. Annotation là lời cam kết với compiler. Nếu class thực sự mutable mà không observable, runtime có thể skip sai và UI stale."
+        },
+        {
+          "type": "list",
+          "items": [
+            "Tạo ViewModel hoặc repository trong Composable thường xuyên.",
+            "Dùng remember cho state cần survive process death.",
+            "Truyền cả ViewModel xuống mọi leaf thay vì state/callback.",
+            "Tạo collection mới hoặc sort/filter nặng mỗi recomposition.",
+            "Dùng index làm LazyColumn key cho dữ liệu reorder được.",
+            "Cho rằng recomposition luôn kéo theo layout và draw toàn bộ.",
+            "Cho rằng Composable chạy đúng một lần như onCreate."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "basic-interview",
+      "title": "17. Câu hỏi phỏng vấn cơ bản",
+      "blocks": [
+        {
+          "type": "qa",
+          "question": "Declarative UI khác imperative UI thế nào?",
+          "answer": "Imperative UI ra lệnh thay đổi widget từng bước; declarative UI mô tả UI từ state. Runtime chịu trách nhiệm cập nhật cây hiện tại để khớp mô tả mới. Lợi ích chính là giảm lỗi đồng bộ nhiều thuộc tính và làm rõ source of truth."
+        },
+        {
+          "type": "qa",
+          "question": "Recomposition là gì?",
+          "answer": "Là việc runtime chạy lại các Composable scope bị invalid do state dependency thay đổi, sau đó apply change cần thiết. Nó không đồng nghĩa recreate toàn màn hình hay luôn layout/draw toàn bộ."
+        },
+        {
+          "type": "qa",
+          "question": "remember lưu ở đâu và sống bao lâu?",
+          "answer": "Value được lưu trong slot table theo vị trí/identity của group. Nó sống khi group còn trong composition và identity không đổi; không phải persistence qua process death."
+        },
+        {
+          "type": "qa",
+          "question": "Composable có phải View không?",
+          "answer": "Không. Composable là function tham gia composition protocol. Nó có thể phát UI node nhưng bản thân function không phải node có mutable property như View."
+        }
+      ]
+    },
+    {
+      "id": "deep-interview",
+      "title": "18. Câu hỏi xoáy sâu và câu hỏi bẫy",
+      "blocks": [
+        {
+          "type": "qa",
+          "question": "Nếu parent recomposition thì mọi child có chắc chắn chạy lại không?",
+          "answer": "Không chắc. Parent body có thể gọi lại child, nhưng runtime có thể skip child nếu group skippable và input không đổi. Cũng có trường hợp child là restart scope độc lập và được recomposition trực tiếp mà parent không chạy lại."
+        },
+        {
+          "type": "qa",
+          "question": "Tại sao sửa phần tử trong MutableList rồi UI không đổi?",
+          "answer": "Compose không tự quan sát mutation của collection thường. Nếu MutableState vẫn giữ cùng reference và không có observable state bên trong, không có invalidation phù hợp. Dùng immutable list gán value mới hoặc snapshotStateListOf theo ownership."
+        },
+        {
+          "type": "qa",
+          "question": "key có làm recomposition ít hơn không?",
+          "answer": "Không phải mặc định. Key chủ yếu xác lập identity khi vị trí thay đổi, giúp state và node theo đúng entity. Nó có thể gián tiếp tránh dispose/recreate không cần thiết, nhưng không thay thế stability hay state read optimization."
+        },
+        {
+          "type": "qa",
+          "question": "Có thể coi Composable là pure function không?",
+          "answer": "Đó là mô hình thiết kế hữu ích nhưng không hoàn toàn theo nghĩa toán học vì runtime truyền Composer, đọc state và quản lý node. Tuy vậy body nên không tạo side effect tùy ý và output nên phụ thuộc vào input/state đã khai báo."
+        },
+        {
+          "type": "qa",
+          "question": "Vì sao @Immutable sai có thể gây bug correctness chứ không chỉ performance?",
+          "answer": "Annotation cho phép compiler/runtime tin object không âm thầm đổi. Nếu object thực tế mutable mà mutation không tạo invalidation, group có thể bị skip và UI hiển thị dữ liệu cũ."
+        }
+      ]
+    },
+    {
+      "id": "experience-answer",
+      "title": "19. Mẫu trả lời gắn với kinh nghiệm của người học",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "Mẫu trả lời trung thực: Trong Upzi, tôi làm việc với Compose Material3, StateFlow và Paging 3. Tôi tổ chức route collect state theo lifecycle rồi truyền UiState và callback xuống screen để giảm coupling với ViewModel. Khi xử lý danh sách, tôi chú ý business key để state của item không đi theo index. Với vấn đề hiệu năng, tôi không kết luận chỉ từ recomposition count mà kiểm tra phạm vi state read, allocation trong body và frame behavior. Những phần về compiler stability report hoặc benchmark cụ thể tôi chỉ trình bày khi đã đo và xác nhận trong codebase."
+        },
+        {
+          "type": "paragraph",
+          "content": "Câu trả lời tốt phải liên kết requirement với quyết định: source of truth ở đâu, local state nào được phép tồn tại, lifecycle collector ra sao, item identity bằng gì và side effect đặt ở boundary nào. Tránh nói chung chung rằng Compose nhanh hơn XML hoặc không cần lifecycle."
+        }
+      ]
+    },
+    {
+      "id": "practical-exercises",
+      "title": "20. Bài tập thực hành",
+      "blocks": [
+        {
+          "type": "list",
+          "items": [
+            "Viết CounterScreen stateless và một route sở hữu state. Tiêu chí: screen preview được, callback test được, không giữ hai source of truth.",
+            "Tạo danh sách editor có thể reorder. Chứng minh lỗi khi thiếu key và sửa bằng business key.",
+            "Dùng snapshotStateListOf và immutable List ở hai phiên bản; mô tả ownership và trade-off.",
+            "Tạo CompositionLocal nhỏ cho design token, sau đó giải thích vì sao không dùng nó để truyền repository.",
+            "Dùng Layout Inspector/Recomposition Counts quan sát phạm vi khi state read ở parent và khi hoãn xuống child."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "Mỗi bài cần có README ngắn ghi expected behavior, state owner, identity rule và bằng chứng test hoặc ảnh tooling. Mục tiêu không chỉ làm UI chạy mà phải chứng minh mô hình đúng."
+        }
+      ]
+    },
+    {
+      "id": "scenario-exercises",
+      "title": "21. Bài tập tình huống",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "Tình huống 1: chat list có draft text riêng cho từng conversation preview. Khi server pin một conversation lên đầu, draft nhảy sang row khác. Hãy phân tích positional identity và thiết kế key/state owner đúng."
+        },
+        {
+          "type": "paragraph",
+          "content": "Tình huống 2: analytics screen_view gửi hàng chục lần. Hãy xác định vì sao body không phải lifecycle callback, chọn effect boundary và key phù hợp, đồng thời mô tả test tránh duplicate."
+        },
+        {
+          "type": "paragraph",
+          "content": "Tình huống 3: màn hình filter lag khi gõ. Code sort, group và map 5.000 item ngay trong body. Hãy quyết định phần nào chuyển sang ViewModel, phần nào dùng derivedStateOf hoặc remember, và metric nào cần đo trước/sau."
+        }
+      ]
+    },
+    {
+      "id": "self-checklist",
+      "title": "22. Checklist tự đánh giá",
+      "blocks": [
+        {
+          "type": "checklist",
+          "items": [
+            "Tôi giải thích được compiler transform ở mức khái niệm.",
+            "Tôi mô tả được state read tracking và invalidation.",
+            "Tôi phân biệt composition, recomposition và apply changes.",
+            "Tôi biết remember phụ thuộc positional identity.",
+            "Tôi biết khi nào cần key và vì sao index thường nguy hiểm.",
+            "Tôi không đặt side effect tùy ý trong body.",
+            "Tôi chọn state owner theo lifetime và số bên cần đọc/ghi.",
+            "Tôi phân biệt Flow state với snapshot state.",
+            "Tôi không dùng @Stable/@Immutable như mẹo tối ưu mù.",
+            "Tôi biết profiling frame quan trọng hơn đếm recomposition đơn lẻ.",
+            "Tôi có thể nói rõ phần Upzi nào confirmed và phần nào proposed."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "summary",
+      "title": "23. Tóm tắt cần nhớ",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "Compose biến UI thành hàm của state nhưng vẫn cần runtime quản lý identity, dependency và mutation bên dưới. Compiler plugin thêm giao thức Composer; slot table lưu group và remembered values; snapshot system theo dõi state read/write; Recomposer lập lịch scope invalid; Applier cập nhật cây node."
+        },
+        {
+          "type": "paragraph",
+          "content": "Correctness đến từ source of truth rõ, immutable/observable state, identity đúng và side effect có lifecycle. Performance đến sau correctness và phải được đo bằng frame behavior, không chỉ bằng cảm giác hoặc số recomposition."
+        }
+      ]
+    },
+    {
+      "id": "quiz",
+      "title": "24. Quiz có giải thích đáp án",
+      "blocks": [
+        {
+          "type": "quiz",
+          "questions": [
+            {
+              "id": "d01-q01",
+              "question": "Declarative UI chủ yếu thay đổi điều gì?",
+              "options": [
+                {"id": "a", "text": "Cách mô tả UI từ state"},
+                {"id": "b", "text": "Android không còn main thread"},
+                {"id": "c", "text": "Mọi UI đều không có mutation"},
+                {"id": "d", "text": "Không cần lifecycle"}
+              ],
+              "correctOptionIds": ["a"],
+              "explanation": "Declarative UI mô tả UI mong muốn từ state. Runtime vẫn mutation cây node và Android vẫn có main thread/lifecycle."
+            },
+            {
+              "id": "d01-q02",
+              "question": "Composable function được compiler bổ sung gì ở mức khái niệm?",
+              "options": [
+                {"id": "a", "text": "Composer và changed flags"},
+                {"id": "b", "text": "Một Activity mới"},
+                {"id": "c", "text": "Một database transaction"},
+                {"id": "d", "text": "Một Binder service"}
+              ],
+              "correctOptionIds": ["a"],
+              "explanation": "Compiler plugin biến đổi Composable để tham gia giao thức runtime qua Composer và metadata thay đổi."
+            },
+            {
+              "id": "d01-q03",
+              "question": "Ghi MutableState thường dẫn tới điều gì?",
+              "options": [
+                {"id": "a", "text": "Invalidate scope đã đọc state"},
+                {"id": "b", "text": "Recreate process ngay"},
+                {"id": "c", "text": "Luôn redraw toàn app"},
+                {"id": "d", "text": "Không có tác dụng"}
+              ],
+              "correctOptionIds": ["a"],
+              "explanation": "Snapshot system đánh dấu những scope phụ thuộc cần recomposition; phạm vi thực tế phụ thuộc nơi state được đọc."
+            },
+            {
+              "id": "d01-q04",
+              "question": "remember giữ value dựa chủ yếu vào yếu tố nào?",
+              "options": [
+                {"id": "a", "text": "Vị trí/identity trong composition"},
+                {"id": "b", "text": "Tên biến Kotlin"},
+                {"id": "c", "text": "Địa chỉ IP"},
+                {"id": "d", "text": "Tên Activity trong manifest"}
+              ],
+              "correctOptionIds": ["a"],
+              "explanation": "remember dùng slot table và positional identity; key có thể bổ sung identity khi vị trí thay đổi."
+            },
+            {
+              "id": "d01-q05",
+              "question": "Khi reorder list, key business giúp gì?",
+              "options": [
+                {"id": "a", "text": "Giữ state theo đúng entity"},
+                {"id": "b", "text": "Tự gọi API nhanh hơn"},
+                {"id": "c", "text": "Loại bỏ mọi recomposition"},
+                {"id": "d", "text": "Tự persist qua process death"}
+              ],
+              "correctOptionIds": ["a"],
+              "explanation": "Key xác lập identity để state/node không đi theo index khi item di chuyển."
+            },
+            {
+              "id": "d01-q06",
+              "question": "Vì sao không gọi analytics trực tiếp trong body Composable?",
+              "options": [
+                {"id": "a", "text": "Body có thể chạy nhiều lần và không phải lifecycle callback"},
+                {"id": "b", "text": "Composable không chạy trên Android"},
+                {"id": "c", "text": "Analytics chỉ dùng XML"},
+                {"id": "d", "text": "Kotlin cấm network"}
+              ],
+              "correctOptionIds": ["a"],
+              "explanation": "Recomposition có thể làm body chạy lại; side effect phải gắn với effect/lifecycle contract rõ."
+            },
+            {
+              "id": "d01-q07",
+              "question": "Sửa MutableList tại chỗ nhưng giữ cùng reference có rủi ro gì?",
+              "options": [
+                {"id": "a", "text": "Compose không quan sát được mutation"},
+                {"id": "b", "text": "Luôn crash compiler"},
+                {"id": "c", "text": "Tự đổi sang immutable"},
+                {"id": "d", "text": "Tạo Activity mới"}
+              ],
+              "correctOptionIds": ["a"],
+              "explanation": "Collection thường không phát snapshot invalidation. Dùng immutable replacement hoặc snapshot-aware collection."
+            },
+            {
+              "id": "d01-q08",
+              "question": "Recomposition có luôn kéo theo layout và draw toàn bộ không?",
+              "options": [
+                {"id": "a", "text": "Không"},
+                {"id": "b", "text": "Có, luôn luôn"},
+                {"id": "c", "text": "Chỉ trên emulator"},
+                {"id": "d", "text": "Chỉ khi dùng Flow"}
+              ],
+              "correctOptionIds": ["a"],
+              "explanation": "Runtime có thể skip nhóm và chỉ apply thay đổi cần thiết; layout/draw phụ thuộc node/property bị thay đổi."
+            },
+            {
+              "id": "d01-q09",
+              "question": "@Immutable nên được hiểu là gì?",
+              "options": [
+                {"id": "a", "text": "Một lời cam kết correctness với compiler/runtime"},
+                {"id": "b", "text": "Mẹo luôn làm app nhanh"},
+                {"id": "c", "text": "Cách persist database"},
+                {"id": "d", "text": "Thay thế equals"}
+              ],
+              "correctOptionIds": ["a"],
+              "explanation": "Đánh dấu sai có thể khiến runtime tin object không thay đổi và skip sai, gây UI stale."
+            },
+            {
+              "id": "d01-q10",
+              "question": "State nào hợp lý để giữ bằng remember?",
+              "options": [
+                {"id": "a", "text": "Expanded state cục bộ của component"},
+                {"id": "b", "text": "Token đăng nhập dài hạn"},
+                {"id": "c", "text": "Database source of truth"},
+                {"id": "d", "text": "Upload job cần sống sau process death"}
+              ],
+              "correctOptionIds": ["a"],
+              "explanation": "remember phù hợp presentation state có lifetime theo composition, không thay thế persistence hoặc background work."
+            },
+            {
+              "id": "d01-q11",
+              "question": "Cách giảm phạm vi recomposition nào đúng về nguyên tắc?",
+              "options": [
+                {"id": "a", "text": "Đọc state gần nơi sử dụng"},
+                {"id": "b", "text": "Đưa mọi state lên root"},
+                {"id": "c", "text": "Gọi Thread.sleep trong body"},
+                {"id": "d", "text": "Dùng index làm key"}
+              ],
+              "correctOptionIds": ["a"],
+              "explanation": "State read tracking invalidates scope đọc state; hoãn read xuống boundary nhỏ hơn có thể giảm phạm vi."
+            },
+            {
+              "id": "d01-q12",
+              "question": "Metric nào đáng tin hơn để đánh giá performance UI?",
+              "options": [
+                {"id": "a", "text": "Frame time và jank cùng profiling"},
+                {"id": "b", "text": "Số dòng Kotlin"},
+                {"id": "c", "text": "Số @Composable"},
+                {"id": "d", "text": "Chỉ số recomposition đơn lẻ"}
+              ],
+              "correctOptionIds": ["a"],
+              "explanation": "Recomposition count chỉ là tín hiệu. User cảm nhận frame time/jank; cần profiling layout, draw, allocation và work trong body."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
