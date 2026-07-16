@@ -1,0 +1,239 @@
+{
+  "id": "c07",
+  "code": "C07",
+  "title": "Flow Operators nâng cao",
+  "summary": "Phân tích sâu các operator thay đổi concurrency, cancellation, ordering và resource usage của Kotlin Flow: flatMapConcat, flatMapMerge, flatMapLatest, combine, zip, merge, buffer, conflate, collectLatest, retryWhen, scan và các chiến lược chọn operator theo product contract.",
+  "estimatedMinutes": 330,
+  "sections": [
+    {
+      "id": "objectives",
+      "title": "1. Mục tiêu bài học",
+      "blocks": [
+        {"type":"paragraph","content":"Operator nâng cao không chỉ biến đổi dữ liệu; nhiều operator còn thay đổi số coroutine đang chạy, thời điểm cancellation, thứ tự output, lượng memory dùng làm buffer và số request có thể tồn tại đồng thời. Vì vậy học thuộc tên operator là chưa đủ. Mục tiêu của bài là giúp bạn đọc một pipeline và dự đoán chính xác behavior khi upstream phát nhanh, downstream chậm, request lỗi, lifecycle thay đổi hoặc nhiều source cập nhật lệch nhịp."},
+        {"type":"list","items":["Phân biệt concat, merge và latest theo concurrency, ordering và cancellation.","Chọn combine, zip hoặc merge dựa trên product contract chứ không dựa vào tên gần giống.","Giải thích buffer, conflate và collectLatest ở mức execution boundary.","Thiết kế retry có điều kiện, giới hạn và backoff thay vì retry vô hạn.","Dùng scan/runningFold để xây state machine từ event stream.","Phân tích resource limits, stale result, partial failure và test strategy cho pipeline Android thực tế."]}
+      ]
+    },
+    {
+      "id": "prerequisites",
+      "title": "2. Kiến thức nền",
+      "blocks": [
+        {"type":"paragraph","content":"Bạn cần nắm cold Flow, StateFlow, SharedFlow, Channel, structured concurrency, cancellation và exception propagation. Đặc biệt, phải hiểu collect là suspend call và intermediate operator vẫn lazy. Operator nâng cao thường chèn thêm coroutine hoặc channel boundary; nếu chưa hiểu ownership và lifecycle, bạn dễ tạo pipeline chạy quá lâu hoặc duplicate work."},
+        {"type":"list","items":["C02: cold Flow, per-collector execution và flowOn.","C03-C04: state holder, shared stream, replay và buffer.","C05: channel capacity, backpressure và close/cancel.","C06: intermediate/terminal operator, catch, onStart, onCompletion và terminal semantics.","B06-B10: cancellation, exception handling, race condition và coroutine testing."]}
+      ]
+    },
+    {
+      "id": "terminology",
+      "title": "3. Thuật ngữ cốt lõi",
+      "blocks": [
+        {"type":"table","headers":["Thuật ngữ","Giải thích"],"rows":[["Flattening","Biến Flow<Flow<T>> hoặc T -> Flow<R> thành một Flow<R>."],["Inner flow","Flow được tạo ra cho từng item upstream trong flatMap*."],["Concurrency limit","Số inner flow được phép chạy đồng thời."],["Ordering guarantee","Cam kết về thứ tự output so với thứ tự input."],["Latest semantics","Work cũ bị cancel khi input mới đến."],["Fan-in","Gộp nhiều source thành một stream output."],["Synchronization by pair","zip ghép item thứ n của source A với item thứ n của source B."],["Latest-state combination","combine phát khi bất kỳ source đổi, dùng latest value của tất cả source."],["Buffer boundary","Queue tách producer và consumer để hai bên có thể chạy lệch nhịp."],["Conflation","Bỏ intermediate value, giữ latest value khi consumer chậm."],["Backpressure","Cơ chế producer chậm lại hoặc queue/drop khi consumer không theo kịp."],["Retry boundary","Đoạn upstream được chạy lại khi lỗi."],["Accumulator","State được tích lũy qua từng emission bằng scan/runningFold."],["Stale result","Kết quả thuộc input cũ nhưng về sau và ghi đè state mới."]]}
+      ]
+    },
+    {
+      "id": "execution-model",
+      "title": "4. Cơ chế thực thi: operator có thể thay đổi topology của pipeline",
+      "blocks": [
+        {"type":"paragraph","content":"map hoặc filter thường chạy tuần tự trong cùng collection call chain. Ngược lại, buffer tạo channel giữa upstream và downstream; flatMapMerge chạy nhiều inner flow đồng thời; flatMapLatest phải giữ reference tới inner job hiện tại để cancel khi input mới đến. Vì topology thay đổi, stack trace, cancellation timing và resource usage cũng thay đổi."},
+        {"type":"paragraph","content":"Khi review pipeline, hãy vẽ ba lớp: source nào tạo work, operator nào tạo concurrency boundary, và terminal collector thuộc scope nào. Sau đó đánh dấu invariant: output có cần đúng thứ tự không, work cũ có còn giá trị không, tối đa bao nhiêu request được chạy, lỗi của một inner flow có làm fail toàn pipeline không. Đây là cách reasoning đáng tin hơn việc thử operator cho đến khi UI trông đúng."},
+        {"type":"code","language":"kotlin","label":"Nhìn topology thay vì chỉ nhìn chain","content":"queries\n    .flatMapLatest { query -> repository.search(query) }\n    .buffer(capacity = 1)\n    .collectLatest { result -> render(result) }"},
+        {"type":"paragraph","content":"Pipeline trên có hai latest boundary khác nhau. flatMapLatest cancel search cũ khi query mới đến; collectLatest cancel render cũ khi result mới đến. Nếu render chứa side effect không được phép bị hủy giữa chừng, collectLatest là sai dù UI có vẻ responsive."}
+      ]
+    },
+    {
+      "id": "flatmap-concat",
+      "title": "5. flatMapConcat: tuần tự tuyệt đối",
+      "blocks": [
+        {"type":"paragraph","content":"flatMapConcat collect từng inner flow theo thứ tự. Inner flow của item sau chỉ bắt đầu khi inner flow trước complete. Nó bảo toàn ordering và giới hạn concurrency bằng một, phù hợp khi mỗi operation phụ thuộc operation trước hoặc server yêu cầu serialization."},
+        {"type":"code","language":"kotlin","label":"Xử lý tuần tự từng upload","content":"files.asFlow()\n    .flatMapConcat { file -> uploader.uploadAsFlow(file) }\n    .collect { progress -> updateProgress(progress) }"},
+        {"type":"paragraph","content":"Trade-off là head-of-line blocking. Một file chậm hoặc retry lâu giữ toàn bộ item sau. Nếu các item độc lập và throughput quan trọng hơn ordering, flatMapMerge với concurrency giới hạn có thể phù hợp hơn. Không nên chọn concat chỉ vì dễ đoán; cần đối chiếu SLA và dependency thật."}
+      ]
+    },
+    {
+      "id": "flatmap-merge",
+      "title": "6. flatMapMerge: concurrency có giới hạn, output có thể đảo thứ tự",
+      "blocks": [
+        {"type":"paragraph","content":"flatMapMerge khởi chạy nhiều inner flow đồng thời, tối đa theo concurrency. Output được emit khi inner flow nào có value trước, nên thứ tự hoàn thành có thể khác thứ tự input. Đây là lựa chọn cho work độc lập như tải nhiều metadata hoặc kiểm tra nhiều endpoint, nhưng bắt buộc phải đặt resource limit có chủ đích."},
+        {"type":"code","language":"kotlin","label":"Fan-out có giới hạn","content":"ids.asFlow()\n    .flatMapMerge(concurrency = 4) { id ->\n        flow { emit(api.loadDetail(id)) }\n    }\n    .toList()"},
+        {"type":"paragraph","content":"Concurrency quá lớn có thể làm cạn connection pool, tăng memory, trigger rate limit hoặc tạo retry storm. Concurrency quá nhỏ làm giảm throughput. Giá trị phù hợp phụ thuộc server limit, request cost, device class và cancellation behavior. Nếu output cần đúng thứ tự input, bạn phải gắn index rồi sort/reassemble hoặc dùng concat."},
+        {"type":"paragraph","content":"Một lỗi từ inner flow thường làm fail parent pipeline theo structured concurrency. Muốn partial success, materialize lỗi thành data ở từng inner flow hoặc dùng supervisor boundary có chủ đích; không nên catch ở cuối rồi mất toàn bộ thông tin item nào đã fail."}
+      ]
+    },
+    {
+      "id": "flatmap-latest",
+      "title": "7. flatMapLatest: latest input thắng, work cũ bị cancel",
+      "blocks": [
+        {"type":"paragraph","content":"flatMapLatest phù hợp khi input mới làm kết quả cũ mất giá trị, điển hình là search query, filter hoặc selected account. Khi upstream emit item mới, inner flow đang chạy bị cancel và inner flow mới bắt đầu. Correctness phụ thuộc upstream work có cooperative cancellation hay không."},
+        {"type":"code","language":"kotlin","label":"Search latest-only","content":"queryFlow\n    .map(String::trim)\n    .filter { it.length >= 2 }\n    .flatMapLatest { query -> repository.search(query) }\n    .collect { result -> reduce(result) }"},
+        {"type":"paragraph","content":"Nếu HTTP client hỗ trợ cancellation, request cũ được hủy. Nếu SDK blocking hoặc callback bridge không đóng listener khi cancel, work cũ có thể tiếp tục. Khi đó cần generation ID hoặc request token để chặn stale result, không được tin rằng gọi flatMapLatest tự động chữa mọi nguồn không cancellable."},
+        {"type":"paragraph","content":"Latest semantics không phù hợp command bắt buộc hoàn thành như thanh toán, gửi form hoặc upload đã được user xác nhận. Cancel operation cũ chỉ vì UI phát input mới có thể tạo trạng thái server không rõ ràng. Với command, queue/idempotency thường quan trọng hơn latest-only."}
+      ]
+    },
+    {
+      "id": "combine",
+      "title": "8. combine: bất kỳ source đổi đều phát latest snapshot",
+      "blocks": [
+        {"type":"paragraph","content":"combine chờ mỗi source có ít nhất một value, sau đó bất kỳ source nào thay đổi sẽ tạo output mới từ latest value của tất cả source. Nó phù hợp để dựng derived state như query + filter + permission + cached data. combine không ghép theo vị trí item và không đợi hai source cùng phát ở một nhịp."},
+        {"type":"code","language":"kotlin","label":"Derived UI state","content":"combine(query, selectedCity, jobs) { q, city, items ->\n    items.filter { job ->\n        job.title.contains(q, ignoreCase = true) && job.city == city\n    }\n}.distinctUntilChanged()"},
+        {"type":"paragraph","content":"combine có thể gây recomputation nhiều lần nếu source phát nhanh. Transform nặng nên được tối ưu, memoize hoặc chuyển context phù hợp. Đồng thời cần tránh combine những source không cùng lifecycle ownership, ví dụ application-scoped stream với screen-scoped state mà không có sharing policy rõ."},
+        {"type":"paragraph","content":"Initial emission là một điểm hay gây bug: nếu một source chưa phát, combine chưa có output. Với StateFlow thường luôn có initial value; với cold Flow có thể cần onStart hoặc thiết kế loading state. Không nên thêm giá trị giả chỉ để pipeline chạy nếu giá trị đó vi phạm domain invariant."}
+      ]
+    },
+    {
+      "id": "zip",
+      "title": "9. zip: ghép theo cặp thứ tự",
+      "blocks": [
+        {"type":"paragraph","content":"zip ghép item thứ nhất của source A với item thứ nhất của source B, item thứ hai với item thứ hai. Source nhanh phải chờ source chậm. Khi một source complete và không còn cặp, output complete. Semantics này phù hợp dữ liệu có quan hệ theo vị trí hoặc protocol từng cặp, hiếm khi phù hợp UI state độc lập."},
+        {"type":"code","language":"kotlin","label":"Ghép hai sequence theo vị trí","content":"names.zip(scores) { name, score -> LeaderboardRow(name, score) }"},
+        {"type":"paragraph","content":"Sai lầm phổ biến là dùng zip để kết hợp settings và database state. Nếu settings chỉ phát một lần rồi database phát nhiều lần, zip không tiếp tục tạo derived state như mong đợi. Trường hợp đó combine mới đúng vì cần latest settings áp vào mọi database update."}
+      ]
+    },
+    {
+      "id": "merge",
+      "title": "10. merge: fan-in nhiều stream cùng kiểu",
+      "blocks": [
+        {"type":"paragraph","content":"merge collect nhiều Flow<T> đồng thời và forward item theo thời điểm đến. Nó không gắn source identity nếu T không chứa metadata; nếu downstream cần biết item đến từ socket, cache hay user intent, hãy encode source trong sealed class hoặc wrapper."},
+        {"type":"code","language":"kotlin","label":"Gộp refresh triggers","content":"merge(manualRefresh, retryRefresh, connectivityRefresh)\n    .onEach { refreshRepository() }\n    .launchIn(viewModelScope)"},
+        {"type":"paragraph","content":"Merge trigger stream dễ tạo duplicate refresh nếu các source phát gần nhau. Cần single-flight, debounce, sample, mutex hoặc idempotent repository tùy requirement. merge chỉ fan-in; nó không deduplicate, serialize side effect hoặc giải quyết race condition cho bạn."}
+      ]
+    },
+    {
+      "id": "buffer",
+      "title": "11. buffer: tách nhịp producer và consumer",
+      "blocks": [
+        {"type":"paragraph","content":"Không buffer, emit thường chờ downstream xử lý xong. buffer chèn channel, cho upstream chạy trước trong giới hạn capacity. Điều này tăng throughput khi producer và consumer có thể overlap, nhưng đổi memory usage và cancellation timing."},
+        {"type":"code","language":"kotlin","label":"Overlap load và parse","content":"repository.pages()\n    .buffer(capacity = 1)\n    .map { page -> parse(page) }\n    .collect { parsed -> save(parsed) }"},
+        {"type":"paragraph","content":"Capacity càng lớn không đồng nghĩa càng nhanh. Queue lớn giữ nhiều object, làm stale work tích tụ và tăng latency đến latest item. Buffer nên đặt tại boundary có lý do đo được, ví dụ overlap network page tiếp theo với parse page hiện tại. Không nên rải buffer khắp pipeline như mẹo performance."},
+        {"type":"paragraph","content":"Buffer còn ảnh hưởng exception và cancellation: producer có thể đã tạo nhiều item chưa được consume khi downstream fail. Nếu item giữ resource cần cleanup, phải có policy undelivered rõ. Với dữ liệu chỉ là immutable value, cleanup thường đơn giản hơn."}
+      ]
+    },
+    {
+      "id": "conflate",
+      "title": "12. conflate: bỏ intermediate value, giữ latest",
+      "blocks": [
+        {"type":"paragraph","content":"conflate phù hợp state update nhanh mà collector chỉ cần latest snapshot, ví dụ progress hoặc sensor visualization. Khi collector bận, intermediate value bị bỏ. Producer không bị chặn bởi từng value như pipeline tuần tự."},
+        {"type":"code","language":"kotlin","label":"Render latest progress","content":"downloadProgress\n    .conflate()\n    .collect { percent -> renderProgress(percent) }"},
+        {"type":"paragraph","content":"Conflate nguy hiểm cho event hoặc delta. Nếu stream chứa Increment(1), bỏ intermediate item làm state sai; nếu stream chứa chat message, mất item là không chấp nhận được. Hãy hỏi mỗi value là snapshot hay occurrence/delta. Chỉ snapshot có thể thường xuyên chịu conflation an toàn."}
+      ]
+    },
+    {
+      "id": "collect-latest",
+      "title": "13. collectLatest và transformLatest: cancel downstream work cũ",
+      "blocks": [
+        {"type":"paragraph","content":"collectLatest không bỏ value đơn thuần; nó cancel block xử lý value trước khi chạy block mới. Nếu block chỉ render cancellable animation, behavior có thể phù hợp. Nếu block đang ghi database hoặc gửi analytics bắt buộc, cancellation giữa chừng có thể phá invariant."},
+        {"type":"code","language":"kotlin","label":"Chỉ render latest state","content":"uiState.collectLatest { state ->\n    renderExpensivePreview(state)\n}"},
+        {"type":"paragraph","content":"transformLatest là intermediate counterpart: mỗi input mới cancel transform block cũ. Nó hữu ích để emit loading rồi result cho latest input, nhưng cần hiểu cancellation có thể xảy ra sau khi đã emit một phần. Model UI state phải chịu được transition Loading(old) bị thay bằng Loading(new) mà không cần completion của old."}
+      ]
+    },
+    {
+      "id": "retry",
+      "title": "14. retry và retryWhen: chạy lại upstream có điều kiện",
+      "blocks": [
+        {"type":"paragraph","content":"retry chạy lại phần upstream trước operator khi exception phù hợp. Side effect upstream cũng lặp lại. Vì vậy retry chỉ an toàn khi operation idempotent hoặc có idempotency key. Không được retry programmer bug, authentication failure không thể tự hồi phục hoặc validation error."},
+        {"type":"code","language":"kotlin","label":"Retry network có backoff","content":"flow { emit(api.loadJobs()) }\n    .retryWhen { cause, attempt ->\n        val retryable = cause is IOException && attempt < 3\n        if (retryable) delay(500L * (1L shl attempt.toInt()))\n        retryable\n    }"},
+        {"type":"paragraph","content":"Backoff nên có upper bound và jitter trong hệ thống nhiều client để tránh đồng loạt retry. Android lifecycle cũng quan trọng: nếu screen rời đi, collection cancel và retry phải dừng. Với work bắt buộc tiếp tục sau process death, WorkManager hoặc durable queue phù hợp hơn retry trong screen scope."},
+        {"type":"paragraph","content":"Đặt catch trước retry hoặc sau retry tạo behavior khác. retry chỉ thấy exception upstream trước nó; catch trước retry có thể biến lỗi thành data khiến retry không chạy. Pipeline nên thể hiện rõ policy: retry kỹ thuật ở data layer, mapping domain error ở boundary cao hơn, cancellation luôn propagate."}
+      ]
+    },
+    {
+      "id": "scan",
+      "title": "15. scan và runningFold: reduce event thành state",
+      "blocks": [
+        {"type":"paragraph","content":"scan emit initial accumulator rồi emit accumulator mới sau mỗi item. Nó phù hợp state machine, rolling aggregate hoặc reducer thuần. Khác fold là terminal operator chỉ trả kết quả cuối, scan tạo stream các state trung gian."},
+        {"type":"code","language":"kotlin","label":"Reducer từ event stream","content":"events.scan(ChatState()) { state, event ->\n    reduce(state, event)\n}.distinctUntilChanged()"},
+        {"type":"paragraph","content":"Reducer phải tránh side effect và mutation in-place. Nếu accumulator chứa MutableList rồi sửa trực tiếp, state cũ và state mới có thể dùng chung reference, phá equality và testability. Hãy tạo immutable snapshot hoặc dùng persistent collection phù hợp."},
+        {"type":"paragraph","content":"Scan không thay thế persistence. Sau process death, accumulator memory mất. Nếu state phải phục hồi, source of truth cần Room/DataStore/server snapshot; scan dùng để dựng state trong một session hoặc từ event log bền vững."}
+      ]
+    },
+    {
+      "id": "product-requirement",
+      "title": "16. Yêu cầu sản phẩm cụ thể",
+      "blocks": [
+        {"type":"callout","variant":"purpose","title":"Job search đa điều kiện","content":"Khi người dùng đổi từ khóa, thành phố và loại việc, UI phải hiển thị kết quả tương ứng với tổ hợp mới nhất. Request cũ không được ghi đè request mới. Không chạy quá hai request song song. Lỗi mạng tạm thời retry tối đa hai lần; lỗi 401 không retry mà chuyển sang authentication flow. Loading phải gắn với generation hiện tại."},
+        {"type":"paragraph","content":"Requirement này dẫn tới combine query/filter thành SearchCriteria, distinctUntilChanged để tránh request trùng, flatMapLatest cho latest-only, repository bảo đảm request cancellable hoặc generation guard, retryWhen theo error taxonomy, và StateFlow để giữ latest UI state. Không operator đơn lẻ nào giải quyết toàn bộ contract."},
+        {"type":"paragraph","content":"Nếu sản phẩm đổi yêu cầu thành mọi search phải lưu history và hoàn thành để prefetch, flatMapLatest không còn phù hợp. Khi requirement thay đổi, operator phải thay đổi theo; đây là lý do phỏng vấn thường hỏi trade-off chứ không chỉ syntax."}
+      ]
+    },
+    {
+      "id": "analysis",
+      "title": "17. Phân tích dependency, error policy, lifecycle và resource limits",
+      "blocks": [
+        {"type":"table","headers":["Khía cạnh","Quyết định"],"rows":[["Dependency","Query/filter là input; repository là owner của network/cache; UI chỉ gửi intent và render state."],["Ordering","Latest criteria thắng; kết quả cũ bị cancel hoặc reject bằng generation ID."],["Concurrency","Search dùng một active request; prefetch độc lập dùng flatMapMerge với limit nhỏ."],["Error policy","IOException retry có bound; 401 chuyển auth; domain empty là data, không phải exception."],["Lifecycle","Pipeline stateIn trong viewModelScope; UI collect theo lifecycle."],["Resource","Không buffer result list lớn không cần thiết; giới hạn request, timeout và retry."],["Correctness","Criteria có stable equality; reducer không nhận stale generation."],["Observability","Log attempt, cancellation reason, latency, stale drop và retry exhaustion."]]}
+      ]
+    },
+    {
+      "id": "practical-code",
+      "title": "18. Ví dụ Android/Kotlin hoàn chỉnh",
+      "blocks": [
+        {"type":"code","language":"kotlin","label":"Pipeline latest-only có error policy","content":"data class SearchCriteria(val query: String, val cityId: String?)\n\nprivate val query = MutableStateFlow(\"\")\nprivate val cityId = MutableStateFlow<String?>(null)\n\nval state: StateFlow<SearchUiState> = combine(query, cityId) { q, city ->\n    SearchCriteria(q.trim(), city)\n}\n    .filter { it.query.length >= 2 }\n    .distinctUntilChanged()\n    .flatMapLatest { criteria ->\n        repository.search(criteria)\n            .map<SearchResult, SearchUiState> { SearchUiState.Content(it.items) }\n            .onStart { emit(SearchUiState.Loading(criteria)) }\n            .retryWhen { cause, attempt ->\n                val retryable = cause is IOException && attempt < 2\n                if (retryable) delay(300L * (attempt + 1))\n                retryable\n            }\n            .catch { error -> emit(SearchUiState.Error(mapError(error))) }\n    }\n    .stateIn(viewModelScope, SharingStarted.WhileSubscribed(5_000), SearchUiState.Idle)"},
+        {"type":"paragraph","content":"combine tạo criteria mới khi query hoặc city đổi. distinctUntilChanged phụ thuộc equals của data class. flatMapLatest bảo đảm một inner search logic active theo criteria mới nhất. onStart nằm bên trong inner flow để loading gắn đúng criteria. retryWhen chỉ retry IOException có bound. catch materialize lỗi cuối thành UI state. stateIn giữ latest state và quản lý sharing theo ViewModel lifecycle."},
+        {"type":"paragraph","content":"Nếu repository.search trả callbackFlow, awaitClose phải unregister callback và cancel request. Nếu không, flatMapLatest chỉ cancel coroutine wrapper còn callback cũ vẫn có thể emit. Test cần fake cho phép giữ request cũ, phát result sau request mới và xác nhận reducer không nhận stale result."}
+      ]
+    },
+    {
+      "id": "upzi-case",
+      "title": "19. Case study Upzi và tính trung thực",
+      "blocks": [
+        {"type":"callout","title":"confirmed","content":"Upzi có các luồng search/filter, paging, chat/socket và UI state dựa trên coroutine/Flow trong kiến trúc Android đã được mô tả. Đây là các miền thực tế cần latest semantics, fan-in và state reduction."},
+        {"type":"callout","title":"inferred","content":"Có thể suy luận query, filter và paging trigger được kết hợp bằng Flow hoặc cơ chế tương đương, nhưng operator cụ thể và vị trí sharing chưa được xác nhận từ code hiện tại."},
+        {"type":"callout","title":"proposed","content":"Đề xuất dùng combine + distinctUntilChanged + flatMapLatest cho search criteria; merge trigger có single-flight cho refresh; scan/reducer cho chat event thành immutable state; flatMapMerge có limit cho metadata độc lập."},
+        {"type":"callout","variant":"warning","title":"needs-confirmation","content":"Cần xác nhận HTTP cancellation, retry policy, source of truth của paging/search và cách xử lý stale result trước khi trình bày đây là giải pháp đã triển khai trong phỏng vấn."},
+        {"type":"paragraph","content":"Mẫu trả lời trung thực nên tách rõ phần đã thấy trong code và phần kiến trúc đề xuất. Có thể nói: dự án có search/filter bằng Flow; với latest-only tôi sẽ ưu tiên flatMapLatest và generation guard nếu upstream không cancellable. Không nên nói đã triển khai operator cụ thể khi chưa xác nhận."}
+      ]
+    },
+    {
+      "id": "alternatives-tradeoffs",
+      "title": "20. Phương án thay thế và trade-off",
+      "blocks": [
+        {"type":"table","headers":["Bài toán","Lựa chọn","Trade-off"],"rows":[["Tuần tự","flatMapConcat","Dễ reasoning nhưng head-of-line blocking."],["Song song độc lập","flatMapMerge","Throughput cao hơn nhưng output đảo thứ tự và tốn resource."],["Latest-only","flatMapLatest","Responsive nhưng cancel work cũ; không hợp command bắt buộc."],["Derived state","combine","Phát theo latest snapshot; có thể recompute nhiều."],["Ghép theo cặp","zip","Semantics chặt nhưng source nhanh phải chờ."],["Fan-in event","merge","Đơn giản nhưng không deduplicate hay serialize side effect."],["Overlap producer/consumer","buffer","Tăng throughput nhưng thêm queue và stale work."],["Chỉ cần latest snapshot","conflate","Giảm tải nhưng mất intermediate value."],["Retry transient error","retryWhen","Tăng resilience nhưng có nguy cơ duplicate side effect/retry storm."],["Reducer stream","scan","Testable state transition nhưng không thay persistence."]]}
+      ]
+    },
+    {
+      "id": "edge-cases",
+      "title": "21. Edge cases cần kiểm thử",
+      "blocks": [
+        {"type":"paragraph","content":"Advanced Flow bug thường xuất hiện ở timing hiếm. Test phải chủ động điều khiển thứ tự emission, delay và cancellation thay vì chỉ test happy path nhanh."},
+        {"type":"list","items":["flatMapLatest nhận input mới đúng lúc inner flow cũ vừa emit loading nhưng chưa emit data.","Upstream blocking không phản ứng cancellation và trả stale result sau request mới.","combine có một source chưa emit nên UI treo ở initial state.","zip complete sớm vì một source hữu hạn ngắn hơn.","flatMapMerge một inner flow fail khi các inner khác đang chạy.","buffer còn item chưa consume khi collector cancel.","conflate áp nhầm lên delta/event làm mất dữ liệu.","collectLatest cancel block sau khi đã thực hiện nửa side effect.","retry lặp POST không idempotent và tạo duplicate server record.","retryWhen gặp CancellationException hoặc 401 nhưng vẫn retry sai.","scan mutate accumulator cũ tại chỗ.","merge nhiều trigger tạo refresh đồng thời.","StateFlow equality suppress criteria mới vì object mutable dùng chung reference."]}
+      ]
+    },
+    {
+      "id": "common-mistakes",
+      "title": "22. Sai lầm thường gặp",
+      "blocks": [
+        {"type":"list","items":["Dùng flatMapLatest cho mọi thứ vì thấy responsive.","Dùng flatMapMerge mặc định không đặt concurrency limit.","Nhầm combine với zip.","Cho rằng merge tự deduplicate trigger.","Thêm buffer lớn để chữa UI chậm mà không đo memory và stale latency.","Dùng conflate cho message/event delta.","Đặt side effect bắt buộc trong collectLatest.","Retry mọi Throwable, kể cả cancellation và programmer bug.","Catch trước retry làm retry không còn thấy exception.","Không kiểm tra operation có idempotent trước khi retry.","Dùng scan với mutable accumulator.","Không ghi rõ source ownership và lifecycle của shared pipeline."]},
+        {"type":"paragraph","content":"Dấu hiệu của thiết kế yếu là giải thích operator bằng một câu nhưng không nói ordering, cancellation và resource. Một Android Middle tốt phải nêu được cả behavior lẫn lý do operator khớp product requirement."}
+      ]
+    },
+    {
+      "id": "interview",
+      "title": "23. Câu hỏi phỏng vấn, bài tập và checklist",
+      "blocks": [
+        {"type":"paragraph","content":"Câu hỏi cơ bản thường bắt đầu bằng khác nhau giữa flatMapConcat, flatMapMerge và flatMapLatest; combine và zip; buffer và conflate. Câu hỏi sâu sẽ chuyển sang cancellation, stale result, partial failure, retry idempotency và lifecycle."},
+        {"type":"list","items":["Giải thích output ordering của ba flatMap operator.","Tại sao flatMapLatest không đủ nếu SDK không cancellable?","Khi nào combine không phát output đầu tiên?","buffer thay đổi execution như thế nào?","Vì sao collectLatest có thể nguy hiểm hơn conflate cho side effect?","Retry POST cần điều kiện gì để an toàn?","Thiết kế partial success với flatMapMerge ra sao?","Khi nào scan phù hợp hơn MutableStateFlow.update?","Merge refresh trigger cần chống duplicate bằng cách nào?","Bạn test stale result bằng virtual time và controlled fake như thế nào?"]},
+        {"type":"paragraph","content":"Bài tập thực hành: xây search pipeline từ query, city và job type; thêm fake repository cho phép trì hoãn từng request; chứng minh request cũ bị cancel hoặc bị generation guard loại bỏ. Tiêu chí hoàn thành gồm không stale overwrite, retry chỉ IOException tối đa hai lần, 401 không retry, loading gắn đúng criteria và test deterministic."},
+        {"type":"paragraph","content":"Bài tập tình huống: màn hình dashboard có profile StateFlow, notification cold Flow và socket SharedFlow. Hãy chọn combine/merge/shareIn/stateIn, mô tả initial state, lifecycle, lỗi từng source và cách không để socket reconnect theo mỗi collector."},
+        {"type":"list","items":["Tôi dự đoán được concurrency và ordering của operator.","Tôi biết work nào bị cancel khi input mới đến.","Tôi phân biệt snapshot với event/delta trước khi conflate.","Tôi đặt retry boundary và idempotency rõ.","Tôi giới hạn concurrency và buffer theo resource budget.","Tôi test delayed, duplicate, out-of-order, cancellation và failure.","Tôi phân biệt phần Upzi confirmed với proposed."]}
+      ]
+    },
+    {
+      "id": "summary-quiz",
+      "title": "24. Tóm tắt cần nhớ và quiz",
+      "blocks": [
+        {"type":"paragraph","content":"Operator nâng cao là quyết định về semantics, không chỉ syntax. concat ưu tiên ordering; merge ưu tiên concurrency; latest ưu tiên input mới. combine tạo latest snapshot, zip ghép theo cặp, merge fan-in event. buffer tạo queue, conflate bỏ intermediate snapshot, collectLatest cancel downstream work. retry phải có taxonomy, bound, backoff và idempotency. scan phù hợp reducer thuần nhưng không thay persistence."},
+        {"type":"callout","variant":"purpose","title":"Quy tắc chọn operator","content":"Bắt đầu từ product contract: thứ tự, latest-only, loss tolerance, concurrency limit, lifecycle và error policy. Sau đó mới chọn operator."}
+      ]
+    }
+  ],
+  "quiz": [
+    {"id":"c07-q01","question":"Operator nào bảo đảm inner flow chạy tuần tự theo thứ tự input?","options":[{"id":"a","text":"flatMapConcat"},{"id":"b","text":"flatMapMerge"},{"id":"c","text":"flatMapLatest"},{"id":"d","text":"merge"}],"correctOptionIds":["a"],"explanation":"flatMapConcat chờ inner flow hiện tại complete trước khi bắt đầu inner flow tiếp theo."},
+    {"id":"c07-q02","question":"Điểm đúng về flatMapMerge là gì?","options":[{"id":"a","text":"Luôn bảo toàn thứ tự output"},{"id":"b","text":"Chạy nhiều inner flow đồng thời và output có thể đảo thứ tự"},{"id":"c","text":"Cancel inner flow cũ khi input mới đến"},{"id":"d","text":"Không thể giới hạn concurrency"}],"correctOptionIds":["b"],"explanation":"flatMapMerge cho phép concurrency có giới hạn; item được emit theo thời điểm hoàn thành nên thứ tự có thể thay đổi."},
+    {"id":"c07-q03","question":"Vì sao flatMapLatest có thể vẫn cần generation guard?","options":[{"id":"a","text":"Vì StateFlow không có value"},{"id":"b","text":"Vì upstream blocking hoặc callback bridge có thể không phản ứng cancellation"},{"id":"c","text":"Vì combine luôn phát trùng"},{"id":"d","text":"Vì retry không hỗ trợ Flow"}],"correctOptionIds":["b"],"explanation":"Nếu work cũ không thực sự bị hủy, result cũ có thể về sau; generation guard ngăn stale overwrite."},
+    {"id":"c07-q04","question":"combine phát output khi nào?","options":[{"id":"a","text":"Chỉ khi tất cả source phát cùng lúc"},{"id":"b","text":"Sau khi mỗi source có ít nhất một value, rồi bất kỳ source nào đổi"},{"id":"c","text":"Theo từng cặp vị trí như zip"},{"id":"d","text":"Chỉ khi source đầu tiên complete"}],"correctOptionIds":["b"],"explanation":"combine dùng latest value của tất cả source sau khi từng source đã có initial emission."},
+    {"id":"c07-q05","question":"Trường hợp nào phù hợp với zip hơn combine?","options":[{"id":"a","text":"Kết hợp query và filter state"},{"id":"b","text":"Ghép item thứ n của hai sequence có quan hệ theo vị trí"},{"id":"c","text":"Quan sát latest profile và settings"},{"id":"d","text":"Fan-in refresh trigger"}],"correctOptionIds":["b"],"explanation":"zip ghép theo cặp thứ tự; combine dành cho latest-state combination."},
+    {"id":"c07-q06","question":"buffer thay đổi pipeline như thế nào?","options":[{"id":"a","text":"Luôn bỏ item cũ"},{"id":"b","text":"Tạo queue boundary để upstream và downstream chạy lệch nhịp"},{"id":"c","text":"Biến Flow thành StateFlow"},{"id":"d","text":"Tự retry exception"}],"correctOptionIds":["b"],"explanation":"buffer chèn channel giữa upstream và downstream, cho phép overlap trong giới hạn capacity."},
+    {"id":"c07-q07","question":"Conflate an toàn nhất cho loại dữ liệu nào?","options":[{"id":"a","text":"Chat message delta"},{"id":"b","text":"Payment command"},{"id":"c","text":"Latest progress snapshot"},{"id":"d","text":"Audit event"}],"correctOptionIds":["c"],"explanation":"Conflate bỏ intermediate value nên phù hợp snapshot chỉ cần latest, không phù hợp event/delta bắt buộc."},
+    {"id":"c07-q08","question":"Khác biệt chính giữa conflate và collectLatest là gì?","options":[{"id":"a","text":"Không có khác biệt"},{"id":"b","text":"Conflate bỏ intermediate value; collectLatest cancel block xử lý value cũ"},{"id":"c","text":"collectLatest chỉ dùng cho Channel"},{"id":"d","text":"conflate luôn giữ toàn bộ value"}],"correctOptionIds":["b"],"explanation":"collectLatest tác động tới downstream work bằng cancellation, còn conflate tác động tới hàng đợi value."},
+    {"id":"c07-q09","question":"Điều kiện quan trọng trước khi retry một POST request là gì?","options":[{"id":"a","text":"Response phải lớn"},{"id":"b","text":"Operation phải idempotent hoặc có idempotency key"},{"id":"c","text":"Phải chạy trên Main"},{"id":"d","text":"Phải dùng zip"}],"correctOptionIds":["b"],"explanation":"Retry có thể lặp side effect; idempotency ngăn duplicate record hoặc duplicate command."},
+    {"id":"c07-q10","question":"scan khác fold ở điểm nào?","options":[{"id":"a","text":"scan phát các accumulator trung gian; fold chỉ trả kết quả cuối"},{"id":"b","text":"scan không nhận initial value"},{"id":"c","text":"fold là hot stream"},{"id":"d","text":"scan không thể dùng reducer"}],"correctOptionIds":["a"],"explanation":"scan tạo stream state qua từng event, còn fold là terminal aggregate."},
+    {"id":"c07-q11","question":"Một inner flow lỗi trong flatMapMerge thường có tác động gì?","options":[{"id":"a","text":"Luôn bị bỏ qua"},{"id":"b","text":"Có thể làm fail toàn pipeline theo structured concurrency"},{"id":"c","text":"Chỉ làm source khác complete bình thường"},{"id":"d","text":"Tự chuyển thành null"}],"correctOptionIds":["b"],"explanation":"Nếu không materialize lỗi hoặc tạo supervision policy, exception inner flow propagate và cancel siblings/pipeline."},
+    {"id":"c07-q12","question":"Cách chọn operator đáng tin cậy nhất là gì?","options":[{"id":"a","text":"Chọn operator ngắn nhất"},{"id":"b","text":"Bắt đầu từ ordering, latest-only, loss tolerance, concurrency, lifecycle và error policy"},{"id":"c","text":"Luôn dùng flatMapLatest"},{"id":"d","text":"Thêm buffer trước mọi operator"}],"correctOptionIds":["b"],"explanation":"Operator phải khớp product contract và resource constraints; syntax chỉ là bước sau."}
+  ]
+}

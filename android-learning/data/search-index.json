@@ -500,5 +500,39 @@
       "take và drop",
       "terminal operators"
     ]
+  },
+  {
+    "lessonId": "c07",
+    "code": "C07",
+    "title": "Flow Operators nâng cao",
+    "keywords": [
+      "flatMapConcat",
+      "flatMapMerge",
+      "flatMapLatest",
+      "combine",
+      "zip",
+      "merge",
+      "buffer",
+      "conflate",
+      "collectLatest",
+      "retryWhen",
+      "scan",
+      "runningFold",
+      "stale result",
+      "concurrency limit",
+      "backpressure"
+    ],
+    "headings": [
+      "Execution topology",
+      "flatMapConcat",
+      "flatMapMerge",
+      "flatMapLatest",
+      "combine và zip",
+      "merge",
+      "buffer và conflate",
+      "collectLatest",
+      "retryWhen",
+      "scan và reducer"
+    ]
   }
 ]

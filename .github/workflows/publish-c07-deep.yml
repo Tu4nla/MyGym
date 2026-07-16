@@ -1,0 +1,47 @@
+name: Publish C07 Deep
+
+on:
+  push:
+    branches:
+      - handbook/c07-flow-operators-advanced
+    paths:
+      - android-learning/data/lessons/c/c07.json
+      - scripts/publish_c07_deep.py
+      - .github/workflows/publish-c07-deep.yml
+  pull_request:
+    branches:
+      - main
+    types: [opened, synchronize]
+    paths:
+      - android-learning/data/lessons/c/c07.json
+      - scripts/publish_c07_deep.py
+      - .github/workflows/publish-c07-deep.yml
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  validate-and-publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: handbook/c07-flow-operators-advanced
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Validate depth and generate metadata
+        run: python scripts/publish_c07_deep.py
+      - name: Commit generated metadata and report
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add android-learning/data/catalog.json android-learning/data/book-plan.json android-learning/data/search-index.json validation-c07.json
+          if git diff --cached --quiet; then
+            echo "No generated changes"
+          else
+            git commit -m "docs(android): publish validated C07"
+            git pull --rebase origin handbook/c07-flow-operators-advanced
+            git push origin HEAD:handbook/c07-flow-operators-advanced
+          fi
