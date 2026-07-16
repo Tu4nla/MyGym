@@ -32,7 +32,7 @@
       "id": "lazy-execution",
       "title": "4. Lazy execution: khai báo Flow chưa chạy producer",
       "blocks": [
-        {"type":"code","language":"kotlin","label":"Flow chỉ là recipe cho tới khi collect","content":"val users: Flow<List<User>> = flow {\n    println("call API")\n    emit(api.loadUsers())\n}\n\nprintln("flow created")\n// Chưa có request\n\nusers.collect { value -> println(value) }\n// Lúc này mới in call API"},
+        {"type":"code","language":"kotlin","label":"Flow chỉ là recipe cho tới khi collect","content":"val users: Flow<List<User>> = flow {\n    println(\"call API\")\n    emit(api.loadUsers())\n}\n\nprintln(\"flow created\")\n// Chưa có request\n\nusers.collect { value -> println(value) }\n// Lúc này mới in call API"},
         {"type":"paragraph","content":"flow { } trả về một object mô tả cách collect, không launch coroutine và không gọi API ngay. Terminal operator là điểm bắt đầu execution. Điều này làm Flow composable: bạn có thể nối map/filter mà chưa tốn tài nguyên, rồi outer layer quyết định scope và thời điểm collect."},
         {"type":"paragraph","content":"Lazy semantics cũng tạo rủi ro hiểu nhầm. Một repository function trả Flow nhưng caller không collect thì không có side effect. Nếu business command bắt buộc phải chạy dù không có observer, cold Flow không phải abstraction phù hợp; suspend command hoặc durable worker rõ hơn."}
       ]

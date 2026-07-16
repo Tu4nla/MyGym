@@ -33,7 +33,7 @@
       "title": "4. SharedFlow là hot broadcast stream",
       "blocks": [
         {"type":"paragraph","content":"MutableSharedFlow tồn tại độc lập collector. Producer có thể emit bất cứ lúc nào; subscriber chỉ nhận theo replay và thời điểm subscription. Khác cold Flow, thêm subscriber không chạy lại producer block. Khác Channel point-to-point, SharedFlow broadcast cùng emission tới nhiều subscriber active."},
-        {"type":"code","language":"kotlin","label":"Một emission tới nhiều subscriber","content":"val events = MutableSharedFlow<String>()\n\nlaunch { events.collect { println("A: $it") } }\nlaunch { events.collect { println("B: $it") } }\n\nevents.emit("hello")\n// A và B đều có thể nhận hello nếu đã subscribe"},
+        {"type":"code","language":"kotlin","label":"Một emission tới nhiều subscriber","content":"val events = MutableSharedFlow<String>()\n\nlaunch { events.collect { println(\"A: $it\") } }\nlaunch { events.collect { println(\"B: $it\") } }\n\nevents.emit(\"hello\")\n// A và B đều có thể nhận hello nếu đã subscribe"},
         {"type":"paragraph","content":"SharedFlow không complete và không biểu diễn failure trực tiếp. Error/completion phải được materialize thành data event/state hoặc owner scope bị cancel. Điều này phù hợp long-lived bus có owner rõ nhưng cần policy explicit."}
       ]
     },
