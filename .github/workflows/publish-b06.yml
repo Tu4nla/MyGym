@@ -3,7 +3,7 @@ name: Publish B06
 on:
   push:
     branches:
-      - handbook/publish-b06
+      - main
     paths:
       - scripts/publish_b06.py
       - .github/workflows/publish-b06.yml
@@ -17,8 +17,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-        with:
-          ref: handbook/publish-b06
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
@@ -33,5 +31,5 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "docs(android): publish B06 Job and Cancellation"
-            git push origin HEAD:handbook/publish-b06
+            git push origin HEAD:main
           fi
