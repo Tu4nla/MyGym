@@ -1,0 +1,48 @@
+name: Publish C09 Deep
+
+on:
+  push:
+    branches:
+      - handbook/c09-flow-context-lifecycle-deep
+    paths:
+      - scripts/c09_payload.txt
+      - scripts/publish_c09_deep.py
+      - .github/workflows/publish-c09-deep.yml
+  pull_request:
+    branches:
+      - main
+    types: [opened, synchronize]
+    paths:
+      - scripts/c09_payload.txt
+      - scripts/publish_c09_deep.py
+      - .github/workflows/publish-c09-deep.yml
+      - android-learning/data/lessons/c/c09.json
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  validate-and-publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: handbook/c09-flow-context-lifecycle-deep
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Generate lesson, validate depth, and update metadata
+        run: python scripts/publish_c09_deep.py
+      - name: Commit generated files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add android-learning/data/lessons/c/c09.json android-learning/data/catalog.json android-learning/data/book-plan.json android-learning/data/search-index.json validation-c09.json
+          if git diff --cached --quiet; then
+            echo "No generated changes"
+          else
+            git commit -m "docs(android): publish validated C09"
+            git pull --rebase origin handbook/c09-flow-context-lifecycle-deep
+            git push origin HEAD:handbook/c09-flow-context-lifecycle-deep
+          fi
