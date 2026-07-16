@@ -1,47 +1,227 @@
 {
-  "id":"c01",
-  "code":"C01",
-  "title":"Reactive Programming và Data Stream",
-  "summary":"Nắm tư duy reactive, push-based data stream, producer-consumer, cold/hot stream, backpressure, state/event và cách thiết kế pipeline dữ liệu bất đồng bộ cho Android trước khi học Flow sâu hơn.",
-  "estimatedMinutes":210,
-  "sections":[
-    {"id":"objectives","title":"1. Mục tiêu bài học","blocks":[{"type":"list","items":["Phân biệt imperative pull với reactive push.","Mô hình hóa producer, stream, operator và collector.","Phân biệt cold/hot, finite/infinite, state/event và unicast/multicast.","Hiểu backpressure, cancellation, error và completion như một phần contract.","Phân tích requirement Android thành data pipeline có lifecycle rõ."]}]},
-    {"id":"prerequisites","title":"2. Kiến thức nền","blocks":[{"type":"list","items":["Coroutine, structured concurrency, dispatcher, cancellation, exception và testing chương B.","Biết callback/listener, suspend function và UI state.","Hiểu lifecycle Android và shared mutable state cơ bản."]}]},
-    {"id":"terminology","title":"3. Thuật ngữ","blocks":[{"type":"table","headers":["Thuật ngữ","Định nghĩa"],"rows":[["Reactive programming","Lập trình theo sự thay đổi và lan truyền dữ liệu"],["Data stream","Chuỗi giá trị theo thời gian kèm error/completion contract"],["Producer","Nguồn phát dữ liệu"],["Collector/consumer","Thành phần nhận và xử lý dữ liệu"],["Operator","Biến đổi/kết hợp/kiểm soát stream"],["Cold stream","Mỗi collector kích hoạt producer riêng"],["Hot stream","Producer tồn tại độc lập collector"],["Backpressure","Consumer chậm hơn producer và cần policy"],["Conflation","Giữ giá trị mới nhất, bỏ intermediate value"],["Buffer","Hàng đợi tạm giữa producer và consumer"]]}]},
-    {"id":"mechanism","title":"4. Cơ chế hoạt động bên trong","blocks":[{"type":"paragraph","content":"Trong mô hình push, producer chủ động phát item theo thời gian; collector đăng ký và xử lý. Pipeline phải định nghĩa context, cancellation, error, completion và tốc độ. Kotlin Flow dùng suspend để producer có thể tạm dừng khi collector chậm, tạo backpressure tự nhiên ở pipeline tuần tự; buffer/conflate thay đổi policy này."},{"type":"code","language":"kotlin","label":"Pipeline khái niệm","content":"fun observeJobs(): Flow<List<Job>> = repository.observeJobs()\n    .map { items -> items.filter(Job::isVisible) }\n    .distinctUntilChanged()\n\nviewModelScope.launch {\n    observeJobs().collect { jobs -> _uiState.value = UiState.Content(jobs) }\n}"}]},
-    {"id":"purpose","title":"5. Mục đích","blocks":[{"type":"list","items":["Biểu diễn dữ liệu thay đổi liên tục như query, DB, socket, connectivity và UI intent.","Ghép nhiều nguồn bất đồng bộ theo pipeline có thể đọc và test.","Tự động propagate cancellation theo lifecycle.","Tách source, transformation và rendering."]}]},
-    {"id":"problem","title":"6. Vấn đề kỹ thuật được giải quyết","blocks":[{"type":"list","items":["Callback lồng nhau và unsubscribe bị quên.","Nhiều nguồn phát update không đồng bộ.","UI cần phản ứng khi DB/network/session đổi.","Search cần debounce/latest-only.","Chat cần merge snapshot và event stream."]}]},
-    {"id":"when-to-use","title":"7. Dấu hiệu cần dùng stream","blocks":[{"type":"list","items":["Giá trị có nhiều lần thay đổi theo thời gian.","Nhiều layer cần quan sát cùng state.","Cần transform/combine/debounce/retry có cấu trúc.","Lifecycle collector cần tự cancel/recollect.","Source là Room, DataStore, socket, sensor hoặc UI event."]}]},
-    {"id":"when-not-to-use","title":"8. Khi không nên dùng stream","blocks":[{"type":"list","items":["One-shot request đơn giản chỉ cần suspend return.","Dùng stream để che command/side effect không có event contract rõ.","Biến mọi getter thành Flow làm API khó dùng và khó test.","Không nên dùng hot global stream thay cho ownership/lifecycle đúng."]}]},
-    {"id":"requirement","title":"9. Yêu cầu sản phẩm cụ thể","blocks":[{"type":"callout","variant":"purpose","title":"Search việc làm","content":"Keyword, filter và sort thay đổi liên tục. Sau debounce, chỉ query mới nhất được gọi; loading/content/error phản ánh đúng request hiện hành. Khi rời màn hình, pipeline dừng; quay lại có policy cache/replay rõ."}]},
-    {"id":"analysis","title":"10. Phân tích dependency, error policy, lifecycle và resource limits","blocks":[{"type":"table","headers":["Khía cạnh","Quyết định"],"rows":[["Dependency","UI intent → ViewModel pipeline → repository suspend/Flow"],["Error","Business/network error thành state; cancellation không thành error"],["Lifecycle","ViewModel sở hữu pipeline; UI collect theo STARTED"],["Backpressure","Debounce query; latest-only cancel request cũ"],["Resource","distinctUntilChanged, paging và giới hạn fan-out"],["Replay","Chỉ replay state cần thiết, không replay one-time effect tùy tiện"]]}]},
-    {"id":"minimal-code","title":"11. Ví dụ Kotlin/Android","blocks":[{"type":"code","language":"kotlin","label":"Reactive search","content":"val uiState: StateFlow<SearchUiState> = query\n    .debounce(300)\n    .map(String::trim)\n    .distinctUntilChanged()\n    .flatMapLatest { keyword ->\n        flow { emit(SearchUiState.Content(repository.search(keyword))) }\n            .onStart { emit(SearchUiState.Loading) }\n            .catch { e -> if (e is CancellationException) throw e else emit(SearchUiState.Error(e)) }\n    }\n    .stateIn(viewModelScope, SharingStarted.WhileSubscribed(5_000), SearchUiState.Idle)"}]},
-    {"id":"upzi-case","title":"12. Case study Upzi","blocks":[{"type":"callout","title":"confirmed","content":"Upzi có search/filter, chat Socket.IO, SSE recommendation, paging và app-wide state; đây là các nguồn dữ liệu theo thời gian."},{"type":"callout","title":"inferred","content":"Một số feature nhiều khả năng dùng StateFlow/Flow pipeline, nhưng topology và sharing policy cụ thể chưa được xác nhận."},{"type":"callout","title":"proposed","content":"Chuẩn hóa UI intent thành Flow, latest-only search, repository expose cold Flow cho DB và adapter callbackFlow cho socket/SSE với awaitClose."},{"type":"callout","variant":"warning","title":"needs-confirmation","content":"Cần kiểm tra codebase trước khi nói stateIn/shareIn/callbackFlow đã được áp dụng production."}]},
-    {"id":"alternatives","title":"13. Phương án thay thế","blocks":[{"type":"table","headers":["Phương án","Khi phù hợp","Trade-off"],"rows":[["Suspend function","One-shot result","Không biểu diễn update liên tục"],["Callback/listener","SDK legacy","Khó compose/cancel và dễ leak"],["LiveData","UI lifecycle đơn giản","Operator/concurrency kém linh hoạt hơn Flow"],["RxJava","Codebase đã chuẩn hóa Rx","Learning/interop cost"],["Flow","Kotlin coroutine stack","Cần hiểu cold/hot và collection lifecycle"]]}]},
-    {"id":"tradeoffs","title":"14. Lựa chọn và trade-off","blocks":[{"type":"list","items":["Reactive pipeline giảm callback nhưng tăng yêu cầu hiểu operator semantics.","Cold stream cô lập collector nhưng có thể gọi network lặp.","Hot sharing tiết kiệm producer nhưng cần start/stop/replay policy.","Buffer tăng throughput nhưng tăng memory và stale work.","Conflate ưu tiên latest value nhưng mất intermediate event."]}]},
-    {"id":"edge-cases","title":"15. Edge cases","blocks":[{"type":"list","items":["Collector restart tạo producer mới ngoài ý muốn.","Hot stream emit khi chưa có subscriber.","Replay one-time navigation event gây lặp.","Consumer chậm làm queue tăng.","Error kết thúc cold stream và không tự reconnect.","Callback source không unregister trong awaitClose.","Multiple collectors kích hoạt duplicate network request."]}]},
-    {"id":"mistakes","title":"16. Sai lầm thường gặp","blocks":[{"type":"list","items":["Gọi collect trong collect không kiểm soát.","Không phân biệt state và event.","Dùng SharedFlow global như event bus.","Catch và nuốt CancellationException.","Flow on dispatcher sai hoặc block Main.","Không định nghĩa completion/retry policy.","Dùng replay=1 cho mọi event."]}]},
-    {"id":"interview-basic","title":"17. Câu hỏi phỏng vấn cơ bản","blocks":[{"type":"list","items":["Reactive programming là gì?","Stream khác one-shot suspend function thế nào?","Cold và hot stream khác nhau gì?","Backpressure là gì?","Buffer và conflate khác nhau thế nào?","State và event khác nhau ra sao?"]}]},
-    {"id":"interview-deep","title":"18. Câu hỏi xoáy sâu","blocks":[{"type":"list","items":["Hai collector trên cold Flow network gây gì?","Khi nào replay gây duplicate side effect?","Flow sequential backpressure hoạt động thế nào?","Hot producer sống theo scope nào?","Error nên terminate stream hay emit data error?","CallbackFlow cần awaitClose vì sao?"]}]},
-    {"id":"experience-answer","title":"19. Mẫu trả lời theo kinh nghiệm","blocks":[{"type":"paragraph","content":"Tôi chọn stream khi dữ liệu có nhiều update và cần compose theo thời gian; one-shot API vẫn giữ suspend. Với search, intent thành pipeline debounce/distinct/flatMapLatest; lifecycle thuộc ViewModel và UI collect theo lifecycle. Với Upzi, chỉ khẳng định feature có search/chat/SSE; operator cụ thể phải đánh dấu proposed nếu chưa xác nhận."}]},
-    {"id":"practice","title":"20. Bài tập thực hành","blocks":[{"type":"list","items":["Chuyển listener connectivity thành callbackFlow có awaitClose.","Thiết kế search pipeline debounce/latest-only.","So sánh buffer, conflate bằng producer nhanh/collector chậm.","Tạo cold Flow và chứng minh hai collector chạy producer hai lần."]}]},
-    {"id":"scenario","title":"21. Bài tập tình huống","blocks":[{"type":"paragraph","content":"Home có profile, recommendation SSE và badge chat. Hãy xác định source nào cold/hot, dependency bắt buộc/tùy chọn, replay policy, lifecycle owner, partial error và cách tránh duplicate producer khi rotate/recollect."}]},
-    {"id":"checklist","title":"22. Checklist tự đánh giá","blocks":[{"type":"list","items":["Tôi biết stream có bao nhiêu emission.","Tôi xác định producer lifecycle.","Tôi phân biệt state/event.","Tôi có backpressure policy.","Tôi biết error/completion behavior.","Tôi tránh duplicate collection.","Tôi propagate cancellation."]}]},
-    {"id":"summary","title":"23. Tóm tắt","blocks":[{"type":"list","items":["Reactive programming mô hình hóa thay đổi theo thời gian.","Stream contract gồm data, error, completion, context và cancellation.","Cold/hot và state/event là quyết định kiến trúc, không chỉ API syntax.","Flow phù hợp Kotlin Android nhưng phải quản lý lifecycle và sharing policy rõ."]}]},
-    {"id":"quiz-guide","title":"24. Quiz có giải thích","blocks":[{"type":"paragraph","content":"Quiz kiểm tra khả năng chọn mô hình và policy cho stream thực tế."}]}
+  "id": "c01",
+  "code": "C01",
+  "title": "Reactive Programming và Data Stream",
+  "summary": "Xây nền tảng tư duy reactive cho Android: mô hình hóa dữ liệu theo thời gian, hiểu producer-consumer, cold/hot stream, state/event, backpressure, lifecycle, cancellation, error và sharing trước khi đi sâu vào Kotlin Flow.",
+  "estimatedMinutes": 300,
+  "sections": [
+    {
+      "id": "objectives",
+      "title": "1. Mục tiêu bài học",
+      "blocks": [
+        {"type":"paragraph","content":"Reactive programming không phải là đổi callback thành Flow rồi gọi collect. Đây là cách mô hình hóa dữ liệu thay đổi theo thời gian, trong đó producer, transformation, lifecycle, error, completion và tốc độ đều là một phần của contract. Sau bài này, bạn phải phân tích được một feature Android thành pipeline có owner rõ thay vì chỉ nối operator theo cảm tính."},
+        {"type":"list","items":["Phân biệt imperative pull với reactive push bằng ví dụ Android thực tế.","Mô tả producer, stream, operator, collector và subscription lifecycle.","Phân biệt cold/hot, finite/infinite, state/event và unicast/multicast.","Giải thích backpressure, buffer, conflate, drop và cancellation theo semantics.","Thiết kế pipeline search, Room, socket hoặc SSE có lifecycle và error policy rõ.","Biết khi nào suspend one-shot đơn giản hơn Flow."]}
+      ]
+    },
+    {
+      "id": "prerequisites",
+      "title": "2. Kiến thức nền",
+      "blocks": [
+        {"type":"paragraph","content":"Bạn cần nền tảng coroutine của chương B: structured concurrency, dispatcher, cancellation, exception và testing. Flow xây trên coroutine nên mọi stream design đều chịu ảnh hưởng của scope ownership và cancellation propagation."},
+        {"type":"list","items":["Callback/listener và suspend function.","ViewModel, repository và UI state.","Lifecycle Android và process death ở mức cơ bản.","Shared mutable state, thread safety và source of truth."]}
+      ]
+    },
+    {
+      "id": "terminology",
+      "title": "3. Định nghĩa và chú giải thuật ngữ",
+      "blocks": [
+        {"type":"table","headers":["Thuật ngữ","Giải thích chi tiết"],"rows":[["Reactive programming","Lập trình theo sự thay đổi của dữ liệu và sự lan truyền của thay đổi qua pipeline, thay vì caller liên tục polling trạng thái."],["Data stream","Chuỗi giá trị theo thời gian kèm contract về error, completion, cancellation và context."],["Producer","Nguồn tạo giá trị: database observer, network callback, sensor, timer, UI intent hoặc code trong flow builder."],["Collector/consumer","Thành phần nhận emission và thực hiện xử lý cuối như cập nhật state hoặc render UI."],["Operator","Bước biến đổi, lọc, kết hợp, chuyển context hoặc điều khiển tốc độ giữa producer và collector."],["Subscription/collection","Khoảng thời gian collector tham gia vào stream; bắt đầu và kết thúc collection có thể tạo hoặc hủy producer."],["Cold stream","Producer được khởi động riêng cho mỗi collector; mỗi collection thường có execution và side effect riêng."],["Hot stream","Producer có lifecycle độc lập collector; có thể emit khi không có subscriber."],["State","Giá trị hiện tại có thể đọc lại; collector mới thường cần latest value."],["Event","Sự kiện xảy ra tại một thời điểm; replay sai có thể lặp side effect."],["Backpressure","Tình huống producer tạo nhanh hơn consumer xử lý; cần policy suspend, buffer, drop hoặc conflate."],["Conflation","Bỏ intermediate value và giữ latest value; phù hợp state nhưng nguy hiểm cho transaction/event."],["Replay","Phát lại một số emission gần nhất cho subscriber mới."],["Sharing","Biến nhiều collection thành dùng chung một upstream producer có start/stop policy."]]}
+      ]
+    },
+    {
+      "id": "imperative-vs-reactive",
+      "title": "4. Imperative pull và reactive push",
+      "blocks": [
+        {"type":"paragraph","content":"Trong mô hình imperative pull, caller chủ động hỏi giá trị tại một thời điểm: val user = repository.getUser(). Mô hình này phù hợp với one-shot operation vì ownership đơn giản: caller gọi, chờ và nhận một kết quả hoặc exception."},
+        {"type":"paragraph","content":"Trong mô hình reactive push, consumer đăng ký một pipeline và producer chủ động phát khi dữ liệu thay đổi. Room có thể emit lại khi bảng đổi, connectivity observer phát trạng thái mạng, socket phát message mới. Consumer không cần polling nhưng phải hiểu collection bắt đầu khi nào, dừng khi nào và nếu không có collector thì producer còn sống hay không."},
+        {"type":"code","language":"kotlin","label":"Pull so với push","content":"// Pull: một kết quả\nval profile = repository.loadProfile()\n\n// Push: nhiều giá trị theo thời gian\nrepository.observeProfile().collect { profile ->\n    render(profile)\n}"},
+        {"type":"paragraph","content":"Sai lầm phổ biến là biến mọi API thành Flow dù chỉ có một kết quả. Điều đó thêm lifecycle, collection và error semantics không cần thiết. Reactive design chỉ đáng dùng khi dữ liệu thực sự thay đổi hoặc cần compose theo thời gian."}
+      ]
+    },
+    {
+      "id": "stream-contract",
+      "title": "5. Contract đầy đủ của một data stream",
+      "blocks": [
+        {"type":"paragraph","content":"Một stream không chỉ là kiểu Flow<T>. Contract phải trả lời: stream có bao nhiêu emission; producer bắt đầu khi nào; có complete không; error có terminate stream không; collector chậm thì sao; cancellation cleanup resource thế nào; nhiều collector có dùng chung producer không; subscriber mới có nhận lại latest value không."},
+        {"type":"table","headers":["Câu hỏi contract","Ví dụ quyết định"],"rows":[["Số emission","Room Flow là nhiều emission; network request thường một emission rồi complete."],["Lifecycle producer","Cold flow theo collector; socket connection theo session scope."],["Error","Network error có thể terminate cold flow hoặc được map thành data state tùy API."],["Completion","Sensor/socket thường infinite; file stream có thể finite."],["Backpressure","Progress có thể conflate; audit event phải giữ đủ."],["Replay","State cần latest; navigation event thường không replay tùy tiện."],["Sharing","Nhiều UI collector có nên dùng chung một upstream network/DB work hay không."]]}
+      ]
+    },
+    {
+      "id": "mechanism",
+      "title": "6. Cơ chế pipeline và sequential backpressure",
+      "blocks": [
+        {"type":"paragraph","content":"Flow pipeline mặc định chạy tuần tự trong cùng coroutine collection. Producer emit một item, item đi qua map/filter và tới collector. Nếu collector suspend để xử lý chậm, upstream emit tiếp theo cũng bị suspend. Đây là backpressure tự nhiên: producer không vượt quá tốc độ downstream trừ khi có operator thay đổi boundary như buffer."},
+        {"type":"code","language":"kotlin","label":"Pipeline tuần tự","content":"flow {\n    repeat(3) { value ->\n        println("emit $value")\n        emit(value)\n    }\n}\n.map { value ->\n    println("map $value")\n    value * 2\n}\n.collect { value ->\n    delay(1_000)\n    println("collect $value")\n}"},
+        {"type":"paragraph","content":"Không có buffer, lần emit kế tiếp phải chờ collector hoàn tất item hiện tại. Khi thêm buffer, producer và collector chạy tách coroutine với queue ở giữa; throughput có thể tốt hơn nhưng memory tăng và item có thể trở nên stale. Conflate bỏ item trung gian để collector luôn tiến tới latest value."}
+      ]
+    },
+    {
+      "id": "cold-hot",
+      "title": "7. Cold stream và hot stream",
+      "blocks": [
+        {"type":"paragraph","content":"Cold stream giống một recipe: mỗi collector chạy recipe từ đầu. Nếu recipe gọi API, hai collector có thể tạo hai request. Điều này không phải bug của Flow mà là semantics. Cold phù hợp khi mỗi caller cần execution độc lập hoặc source tự nhiên là query theo collection."},
+        {"type":"paragraph","content":"Hot stream giống một broadcast source đang sống độc lập: socket connection, sensor hoặc MutableStateFlow có thể tồn tại dù không có collector. Hot stream cần lifecycle owner rõ; nếu đặt ở application scope, producer có thể sống suốt process. Nếu đặt ở ViewModel scope, nó dừng khi ViewModel clear."},
+        {"type":"code","language":"kotlin","label":"Cold producer chạy lại cho mỗi collector","content":"val jobs = flow {\n    println("network request")\n    emit(api.loadJobs())\n}\n\nlaunch { jobs.collect() }\nlaunch { jobs.collect() }\n// Có thể in network request hai lần"},
+        {"type":"paragraph","content":"stateIn/shareIn có thể share cold upstream thành hot stream, nhưng sharing không miễn phí. Bạn phải chọn scope, SharingStarted và replay. Chọn sai có thể tạo network producer sống quá lâu hoặc restart liên tục khi UI ngắn hạn mất subscriber."}
+      ]
+    },
+    {
+      "id": "state-event",
+      "title": "8. State và event không phải cùng một thứ",
+      "blocks": [
+        {"type":"paragraph","content":"State trả lời câu hỏi hiện tại là gì: màn hình đang loading hay content, badge count hiện bao nhiêu, user đang đăng nhập hay không. Subscriber mới thường cần latest state để render đúng ngay lập tức."},
+        {"type":"paragraph","content":"Event trả lời điều gì vừa xảy ra: mở snackbar, điều hướng, scroll tới item. Replay event sau rotate có thể thực hiện side effect lần hai. Vì vậy không nên dùng replay=1 cho mọi event chỉ để tránh mất emission; cần thiết kế event ownership và acknowledgement phù hợp."},
+        {"type":"callout","variant":"warning","title":"StateFlow không phải event queue","content":"StateFlow conflates và giữ latest value. Nếu hai event giống nhau liên tiếp hoặc collector chậm, event có thể không được quan sát như mong đợi. Dùng state, SharedFlow hoặc Channel phải dựa trên delivery semantics, không dựa vào tên API."}
+      ]
+    },
+    {
+      "id": "purpose",
+      "title": "9. Mục đích của reactive pipeline",
+      "blocks": [
+        {"type":"paragraph","content":"Reactive pipeline giúp biểu diễn relation giữa nhiều nguồn thay đổi: query, filter, session, database và network. Thay vì callback A gọi callback B rồi tự hủy thủ công, pipeline mô tả transformation và cancellation theo cấu trúc."
+        },
+        {"type":"paragraph","content":"Mục tiêu thứ hai là tách source, transformation và presentation. Repository chịu trách nhiệm source contract; use case combine business rule; ViewModel chuyển thành UI state; UI chỉ collect theo lifecycle. Sự phân lớp này làm test dễ hơn và giảm việc mỗi màn hình tự xử lý callback/lifecycle khác nhau."}
+      ]
+    },
+    {
+      "id": "problem",
+      "title": "10. Vấn đề kỹ thuật được giải quyết",
+      "blocks": [
+        {"type":"list","items":["Callback lồng nhau và unregister listener bị quên.","Room, network, socket và UI intent thay đổi theo thời gian.","Search cần debounce, distinct và latest-only cancellation.","Home cần combine profile, badge và recommendation.","Lifecycle STARTED/STOPPED cần collect và cancel đúng lúc.","Nhiều collector có nguy cơ tạo duplicate producer.","Producer nhanh hơn consumer cần backpressure policy."]}
+      ]
+    },
+    {
+      "id": "when-to-use",
+      "title": "11. Dấu hiệu nên dùng stream",
+      "blocks": [
+        {"type":"paragraph","content":"Dùng stream khi giá trị có nhiều lần thay đổi và consumer cần phản ứng theo thời gian. Một API trả cache trước rồi remote sau, Room observer, connectivity, sensor, socket và UI query đều là ứng viên tự nhiên."},
+        {"type":"list","items":["Có nhiều emission hoặc dữ liệu infinite.","Cần combine nhiều nguồn.","Cần debounce, latest-only, retry hoặc distinct có cấu trúc.","Collector gắn lifecycle và có thể stop/recollect.","Nhiều layer cần quan sát cùng state.","Nguồn là Room, DataStore, callback SDK, socket, SSE hoặc UI intent."]}
+      ]
+    },
+    {
+      "id": "when-not-to-use",
+      "title": "12. Khi không nên dùng Flow",
+      "blocks": [
+        {"type":"paragraph","content":"One-shot request đơn giản nên giữ suspend function. Flow cho một emission duy nhất thường làm API khó dùng hơn, đặc biệt nếu caller chỉ cần try/catch và return value. Không nên tạo global SharedFlow để mọi feature phát event tùy ý vì ownership và debugging trở nên mơ hồ."},
+        {"type":"list","items":["Hàm thuần hoặc synchronous transformation.","One-shot command có một kết quả rõ.","Side effect cần acknowledgement/transaction nhưng bị ngụy trang thành event stream.","Không có lifecycle owner cho hot producer.","Chỉ dùng replay để vá lost event mà chưa xác định delivery contract."]}
+      ]
+    },
+    {
+      "id": "requirement",
+      "title": "13. Yêu cầu sản phẩm cụ thể: Search việc làm",
+      "blocks": [
+        {"type":"callout","variant":"purpose","title":"Requirement","content":"Keyword, filter và sort có thể thay đổi nhanh. Sau 300 ms không nhập thêm, hệ thống gọi search cho bộ criteria mới nhất. Request cũ phải bị cancel hoặc vô hiệu hóa; loading/content/error chỉ phản ánh criteria hiện hành; rời màn hình phải dừng work không còn giá trị."},
+        {"type":"paragraph","content":"Pipeline phải xử lý empty query, trim input, distinct criteria, debounce, latest-only và mapping error. Debounce giảm request khi user đang gõ; distinct tránh gọi lại criteria giống nhau; flatMapLatest cancel upstream cũ khi criteria mới tới. Tuy nhiên cancellation của coroutine không bảo đảm server ngừng xử lý, nên stale-result correctness vẫn phải được giữ ở client."}
+      ]
+    },
+    {
+      "id": "analysis",
+      "title": "14. Phân tích dependency, error policy, lifecycle và resource limits",
+      "blocks": [
+        {"type":"table","headers":["Khía cạnh","Quyết định"],"rows":[["Input","SearchCriteria immutable gồm keyword, filters, sort; distinct theo semantic equality."],["Dependency","ViewModel pipeline gọi repository suspend search hoặc repository Flow có contract rõ."],["Lifecycle","ViewModel sở hữu pipeline; UI collect với repeatOnLifecycle/collectAsStateWithLifecycle."],["Cancellation","Criteria mới cancel previous transform; CancellationException không thành UiError."],["Error","Network/domain error map thành state của criteria hiện hành; stale error bị loại."],["Backpressure","Debounce input; latest-only thay queue toàn bộ query."],["Sharing","UI state dùng stateIn; sharing policy tránh restart network vô ích."],["Resource","Paging cho result lớn; giới hạn payload parsing; tránh buffer query vô hạn."],["Replay","Latest UI state replay; one-time effect có policy riêng."]]}
+      ]
+    },
+    {
+      "id": "search-code",
+      "title": "15. Ví dụ Kotlin: reactive search",
+      "blocks": [
+        {"type":"code","language":"kotlin","label":"Search criteria pipeline","content":"val uiState: StateFlow<SearchUiState> = criteria\n    .map { it.normalized() }\n    .debounce(300)\n    .distinctUntilChanged()\n    .flatMapLatest { value ->\n        if (value.keyword.isBlank()) {\n            flowOf(SearchUiState.Idle)\n        } else {\n            flow {\n                emit(SearchUiState.Content(repository.search(value)))\n            }\n            .onStart { emit(SearchUiState.Loading(value)) }\n            .catch { error ->\n                if (error is CancellationException) throw error\n                emit(SearchUiState.Error(value, error.toUiError()))\n            }\n        }\n    }\n    .stateIn(\n        scope = viewModelScope,\n        started = SharingStarted.WhileSubscribed(5_000),\n        initialValue = SearchUiState.Idle\n    )"},
+        {"type":"paragraph","content":"flatMapLatest chỉ giữ inner flow mới nhất. Khi criteria đổi, inner flow cũ bị cancel. catch đặt bên trong inner flow để error của một request được map mà pipeline outer tiếp tục nhận criteria mới. CancellationException phải throw lại, nếu không request cũ bị biến thành Error state."},
+        {"type":"paragraph","content":"WhileSubscribed(5_000) giữ upstream sống ngắn hạn khi UI tạm mất subscriber, ví dụ configuration change. Timeout 5 giây là policy, không phải con số mặc định đúng cho mọi app; cần cân bằng resource và trải nghiệm quay lại màn hình."}
+      ]
+    },
+    {
+      "id": "callback-adapter",
+      "title": "16. Chuyển callback thành callbackFlow",
+      "blocks": [
+        {"type":"code","language":"kotlin","label":"Connectivity callbackFlow","content":"fun observeConnectivity(): Flow<Boolean> = callbackFlow {\n    val callback = object : NetworkCallback() {\n        override fun onAvailable(network: Network) { trySend(true) }\n        override fun onLost(network: Network) { trySend(false) }\n    }\n\n    connectivityManager.registerDefaultNetworkCallback(callback)\n    awaitClose {\n        connectivityManager.unregisterNetworkCallback(callback)\n    }\n}.distinctUntilChanged()"},
+        {"type":"paragraph","content":"callbackFlow tạo một channel boundary để callback có thể phát từ thread khác. awaitClose là cleanup contract: khi collector cancel, listener phải unregister. Nếu quên awaitClose hoặc unregister, producer tiếp tục giữ reference tới component và gây leak hoặc duplicate callback sau recollect."},
+        {"type":"paragraph","content":"trySend có thể fail nếu channel đã đóng; code cần chấp nhận hoặc log theo requirement. Với event bắt buộc không được mất, callbackFlow mặc định có thể chưa đủ; phải xác định capacity, overflow và recovery semantics."}
+      ]
+    },
+    {
+      "id": "backpressure",
+      "title": "17. Backpressure, buffer, conflate và drop",
+      "blocks": [
+        {"type":"paragraph","content":"Nếu producer nhanh hơn consumer, bạn có bốn lựa chọn chính. Suspend producer giữ mọi item nhưng giảm throughput. Buffer cho producer chạy trước trong giới hạn queue. Conflate bỏ intermediate item và giữ latest. Drop bỏ item theo overflow policy. Chọn sai có thể phá business correctness."},
+        {"type":"table","headers":["Policy","Phù hợp","Không phù hợp"],"rows":[["Suspend","Transaction/event phải giữ đủ và producer có thể chậm lại","Callback không thể block hoặc producer external"],["Buffer","Burst ngắn, mọi item còn ý nghĩa","Queue có thể tăng và item stale"],["Conflate","Progress, latest location/state","Payment, message command, audit log"],["Drop oldest/latest","Telemetry hoặc UI hint có tolerance","Dữ liệu bắt buộc xử lý đầy đủ"]]},
+        {"type":"paragraph","content":"Backpressure là quyết định sản phẩm. Ví dụ progress 41%, 42%, 43% có thể conflate còn 43%. Nhưng ba message chat khác nhau không thể conflate chỉ vì collector chậm."}
+      ]
+    },
+    {
+      "id": "sharing",
+      "title": "18. Sharing, replay và lifecycle",
+      "blocks": [
+        {"type":"paragraph","content":"Hai collector trên cold Flow có thể tạo hai upstream producer. stateIn/shareIn dùng một scope để share upstream. Scope chính là lifetime owner: viewModelScope phù hợp state màn hình; applicationScope phù hợp data app-wide nhưng phải có stop policy rõ."},
+        {"type":"paragraph","content":"SharingStarted.Eagerly khởi động ngay, Lazily khi subscriber đầu tiên xuất hiện và WhileSubscribed start/stop theo subscriber. WhileSubscribed có stopTimeout để tránh restart ngắn hạn. replay quyết định subscriber mới nhận lại bao nhiêu item; replay state khác replay event."},
+        {"type":"callout","variant":"warning","title":"Share sai scope là resource leak","content":"Một network polling flow được share trong applicationScope với Eagerly có thể chạy suốt process dù không màn hình nào dùng. Ngược lại, share trong composable-local scope có thể restart liên tục qua recomposition hoặc navigation."}
+      ]
+    },
+    {
+      "id": "upzi-case",
+      "title": "19. Case study Upzi và mức độ xác nhận",
+      "blocks": [
+        {"type":"callout","variant":"purpose","title":"confirmed","content":"Upzi có search/filter, chat Socket.IO, recommendation SSE, paging và app/session state. Đây là các nguồn data theo thời gian và cần lifecycle/cancellation rõ."},
+        {"type":"callout","title":"inferred","content":"Có thể suy luận một số feature dùng Flow/StateFlow, nhưng topology pipeline, operator và sharing policy production chưa được xác nhận đầy đủ."},
+        {"type":"callout","title":"proposed","content":"Đề xuất UI intent thành Flow, search dùng debounce/distinct/flatMapLatest, Room expose cold Flow, Socket.IO/SSE adapter bằng callbackFlow hoặc channel bridge có awaitClose, session owner quản lý hot connection."},
+        {"type":"callout","variant":"warning","title":"needs-confirmation","content":"Cần kiểm tra codebase trước khi nói stateIn, shareIn, callbackFlow hoặc SharingStarted cụ thể đã được áp dụng production."},
+        {"type":"paragraph","content":"Trong phỏng vấn có thể mô tả requirement đã xác nhận và trình bày pipeline như thiết kế đề xuất. Tính trung thực quan trọng hơn việc cố biến mọi pattern thành kinh nghiệm đã làm."}
+      ]
+    },
+    {
+      "id": "alternatives",
+      "title": "20. Phương án thay thế",
+      "blocks": [
+        {"type":"table","headers":["Phương án","Khi phù hợp","Trade-off"],"rows":[["Suspend function","One-shot result hoặc command","Không biểu diễn update liên tục"],["Callback/listener","SDK legacy hoặc API platform","Khó compose, cleanup và error propagation"],["LiveData","UI lifecycle đơn giản trong codebase cũ","Operator/concurrency kém linh hoạt hơn Flow"],["RxJava","Codebase đã chuẩn hóa Rx và team có expertise","Interop, dependency và learning cost"],["Flow","Kotlin coroutine stack, structured cancellation","Cần hiểu cold/hot, context, sharing và lifecycle"],["Polling","Source không hỗ trợ push","Tốn pin/network, latency và retry policy phức tạp"]]}
+      ]
+    },
+    {
+      "id": "tradeoffs",
+      "title": "21. Trade-off và edge cases",
+      "blocks": [
+        {"type":"paragraph","content":"Reactive pipeline giảm callback glue nhưng làm semantics trở nên quan trọng. Cold flow cô lập collector nhưng có thể duplicate network. Hot sharing tiết kiệm producer nhưng thêm lifetime, replay và stop policy. Buffer tăng throughput nhưng tăng memory và stale work. Conflate giảm tải nhưng mất intermediate value."},
+        {"type":"list","items":["Collector restart tạo producer mới ngoài ý muốn.","Hot stream emit khi chưa có subscriber.","Replay navigation event gây điều hướng lặp.","Error terminate cold flow và pipeline không tự reconnect.","callbackFlow không unregister listener trong awaitClose.","Hai collector kích hoạt hai network request.","Collector chậm làm buffer tăng.","stateIn scope sống quá lâu giữ repository/network.","catch đặt sai vị trí nuốt CancellationException hoặc terminate outer pipeline.","flowOn hiểu sai và chuyển collector context ngoài ý muốn."]}
+      ]
+    },
+    {
+      "id": "mistakes-interview",
+      "title": "22. Sai lầm thường gặp và câu hỏi phỏng vấn",
+      "blocks": [
+        {"type":"list","items":["Biến mọi one-shot API thành Flow.","Không phân biệt state và event.","Dùng SharedFlow global như event bus.","collect trong collect thay vì flatMap/combine có chủ đích.","Nuốt CancellationException trong catch.","Dùng replay=1 cho mọi event.","Không định nghĩa producer lifecycle và completion.","Thêm buffer/conflate mà không phân tích dữ liệu có được phép mất hay không.","Share upstream trong scope quá dài."]},
+        {"type":"table","headers":["Câu hỏi","Điểm cần trả lời"],"rows":[["Reactive programming là gì?","Dữ liệu thay đổi theo thời gian và propagation qua pipeline; không chỉ là dùng Flow."],["Cold và hot khác gì?","Producer theo collection so với producer có lifecycle độc lập; tác động tới side effect và sharing."],["Backpressure là gì?","Producer nhanh hơn consumer và cần policy cụ thể."],["Buffer khác conflate?","Buffer giữ item trong queue; conflate bỏ intermediate và giữ latest."],["State khác event?","State có latest value; event là occurrence, replay có thể lặp side effect."],["Hai collector cold network Flow gây gì?","Có thể hai request; cần share/cache nếu requirement muốn dùng chung."],["callbackFlow cần awaitClose vì sao?","Cleanup/unregister khi cancellation hoặc collection kết thúc."],["Error nên terminate hay emit data error?","Phụ thuộc contract; cần nói rõ retry và outer pipeline behavior."]]}
+      ]
+    },
+    {
+      "id": "experience",
+      "title": "23. Mẫu trả lời, bài tập và checklist",
+      "blocks": [
+        {"type":"paragraph","content":"Mẫu trả lời: Tôi dùng stream khi dữ liệu có nhiều update hoặc cần compose theo thời gian; one-shot vẫn giữ suspend. Với search, criteria đi qua normalize, debounce, distinct và flatMapLatest; ViewModel sở hữu pipeline, UI collect theo lifecycle, cancellation không thành error. Với hot source như socket, tôi xác định session scope và cleanup trước khi chọn share/replay."},
+        {"type":"paragraph","content":"Bài tập 1: tạo cold Flow gọi API và chứng minh hai collector tạo hai request; sau đó shareIn và quan sát khác biệt. Bài tập 2: chuyển connectivity listener thành callbackFlow, test unregister khi collector cancel. Bài tập 3: mô phỏng producer 10 ms, collector 100 ms rồi so sánh không buffer, buffer và conflate; giải thích item nào được giữ hoặc mất."},
+        {"type":"paragraph","content":"Bài tập tình huống: Home gồm profile bắt buộc, recommendation SSE tùy chọn và badge chat hot state. Hãy xác định source cold/hot, owner scope, replay, partial error, backpressure và cách tránh duplicate producer khi rotate."},
+        {"type":"list","items":["Tôi biết stream có một hay nhiều emission.","Tôi xác định producer lifecycle và owner scope.","Tôi phân biệt state và event.","Tôi có error, completion và cancellation policy.","Tôi có backpressure policy dựa trên business semantics.","Tôi biết nhiều collector có tạo duplicate producer không.","Tôi không tuyên bố operator Upzi chưa xác nhận là đã dùng."]}
+      ]
+    },
+    {
+      "id": "summary-quiz",
+      "title": "24. Tóm tắt cần nhớ và quiz",
+      "blocks": [
+        {"type":"callout","variant":"purpose","title":"Tóm tắt","content":"Reactive programming mô hình hóa thay đổi theo thời gian. Một stream contract gồm data, error, completion, context, cancellation, tốc độ và lifecycle. Cold/hot, state/event, sharing/replay và backpressure là quyết định kiến trúc; Flow chỉ là công cụ thể hiện các quyết định đó."},
+        {"type":"paragraph","content":"Quiz kiểm tra khả năng chọn mô hình và policy, không chỉ nhớ tên operator."}
+      ]
+    }
   ],
-  "quiz":[
-    {"id":"c01-q01","question":"Khi nào stream phù hợp hơn suspend one-shot?","options":["Dữ liệu thay đổi nhiều lần theo thời gian","Chỉ trả một config bất biến","Hàm thuần cộng số","Parse JSON đồng bộ"],"answerIndex":0,"explanation":"Stream mô hình hóa chuỗi emission, không chỉ một kết quả."},
-    {"id":"c01-q02","question":"Cold stream có đặc điểm gì?","options":["Producer luôn chạy toàn app","Mỗi collector thường kích hoạt producer riêng","Không thể error","Luôn replay"],"answerIndex":1,"explanation":"Cold Flow bắt đầu block producer cho từng collection."},
-    {"id":"c01-q03","question":"Hot stream khác cold ở điểm chính nào?","options":["Không dùng coroutine","Producer tồn tại độc lập collector","Không có value","Luôn finite"],"answerIndex":1,"explanation":"Hot source có lifecycle riêng và có thể emit không phụ thuộc collector."},
-    {"id":"c01-q04","question":"Backpressure là gì?","options":["Producer lỗi","Consumer chậm hơn producer","UI rotate","Thread pool hết"],"answerIndex":1,"explanation":"Cần policy suspend, buffer, drop hoặc conflate khi tốc độ không cân bằng."},
-    {"id":"c01-q05","question":"Conflate phù hợp cho dữ liệu nào?","options":["Mọi transaction phải giữ đủ","Chỉ latest progress/state quan trọng","Payment command","Audit log"],"answerIndex":1,"explanation":"Conflation bỏ intermediate value, chỉ hợp khi latest state đủ."},
-    {"id":"c01-q06","question":"One-time navigation event nên thận trọng với gì?","options":["Replay","Map","Filter","Suspend"],"answerIndex":0,"explanation":"Replay có thể phát lại event sau recreate và gây navigation lặp."},
-    {"id":"c01-q07","question":"Hai collector trên cold network Flow có thể gây gì?","options":["Một request duy nhất chắc chắn","Hai lần producer/request","Compile error","Deadlock chắc chắn"],"answerIndex":1,"explanation":"Mỗi collection chạy producer riêng trừ khi được share/cache có chủ đích."},
-    {"id":"c01-q08","question":"CancellationException trong catch nên xử lý thế nào?","options":["Map thành toast","Propagate","Retry vô hạn","Đổi thành empty list"],"answerIndex":1,"explanation":"Cancellation là control flow và phải được truyền tiếp."},
-    {"id":"c01-q09","question":"callbackFlow cần awaitClose để làm gì?","options":["Chờ UI","Unregister listener/cleanup khi collection kết thúc","Tăng buffer","Chuyển Main"],"answerIndex":1,"explanation":"awaitClose gắn cleanup callback với lifecycle/cancellation của flow."},
-    {"id":"c01-q10","question":"Search latest-only thường dùng semantics nào?","options":["Mọi request cùng update UI","Cancel/ignore request cũ khi query mới","Replay mọi query","Buffer vô hạn"],"answerIndex":1,"explanation":"Chỉ kết quả query mới nhất còn giá trị sản phẩm."},
-    {"id":"c01-q11","question":"Buffer trade-off chính là gì?","options":["Không dùng memory","Tăng decoupling nhưng có memory/stale work","Luôn mất item","Chỉ dùng Main"],"answerIndex":1,"explanation":"Queue giúp producer chạy trước nhưng tích lũy item và độ trễ."},
-    {"id":"c01-q12","question":"Quyết định quan trọng nhất với hot stream là gì?","options":["Tên biến","Lifecycle, sharing và replay policy","Số dòng code","IDE theme"],"answerIndex":1,"explanation":"Hot producer có ownership độc lập nên start/stop/replay quyết định correctness và resource."}
+  "quiz": [
+    {"id":"c01-q01","question":"Khi nào stream phù hợp hơn suspend one-shot?","options":["Dữ liệu thay đổi nhiều lần theo thời gian","Hàm cộng hai số","Parse JSON đồng bộ","Đọc một constant"],"answerIndex":0,"explanation":"Stream mô hình hóa nhiều emission và thay đổi theo thời gian; one-shot không cần lifecycle collection."},
+    {"id":"c01-q02","question":"Cold stream có đặc điểm chính nào?","options":["Producer luôn sống suốt app","Mỗi collector thường khởi động producer riêng","Không thể error","Luôn replay"],"answerIndex":1,"explanation":"Cold producer bắt đầu theo collection, vì vậy nhiều collector có thể lặp side effect."},
+    {"id":"c01-q03","question":"Hot stream khác cold ở điểm nào?","options":["Không dùng coroutine","Producer có lifecycle độc lập collector","Không có value","Luôn finite"],"answerIndex":1,"explanation":"Hot producer có thể tồn tại và emit dù không có subscriber."},
+    {"id":"c01-q04","question":"Backpressure là gì?","options":["Producer error","Consumer chậm hơn producer","UI rotate","Thread pool shutdown"],"answerIndex":1,"explanation":"Tốc độ không cân bằng buộc hệ thống chọn suspend, buffer, drop hoặc conflate."},
+    {"id":"c01-q05","question":"Conflate phù hợp nhất với loại dữ liệu nào?","options":["Payment transaction","Audit log","Latest progress/state","Mọi chat message"],"answerIndex":2,"explanation":"Conflate bỏ intermediate value nên chỉ phù hợp khi latest state đủ để giữ correctness."},
+    {"id":"c01-q06","question":"Vì sao replay one-time navigation event có thể nguy hiểm?","options":["Làm app compile chậm","Subscriber mới có thể điều hướng lại","Không hỗ trợ coroutine","Tự cancel ViewModel"],"answerIndex":1,"explanation":"Replay phát lại occurrence cũ và có thể lặp side effect sau recreate."},
+    {"id":"c01-q07","question":"Hai collector trên cold Flow gọi network có thể gây gì?","options":["Chắc chắn một request","Hai upstream request","Compile error","Không collector nào chạy"],"answerIndex":1,"explanation":"Mỗi collection thực thi producer riêng trừ khi upstream được share/cache có chủ đích."},
+    {"id":"c01-q08","question":"callbackFlow cần awaitClose để làm gì?","options":["Đợi UI render","Cleanup và unregister listener khi collection kết thúc","Tạo replay","Đổi dispatcher"],"answerIndex":1,"explanation":"Cancellation phải giải phóng callback/resource; nếu không có thể leak hoặc duplicate listener."},
+    {"id":"c01-q09","question":"Buffer thay đổi pipeline tuần tự thế nào?","options":["Tạo queue và cho upstream/downstream chạy lệch nhịp","Tắt cancellation","Biến cold thành hot tự động","Bỏ mọi item"],"answerIndex":0,"explanation":"Buffer chèn coroutine/queue boundary, tăng decoupling nhưng thêm memory và stale risk."},
+    {"id":"c01-q10","question":"CancellationException trong catch thường nên làm gì?","options":["Map thành toast","Throw lại","Retry vô hạn","Đổi thành empty list"],"answerIndex":1,"explanation":"Cancellation là control flow; nuốt nó làm work cũ tiếp tục hoặc phát error sai."},
+    {"id":"c01-q11","question":"stateIn/shareIn cần quyết định quan trọng nào?","options":["Scope, SharingStarted và replay","Chỉ tên biến","Android minSdk","JSON serializer"],"answerIndex":0,"explanation":"Ba yếu tố này quyết định lifetime producer, start/stop và dữ liệu subscriber mới nhận."},
+    {"id":"c01-q12","question":"One-shot repository API đơn giản nên ưu tiên gì?","options":["Suspend function","Global SharedFlow","Application event bus","Infinite callbackFlow"],"answerIndex":0,"explanation":"Suspend return giữ contract đơn giản khi chỉ có một kết quả hoặc exception."}
   ]
 }
