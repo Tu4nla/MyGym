@@ -1,0 +1,157 @@
+{
+  "id": "b04",
+  "code": "B04",
+  "title": "launch, async và withContext",
+  "summary": "Phân biệt ba công cụ cốt lõi để khởi tạo coroutine, trả kết quả và chuyển context; hiểu contract, propagation, lazy start, exception timing, structured concurrency và cách chọn đúng theo yêu cầu sản phẩm Android.",
+  "estimatedMinutes": 180,
+  "sections": [
+    {
+      "id": "objectives",
+      "title": "1. Mục tiêu bài học",
+      "blocks": [
+        {"type":"list","items":["Giải thích rõ launch, async và withContext trả về gì, hoàn tất khi nào và lỗi được quan sát ở đâu.","Phân biệt khởi tạo concurrent work với chuyển execution context.","Chọn builder dựa trên contract dữ liệu thay vì thói quen code.","Hiểu eager/lazy start, Deferred, await, Job, cancellation và exception propagation.","Thiết kế fan-out/fan-in có cấu trúc, tránh async thừa và fire-and-forget.","Phân tích một requirement Upzi về tải Job Detail và các section độc lập.","Trả lời câu hỏi phỏng vấn và câu hỏi bẫy về builders, dispatcher và structured concurrency."]},
+        {"type":"callout","variant":"purpose","title":"Năng lực Middle","content":"Bạn phải giải thích được vì sao một đoạn code cần launch, async hay withContext; contract nào được tạo ra; caller chờ bằng cách nào; và lỗi/cancellation lan truyền ra sao."}
+      ]
+    },
+    {
+      "id": "prerequisites",
+      "title": "2. Kiến thức nền cần có",
+      "blocks": [
+        {"type":"list","items":["B01: process, thread, blocking và non-blocking.","B02: suspend function, continuation và coroutine basics.","B03: CoroutineScope, Job hierarchy và structured concurrency."]},
+        {"type":"paragraph","content":"Ba API trong bài đều là suspend/concurrency tools nhưng không cùng vai trò. launch và async là coroutine builders: chúng tạo coroutine con mới trong scope hiện tại. withContext là suspend function: nó chuyển context để chạy một block rồi trả kết quả trực tiếp cho caller."}
+      ]
+    },
+    {
+      "id": "terms",
+      "title": "3. Thuật ngữ và contract",
+      "blocks": [
+        {"type":"table","headers":["Thuật ngữ","Định nghĩa","Ý nghĩa"],"rows":[["Coroutine builder","API tạo coroutine mới","launch và async"],["Job","Handle theo dõi lifecycle không mang giá trị","Kết quả của launch"],["Deferred<T>","Job có thêm giá trị T hoặc exception","Kết quả của async"],["await","Suspend cho tới Deferred hoàn tất và trả T","Điểm quan sát lỗi của async"],["withContext","Suspend function chạy block trong context mới","Không tạo API fire-and-forget"],["Eager start","Coroutine được schedule ngay","Mặc định của launch/async"],["Lazy start","Chưa chạy cho tới start/join/await","CoroutineStart.LAZY"],["Fan-out","Tách một tác vụ thành nhiều nhánh đồng thời","Nhiều async"],["Fan-in","Chờ và tổng hợp kết quả","await/awaitAll"],["Context switch","Thay một phần CoroutineContext","Ví dụ Dispatchers.IO"],["Sequential","Tác vụ sau bắt đầu khi tác vụ trước xong","Hai withContext liên tiếp"],["Concurrent","Nhiều tác vụ có khoảng thời gian chồng lấp","Nhiều async trong cùng scope"]]}
+      ]
+    },
+    {
+      "id": "launch",
+      "title": "4. launch: khởi tạo công việc không trả giá trị",
+      "blocks": [
+        {"type":"paragraph","content":"launch tạo một coroutine con và trả Job ngay. Contract của nó là theo dõi lifecycle, không phải trả dữ liệu. launch phù hợp khi owner đã có scope và muốn bắt đầu một workflow có side effect hoặc cập nhật state."},
+        {"type":"code","language":"kotlin","label":"ViewModel bắt đầu workflow","content":"fun onRefresh() {\n    refreshJob?.cancel()\n    refreshJob = viewModelScope.launch {\n        _uiState.update { it.copy(isRefreshing = true) }\n        try {\n            repository.refresh()\n        } finally {\n            _uiState.update { it.copy(isRefreshing = false) }\n        }\n    }\n}"},
+        {"type":"list","items":["Job có thể cancel, join và kiểm tra trạng thái.","Exception không được xử lý thường propagate lên parent Job.","launch không nên được dùng để che giấu một kết quả mà caller thực sự cần.","Một public repository API trả Job thường làm lộ scope ownership và khó compose hơn suspend API."]},
+        {"type":"callout","variant":"warning","title":"Không đồng nghĩa background","content":"viewModelScope.launch chạy trên Main dispatcher nếu không đổi context. launch chỉ tạo coroutine; dispatcher mới quyết định execution context."}
+      ]
+    },
+    {
+      "id": "async",
+      "title": "5. async: concurrent work có kết quả",
+      "blocks": [
+        {"type":"paragraph","content":"async tạo coroutine con và trả Deferred<T>. Deferred lưu kết quả hoặc exception. async có giá trị khi cần chạy nhiều tác vụ độc lập đồng thời rồi tổng hợp kết quả trong cùng structured scope."},
+        {"type":"code","language":"kotlin","label":"Fan-out/fan-in","content":"suspend fun loadJobDetail(jobId: String): JobDetail = coroutineScope {\n    val job = async { jobRepository.getJob(jobId) }\n    val saved = async { savedRepository.isSaved(jobId) }\n    val company = async { companyRepository.getByJob(jobId) }\n\n    JobDetail(\n        job = job.await(),\n        isSaved = saved.await(),\n        company = company.await()\n    )\n}"},
+        {"type":"list","items":["async mặc định bắt đầu ngay, không chờ await mới chạy.","await là nơi caller nhận giá trị và exception của Deferred.","Nếu một child async fail trong coroutineScope, parent bị cancel và sibling thường bị cancel.","Không dùng async chỉ để gọi await ngay lập tức nếu không có công việc concurrent khác.","Không bỏ quên Deferred; un-awaited async làm contract khó hiểu và có thể khiến lỗi xuất hiện ở parent boundary."]}
+      ]
+    },
+    {
+      "id": "with-context",
+      "title": "6. withContext: chuyển context và trả kết quả trực tiếp",
+      "blocks": [
+        {"type":"paragraph","content":"withContext là suspend function. Nó hợp nhất context hiện tại với context truyền vào, chạy block, chờ block hoàn tất rồi trả kết quả. Nó thường được dùng để làm một suspend API main-safe khi block chứa I/O blocking hoặc CPU work cần dispatcher phù hợp."},
+        {"type":"code","language":"kotlin","label":"Main-safe repository","content":"class AvatarRepository(\n    private val ioDispatcher: CoroutineDispatcher\n) {\n    suspend fun readAvatar(file: File): ByteArray =\n        withContext(ioDispatcher) {\n            file.readBytes()\n        }\n}"},
+        {"type":"list","items":["withContext không làm hai block chạy đồng thời nếu gọi tuần tự.","Nó trả T trực tiếp, không trả Deferred.","Cancellation được kiểm tra khi chuyển context và trong các suspension points.","Không cần withContext(Dispatchers.IO) quanh Retrofit suspend call chỉ vì đó là network; Retrofit/OkHttp đã không block Main trong cách dùng suspend thông thường.","CPU-bound work nên dùng Default; blocking I/O nên dùng IO."]}
+      ]
+    },
+    {
+      "id": "mechanics",
+      "title": "7. Cơ chế bên trong và timeline",
+      "blocks": [
+        {"type":"table","headers":["API","Tạo coroutine con","Trả về ngay","Kết quả","Điểm chờ"],"rows":[["launch","Có","Có","Job","join"],["async","Có","Có","Deferred<T>","await"],["withContext","Có boundary suspend nội bộ nhưng contract là block tuần tự","Không","T trực tiếp","Bản thân lời gọi"]]},
+        {"type":"code","language":"text","label":"Timeline","content":"launch: caller -> create child -> returns Job -> child runs\nasync : caller -> create child -> returns Deferred -> await later\nwithContext: caller suspends -> block runs in merged context -> caller resumes with T"},
+        {"type":"paragraph","content":"Về implementation, builders tạo coroutine object gắn Job vào context và schedule continuation theo dispatcher. withContext tối ưu trường hợp dispatcher không đổi, nhưng semantic vẫn là suspend tới khi block hoàn tất. Bạn nên dựa vào contract, không dựa vào suy đoán micro-optimization."}
+      ]
+    },
+    {
+      "id": "selection",
+      "title": "8. Cách chọn đúng và dấu hiệu cần dùng",
+      "blocks": [
+        {"type":"table","headers":["Nhu cầu","Chọn","Lý do"],"rows":[["UI event bắt đầu workflow và owner là ViewModel","launch","Cần Job/lifecycle, không trả dữ liệu cho event handler"],["Hai API độc lập cần kết quả để ghép model","async","Concurrent result-bearing work"],["Đọc file blocking trong suspend API","withContext(IO)","Main-safe sequential context shift"],["Tính toán JSON lớn","withContext(Default)","CPU-bound"],["Gọi một suspend API rồi dùng kết quả ngay","Gọi trực tiếp","Không cần async"],["Công việc phải sống qua process death","WorkManager","Coroutine scope trong process không đủ"]]},
+        {"type":"heading","content":"Dấu hiệu async hợp lý"},
+        {"type":"list","items":["Các tác vụ độc lập về dependency.","Độ trễ tổng giảm đáng kể khi chạy chồng lấp.","Caller cần tất cả hoặc một chính sách partial success rõ ràng.","Concurrency có giới hạn và resource cost chấp nhận được."]},
+        {"type":"heading","content":"Dấu hiệu không nên dùng async"},
+        {"type":"list","items":["Tác vụ B cần output của A.","Ngay sau async là await mà không có nhánh khác.","Số lượng item không giới hạn dẫn tới fan-out lớn.","API được dùng để né thiết kế suspend contract."]}
+      ]
+    },
+    {
+      "id": "product-requirement",
+      "title": "9. Yêu cầu sản phẩm cụ thể",
+      "blocks": [
+        {"type":"callout","variant":"requirement","title":"Job Detail Upzi","content":"Khi mở Job Detail, thông tin job bắt buộc phải hiển thị. Trạng thái đã lưu và thông tin công ty tải đồng thời. Nếu trạng thái đã lưu lỗi, vẫn hiển thị job và cho retry riêng. Khi người dùng rời màn hình hoặc mở job khác, request cũ phải bị hủy và không được ghi đè state mới."},
+        {"type":"heading","content":"Phân tích dependency"},
+        {"type":"list","items":["Job core là required dependency.","Saved status và company độc lập sau khi có jobId.","Screen/ViewModel là lifetime owner.","Input jobId thay đổi phải cancel workflow cũ."]},
+        {"type":"heading","content":"Error policy"},
+        {"type":"list","items":["Job core fail: toàn màn hình error.","Saved fail: fallback false hoặc unknown, kèm retry/telemetry.","Company fail: section error riêng.","Cancellation không chuyển thành UI error."]},
+        {"type":"heading","content":"Resource policy"},
+        {"type":"list","items":["Chỉ ba request bounded nên async hợp lý.","Không dùng GlobalScope.","Không retry mutation save tự động nếu chưa phân tích idempotency."]}
+      ]
+    },
+    {
+      "id": "upzi-example",
+      "title": "10. Ví dụ thực tế Upzi",
+      "blocks": [
+        {"type":"callout","variant":"status","title":"Trạng thái: inferred/proposed","content":"Upzi đã có Job Detail, repository, coroutine/Flow và lifecycle ViewModel theo thông tin dự án. Cấu trúc code dưới đây là phương án suy luận/đề xuất, không được tuyên bố là implementation thực tế nếu chưa đối chiếu source."},
+        {"type":"code","language":"kotlin","label":"Partial success có cấu trúc","content":"suspend fun load(jobId: String): JobDetailState = supervisorScope {\n    val core = async { jobRepository.getJob(jobId) }\n    val saved = async { runCatching { savedRepository.isSaved(jobId) } }\n    val company = async { runCatching { companyRepository.getByJob(jobId) } }\n\n    JobDetailState.Content(\n        job = core.await(),\n        isSaved = saved.await().getOrDefault(false),\n        company = company.await().getOrNull()\n    )\n}"},
+        {"type":"paragraph","content":"supervisorScope phù hợp vì secondary sections có thể fail độc lập. Tuy nhiên core.await() vẫn phải fail toàn workflow. runCatching cần cẩn thận không nuốt CancellationException; production code nên dùng helper rethrow cancellation trước khi map lỗi."},
+        {"type":"code","language":"kotlin","label":"Helper không nuốt cancellation","content":"inline fun <T> captureResult(block: () -> T): Result<T> =\n    try { Result.success(block()) }\n    catch (e: CancellationException) { throw e }\n    catch (t: Throwable) { Result.failure(t) }"}
+      ]
+    },
+    {
+      "id": "alternatives",
+      "title": "11. Phương án thay thế và trade-off",
+      "blocks": [
+        {"type":"table","headers":["Phương án","Ưu điểm","Nhược điểm / Khi không dùng"],"rows":[["Gọi tuần tự","Đơn giản, ít tải backend","Latency cộng dồn"],["async/await","Giảm latency cho tác vụ độc lập","Tăng concurrent load, failure policy phức tạp"],["Flow combine","Tốt cho stream thay đổi liên tục","Quá nặng cho one-shot load"],["callback","Tương thích API cũ","Khó cancellation/composition"],["RxJava Single.zip","Mạnh trong codebase Rx","Không nên thêm chỉ cho một feature coroutine"],["WorkManager","Bền vững qua process death","Không phù hợp UI request tức thời"]]},
+        {"type":"paragraph","content":"Lựa chọn mặc định: suspend API trực tiếp cho sequence; async chỉ tại orchestration boundary có concurrency thực; withContext tại lớp sở hữu blocking/CPU operation để giữ main-safety."}
+      ]
+    },
+    {
+      "id": "edge-cases",
+      "title": "12. Edge cases và sai lầm thường gặp",
+      "blocks": [
+        {"type":"list","items":["async(start = LAZY) có thể deadlock logic nếu tạo nhiều Deferred nhưng không await/start đúng cách.","Hai async trên cùng Main dispatcher vẫn concurrent theo suspension, không parallel CPU.","await tuần tự không làm mất concurrency nếu Deferred đã eager-start trước đó.","awaitAll fail khi một Deferred fail; cần policy rõ cho partial success.","runCatching bắt Throwable có thể nuốt CancellationException nếu dùng thiếu cẩn thận.","withContext(NonCancellable) chỉ nên dùng cho cleanup ngắn, không cho network dài.","async không giới hạn trên danh sách lớn có thể làm cạn socket/thread/memory.","launch trong repository rồi trả về làm caller tưởng operation đã hoàn tất.","Bọc Retrofit suspend call trong IO thường dư thừa; nhưng parsing custom/blocking code vẫn cần đánh giá.","Dùng async để trả Deferred qua nhiều layer làm lifetime ownership mơ hồ."]}
+      ]
+    },
+    {
+      "id": "interview",
+      "title": "13. Câu hỏi phỏng vấn và câu hỏi bẫy",
+      "blocks": [
+        {"type":"table","headers":["Câu hỏi","Ý chính câu trả lời"],"rows":[["launch khác async thế nào?","Job không giá trị so với Deferred<T>; lỗi async được quan sát qua await nhưng vẫn thuộc Job hierarchy"],["withContext khác async+await?","withContext là sequential context shift, async tạo child concurrent và handle Deferred"],["async có chạy ngay không?","Mặc định eager; LAZY là ngoại lệ"],["await theo thứ tự có làm request chạy tuần tự?","Không nếu Deferred đã được tạo eager trước"],["launch(IO) có luôn tốt hơn withContext(IO)?","Không; contract khác nhau, launch fire-and-forget relative to caller"],["Có nên async một request rồi await ngay?","Thường không, gọi suspend trực tiếp"],["async trên Main có parallel không?","Không nhất thiết; concurrent khi suspension, CPU vẫn một thread"],["Exception trong async xảy ra lúc nào?","Child hoàn tất exceptional; await ném, parent propagation tùy scope/job hierarchy"],["Khi nào dùng supervisorScope?","Các child độc lập, cần partial success"],["withContext(IO) có bảo đảm thread cố định?","Không; dispatcher chọn thread từ pool"]]},
+        {"type":"callout","variant":"interview","title":"Mẫu trả lời theo kinh nghiệm","content":"Ở Upzi tôi ưu tiên viewModelScope.launch cho UI event vì ViewModel sở hữu lifecycle. Trong suspend use case, nếu nhiều API độc lập và tất cả cần để tạo UI model, tôi dùng coroutineScope + async. Với section có thể lỗi riêng, tôi cân nhắc supervisorScope và map lỗi từng child. Tôi chỉ dùng withContext tại nơi thật sự sở hữu blocking I/O hoặc CPU work; không bọc mọi Retrofit call vào IO theo thói quen."}
+      ]
+    },
+    {
+      "id": "exercises",
+      "title": "14. Bài tập thực hành và tình huống",
+      "blocks": [
+        {"type":"list","items":["Refactor một hàm repository đang tự tạo CoroutineScope thành suspend function có contract rõ.","Viết loadHome chạy profile, recommendation và unread count theo dependency graph; đo latency tuần tự và concurrent.","Viết test chứng minh request cũ bị cancel khi jobId thay đổi.","Tạo ví dụ partial success với supervisorScope mà không nuốt CancellationException.","Giới hạn concurrent downloads bằng Semaphore thay vì async toàn bộ danh sách."]},
+        {"type":"heading","content":"Tình huống phỏng vấn"},
+        {"type":"paragraph","content":"Backend giới hạn 4 request đồng thời nhưng màn hình cần tải metadata cho 50 item. Hãy giải thích vì sao async 50 lần là sai, đề xuất batching hoặc Semaphore, mô tả cancellation khi user rời màn hình và cách test giới hạn concurrency."}
+      ]
+    },
+    {
+      "id": "checklist",
+      "title": "15. Checklist tự đánh giá và tóm tắt",
+      "blocks": [
+        {"type":"checklist","items":["Tôi phân biệt được Job và Deferred.","Tôi biết async mặc định eager.","Tôi biết withContext không tạo concurrency giữa hai lời gọi tuần tự.","Tôi chọn builder theo contract, không theo thói quen.","Tôi không nuốt CancellationException.","Tôi phân tích dependency và failure policy trước khi fan-out.","Tôi biết giới hạn resource khi danh sách lớn.","Tôi không tuyên bố ví dụ proposed là implementation Upzi đã xác nhận."]},
+        {"type":"callout","title":"Tóm tắt","content":"launch dùng cho lifecycle-controlled work không trả giá trị; async dùng cho concurrent result-bearing work; withContext dùng để chạy một block tuần tự trong context phù hợp. Structured concurrency, cancellation, error policy và resource limits quan trọng hơn cú pháp."}
+      ]
+    }
+  ],
+  "quiz": [
+    {"id":"b04q01","type":"single","question":"launch trả về kiểu gì?","options":["Deferred<T>","Job","T","Flow<T>"],"answer":1,"explanation":"launch trả Job để quản lý lifecycle, không mang giá trị kết quả."},
+    {"id":"b04q02","type":"single","question":"async mặc định bắt đầu khi nào?","options":["Khi await","Ngay khi được tạo/schedule","Khi parent complete","Khi gọi join"],"answer":1,"explanation":"CoroutineStart.DEFAULT là eager; LAZY mới trì hoãn."},
+    {"id":"b04q03","type":"single","question":"Hai lời gọi withContext(IO) liên tiếp có chạy đồng thời không?","options":["Luôn có","Không, chúng tuần tự","Chỉ trên Android 14","Tùy Retrofit"],"answer":1,"explanation":"Caller suspend chờ block đầu hoàn tất trước khi gọi block sau."},
+    {"id":"b04q04","type":"multiple","question":"Khi nào async hợp lý?","options":["Các tác vụ độc lập","Caller cần kết quả tổng hợp","Ngay sau đó await duy nhất mà không có nhánh khác","Concurrency được giới hạn"],"answer":[0,1,3],"explanation":"async hữu ích cho result-bearing concurrent work có policy/resource rõ."},
+    {"id":"b04q05","type":"single","question":"withContext nên dùng cho mục đích chính nào?","options":["Fire-and-forget","Chuyển context và trả kết quả","Tạo Flow","Lưu state"],"answer":1,"explanation":"withContext là suspend function chạy block trong context mới và trả T."},
+    {"id":"b04q06","type":"single","question":"Hai async được tạo trước rồi await lần lượt có concurrent không?","options":["Không","Có, vì mặc định đã eager-start","Chỉ khi dùng awaitAll","Chỉ trên IO"],"answer":1,"explanation":"Cả hai đã bắt đầu trước khi await đầu tiên."},
+    {"id":"b04q07","type":"multiple","question":"Sai lầm phổ biến là gì?","options":["async không giới hạn","nuốt CancellationException","gọi suspend trực tiếp khi tuần tự","launch trong repository rồi trả về"],"answer":[0,1,3],"explanation":"Gọi suspend trực tiếp cho sequence là lựa chọn đúng."},
+    {"id":"b04q08","type":"single","question":"async trên Main dispatcher có bảo đảm parallel CPU không?","options":["Có","Không","Chỉ khi có 2 core","Chỉ trong supervisorScope"],"answer":1,"explanation":"Concurrency không đồng nghĩa parallelism; Main thường là một thread."},
+    {"id":"b04q09","type":"single","question":"Core section bắt buộc, secondary sections có thể lỗi độc lập. Scope nào phù hợp hơn?","options":["GlobalScope","supervisorScope với policy từng child","runBlocking","lifecycleScope ngoài ViewModel"],"answer":1,"explanation":"Supervisor semantics giữ sibling độc lập, nhưng core vẫn phải được await và propagate."},
+    {"id":"b04q10","type":"single","question":"Retrofit suspend call có luôn cần withContext(IO) không?","options":["Luôn cần","Thường không","Chỉ GET","Chỉ POST"],"answer":1,"explanation":"Retrofit suspend integration không block Main theo cách dùng thông thường; đánh giá riêng parsing/blocking work."},
+    {"id":"b04q11","type":"multiple","question":"Deferred hỗ trợ những gì?","options":["await giá trị","cancel","join","lưu persistent qua process death"],"answer":[0,1,2],"explanation":"Deferred là Job có kết quả nhưng không bền vững qua process death."},
+    {"id":"b04q12","type":"single","question":"Nguyên tắc chọn builder tốt nhất là gì?","options":["Luôn dùng async","Theo contract dữ liệu, lifecycle và error policy","Luôn dùng IO","Theo code ngắn nhất"],"answer":1,"explanation":"Contract và ownership quyết định lựa chọn, không phải thói quen cú pháp."}
+  ]
+}
