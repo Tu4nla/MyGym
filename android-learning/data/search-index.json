@@ -685,5 +685,35 @@
       "Stability và skippability",
       "State ownership và side-effect boundary"
     ]
+  },
+  {
+    "lessonId": "d02",
+    "code": "D02",
+    "title": "State trong Compose",
+    "keywords": [
+      "Compose state",
+      "MutableState",
+      "Snapshot State",
+      "state hoisting",
+      "single source of truth",
+      "UiState",
+      "StateFlow",
+      "remember",
+      "rememberSaveable",
+      "SavedStateHandle",
+      "derivedStateOf",
+      "mutation policy",
+      "process death"
+    ],
+    "headings": [
+      "Cơ chế Snapshot State",
+      "State hoisting",
+      "Ownership và lifetime",
+      "Immutable UiState",
+      "Lifecycle và restoration",
+      "Upzi form, search và chat",
+      "Trade-off và edge cases",
+      "Câu hỏi phỏng vấn"
+    ]
   }
 ]
