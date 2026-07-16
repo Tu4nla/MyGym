@@ -1,0 +1,226 @@
+{
+  "id": "c04",
+  "code": "C04",
+  "title": "SharedFlow",
+  "summary": "Hiểu SharedFlow như hot broadcast stream cấu hình bằng replay, extraBufferCapacity và BufferOverflow; thiết kế event/state broadcast, shareIn, subscription lifecycle, backpressure, delivery semantics và one-time effect trong Android mà không biến SharedFlow thành global event bus.",
+  "estimatedMinutes": 300,
+  "sections": [
+    {
+      "id": "objectives",
+      "title": "1. Mục tiêu bài học",
+      "blocks": [
+        {"type":"paragraph","content":"SharedFlow thường được dùng để phát event, nhưng nếu chỉ nhớ MutableSharedFlow() rồi emit thì rất dễ mất event, replay sai hoặc tạo global event bus khó kiểm soát. Bài này tập trung vào delivery semantics: subscriber nào nhận được gì, khi không có subscriber thì emission đi đâu, producer nhanh hơn consumer xử lý thế nào và lifecycle owner của hot stream là ai."},
+        {"type":"list","items":["Giải thích SharedFlow là hot broadcast stream và khác StateFlow/cold Flow.","Hiểu replay, replayCache, extraBufferCapacity và BufferOverflow.","Phân tích emit và tryEmit khi có/không có subscriber.","Thiết kế one-time effect, domain event và shared upstream có contract rõ.","Dùng shareIn đúng scope và SharingStarted.","Tránh lost event, duplicate replay, buffer overflow và global event bus."]}
+      ]
+    },
+    {
+      "id": "prerequisites",
+      "title": "2. Kiến thức nền",
+      "blocks": [
+        {"type":"paragraph","content":"Bạn cần hiểu C01-C03: cold/hot stream, backpressure, state/event và StateFlow conflation. SharedFlow không có current value bắt buộc như StateFlow và có cấu hình replay/buffer linh hoạt hơn, nhưng linh hoạt đồng nghĩa contract phải được viết rõ."},
+        {"type":"list","items":["Coroutine scope và cancellation.","Channel/backpressure ở mức khái niệm.","Android lifecycle và one-time effect.","B09: ownership, immutable state và event ordering."]}
+      ]
+    },
+    {
+      "id": "terminology",
+      "title": "3. Thuật ngữ cốt lõi",
+      "blocks": [
+        {"type":"table","headers":["Thuật ngữ","Giải thích"],"rows":[["SharedFlow","Hot Flow broadcast emission tới nhiều subscriber theo cấu hình replay/buffer."],["MutableSharedFlow","Producer API cho emit/tryEmit/resetReplayCache."],["Replay","Số emission gần nhất lưu để phát cho subscriber mới."],["Replay cache","Snapshot các item đang được giữ để replay."],["extraBufferCapacity","Dung lượng thêm ngoài replay cho producer vượt trước subscriber đang chậm."],["BufferOverflow","Policy khi buffer đầy: SUSPEND, DROP_OLDEST hoặc DROP_LATEST."],["emit","Suspend function phát item; có thể suspend khi backpressure policy yêu cầu."],["tryEmit","Phát không suspend và trả Boolean cho biết có chấp nhận item hay không."],["Broadcast","Mỗi subscriber active có thể nhận cùng emission."],["Subscriber absence","Thời điểm không có collector; behavior khác channel queue."],["shareIn","Chuyển cold Flow thành SharedFlow trong scope với start/replay policy."],["Effect","Occurrence UI như snackbar/navigation, thường không phải current state."]]}
+      ]
+    },
+    {
+      "id": "hot-broadcast",
+      "title": "4. SharedFlow là hot broadcast stream",
+      "blocks": [
+        {"type":"paragraph","content":"MutableSharedFlow tồn tại độc lập collector. Producer có thể emit bất cứ lúc nào; subscriber chỉ nhận theo replay và thời điểm subscription. Khác cold Flow, thêm subscriber không chạy lại producer block. Khác Channel point-to-point, SharedFlow broadcast cùng emission tới nhiều subscriber active."},
+        {"type":"code","language":"kotlin","label":"Một emission tới nhiều subscriber","content":"val events = MutableSharedFlow<String>()\n\nlaunch { events.collect { println("A: $it") } }\nlaunch { events.collect { println("B: $it") } }\n\nevents.emit("hello")\n// A và B đều có thể nhận hello nếu đã subscribe"},
+        {"type":"paragraph","content":"SharedFlow không complete và không biểu diễn failure trực tiếp. Error/completion phải được materialize thành data event/state hoặc owner scope bị cancel. Điều này phù hợp long-lived bus có owner rõ nhưng cần policy explicit."}
+      ]
+    },
+    {
+      "id": "replay",
+      "title": "5. Replay và subscriber mới",
+      "blocks": [
+        {"type":"paragraph","content":"replay=N giữ N emission gần nhất. Subscriber mới nhận replay cache trước rồi nhận emission live. replay=0 nghĩa không phát lại lịch sử; subscriber vắng mặt sẽ không nhận item cũ chỉ vì collect sau."},
+        {"type":"code","language":"kotlin","label":"Replay một item","content":"val shared = MutableSharedFlow<Int>(replay = 1)\nshared.emit(1)\nshared.emit(2)\n\nshared.collect { println(it) }\n// Subscriber mới bắt đầu từ 2"},
+        {"type":"paragraph","content":"Replay phù hợp data gần giống state hoặc bootstrap event có thể phát lại an toàn. Với navigation/snackbar, replay có thể lặp side effect sau rotate. Đừng chọn replay=1 như giải pháp mặc định cho lost event; hãy xác định event có nên được nhớ hay không."}
+      ]
+    },
+    {
+      "id": "buffer",
+      "title": "6. extraBufferCapacity và backpressure",
+      "blocks": [
+        {"type":"paragraph","content":"replay cache phục vụ subscriber mới, còn extraBufferCapacity cho phép producer emit thêm item mà không suspend khi subscriber active đang chậm. Tổng buffer hiệu dụng liên quan replay + extra capacity. Khi đầy, onBufferOverflow quyết định suspend hay drop."},
+        {"type":"table","headers":["Policy","Behavior","Phù hợp"],"rows":[["SUSPEND","emit chờ subscriber/buffer có chỗ","Event phải giữ đủ và producer có thể suspend"],["DROP_OLDEST","Bỏ item cũ nhất để giữ item mới","Latest-oriented telemetry/state-like signal"],["DROP_LATEST","Bỏ item mới khi đầy","Giữ backlog cũ quan trọng hơn item mới"]]},
+        {"type":"paragraph","content":"Buffer không giải quyết subscriber absence theo cách queue bền vững. Nếu không subscriber, replay mới là phần được giữ. extraBufferCapacity chủ yếu giúp khi có subscriber nhưng xử lý chậm. Đây là chi tiết dễ bị hiểu sai."}
+      ]
+    },
+    {
+      "id": "emit-tryemit",
+      "title": "7. emit và tryEmit",
+      "blocks": [
+        {"type":"paragraph","content":"emit là suspend và tôn trọng backpressure; nếu buffer đầy với SUSPEND, producer chờ. tryEmit không suspend, trả true nếu item được chấp nhận theo cấu hình. true không đồng nghĩa mọi subscriber chắc chắn đã xử lý item; nó chỉ nói emission được chấp nhận vào SharedFlow semantics."},
+        {"type":"code","language":"kotlin","label":"Phát event có kiểm tra","content":"if (!_effects.tryEmit(UiEffect.ShowSnackbar(message))) {\n    logger.warn("effect buffer full")\n}"},
+        {"type":"paragraph","content":"Bỏ qua Boolean của tryEmit có thể làm event mất âm thầm. Với producer ở suspend context và event bắt buộc, emit thường rõ hơn. Với callback không được suspend, tryEmit cần metric/fallback và buffer policy được thiết kế trước."}
+      ]
+    },
+    {
+      "id": "absence",
+      "title": "8. Khi không có subscriber",
+      "blocks": [
+        {"type":"paragraph","content":"Với replay=0, emission khi không subscriber thường không được lưu cho collector tương lai. emit có thể return ngay vì không có subscriber chậm để backpressure. Điều này khiến event phát trong ViewModel init trước UI collector bị mất."},
+        {"type":"paragraph","content":"Nếu event phải được xử lý dù UI chưa collect, cần xem lại model. Có thể đó là state pending cần acknowledgement, hoặc command cần durable storage, không phải transient SharedFlow. Tăng replay chỉ thay delivery policy và có thể tạo duplicate sau recreate."},
+        {"type":"callout","variant":"warning","title":"Không có exactly-once miễn phí","content":"SharedFlow không tự cung cấp exactly-once delivery qua lifecycle/process death. Muốn chắc chắn, cần identity, acknowledgement và persistence tùy requirement."}
+      ]
+    },
+    {
+      "id": "shared-vs-state",
+      "title": "9. SharedFlow và StateFlow",
+      "blocks": [
+        {"type":"table","headers":["Tiêu chí","StateFlow","SharedFlow"],"rows":[["Current value","Bắt buộc, đọc qua value","Không bắt buộc"],["Replay","Luôn latest 1 theo state semantics","Cấu hình 0..N"],["Conflation","Equality-based latest state","Theo buffer/overflow, không equality state mặc định"],["Use case","Current state","Broadcast event hoặc shared stream"],["Initial value","Bắt buộc","Không"],["Subscriber absence","Latest state vẫn tồn tại","Chỉ replay cache được giữ"]]},
+        {"type":"paragraph","content":"MutableStateFlow có thể xem gần như SharedFlow replay=1 + distinct equality + current value API, nhưng semantics state rõ hơn. Đừng dùng SharedFlow replay=1 để né initial state nếu domain thực sự có current state; model Loading/Unknown rõ ràng thường tốt hơn."}
+      ]
+    },
+    {
+      "id": "effects",
+      "title": "10. One-time UI effect và acknowledgement",
+      "blocks": [
+        {"type":"paragraph","content":"Snackbar/navigation thường được phát qua SharedFlow replay=0 trong ViewModel. Pattern này phù hợp khi UI active chắc chắn đang collect và mất effect khi UI absent là chấp nhận được. Nếu effect không được phép mất, cần pending effect state hoặc queue có acknowledgement."},
+        {"type":"code","language":"kotlin","label":"Effect stream read-only","content":"private val _effects = MutableSharedFlow<UiEffect>(\n    replay = 0,\n    extraBufferCapacity = 1\n)\nval effects: SharedFlow<UiEffect> = _effects.asSharedFlow()\n\nfun onSaved() {\n    _effects.tryEmit(UiEffect.ShowSnackbar("Saved"))\n}"},
+        {"type":"paragraph","content":"extraBufferCapacity=1 giúp producer không suspend khi collector active tạm chậm, nhưng không bảo đảm effect phát trước subscription được giữ. Requirement phải chấp nhận semantics đó. Với navigation critical, state-driven navigation hoặc acknowledged command có thể đáng tin cậy hơn."}
+      ]
+    },
+    {
+      "id": "sharein",
+      "title": "11. shareIn: chia sẻ cold upstream",
+      "blocks": [
+        {"type":"paragraph","content":"shareIn collect cold upstream một lần trong scope và broadcast emission qua SharedFlow. Nó giải duplicate upstream work khi nhiều collector cần cùng stream, nhưng tạo hot producer với lifetime theo scope."},
+        {"type":"code","language":"kotlin","label":"Share socket events trong session scope","content":"val events: SharedFlow<SocketEvent> = socketSource.events()\n    .shareIn(\n        scope = sessionScope,\n        started = SharingStarted.WhileSubscribed(5_000),\n        replay = 0\n    )"},
+        {"type":"paragraph","content":"Nếu socket phải sống suốt session dù không màn hình nào collect, WhileSubscribed có thể không phù hợp; owner có thể dùng Eagerly trong sessionScope. Nếu source đắt nhưng chỉ cần khi UI active, WhileSubscribed tiết kiệm hơn. SharingStarted là business/resource policy."}
+      ]
+    },
+    {
+      "id": "purpose",
+      "title": "12. Mục đích và vấn đề được giải quyết",
+      "blocks": [
+        {"type":"paragraph","content":"SharedFlow giải nhu cầu broadcast hot data/event cho nhiều subscriber và chia sẻ một cold upstream. Nó hữu ích khi không có current value bắt buộc hoặc khi muốn replay cấu hình linh hoạt."},
+        {"type":"list","items":["Broadcast domain/UI event tới nhiều collector.","Chia sẻ socket/SSE upstream.","Giảm duplicate cold producer.","Cấu hình replay và overflow theo requirement.","Bridge producer hot vào Flow operator ecosystem."]}
+      ]
+    },
+    {
+      "id": "when-to-use",
+      "title": "13. Khi nên dùng SharedFlow",
+      "blocks": [
+        {"type":"paragraph","content":"Dùng SharedFlow khi có hot broadcast và delivery semantics được chấp nhận rõ. Ví dụ session event, app-level logout signal trong owner scope, analytics signal có tolerance hoặc UI effect khi UI active."},
+        {"type":"list","items":["Nhiều subscriber active cần cùng emission.","Không cần current value sync.","Cold upstream cần share.","Replay N item có ý nghĩa rõ.","Producer và owner scope tồn tại độc lập collector."]}
+      ]
+    },
+    {
+      "id": "when-not-to-use",
+      "title": "14. Khi không nên dùng SharedFlow",
+      "blocks": [
+        {"type":"paragraph","content":"Không dùng SharedFlow làm global event bus giữa mọi feature vì dependency ẩn, ordering và lifecycle khó debug. Không dùng cho current state chỉ để tránh initial value. Không dùng cho durable command hoặc exactly-once operation qua process death."},
+        {"type":"list","items":["Current UI/domain state → StateFlow.","One-shot return → suspend function.","Point-to-point work queue → Channel/actor tùy contract.","Durable task → database/WorkManager.","Event bắt buộc xử lý exactly-once → persistence + acknowledgement."]}
+      ]
+    },
+    {
+      "id": "requirement",
+      "title": "15. Yêu cầu sản phẩm cụ thể: Chat session events",
+      "blocks": [
+        {"type":"callout","variant":"purpose","title":"Requirement","content":"Một socket connection trong session phát message, typing, delivered, read và reconnect status. Nhiều consumer như conversation screen, badge store và notification coordinator cần cùng event mà không tạo nhiều socket connection."},
+        {"type":"paragraph","content":"Source socket phải có owner session scope. Cold callbackFlow adapter chỉ mô tả event source; shareIn biến nó thành một upstream connection dùng chung. replay phải tùy event: message event thường không replay nếu database đã là source of truth; connection state nên chuyển thành StateFlow; logout phải cancel session scope và close socket."},
+        {"type":"paragraph","content":"Backpressure khác nhau theo event. Typing có thể drop/conflate; message/delivered/read không nên drop âm thầm nếu chưa persist. Một SharedFlow duy nhất với một overflow policy cho mọi event có thể sai; nên tách stream hoặc persist trước broadcast."}
+      ]
+    },
+    {
+      "id": "analysis",
+      "title": "16. Phân tích dependency, error policy, lifecycle và resource limits",
+      "blocks": [
+        {"type":"table","headers":["Khía cạnh","Quyết định"],"rows":[["Owner","SessionManager/sessionScope sở hữu shared socket upstream."],["Source of truth","Message persist Room; SharedFlow chỉ thông báo event live."],["Replay","Message replay=0 nếu DB phục hồi; connection state dùng StateFlow."],["Buffer","Typing drop được; message event cần persist/ack trước khi drop."],["Lifecycle","Logout cancel scope; screen subscriber không sở hữu socket."],["Error","Socket error thành connection state/reconnect policy, không terminate consumer vĩnh viễn."],["Resource","Một connection, monitor subscriber count/queue, tránh unbounded buffer."],["Testing","Subscriber absence, two collectors, overflow, reconnect và logout cancellation."]]}
+      ]
+    },
+    {
+      "id": "socket-code",
+      "title": "17. Ví dụ shared socket source",
+      "blocks": [
+        {"type":"code","language":"kotlin","label":"Cold adapter rồi share trong owner scope","content":"class ChatSession(\n    socket: ChatSocket,\n    sessionScope: CoroutineScope\n) {\n    private val upstream: Flow<SocketEvent> = callbackFlow {\n        val listener = socket.listen { event -> trySend(event) }\n        socket.connect()\n        awaitClose {\n            listener.dispose()\n            socket.disconnect()\n        }\n    }\n\n    val events: SharedFlow<SocketEvent> = upstream.shareIn(\n        scope = sessionScope,\n        started = SharingStarted.Eagerly,\n        replay = 0\n    )\n}"},
+        {"type":"paragraph","content":"Eagerly ở đây là proposed policy khi socket phải sống suốt session. sessionScope cancellation chạy awaitClose và disconnect. Nếu product chỉ cần socket khi có screen active, WhileSubscribed hợp hơn. Code phải bảo đảm callbackFlow capacity phù hợp và event quan trọng được persist/reconcile."}
+      ]
+    },
+    {
+      "id": "subscription-count",
+      "title": "18. subscriptionCount và start/stop tùy subscriber",
+      "blocks": [
+        {"type":"paragraph","content":"MutableSharedFlow.subscriptionCount là StateFlow<Int> cho biết số subscriber active. Có thể dùng để tối ưu producer thủ công, nhưng shareIn/SharingStarted thường declarative hơn. Tự observe subscriptionCount dễ tạo race start-stop và logic lifecycle phức tạp."},
+        {"type":"paragraph","content":"Nếu dùng subscriptionCount, phải debounce stop/start ngắn hạn và bảo vệ multiple start. Không nên để UI subscriber count trực tiếp điều khiển business-critical session nếu session lifetime độc lập màn hình."}
+      ]
+    },
+    {
+      "id": "testing",
+      "title": "19. Test SharedFlow delivery semantics",
+      "blocks": [
+        {"type":"paragraph","content":"Test phải start collector trước hoặc sau emit tùy scenario. Với replay=0, emit trước collector nên không kỳ vọng nhận. Với replay=1, collector mới phải nhận latest. Test overflow cần làm collector chậm có kiểm soát và assert item bị drop theo policy."},
+        {"type":"code","language":"kotlin","label":"Test replay","content":"@Test\nfun newSubscriberReceivesReplay() = runTest {\n    val flow = MutableSharedFlow<Int>(replay = 1)\n    flow.emit(1)\n    flow.emit(2)\n\n    assertEquals(2, flow.first())\n}"},
+        {"type":"paragraph","content":"Với infinite SharedFlow, dùng first/take/backgroundScope để test kết thúc. Đừng collect vô hạn trực tiếp trong runTest mà không cancel. Controlled scheduler giúp bảo đảm collector đã subscribe trước khi emit."}
+      ]
+    },
+    {
+      "id": "upzi-case",
+      "title": "20. Case study Upzi và mức độ xác nhận",
+      "blocks": [
+        {"type":"callout","variant":"purpose","title":"confirmed","content":"Upzi có Chat Socket.IO, typing/read/delivered, reconnect, chat badge và nhiều consumer real-time."},
+        {"type":"callout","title":"inferred","content":"Có khả năng real-time event được chia sẻ giữa nhiều layer, nhưng SharedFlow/shareIn topology và replay/buffer config cụ thể chưa được xác nhận."},
+        {"type":"callout","title":"proposed","content":"Đề xuất session-scoped shared socket source, persist message event vào Room, expose connection state bằng StateFlow, transient live event bằng SharedFlow replay=0 và typing có drop policy riêng."},
+        {"type":"callout","variant":"warning","title":"needs-confirmation","content":"Cần kiểm tra hiện tại socket listener được tạo ở đâu, có bao nhiêu connection, event nào persist, và SharedFlow/Channel nào đang dùng trước khi kể như đã triển khai."}
+      ]
+    },
+    {
+      "id": "alternatives",
+      "title": "21. Phương án thay thế và trade-off",
+      "blocks": [
+        {"type":"table","headers":["Phương án","Phù hợp","Trade-off"],"rows":[["StateFlow","Current state/latest value","Không phù hợp event history"],["SharedFlow","Hot broadcast, replay linh hoạt","Không exactly-once/durable"],["Channel","Point-to-point queue/actor","Nhiều collector chia item, không broadcast mặc định"],["Cold Flow","Per-collector execution","Có thể duplicate upstream"],["LiveData event wrapper","Codebase cũ","Wrapper/consumption semantics phức tạp"],["Database observer","Durable source of truth","Latency/IO hơn transient event"]]},
+        {"type":"paragraph","content":"SharedFlow thường nên đi cùng source of truth chứ không thay thế. Real-time message persist DB rồi UI observe DB giúp phục hồi missed event và process death; SharedFlow chỉ giảm latency live."}
+      ]
+    },
+    {
+      "id": "edge-cases",
+      "title": "22. Edge cases và sai lầm thường gặp",
+      "blocks": [
+        {"type":"list","items":["Emit replay=0 trước subscriber và event mất.","Dùng replay=1 cho navigation gây duplicate.","Bỏ qua false của tryEmit.","Buffer overflow drop event business-critical.","SharedFlow global tạo dependency ẩn.","shareIn scope application giữ connection quá lâu.","WhileSubscribed stop upstream và mất event khi không subscriber.","Một overflow policy cho nhiều event semantics khác nhau.","Collector vô hạn làm test không kết thúc.","resetReplayCache dùng để vá model state/event sai.","Không persist event cần phục hồi qua process death."]},
+        {"type":"paragraph","content":"Sai lầm lớn nhất là nói gửi event qua SharedFlow mà không nêu delivery guarantee. Middle engineer phải nói rõ at-most-once, replay, subscriber absence, buffer overflow và recovery source."}
+      ]
+    },
+    {
+      "id": "interview",
+      "title": "23. Câu hỏi phỏng vấn, mẫu trả lời và checklist",
+      "blocks": [
+        {"type":"table","headers":["Câu hỏi","Điểm cần trả lời"],"rows":[["SharedFlow là hot hay cold?","Hot, tồn tại độc lập collector."],["replay khác buffer?","Replay cho subscriber mới; extra buffer hỗ trợ subscriber active chậm."],["emit khi không subscriber?","Chỉ replay giữ cho tương lai; replay=0 thường mất item."],["emit và tryEmit khác gì?","emit suspend/backpressure; tryEmit non-suspend trả Boolean."],["SharedFlow khác Channel?","Broadcast tới mọi subscriber active vs point-to-point queue semantics."],["SharedFlow cho event exactly-once?","Không; cần acknowledgement/persistence."],["shareIn cần gì?","Scope, SharingStarted, replay và upstream cleanup."],["StateFlow hay SharedFlow cho connection state?","StateFlow vì có current value."]]},
+        {"type":"paragraph","content":"Mẫu trả lời: Tôi dùng SharedFlow khi cần hot broadcast và đã xác định replay/buffer. Với socket, tôi share cold adapter trong session scope để tránh nhiều connection; message quan trọng được persist, connection status là StateFlow, typing có thể drop. UI effect replay=0 chỉ dùng khi mất effect lúc UI absent là chấp nhận được."},
+        {"type":"list","items":["Tôi biết subscriber vắng mặt thì item đi đâu.","Tôi phân biệt replay và extra buffer.","Tôi kiểm tra kết quả tryEmit.","Tôi có overflow policy theo business semantics.","Tôi xác định owner scope và SharingStarted.","Tôi không dùng global event bus.","Tôi có persistence/ack cho event bắt buộc."]}
+      ]
+    },
+    {
+      "id": "summary-quiz",
+      "title": "24. Bài tập, tóm tắt và quiz",
+      "blocks": [
+        {"type":"paragraph","content":"Bài tập 1: cấu hình replay 0/1 và emit trước/sau subscriber, ghi lại item nhận được. Bài tập 2: tạo collector chậm và so sánh SUSPEND, DROP_OLDEST, DROP_LATEST. Bài tập 3: thiết kế ChatSession share một socket cho hai collector và chứng minh logout đóng upstream."},
+        {"type":"callout","variant":"purpose","title":"Tóm tắt","content":"SharedFlow là hot broadcast stream có replay/buffer cấu hình được. Nó không tự bảo đảm exactly-once, durability hoặc delivery khi subscriber vắng mặt. replay, overflow, scope và SharingStarted phải xuất phát từ requirement; state nên dùng StateFlow và event quan trọng nên có persistence/acknowledgement."},
+        {"type":"paragraph","content":"Quiz kiểm tra delivery semantics và architecture."}
+      ]
+    }
+  ],
+  "quiz": [
+    {"id":"c04-q01","question":"SharedFlow là hot hay cold?","options":["Cold","Hot","Tùy replay","Không phải Flow"],"answerIndex":1,"explanation":"SharedFlow tồn tại và nhận emission độc lập collector."},
+    {"id":"c04-q02","question":"replay=1 có nghĩa gì?","options":["Chỉ một subscriber","Subscriber mới nhận một emission gần nhất","Buffer chỉ chứa một item active","Flow complete sau một item"],"answerIndex":1,"explanation":"Replay cache giữ latest một item cho subscriber mới."},
+    {"id":"c04-q03","question":"extraBufferCapacity chủ yếu giúp trường hợp nào?","options":["Không subscriber","Subscriber active chậm","Persist process death","Tạo current value"],"answerIndex":1,"explanation":"Extra buffer cho producer vượt trước subscriber active; không thay replay cho subscriber tương lai."},
+    {"id":"c04-q04","question":"emit khác tryEmit thế nào?","options":["emit suspend, tryEmit non-suspend trả Boolean","Không khác","tryEmit luôn giữ event","emit chỉ Main"],"answerIndex":0,"explanation":"emit tôn trọng backpressure bằng suspension; tryEmit báo có chấp nhận item hay không."},
+    {"id":"c04-q05","question":"Với replay=0 và không subscriber, event thường thế nào?","options":["Được giữ vô hạn","Không được giữ cho subscriber tương lai","Tự chuyển StateFlow","Persist database"],"answerIndex":1,"explanation":"Không replay nghĩa subscriber sau không nhận emission cũ."},
+    {"id":"c04-q06","question":"SharedFlow có exactly-once delivery qua process death không?","options":["Có","Không","Chỉ replay=1","Chỉ buffer lớn"],"answerIndex":1,"explanation":"Cần persistence, identity và acknowledgement để có guarantee mạnh hơn."},
+    {"id":"c04-q07","question":"Connection status nên dùng gì?","options":["StateFlow","SharedFlow replay=0","Global Channel","One-shot suspend"],"answerIndex":0,"explanation":"Connection status có current value và subscriber mới cần latest state."},
+    {"id":"c04-q08","question":"shareIn giải quyết gì?","options":["Share cold upstream trong scope","Persist event","Tạo Room transaction","Đổi JSON"],"answerIndex":0,"explanation":"shareIn collect upstream một lần và broadcast qua SharedFlow."},
+    {"id":"c04-q09","question":"DROP_OLDEST có phù hợp mọi chat message không?","options":["Có","Không, có thể mất event business-critical","Chỉ Android 14","Chỉ khi replay=0"],"answerIndex":1,"explanation":"Message cần persist/reconcile; drop âm thầm có thể phá correctness."},
+    {"id":"c04-q10","question":"Vì sao global SharedFlow event bus nguy hiểm?","options":["Không compile","Dependency/lifecycle/ordering ẩn","Không hỗ trợ collector","Luôn chậm"],"answerIndex":1,"explanation":"Producer-consumer coupling trở nên khó trace và test."},
+    {"id":"c04-q11","question":"tryEmit trả false nên làm gì?","options":["Luôn bỏ qua","Xử lý/log/fallback theo delivery requirement","Crash mọi lúc","Đổi thành StateFlow tự động"],"answerIndex":1,"explanation":"False cho biết item không được chấp nhận; bỏ qua có thể mất event âm thầm."},
+    {"id":"c04-q12","question":"Navigation effect với replay=1 có rủi ro gì?","options":["Không nhận event","Subscriber mới navigate lại","Flow complete","Không buffer"],"answerIndex":1,"explanation":"Replay occurrence cũ có thể lặp side effect sau rotate/recollect."}
+  ]
+}
