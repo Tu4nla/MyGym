@@ -624,5 +624,33 @@
       "Durability",
       "Process death"
     ]
+  },
+  {
+    "lessonId": "c11",
+    "code": "C11",
+    "title": "Flow Testing",
+    "keywords": [
+      "Flow testing",
+      "runTest",
+      "TestCoroutineScheduler",
+      "virtual time",
+      "StandardTestDispatcher",
+      "UnconfinedTestDispatcher",
+      "Turbine",
+      "StateFlow test",
+      "SharedFlow test",
+      "debounce test",
+      "cancellation"
+    ],
+    "headings": [
+      "Virtual time",
+      "Finite và infinite Flow",
+      "StateFlow và SharedFlow",
+      "Debounce",
+      "Cancellation",
+      "Turbine",
+      "Upzi",
+      "Interview"
+    ]
   }
 ]

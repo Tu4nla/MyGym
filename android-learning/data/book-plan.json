@@ -1,6 +1,6 @@
 {
   "strategy": "Generate the largest safe sequential batch per run without sacrificing B01-level depth; never skip catalog order.",
-  "current": "c11",
+  "current": "d01",
   "completed": [
     "b01",
     "b02",
@@ -21,7 +21,8 @@
     "c07",
     "c08",
     "c09",
-    "c10"
+    "c10",
+    "c11"
   ],
   "qualityGate": {
     "minimumQuizQuestions": 10,

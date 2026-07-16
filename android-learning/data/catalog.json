@@ -200,8 +200,8 @@
           "code": "C11",
           "title": "Flow Testing",
           "path": "data/lessons/c/c11.json",
-          "estimatedMinutes": 120,
-          "status": "planned"
+          "estimatedMinutes": 360,
+          "status": "published"
         }
       ]
     },
