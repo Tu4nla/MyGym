@@ -160,8 +160,8 @@
           "code": "C06",
           "title": "Flow Operators cơ bản",
           "path": "data/lessons/c/c06.json",
-          "estimatedMinutes": 120,
-          "status": "planned"
+          "estimatedMinutes": 300,
+          "status": "published"
         },
         {
           "id": "c07",
