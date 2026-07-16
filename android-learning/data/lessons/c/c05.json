@@ -1,0 +1,223 @@
+{
+  "id": "c05",
+  "code": "C05",
+  "title": "Channel",
+  "summary": "Hiểu Channel như primitive truyền message giữa coroutine: send/receive, rendezvous và buffering, close/cancel, fan-in/fan-out, actor-style ownership, backpressure, fairness, lifecycle và cách phân biệt Channel với Flow, SharedFlow và queue bền vững.",
+  "estimatedMinutes": 300,
+  "sections": [
+    {
+      "id": "objectives",
+      "title": "1. Mục tiêu bài học",
+      "blocks": [
+        {"type":"paragraph","content":"Channel thường bị hiểu đơn giản là một hàng đợi dành cho coroutine. Cách hiểu đó chưa đủ để thiết kế production code. Một Channel đồng thời định nghĩa ownership của producer và consumer, chính sách backpressure, thời điểm message được xem là đã được giao, hành vi khi đóng, cách lỗi lan truyền và giới hạn tài nguyên khi producer nhanh hơn consumer."},
+        {"type":"list","items":["Giải thích send/receive và suspension theo từng loại capacity.","Phân biệt rendezvous, buffered, conflated và unlimited channel.","Thiết kế close, cancel, failure và cleanup đúng lifecycle.","Dùng Channel cho work queue, fan-in, fan-out và single-writer actor.","Phân biệt Channel với cold Flow, StateFlow, SharedFlow và durable queue.","Phân tích message loss, ordering, fairness, backpressure và resource limits trong Android."]}
+      ]
+    },
+    {
+      "id": "prerequisites",
+      "title": "2. Kiến thức nền",
+      "blocks": [
+        {"type":"paragraph","content":"Bạn cần nắm structured concurrency, Job, cancellation, exception propagation, dispatcher và các bài C01-C04 về cold Flow, StateFlow, SharedFlow. Channel không thay thế scope; mọi producer và consumer vẫn phải thuộc một lifecycle owner rõ ràng."},
+        {"type":"list","items":["B03-B08: scope, Job, cancellation, exception và supervision.","B09: race condition, ownership và single writer.","C02-C04: cold/hot stream, replay, buffer và state/event semantics."]}
+      ]
+    },
+    {
+      "id": "terminology",
+      "title": "3. Thuật ngữ và contract",
+      "blocks": [
+        {"type":"table","headers":["Thuật ngữ","Giải thích"],"rows":[["Channel","Primitive gửi và nhận message giữa coroutine."],["SendChannel","Mặt API cho producer gửi hoặc đóng channel."],["ReceiveChannel","Mặt API cho consumer nhận và iterate message."],["Rendezvous","Capacity bằng 0; send và receive phải gặp nhau."],["Buffer","Vùng lưu message chờ consumer."],["Backpressure","Policy khi producer tạo message nhanh hơn consumer."],["Close","Kết thúc gửi mới nhưng cho phép drain message đã buffer."],["Cancel","Hủy channel/consumer và loại bỏ công việc đang chờ theo lifecycle."],["Fan-in","Nhiều producer gửi về một channel."],["Fan-out","Nhiều consumer cạnh tranh nhận từng message."],["Actor","Một coroutine sở hữu mutable state và nhận command tuần tự."],["Undelivered element","Message đã được chấp nhận nhưng không đến business handler do cancellation/close race."]]},
+        {"type":"paragraph","content":"Điểm cần nhớ là Channel gần với message queue trong memory hơn broadcast stream. Mỗi message mặc định được một receiver lấy ra, không tự động phát cho mọi collector. Nếu hai consumer cùng receive, chúng chia nhau công việc thay vì cùng nhận bản sao."}
+      ]
+    },
+    {
+      "id": "mechanism",
+      "title": "4. Cơ chế send và receive bên trong",
+      "blocks": [
+        {"type":"paragraph","content":"Với rendezvous channel, send không hoàn tất cho tới khi có receiver tương ứng; receive cũng suspend nếu chưa có message. Khi hai phía gặp nhau, runtime ghép một sender với một receiver rồi resume cả hai theo scheduler. Không có message được lưu giữa hai thời điểm, vì vậy capacity bằng 0 tạo backpressure mạnh và giữ memory thấp."},
+        {"type":"code","language":"kotlin","label":"Rendezvous channel","content":"val channel = Channel<Int>(capacity = Channel.RENDEZVOUS)\n\nlaunch {\n    channel.send(1) // suspend cho tới khi receiver sẵn sàng\n    channel.close()\n}\n\nfor (value in channel) {\n    println(value)\n}"},
+        {"type":"paragraph","content":"Với buffered channel, send chỉ suspend khi buffer đầy; receive lấy item cũ nhất theo ordering của channel. Buffer tách tốc độ producer và consumer nhưng đồng thời cho phép stale work tích tụ. Khi buffer càng lớn, latency từ lúc gửi tới lúc xử lý có thể càng cao dù throughput nhìn có vẻ tốt hơn."}
+      ]
+    },
+    {
+      "id": "capacity",
+      "title": "5. Capacity và backpressure policy",
+      "blocks": [
+        {"type":"paragraph","content":"Capacity là quyết định correctness chứ không chỉ tuning. RENDEZVOUS buộc producer đồng bộ với consumer. BUFFERED dùng kích thước mặc định của runtime. CONFLATED chỉ giữ giá trị mới nhất và làm mất intermediate message. UNLIMITED không suspend producer nhưng có thể tăng memory vô hạn nếu consumer chậm hoặc ngừng hoạt động."},
+        {"type":"table","headers":["Loại","Phù hợp","Rủi ro"],"rows":[["RENDEZVOUS","Command cần handoff trực tiếp","Producer có thể bị giữ lâu"],["BUFFERED(n)","Burst ngắn, consumer xử lý đều","Queue tăng latency và memory"],["CONFLATED","Latest signal như refresh hint","Mất message trung gian"],["UNLIMITED","Rất hiếm khi phù hợp","OOM và stale backlog"]]},
+        {"type":"paragraph","content":"Không nên chọn capacity bằng cảm tính. Hãy đo tốc độ producer, thời gian xử lý trung bình, burst lớn nhất, memory mỗi message và mức mất dữ liệu chấp nhận được. Nếu message không được phép mất và phải sống qua process death, in-memory Channel là sai abstraction dù buffer lớn đến đâu."}
+      ]
+    },
+    {
+      "id": "close-cancel",
+      "title": "6. Close, cancel và vòng đời message",
+      "blocks": [
+        {"type":"paragraph","content":"close đánh dấu không nhận send mới, nhưng receiver vẫn có thể drain các message đã buffer. for-loop kết thúc bình thường sau khi buffer cạn. cancel thể hiện lifecycle bị hủy hoặc consumer không còn quan tâm; các suspension đang chờ bị hủy và message chưa xử lý có thể bị bỏ."},
+        {"type":"code","language":"kotlin","label":"Close sau producer hoàn tất","content":"val jobs = Channel<JobCommand>(capacity = 16)\n\nval producer = launch {\n    try {\n        source.collect { jobs.send(it) }\n    } finally {\n        jobs.close()\n    }\n}\n\nval consumer = launch {\n    for (command in jobs) process(command)\n}"},
+        {"type":"paragraph","content":"Owner phải quyết định bên nào có quyền close. Nếu nhiều producer cùng close một channel chung, producer này có thể đóng đường gửi của producer khác. Thường coordinator hoặc scope owner mới được close; producer con chỉ hoàn tất Job của mình. Khi close kèm cause, receiver cần phân biệt completion bình thường với failure."}
+      ]
+    },
+    {
+      "id": "undelivered",
+      "title": "7. Undelivered element và cleanup",
+      "blocks": [
+        {"type":"paragraph","content":"Một send có thể được chấp nhận nhưng message vẫn không tới business handler nếu channel bị cancel, receive bị hủy sau khi lấy item nhưng trước khi xử lý, hoặc buffer bị loại bỏ. Với message giữ resource như file descriptor, bitmap lớn hoặc object cần release, onUndeliveredElement giúp cleanup."},
+        {"type":"code","language":"kotlin","label":"Cleanup message chưa được giao","content":"val channel = Channel<UploadChunk>(\n    capacity = 8,\n    onUndeliveredElement = { chunk -> chunk.release() }\n)"},
+        {"type":"paragraph","content":"Callback cleanup phải nhanh, thread-safe và không throw. Quan trọng hơn, onUndeliveredElement không biến Channel thành exactly-once queue. Nếu side effect đã bắt đầu rồi coroutine bị cancel, hệ thống vẫn cần idempotency hoặc transaction ở domain layer."}
+      ]
+    },
+    {
+      "id": "fan-in-out",
+      "title": "8. Fan-in, fan-out và ordering",
+      "blocks": [
+        {"type":"paragraph","content":"Fan-in cho nhiều producer gửi về một channel để một consumer xử lý tuần tự. Ordering được bảo toàn theo thứ tự channel nhận message, nhưng không có global ordering tuyệt đối giữa nhiều producer độc lập; timing scheduler quyết định message nào send trước. Nếu domain cần thứ tự theo sequence server, phải mang sequence number và reorder hoặc reject stale message."},
+        {"type":"paragraph","content":"Fan-out cho nhiều worker cùng receive từ một channel. Mỗi message được một worker xử lý, nên throughput tăng nhưng completion order có thể khác receive order. Chỉ dùng khi các task độc lập hoặc có key-based partitioning. Hai command cùng sửa một entity có thể race nếu bị hai worker xử lý song song."},
+        {"type":"code","language":"kotlin","label":"Worker pool có giới hạn","content":"val queue = Channel<Task>(capacity = 32)\nrepeat(4) { workerId ->\n    launch {\n        for (task in queue) {\n            runTask(workerId, task)\n        }\n    }\n}"}
+      ]
+    },
+    {
+      "id": "purpose",
+      "title": "9. Mục đích của Channel",
+      "blocks": [
+        {"type":"paragraph","content":"Channel phù hợp khi bài toán cốt lõi là chuyển ownership của từng message hoặc command từ producer sang consumer. Nó đặc biệt hữu ích cho queue công việc trong memory, adapter callback cần handoff, pipeline nhiều stage và actor giữ single-writer state."},
+        {"type":"paragraph","content":"Mục tiêu không phải biến mọi event thành Channel. Khi cần latest observable state, StateFlow rõ hơn. Khi cần broadcast cùng emission tới nhiều subscriber, SharedFlow phù hợp hơn. Khi cần dữ liệu lazy theo từng collector, cold Flow tự nhiên hơn."}
+      ]
+    },
+    {
+      "id": "problems",
+      "title": "10. Vấn đề kỹ thuật được giải quyết",
+      "blocks": [
+        {"type":"paragraph","content":"Channel giải quyết coordination mà shared mutable collection thường làm sai: producer không cần trực tiếp khóa list rồi đánh thức consumer; send/receive đã đóng gói suspension và synchronization. Nó cũng tạo điểm đặt backpressure thay vì launch vô hạn coroutine cho từng callback."},
+        {"type":"list","items":["Tuần tự hóa command vào một owner.","Giới hạn số task chờ và số worker xử lý.","Ghép callback producer với coroutine consumer.","Tách pipeline thành nhiều stage có queue boundary.","Chuyển quyền sở hữu resource/message rõ ràng."]}
+      ]
+    },
+    {
+      "id": "when-to-use",
+      "title": "11. Dấu hiệu nên dùng Channel",
+      "blocks": [
+        {"type":"paragraph","content":"Dùng Channel khi mỗi item phải được một consumer cụ thể xử lý, khi cần queue với backpressure, hoặc khi muốn single-writer actor. Hãy xác nhận message chỉ cần sống trong process và mất khi owner bị hủy là chấp nhận được."},
+        {"type":"list","items":["Có command queue trong một session hoặc ViewModel.","Callback burst cần buffer hữu hạn.","Cần worker pool giới hạn concurrency.","Nhiều nguồn command phải đi qua một reducer tuần tự.","Pipeline cần fan-in hoặc handoff từng item."]}
+      ]
+    },
+    {
+      "id": "when-not-to-use",
+      "title": "12. Khi không nên dùng Channel",
+      "blocks": [
+        {"type":"paragraph","content":"Không dùng Channel cho dữ liệu phải bền vững qua process death, cho state cần đọc current value, hoặc cho broadcast nhiều subscriber. Đừng dùng Channel như global event bus; lifecycle và delivery contract sẽ mơ hồ, message dễ mất khi chưa có receiver."},
+        {"type":"list","items":["Payment/upload bắt buộc hoàn tất sau app restart: dùng WorkManager/database queue.","UI state hiện hành: dùng StateFlow.","Broadcast event tới nhiều observer: cân nhắc SharedFlow.","One-shot request trả một kết quả: dùng suspend function.","Cross-process IPC: dùng platform IPC hoặc persistent transport."]}
+      ]
+    },
+    {
+      "id": "requirement",
+      "title": "13. Yêu cầu sản phẩm cụ thể",
+      "blocks": [
+        {"type":"callout","variant":"purpose","title":"Chat outbound command queue","content":"Khi mất mạng ngắn, các command send message trong session được xếp hàng có giới hạn. Mỗi command có clientId để idempotent. Khi reconnect, worker gửi tuần tự theo conversation; nếu logout hoặc session đổi, queue cũ bị hủy. Message quan trọng phải được persist trước khi đưa vào in-memory channel để sống qua process death."},
+        {"type":"paragraph","content":"Requirement này cho thấy Channel chỉ là lớp coordination trong process. Source of truth và durability vẫn thuộc database. Queue phải có capacity, overflow policy, retry policy, session ownership, cancellation behavior và metric cho backlog."}
+      ]
+    },
+    {
+      "id": "analysis",
+      "title": "14. Phân tích dependency, error policy, lifecycle và resource limits",
+      "blocks": [
+        {"type":"table","headers":["Khía cạnh","Quyết định"],"rows":[["Dependency","Repository/session coordinator sở hữu channel; UI chỉ gửi intent qua API."],["Error policy","Task failure được materialize thành result; không làm chết toàn worker pool nếu task độc lập."],["Lifecycle","Channel sống theo authenticated chat session, bị cancel khi logout."],["Resource","Capacity hữu hạn; worker count giới hạn; metric queue depth và processing latency."],["Ordering","Tuần tự theo conversation key; không giả định ordering giữa nhiều producer."],["Durability","Persist command trước khi enqueue nếu cần sống qua process death."],["Idempotency","clientId/requestId chống gửi trùng khi retry hoặc reconnect."]]},
+        {"type":"paragraph","content":"Error policy phải được tách khỏi transport primitive. Nếu một consumer throw và kết thúc, channel không tự tạo consumer mới. Supervisor hoặc coordinator cần quyết định restart worker, fail session hay chuyển task sang dead-letter state. Nếu chỉ catch mọi lỗi rồi tiếp tục, programmer bug có thể bị che giấu."}
+      ]
+    },
+    {
+      "id": "minimal-code",
+      "title": "15. Ví dụ code tối giản có ownership rõ",
+      "blocks": [
+        {"type":"code","language":"kotlin","label":"Session-owned command processor","content":"class CommandProcessor(\n    private val scope: CoroutineScope,\n    private val sender: MessageSender\n) {\n    private val commands = Channel<SendCommand>(capacity = 32)\n\n    private val worker = scope.launch {\n        for (command in commands) {\n            sender.sendIdempotently(command)\n        }\n    }\n\n    suspend fun submit(command: SendCommand) {\n        commands.send(command)\n    }\n\n    fun close() {\n        commands.close()\n    }\n}"},
+        {"type":"paragraph","content":"Processor không tạo GlobalScope; caller truyền scope owner. API submit là suspend để backpressure lan tới caller. close chỉ dành cho owner. Trong production, sender cần classify retryable/non-retryable error, command cần requestId, và durable command nên được ghi database trước send."}
+      ]
+    },
+    {
+      "id": "upzi-case",
+      "title": "16. Case study Upzi và mức độ xác nhận",
+      "blocks": [
+        {"type":"callout","title":"confirmed","content":"Upzi có chat Socket.IO, optimistic clientId, ack, delivered/read, reconnect và paging. Đây là miền có nhiều command/event cần ordering, idempotency và lifecycle session."},
+        {"type":"callout","title":"inferred","content":"Có khả năng một queue hoặc reducer tuần tự được dùng ở một số boundary, nhưng primitive Channel cụ thể và capacity hiện tại chưa được xác nhận."},
+        {"type":"callout","title":"proposed","content":"Dùng database làm durable source of truth cho outbound message, Channel capacity hữu hạn làm in-process wake-up queue, một worker theo session xử lý command idempotent và StateFlow phát snapshot cho UI."},
+        {"type":"callout","variant":"warning","title":"needs-confirmation","content":"Cần kiểm tra codebase trước khi nói Channel, actor hay worker pool đã được áp dụng production. Khi phỏng vấn chỉ nên khẳng định các behavior chat đã xác nhận; phần queue là thiết kế đề xuất nếu chưa có bằng chứng."}
+      ]
+    },
+    {
+      "id": "alternatives",
+      "title": "17. Phương án thay thế",
+      "blocks": [
+        {"type":"table","headers":["Phương án","Khi phù hợp","Giới hạn"],"rows":[["StateFlow","Latest state có current value","Không phải queue từng command"],["SharedFlow","Broadcast event cho nhiều subscriber","Delivery khi không subscriber phụ thuộc replay/buffer"],["Cold Flow","Pipeline lazy theo collector","Không phải shared work queue"],["Mutex + collection","Critical section nhỏ","Tự quản lý signaling và backlog"],["WorkManager","Durable deferrable work","Không phù hợp low-latency session event"],["Room queue","Durability và retry","Cần worker/observer để xử lý"],["Executor/BlockingQueue","Java thread-based stack","Không tích hợp suspension/cancellation tự nhiên"]]},
+        {"type":"paragraph","content":"Trong nhiều sản phẩm, giải pháp đúng là kết hợp: Room giữ durable commands, Channel hoặc SharedFlow chỉ đánh thức worker, StateFlow phát UI state. Không nên ép một primitive chịu cả durability, broadcasting, current state và work distribution."}
+      ]
+    },
+    {
+      "id": "tradeoffs",
+      "title": "18. Lựa chọn và trade-off",
+      "blocks": [
+        {"type":"paragraph","content":"Rendezvous giảm memory và tạo backpressure rõ nhưng có thể kéo dài latency producer. Buffer tăng khả năng hấp thụ burst nhưng che consumer chậm. Nhiều worker tăng throughput nhưng làm ordering và idempotency phức tạp. Actor giảm race nhờ single writer nhưng có thể thành bottleneck nếu handler làm I/O dài."},
+        {"type":"paragraph","content":"Channel giúp reasoning ownership tốt khi API nhỏ và owner rõ. Ngược lại, khi channel bị truyền qua nhiều layer hoặc expose trực tiếp ra UI, close/cancel authority trở nên mơ hồ. Nên expose domain method thay vì public Mutable channel để giữ invariant."}
+      ]
+    },
+    {
+      "id": "edge-cases",
+      "title": "19. Edge cases cần xử lý",
+      "blocks": [
+        {"type":"list","items":["send bị cancel trong lúc chờ buffer trống.","consumer lấy message rồi bị cancel trước business commit.","nhiều producer tranh nhau close channel.","worker throw làm ngừng consume nhưng producer vẫn tiếp tục gửi tới buffer.","UNLIMITED channel tăng memory khi màn hình/background consumer dừng.","fan-out xử lý cùng entity sai thứ tự.","trySend fail nhưng caller bỏ qua ChannelResult.","close bình thường bị nhầm thành error hoặc ngược lại.","reconnect tạo worker mới nhưng worker cũ chưa bị cancel.","message giữ resource không được cleanup khi undelivered."]},
+        {"type":"paragraph","content":"Đặc biệt cần test cancellation ở từng điểm suspension và race giữa close, send, receive. Happy path không đủ để chứng minh queue đúng. Với side effect ngoài process, hãy test duplicate delivery và retry sau crash."}
+      ]
+    },
+    {
+      "id": "mistakes",
+      "title": "20. Sai lầm thường gặp",
+      "blocks": [
+        {"type":"list","items":["Dùng Channel.UNLIMITED để né backpressure.","Expose Channel mutable cho mọi layer gửi và close.","Dùng Channel cho UI state thay vì StateFlow.","Cho rằng send thành công nghĩa là business side effect đã hoàn tất.","Không kiểm tra kết quả trySend/tryReceive.","Launch consumer trong GlobalScope.","Catch mọi Throwable rồi nuốt CancellationException.","Dùng nhiều worker nhưng không phân tích ordering theo key.","Không persist work quan trọng trước process death.","Nhầm Channel là broadcast stream."]},
+        {"type":"paragraph","content":"Một lỗi thiết kế phổ biến là dùng Channel để tránh suy nghĩ về ownership. Thực tế Channel chỉ an toàn khi ownership càng rõ: ai tạo, ai gửi, ai nhận, ai close, scope nào cancel và message nào được phép mất."}
+      ]
+    },
+    {
+      "id": "interview",
+      "title": "21. Câu hỏi phỏng vấn và hướng trả lời sâu",
+      "blocks": [
+        {"type":"table","headers":["Câu hỏi","Điểm cần trả lời"],"rows":[["Channel khác Flow thế nào?","Channel chuyển từng message và thường single-consumption; cold Flow là recipe theo collector."],["Rendezvous channel là gì?","Capacity 0, send/receive gặp nhau và suspend tạo backpressure."],["close khác cancel?","close ngừng gửi mới và drain buffer; cancel kết thúc lifecycle và có thể bỏ pending work."],["Channel có exactly-once không?","Không; cần idempotency/transaction cho side effect."],["Khi nào dùng actor?","Single owner cho mutable state, command tuần tự, handler ngắn và lifecycle rõ."],["Vì sao không dùng unlimited?","Producer không bị chặn nên backlog/memory có thể tăng không giới hạn."]]},
+        {"type":"paragraph","content":"Câu hỏi xoáy thường đưa ra consumer crash sau khi lấy message nhưng trước khi ghi server. Câu trả lời tốt phải nói Channel không biết transaction domain đã commit hay chưa; cần requestId, idempotent API, persistent status và retry policy. Chỉ nói tăng buffer hoặc catch exception là chưa đủ."}
+      ]
+    },
+    {
+      "id": "experience-answer",
+      "title": "22. Mẫu trả lời gắn kinh nghiệm",
+      "blocks": [
+        {"type":"paragraph","content":"Khi gặp nhiều nguồn command cùng cập nhật một session, tôi bắt đầu từ ownership và delivery contract. Với command chỉ cần sống trong session, tôi có thể dùng Channel capacity hữu hạn để tạo backpressure và một worker tuần tự. Với message chat cần sống qua process death, tôi persist trước, dùng requestId/clientId để idempotent, rồi Channel chỉ làm tín hiệu in-process. Tôi không khẳng định Upzi đã dùng Channel nếu chưa kiểm tra code; tôi chỉ trình bày đây là phương án proposed dựa trên behavior chat đã confirmed."},
+        {"type":"paragraph","content":"Nếu interviewer hỏi vì sao không SharedFlow, tôi giải thích SharedFlow broadcast tới subscriber active còn queue công việc cần mỗi command được một worker lấy. Nếu cần current UI state, kết quả xử lý được reduce sang StateFlow thay vì bắt UI collect raw Channel."}
+      ]
+    },
+    {
+      "id": "exercises",
+      "title": "23. Bài tập thực hành, tình huống và checklist",
+      "blocks": [
+        {"type":"paragraph","content":"Bài tập 1: viết rendezvous channel và chứng minh send suspend cho tới receive bằng TestScope. Bài tập 2: tạo buffered queue capacity 3, producer phát 10 task, đo queue depth và thời điểm producer bị suspend. Bài tập 3: xây actor quản lý unread count, mọi command Add/MarkRead/Reset đi qua một channel và state expose bằng StateFlow."},
+        {"type":"paragraph","content":"Tình huống: 20 request cùng nhận 401. Hãy thiết kế single-flight refresh bằng owner coroutine và command/result handoff, chỉ một refresh chạy, các request khác chờ cùng kết quả, logout cancel toàn bộ và không giữ lock qua network. So sánh Channel với Mutex + Deferred."},
+        {"type":"list","items":["Tôi xác định rõ producer, consumer và owner.","Tôi chọn capacity dựa trên burst và memory.","Tôi biết message có được phép mất không.","Tôi phân biệt close với cancel.","Tôi kiểm tra trySend/tryReceive result.","Tôi có idempotency cho external side effect.","Tôi không dùng Channel thay StateFlow/SharedFlow sai semantics.","Tôi có test cancellation, backlog, duplicate và worker failure."]}
+      ]
+    },
+    {
+      "id": "summary-quiz",
+      "title": "24. Tóm tắt và hướng dẫn quiz",
+      "blocks": [
+        {"type":"paragraph","content":"Channel là primitive coordination và message handoff trong memory. Thiết kế đúng phụ thuộc ownership, capacity, delivery contract, close/cancel, ordering và lifecycle. Nó không cung cấp durability hay exactly-once. Hãy chọn StateFlow cho state, SharedFlow cho broadcast, cold Flow cho lazy stream và persistent queue cho work phải sống qua process death."},
+        {"type":"paragraph","content":"Quiz dưới đây kiểm tra reasoning về semantics, không chỉ nhớ tên API. Mỗi câu có một đáp án đúng nhất và phần giải thích liên hệ với production behavior."}
+      ]
+    }
+  ],
+  "quiz": [
+    {"id":"c05-q01","question":"Rendezvous Channel có capacity bao nhiêu?","options":[{"id":"a","text":"0"},{"id":"b","text":"1"},{"id":"c","text":"64"},{"id":"d","text":"Không giới hạn"}],"correctOptionIds":["a"],"explanation":"Capacity 0 nghĩa là send và receive phải gặp nhau; một phía suspend khi phía kia chưa sẵn sàng."},
+    {"id":"c05-q02","question":"Hai consumer cùng receive từ một Channel thường có behavior nào?","options":[{"id":"a","text":"Cả hai luôn nhận mọi message"},{"id":"b","text":"Mỗi message được một consumer lấy"},{"id":"c","text":"Channel tự nhân đôi message"},{"id":"d","text":"Compile error"}],"correctOptionIds":["b"],"explanation":"Channel mặc định là single-consumption queue; nhiều consumer tạo fan-out cạnh tranh nhận item."},
+    {"id":"c05-q03","question":"close khác cancel ở điểm quan trọng nào?","options":[{"id":"a","text":"close cho phép drain buffer đã có"},{"id":"b","text":"close luôn xóa buffer"},{"id":"c","text":"cancel cho phép send mới"},{"id":"d","text":"Không khác"}],"correctOptionIds":["a"],"explanation":"close ngừng send mới nhưng receiver có thể đọc hết item đã buffer; cancel gắn với hủy lifecycle và có thể bỏ pending work."},
+    {"id":"c05-q04","question":"Rủi ro lớn nhất của Channel.UNLIMITED là gì?","options":[{"id":"a","text":"Producer luôn bị suspend"},{"id":"b","text":"Backlog và memory tăng không giới hạn"},{"id":"c","text":"Không gửi được object"},{"id":"d","text":"Chỉ chạy Main"}],"correctOptionIds":["b"],"explanation":"Producer không bị backpressure nên consumer chậm có thể làm queue tăng tới OOM."},
+    {"id":"c05-q05","question":"Channel có tự đảm bảo exactly-once cho API side effect không?","options":[{"id":"a","text":"Có"},{"id":"b","text":"Chỉ với buffer 1"},{"id":"c","text":"Không, cần idempotency/transaction"},{"id":"d","text":"Chỉ Android 14"}],"correctOptionIds":["c"],"explanation":"Consumer có thể crash hoặc bị cancel quanh thời điểm side effect; Channel không biết transaction ngoài process đã commit hay chưa."},
+    {"id":"c05-q06","question":"Primitive phù hợp hơn cho latest UI state là gì?","options":[{"id":"a","text":"StateFlow"},{"id":"b","text":"Channel.UNLIMITED"},{"id":"c","text":"BlockingQueue"},{"id":"d","text":"GlobalScope"}],"correctOptionIds":["a"],"explanation":"StateFlow giữ current value và replay state hiện hành cho collector mới, đúng semantics UI state."},
+    {"id":"c05-q07","question":"trySend trả failure nhưng code bỏ qua kết quả có thể dẫn tới gì?","options":[{"id":"a","text":"Message mất âm thầm"},{"id":"b","text":"Tự retry vô hạn"},{"id":"c","text":"Tự persist database"},{"id":"d","text":"Tăng replay"}],"correctOptionIds":["a"],"explanation":"trySend không suspend và trả ChannelResult; caller phải xử lý closed/full/failure theo policy."},
+    {"id":"c05-q08","question":"Fan-out nhiều worker làm thay đổi điều gì?","options":[{"id":"a","text":"Tăng throughput nhưng completion order có thể đổi"},{"id":"b","text":"Mọi worker nhận cùng item"},{"id":"c","text":"Loại bỏ nhu cầu idempotency"},{"id":"d","text":"Tự giữ ordering theo entity"}],"correctOptionIds":["a"],"explanation":"Task được chia cho nhiều worker nên xử lý song song; ordering hoàn tất không còn đảm bảo nếu không partition theo key."},
+    {"id":"c05-q09","question":"onUndeliveredElement dùng để làm gì?","options":[{"id":"a","text":"Cleanup element không tới handler"},{"id":"b","text":"Replay message"},{"id":"c","text":"Tạo database transaction"},{"id":"d","text":"Đổi dispatcher"}],"correctOptionIds":["a"],"explanation":"Callback giúp giải phóng resource của element bị bỏ do cancellation/close race, nhưng không tạo exactly-once."},
+    {"id":"c05-q10","question":"Work phải sống qua process death nên dùng gì làm source of truth?","options":[{"id":"a","text":"In-memory Channel"},{"id":"b","text":"Database/WorkManager queue"},{"id":"c","text":"MutableList trong ViewModel"},{"id":"d","text":"SharedFlow replay 0"}],"correctOptionIds":["b"],"explanation":"Channel mất cùng process; durable work cần persistence và scheduler phù hợp."},
+    {"id":"c05-q11","question":"Ai nên có quyền close một shared Channel nhiều producer?","options":[{"id":"a","text":"Bất kỳ producer nào"},{"id":"b","text":"Coordinator hoặc lifecycle owner"},{"id":"c","text":"UI collector ngẫu nhiên"},{"id":"d","text":"Garbage collector"}],"correctOptionIds":["b"],"explanation":"Quyền close phải thuộc owner để tránh một producer đóng đường gửi của producer khác."},
+    {"id":"c05-q12","question":"Actor-style Channel hữu ích nhất khi nào?","options":[{"id":"a","text":"Cần single writer xử lý command tuần tự"},{"id":"b","text":"Cần broadcast mọi event"},{"id":"c","text":"Cần current value đồng bộ"},{"id":"d","text":"Cần lưu qua process death"}],"correctOptionIds":["a"],"explanation":"Một coroutine sở hữu mutable state và nhận command tuần tự giúp giảm race; handler vẫn cần lifecycle và error policy rõ."}
+  ]
+}
