@@ -228,5 +228,37 @@
       "Edge cases",
       "Câu hỏi phỏng vấn"
     ]
+  },
+  {
+    "lessonId": "b08",
+    "code": "B08",
+    "title": "coroutineScope và supervisorScope",
+    "keywords": [
+      "coroutineScope",
+      "supervisorScope",
+      "SupervisorJob",
+      "structured concurrency",
+      "fail-fast",
+      "partial success",
+      "failure isolation",
+      "sibling cancellation",
+      "exception ownership",
+      "async",
+      "await",
+      "CancellationException",
+      "Upzi Job Detail"
+    ],
+    "headings": [
+      "Cơ chế hoạt động bên trong",
+      "Dấu hiệu cần dùng",
+      "Khi không nên dùng",
+      "Yêu cầu sản phẩm cụ thể",
+      "Phân tích dependency, error policy, lifecycle và resource limits",
+      "supervisorScope đúng cách",
+      "Ví dụ thực tế Upzi",
+      "Trade-off",
+      "Edge cases",
+      "Câu hỏi phỏng vấn"
+    ]
   }
 ]
