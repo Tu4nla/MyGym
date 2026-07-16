@@ -97,16 +97,16 @@
           "code": "B09",
           "title": "Race condition và Thread Safety",
           "path": "data/lessons/b/b09.json",
-          "estimatedMinutes": 150,
-          "status": "planned"
+          "estimatedMinutes": 210,
+          "status": "published"
         },
         {
           "id": "b10",
           "code": "B10",
           "title": "Coroutine Testing",
           "path": "data/lessons/b/b10.json",
-          "estimatedMinutes": 120,
-          "status": "planned"
+          "estimatedMinutes": 210,
+          "status": "published"
         }
       ]
     },
@@ -120,8 +120,8 @@
           "code": "C01",
           "title": "Reactive Programming và Data Stream",
           "path": "data/lessons/c/c01.json",
-          "estimatedMinutes": 120,
-          "status": "planned"
+          "estimatedMinutes": 210,
+          "status": "published"
         },
         {
           "id": "c02",

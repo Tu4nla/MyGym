@@ -260,5 +260,98 @@
       "Edge cases",
       "Câu hỏi phỏng vấn"
     ]
+  },
+  {
+    "lessonId": "b09",
+    "code": "B09",
+    "title": "Race condition và Thread Safety",
+    "keywords": [
+      "race condition",
+      "data race",
+      "thread safety",
+      "atomicity",
+      "visibility",
+      "ordering",
+      "Mutex",
+      "AtomicReference",
+      "confinement",
+      "actor",
+      "Room transaction",
+      "idempotency",
+      "Upzi chat"
+    ],
+    "headings": [
+      "Cơ chế race condition",
+      "Atomicity, visibility và ordering",
+      "Mutex và critical section",
+      "Immutable state và confinement",
+      "Actor và transaction",
+      "Yêu cầu chat acknowledgement",
+      "Case study Upzi",
+      "Trade-off và edge cases",
+      "Câu hỏi phỏng vấn"
+    ]
+  },
+  {
+    "lessonId": "b10",
+    "code": "B10",
+    "title": "Coroutine Testing",
+    "keywords": [
+      "runTest",
+      "TestScope",
+      "TestCoroutineScheduler",
+      "StandardTestDispatcher",
+      "UnconfinedTestDispatcher",
+      "virtual time",
+      "advanceUntilIdle",
+      "runCurrent",
+      "MainDispatcherRule",
+      "dispatcher injection",
+      "cancellation testing",
+      "Upzi search"
+    ],
+    "headings": [
+      "Cơ chế virtual time",
+      "StandardTestDispatcher và UnconfinedTestDispatcher",
+      "Dispatcher injection",
+      "MainDispatcherRule",
+      "Test cancellation và latest-only",
+      "Case study Upzi",
+      "Trade-off và edge cases",
+      "Câu hỏi phỏng vấn"
+    ]
+  },
+  {
+    "lessonId": "c01",
+    "code": "C01",
+    "title": "Reactive Programming và Data Stream",
+    "keywords": [
+      "reactive programming",
+      "data stream",
+      "producer",
+      "collector",
+      "cold stream",
+      "hot stream",
+      "backpressure",
+      "buffer",
+      "conflate",
+      "state",
+      "event",
+      "callbackFlow",
+      "Upzi search",
+      "SSE",
+      "Socket.IO"
+    ],
+    "headings": [
+      "Reactive programming và data stream",
+      "Producer, collector và operator",
+      "Cold và hot stream",
+      "Backpressure, buffer và conflate",
+      "State và event",
+      "Reactive search",
+      "Case study Upzi",
+      "Trade-off và edge cases",
+      "Câu hỏi phỏng vấn"
+    ]
   }
 ]
