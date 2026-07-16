@@ -595,5 +595,34 @@
       "Callback cleanup",
       "Process death"
     ]
+  },
+  {
+    "lessonId": "c10",
+    "code": "C10",
+    "title": "UI State và One-time Event",
+    "keywords": [
+      "UI state",
+      "one-time event",
+      "StateFlow",
+      "SharedFlow",
+      "Channel",
+      "effect",
+      "command",
+      "reducer",
+      "acknowledgement",
+      "durability",
+      "idempotency",
+      "process death"
+    ],
+    "headings": [
+      "State và occurrence",
+      "Delivery contract",
+      "Reducer",
+      "Lifecycle restart",
+      "SharedFlow và Channel",
+      "Acknowledgement",
+      "Durability",
+      "Process death"
+    ]
   }
 ]
