@@ -10,24 +10,29 @@ loaded = {}
 report = {}
 for lesson_id in LESSONS:
     path = DATA / "lessons" / "c" / f"{lesson_id}.json"
-    lesson = json.loads(path.read_text())
+    try:
+        lesson = json.loads(path.read_text())
+    except Exception as error:
+        report[lesson_id] = {"parseError": f"{type(error).__name__}: {error}"}
+        continue
+
     loaded[lesson_id] = lesson
-    section_ids = [section["id"] for section in lesson["sections"]]
+    section_ids = [section["id"] for section in lesson.get("sections", [])]
     paragraphs = [
         block["content"]
-        for section in lesson["sections"]
+        for section in lesson.get("sections", [])
         for block in section.get("blocks", [])
         if block.get("type") == "paragraph"
     ]
     code_blocks = [
         block
-        for section in lesson["sections"]
+        for section in lesson.get("sections", [])
         for block in section.get("blocks", [])
         if block.get("type") == "code"
     ]
     quiz = lesson.get("quiz", [])
     report[lesson_id] = {
-        "sections": len(lesson["sections"]),
+        "sections": len(lesson.get("sections", [])),
         "uniqueSectionIds": len(set(section_ids)),
         "paragraphs": len(paragraphs),
         "paragraphCharacters": sum(len(text) for text in paragraphs),
@@ -44,6 +49,7 @@ for lesson_id in LESSONS:
 REPORT_PATH.write_text(json.dumps(report, ensure_ascii=False, indent=2) + "\n")
 print(json.dumps(report, ensure_ascii=False, indent=2))
 
+assert set(loaded) == set(LESSONS), report
 for lesson_id, lesson in loaded.items():
     metrics = report[lesson_id]
     assert lesson["id"] == lesson_id
