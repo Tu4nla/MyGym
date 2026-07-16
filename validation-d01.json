@@ -1,0 +1,12 @@
+{
+  "id": "d01",
+  "sections": 24,
+  "uniqueSectionIds": 24,
+  "paragraphs": 39,
+  "paragraphCharacters": 13200,
+  "codeBlocks": 6,
+  "quizQuestions": 12,
+  "truthfulnessLabelsPresent": true,
+  "nextLesson": "d02",
+  "note": "Provisional static report; final publication script must confirm exact metrics before merge."
+}
