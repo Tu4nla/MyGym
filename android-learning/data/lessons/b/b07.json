@@ -1,0 +1,205 @@
+{
+  "id": "b07",
+  "code": "B07",
+  "title": "Exception Handling",
+  "summary": "Hiểu exception propagation trong coroutine, ranh giới try/catch, CoroutineExceptionHandler, supervisor semantics, cancellation, retry và cách thiết kế error policy rõ ràng cho Android.",
+  "estimatedMinutes": 210,
+  "sections": [
+    {
+      "id": "objectives",
+      "title": "1. Mục tiêu bài học",
+      "blocks": [
+        {"type":"list","items":["Giải thích exception propagation trong cây coroutine có cấu trúc.","Phân biệt lỗi từ launch, async, suspend function và root coroutine.","Biết vị trí try/catch có hiệu lực và vị trí chỉ tạo cảm giác an toàn giả.","Hiểu vai trò thực tế của CoroutineExceptionHandler.","Phân biệt business error, technical error, cancellation và programmer bug.","Thiết kế error policy cho fail-fast, partial success, retry và fallback.","Không nuốt CancellationException khi map lỗi.","Áp dụng vào search, Job Detail, chat và session của Upzi với nhãn trung thực."]}
+      ]
+    },
+    {
+      "id": "prerequisites",
+      "title": "2. Kiến thức nền",
+      "blocks": [
+        {"type":"list","items":["B03: CoroutineScope, Job hierarchy và structured concurrency.","B04: launch, async, await và withContext.","B06: Job, cancellation propagation và CancellationException.","Kotlin try/catch/finally, sealed interface và Result."]}
+      ]
+    },
+    {
+      "id": "terminology",
+      "title": "3. Thuật ngữ và mô hình lỗi",
+      "blocks": [
+        {"type":"table","headers":["Thuật ngữ","Định nghĩa","Ý nghĩa thiết kế"],"rows":[["Exception propagation","Cách exception di chuyển từ child lên parent hoặc tới caller","Quyết định phạm vi bị hủy và nơi xử lý lỗi"],["Root coroutine","Coroutine không có parent thông thường chịu trách nhiệm xử lý lỗi","Handler chỉ hữu ích chủ yếu ở ranh giới này"],["CoroutineExceptionHandler","Context element quan sát exception chưa được xử lý ở root launch-like coroutine","Không thay thế try/catch và không phục hồi coroutine đã fail"],["Fail-fast","Một dependency bắt buộc lỗi làm toàn operation thất bại","Phù hợp khi kết quả chỉ hợp lệ nếu đủ dữ liệu"],["Partial success","Một phần dữ liệu vẫn hữu ích dù dependency khác lỗi","Cần supervisor semantics và error state theo từng phần"],["Domain error","Lỗi có nghĩa nghiệp vụ như hết hạn đăng ký","Nên map thành model ổn định cho UI"],["Technical error","Timeout, network, parsing, database hoặc transport failure","Có thể retry, fallback hoặc log"],["Programmer bug","Invariant violation, IllegalStateException, lỗi mapping không dự kiến","Không nên biến thành thông báo lỗi chung rồi che giấu"],["CancellationException","Tín hiệu điều khiển cancellation","Phải propagate, không map thành UiError"]]}
+      ]
+    },
+    {
+      "id": "inside-mechanism",
+      "title": "4. Cơ chế exception propagation bên trong",
+      "blocks": [
+        {"type":"paragraph","content":"Trong structured concurrency, child coroutine thuộc Job hierarchy của parent. Exception không được xử lý từ child thường hoàn tất child với failure, báo failure lên parent, parent chuyển sang cancelling và hủy sibling. Parent chỉ hoàn tất sau khi children kết thúc cleanup. Exception cuối cùng được rethrow tới caller của coroutineScope/withContext/await hoặc được báo ở root coroutine."},
+        {"type":"code","language":"text","label":"Luồng propagation khái niệm","content":"child throws\n  -> child fails\n  -> parent is cancelled\n  -> siblings are cancelled\n  -> cleanup runs\n  -> exception reaches caller/root handler"},
+        {"type":"callout","variant":"warning","title":"Exception và cancellation liên quan nhưng không giống nhau","content":"Failure thường kích hoạt cancellation của subtree. CancellationException chỉ biểu diễn yêu cầu dừng và không nên được coi là business failure."}
+      ]
+    },
+    {
+      "id": "builders",
+      "title": "5. launch, async và suspend function xử lý lỗi khác nhau thế nào",
+      "blocks": [
+        {"type":"table","headers":["API","Exception xuất hiện ở đâu","Cách xử lý phù hợp"],"rows":[["launch","Nếu là root, exception chưa xử lý được báo tới CoroutineExceptionHandler hoặc uncaught handler","try/catch bên trong launch hoặc handler ở root"],["async","Exception được giữ trong Deferred nhưng child failure vẫn có thể cancel parent ngay","try/catch quanh await chỉ hiệu quả nếu scope ownership không đã fail trước"],["withContext","Exception được rethrow trực tiếp tới caller","try/catch quanh withContext hoặc trong block"],["suspend function","Exception truyền như lời gọi hàm thông thường","Caller quyết định policy hoặc function map domain error có chủ đích"],["coroutineScope","Rethrow exception sau khi cancel và join children","try/catch bao quanh coroutineScope"],["supervisorScope","Child failure không tự cancel sibling","Mỗi child phải được await/catch hoặc xử lý rõ"]]}
+      ]
+    },
+    {
+      "id": "try-catch-boundary",
+      "title": "6. Ranh giới try/catch đúng và sai",
+      "blocks": [
+        {"type":"code","language":"kotlin","label":"Sai: catch bên ngoài launch không bắt lỗi bất đồng bộ","content":"try {\n    viewModelScope.launch {\n        repository.load() // lỗi xảy ra sau khi launch đã trả về\n    }\n} catch (e: Throwable) {\n    // thường không chạy\n}"},
+        {"type":"code","language":"kotlin","label":"Đúng: đặt catch tại operation boundary","content":"viewModelScope.launch {\n    try {\n        val data = repository.load()\n        _uiState.value = UiState.Content(data)\n    } catch (e: CancellationException) {\n        throw e\n    } catch (e: DomainException) {\n        _uiState.value = UiState.BusinessError(e.message)\n    } catch (e: IOException) {\n        _uiState.value = UiState.RetryableError\n    }\n}"},
+        {"type":"paragraph","content":"Ranh giới xử lý lỗi nên trùng với ranh giới quyết định sản phẩm: nơi biết lỗi nào retry, lỗi nào fallback, lỗi nào hiển thị và lỗi nào phải escalate."}
+      ]
+    },
+    {
+      "id": "handler",
+      "title": "7. CoroutineExceptionHandler: mục đích và giới hạn",
+      "blocks": [
+        {"type":"code","language":"kotlin","label":"Handler dùng để quan sát lỗi root","content":"val handler = CoroutineExceptionHandler { context, throwable ->\n    logger.error(\"Unhandled coroutine failure\", throwable)\n    crashReporter.record(throwable)\n}\n\nval appScope = CoroutineScope(SupervisorJob() + Dispatchers.Default + handler)"},
+        {"type":"list","items":["Handler không bắt exception của async trước khi await theo cách thay thế await/catch.","Handler không ngăn coroutine đã fail bị kết thúc.","Handler của child thường không có hiệu lực nếu parent chịu trách nhiệm propagation.","Handler phù hợp để log, telemetry và last-resort reporting ở root scope.","Business UI state không nên phụ thuộc vào handler toàn cục."]}
+      ]
+    },
+    {
+      "id": "purpose",
+      "title": "8. Mục đích và vấn đề kỹ thuật được giải quyết",
+      "blocks": [
+        {"type":"list","items":["Giữ failure semantics nhất quán giữa domain, data và UI layer.","Tránh crash im lặng hoặc loading vô hạn.","Ngăn một lỗi phụ làm hỏng toàn bộ màn hình khi sản phẩm cho phép partial success.","Bảo toàn cancellation để lifecycle và latest-only behavior hoạt động.","Xác định rõ retry, fallback, logging và user messaging.","Giúp test từng nhánh lỗi deterministic."]}
+      ]
+    },
+    {
+      "id": "when-to-use",
+      "title": "9. Khi cần error policy rõ ràng",
+      "blocks": [
+        {"type":"list","items":["Operation gọi nhiều dependency song song.","UI có loading, empty, business error và retryable error khác nhau.","Request mutation có nguy cơ duplicate khi retry.","Realtime connection cần reconnect nhưng auth failure phải dừng.","Một section lỗi có thể fallback trong khi section khác vẫn hiển thị.","SDK callback trả nhiều loại lỗi chưa chuẩn hóa."]}
+      ]
+    },
+    {
+      "id": "when-not-to-use",
+      "title": "10. Khi không nên catch hoặc phục hồi tại chỗ",
+      "blocks": [
+        {"type":"list","items":["Layer hiện tại không đủ ngữ cảnh để quyết định UI/business policy.","Programmer bug hoặc invariant violation cần crash ở debug và được report rõ.","CancellationException chỉ cần cleanup rồi rethrow.","Catch rộng chỉ để log rồi throw lại gây duplicate log.","Retry tại nhiều layer cùng lúc tạo retry storm.","Fallback làm dữ liệu sai nghĩa nghiệp vụ hoặc che mất corruption."]}
+      ]
+    },
+    {
+      "id": "product-requirement",
+      "title": "11. Yêu cầu sản phẩm cụ thể",
+      "blocks": [
+        {"type":"callout","variant":"purpose","title":"Requirement: Job Detail","content":"Màn hình Job Detail tải thông tin chính, trạng thái ứng tuyển và gợi ý việc làm liên quan. Thông tin chính là bắt buộc; hai phần còn lại có thể lỗi độc lập. Auth hết hạn phải điều hướng đăng nhập, network error cho phép retry, cancellation do rời màn hình không hiển thị toast."},
+        {"type":"list","items":["Main detail fail => toàn màn hình error.","Application status fail => hiển thị trạng thái unknown và nút retry cục bộ.","Recommendations fail => ẩn section hoặc placeholder có retry.","401 sau refresh token failure => session expired.","Parsing/invariant error => report để điều tra, không retry vô hạn."]}
+      ]
+    },
+    {
+      "id": "analysis",
+      "title": "12. Phân tích dependency, error policy, lifecycle và resource limits",
+      "blocks": [
+        {"type":"table","headers":["Khía cạnh","Quyết định"],"rows":[["Dependency","Main detail bắt buộc; status và recommendations độc lập"],["Error policy","Main fail-fast, optional partial success; auth error có priority cao"],["Lifecycle","Operation thuộc viewModelScope; cancellation propagate khi ViewModel clear"],["Concurrency","Tối đa ba request; optional children dùng supervisorScope"],["Retry","Chỉ retry lỗi transient, có backoff và giới hạn attempt"],["Resource limit","Không retry parsing/auth; giới hạn payload và timeout theo endpoint"],["Observability","Log error code, endpoint, correlation ID; không log token/PII"]]}
+      ]
+    },
+    {
+      "id": "practical-code",
+      "title": "13. Code Kotlin/Android thực tế",
+      "blocks": [
+        {"type":"code","language":"kotlin","label":"Fail-fast cho dependency bắt buộc, partial success cho phần phụ","content":"suspend fun loadJobDetail(id: String): JobDetailScreen = coroutineScope {\n    val main = async { jobRepository.getJob(id) }\n\n    val optional = supervisorScope {\n        val status = async { runCatchingCancellable { applicationRepository.status(id) } }\n        val related = async { runCatchingCancellable { recommendationRepository.related(id) } }\n        status.await() to related.await()\n    }\n\n    val job = main.await()\n    JobDetailScreen(\n        job = job,\n        applicationStatus = optional.first.getOrNull(),\n        relatedJobs = optional.second.getOrDefault(emptyList()),\n        statusError = optional.first.exceptionOrNull()?.toUiError(),\n        relatedError = optional.second.exceptionOrNull()?.toUiError()\n    )\n}\n\nsuspend inline fun <T> runCatchingCancellable(\n    crossinline block: suspend () -> T\n): Result<T> = try {\n    Result.success(block())\n} catch (e: CancellationException) {\n    throw e\n} catch (e: Throwable) {\n    Result.failure(e)\n}"},
+        {"type":"callout","variant":"warning","title":"Đừng dùng runCatching mù quáng","content":"Kotlin runCatching bắt Throwable, bao gồm CancellationException. Với coroutine, cần rethrow cancellation hoặc dùng helper có contract rõ như trên."}
+      ]
+    },
+    {
+      "id": "error-model",
+      "title": "14. Chuẩn hóa error model giữa các layer",
+      "blocks": [
+        {"type":"code","language":"kotlin","label":"Error model có ý nghĩa sản phẩm","content":"sealed interface AppError {\n    data object NetworkUnavailable : AppError\n    data object Timeout : AppError\n    data object SessionExpired : AppError\n    data class Validation(val fields: Map<String, String>) : AppError\n    data class Server(val code: String?, val retryable: Boolean) : AppError\n    data class Unknown(val cause: Throwable) : AppError\n}\n\nfun Throwable.toAppError(): AppError = when (this) {\n    is SocketTimeoutException -> AppError.Timeout\n    is UnknownHostException -> AppError.NetworkUnavailable\n    is HttpException -> if (code() == 401) AppError.SessionExpired\n                        else AppError.Server(code().toString(), code() >= 500)\n    else -> AppError.Unknown(this)\n}"},
+        {"type":"paragraph","content":"Data layer có thể giữ technical details; domain layer map thành lỗi ổn định nếu nghiệp vụ cần; UI map tiếp thành message/action. Không để UI phụ thuộc trực tiếp vào IOException hoặc vendor SDK exception."}
+      ]
+    },
+    {
+      "id": "retry",
+      "title": "15. Retry, backoff và idempotency",
+      "blocks": [
+        {"type":"list","items":["Chỉ retry lỗi transient như timeout, connection reset hoặc 5xx phù hợp.","Không retry 4xx validation, auth invalid hoặc parsing bug.","Dùng exponential backoff có jitter và giới hạn attempt.","Mutation cần idempotency key hoặc reconciliation trước khi retry.","Retry phải cancellable và thuộc lifecycle owner.","Không stack retry ở OkHttp, repository và ViewModel đồng thời nếu không có policy trung tâm."]},
+        {"type":"code","language":"kotlin","label":"Retry cancellable có giới hạn","content":"suspend fun <T> retryTransient(\n    maxAttempts: Int = 3,\n    block: suspend () -> T\n): T {\n    var delayMs = 300L\n    repeat(maxAttempts - 1) {\n        try { return block() }\n        catch (e: CancellationException) { throw e }\n        catch (e: IOException) { delay(delayMs); delayMs *= 2 }\n    }\n    return block()\n}"}
+      ]
+    },
+    {
+      "id": "upzi-case",
+      "title": "16. Case study Upzi và tính trung thực kinh nghiệm",
+      "blocks": [
+        {"type":"callout","variant":"purpose","title":"confirmed","content":"Upzi có search/filter, Job Detail, deep link, chat Socket.IO/SSE và các API cần token. Các feature này có nhiều loại lỗi lifecycle, network, auth và stale result cần phân loại."},
+        {"type":"callout","title":"inferred","content":"Kiến trúc nhiều khả năng có repository/ViewModel mapping lỗi và refresh token flow, nhưng taxonomy lỗi, retry policy và supervisor semantics cụ thể chưa được xác nhận."},
+        {"type":"callout","title":"proposed","content":"Chuẩn hóa AppError; ưu tiên SessionExpired; dùng supervisorScope cho section độc lập; propagate CancellationException; centralize retry policy và telemetry correlation ID."},
+        {"type":"callout","variant":"warning","title":"needs-confirmation","content":"Cần xác nhận Upzi hiện đang xử lý lỗi từng endpoint, refresh token đồng thời, error code backend và logging PII như thế nào trước khi kể là giải pháp đã triển khai."}
+      ]
+    },
+    {
+      "id": "alternatives",
+      "title": "17. Phương án thay thế",
+      "blocks": [
+        {"type":"table","headers":["Phương án","Ưu điểm","Hạn chế"],"rows":[["Throw exception xuyên layer","Đơn giản, tương thích suspend API","Dễ phụ thuộc technical exception"],["Result<T>","Error explicit trong signature","Dễ lồng Result và có nguy cơ nuốt cancellation"],["Sealed outcome","Domain contract rõ, exhaustive when","Boilerplate và cần mapping"],["Either","Composable functional error handling","Thêm abstraction/library"],["Global handler","Tốt cho telemetry root failure","Không đủ cho business recovery"],["supervisorScope","Cô lập child độc lập","Phải thu lỗi từng child, dễ mất observability nếu bỏ quên"]]}
+      ]
+    },
+    {
+      "id": "tradeoffs",
+      "title": "18. Lý do lựa chọn và trade-off",
+      "blocks": [
+        {"type":"list","items":["Exception tự nhiên cho suspend API nhưng contract lỗi không hiện rõ ở type system.","Result/sealed outcome rõ hơn nhưng tăng mapping và ceremony.","Fail-fast giữ invariant mạnh nhưng giảm availability.","Partial success cải thiện UX nhưng tăng state complexity và testing matrix.","Centralized mapping tạo consistency nhưng có thể mất context endpoint nếu model quá chung.","Retry tăng resilience nhưng tăng tải, độ trễ và rủi ro duplicate side effect."]}
+      ]
+    },
+    {
+      "id": "edge-cases",
+      "title": "19. Edge cases",
+      "blocks": [
+        {"type":"list","items":["async child fail trước khi await và đã cancel parent.","Hai child fail gần nhau; exception thứ hai có thể bị suppressed.","Cancellation xảy ra trong catch hoặc retry delay.","401 đồng thời từ nhiều request gây refresh token stampede.","Server commit mutation nhưng client nhận timeout.","Fallback cache quá cũ nhưng không được đánh dấu stale.","Error mapper tự ném exception vì response body malformed.","Handler log cùng lỗi nhiều lần ở repository, use case và root scope.","supervisorScope child fail nhưng Deferred không bao giờ await dẫn tới lỗi bị bỏ quên."]}
+      ]
+    },
+    {
+      "id": "common-mistakes",
+      "title": "20. Sai lầm thường gặp",
+      "blocks": [
+        {"type":"list","items":["Catch Throwable rồi trả empty list cho mọi lỗi.","Nuốt CancellationException trong runCatching.","Tin rằng CoroutineExceptionHandler bắt mọi exception.","Đặt handler ở child và kỳ vọng child tự phục hồi.","Catch bên ngoài launch.","Dùng SupervisorJob để che lỗi thay vì định nghĩa partial success.","Hiển thị message kỹ thuật trực tiếp cho người dùng.","Retry vô hạn hoặc retry cả 401/validation error.","Không log correlation ID và error code.","Biến programmer bug thành UnknownError rồi tiếp tục state sai."]}
+      ]
+    },
+    {
+      "id": "interview-basic",
+      "title": "21. Câu hỏi phỏng vấn cơ bản",
+      "blocks": [
+        {"type":"list","items":["Exception trong launch và async khác nhau thế nào?","CoroutineExceptionHandler hoạt động ở đâu?","Tại sao try/catch bên ngoài launch không bắt được lỗi?","CancellationException nên xử lý thế nào?","Khi child fail thì parent và sibling ra sao?","supervisorScope thay đổi failure propagation thế nào?","Khi nào nên dùng Result hoặc sealed error model?"]}
+      ]
+    },
+    {
+      "id": "interview-deep",
+      "title": "22. Câu hỏi xoáy sâu và mẫu trả lời",
+      "blocks": [
+        {"type":"list","items":["async đã giữ exception tới await, tại sao parent vẫn có thể bị cancel trước await?","Một màn hình có ba request, khi nào fail-fast và khi nào partial success?","Làm sao tránh refresh token stampede khi nhiều request 401?","Nếu retry mutation sau timeout, làm sao tránh tạo dữ liệu hai lần?","Tại sao runCatching nguy hiểm trong coroutine?","Khi nào CoroutineExceptionHandler là last-resort telemetry thay vì error handling?","Bạn phân biệt business error, technical error và bug production ra sao?"]},
+        {"type":"callout","variant":"purpose","title":"Mẫu trả lời gắn kinh nghiệm","content":"Tôi bắt đầu từ requirement để xác định dependency bắt buộc hay độc lập. Với operation bắt buộc tôi dùng fail-fast structured concurrency; với section độc lập tôi dùng supervisorScope và giữ error state riêng. Tôi luôn rethrow CancellationException, chỉ retry lỗi transient có giới hạn, và map lỗi technical thành AppError ổn định. Với ví dụ Upzi, phần feature là confirmed nhưng chi tiết taxonomy và supervisor semantics cần xác nhận trước khi nói đã triển khai."}
+      ]
+    },
+    {
+      "id": "exercises",
+      "title": "23. Bài tập thực hành và tình huống",
+      "blocks": [
+        {"type":"list","items":["Viết loadDashboard gồm profile bắt buộc, banner và recommendation tùy chọn.","Tạo helper runCatchingCancellable và test cancellation propagation.","Thiết kế AppError cho HTTP, validation, session và offline.","Viết retryTransient có backoff, jitter và giới hạn attempt.","Tình huống: ba request cùng nhận 401; thiết kế single-flight refresh token.","Tình huống: create application timeout nhưng server có thể đã commit; đề xuất idempotency/reconciliation.","Tình huống: callback SDK trả lỗi sau khi ViewModel bị clear; bảo vệ state thế nào?"]}
+      ]
+    },
+    {
+      "id": "self-check",
+      "title": "24. Checklist tự đánh giá và tóm tắt",
+      "blocks": [
+        {"type":"list","items":["Tôi giải thích được propagation từ child tới parent.","Tôi phân biệt launch, async, withContext về exception.","Tôi biết giới hạn của CoroutineExceptionHandler.","Tôi không nuốt CancellationException.","Tôi xác định fail-fast hay partial success từ requirement.","Tôi có taxonomy cho domain, technical, auth và bug.","Tôi biết retry nào an toàn và cần idempotency khi nào.","Tôi tránh duplicate logging và retry storm.","Tôi gắn ví dụ Upzi với nhãn trung thực.","Tôi test success, failure, cancellation, retry và partial success."]},
+        {"type":"callout","title":"Tóm tắt cần nhớ","content":"Exception handling trong coroutine là thiết kế failure semantics, không chỉ là đặt try/catch. Ownership, Job hierarchy, dependency, lifecycle, retry và product requirement quyết định nơi xử lý. Handler toàn cục chỉ là lưới quan sát cuối; operation boundary mới là nơi recovery có ý nghĩa."}
+      ]
+    }
+  ],
+  "quiz": [
+    {"id":"b07-q01","question":"try/catch đặt bên ngoài viewModelScope.launch thường không bắt được exception bên trong vì sao?","options":["launch luôn bỏ exception","launch trả về trước khi block bất đồng bộ ném lỗi","ViewModel tự nuốt lỗi","Main dispatcher không hỗ trợ catch"],"answerIndex":1,"explanation":"try chỉ bao quanh lời gọi launch đồng bộ; exception xảy ra sau đó trong coroutine nên cần catch trong operation hoặc xử lý tại root boundary."},
+    {"id":"b07-q02","question":"Vai trò phù hợp nhất của CoroutineExceptionHandler là gì?","options":["Phục hồi mọi child coroutine","Thay thế mọi try/catch","Quan sát exception chưa xử lý ở root coroutine để log/report","Bắt exception của Deferred mà không await"],"answerIndex":2,"explanation":"Handler chủ yếu là last-resort reporting ở root launch-like coroutine; nó không phục hồi coroutine đã fail."},
+    {"id":"b07-q03","question":"Khi child trong Job hierarchy thường ném exception chưa xử lý, điều gì thường xảy ra?","options":["Chỉ child dừng","Parent và sibling có thể bị cancel","Exception bị giữ đến join","Handler của child luôn phục hồi"],"answerIndex":1,"explanation":"Failure truyền lên parent và thường tạo fail-fast semantics, cancel các sibling trong subtree."},
+    {"id":"b07-q04","question":"Vì sao runCatching cần thận trọng trong coroutine?","options":["Không hỗ trợ generic","Có thể bắt cả CancellationException và biến cancellation thành failure thông thường","Luôn chạy Main","Không chứa explanation"],"answerIndex":1,"explanation":"runCatching bắt Throwable; nếu không rethrow CancellationException, lifecycle cancellation có thể bị nuốt."},
+    {"id":"b07-q05","question":"Ba section UI độc lập, một section lỗi nhưng hai section còn lại vẫn hữu ích. Policy phù hợp nhất là gì?","options":["Fail-fast toàn màn hình","supervisorScope và error state riêng từng section","GlobalScope cho mỗi section","Catch mọi lỗi và trả empty list"],"answerIndex":1,"explanation":"Supervisor semantics hỗ trợ partial success, nhưng mỗi child vẫn cần được await/catch và hiển thị trạng thái rõ."},
+    {"id":"b07-q06","question":"Exception từ withContext được xử lý thế nào?","options":["Luôn tới global handler","Được rethrow trực tiếp tới caller","Bị giữ trong Job vĩnh viễn","Chỉ log"],"answerIndex":1,"explanation":"withContext là suspend call trả kết quả trực tiếp; exception propagate như lời gọi hàm và có thể catch ở caller."},
+    {"id":"b07-q07","question":"Lỗi nào thường không nên retry tự động?","options":["Connection reset","HTTP 503","Validation error HTTP 400","Timeout GET idempotent"],"answerIndex":2,"explanation":"Validation là lỗi không transient; retry cùng input không giải quyết được và chỉ tăng tải."},
+    {"id":"b07-q08","question":"Mutation timeout rồi retry có rủi ro gì?","options":["Không có vì timeout nghĩa là server chưa xử lý","Duplicate side effect nếu server đã commit","Chỉ làm UI chậm","CoroutineExceptionHandler mất tác dụng"],"answerIndex":1,"explanation":"Client timeout không chứng minh server chưa commit; cần idempotency key hoặc reconciliation."},
+    {"id":"b07-q09","question":"Handler đặt trong child coroutine thông thường có thể không được gọi vì sao?","options":["Handler chỉ chạy trên IO","Parent chịu trách nhiệm xử lý propagation của child","Child không có context","Exception bị compiler xóa"],"answerIndex":1,"explanation":"Trong structured concurrency, exception child propagate tới parent; root boundary mới là nơi handler có ý nghĩa."},
+    {"id":"b07-q10","question":"Main Job Detail là bắt buộc, recommendations là tùy chọn. Thiết kế phù hợp là gì?","options":["Cả hai đều GlobalScope","Main fail-fast; recommendations được cô lập và có fallback/error riêng","Catch hết và trả object rỗng","Retry vô hạn cả hai"],"answerIndex":1,"explanation":"Dependency bắt buộc quyết định operation success; optional dependency nên được cô lập theo requirement partial success."},
+    {"id":"b07-q11","question":"Programmer bug nên được xử lý thế nào?","options":["Luôn đổi thành empty state","Che bằng UnknownError và tiếp tục mọi lúc","Report rõ, fail fast phù hợp và sửa invariant thay vì coi là lỗi nghiệp vụ","Retry 3 lần"],"answerIndex":2,"explanation":"Bug không phải lỗi transient hay business; che giấu có thể khiến state sai tiếp tục lan rộng."},
+    {"id":"b07-q12","question":"Mục tiêu chính của error model AppError là gì?","options":["Giữ nguyên mọi vendor exception ở UI","Tạo contract lỗi ổn định có ý nghĩa cho product và UI","Loại bỏ logging","Thay thế cancellation"],"answerIndex":1,"explanation":"AppError tách UI/domain khỏi exception kỹ thuật và cho phép policy, message, retry action nhất quán."}
+  ]
+}
