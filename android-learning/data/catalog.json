@@ -263,8 +263,8 @@
           "code": "D07",
           "title": "LazyColumn và hiệu năng danh sách",
           "path": "data/lessons/d/d07.json",
-          "estimatedMinutes": 150,
-          "status": "planned"
+          "estimatedMinutes": 360,
+          "status": "published"
         },
         {
           "id": "d08",

@@ -816,5 +816,34 @@
       "ViewModel scoping",
       "Upzi case study"
     ]
+  },
+  {
+    "lessonId": "d07",
+    "code": "D07",
+    "title": "LazyColumn và hiệu năng danh sách",
+    "keywords": [
+      "LazyColumn",
+      "LazyListState",
+      "stable key",
+      "contentType",
+      "Paging3",
+      "collectAsLazyPagingItems",
+      "scroll performance",
+      "snapshotFlow",
+      "prefetch",
+      "load state",
+      "list identity",
+      "jank"
+    ],
+    "headings": [
+      "Cơ chế LazyLayout",
+      "Key và identity",
+      "contentType",
+      "Paging và load state",
+      "Scroll state và restoration",
+      "Đo hiệu năng danh sách",
+      "Chat prepend",
+      "Upzi case study"
+    ]
   }
 ]
