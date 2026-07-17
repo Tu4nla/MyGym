@@ -766,5 +766,26 @@
       "cleanup",
       "stale capture"
     ]
+  },
+  {
+    "id": "d05",
+    "code": "D05",
+    "title": "Stability và Recomposition",
+    "chapter": "d",
+    "path": "data/lessons/d/d05.json",
+    "keywords": [
+      "Compose stability",
+      "recomposition",
+      "immutable",
+      "stable",
+      "unstable",
+      "skippable",
+      "restartable",
+      "strong skipping",
+      "compiler report",
+      "invalidation",
+      "derivedStateOf",
+      "persistent collections"
+    ]
   }
 ]
