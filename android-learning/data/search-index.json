@@ -845,5 +845,35 @@
       "Chat prepend",
       "Upzi case study"
     ]
+  },
+  {
+    "lessonId": "d08",
+    "code": "D08",
+    "title": "Modifier",
+    "keywords": [
+      "Modifier",
+      "Modifier.Node",
+      "LayoutModifierNode",
+      "DrawModifierNode",
+      "PointerInputModifierNode",
+      "SemanticsModifierNode",
+      "constraints",
+      "modifier order",
+      "clickable",
+      "pointerInput",
+      "graphicsLayer",
+      "drawWithCache",
+      "parent data"
+    ],
+    "headings": [
+      "Modifier chain và thứ tự",
+      "Layout constraints",
+      "Draw và layer",
+      "Pointer input",
+      "Semantics và accessibility",
+      "Modifier.Node",
+      "Custom modifier",
+      "Upzi case study"
+    ]
   }
 ]
