@@ -239,8 +239,8 @@
           "code": "D04",
           "title": "Side-effect APIs",
           "path": "data/lessons/d/d04.json",
-          "estimatedMinutes": 150,
-          "status": "planned"
+          "estimatedMinutes": 360,
+          "status": "published"
         },
         {
           "id": "d05",
