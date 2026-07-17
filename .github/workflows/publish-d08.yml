@@ -1,7 +1,7 @@
 name: Publish D08
 on:
   push:
-    branches: [handbook/d08-modifier]
+    branches: [handbook/d08-modifier-v2]
 permissions:
   contents: write
 jobs:
@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          ref: handbook/d08-modifier
+          ref: handbook/d08-modifier-v2
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
@@ -21,4 +21,4 @@ jobs:
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com
           git add android-learning/data/lessons/d/d08.json android-learning/data/catalog.json android-learning/data/search-index.json android-learning/data/book-plan.json validation-d08.json
           git diff --cached --quiet || git commit -m "docs(android-learning): publish D08 content and metadata"
-          git push origin HEAD:handbook/d08-modifier
+          git push origin HEAD:handbook/d08-modifier-v2
