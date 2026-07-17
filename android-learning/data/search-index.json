@@ -875,5 +875,34 @@
       "Custom modifier",
       "Upzi case study"
     ]
+  },
+  {
+    "lessonId": "d09",
+    "code": "D09",
+    "title": "Navigation Compose",
+    "keywords": [
+      "Navigation Compose",
+      "NavController",
+      "NavHost",
+      "NavGraph",
+      "NavBackStackEntry",
+      "popUpTo",
+      "launchSingleTop",
+      "saveState",
+      "restoreState",
+      "nested graph",
+      "ViewModel scope",
+      "SavedStateHandle"
+    ],
+    "headings": [
+      "Back stack và lifecycle",
+      "Route contract",
+      "Nested graph",
+      "Auth flow",
+      "Bottom navigation",
+      "ViewModel scoping",
+      "State restoration",
+      "Upzi case study"
+    ]
   }
 ]

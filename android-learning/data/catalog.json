@@ -279,8 +279,8 @@
           "code": "D09",
           "title": "Navigation Compose",
           "path": "data/lessons/d/d09.json",
-          "estimatedMinutes": 150,
-          "status": "planned"
+          "estimatedMinutes": 360,
+          "status": "published"
         },
         {
           "id": "d10",
