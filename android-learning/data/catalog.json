@@ -247,8 +247,8 @@
           "code": "D05",
           "title": "Stability và Recomposition",
           "path": "data/lessons/d/d05.json",
-          "estimatedMinutes": 150,
-          "status": "planned"
+          "estimatedMinutes": 360,
+          "status": "published"
         },
         {
           "id": "d06",
