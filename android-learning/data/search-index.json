@@ -787,5 +787,34 @@
       "derivedStateOf",
       "persistent collections"
     ]
+  },
+  {
+    "lessonId": "d06",
+    "code": "D06",
+    "title": "Compose và ViewModel",
+    "keywords": [
+      "Compose ViewModel",
+      "StateFlow",
+      "collectAsStateWithLifecycle",
+      "UI state",
+      "UI event",
+      "SavedStateHandle",
+      "ViewModelStoreOwner",
+      "stateIn",
+      "SharingStarted",
+      "Route Screen",
+      "cachedIn",
+      "process death"
+    ],
+    "headings": [
+      "Ranh giới Compose và ViewModel",
+      "Luồng dữ liệu một chiều",
+      "Lifecycle-aware collection",
+      "Route và Screen",
+      "SavedStateHandle",
+      "One-time event",
+      "ViewModel scoping",
+      "Upzi case study"
+    ]
   }
 ]

@@ -255,8 +255,8 @@
           "code": "D06",
           "title": "Compose và ViewModel",
           "path": "data/lessons/d/d06.json",
-          "estimatedMinutes": 120,
-          "status": "planned"
+          "estimatedMinutes": 360,
+          "status": "published"
         },
         {
           "id": "d07",
