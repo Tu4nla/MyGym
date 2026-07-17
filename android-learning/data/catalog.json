@@ -287,8 +287,8 @@
           "code": "D10",
           "title": "Deep Link trong Compose Navigation",
           "path": "data/lessons/d/d10.json",
-          "estimatedMinutes": 120,
-          "status": "planned"
+          "estimatedMinutes": 360,
+          "status": "published"
         },
         {
           "id": "d11",

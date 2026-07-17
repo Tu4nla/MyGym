@@ -904,5 +904,34 @@
       "State restoration",
       "Upzi case study"
     ]
+  },
+  {
+    "lessonId": "d10",
+    "code": "D10",
+    "title": "Deep Link trong Compose Navigation",
+    "keywords": [
+      "deep link",
+      "Android App Links",
+      "Navigation Compose",
+      "intent-filter",
+      "assetlinks.json",
+      "onNewIntent",
+      "handleDeepLink",
+      "deep link validation",
+      "auth gate",
+      "pending deep link",
+      "Adjust deferred deep link",
+      "back stack"
+    ],
+    "headings": [
+      "Deep link pipeline",
+      "App Links verification",
+      "URI validation",
+      "Cold warm foreground",
+      "Auth gate",
+      "Single consumption",
+      "Back stack policy",
+      "Upzi deep link case"
+    ]
   }
 ]
