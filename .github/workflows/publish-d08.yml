@@ -1,12 +1,12 @@
 name: Publish D08
 on:
-  push:
-    branches: [handbook/d08-modifier-v2]
+  pull_request:
+    branches: [main]
 permissions:
   contents: write
 jobs:
   publish:
-    if: github.actor != 'github-actions[bot]'
+    if: github.head_ref == 'handbook/d08-modifier-v2' && github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
