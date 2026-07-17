@@ -38,3 +38,4 @@ index_path.write_text(json.dumps(index,ensure_ascii=False,indent=2)+'\n')
 report={'id':'d10','sections':len(ids),'uniqueSectionIds':len(set(ids)),'exactSectionOrder':ids==required,'paragraphs':len(paragraphs),'paragraphCharacters':sum(map(len,paragraphs)),'codeBlocks':len(code_blocks),'quizQuestions':len(lesson['quiz']),'quizAnswersValid':True,'truthfulnessLabelsPresent':True,'nextLesson':'d11'}
 (ROOT/'validation-d10.json').write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n')
 print(json.dumps(report,ensure_ascii=False))
+# trigger publication
