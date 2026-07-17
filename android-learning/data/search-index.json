@@ -715,5 +715,36 @@
       "Trade-off và edge cases",
       "Câu hỏi phỏng vấn"
     ]
+  },
+  {
+    "lessonId": "d03",
+    "code": "D03",
+    "title": "remember và rememberSaveable",
+    "keywords": [
+      "remember",
+      "rememberSaveable",
+      "Saver",
+      "listSaver",
+      "mapSaver",
+      "SaveableStateRegistry",
+      "positional memoization",
+      "slot table",
+      "composition identity",
+      "process death",
+      "configuration change",
+      "Bundle",
+      "stable key",
+      "LazyColumn key"
+    ],
+    "headings": [
+      "Positional memoization",
+      "remember key",
+      "SaveableStateRegistry",
+      "Custom Saver",
+      "Composition lifetime",
+      "Restoration lifetime",
+      "Lazy list identity",
+      "Bundle resource limits"
+    ]
   }
 ]

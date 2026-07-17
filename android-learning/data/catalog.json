@@ -231,8 +231,8 @@
           "code": "D03",
           "title": "remember và rememberSaveable",
           "path": "data/lessons/d/d03.json",
-          "estimatedMinutes": 120,
-          "status": "planned"
+          "estimatedMinutes": 360,
+          "status": "published"
         },
         {
           "id": "d04",
