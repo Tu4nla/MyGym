@@ -271,8 +271,8 @@
           "code": "D08",
           "title": "Modifier",
           "path": "data/lessons/d/d08.json",
-          "estimatedMinutes": 120,
-          "status": "planned"
+          "estimatedMinutes": 360,
+          "status": "published"
         },
         {
           "id": "d09",
