@@ -746,5 +746,25 @@
       "Lazy list identity",
       "Bundle resource limits"
     ]
+  },
+  {
+    "id": "d04",
+    "code": "D04",
+    "title": "Side-effect APIs",
+    "chapter": "d",
+    "path": "data/lessons/d/d04.json",
+    "keywords": [
+      "LaunchedEffect",
+      "DisposableEffect",
+      "SideEffect",
+      "rememberCoroutineScope",
+      "rememberUpdatedState",
+      "produceState",
+      "snapshotFlow",
+      "effect key",
+      "cancellation",
+      "cleanup",
+      "stale capture"
+    ]
   }
 ]
