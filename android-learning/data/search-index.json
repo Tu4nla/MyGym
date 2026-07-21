@@ -933,5 +933,34 @@
       "Back stack policy",
       "Upzi deep link case"
     ]
+  },
+  {
+    "lessonId": "d11",
+    "code": "D11",
+    "title": "Animation và SharedTransition",
+    "keywords": [
+      "Compose animation",
+      "Animatable",
+      "updateTransition",
+      "AnimatedVisibility",
+      "AnimatedContent",
+      "SharedTransitionLayout",
+      "sharedElement",
+      "sharedBounds",
+      "lookahead",
+      "graphicsLayer",
+      "predictive back",
+      "reduced motion"
+    ],
+    "headings": [
+      "Animation state machine",
+      "Frame clock và phases",
+      "Interruption và cancellation",
+      "Shared element identity",
+      "Lookahead và overlay",
+      "Navigation lifecycle",
+      "Accessibility",
+      "Performance measurement"
+    ]
   }
 ]

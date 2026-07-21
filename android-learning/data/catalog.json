@@ -295,8 +295,8 @@
           "code": "D11",
           "title": "Animation và SharedTransition",
           "path": "data/lessons/d/d11.json",
-          "estimatedMinutes": 150,
-          "status": "planned"
+          "estimatedMinutes": 360,
+          "status": "published"
         },
         {
           "id": "d12",
