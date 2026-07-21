@@ -962,5 +962,34 @@
       "Accessibility",
       "Performance measurement"
     ]
+  },
+  {
+    "lessonId": "d12",
+    "code": "D12",
+    "title": "Compose Performance và UI Testing",
+    "keywords": [
+      "Compose performance",
+      "recomposition",
+      "frame timing",
+      "jank",
+      "Perfetto",
+      "Macrobenchmark",
+      "Baseline Profile",
+      "Compose UI testing",
+      "semantics tree",
+      "MainTestClock",
+      "testTag",
+      "screenshot testing"
+    ],
+    "headings": [
+      "Frame pipeline",
+      "Performance measurement",
+      "Macrobenchmark",
+      "Baseline Profile",
+      "Semantics testing",
+      "Deterministic tests",
+      "Flaky test prevention",
+      "Upzi performance case"
+    ]
   }
 ]
