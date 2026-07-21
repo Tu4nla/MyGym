@@ -1,0 +1,24 @@
+name: Publish D11
+on:
+  push:
+    branches: [handbook/d11-animation-shared-transition]
+permissions:
+  contents: write
+jobs:
+  publish:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: handbook/d11-animation-shared-transition
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python scripts/publish_d11.py
+      - run: |
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add android-learning/data/lessons/d/d11.json android-learning/data/catalog.json android-learning/data/search-index.json android-learning/data/book-plan.json validation-d11.json
+          git diff --cached --quiet || git commit -m "docs(android-learning): publish D11 content and metadata"
+          git push origin HEAD:handbook/d11-animation-shared-transition
