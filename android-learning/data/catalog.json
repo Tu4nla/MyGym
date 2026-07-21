@@ -303,8 +303,8 @@
           "code": "D12",
           "title": "Compose Performance và UI Testing",
           "path": "data/lessons/d/d12.json",
-          "estimatedMinutes": 180,
-          "status": "planned"
+          "estimatedMinutes": 360,
+          "status": "published"
         }
       ]
     },
