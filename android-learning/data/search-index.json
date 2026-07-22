@@ -991,5 +991,34 @@
       "Flaky test prevention",
       "Upzi performance case"
     ]
+  },
+  {
+    "lessonId": "e01",
+    "code": "E01",
+    "title": "Activity Lifecycle",
+    "keywords": [
+      "Activity lifecycle",
+      "onCreate",
+      "onStart",
+      "onResume",
+      "onPause",
+      "onStop",
+      "onDestroy",
+      "configuration change",
+      "process death",
+      "repeatOnLifecycle",
+      "SavedStateHandle",
+      "ViewModel"
+    ],
+    "headings": [
+      "Lifecycle state machine",
+      "Configuration change",
+      "Process death",
+      "Resource ownership",
+      "Lifecycle-aware collection",
+      "State restoration",
+      "Multi-window",
+      "Upzi Activity case"
+    ]
   }
 ]

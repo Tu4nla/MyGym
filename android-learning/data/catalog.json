@@ -318,8 +318,8 @@
           "code": "E01",
           "title": "Activity Lifecycle",
           "path": "data/lessons/e/e01.json",
-          "estimatedMinutes": 120,
-          "status": "planned"
+          "estimatedMinutes": 360,
+          "status": "published"
         },
         {
           "id": "e02",
