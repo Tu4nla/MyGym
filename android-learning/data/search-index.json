@@ -1049,5 +1049,32 @@
       "Testing recreation",
       "Upzi case study"
     ]
+  },
+  {
+    "lessonId": "e03",
+    "code": "E03",
+    "title": "Process Death và State Restoration",
+    "keywords": [
+      "process death",
+      "state restoration",
+      "SavedStateHandle",
+      "rememberSaveable",
+      "SavedStateRegistry",
+      "Room",
+      "WorkManager",
+      "idempotency",
+      "task restoration",
+      "TransactionTooLargeException"
+    ],
+    "headings": [
+      "Process death mechanism",
+      "State durability",
+      "Saved state limits",
+      "Draft persistence",
+      "WorkManager recovery",
+      "Idempotent submit",
+      "Navigation restoration",
+      "Upzi case study"
+    ]
   }
 ]

@@ -334,8 +334,8 @@
           "code": "E03",
           "title": "Process Death và State Restoration",
           "path": "data/lessons/e/e03.json",
-          "estimatedMinutes": 150,
-          "status": "planned"
+          "estimatedMinutes": 360,
+          "status": "published"
         },
         {
           "id": "e04",
