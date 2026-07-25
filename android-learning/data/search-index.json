@@ -1076,5 +1076,34 @@
       "Navigation restoration",
       "Upzi case study"
     ]
+  },
+  {
+    "lessonId": "e04",
+    "code": "E04",
+    "title": "Context và Memory Leak",
+    "keywords": [
+      "Context",
+      "applicationContext",
+      "Activity Context",
+      "memory leak",
+      "LeakCanary",
+      "heap dump",
+      "GC root",
+      "retained size",
+      "ViewModel leak",
+      "listener cleanup",
+      "WeakReference",
+      "Compose leak"
+    ],
+    "headings": [
+      "Context lifetime",
+      "GC roots and reference chains",
+      "LeakCanary",
+      "Lifecycle cleanup",
+      "Compose leaks",
+      "Native resources",
+      "Cache budgets",
+      "Upzi case study"
+    ]
   }
 ]
