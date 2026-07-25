@@ -342,8 +342,8 @@
           "code": "E04",
           "title": "Context và Memory Leak",
           "path": "data/lessons/e/e04.json",
-          "estimatedMinutes": 120,
-          "status": "planned"
+          "estimatedMinutes": 360,
+          "status": "published"
         },
         {
           "id": "e05",
