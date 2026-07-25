@@ -1020,5 +1020,34 @@
       "Multi-window",
       "Upzi Activity case"
     ]
+  },
+  {
+    "lessonId": "e02",
+    "code": "E02",
+    "title": "Configuration Change",
+    "keywords": [
+      "configuration change",
+      "rotation",
+      "locale",
+      "dark mode",
+      "font scale",
+      "multi-window",
+      "ViewModel",
+      "rememberSaveable",
+      "SavedStateHandle",
+      "adaptive layout",
+      "WindowSizeClass",
+      "Activity recreation"
+    ],
+    "headings": [
+      "Recreation mechanism",
+      "State ownership",
+      "Adaptive UI",
+      "Saved state limits",
+      "Multi-window",
+      "Locale and dark mode",
+      "Testing recreation",
+      "Upzi case study"
+    ]
   }
 ]
