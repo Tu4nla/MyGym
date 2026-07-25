@@ -326,8 +326,8 @@
           "code": "E02",
           "title": "Configuration Change",
           "path": "data/lessons/e/e02.json",
-          "estimatedMinutes": 120,
-          "status": "planned"
+          "estimatedMinutes": 360,
+          "status": "published"
         },
         {
           "id": "e03",
