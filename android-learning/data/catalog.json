@@ -374,8 +374,8 @@
           "code": "E08",
           "title": "Permission và Android Version Compatibility",
           "path": "data/lessons/e/e08.json",
-          "estimatedMinutes": 150,
-          "status": "planned"
+          "estimatedMinutes": 360,
+          "status": "published"
         },
         {
           "id": "e09",
