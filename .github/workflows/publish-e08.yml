@@ -1,0 +1,24 @@
+name: Publish E08
+on:
+  push:
+    branches: [handbook/e08-permission-compatibility]
+permissions:
+  contents: write
+jobs:
+  publish:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: handbook/e08-permission-compatibility
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python scripts/publish_e08.py
+      - run: |
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add android-learning/data/lessons/e/e08.json android-learning/data/catalog.json android-learning/data/search-index.json android-learning/data/book-plan.json validation-e08.json
+          git diff --cached --quiet || git commit -m "docs(android-learning): publish E08 content and metadata"
+          git push origin HEAD:handbook/e08-permission-compatibility
