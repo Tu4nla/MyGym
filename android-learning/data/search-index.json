@@ -1136,5 +1136,34 @@
       "WorkManager alternatives",
       "Upzi case study"
     ]
+  },
+  {
+    "lessonId": "e06",
+    "code": "E06",
+    "title": "WorkManager",
+    "keywords": [
+      "WorkManager",
+      "CoroutineWorker",
+      "constraints",
+      "unique work",
+      "retry",
+      "backoff",
+      "periodic work",
+      "expedited work",
+      "foreground worker",
+      "process death",
+      "idempotency",
+      "chaining"
+    ],
+    "headings": [
+      "Scheduler mechanism",
+      "Constraints and backoff",
+      "Unique work",
+      "Foreground worker",
+      "Idempotency",
+      "Room source of truth",
+      "Cancellation",
+      "Testing WorkManager"
+    ]
   }
 ]
