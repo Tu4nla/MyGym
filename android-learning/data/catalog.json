@@ -358,8 +358,8 @@
           "code": "E06",
           "title": "WorkManager",
           "path": "data/lessons/e/e06.json",
-          "estimatedMinutes": 150,
-          "status": "planned"
+          "estimatedMinutes": 360,
+          "status": "published"
         },
         {
           "id": "e07",
