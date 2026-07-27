@@ -1,0 +1,24 @@
+name: Publish E05
+on:
+  push:
+    branches: [handbook/e05-service-foreground-service]
+permissions:
+  contents: write
+jobs:
+  publish:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: handbook/e05-service-foreground-service
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python scripts/publish_e05.py
+      - run: |
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add android-learning/data/lessons/e/e05.json android-learning/data/catalog.json android-learning/data/search-index.json android-learning/data/book-plan.json validation-e05.json
+          git diff --cached --quiet || git commit -m "docs(android-learning): publish E05 content and metadata"
+          git push origin HEAD:handbook/e05-service-foreground-service
