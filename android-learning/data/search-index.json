@@ -1222,5 +1222,24 @@
       "Version compatibility",
       "Testing matrix"
     ]
+  },
+  {
+    "id": "e09",
+    "code": "E09",
+    "title": "App Link và Deep Link",
+    "summary": "Thiết kế App Link và deep-link pipeline an toàn từ domain verification đến typed navigation, auth, dedup, back stack, deferred linking và kiểm thử nhiều môi trường.",
+    "path": "data/lessons/e/e09.json",
+    "keywords": [
+      "app link",
+      "deep link",
+      "assetlinks.json",
+      "digital asset links",
+      "autoVerify",
+      "intent-filter",
+      "domain verification",
+      "deferred deep link",
+      "Adjust",
+      "Compose Navigation"
+    ]
   }
 ]

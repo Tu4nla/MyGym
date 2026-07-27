@@ -382,8 +382,8 @@
           "code": "E09",
           "title": "App Link và Deep Link",
           "path": "data/lessons/e/e09.json",
-          "estimatedMinutes": 150,
-          "status": "planned"
+          "estimatedMinutes": 360,
+          "status": "published"
         },
         {
           "id": "e10",
