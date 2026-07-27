@@ -1165,5 +1165,34 @@
       "Cancellation",
       "Testing WorkManager"
     ]
+  },
+  {
+    "lessonId": "e07",
+    "code": "E07",
+    "title": "BroadcastReceiver và PendingIntent",
+    "keywords": [
+      "BroadcastReceiver",
+      "PendingIntent",
+      "notification action",
+      "RemoteInput",
+      "immutable",
+      "mutable",
+      "requestCode",
+      "data URI",
+      "exported",
+      "goAsync",
+      "ordered broadcast",
+      "BOOT_COMPLETED"
+    ],
+    "headings": [
+      "Broadcast dispatch",
+      "Receiver lifecycle",
+      "PendingIntent identity",
+      "Notification actions",
+      "RemoteInput",
+      "Security boundaries",
+      "Process death",
+      "WorkManager handoff"
+    ]
   }
 ]
