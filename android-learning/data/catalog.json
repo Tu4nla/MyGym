@@ -350,8 +350,8 @@
           "code": "E05",
           "title": "Service và Foreground Service",
           "path": "data/lessons/e/e05.json",
-          "estimatedMinutes": 150,
-          "status": "planned"
+          "estimatedMinutes": 360,
+          "status": "published"
         },
         {
           "id": "e06",
