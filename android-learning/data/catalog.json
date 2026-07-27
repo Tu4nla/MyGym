@@ -366,8 +366,8 @@
           "code": "E07",
           "title": "BroadcastReceiver và PendingIntent",
           "path": "data/lessons/e/e07.json",
-          "estimatedMinutes": 120,
-          "status": "planned"
+          "estimatedMinutes": 360,
+          "status": "published"
         },
         {
           "id": "e08",
