@@ -1105,5 +1105,36 @@
       "Cache budgets",
       "Upzi case study"
     ]
+  },
+  {
+    "lessonId": "e05",
+    "code": "E05",
+    "title": "Service và Foreground Service",
+    "keywords": [
+      "Service",
+      "Foreground Service",
+      "started service",
+      "bound service",
+      "onStartCommand",
+      "startForegroundService",
+      "notification channel",
+      "foreground service type",
+      "START_STICKY",
+      "START_NOT_STICKY",
+      "IBinder",
+      "WorkManager",
+      "process death",
+      "idempotency"
+    ],
+    "headings": [
+      "Service lifecycle",
+      "Started and bound service",
+      "Foreground service contract",
+      "Notification and service types",
+      "Background start restrictions",
+      "Process death and restart modes",
+      "WorkManager alternatives",
+      "Upzi case study"
+    ]
   }
 ]
