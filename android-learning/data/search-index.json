@@ -1194,5 +1194,33 @@
       "Process death",
       "WorkManager handoff"
     ]
+  },
+  {
+    "lessonId": "e08",
+    "code": "E08",
+    "title": "Permission và Android Version Compatibility",
+    "keywords": [
+      "runtime permission",
+      "targetSdk",
+      "compileSdk",
+      "minSdk",
+      "Photo Picker",
+      "notification permission",
+      "approximate location",
+      "selected photos",
+      "Activity Result API",
+      "AppOps",
+      "compatibility matrix"
+    ],
+    "headings": [
+      "Permission model",
+      "Capability design",
+      "Target SDK behavior",
+      "Media and photo picker",
+      "Notification permission",
+      "Location privacy",
+      "Version compatibility",
+      "Testing matrix"
+    ]
   }
 ]
