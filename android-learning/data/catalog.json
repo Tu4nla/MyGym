@@ -390,8 +390,8 @@
           "code": "E10",
           "title": "Memory, ANR và Platform Performance",
           "path": "data/lessons/e/e10.json",
-          "estimatedMinutes": 150,
-          "status": "planned"
+          "estimatedMinutes": 360,
+          "status": "published"
         }
       ]
     },

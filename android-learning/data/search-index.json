@@ -1241,5 +1241,25 @@
       "Adjust",
       "Compose Navigation"
     ]
+  },
+  {
+    "id": "e10",
+    "code": "E10",
+    "title": "Memory, ANR và Platform Performance",
+    "summary": "Phân tích memory, OOM, ANR, jank, startup và performance Android bằng profiler, Perfetto, benchmark, budget và regression testing.",
+    "path": "data/lessons/e/e10.json",
+    "keywords": [
+      "memory",
+      "ANR",
+      "OOM",
+      "jank",
+      "Perfetto",
+      "Macrobenchmark",
+      "Baseline Profile",
+      "startup",
+      "GC",
+      "PSS",
+      "StrictMode"
+    ]
   }
 ]
