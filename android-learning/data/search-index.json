@@ -1279,5 +1279,24 @@
       "god class",
       "dependency direction"
     ]
+  },
+  {
+    "id": "f02",
+    "code": "F02",
+    "title": "MVVM",
+    "chapter": "F",
+    "path": "data/lessons/f/f02.json",
+    "keywords": [
+      "mvvm",
+      "viewmodel",
+      "ui state",
+      "stateflow",
+      "ui action",
+      "ui effect",
+      "savedstatehandle",
+      "lifecycle",
+      "process death",
+      "testing"
+    ]
   }
 ]

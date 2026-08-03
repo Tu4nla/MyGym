@@ -413,8 +413,8 @@
           "code": "F02",
           "title": "MVVM",
           "path": "data/lessons/f/f02.json",
-          "estimatedMinutes": 120,
-          "status": "planned"
+          "estimatedMinutes": 360,
+          "status": "published"
         },
         {
           "id": "f03",
