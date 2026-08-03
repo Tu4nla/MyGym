@@ -1,0 +1,13 @@
+{
+  "id": "f01",
+  "sections": 24,
+  "uniqueSectionIds": 24,
+  "exactSectionOrder": true,
+  "paragraphs": 106,
+  "paragraphCharacters": 15630,
+  "codeBlocks": 2,
+  "quizQuestions": 12,
+  "quizAnswersValid": true,
+  "truthfulnessLabelsPresent": true,
+  "nextLesson": "f02"
+}

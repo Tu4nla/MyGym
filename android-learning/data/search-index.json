@@ -1261,5 +1261,23 @@
       "PSS",
       "StrictMode"
     ]
+  },
+  {
+    "id": "f01",
+    "code": "F01",
+    "title": "Separation of Concerns",
+    "chapter": "Architecture",
+    "path": "data/lessons/f/f01.json",
+    "keywords": [
+      "separation of concerns",
+      "cohesion",
+      "coupling",
+      "responsibility",
+      "boundary",
+      "policy mechanism",
+      "architecture",
+      "god class",
+      "dependency direction"
+    ]
   }
 ]
