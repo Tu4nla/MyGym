@@ -1298,5 +1298,23 @@
       "process death",
       "testing"
     ]
+  },
+  {
+    "id": "f03",
+    "code": "F03",
+    "title": "MVI và Unidirectional Data Flow",
+    "path": "data/lessons/f/f03.json",
+    "keywords": [
+      "mvi",
+      "unidirectional data flow",
+      "udf",
+      "intent",
+      "action",
+      "reducer",
+      "effect",
+      "state",
+      "mutation",
+      "store"
+    ]
   }
 ]

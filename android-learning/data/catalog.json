@@ -421,8 +421,8 @@
           "code": "F03",
           "title": "MVI và Unidirectional Data Flow",
           "path": "data/lessons/f/f03.json",
-          "estimatedMinutes": 150,
-          "status": "planned"
+          "estimatedMinutes": 360,
+          "status": "published"
         },
         {
           "id": "f04",
