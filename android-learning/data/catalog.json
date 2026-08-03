@@ -405,8 +405,8 @@
           "code": "F01",
           "title": "Separation of Concerns",
           "path": "data/lessons/f/f01.json",
-          "estimatedMinutes": 120,
-          "status": "planned"
+          "estimatedMinutes": 360,
+          "status": "published"
         },
         {
           "id": "f02",
