@@ -445,8 +445,8 @@
           "code": "F06",
           "title": "Use Case",
           "path": "data/lessons/f/f06.json",
-          "estimatedMinutes": 120,
-          "status": "planned"
+          "estimatedMinutes": 360,
+          "status": "published"
         },
         {
           "id": "f07",
