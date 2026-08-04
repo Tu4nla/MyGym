@@ -437,8 +437,8 @@
           "code": "F05",
           "title": "Repository Pattern",
           "path": "data/lessons/f/f05.json",
-          "estimatedMinutes": 120,
-          "status": "planned"
+          "estimatedMinutes": 360,
+          "status": "published"
         },
         {
           "id": "f06",
