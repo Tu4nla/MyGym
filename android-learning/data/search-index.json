@@ -1334,5 +1334,23 @@
       "composition root",
       "android architecture"
     ]
+  },
+  {
+    "id": "f05",
+    "code": "F05",
+    "title": "Repository Pattern",
+    "chapter": "Architecture",
+    "path": "data/lessons/f/f05.json",
+    "keywords": [
+      "repository pattern",
+      "source of truth",
+      "offline-first",
+      "cache",
+      "data source",
+      "idempotency",
+      "outbox",
+      "consistency",
+      "single-flight"
+    ]
   }
 ]
