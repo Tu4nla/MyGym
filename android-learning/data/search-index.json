@@ -1369,5 +1369,23 @@
       "cancellation",
       "typed result"
     ]
+  },
+  {
+    "id": "f07",
+    "code": "F07",
+    "title": "Data Mapping",
+    "path": "data/lessons/f/f07.json",
+    "summary": "Thiết kế mapping an toàn giữa DTO, persistence entity, domain model và UI model với semantic rõ, compatibility, identity ổn định và kiểm thử sâu.",
+    "keywords": [
+      "data mapping",
+      "DTO",
+      "entity",
+      "domain model",
+      "UI model",
+      "mapper",
+      "unknown enum",
+      "partial update",
+      "stable identity"
+    ]
   }
 ]
