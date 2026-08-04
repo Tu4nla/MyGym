@@ -461,8 +461,8 @@
           "code": "F08",
           "title": "Single Source of Truth",
           "path": "data/lessons/f/f08.json",
-          "estimatedMinutes": 150,
-          "status": "planned"
+          "estimatedMinutes": 360,
+          "status": "published"
         },
         {
           "id": "f09",
