@@ -1,0 +1,18 @@
+name: Publish F04
+on:
+  push:
+    branches: [handbook/f04-clean-architecture]
+permissions:
+  contents: write
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python scripts/publish_f04.py
+      - run: |
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add android-learning/data
+          git commit -m "docs(android-learning): publish F04 Clean Architecture" || exit 0
+          git push
