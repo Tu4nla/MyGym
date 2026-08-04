@@ -1,0 +1,18 @@
+name: Publish F05
+on:
+  push:
+    branches: [handbook/f05-repository-pattern]
+permissions:
+  contents: write
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python scripts/publish_f05.py
+      - run: |
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add android-learning/data
+          git commit -m "docs(android-learning): publish F05 Repository Pattern" || exit 0
+          git push
