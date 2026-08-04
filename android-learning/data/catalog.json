@@ -453,8 +453,8 @@
           "code": "F07",
           "title": "Data Mapping",
           "path": "data/lessons/f/f07.json",
-          "estimatedMinutes": 120,
-          "status": "planned"
+          "estimatedMinutes": 360,
+          "status": "published"
         },
         {
           "id": "f08",
