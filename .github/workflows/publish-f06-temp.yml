@@ -9,6 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - run: python scripts/fix_f06.py
       - run: python scripts/publish_f06.py
       - run: |
           git config user.name github-actions[bot]
