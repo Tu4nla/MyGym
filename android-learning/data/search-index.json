@@ -1316,5 +1316,23 @@
       "mutation",
       "store"
     ]
+  },
+  {
+    "id": "f04",
+    "code": "F04",
+    "title": "Clean Architecture",
+    "summary": "Thiết kế dependency và boundary quanh business policy với entity, use case, port/adapter, mapping, error, transaction, lifecycle, testing và migration thực tế trên Android.",
+    "path": "data/lessons/f/f04.json",
+    "keywords": [
+      "clean architecture",
+      "dependency rule",
+      "entity",
+      "use case",
+      "port adapter",
+      "repository",
+      "mapping",
+      "composition root",
+      "android architecture"
+    ]
   }
 ]

@@ -429,8 +429,8 @@
           "code": "F04",
           "title": "Clean Architecture",
           "path": "data/lessons/f/f04.json",
-          "estimatedMinutes": 180,
-          "status": "planned"
+          "estimatedMinutes": 360,
+          "status": "published"
         },
         {
           "id": "f05",
