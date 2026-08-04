@@ -1387,5 +1387,48 @@
       "partial update",
       "stable identity"
     ]
+  },
+  {
+    "lessonId": "f08",
+    "code": "F08",
+    "title": "Single Source of Truth",
+    "keywords": [
+      "single source of truth",
+      "SSOT",
+      "Room",
+      "offline-first",
+      "outbox",
+      "consistency",
+      "socket merge",
+      "optimistic update",
+      "tombstone",
+      "source of truth"
+    ],
+    "headings": [
+      "1. Mục tiêu bài học",
+      "2. Kiến thức nền",
+      "3. Định nghĩa và chú giải thuật ngữ",
+      "4. Cơ chế hoạt động bên trong",
+      "5. Mục đích của kỹ thuật",
+      "6. Vấn đề kỹ thuật được giải quyết",
+      "7. Dấu hiệu cần dùng",
+      "8. Khi không nên dùng",
+      "9. Yêu cầu sản phẩm cụ thể",
+      "10. Phân tích dependency, error policy, lifecycle và resource limits",
+      "11. Ví dụ code tối giản",
+      "12. Ví dụ thực tế Upzi",
+      "13. Phương án thay thế",
+      "14. Lý do lựa chọn và trade-off",
+      "15. Edge cases",
+      "16. Sai lầm thường gặp",
+      "17. Câu hỏi phỏng vấn cơ bản",
+      "18. Câu hỏi xoáy sâu và câu hỏi bẫy",
+      "19. Mẫu trả lời gắn với kinh nghiệm",
+      "20. Bài tập thực hành",
+      "21. Bài tập tình huống",
+      "22. Checklist tự đánh giá",
+      "23. Tóm tắt cần nhớ",
+      "24. Quiz có giải thích đáp án"
+    ]
   }
 ]
