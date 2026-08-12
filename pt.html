@@ -6,7 +6,8 @@
   <meta name="theme-color" content="#0d0f0e">
   <meta name="apple-mobile-web-app-capable" content="yes">
   <title>MyGym Personal PT</title>
-  <link rel="stylesheet" href="pt.css?v=1">
+  <link rel="stylesheet" href="pt.css?v=2">
+  <link rel="stylesheet" href="pt-v2.css?v=1">
 </head>
 <body>
   <div class="pt-shell">
@@ -15,7 +16,7 @@
         <a class="tiny-link" href="./">← MyGym</a>
         <p class="eyebrow">PERSONAL FITNESS OS</p>
         <h1>My PT</h1>
-        <p id="header-subtitle" class="muted">Đang chuẩn bị kế hoạch hôm nay…</p>
+        <p id="header-subtitle" class="muted">Đang tính kế hoạch thích nghi hôm nay…</p>
       </div>
       <div id="date-badge" class="date-badge"></div>
     </header>
@@ -31,6 +32,16 @@
     <main>
       <section id="panel-today" class="panel active">
         <div id="today-hero"></div>
+
+        <div class="quick-change card">
+          <div>
+            <p class="eyebrow">LỊCH KHÔNG ĐÚNG KẾ HOẠCH?</p>
+            <h3>Báo thay đổi hôm nay</h3>
+            <p class="muted">Bận, bỏ buổi, lỡ bữa, ăn khác, chỉ tập được một phần, ngủ lệch giờ… hãy báo tại đây. App sẽ xử lý ngay và tạo gói cập nhật để gửi cho PT.</p>
+          </div>
+          <button id="open-change" class="secondary" type="button">+ Có thay đổi</button>
+        </div>
+        <div id="adaptation-card" class="adaptation-wrap"></div>
 
         <div class="section-head">
           <div>
@@ -57,40 +68,35 @@
         </form>
 
         <div class="section-head">
-          <div>
-            <p class="eyebrow">TODAY</p>
-            <h2>Việc cần làm</h2>
-          </div>
+          <div><p class="eyebrow">TODAY</p><h2>Việc cần làm</h2></div>
         </div>
         <div id="today-tasks" class="stack"></div>
 
         <div class="section-head">
-          <div>
-            <p class="eyebrow">NEXT MEAL</p>
-            <h2>Bữa tiếp theo</h2>
-          </div>
+          <div><p class="eyebrow">NEXT MEAL</p><h2>Bữa tiếp theo</h2></div>
         </div>
         <div id="next-meal" class="card"></div>
 
         <div class="section-head">
-          <div>
-            <p class="eyebrow">GYM SETUP</p>
-            <h2>Máy ở phòng gym</h2>
-          </div>
-          <a href="equipment.html" class="tiny-link">Mở catalog →</a>
+          <div><p class="eyebrow">GYM SOURCE</p><h2>Máy ở phòng gym</h2></div>
+          <a href="equipment.html" class="tiny-link">Xem catalog →</a>
         </div>
         <div id="equipment-status" class="card"></div>
       </section>
 
       <section id="panel-workout" class="panel">
-        <div class="section-head">
+        <div class="section-head workout-head">
           <div>
             <p class="eyebrow">TRAINING</p>
             <h2 id="workout-title">Workout hôm nay</h2>
             <p id="workout-subtitle" class="muted"></p>
           </div>
-          <button id="open-today-workout" class="primary" type="button">Bắt đầu</button>
+          <div class="header-actions">
+            <button id="open-today-workout" class="primary" type="button">Bắt đầu</button>
+            <button id="finish-workout" class="secondary" type="button">Hoàn tất buổi</button>
+          </div>
         </div>
+        <div id="workout-adjustment" class="notice hidden"></div>
         <div id="workout-list" class="stack"></div>
         <div id="non-strength-workout" class="card hidden"></div>
       </section>
@@ -102,16 +108,14 @@
           <div class="metric"><span>Nước</span><strong id="water-target">2.5</strong><small>L/ngày</small></div>
           <div class="metric"><span>Bước chân</span><strong id="steps-target">8000</strong><small>bước/ngày</small></div>
         </div>
-        <div class="notice">Mục tiêu calories là mức khởi đầu để quan sát trong khoảng 2 tuần, không phải con số cố định. Nếu cân/vòng eo/hiệu suất đi sai hướng, tab PT sẽ đề xuất điều chỉnh.</div>
+        <div class="notice">Calories là mức khởi đầu để quan sát, không phải giới hạn cứng từng ngày. Một bữa lệch kế hoạch không được xử lý bằng nhịn ăn hoặc cardio phạt.</div>
+        <div id="nutrition-adaptation"></div>
         <div id="meal-list" class="stack"></div>
       </section>
 
       <section id="panel-progress" class="panel">
         <div class="section-head">
-          <div>
-            <p class="eyebrow">TRACKING</p>
-            <h2>Ghi nhận cơ thể</h2>
-          </div>
+          <div><p class="eyebrow">TRACKING</p><h2>Ghi nhận cơ thể</h2></div>
         </div>
         <form id="progress-form" class="card form-grid">
           <label>Cân nặng
@@ -128,28 +132,72 @@
 
       <section id="panel-coach" class="panel">
         <div class="section-head">
-          <div>
-            <p class="eyebrow">COACH ENGINE</p>
-            <h2>PT phân tích</h2>
-          </div>
+          <div><p class="eyebrow">COACH ENGINE</p><h2>PT phân tích</h2></div>
         </div>
         <div id="coach-analysis" class="card"></div>
+
         <div class="section-head">
-          <div>
-            <p class="eyebrow">RULES</p>
-            <h2>Cách app tự điều chỉnh</h2>
+          <div><p class="eyebrow">SEND TO CHATGPT</p><h2>Làm sao để PT biết bạn lệch lịch?</h2></div>
+        </div>
+        <div class="card coach-share">
+          <p>Bạn chỉ cần ghi thay đổi trong app. App tự xử lý ngay trên thiết bị. Khi muốn tôi biết và đưa thay đổi đó vào dữ liệu dùng chung trên mọi thiết bị, nhấn <b>Chia sẻ PT update</b> rồi gửi nội dung đó vào cuộc chat này.</p>
+          <div class="share-actions">
+            <button id="share-pt-update" class="primary" type="button">Chia sẻ PT update</button>
+            <button id="copy-pt-update" class="secondary" type="button">Copy PT update</button>
           </div>
         </div>
-        <div class="card rules">
-          <p><b>Progressive overload:</b> nếu đạt trần rep ở tất cả set và vẫn còn khoảng RIR 1–2 trở lên → buổi sau tăng mức tạ nhỏ nhất có thể.</p>
-          <p><b>Recovery:</b> ngủ dưới 6 giờ + năng lượng ≤2/5 → giảm khoảng 20% volume, không cố failure.</p>
-          <p><b>Recomp:</b> cân gần ổn định + eo giảm + strength tăng → giữ calories.</p>
-          <p><b>Surplus quá cao:</b> cân và eo cùng tăng rõ trong nhiều lần đo, strength không cải thiện tương ứng → giảm khoảng 100–150 kcal/ngày.</p>
-          <p><b>Đau bất thường:</b> không dùng app để chẩn đoán. Dừng bài gây đau và đánh giá y tế nếu đau đáng kể hoặc kéo dài.</p>
+
+        <div class="section-head">
+          <div><p class="eyebrow">MULTI-DEVICE</p><h2>Đồng bộ trạng thái tạm thời</h2></div>
         </div>
-        <button id="copy-coach-context" class="secondary wide" type="button">Copy dữ liệu để hỏi ChatGPT/PT</button>
+        <div class="card sync-card">
+          <p class="muted">Profile, giáo án và inventory máy nằm trong source code nên thiết bị nào cũng giống nhau. Check-in/log phát sinh trong trình duyệt có thể chuyển sang thiết bị khác bằng snapshot, hoặc gửi cho tôi để tôi commit thành dữ liệu canonical.</p>
+          <div class="share-actions">
+            <button id="copy-sync" class="secondary" type="button">Copy sync snapshot</button>
+            <button id="open-sync-import" class="secondary" type="button">Import snapshot</button>
+          </div>
+        </div>
+
+        <div class="section-head">
+          <div><p class="eyebrow">RULES</p><h2>Cách app tự xử lý lệch kế hoạch</h2></div>
+        </div>
+        <div class="card rules">
+          <p><b>Lỡ buổi tạ:</b> không ghép hai buổi để “trả nợ”. Buổi chưa tập vẫn là buổi kế tiếp trong chuỗi Upper A → Lower A → Upper B → Lower B.</p>
+          <p><b>Chỉ tập một phần:</b> nếu hoàn thành phần lớn planned sets và compound chính, có thể tính là xong; accessory bỏ lỡ không bắt buộc dồn sang hôm sau.</p>
+          <p><b>Lỡ bữa:</b> không ăn bù gấp đôi. Quay lại cấu trúc bình thường và ưu tiên protein trong các bữa còn lại.</p>
+          <p><b>Ăn khác kế hoạch:</b> ghi nhận rồi quay lại bữa tiếp theo; không nhịn ăn để phạt.</p>
+          <p><b>Recovery thấp:</b> giảm volume và tránh failure.</p>
+          <p><b>Đau bất thường:</b> dừng bài gây đau; app không tự chẩn đoán chấn thương.</p>
+        </div>
       </section>
     </main>
+  </div>
+
+  <div id="change-modal" class="modal" aria-hidden="true">
+    <div class="modal-card change-modal-card">
+      <button id="change-close" class="modal-close" type="button">×</button>
+      <p class="eyebrow">DAILY OVERRIDE</p>
+      <h2>Báo thay đổi</h2>
+      <p class="muted">Bạn chỉ cần mô tả điều thực tế xảy ra. App sẽ không coi một ngày lệch lịch là thất bại.</p>
+      <form id="change-form" class="change-form">
+        <label>Điều gì xảy ra?
+          <select id="change-type">
+            <option value="skip_workout">Bận / không tập được hôm nay</option>
+            <option value="partial_workout">Chỉ tập được một phần</option>
+            <option value="missed_meal">Lỡ / không ăn được một bữa</option>
+            <option value="offplan_meal">Ăn khác kế hoạch</option>
+            <option value="schedule_shift">Lịch sinh hoạt bị lệch</option>
+            <option value="sick_or_pain">Không khỏe / đau bất thường</option>
+            <option value="other">Khác</option>
+          </select>
+        </label>
+        <div id="change-dynamic"></div>
+        <label>Ghi chú
+          <textarea id="change-note" rows="4" placeholder="Ví dụ: OT đến 22:00; bỏ bữa xế; chỉ tập 4/8 bài…"></textarea>
+        </label>
+        <button class="primary wide" type="submit">Lưu & điều chỉnh kế hoạch</button>
+      </form>
+    </div>
   </div>
 
   <div id="exercise-modal" class="modal" aria-hidden="true">
@@ -159,9 +207,21 @@
     </div>
   </div>
 
+  <div id="sync-modal" class="modal" aria-hidden="true">
+    <div class="modal-card">
+      <button id="sync-close" class="modal-close" type="button">×</button>
+      <p class="eyebrow">MULTI-DEVICE</p>
+      <h2>Import snapshot</h2>
+      <p class="muted">Dán snapshot được copy từ thiết bị khác. Dữ liệu sẽ merge với dữ liệu hiện có, không xoá source profile.</p>
+      <textarea id="sync-input" rows="10" placeholder="MYGYM_SYNC_V2:..."></textarea>
+      <button id="sync-import" class="primary wide" type="button" style="margin-top:12px">Import</button>
+    </div>
+  </div>
+
   <div id="toast" class="toast"></div>
 
-  <script src="pt-data.js?v=1"></script>
-  <script src="pt.js?v=1"></script>
+  <script src="pt-source.js?v=1"></script>
+  <script src="pt-data.js?v=2"></script>
+  <script src="pt-v2.js?v=1"></script>
 </body>
 </html>
