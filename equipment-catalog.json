@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "source": {
     "name": "hasaneyldrm/exercises-dataset",
     "url": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/data/exercises.json",
@@ -8,13 +8,27 @@
   },
   "includedEquipment": [
     "leverage machine",
+    "cable",
     "smith machine",
-    "cable"
+    "assisted",
+    "sled machine",
+    "elliptical machine",
+    "stationary bike",
+    "stepmill machine",
+    "skierg machine",
+    "upper body ergometer"
   ],
   "groups": [
     {"id":"leverage-machine","label":"Leverage / Selectorized","equipment":"leverage machine"},
+    {"id":"cable","label":"Cable / Pulley","equipment":"cable"},
     {"id":"smith-machine","label":"Smith Machine","equipment":"smith machine"},
-    {"id":"cable","label":"Cable / Pulley","equipment":"cable"}
+    {"id":"assisted","label":"Assisted Machine","equipment":"assisted"},
+    {"id":"sled-machine","label":"Sled Machine","equipment":"sled machine"},
+    {"id":"elliptical-machine","label":"Elliptical","equipment":"elliptical machine"},
+    {"id":"stationary-bike","label":"Stationary Bike","equipment":"stationary bike"},
+    {"id":"stepmill-machine","label":"Stepmill / Stair","equipment":"stepmill machine"},
+    {"id":"skierg-machine","label":"SkiErg","equipment":"skierg machine"},
+    {"id":"upper-body-ergometer","label":"Upper Body Ergometer","equipment":"upper body ergometer"}
   ],
   "selectionStorageKey": "mygym.selectedEquipment.v1"
 }
