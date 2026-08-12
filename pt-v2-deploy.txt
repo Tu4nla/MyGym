@@ -1,0 +1,1 @@
+Personal PT v2 final deploy trigger — source-controlled equipment + adaptive schedule + daily override reporting.
