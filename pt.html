@@ -6,20 +6,20 @@
   <meta name="theme-color" content="#0d0f0e">
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-title" content="My PT">
-  <title>MyGym Personal PT v5</title>
+  <title>MyGym Personal PT v6</title>
   <link rel="manifest" href="pt-manifest.json?v=1">
   <link rel="stylesheet" href="pt.css?v=3">
   <link rel="stylesheet" href="pt-v2.css?v=2">
   <link rel="stylesheet" href="pt-v3.css?v=2">
   <link rel="stylesheet" href="pt-v4.css?v=1">
-  <link rel="stylesheet" href="pt-v5.css?v=1">
+  <link rel="stylesheet" href="pt-v6.css?v=1">
 </head>
 <body>
   <div class="pt-shell">
     <header class="pt-header">
       <div>
         <a class="tiny-link" href="./">← MyGym</a>
-        <p class="eyebrow">PERSONAL FITNESS OS • V5</p>
+        <p class="eyebrow">PERSONAL FITNESS OS • V6</p>
         <h1>My PT</h1>
         <p id="header-subtitle" class="muted">Đang chuẩn bị kế hoạch…</p>
       </div>
@@ -87,7 +87,7 @@
           <div class="metric"><span>Nước</span><strong id="water-target">2.5</strong><small>L/ngày</small></div>
           <div class="metric"><span>Bước chân</span><strong id="steps-target">8000</strong><small>bước/ngày</small></div>
         </div>
-        <div class="notice">Ghi thực tế bạn đã ăn gì. Một bữa lệch không bị “phạt” bằng nhịn ăn hay cardio quá mức; adaptive engine xử lý theo xu hướng.</div>
+        <div class="notice">Ghi thực tế bạn đã ăn gì. Macro của món Việt là ước tính theo khẩu phần phổ biến; dùng xu hướng nhiều ngày thay vì cố tuyệt đối chính xác từng gram.</div>
         <div id="nutrition-adaptation"></div>
         <div id="meal-list" class="stack"></div>
       </section>
@@ -108,7 +108,7 @@
         <div id="coach-analysis" class="card"></div>
         <div class="section-head"><div><p class="eyebrow">ENGINE POLICY</p><h2>Cách hệ thống phản ứng</h2></div></div>
         <div class="card rules">
-          <p><b>Mỗi cập nhật:</b> lưu local ngay → sync Supabase khi đăng nhập → thiết bị khác nhận Realtime → rule analysis chạy lại.</p>
+          <p><b>Sync:</b> chỉ một Realtime subscriber chính xử lý cloud → local mirror. V6 không tạo subscriber thứ hai và không reload trang khi có event.</p>
           <p><b>Phân tích sâu:</b> dùng nút Copy cho ChatGPT. Website không tự gọi API trả phí.</p>
           <p><b>Lỡ buổi:</b> giữ nguyên rolling sequence, không ghép hai buổi để trả nợ.</p>
           <p><b>Recovery thấp:</b> giảm planned sets và giữ RIR an toàn hơn.</p>
@@ -138,10 +138,10 @@
 
   <script src="pt-source.js?v=3"></script>
   <script src="pt-data.js?v=3"></script>
+  <script src="pt-food-vn.js?v=1"></script>
   <script src="pt-cloud-config.js?v=2"></script>
   <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/dist/umd/supabase.js"></script>
-  <script src="pt-v3.js?v=3"></script>
-  <script src="pt-v3-sync.js?v=1"></script>
-  <script src="pt-v5.js?v=1"></script>
+  <script src="pt-v3.js?v=4"></script>
+  <script src="pt-v6.js?v=1"></script>
 </body>
 </html>
