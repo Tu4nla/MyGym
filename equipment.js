@@ -1,8 +1,12 @@
 const $ = (id) => document.getElementById(id);
 
+const MEDIA_DATA_URL = "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/data/exercises.json";
+const MEDIA_IMAGE_BASE = "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/";
+
 const state = {
   config: null,
   items: [],
+  media: [],
   selected: new Set(),
   query: "",
   group: "all",
@@ -13,7 +17,30 @@ const state = {
 const imageCache = new Map();
 const normalize = (v = "") => String(v).trim().toLowerCase();
 const titleCase = (v = "") => String(v).replace(/\b\w/g, c => c.toUpperCase());
-const itemId = item => item.id;
+
+function normalizeWords(value = "") {
+  return normalize(value)
+    .replace(/pull[ -]?down/g, "pulldown")
+    .replace(/iso[ -]?lateral/g, "isolateral")
+    .replace(/plate[ -]?loaded/g, "plateloaded")
+    .replace(/rear[ -]?delt/g, "reardelt")
+    .replace(/t[ -]?bar/g, "tbar")
+    .replace(/45[ -]?degree/g, "45degree")
+    .replace(/[^a-z0-9]+/g, " ")
+    .trim();
+}
+
+const STOP_WORDS = new Set([
+  "machine", "gym", "equipment", "commercial", "series", "station",
+  "selectorized", "plateloaded", "leverage", "strength", "trainer"
+]);
+
+function tokens(value = "") {
+  return normalizeWords(value)
+    .split(/\s+/)
+    .filter(Boolean)
+    .filter(x => !STOP_WORDS.has(x));
+}
 
 function loadSelection() {
   try {
@@ -65,14 +92,95 @@ function googleImageSearchUrl(item) {
   return `https://www.google.com/search?tbm=isch&q=${encodeURIComponent(item.imageQuery || item.name)}`;
 }
 
+function equipmentBonus(item, exercise) {
+  const eq = normalize(exercise.equipment || "");
+  const type = normalize(item.type || "");
+  if (type === "smith-machine" && eq === "smith machine") return 8;
+  if (["selectorized", "plate-loaded"].includes(type) && eq === "leverage machine") return 5;
+  if (type.includes("cable") && eq === "cable") return 5;
+  if (type.includes("assisted") && eq === "assisted") return 6;
+  if (type.includes("sled") && eq === "sled machine") return 6;
+  if (type.includes("elliptical") && eq === "elliptical machine") return 8;
+  if (type.includes("bike") && eq === "stationary bike") return 8;
+  if ((type.includes("stair") || type.includes("stepmill")) && eq === "stepmill machine") return 8;
+  if (type.includes("skierg") && eq === "skierg machine") return 8;
+  if (type.includes("dumbbell") && eq === "dumbbell") return 4;
+  if (type.includes("barbell") && eq === "barbell") return 4;
+  if (type.includes("kettlebell") && eq === "kettlebell") return 4;
+  return 0;
+}
+
+function groupBonus(item, exercise) {
+  const group = normalize(item.group);
+  const part = normalize(exercise.body_part || exercise.category || "");
+  const map = {
+    chest: ["chest"], back: ["back"], shoulders: ["shoulders"],
+    legs: ["upper legs", "lower legs"], "glutes / hips": ["upper legs"],
+    arms: ["upper arms", "lower arms"], core: ["waist"], cardio: ["cardio"]
+  };
+  return (map[group] || []).includes(part) ? 2 : 0;
+}
+
+function scoreExerciseImage(item, exercise) {
+  const queryTokens = tokens(`${item.imageQuery || ""} ${item.name}`);
+  const exerciseTokens = tokens(exercise.name || "");
+  if (!queryTokens.length || !exerciseTokens.length) return -1;
+
+  const exerciseSet = new Set(exerciseTokens);
+  let overlap = 0;
+  queryTokens.forEach(t => { if (exerciseSet.has(t)) overlap += 1; });
+
+  let score = overlap * 4 + equipmentBonus(item, exercise) + groupBonus(item, exercise);
+  const q = normalizeWords(item.imageQuery || item.name);
+  const n = normalizeWords(exercise.name || "");
+
+  const phrases = [
+    "chest press", "shoulder press", "leg extension", "leg curl", "leg press",
+    "lat pulldown", "pulldown", "seated row", "low row", "high row", "tbar row",
+    "lateral raise", "calf raise", "hip abduction", "hip adduction", "hack squat",
+    "preacher curl", "biceps curl", "triceps extension", "pec fly", "reardelt",
+    "abdominal crunch", "back extension", "glute kickback", "pullover"
+  ];
+  phrases.forEach(p => {
+    if (q.includes(p) && n.includes(p)) score += 10;
+  });
+
+  if (overlap === 0 && equipmentBonus(item, exercise) < 8) return -1;
+  return score;
+}
+
+function representativeExerciseImage(item) {
+  const key = `exercise:${item.id}`;
+  if (imageCache.has(key)) return imageCache.get(key);
+  if (!state.media.length) return "";
+
+  let best = null;
+  let bestScore = -1;
+  for (const exercise of state.media) {
+    if (!exercise.image) continue;
+    const score = scoreExerciseImage(item, exercise);
+    if (score > bestScore) {
+      bestScore = score;
+      best = exercise;
+    }
+  }
+
+  // A conservative threshold avoids showing a completely unrelated exercise.
+  const url = best && bestScore >= 10
+    ? `${MEDIA_IMAGE_BASE}${String(best.image).replace(/^\//, "")}`
+    : "";
+  imageCache.set(key, url);
+  return url;
+}
+
 async function commonsThumbnail(item) {
-  const key = item.imageQuery || item.name;
+  const key = `commons:${item.id}`;
   if (imageCache.has(key)) return imageCache.get(key);
 
   const params = new URLSearchParams({
     action: "query",
     generator: "search",
-    gsrsearch: `${key} gym equipment filetype:bitmap`,
+    gsrsearch: `${item.imageQuery || item.name} gym equipment`,
     gsrnamespace: "6",
     gsrlimit: "1",
     prop: "imageinfo",
@@ -94,6 +202,18 @@ async function commonsThumbnail(item) {
   }
 }
 
+async function resolveImage(item) {
+  if (item.image) return { url: item.image, source: "catalog" };
+
+  const exerciseImage = representativeExerciseImage(item);
+  if (exerciseImage) return { url: exerciseImage, source: "exercise" };
+
+  const commons = await commonsThumbnail(item);
+  if (commons) return { url: commons, source: "commons" };
+
+  return { url: "", source: "none" };
+}
+
 function hydrateImages() {
   const targets = [...document.querySelectorAll("[data-image-id]")];
   const observer = new IntersectionObserver(entries => {
@@ -103,15 +223,18 @@ function hydrateImages() {
       const id = entry.target.dataset.imageId;
       const item = state.items.find(x => x.id === id);
       if (!item) return;
-      const url = await commonsThumbnail(item);
+
+      const image = await resolveImage(item);
       if (!entry.target.isConnected) return;
-      if (url) {
-        entry.target.innerHTML = `<img loading="lazy" src="${url}" alt="${item.name.replace(/"/g, "&quot;")}">`;
+
+      if (image.url) {
+        const note = image.source === "exercise" ? '<span class="image-note">Ảnh minh hoạ cách dùng</span>' : "";
+        entry.target.innerHTML = `<img loading="lazy" referrerpolicy="no-referrer" src="${image.url}" alt="${item.name.replace(/"/g, "&quot;")}" onerror="this.parentElement.innerHTML='<div class=&quot;image-fallback&quot;>Ảnh lỗi · bấm Xem thêm ảnh</div>'">${note}`;
       } else {
-        entry.target.innerHTML = `<div class="image-fallback">Không tìm được ảnh đại diện</div>`;
+        entry.target.innerHTML = `<div class="image-fallback">Chưa có ảnh phù hợp · bấm “Xem thêm ảnh”</div>`;
       }
     });
-  }, { rootMargin: "300px" });
+  }, { rootMargin: "400px" });
   targets.forEach(el => observer.observe(el));
 }
 
@@ -130,7 +253,7 @@ function render() {
     const safeName = item.name.replace(/"/g, "&quot;");
     return `
       <article class="card ${selected ? "selected" : ""}" data-id="${item.id}">
-        <div class="image-wrap" data-image-id="${item.id}"><div class="image-fallback">Đang tải ảnh…</div></div>
+        <div class="image-wrap" data-image-id="${item.id}"><div class="image-fallback">Đang tìm ảnh phù hợp…</div></div>
         <label class="tick" title="Chọn thiết bị này">
           <input type="checkbox" ${selected ? "checked" : ""} aria-label="Chọn ${safeName}">
         </label>
@@ -208,11 +331,17 @@ function setupActions() {
 
 async function init() {
   try {
-    state.config = await fetch("equipment-catalog.json?v=3").then(r => {
-      if (!r.ok) throw new Error(`Catalog ${r.status}`);
-      return r.json();
-    });
+    const [config, media] = await Promise.all([
+      fetch("equipment-catalog.json?v=3").then(r => {
+        if (!r.ok) throw new Error(`Catalog ${r.status}`);
+        return r.json();
+      }),
+      fetch(MEDIA_DATA_URL).then(r => r.ok ? r.json() : []).catch(() => [])
+    ]);
+
+    state.config = config;
     state.items = state.config.items || [];
+    state.media = Array.isArray(media) ? media : [];
     loadSelection(); persistSelection(); setupFilters(); setupActions(); render();
   } catch (error) {
     console.error(error);
