@@ -1,5 +1,5 @@
-const CACHE='mygym-pt-v4-20260812';
-const CORE=['./pt.html','./pt.css','./pt-v2.css','./pt-v3.css','./pt-v4.css','./pt-source.js','./pt-data.js','./pt-cloud-config.js','./pt-v3.js','./pt-v3-sync.js','./pt-v4.js','./equipment-catalog.json'];
+const CACHE='mygym-pt-v5-20260813';
+const CORE=['./pt.html','./pt.css','./pt-v2.css','./pt-v3.css','./pt-v4.css','./pt-v5.css','./pt-source.js','./pt-data.js','./pt-cloud-config.js','./pt-v3.js','./pt-v3-sync.js','./pt-v5.js','./equipment-catalog.json'];
 self.addEventListener('install',e=>{e.waitUntil(caches.open(CACHE).then(c=>c.addAll(CORE)).catch(()=>null));self.skipWaiting()});
 self.addEventListener('activate',e=>{e.waitUntil(caches.keys().then(ks=>Promise.all(ks.filter(k=>k!==CACHE&&k.startsWith('mygym-pt-')).map(k=>caches.delete(k)))));self.clients.claim()});
 self.addEventListener('fetch',e=>{if(e.request.method!=='GET')return;const u=new URL(e.request.url);if(u.origin!==self.location.origin)return;e.respondWith(fetch(e.request).then(r=>{const x=r.clone();caches.open(CACHE).then(c=>c.put(e.request,x)).catch(()=>null);return r}).catch(()=>caches.match(e.request).then(x=>x||caches.match('./pt.html'))))});
