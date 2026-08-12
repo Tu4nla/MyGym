@@ -5,49 +5,43 @@
   <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
   <meta name="theme-color" content="#121214">
   <title>MyGym — Equipment Catalog</title>
-  <link rel="stylesheet" href="equipment.css?v=4">
+  <link rel="stylesheet" href="equipment.css?v=5">
 </head>
 <body>
   <div class="shell">
     <header class="topbar">
       <div>
         <a class="back" href="pt.html">← Personal PT</a>
-        <p class="eyebrow">PHYSICAL GYM EQUIPMENT INVENTORY</p>
-        <h1>Chọn máy & dụng cụ có trong phòng gym</h1>
-        <p class="subtitle">Mỗi card là một thiết bị vật lý thực tế, có tên tiếng Anh chuẩn và tên tiếng Việt để dễ nhận diện. Bao gồm máy đơn, máy kết hợp/đa năng, cable station, rack/bench, tạ tự do, phụ kiện, dụng cụ functional và cardio.</p>
+        <p class="eyebrow">SOURCE-CONTROLLED GYM INVENTORY</p>
+        <h1>Máy & dụng cụ ở phòng gym</h1>
+        <p class="subtitle">Các máy có nhãn SOURCE nằm trong <b>pt-source.js</b> và được Personal PT dùng trên mọi thiết bị. Tick/bỏ tick ở trang này chỉ tạo một draft; dùng “Copy source update” rồi gửi cho ChatGPT để commit thay đổi vào source.</p>
       </div>
-      <div class="counter"><strong id="selected-count">0</strong><span>đã chọn</span></div>
+      <div class="counter"><strong id="selected-count">0</strong><span>draft selected</span></div>
     </header>
 
     <section class="toolbar">
-      <label class="search-wrap">
-        <span>⌕</span>
-        <input id="search" type="search" placeholder="Tìm: hack squat, con lăn bụng, tạ đơn, cable…" autocomplete="off">
-      </label>
-      <select id="group-filter" aria-label="Lọc nhóm thiết bị">
-        <option value="all">Tất cả nhóm</option>
-      </select>
-      <select id="body-filter" aria-label="Lọc loại thiết bị">
-        <option value="all">Tất cả loại thiết bị</option>
-      </select>
+      <label class="search-wrap"><span>⌕</span><input id="search" type="search" placeholder="Tìm: hack squat, lat pulldown, leg press…" autocomplete="off"></label>
+      <select id="group-filter" aria-label="Lọc nhóm thiết bị"><option value="all">Tất cả nhóm</option></select>
+      <select id="body-filter" aria-label="Lọc loại thiết bị"><option value="all">Tất cả loại thiết bị</option></select>
       <label class="only-selected"><input id="only-selected" type="checkbox"> Chỉ thiết bị đã chọn</label>
     </section>
 
     <section class="actions">
       <button id="copy-names" type="button">Copy tên đã chọn</button>
-      <button id="copy-json" type="button">Copy selected JSON</button>
-      <button id="copy-link" type="button">Copy share link</button>
-      <button id="clear" class="ghost danger" type="button">Bỏ chọn tất cả</button>
+      <button id="copy-json" type="button">Copy source update</button>
+      <button id="copy-link" type="button">Copy draft link</button>
+      <button id="clear" class="ghost" type="button">Reset về source</button>
     </section>
 
-    <div id="status" class="status">Đang tải catalog…</div>
+    <div id="status" class="status">Đang tải source inventory…</div>
     <main id="grid" class="grid" aria-live="polite"></main>
 
     <footer>
-      <b>Quy tắc catalog:</b> một item là một máy/dụng cụ vật lý. Đổi grip, góc tay hoặc cách tập trên cùng thiết bị không tạo item mới. Máy selectorized và plate-loaded chỉ tách khi đó thực sự là hai cấu trúc máy khác nhau. Các máy combo/đa năng được ghi riêng khi chúng là một thiết bị tích hợp thực tế. Lựa chọn được lưu trên trình duyệt này và Personal PT sẽ đọc cùng danh sách đó.
+      <b>Cơ chế mới:</b> inventory canonical không còn phụ thuộc localStorage. Source code là nguồn sự thật dùng chung. Các thay đổi tạm thời trên trang này chỉ là draft cho tới khi được commit vào <code>pt-source.js</code>.
     </footer>
   </div>
 
-  <script src="equipment.js?v=6"></script>
+  <script src="pt-source.js?v=1"></script>
+  <script src="equipment-v2.js?v=1"></script>
 </body>
 </html>
