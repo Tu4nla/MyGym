@@ -25,9 +25,9 @@
       carbs:Math.round(((base.kcalMin+base.kcalMax)/2*.5/4)+(pick.carbs||0)),
       fat:Math.round(((base.kcalMin+base.kcalMax)/2*.3/9)+(pick.fat||0)),
       budget:base.budget==="$$"?"$$":"$",time:base.time,
-      tags:["đi làm","ăn tại công ty","gọn","ít mùi",...(base.tags||[]),pick.brand],
+      tags:["đi làm","ăn tại công ty","office-friendly","gọn","ít mùi",...(base.tags||[]),pick.brand],
       ingredients:[base.name,`${pick.brand} ${pick.name}`],baseId:base.id,productId:pick.id,
-      officeFriendly:true,portable:true,odor:base.odor,mess:base.mess,macroRange:true
+      office:true,officeFriendly:true,portable:true,odor:base.odor,mess:base.mess,macroRange:true
     };
   });
 
