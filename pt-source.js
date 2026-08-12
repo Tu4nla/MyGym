@@ -1,6 +1,6 @@
 window.PT_SOURCE = {
-  schemaVersion: 2,
-  sourceUpdatedAt: "2026-08-12T22:42:00+07:00",
+  schemaVersion: 3,
+  sourceUpdatedAt: "2026-08-12T23:29:00+07:00",
   sourceOfTruth: "Tu4nla/MyGym",
 
   profile: {
@@ -16,47 +16,96 @@ window.PT_SOURCE = {
     preferredSleepTime: "23:30"
   },
 
-  // Đây là inventory CANONICAL dùng bởi Personal PT trên mọi thiết bị.
-  // Không đọc localStorage để quyết định máy nào có ở gym.
+  // Inventory CANONICAL theo 79 checkbox đã chọn trước đó,
+  // đã gộp 7 cặp alias/trùng thành 72 thiết bị vật lý thực tế.
   equipment: {
     mode: "source-controlled",
+    selectedCheckboxCountBeforeAliasMerge: 79,
+    physicalEquipmentCount: 72,
     confirmedFromCurrentProfile: [
-      "45-degree-leg-press",
-      "horizontal-leg-press",
-      "leg-extension-curl-combo",
-      "lying-leg-curl",
-      "seated-chest-press",
       "incline-chest-press",
+      "converging-chest-press",
+      "seated-chest-press",
       "pec-fly-rear-delt-combo",
+      "vertical-chest-press",
+      "iso-lateral-chest-press",
+      "decline-chest-press",
       "lat-pulldown",
+      "front-lat-pulldown",
+      "low-row-machine",
       "seated-row",
+      "t-bar-row-machine",
+      "rear-delt-machine",
+      "shoulder-press",
+      "lateral-raise",
+      "lying-leg-curl",
+      "leg-extension-curl-combo",
+      "seated-leg-press",
+      "horizontal-leg-press",
+      "45-degree-leg-press",
+      "hack-squat",
+      "v-squat",
+      "seated-calf-raise",
+      "seated-dip",
+      "biceps-curl",
+      "preacher-curl-machine",
+      "rotary-torso",
+      "vertical-knee-raise",
+      "dual-adjustable-pulley",
+      "cable-crossover",
       "lat-pulldown-low-row-combo",
       "multi-press-machine",
+      "half-rack",
+      "squat-stand",
+      "adjustable-bench",
+      "flat-bench",
+      "olympic-flat-bench",
+      "olympic-incline-bench",
+      "olympic-decline-bench",
+      "decline-situp-bench",
+      "preacher-curl-bench",
+      "utility-stool",
+      "fixed-dumbbells",
+      "dumbbell-rack",
+      "kettlebells",
+      "fixed-barbells",
+      "olympic-barbell",
+      "ez-curl-bar",
+      "straight-curl-bar",
+      "trap-hex-bar",
+      "swiss-multigrip-bar",
+      "cambered-bar",
+      "calibrated-plates",
+      "fractional-plates",
+      "bumper-plates",
+      "lat-pulldown-bar",
+      "straight-cable-bar",
+      "ez-curl-cable-bar",
+      "rope-attachment",
+      "v-row-handle",
+      "d-handle",
+      "double-d-handle",
+      "triceps-v-bar",
       "treadmill",
-      "upright-bike"
+      "elliptical",
+      "spin-bike",
+      "air-bike",
+      "ab-roller-wheel",
+      "pushup-bars",
+      "sandbag",
+      "foam-roller",
+      "yoga-mat"
     ],
-    notes: [
-      "Máy đạp đùi được ánh xạ thành 45-Degree Leg Press; máy đạp đùi ngang là Horizontal Leg Press.",
-      "Máy đá/móc đùi 2 chức năng được ánh xạ thành Leg Extension / Leg Curl Combo.",
-      "Máy ép ngực/vai sau được ánh xạ thành Pec Fly / Rear Delt Machine.",
-      "Máy lưng 2 chức năng với nhiều thanh kéo được ánh xạ thành Lat Pulldown / Low Row Combo.",
-      "Máy đẩy ngực/vai 3 trong 1 được ánh xạ thành Multi-Press Machine.",
-      "Các máy được mô tả chưa đủ đặc trưng để định danh chính xác model vẫn được giữ ở unresolvedEquipment thay vì tự bịa tên máy."
+    aliasMerges: [
+      ["Chest Press Machine", "Seated Chest Press Machine"],
+      ["Pec Fly / Rear Delt", "Pec Fly / Rear Delt Combo"],
+      ["T-Bar Row", "T-Bar Row Machine"],
+      ["Captain's Chair", "Vertical Knee Raise Station"],
+      ["Swiss Bar", "Swiss Multi-Grip Bar"],
+      ["Straight Bar Attachment", "Straight Cable Bar"],
+      ["Cable Rope", "Rope Attachment"]
     ],
-    unresolvedEquipment: [
-      {
-        id: "user-back-chest-combo",
-        labelVi: "Máy tập lưng/ngực 2 chức năng",
-        status: "needs-photo-or-model",
-        reason: "Mô tả chức năng chưa đủ để xác định một tên thiết bị vật lý chuẩn duy nhất."
-      },
-      {
-        id: "user-adjustable-angle-chest-press",
-        labelVi: "Máy đẩy ngực có ghế điều chỉnh độ",
-        status: "provisionally-covered-by-incline-chest-press",
-        reason: "Tạm dùng Incline Chest Press cho lập giáo án; cần ảnh/model để biết đây là multi-angle press hay plate-loaded press cụ thể."
-      }
-    ]
+    unresolvedEquipment: []
   },
 
   trainingPolicy: {
@@ -74,8 +123,6 @@ window.PT_SOURCE = {
     }
   },
 
-  // Khi người dùng gửi PT update packet trong ChatGPT, các event cần dùng trên mọi thiết bị
-  // có thể được commit vào đây. App sẽ merge source events + local events.
   syncedEvents: [],
   syncedMeasurements: [],
   syncedWorkoutSessions: []
