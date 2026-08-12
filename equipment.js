@@ -6,34 +6,20 @@ const state = {
   selected: new Set(),
   query: "",
   group: "all",
-  body: "all",
+  type: "all",
   onlySelected: false,
 };
 
-function normalize(value = "") {
-  return String(value).trim().toLowerCase();
-}
-
-function titleCase(value = "") {
-  return value.replace(/\b\w/g, (c) => c.toUpperCase());
-}
-
-function machineLabel(item) {
-  return item.name || "Unnamed variation";
-}
-
-function itemId(item) {
-  return `${item.equipment}:${item.id}`;
-}
+const imageCache = new Map();
+const normalize = (v = "") => String(v).trim().toLowerCase();
+const titleCase = (v = "") => String(v).replace(/\b\w/g, c => c.toUpperCase());
+const itemId = item => item.id;
 
 function loadSelection() {
   try {
-    const key = state.config.selectionStorageKey;
-    const saved = JSON.parse(localStorage.getItem(key) || "[]");
+    const saved = JSON.parse(localStorage.getItem(state.config.selectionStorageKey) || "[]");
     state.selected = new Set(Array.isArray(saved) ? saved : []);
-  } catch {
-    state.selected = new Set();
-  }
+  } catch { state.selected = new Set(); }
 
   const hash = location.hash.replace(/^#selected=/, "");
   if (hash) {
@@ -45,210 +31,192 @@ function loadSelection() {
 }
 
 function persistSelection() {
-  localStorage.setItem(
-    state.config.selectionStorageKey,
-    JSON.stringify([...state.selected])
-  );
+  localStorage.setItem(state.config.selectionStorageKey, JSON.stringify([...state.selected]));
   $("selected-count").textContent = state.selected.size;
 }
 
-function getImageUrl(item) {
-  const image = item.image || item.thumbnail || "";
-  if (!image) return "";
-  if (/^https?:\/\//i.test(image)) return image;
-  return `${state.config.source.imageBaseUrl}${image.replace(/^\//, "")}`;
-}
-
-function bodyPart(item) {
-  return item.body_part || item.category || "other";
-}
-
 function selectedItems() {
-  return state.items.filter((item) => state.selected.has(itemId(item)));
+  return state.items.filter(item => state.selected.has(item.id));
 }
 
 function exportPayload() {
-  return selectedItems().map((item) => ({
+  return selectedItems().map(item => ({
     id: item.id,
     name: item.name,
-    equipment: item.equipment,
-    bodyPart: bodyPart(item),
-    target: item.target || null,
-    image: getImageUrl(item),
+    group: item.group,
+    type: item.type
   }));
 }
 
 function filteredItems() {
-  return state.items.filter((item) => {
-    const id = itemId(item);
-    if (state.onlySelected && !state.selected.has(id)) return false;
-    if (state.group !== "all" && normalize(item.equipment) !== state.group) return false;
-    if (state.body !== "all" && normalize(bodyPart(item)) !== state.body) return false;
+  return state.items.filter(item => {
+    if (state.onlySelected && !state.selected.has(item.id)) return false;
+    if (state.group !== "all" && normalize(item.group) !== state.group) return false;
+    if (state.type !== "all" && normalize(item.type) !== state.type) return false;
     if (state.query) {
-      const haystack = normalize([
-        item.name,
-        item.equipment,
-        bodyPart(item),
-        item.target,
-        ...(item.secondary_muscles || []),
-      ].join(" "));
+      const haystack = normalize(`${item.name} ${item.group} ${item.type}`);
       if (!haystack.includes(state.query)) return false;
     }
     return true;
   });
 }
 
+function googleImageSearchUrl(item) {
+  return `https://www.google.com/search?tbm=isch&q=${encodeURIComponent(item.imageQuery || item.name)}`;
+}
+
+async function commonsThumbnail(item) {
+  const key = item.imageQuery || item.name;
+  if (imageCache.has(key)) return imageCache.get(key);
+
+  const params = new URLSearchParams({
+    action: "query",
+    generator: "search",
+    gsrsearch: `${key} gym equipment filetype:bitmap`,
+    gsrnamespace: "6",
+    gsrlimit: "1",
+    prop: "imageinfo",
+    iiprop: "url",
+    iiurlwidth: "640",
+    format: "json",
+    origin: "*"
+  });
+
+  try {
+    const result = await fetch(`https://commons.wikimedia.org/w/api.php?${params}`).then(r => r.json());
+    const pages = result?.query?.pages ? Object.values(result.query.pages) : [];
+    const url = pages[0]?.imageinfo?.[0]?.thumburl || pages[0]?.imageinfo?.[0]?.url || "";
+    imageCache.set(key, url);
+    return url;
+  } catch {
+    imageCache.set(key, "");
+    return "";
+  }
+}
+
+function hydrateImages() {
+  const targets = [...document.querySelectorAll("[data-image-id]")];
+  const observer = new IntersectionObserver(entries => {
+    entries.forEach(async entry => {
+      if (!entry.isIntersecting) return;
+      observer.unobserve(entry.target);
+      const id = entry.target.dataset.imageId;
+      const item = state.items.find(x => x.id === id);
+      if (!item) return;
+      const url = await commonsThumbnail(item);
+      if (!entry.target.isConnected) return;
+      if (url) {
+        entry.target.innerHTML = `<img loading="lazy" src="${url}" alt="${item.name.replace(/"/g, "&quot;")}">`;
+      } else {
+        entry.target.innerHTML = `<div class="image-fallback">Không tìm được ảnh đại diện</div>`;
+      }
+    });
+  }, { rootMargin: "300px" });
+  targets.forEach(el => observer.observe(el));
+}
+
 function render() {
-  const grid = $("grid");
   const items = filteredItems();
-  $("status").textContent = `${items.length} option · ${state.items.length} tổng cộng · ${state.selected.size} đã chọn`;
+  $("status").textContent = `${items.length} thiết bị · ${state.items.length} tổng cộng · ${state.selected.size} đã chọn`;
   $("selected-count").textContent = state.selected.size;
 
   if (!items.length) {
-    grid.innerHTML = '<div class="empty">Không có máy phù hợp bộ lọc hiện tại.</div>';
+    $("grid").innerHTML = '<div class="empty">Không có thiết bị phù hợp bộ lọc hiện tại.</div>';
     return;
   }
 
-  grid.innerHTML = items.map((item) => {
-    const id = itemId(item);
-    const selected = state.selected.has(id);
-    const img = getImageUrl(item);
-    const safeName = machineLabel(item).replace(/"/g, "&quot;");
+  $("grid").innerHTML = items.map(item => {
+    const selected = state.selected.has(item.id);
+    const safeName = item.name.replace(/"/g, "&quot;");
     return `
-      <article class="card ${selected ? "selected" : ""}" data-id="${id}">
-        <div class="image-wrap">
-          ${img ? `<img loading="lazy" src="${img}" alt="${safeName}" onerror="this.outerHTML='<div class=&quot;image-fallback&quot;>Không tải được ảnh</div>'">` : '<div class="image-fallback">Không có ảnh</div>'}
-        </div>
-        <label class="tick" title="Chọn máy này">
+      <article class="card ${selected ? "selected" : ""}" data-id="${item.id}">
+        <div class="image-wrap" data-image-id="${item.id}"><div class="image-fallback">Đang tải ảnh…</div></div>
+        <label class="tick" title="Chọn thiết bị này">
           <input type="checkbox" ${selected ? "checked" : ""} aria-label="Chọn ${safeName}">
         </label>
         <button class="card-button" type="button" aria-label="Toggle ${safeName}"></button>
         <div class="card-body">
-          <h2 class="name">${machineLabel(item)}</h2>
+          <h2 class="name">${item.name}</h2>
           <div class="meta">
-            <span class="pill">${titleCase(item.equipment)}</span>
-            <span class="pill">${titleCase(bodyPart(item))}</span>
-            ${item.target ? `<span class="pill">${titleCase(item.target)}</span>` : ""}
+            <span class="pill">${item.group}</span>
+            <span class="pill">${titleCase(item.type.replaceAll("-", " "))}</span>
           </div>
+          <a class="image-search" href="${googleImageSearchUrl(item)}" target="_blank" rel="noopener">Xem thêm ảnh ↗</a>
         </div>
       </article>`;
   }).join("");
 
-  grid.querySelectorAll(".card").forEach((card) => {
+  $("grid").querySelectorAll(".card").forEach(card => {
     const id = card.dataset.id;
     const toggle = () => {
-      if (state.selected.has(id)) state.selected.delete(id);
-      else state.selected.add(id);
-      persistSelection();
-      render();
+      state.selected.has(id) ? state.selected.delete(id) : state.selected.add(id);
+      persistSelection(); render();
     };
     card.querySelector(".card-button").addEventListener("click", toggle);
-    card.querySelector("input").addEventListener("change", (event) => {
-      event.stopPropagation();
-      if (event.target.checked) state.selected.add(id);
-      else state.selected.delete(id);
-      persistSelection();
-      render();
+    card.querySelector("input").addEventListener("change", e => {
+      e.stopPropagation();
+      e.target.checked ? state.selected.add(id) : state.selected.delete(id);
+      persistSelection(); render();
     });
   });
+  hydrateImages();
 }
 
 function setupFilters() {
   const group = $("group-filter");
-  state.config.groups.forEach((g) => {
+  state.config.groups.forEach(g => {
     const option = document.createElement("option");
-    option.value = normalize(g.equipment);
+    option.value = normalize(g.label);
     option.textContent = g.label;
     group.appendChild(option);
   });
 
-  const bodies = [...new Set(state.items.map((x) => normalize(bodyPart(x))))].sort();
-  const bodySelect = $("body-filter");
-  bodies.forEach((name) => {
+  const typeSelect = $("body-filter");
+  typeSelect.innerHTML = '<option value="all">Tất cả loại thiết bị</option>';
+  [...new Set(state.items.map(x => normalize(x.type)))].sort().forEach(type => {
     const option = document.createElement("option");
-    option.value = name;
-    option.textContent = titleCase(name);
-    bodySelect.appendChild(option);
+    option.value = type;
+    option.textContent = titleCase(type.replaceAll("-", " "));
+    typeSelect.appendChild(option);
   });
 
-  $("search").addEventListener("input", (e) => {
-    state.query = normalize(e.target.value);
-    render();
-  });
-  group.addEventListener("change", (e) => {
-    state.group = e.target.value;
-    render();
-  });
-  bodySelect.addEventListener("change", (e) => {
-    state.body = e.target.value;
-    render();
-  });
-  $("only-selected").addEventListener("change", (e) => {
-    state.onlySelected = e.target.checked;
-    render();
-  });
+  $("search").addEventListener("input", e => { state.query = normalize(e.target.value); render(); });
+  group.addEventListener("change", e => { state.group = e.target.value; render(); });
+  typeSelect.addEventListener("change", e => { state.type = e.target.value; render(); });
+  $("only-selected").addEventListener("change", e => { state.onlySelected = e.target.checked; render(); });
 }
 
 async function copyText(text, button, successLabel) {
   await navigator.clipboard.writeText(text);
   const old = button.textContent;
   button.textContent = successLabel;
-  setTimeout(() => { button.textContent = old; }, 1200);
+  setTimeout(() => button.textContent = old, 1200);
 }
 
 function setupActions() {
-  $("copy-names").addEventListener("click", (e) => {
-    const text = selectedItems().map((x) => x.name).join("\n");
-    copyText(text, e.currentTarget, "Đã copy tên");
-  });
-  $("copy-json").addEventListener("click", (e) => {
-    copyText(JSON.stringify(exportPayload(), null, 2), e.currentTarget, "Đã copy JSON");
-  });
-  $("copy-link").addEventListener("click", (e) => {
+  $("copy-names").addEventListener("click", e => copyText(selectedItems().map(x => x.name).join("\n"), e.currentTarget, "Đã copy tên"));
+  $("copy-json").addEventListener("click", e => copyText(JSON.stringify(exportPayload(), null, 2), e.currentTarget, "Đã copy JSON"));
+  $("copy-link").addEventListener("click", e => {
     const encoded = btoa(encodeURIComponent(JSON.stringify([...state.selected])));
-    const url = `${location.origin}${location.pathname}#selected=${encoded}`;
-    copyText(url, e.currentTarget, "Đã copy link");
+    copyText(`${location.origin}${location.pathname}#selected=${encoded}`, e.currentTarget, "Đã copy link");
   });
   $("clear").addEventListener("click", () => {
-    if (!state.selected.size) return;
-    if (!confirm("Bỏ chọn toàn bộ máy?")) return;
-    state.selected.clear();
-    persistSelection();
-    render();
+    if (!state.selected.size || !confirm("Bỏ chọn toàn bộ thiết bị?")) return;
+    state.selected.clear(); persistSelection(); render();
   });
 }
 
 async function init() {
   try {
-    state.config = await fetch("equipment-catalog.json?v=1").then((r) => {
-      if (!r.ok) throw new Error(`Config ${r.status}`);
+    state.config = await fetch("equipment-catalog.json?v=3").then(r => {
+      if (!r.ok) throw new Error(`Catalog ${r.status}`);
       return r.json();
     });
-
-    const data = await fetch(state.config.source.url).then((r) => {
-      if (!r.ok) throw new Error(`Dataset ${r.status}`);
-      return r.json();
-    });
-
-    const allowed = new Set(state.config.includedEquipment.map(normalize));
-    state.items = data
-      .filter((item) => allowed.has(normalize(item.equipment)))
-      .sort((a, b) => {
-        const equipmentOrder = state.config.includedEquipment.map(normalize);
-        const ea = equipmentOrder.indexOf(normalize(a.equipment));
-        const eb = equipmentOrder.indexOf(normalize(b.equipment));
-        if (ea !== eb) return ea - eb;
-        return machineLabel(a).localeCompare(machineLabel(b));
-      });
-
-    loadSelection();
-    persistSelection();
-    setupFilters();
-    setupActions();
-    render();
+    state.items = state.config.items || [];
+    loadSelection(); persistSelection(); setupFilters(); setupActions(); render();
   } catch (error) {
     console.error(error);
-    $("status").textContent = "Không tải được catalog. Hãy reload trang hoặc kiểm tra kết nối mạng.";
+    $("status").textContent = "Không tải được catalog.";
     $("grid").innerHTML = `<div class="empty">${error.message}</div>`;
   }
 }
