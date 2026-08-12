@@ -1,0 +1,1 @@
+Personal PT v3 deploy trigger — cloud sync, daily logging, adaptive analysis, workout player.
