@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "source": {
+    "name": "hasaneyldrm/exercises-dataset",
+    "url": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/data/exercises.json",
+    "imageBaseUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/",
+    "note": "The upstream dataset contains exact English exercise/machine-variation names and matching thumbnails. This page filters machine-based equipment so each variation can be selected independently."
+  },
+  "includedEquipment": [
+    "leverage machine",
+    "smith machine",
+    "cable"
+  ],
+  "groups": [
+    {"id":"leverage-machine","label":"Leverage / Selectorized","equipment":"leverage machine"},
+    {"id":"smith-machine","label":"Smith Machine","equipment":"smith machine"},
+    {"id":"cable","label":"Cable / Pulley","equipment":"cable"}
+  ],
+  "selectionStorageKey": "mygym.selectedEquipment.v1"
+}
