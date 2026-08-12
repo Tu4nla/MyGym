@@ -1,0 +1,11 @@
+{
+  "name": "MyGym Personal PT",
+  "short_name": "My PT",
+  "start_url": "./pt.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#090b0a",
+  "theme_color": "#0d0f0e",
+  "description": "Personal fitness operating system",
+  "lang": "vi"
+}
