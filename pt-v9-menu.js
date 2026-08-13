@@ -27,3 +27,13 @@
   window.addEventListener('mygym:v9-menu-changed',()=>{});
   if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',boot,{once:true});else boot();
 })();
+
+// V11.1: load a late rescue layer after V10/V11 finish remapping the UI.
+setTimeout(()=>{
+  if(document.querySelector('script[data-v11-rescue]'))return;
+  const s=document.createElement('script');
+  s.src='pt-v11-rescue.js?v=1';
+  s.dataset.v11Rescue='1';
+  s.async=true;
+  document.body.appendChild(s);
+},900);
