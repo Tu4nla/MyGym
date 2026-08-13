@@ -6,7 +6,7 @@
   <meta name="theme-color" content="#0d0f0e">
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-title" content="My PT">
-  <title>MyGym Personal PT v9.1</title>
+  <title>MyGym Personal PT v10</title>
   <link rel="manifest" href="pt-manifest.json?v=1">
   <link rel="stylesheet" href="pt.css?v=3">
   <link rel="stylesheet" href="pt-v2.css?v=2">
@@ -17,15 +17,16 @@
   <link rel="stylesheet" href="pt-v8-workout.css?v=1">
   <link rel="stylesheet" href="pt-v9.css?v=1">
   <link rel="stylesheet" href="pt-v9-fix.css?v=1">
+  <link rel="stylesheet" href="pt-v10.css?v=1">
 </head>
 <body>
   <div class="pt-shell">
     <header class="pt-header">
       <div>
         <a class="tiny-link" href="./">← MyGym</a>
-        <p class="eyebrow">PERSONAL FITNESS OS • V9.1</p>
-        <h1>My PT</h1>
-        <p id="header-subtitle" class="muted">Đang chuẩn bị kế hoạch…</p>
+        <p class="eyebrow">PERSONAL ASSISTANT • V10</p>
+        <h1>My Assistant</h1>
+        <p id="header-subtitle" class="muted">Đang chuẩn bị việc tiếp theo…</p>
       </div>
       <div id="date-badge" class="date-badge"></div>
     </header>
@@ -112,12 +113,13 @@
         <div id="coach-analysis" class="card"></div>
         <div class="section-head"><div><p class="eyebrow">ENGINE POLICY</p><h2>Cách hệ thống phản ứng</h2></div></div>
         <div class="card rules">
-          <p><b>Sync:</b> chỉ subscriber chính trong V3 xử lý Realtime. V6/V7/V8/V9 không tạo subscriber thứ hai; các lớp mới chỉ ghi dữ liệu và đọc local mirror.</p>
+          <p><b>Sync:</b> chỉ subscriber chính trong V3 xử lý Realtime. V10 không tạo subscriber thứ hai; trợ lý chỉ đọc local mirror và ghi thay đổi.</p>
+          <p><b>Assistant-first:</b> màn hình chính chỉ hỏi một câu hoặc giao một việc tại một thời điểm; các form cũ chỉ còn là lớp dữ liệu/fallback.</p>
           <p><b>Workout rút gọn:</b> 30/45/60 phút giữ bài ưu tiên; hoàn thành adapted plan được tính partial_counted để rolling sequence vẫn tiến đúng.</p>
           <p><b>Phân tích sâu:</b> dùng nút Copy cho ChatGPT. Website không tự gọi API trả phí.</p>
           <p><b>Lỡ buổi:</b> giữ nguyên rolling sequence, không ghép hai buổi để trả nợ.</p>
           <p><b>Recovery thấp:</b> giảm planned sets và giữ RIR an toàn hơn.</p>
-          <p><b>Lỡ/ăn lệch bữa:</b> ghi nhận rồi quay lại cấu trúc bình thường, không dùng hình phạt cực đoan.</p>
+          <p><b>Lỡ/ăn lệch bữa:</b> trợ lý hỏi quyết định khi cần và tự dời các task phụ thuộc; không dùng hình phạt cực đoan.</p>
           <p><b>Đau bất thường:</b> không cố tập xuyên đau; hệ thống không thay thế chẩn đoán y tế.</p>
         </div>
       </section>
@@ -159,5 +161,6 @@
   <script src="pt-v8-workout.js?v=1"></script>
   <script src="pt-v9.js?v=1"></script>
   <script src="pt-v9-menu.js?v=1"></script>
+  <script src="pt-v10-assistant.js?v=1"></script>
 </body>
 </html>
