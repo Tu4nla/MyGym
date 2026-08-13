@@ -6,7 +6,7 @@
   <meta name="theme-color" content="#0d0f0e">
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-title" content="My Assistant">
-  <title>MyGym Personal Assistant v11.2</title>
+  <title>MyGym Personal Assistant v12</title>
   <link rel="manifest" href="pt-manifest.json?v=2">
   <link rel="stylesheet" href="pt.css?v=3">
   <link rel="stylesheet" href="pt-v2.css?v=2">
@@ -19,13 +19,14 @@
   <link rel="stylesheet" href="pt-v9-fix.css?v=1">
   <link rel="stylesheet" href="pt-v10.css?v=1">
   <link rel="stylesheet" href="pt-v11-push.css?v=1">
+  <link rel="stylesheet" href="pt-v12-planning.css?v=2" data-v12-planning="1">
 </head>
 <body>
   <div class="pt-shell">
     <header class="pt-header">
       <div>
         <a class="tiny-link" href="./">← MyGym</a>
-        <p class="eyebrow">PERSONAL ASSISTANT • V11.2</p>
+        <p class="eyebrow">PERSONAL ASSISTANT • V12</p>
         <h1>My Assistant</h1>
         <p id="header-subtitle" class="muted">Đang chuẩn bị việc tiếp theo…</p>
       </div>
@@ -114,9 +115,10 @@
         <div id="coach-analysis" class="card"></div>
         <div class="section-head"><div><p class="eyebrow">ENGINE POLICY</p><h2>Cách hệ thống phản ứng</h2></div></div>
         <div class="card rules">
-          <p><b>Sync:</b> chỉ subscriber chính trong V3 xử lý Realtime. V10/V11 không tạo subscriber thứ hai; trợ lý chỉ đọc local mirror và ghi thay đổi.</p>
+          <p><b>Sync:</b> chỉ subscriber chính trong V3 xử lý Realtime. V10/V11/V12 không tạo subscriber thứ hai; các lớp mới chỉ đọc local mirror và ghi thay đổi.</p>
           <p><b>Assistant-first:</b> màn hình chính chỉ hỏi một câu hoặc giao một việc tại một thời điểm; các form cũ chỉ còn là lớp dữ liệu/fallback.</p>
-          <p><b>Push:</b> V11 đồng bộ hàng đợi nhắc nền theo kế hoạch hiện tại; backend chỉ gửi một notification ưu tiên trong mỗi cửa sổ 15 phút.</p>
+          <p><b>Planning trước:</b> 23:00 hỏi kế hoạch ngày mai; cuối tuần hỏi các ngoại lệ tuần sau. Nếu chưa chốt từ tối trước, Trợ lý sẽ hỏi bù trong ngày thay vì giả định lịch mặc định.</p>
+          <p><b>Push:</b> V11/V12 đồng bộ hàng đợi nhắc nền; planning reminder có ưu tiên cao và tự hủy khi kế hoạch đã chốt.</p>
           <p><b>Workout rút gọn:</b> 30/45/60 phút giữ bài ưu tiên; hoàn thành adapted plan được tính partial_counted để rolling sequence vẫn tiến đúng.</p>
           <p><b>Phân tích sâu:</b> dùng nút Copy cho ChatGPT. Website không tự gọi API trả phí.</p>
           <p><b>Lỡ buổi:</b> giữ nguyên rolling sequence, không ghép hai buổi để trả nợ.</p>
@@ -165,6 +167,7 @@
   <script src="pt-v9-menu.js?v=1"></script>
   <script src="pt-v10-assistant.js?v=1"></script>
   <script src="pt-v11-push.js?v=1"></script>
-  <script src="pt-v11-rescue.js?v=2"></script>
+  <script src="pt-v11-rescue.js?v=3"></script>
+  <script src="pt-v12-planning-v2.js?v=2" data-v12-planning="1"></script>
 </body>
 </html>
