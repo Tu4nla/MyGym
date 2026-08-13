@@ -68,8 +68,8 @@
   }
   function tick(){const e=$('v11-rescue-clock');if(!e)return;const d=new Date();e.textContent=`${String(d.getHours()).padStart(2,'0')}:${String(d.getMinutes()).padStart(2,'0')}:${String(d.getSeconds()).padStart(2,'0')}`}
   function loadV12(){
-    if(!document.querySelector('link[data-v12-planning]')){const l=document.createElement('link');l.rel='stylesheet';l.href='pt-v12-planning.css?v=1';l.dataset.v12Planning='1';document.head.appendChild(l)}
-    if(!document.querySelector('script[data-v12-planning]')){const s=document.createElement('script');s.src='pt-v12-planning.js?v=1';s.dataset.v12Planning='1';document.body.appendChild(s)}
+    if(!document.querySelector('link[data-v12-planning]')){const l=document.createElement('link');l.rel='stylesheet';l.href='pt-v12-planning.css?v=2';l.dataset.v12Planning='1';document.head.appendChild(l)}
+    if(!document.querySelector('script[data-v12-planning]')){const s=document.createElement('script');s.src='pt-v12-planning-v2.js?v=2';s.dataset.v12Planning='1';document.body.appendChild(s)}
   }
   function boot(){
     document.documentElement.classList.add('pt-v11-rescue');
