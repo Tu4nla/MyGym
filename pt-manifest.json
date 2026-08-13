@@ -2,7 +2,7 @@
   "id": "./pt.html",
   "name": "MyGym Personal Assistant",
   "short_name": "My Assistant",
-  "start_url": "./pt.html?v=133#assistant",
+  "start_url": "./pt.html?v=134#assistant",
   "scope": "./",
   "display": "standalone",
   "background_color": "#070a08",
