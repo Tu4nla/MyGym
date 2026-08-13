@@ -3,171 +3,51 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-  <meta name="theme-color" content="#0d0f0e">
+  <meta name="theme-color" content="#070a08">
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-title" content="My Assistant">
-  <title>MyGym Personal Assistant v12</title>
-  <link rel="manifest" href="pt-manifest.json?v=2">
-  <link rel="stylesheet" href="pt.css?v=3">
-  <link rel="stylesheet" href="pt-v2.css?v=2">
-  <link rel="stylesheet" href="pt-v3.css?v=2">
-  <link rel="stylesheet" href="pt-v4.css?v=1">
-  <link rel="stylesheet" href="pt-v6.css?v=3">
-  <link rel="stylesheet" href="pt-v7.css?v=1">
-  <link rel="stylesheet" href="pt-v8-workout.css?v=1">
-  <link rel="stylesheet" href="pt-v9.css?v=1">
-  <link rel="stylesheet" href="pt-v9-fix.css?v=1">
-  <link rel="stylesheet" href="pt-v10.css?v=1">
-  <link rel="stylesheet" href="pt-v11-push.css?v=1">
-  <link rel="stylesheet" href="pt-v12-planning.css?v=2" data-v12-planning="1">
+  <meta http-equiv="Cache-Control" content="no-store, max-age=0">
+  <title>MyGym Personal Assistant v13</title>
+  <link rel="manifest" href="pt-manifest.json?v=13">
+  <link rel="stylesheet" href="pt-v13.css?v=13">
 </head>
 <body>
-  <div class="pt-shell">
-    <header class="pt-header">
-      <div>
-        <a class="tiny-link" href="./">← MyGym</a>
-        <p class="eyebrow">PERSONAL ASSISTANT • V12</p>
-        <h1>My Assistant</h1>
-        <p id="header-subtitle" class="muted">Đang chuẩn bị việc tiếp theo…</p>
-      </div>
-      <div id="date-badge" class="date-badge"></div>
+  <div class="v13-shell">
+    <header class="v13-header">
+      <a class="back" href="./">← MyGym</a>
+      <div class="eyebrow" style="margin-top:10px">PERSONAL ASSISTANT • V13</div>
+      <h1>My Assistant</h1>
     </header>
 
-    <nav class="pt-tabs" aria-label="Personal PT navigation">
-      <button class="tab active" data-tab="today">Hôm nay</button>
-      <button class="tab" data-tab="workout">Workout</button>
-      <button class="tab" data-tab="nutrition">Ăn uống</button>
-      <button class="tab" data-tab="progress">Tiến độ</button>
-      <button class="tab" data-tab="coach">PT</button>
+    <nav class="v13-tabs" aria-label="My Assistant navigation">
+      <button class="active" data-tab="assistant" type="button">Trợ lý</button>
+      <button data-tab="workout" type="button">Workout</button>
+      <button data-tab="plan" type="button">Kế hoạch</button>
+      <button data-tab="journal" type="button">Nhật ký</button>
+      <button data-tab="progress" type="button">Tiến độ</button>
+      <button data-tab="coach" type="button">PT</button>
     </nav>
 
     <main>
-      <section id="panel-today" class="panel active">
-        <div id="today-hero"></div>
-
-        <div class="quick-change card">
-          <div>
-            <p class="eyebrow">THỰC TẾ KHÁC KẾ HOẠCH?</p>
-            <h3>Báo thay đổi hôm nay</h3>
-            <p class="muted">Bận, bỏ tập, lỡ bữa, ăn khác, tập một phần, lệch lịch hoặc không khỏe. App sẽ ghi lại, sync và phân tích lại ngay.</p>
-          </div>
-          <button id="open-change" class="secondary" type="button">+ Có thay đổi</button>
-        </div>
-        <div id="adaptation-card" class="adaptation-wrap"></div>
-
-        <div class="section-head">
-          <div><p class="eyebrow">CHECK-IN</p><h2>Tình trạng hôm nay</h2></div>
-          <span id="recovery-pill" class="pill">Chưa check-in</span>
-        </div>
-        <form id="checkin-form" class="card form-grid">
-          <label>Ngủ tối qua<div class="input-with-unit"><input id="sleep-hours" type="number" min="0" max="12" step="0.1" placeholder="7.5"><span>giờ</span></div></label>
-          <label>Chất lượng ngủ<select id="sleep-quality"><option value="1">1 / 5</option><option value="2">2 / 5</option><option value="3" selected>3 / 5</option><option value="4">4 / 5</option><option value="5">5 / 5</option></select></label>
-          <label>Năng lượng<select id="energy"><option value="1">1 / 5</option><option value="2">2 / 5</option><option value="3" selected>3 / 5</option><option value="4">4 / 5</option><option value="5">5 / 5</option></select></label>
-          <label>Đau/mỏi cơ<select id="soreness"><option value="1">Nhẹ</option><option value="2">Vừa</option><option value="3">Nhiều</option><option value="4">Đau bất thường</option></select></label>
-          <button class="primary wide" type="submit">Lưu check-in</button>
-        </form>
-
-        <div class="section-head"><div><p class="eyebrow">TODO</p><h2>Việc cần làm</h2></div></div>
-        <div id="today-tasks" class="stack"></div>
-
-        <div class="section-head"><div><p class="eyebrow">NEXT MEAL</p><h2>Bữa tiếp theo</h2></div></div>
-        <div id="next-meal" class="card"></div>
-
-        <div class="section-head"><div><p class="eyebrow">GYM SOURCE</p><h2>Máy ở phòng gym</h2></div><a href="equipment.html" class="tiny-link">Xem catalog →</a></div>
-        <div id="equipment-status" class="card"></div>
-      </section>
-
-      <section id="panel-workout" class="panel">
-        <div class="section-head workout-head">
-          <div><p class="eyebrow">WORKOUT PLAYER</p><h2 id="workout-title">Workout hôm nay</h2><p id="workout-subtitle" class="muted"></p></div>
-          <div class="header-actions"><button id="open-today-workout" class="primary" type="button">Bắt đầu</button><button id="finish-workout" class="secondary hidden" type="button">Hoàn tất</button></div>
-        </div>
-        <div id="workout-adjustment" class="notice hidden"></div>
-        <div id="workout-list" class="stack"></div>
-        <div id="non-strength-workout" class="card hidden"></div>
-      </section>
-
-      <section id="panel-nutrition" class="panel">
-        <div class="target-grid">
-          <div class="metric"><span>Calories khởi đầu</span><strong id="calorie-target">2050</strong><small>kcal/ngày</small></div>
-          <div class="metric"><span>Protein</span><strong id="protein-target">115</strong><small>g/ngày</small></div>
-          <div class="metric"><span>Nước</span><strong id="water-target">2.5</strong><small>L/ngày</small></div>
-          <div class="metric"><span>Bước chân</span><strong id="steps-target">8000</strong><small>bước/ngày</small></div>
-        </div>
-        <div class="notice">Ghi thực tế bạn đã ăn gì. Macro của món Việt là ước tính theo khẩu phần phổ biến; dùng xu hướng nhiều ngày thay vì cố tuyệt đối chính xác từng gram.</div>
-        <div id="nutrition-adaptation"></div>
-        <div id="meal-list" class="stack"></div>
-      </section>
-
-      <section id="panel-progress" class="panel">
-        <div class="section-head"><div><p class="eyebrow">TRACKING</p><h2>Cơ thể & xu hướng</h2></div></div>
-        <form id="progress-form" class="card form-grid">
-          <label>Cân nặng<div class="input-with-unit"><input id="progress-weight" type="number" min="35" max="150" step="0.1" placeholder="59.0"><span>kg</span></div></label>
-          <label>Vòng bụng ngang rốn<div class="input-with-unit"><input id="progress-waist" type="number" min="50" max="160" step="0.1" placeholder="84.0"><span>cm</span></div></label>
-          <button class="primary wide" type="submit">Lưu số đo</button>
-        </form>
-        <div id="progress-summary" class="card"></div>
-        <div id="progress-history" class="stack"></div>
-      </section>
-
-      <section id="panel-coach" class="panel">
-        <div class="section-head"><div><p class="eyebrow">AUTO ANALYSIS</p><h2>PT rule engine</h2></div></div>
-        <div id="coach-analysis" class="card"></div>
-        <div class="section-head"><div><p class="eyebrow">ENGINE POLICY</p><h2>Cách hệ thống phản ứng</h2></div></div>
-        <div class="card rules">
-          <p><b>Sync:</b> chỉ subscriber chính trong V3 xử lý Realtime. V10/V11/V12 không tạo subscriber thứ hai; các lớp mới chỉ đọc local mirror và ghi thay đổi.</p>
-          <p><b>Assistant-first:</b> màn hình chính chỉ hỏi một câu hoặc giao một việc tại một thời điểm; các form cũ chỉ còn là lớp dữ liệu/fallback.</p>
-          <p><b>Planning trước:</b> 23:00 hỏi kế hoạch ngày mai; cuối tuần hỏi các ngoại lệ tuần sau. Nếu chưa chốt từ tối trước, Trợ lý sẽ hỏi bù trong ngày thay vì giả định lịch mặc định.</p>
-          <p><b>Push:</b> V11/V12 đồng bộ hàng đợi nhắc nền; planning reminder có ưu tiên cao và tự hủy khi kế hoạch đã chốt.</p>
-          <p><b>Workout rút gọn:</b> 30/45/60 phút giữ bài ưu tiên; hoàn thành adapted plan được tính partial_counted để rolling sequence vẫn tiến đúng.</p>
-          <p><b>Phân tích sâu:</b> dùng nút Copy cho ChatGPT. Website không tự gọi API trả phí.</p>
-          <p><b>Lỡ buổi:</b> giữ nguyên rolling sequence, không ghép hai buổi để trả nợ.</p>
-          <p><b>Recovery thấp:</b> giảm planned sets và giữ RIR an toàn hơn.</p>
-          <p><b>Lỡ/ăn lệch bữa:</b> trợ lý hỏi quyết định khi cần và tự dời các task phụ thuộc; không dùng hình phạt cực đoan.</p>
-          <p><b>Đau bất thường:</b> không cố tập xuyên đau; hệ thống không thay thế chẩn đoán y tế.</p>
+      <section class="v13-panel" data-panel="assistant">
+        <div id="v13-assistant">
+          <div class="static-fallback"><div class="eyebrow">ĐANG KHỞI ĐỘNG</div><h2>Trợ lý đang đọc trạng thái hôm nay…</h2><p class="muted">Nếu JavaScript tải chậm, nội dung này vẫn luôn hiện thay vì màn hình đen.</p></div>
         </div>
       </section>
+      <section class="v13-panel" data-panel="workout" hidden><div id="v13-workout"><div class="static-fallback"><h2>Workout</h2><p class="muted">Đang tải giáo án…</p></div></div></section>
+      <section class="v13-panel" data-panel="plan" hidden><div id="v13-plan"><div class="static-fallback"><h2>Kế hoạch</h2><p class="muted">Đang tải lịch và thực đơn…</p></div></div></section>
+      <section class="v13-panel" data-panel="journal" hidden><div id="v13-journal"><div class="static-fallback"><h2>Nhật ký</h2></div></div></section>
+      <section class="v13-panel" data-panel="progress" hidden><div id="v13-progress"><div class="static-fallback"><h2>Tiến độ</h2></div></div></section>
+      <section class="v13-panel" data-panel="coach" hidden><div id="v13-coach"><div class="static-fallback"><h2>PT</h2></div></div></section>
     </main>
   </div>
+  <div id="v13-toast" class="v13-toast"></div>
 
-  <div id="change-modal" class="modal" aria-hidden="true">
-    <div class="modal-card change-modal-card">
-      <button id="change-close" class="modal-close" type="button">×</button>
-      <p class="eyebrow">DAILY OVERRIDE</p><h2>Báo thay đổi</h2>
-      <form id="change-form" class="change-form">
-        <label>Điều gì xảy ra?<select id="change-type"><option value="skip_workout">Bận / không tập được hôm nay</option><option value="partial_workout">Chỉ tập được một phần</option><option value="missed_meal">Lỡ / không ăn được một bữa</option><option value="offplan_meal">Ăn khác kế hoạch</option><option value="schedule_shift">Lịch sinh hoạt bị lệch</option><option value="sick_or_pain">Không khỏe / đau bất thường</option><option value="other">Khác</option></select></label>
-        <div id="change-dynamic"></div>
-        <label>Ghi chú<textarea id="change-note" rows="4" placeholder="Ví dụ: OT đến 22:00; bỏ bữa xế; chỉ tập 4/8 bài…"></textarea></label>
-        <button class="primary wide" type="submit">Lưu & tính lại kế hoạch</button>
-      </form>
-    </div>
-  </div>
-
-  <div id="exercise-modal" class="modal" aria-hidden="true"><div class="modal-card"><button id="modal-close" class="modal-close" type="button">×</button><div id="modal-content"></div></div></div>
-  <div id="sync-modal" class="modal" aria-hidden="true"><div class="modal-card"><button id="sync-close" class="modal-close" type="button">×</button></div></div>
-  <div id="toast" class="toast"></div>
-
-  <script src="pt-source.js?v=3"></script>
-  <script src="pt-data.js?v=3"></script>
-  <script src="pt-food-vn.js?v=1"></script>
-  <script src="pt-food-vn-v2.js?v=1"></script>
-  <script src="pt-food-v2-breakfast.js?v=1"></script>
-  <script src="pt-food-v2-products.js?v=1"></script>
-  <script src="pt-food-v2-apply.js?v=1"></script>
-  <script src="pt-cloud-config.js?v=2"></script>
+  <script src="pt-source.js?v=13"></script>
+  <script src="pt-data.js?v=13"></script>
+  <script src="pt-food-vn.js?v=13"></script>
+  <script src="pt-cloud-config.js?v=13"></script>
   <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/dist/umd/supabase.js"></script>
-  <script src="pt-v3.js?v=4"></script>
-  <script src="pt-v6.js?v=1"></script>
-  <script src="pt-v6-exercise.js?v=1"></script>
-  <script src="pt-v6-lifestyle.js?v=1"></script>
-  <script src="pt-v7.js?v=1"></script>
-  <script src="pt-food-v2-ui.js?v=1"></script>
-  <script src="pt-v8-workout.js?v=1"></script>
-  <script src="pt-v9.js?v=1"></script>
-  <script src="pt-v9-menu.js?v=1"></script>
-  <script src="pt-v10-assistant.js?v=1"></script>
-  <script src="pt-v11-push.js?v=1"></script>
-  <script src="pt-v11-rescue.js?v=3"></script>
-  <script src="pt-v12-planning-v2.js?v=2" data-v12-planning="1"></script>
+  <script src="pt-v13.js?v=13"></script>
 </body>
 </html>
