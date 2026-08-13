@@ -2,11 +2,11 @@
   "id": "./pt.html",
   "name": "MyGym Personal Assistant",
   "short_name": "My Assistant",
-  "start_url": "./pt.html#assistant",
+  "start_url": "./pt.html?v=13#assistant",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#090b0a",
-  "theme_color": "#0d0f0e",
+  "background_color": "#070a08",
+  "theme_color": "#070a08",
   "description": "Proactive personal fitness assistant",
   "lang": "vi"
 }
