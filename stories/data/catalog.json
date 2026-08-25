@@ -10,16 +10,7 @@
   ],
   "books": [
     {
-      "id":"p201",
-      "seriesLabel":"QUỲNH I · HỒ SƠ P201",
-      "title":"Oan Hồn P201",
-      "hook":"Ở phòng 201 có ma. Nhưng không phải mọi con ma đều đã chết.",
-      "description":"Năm 2012, tám nữ sinh dọn vào căn phòng ký túc xá từng bị bỏ không sau ba cái chết. Quỳnh bước vào một vụ án nơi con người giả làm ma để che giấu tội ác, còn những người chết thật sự lại tìm cách nói ra sự thật.",
-      "period":"09/2012",
-      "genre":"Horror Mystery · School Gothic",
-      "pov":"Ngôi ba giới hạn — Quỳnh",
-      "glow":"rgba(140,31,38,.34)",
-      "plannedChapters":10,
+      "id":"p201","seriesLabel":"QUỲNH I · HỒ SƠ P201","title":"Oan Hồn P201","hook":"Ở phòng 201 có ma. Nhưng không phải mọi con ma đều đã chết.","description":"Năm 2012, tám nữ sinh dọn vào căn phòng ký túc xá từng bị bỏ không sau ba cái chết. Quỳnh bước vào một vụ án nơi con người giả làm ma để che giấu tội ác, còn những người chết thật sự lại tìm cách nói ra sự thật.","period":"09/2012","genre":"Horror Mystery · School Gothic","pov":"Ngôi ba giới hạn — Quỳnh","glow":"rgba(140,31,38,.34)","plannedChapters":10,
       "chapters":[
         {"id":"01","title":"3 giờ 07","teaser":"Căn phòng bị khóa ba năm mở cửa trở lại.","date":"02/09/2012","file":"data/p201/01-3-gio-07.md"},
         {"id":"02","title":"Gốc chôm chôm","teaser":"Trâm chỉ vào một viên gạch dưới chân tường.","date":"03/09/2012","file":"data/p201/02-goc-chom-chom.md"},
@@ -27,16 +18,7 @@
       ]
     },
     {
-      "id":"ma-ki-su",
-      "seriesLabel":"HUY I · NHẬT KÝ ÂM DƯƠNG",
-      "title":"Ma Kí Sự",
-      "hook":"Tôi đi tìm ma để viết báo. Rồi có thứ bắt đầu viết trước cả tôi.",
-      "description":"Trương An Huy, cộng tác viên tòa soạn Âm Dương, bị một lá Ba Bích đẩy lên đường thu thập tư liệu ma quỷ dân gian. Những chuyến đi tưởng rời rạc dần chỉ về Chợ Âm, Huyền mạch kỳ lạ của chính Huy và một câu hỏi: rốt cuộc ai đang kể Ma Kí Sự?",
-      "period":"2018–2019",
-      "genre":"Folk Horror · Road Mystery · Dark Comedy",
-      "pov":"Ngôi nhất — Trương An Huy",
-      "glow":"rgba(41,77,92,.34)",
-      "plannedChapters":14,
+      "id":"ma-ki-su","seriesLabel":"HUY I · NHẬT KÝ ÂM DƯƠNG","title":"Ma Kí Sự","hook":"Tôi đi tìm ma để viết báo. Rồi có thứ bắt đầu viết trước cả tôi.","description":"Trương An Huy, cộng tác viên tòa soạn Âm Dương, bị một lá Ba Bích đẩy lên đường thu thập tư liệu ma quỷ dân gian. Những chuyến đi tưởng rời rạc dần chỉ về Chợ Âm, Huyền mạch kỳ lạ của chính Huy và một câu hỏi: rốt cuộc ai đang kể Ma Kí Sự?","period":"2018–2019","genre":"Folk Horror · Road Mystery · Dark Comedy","pov":"Ngôi nhất — Trương An Huy","glow":"rgba(41,77,92,.34)","plannedChapters":14,
       "chapters":[
         {"id":"01","title":"Lá Ba Bích","teaser":"Năm mươi hai người, một bộ bài và một chuyến công tác chẳng ai muốn nhận.","date":"Cuối 2018","file":"data/ma-ki-su/01-la-ba-bich.md"},
         {"id":"02","title":"Đường lên Mẫu Sơn","teaser":"Ông xe ôm bỏ tôi lại giữa đường núi lúc mặt trời vừa tắt.","date":"Mẫu Sơn · Lạng Sơn","file":"data/ma-ki-su/02-duong-len-mau-son.md"},
@@ -44,37 +26,19 @@
       ]
     },
     {
-      "id":"an-hong-ngai",
-      "seriesLabel":"QUỲNH II · CROSSOVER",
-      "title":"Án Hồng Ngài",
-      "hook":"Bảy năm sau, một người chết trở lại dưới khuôn mặt của kẻ khác.",
-      "description":"Huy mất tích. Quỳnh nhận một lá thư mời cưới từ Trâm và cùng Lan, Thi, Trung lên Hồng Ngài. Hai con người trong căn nhà Pá Tra đều mang tên của người khác; dưới sàn kho lúa là một bí mật đã được nuôi bằng máu suốt bảy năm.",
-      "period":"15–24/09/2019",
-      "genre":"Folk Horror · Crime Mystery · Occult Thriller",
-      "pov":"Ngôi ba giới hạn — Quỳnh, xen điểm nhìn chọn lọc",
-      "glow":"rgba(116,77,30,.38)",
-      "plannedChapters":18,
+      "id":"an-hong-ngai","seriesLabel":"QUỲNH II · CROSSOVER","title":"Án Hồng Ngài","hook":"Bảy năm sau, một người chết trở lại dưới khuôn mặt của kẻ khác.","description":"Huy mất tích. Quỳnh nhận một lá thư mời cưới từ Trâm và cùng Lan, Thi, Trung lên Hồng Ngài. Hai con người trong căn nhà Pá Tra đều mang tên của người khác; dưới sàn kho lúa là một bí mật đã được nuôi bằng máu suốt bảy năm.","period":"15–24/09/2019","genre":"Folk Horror · Crime Mystery · Occult Thriller","pov":"Ngôi ba giới hạn — Quỳnh, xen điểm nhìn chọn lọc","glow":"rgba(116,77,30,.38)","plannedChapters":18,
       "chapters":[
         {"id":"01","title":"Chuyến xe cuối","teaser":"Người lái xe đã chết bảy năm trước.","date":"14/09/2019","file":"data/an-hong-ngai/01-chuyen-xe-cuoi.md"},
-        {"id":"02","title":"Lá thư ngày giỗ","teaser":"Năm ngày nữa Trâm sẽ cưới ở một nơi Quỳnh chưa từng nghe nhắc.","date":"15/09/2019","file":"data/an-hong-ngai/02-la-thu-ngay-gio.md"},
+        {"id":"02","title":"Lá thư ngày giỗ","teaser":"Bốn ngày nữa Trâm sẽ cưới ở đúng nơi Huy từng để lại dấu vết cuối.","date":"15/09/2019","file":"data/an-hong-ngai/02-la-thu-ngay-gio.md"},
         {"id":"03","title":"Nhà Pá Tra","teaser":"Người đàn ông cầm dao chạy ra với một đoạn ruột đẫm máu trên tay.","date":"16/09/2019","file":"data/an-hong-ngai/03-nha-pa-tra.md"}
       ]
     },
     {
-      "id":"huyet-chung",
-      "seriesLabel":"TRUNG I · HẬU ÁN HỒNG NGÀI",
-      "title":"Huyết Chủng",
-      "hook":"Vật chứng biến mất khỏi Hồng Ngài. Vài tháng sau, Trung bắt đầu mất từng đoạn đời của chính mình.",
-      "description":"Một chuỗi án mạng tái hiện cách chết của năm sinh khí Huyết Ngải kéo Trung từ điều tra viên thành nghi phạm. Công an, Huyền Môn và Chợ Âm cùng săn một thứ không ai thống nhất được là con người, linh hồn hay một sinh vật mới sinh ra từ ký ức.",
-      "period":"2020",
-      "genre":"Occult Crime · Psychological Horror · Conspiracy Mystery",
-      "pov":"Đa điểm nhìn có kiểm soát — Trung / Thi / Quỳnh / Huy",
-      "glow":"rgba(91,36,97,.36)",
-      "plannedChapters":18,
+      "id":"huyet-chung","seriesLabel":"TRUNG I · HẬU ÁN HỒNG NGÀI","title":"Huyết Chủng","hook":"Vật chứng biến mất khỏi Hồng Ngài. Vài tháng sau, Trung bắt đầu mất từng đoạn đời của chính mình.","description":"Một chuỗi án mạng tái hiện dấu vết của những sinh khí Huyết Ngải kéo Trung từ điều tra viên thành người bị giám sát. Công an, Huyền Môn và Chợ Âm cùng săn một thứ không ai thống nhất được là con người, linh hồn hay một sinh vật mới sinh ra từ ký ức.","period":"01/2020","genre":"Occult Crime · Psychological Horror · Conspiracy Mystery","pov":"Đa điểm nhìn có kiểm soát — Trung / Thi / Quỳnh / Huy","glow":"rgba(91,36,97,.36)","plannedChapters":18,
       "chapters":[
-        {"id":"01","title":"Vật chứng số 17","teaser":"Biên bản hiện trường ghi mười sáu vật chứng. Thi nhớ rõ phải có mười bảy.","date":"Ba tháng sau Hồng Ngài","file":"data/huyet-chung/01-vat-chung-17.md"},
-        {"id":"02","title":"Bốn mươi bảy phút","teaser":"Camera ghi Trung rời nhà. Trung không nhớ mình từng thức dậy.","date":"02:13 sáng","file":"data/huyet-chung/02-bon-muoi-bay-phut.md"},
-        {"id":"03","title":"Dấu răng","teaser":"Nạn nhân đầu tiên chết với một vết cắn không khớp bất kỳ hàm răng nào.","date":"Hồ sơ 01/HC","file":"data/huyet-chung/03-dau-rang.md"}
+        {"id":"01","title":"Vật chứng số 17","teaser":"Biên bản hiện trường ghi mười sáu vật chứng. Thi nhớ rõ phải có mười bảy.","date":"Bốn tháng sau Hồng Ngài","file":"data/huyet-chung/01-vat-chung-17.md"},
+        {"id":"02","title":"Bốn mươi bảy phút","teaser":"Camera ghi Trung rời nhà. Đồng hồ lại khẳng định hắn ngủ suốt đêm.","date":"02:13 sáng","file":"data/huyet-chung/02-bon-muoi-bay-phut.md"},
+        {"id":"03","title":"Dấu răng","teaser":"Vết cắn trên nạn nhân thứ hai không khớp hàm răng của Trung — nhưng lại kéo cả nhóm về chén trà ở Hồng Ngài.","date":"Hồ sơ 02/HC","file":"data/huyet-chung/03-dau-rang.md"}
       ]
     }
   ]
