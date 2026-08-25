@@ -14,7 +14,14 @@
       "chapters":[
         {"id":"01","title":"3 giờ 07","teaser":"Căn phòng bị khóa ba năm mở cửa trở lại.","date":"02/09/2012","file":"data/p201/01-3-gio-07.md"},
         {"id":"02","title":"Gốc chôm chôm","teaser":"Trâm chỉ vào một viên gạch dưới chân tường.","date":"03/09/2012","file":"data/p201/02-goc-chom-chom.md"},
-        {"id":"03","title":"Người con gái trong gương","teaser":"Chỉ có Quỳnh nhìn thấy vị khách của phòng 201.","date":"04/09/2012","file":"data/p201/03-nguoi-trong-guong.md"}
+        {"id":"03","title":"Người con gái trong gương","teaser":"Chỉ có Quỳnh nhìn thấy vị khách của phòng 201.","date":"04/09/2012","file":"data/p201/03-nguoi-trong-guong.md"},
+        {"id":"04","title":"Người thứ chín","teaser":"Trâm rời phòng lúc gần ba giờ sáng để gặp một người còn sống.","date":"05/09/2012","file":"data/p201/04-nguoi-thu-chin.md"},
+        {"id":"05","title":"Nhật ký của Trang","teaser":"Một cuốn sổ chỉ thẳng vào Quân, còn chiếc điện thoại lại được sản xuất sau khi Trang đã chết.","date":"05/09/2012","file":"data/p201/05-nhat-ky-cua-trang.md"},
+        {"id":"06","title":"Mùi hoa nhài","teaser":"Quỳnh tỉnh dậy với bùn dưới móng tay và một lá thư chưa từng nằm trong phòng.","date":"06/09/2012","file":"data/p201/06-mui-hoa-nhai.md"},
+        {"id":"07","title":"Ba cái tên","teaser":"Trâm, Tùng và Như không phải ba người xa lạ tình cờ bước vào cùng một câu chuyện.","date":"06–07/09/2012","file":"data/p201/07-ba-cai-ten.md"},
+        {"id":"08","title":"Bánh trứng","teaser":"Khi cả phòng giả ngủ, con ma bước vào bằng chìa khóa.","date":"08/09/2012","file":"data/p201/08-banh-trung.md"},
+        {"id":"09","title":"Đêm mười bốn","teaser":"Năm năm sau cái chết của Trang, Tùng quay lại đúng chỗ mọi chuyện bắt đầu.","date":"14–15/09/2012","file":"data/p201/09-dem-muoi-bon.md"},
+        {"id":"10","title":"Ma tại tâm nhân","teaser":"Ma giả đã có tên. Ma thật chưa chắc cần một lời giải.","date":"15/09–21/12/2012","file":"data/p201/10-ma-tai-tam-nhan.md"}
       ]
     },
     {
