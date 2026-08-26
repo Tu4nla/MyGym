@@ -1,457 +1,397 @@
-Trung đến điểm hẹn lúc năm giờ mười phút sáng bằng một chiếc Ford Ranger màu xám phủ bụi, mặc nguyên cây đen từ áo khoác, quần, giày tới cái kính râm đang gài trên cổ áo dù trời còn chưa sáng hẳn.
+Trung tới điểm hẹn lúc năm giờ mười sáng bằng một chiếc Ford Ranger màu xám phủ một lớp bụi mỏng. Trời còn chưa sáng hẳn, vậy mà hắn đã mặc áo khoác đen, quần tối màu, giày cổ thấp và đeo một chiếc kính râm trên cổ áo như thể chỉ cần mặt trời nhú lên là sẽ dùng ngay.
 
-Thi nhìn hắn từ đầu xuống chân.
+Thi đứng cạnh vỉa hè, tay ôm cốc cà phê mua vội, nhìn hắn từ đầu xuống chân.
 
-— Mày đi bắt tội phạm hay đi đám tang?
+— Mày đi xa bốn ngày hay tính ở luôn trên núi?
 
-Trung mở cốp sau.
+Trung mở cửa cốp sau.
 
-— Màu đen tạo cảm giác đáng tin.
+— Có gì đâu, đồ tao một ba lô.
 
-— Với ai?
+— Tao nói bộ đồ kìa. Trời chưa sáng đã đen từ đầu tới chân.
 
-— Với bản thân tao.
+— Dễ giặt. Bẩn không thấy.
 
-Hắn quay sang Quỳnh và Lan, lập tức đổi giọng lịch sự.
+— Ừ, lý do nghe đúng chất đàn ông ở một mình.
 
-— Trần Đức Trung. Bạn đại học của con quỷ cái này, hiện làm cùng ngành nhưng khác đơn vị. Hai chị cứ gọi Trung cho trẻ.
+Trung không thèm cãi. Hắn quay sang Quỳnh với Lan đang đứng cạnh mấy túi hành lý, cười chào.
 
-Thi đá nhẹ vào ống chân hắn.
+— Trung. Bạn cũ của Thi. Hai bạn cứ gọi tên thôi, khỏi anh chị gì hết cho đỡ già.
 
-— Ai chị mày?
+Thi nhấp cà phê.
 
-Trung né được.
+— Nó học cùng khóa tao. Mặt nhìn hơi khó tin nhưng lái xe được.
 
-Quỳnh nhìn động tác đó rồi nhìn Lan.
+— Cảm ơn lời giới thiệu rất có tâm.
 
-Lan khẽ nhếch môi.
+Quỳnh bật cười. Lan chỉ gật đầu chào, mắt nhìn Trung thêm một nhịp trước khi chuyển sang chiếc xe.
 
-Ít nhất hai người này không cần thời gian làm quen.
+Trung xếp đồ khá nhanh nhưng không tùy tiện. Vali nặng xuống dưới, ba lô và nước lên trên, bộ sơ cứu được để sát cửa cốp. Trước khi lên xe, hắn đi một vòng kiểm tra lốp, cúi nhìn gầm, chụp đồng hồ công-tơ-mét rồi gửi một tin nhắn.
 
-Trung xếp hành lý rất có trật tự. Vali nặng xuống dưới, ba lô lên trên, nước và bộ sơ cứu để sát cửa cốp. Hắn kiểm tra lốp, chụp lại đồng hồ công-tơ-mét, gửi vị trí xe vào một đoạn chat rồi mới lên ghế lái.
+Quỳnh đứng gần đó nên thấy.
 
-Quỳnh để ý.
+— Đi ăn cưới mà kỹ vậy?
 
-— Đi chơi mà kỹ vậy?
+Trung khóa màn hình.
 
-— Thói quen nghề nghiệp.
+— Xe mượn của đơn vị. Có chuyện gì còn biết lúc nhận nó đang thế nào.
 
-— Nghề mày cụ thể làm gì?
+— À.
 
-— Ăn cơm nhà nước, chạy xe đường dài và bị Thi chửi.
+Câu trả lời hợp lý tới mức Quỳnh không hỏi tiếp.
 
-— Phần cuối không có trong mô tả công việc. — Thi đáp.
+Lan ngồi ghế sau cùng nó. Khi xe đã ra khỏi phố nhỏ và hòa vào dòng đường vành đai buổi sớm, Lan nghiêng đầu nói rất khẽ:
 
-Lan ngồi ghế sau cùng Quỳnh.
+— Nó không phải chỉ đi theo lái xe.
 
-Nó nói nhỏ:
+— Tao cũng nghĩ vậy.
 
-— Nó không phải người vô tư đi theo.
+— Thi biết mình biết không?
 
-— Tao biết.
+Quỳnh nhìn gương trước. Thi đang nói gì đó với Trung về đường đi, không để ý phía sau.
 
-— Vậy vẫn đi?
+— Chắc biết. Nhưng chưa cần hỏi.
 
-Quỳnh nhìn cửa kính. Hà Nội buổi sớm trôi ngược phía ngoài.
-
-— Tụi mình cũng đâu vô tư.
-
-***
-
-Đường lên Sơn La dài đủ để một nhóm người xa lạ trở nên quen hoặc ghét nhau.
-
-Trường hợp của Trung là cả hai.
-
-Hai giờ đầu, hắn nói gần như không ngừng. Chuyện Thi hồi đại học từng truy đuổi một tên móc túi bằng dép lê. Chuyện Trung lần đầu tập bắn vì căng thẳng bóp cò trễ đúng lúc huấn luyện viên đang quát. Chuyện một nghi phạm từng khai hết chỉ vì không chịu nổi việc Trung hỏi cùng một câu ba mươi bảy lần.
-
-Nhưng mỗi khi điện thoại mất sóng hoặc xe vào đoạn đèo vắng, hắn lập tức im, mắt quan sát gương nhiều hơn.
-
-Có hai chiếc xe đi cùng hướng khá lâu.
-
-Trung nhớ biển cả hai.
-
-Khi dừng ăn trưa, hắn chọn bàn nhìn được bãi xe.
-
-Thi không nói gì.
-
-Quỳnh cũng không hỏi nữa.
-
-Đến Bắc Yên vào đầu giờ chiều, thời tiết đổi hẳn. Mây tràn thấp qua các sườn núi. Đường lên Hồng Ngài nhỏ dần, có những đoạn một bên là vách đất, bên còn lại mở xuống thung lũng. Những mái nhà trình tường màu đất thấp thoáng giữa nương, khói bếp mảnh bay lên rồi tan vào sương.
-
-Quỳnh mở cửa kính một chút.
-
-Không khí lạnh và có mùi cỏ ẩm.
-
-— Đẹp thật. — nó nói.
-
-Trung đáp:
-
-— Đẹp nhưng từ giờ đừng tự ý tách nhóm.
-
-Thi quay sang.
-
-— Tự nhiên nghiêm túc vậy?
-
-— Đường lạ. Sóng chập chờn. Tối xuống nhanh.
-
-Hắn nói hoàn toàn hợp lý.
-
-Nhưng Thi nhìn hắn lâu hơn cần thiết.
-
-Khoảng ba giờ rưỡi, họ tới khu dân cư chính của Hồng Ngài.
-
-Quỳnh đưa địa chỉ trong thư cho một người đàn ông đang sửa hàng rào. Ông đọc, trao đổi vài câu với người phụ nữ cạnh đó rồi lắc đầu khi nghe tên Nguyễn Hoàng Bảo Trâm.
-
-Không ai biết.
-
-Nhưng khi Quỳnh nói tên A Hù, người đàn ông dừng tay.
-
-— Con ông A Mã?
-
-— Cháu không biết tên bố anh ấy. Chỉ biết sắp cưới vợ người Kinh.
-
-Ông gật chậm.
-
-Chỉ về con đường lên cao hơn.
-
-— Nhà cũ phía gần rừng. Người ta gọi nhà Pá Tra. Xa bản một đoạn.
-
-Thi hỏi:
-
-— Sao gọi vậy bác?
-
-Ông cười khó đoán.
-
-— Tên cũ người đời đặt. Nhà ấy trước có họ Pá ở. Sau đổi chủ mấy lần. Người nơi khác nghe chuyện Vợ chồng A Phủ thì thích gọi vậy thôi.
-
-Quỳnh ghi nhớ cách ông tách “chuyện” và “nhà thật”.
-
-Ít nhất không ai ở đây đang cố biến một tác phẩm văn học thành hồ sơ lịch sử.
-
-Trước khi họ đi, người phụ nữ bên hàng rào nói thêm:
-
-— Nếu tới thì tới trước tối.
-
-Trung cười xã giao.
-
-— Có chó dữ hả cô?
-
-Bà nhìn hắn.
-
-— Chó thì còn dễ.
-
-***
-
-Xe không lên hết được.
-
-Gần năm giờ, con đường chuyển thành lối đất hẹp sau trận mưa cũ, có đoạn bánh xe trượt sát rãnh. Trung dừng ở một khoảng tương đối bằng, quay đầu xe hướng ra ngoài rồi mới tắt máy.
-
-Thi hỏi:
-
-— Sao quay đầu sẵn?
-
-— Lúc cần chạy thì đỡ phải lùi.
-
-Nói xong hắn cười như đùa.
-
-Không ai cười.
-
-Bốn người lấy hành lý nhẹ, khóa xe, đi bộ.
-
-Trên sườn núi, hoàng hôn không đỏ rực như dưới đồng bằng. Ánh sáng chỉ rút dần khỏi các triền cây, để lại một màu xanh xám lạnh. Sương mọc lên từ những khe thấp. Xa xa có tiếng khèn hoặc một nhạc cụ hơi nào đó vọng qua núi, chỉ vài nốt rồi ngắt.
-
-Quỳnh đi sau Trung.
-
-Lan bất ngờ dừng.
-
-— Khoan.
-
-Cả nhóm quay lại.
-
-Nó nhìn sang một khoảng đất bên đường có vài ngôi mộ nằm rải rác phía xa, không phải nghĩa địa lớn.
-
-— Có mùi gì không?
-
-Thi hít.
-
-— Khói.
-
-Trung:
-
-— Với phân bò.
-
-— Không phải.
-
-Lan bước chậm về phía mép đường.
-
-Quỳnh cũng thấy.
-
-Một mùi tanh ngọt, rất nhẹ.
-
-Giống thịt để quá lâu.
-
-Giữa hai thân cây cách họ gần ba mươi mét, có thứ gì đó trắng nhợt đang thấp thoáng.
-
-Trung lập tức đưa tay cản ba người sau, tay kia luồn vào trong áo khoác.
-
-— Đứng đây.
-
-— Mày có thấy không? — Thi hỏi.
-
-— Thấy cái gì đó.
-
-Quỳnh nheo mắt.
-
-Một khuôn mặt phụ nữ.
-
-Không thân.
-
-Nó lơ lửng cao hơn mặt đất.
-
-Bên dưới có những dải đen đỏ thòng xuống.
-
-Hình ảnh lập tức gợi lại bài Quỳnh từng viết ở tòa soạn.
-
-— Ma Lai.
-
-Lan nói rất nhỏ:
-
-— Đừng nhìn thẳng lâu.
-
-Trung quay sang.
-
-— Mày đang nói nghiêm túc?
-
-— Cực kỳ.
-
-Thứ kia xoay đầu.
-
-Không lao tới.
-
-Chỉ nhìn họ.
-
-Rồi cười.
-
-Một tiếng cười phụ nữ vang từ quá xa so với vị trí khuôn mặt.
-
-Trung lùi một bước, nhưng vẫn đứng trước Thi.
-
-Lan lấy bật lửa từ túi, châm một mẩu giấy cuộn nhỏ đã chuẩn bị sẵn. Khói có mùi thảo dược bốc lên.
-
-— Đi. Đừng chạy.
-
-Bốn người lùi dần.
-
-Quỳnh vẫn nhìn dưới chân thay vì nhìn thẳng thứ kia.
-
-Nó nhận ra một điều kỳ lạ.
-
-Không có bóng.
-
-Nhưng với ánh sáng lúc chạng vạng, chuyện đó chưa đủ nói gì.
-
-Khi họ qua khúc cua, tiếng cười biến mất.
-
-Trung thở ra.
-
-— Tao xin phép hỏi một câu mang tính nghiệp vụ.
-
-— Hỏi. — Lan nói.
-
-— Cái quái gì vừa rồi?
-
-— Tao chưa biết.
-
-— Mày vừa bảo Ma Lai.
-
-— Tao bảo nó giống Ma Lai.
-
-Lan nhìn lại phía sau.
-
-— Nhưng có cái gì đó sai.
-
-Quỳnh hỏi:
-
-— Sai gì?
-
-— Không biết. Mùi? Cách nó đứng? Tao chưa từng gặp thật.
-
-Trung lẩm bẩm:
-
-— Tuyệt vời. Chuyên gia của chúng ta cũng đang beta test.
-
-Lan nhìn hắn.
-
-— Muốn quay lại hỏi nó không?
-
-— Tao nghĩ khoa học cho phép mình nghiên cứu từ xa.
-
-***
-
-Nhà Pá Tra xuất hiện sau màn cây lúc trời vừa tối hẳn.
-
-Đó là một cụm nhà cũ rộng hơn Quỳnh tưởng, gồm gian chính tường đất, mái lợp đã được sửa bằng vật liệu mới ở vài chỗ, một kho lúa phía bên trái và chuồng gia súc thấp phía sau. Hàng rào gỗ bao quanh không đều. Trước cổng treo mấy dải vải và giấy đã cũ, trên đó có ký hiệu Quỳnh không hiểu.
-
-Không giống điểm du lịch.
-
-Cũng không giống nhà chuẩn bị có đám cưới sau ba ngày.
-
-Không có người tụ tập.
-
-Không rạp.
-
-Không tiếng nói chuyện.
-
-Chỉ có một bóng đèn vàng trước hiên.
-
-Thi nhìn Quỳnh.
-
-— Thư nói ngày 19 đúng không?
+Lan quay ra cửa kính.
 
 — Ừ.
 
-— Hơi yên.
+***
 
-Trung nói:
+Đường từ Hà Nội lên Sơn La đủ dài để một nhóm chưa quen nhau buộc phải tìm cách sống chung trong một không gian nhỏ.
 
-— Có thể phong tục chuẩn bị khác mình. Đừng tự suy từ đám cưới dưới phố.
+Trung làm chuyện đó dễ hơn Quỳnh nghĩ.
 
-Câu đó khiến Quỳnh nhìn hắn thêm một lần.
+Hắn nói nhiều, nhưng không nói liên tục. Lúc đường đẹp, hắn kể mấy chuyện đại học với Thi: lần hai đứa chạy theo một tên móc túi ngoài chợ mà Thi mất dép giữa đường vẫn không chịu dừng; lần Trung thực hành bắn lần đầu căng tới mức nghe huấn luyện viên quát xong quên luôn mình đang thở. Thi nghe tới đâu sửa tới đó, nhất là những đoạn Trung kể có lợi cho mình.
 
-Thằng cha này nói nhảm nhiều nhưng khi cần lại biết dừng đúng chỗ.
+— Mày kể thiếu đoạn sau.
 
-Họ chưa kịp gọi thì cửa kho bên hông bật mở.
+— Đoạn nào?
 
-Một người đàn ông lao ra.
+— Đoạn mày vấp cái dây phân luồng rồi nằm ôm khẩu súng giả năm phút.
 
-Tay cầm dao.
+— Chi tiết không quan trọng.
 
-Áo và cánh tay dính máu.
+— Với tao rất quan trọng.
 
-Trong tay còn lại kéo theo một đoạn ruột dài.
+Quỳnh ngồi sau nghe hai đứa cãi, nhiều lúc quên mất lý do cả nhóm đang đi không hề bình thường.
 
-Thi rút súng nhanh hơn Quỳnh kịp nhận ra.
+Nhưng càng lên cao, Trung càng ít nói.
 
-— BỎ DAO XUỐNG!
+Có hai chiếc xe cùng hướng bám phía sau khá lâu. Quỳnh chỉ để ý vì thấy mắt hắn nhìn gương chiếu hậu nhiều lần. Khi một chiếc rẽ vào cây xăng, Trung thôi nhìn. Chiếc còn lại vượt lên ở đoạn đường rộng, hắn liếc biển số một cái rồi mới trở lại câu chuyện đang dở.
 
-Trung cũng đã đứng chéo sang bên, tạo góc không che đường của Thi.
+Lúc dừng ăn trưa, Trung chọn bàn nhìn được bãi xe. Thi ngồi xuống đối diện, không hỏi tại sao.
 
-Người đàn ông dừng phắt.
+Quỳnh cũng không hỏi.
 
-Mắt mở lớn.
+Nó bắt đầu hiểu Trung thuộc kiểu người nói đùa được vì đầu óc vẫn còn chỗ để đùa; khi thứ gì đó chiếm chỗ đó, hắn tự im.
 
-— Gì... gì vậy?
+Đầu giờ chiều, xe tới Bắc Yên. Thời tiết đổi nhanh hơn dưới đồng bằng: mây bò thấp qua những sườn núi, nắng đang có có thể bị che chỉ trong vài phút. Đường vào Hồng Ngài nhỏ dần, một bên là vách đất ẩm, bên kia mở xuống thung lũng. Những mái nhà màu đất hiện rồi mất sau các triền cây, khói bếp mỏng bị gió kéo ngang qua sương.
 
-Từ sau kho vang lên tiếng lợn kêu.
+Quỳnh hạ kính một chút. Không khí lạnh ùa vào, mang theo mùi cỏ ướt và đất.
 
-Quỳnh nhìn xuống đoạn ruột.
+— Đẹp ghê.
 
-Màu nhạt. Mỡ vàng. Không phải ruột người.
+Trung nhìn qua gương.
 
-Một phụ nữ từ cửa chính chạy ra.
+— Ừ. Nhưng từ đây ai muốn dừng đâu thì nói cả xe, đừng tự đi một mình nha. Sóng lúc có lúc không.
+
+Thi quay sang nhìn hắn.
+
+— Tao tưởng mày để tới tối mới bắt đầu làm người có trách nhiệm.
+
+— Tao lái xe chở ba người. Ít nhất phải giao đủ người về chứ.
+
+Giọng vẫn nhẹ, nhưng bàn tay hắn đặt trên vô-lăng chắc hơn lúc trước.
+
+Khoảng ba giờ rưỡi, họ vào tới khu dân cư chính. Quỳnh đem địa chỉ trong thư hỏi một người đàn ông đang sửa hàng rào gỗ. Ông đọc tên Trâm, lắc đầu. Người phụ nữ ngồi gần đó cũng không biết.
+
+Đến khi Quỳnh nói tên A Hù, người đàn ông mới dừng tay.
+
+— A Hù nhà ông A Mã?
+
+— Cháu không biết tên bố anh ấy. Chỉ biết sắp cưới vợ người Kinh.
+
+Ông nhìn người phụ nữ bên cạnh rồi chỉ lên con đường cao hơn.
+
+— Nhà cũ gần rừng. Đi tiếp một đoạn, hỏi nhà Pá Tra người ta biết.
+
+Thi hỏi:
+
+— Nhà Pá Tra là tên nhà thật hả bác?
+
+Ông cười.
+
+— Không. Hồi trước có nhà họ Pá ở đó, sau đổi chủ rồi. Khách dưới xuôi nghe chuyện *Vợ chồng A Phủ* hay hỏi, người ta gọi riết vậy cho dễ chỉ đường thôi.
+
+Quỳnh ghi nhớ câu này. Cách ông nói rất đời thường, hoàn toàn không có vẻ đang kể một truyền thuyết bí mật của địa phương.
+
+Người phụ nữ ngồi cạnh bỗng chen vào:
+
+— Đi thì tranh thủ trước tối. Đường đoạn trên khó nhìn.
+
+Trung gật.
+
+— Dạ, tụi cháu cảm ơn cô.
+
+Không ai hỏi thêm những câu kiểu “trên đó có gì”. Người địa phương vừa cho một lời khuyên về đường núi. Thế là đủ.
+
+***
+
+Chiếc Ranger không lên hết được.
+
+Gần năm giờ, lối đất hẹp lại sau một đoạn mưa làm xói mép đường. Trung thử thêm vài mét rồi dừng ở chỗ tương đối bằng, quay đầu xe hướng ra ngoài trước khi tắt máy.
+
+Thi mở cửa, nhìn cách hắn đỗ.
+
+— Chuẩn bị chạy sẵn hả?
+
+— Lỡ tối đường trơn thì quay ở đây dễ hơn trong kia.
+
+— Ừ.
+
+Thi nói vậy rồi đeo ba lô. Không ai pha thêm câu đùa.
+
+Cả bốn đi bộ phần còn lại.
+
+Hoàng hôn trên núi không đỏ như Quỳnh tưởng. Ánh sáng chỉ rút dần khỏi mặt đường và các triền cây, để lại màu xanh xám lạnh. Sương từ những khe thấp dâng lên từng mảng. Xa lắm có tiếng một nhạc cụ hơi vọng qua, vài nốt kéo dài rồi mất vào núi.
+
+Quỳnh đang đi sau Trung thì Lan dừng lại.
+
+— Khoan đã.
+
+Ba người còn lại quay về.
+
+Lan nhìn sang mép đường, nơi có vài ngôi mộ rải rác ở khoảng đất cao bên kia, cách khá xa lối đi.
+
+— Tụi mày có ngửi thấy gì không?
+
+Thi hít một hơi.
+
+— Khói bếp.
+
+Trung cũng nhìn quanh.
+
+— Có mùi ẩm thôi.
+
+Lan lắc đầu. Nó bước chậm thêm nửa bước về phía mép đường.
+
+Quỳnh lúc ấy mới nhận ra một mùi tanh pha ngọt rất nhạt, giống thịt để lâu trong một căn phòng đóng kín.
+
+Giữa hai thân cây cách họ vài chục mét có một mảng trắng.
+
+Ban đầu Quỳnh tưởng túi nylon mắc trên cành. Rồi thứ đó dịch sang bên.
+
+Một khuôn mặt phụ nữ.
+
+Không thấy vai.
+
+Không thấy thân.
+
+Bên dưới cái đầu trắng nhợt là những dải tối, đỏ đen lẫn vào bóng cây, thòng xuống theo một cách khiến dạ dày Quỳnh lạnh đi. Hình ảnh lập tức kéo nó về bài Ma Lai từng đọc và sửa ở tòa soạn.
+
+— Lan…
+
+Lan không quay lại.
+
+— Tao thấy.
+
+Trung đưa một tay ra ngang trước ba người phía sau, động tác gần như bản năng. Tay còn lại đã vào dưới áo khoác.
+
+— Đừng tiến thêm.
+
+Thứ giữa hai thân cây xoay đầu.
+
+Không lao tới.
+
+Nó chỉ nhìn.
+
+Rồi miệng mở thành một nụ cười rộng bất thường.
+
+Tiếng cười vang lên sau đó một nhịp, nhưng âm thanh có cảm giác đến từ chỗ xa hơn vị trí cái đầu.
+
+Thi đứng sát vai Trung.
+
+— Mày thấy giống cái Quỳnh viết không?
+
+Lan đáp thay:
+
+— Giống. Nhưng tao không chắc là cùng một thứ.
+
+Nó lấy từ túi một mẩu giấy cuộn nhỏ, châm lửa. Khói thảo dược cay nhẹ tỏa ra quanh tay.
+
+— Lùi lại. Đừng chạy.
+
+Bốn người lùi chậm. Quỳnh không cố nhìn thẳng khuôn mặt nữa; mắt nó chuyển xuống nền đất, giữ thứ kia ở rìa tầm nhìn. Ánh sáng quá yếu để dựa vào bóng đổ, nhưng cách vật đó đứng im giữa cây vẫn làm nó có cảm giác có gì đó không đúng.
+
+Qua khúc cua, tiếng cười tắt hẳn.
+
+Trung mới hạ tay khỏi áo.
+
+— Lan.
+
+— Gì?
+
+— Tao hỏi thật nha. Cái đó là gì?
+
+— Tao chưa biết.
+
+— Nãy mày nói giống Ma Lai.
+
+— Ừ, giống. Nhưng tao chỉ đọc và nghe người khác kể. Tao chưa từng gặp Ma Lai thật.
+
+Lan quay đầu nhìn đoạn đường vừa đi qua.
+
+— Với lại cái đó… có gì sai sai.
+
+— Sai chỗ nào?
+
+— Chưa chỉ được.
+
+Trung thở ra bằng mũi.
+
+— Ừ. Vậy mình cứ coi nó là thứ không nên quay lại kiểm tra một mình trước đã.
+
+Thi nhìn hắn.
+
+— Cuối cùng cũng có một câu tao đồng ý.
+
+Cả nhóm tiếp tục đi.
+
+***
+
+Nhà Pá Tra hiện ra sau màn cây lúc ánh sáng cuối cùng vừa rút khỏi con đường.
+
+Cụm nhà rộng hơn Quỳnh tưởng: gian chính tường đất dày, mái đã vá bằng vật liệu mới ở vài chỗ; bên trái có một kho lúa, phía sau là chuồng gia súc thấp và một khoảng sân không đều. Hàng rào gỗ bao quanh đã cũ. Trước cổng treo vài dải vải và giấy có những ký hiệu Quỳnh không hiểu.
+
+Nếu đây là nhà chuẩn bị có đám cưới sau ba ngày, nó yên tĩnh lạ.
+
+Không rạp.
+
+Không người ra vào.
+
+Không tiếng chuẩn bị cỗ.
+
+Chỉ có một bóng đèn vàng trước hiên và tiếng lợn kêu đâu đó phía sau.
+
+Thi nhìn Quỳnh.
+
+— Mười chín đúng không?
+
+— Ừ.
+
+— Vậy chắc mai mới bắt đầu chuẩn bị cũng có thể.
+
+Quỳnh gật. Nó không muốn tự lấy đám cưới ở Hà Nội làm chuẩn cho một nơi mình chưa biết.
+
+Họ vừa tới sát cổng thì cửa kho bên hông bật mở.
+
+Một người đàn ông chạy ra, tay cầm dao. Áo và cánh tay dính máu, bàn tay còn lại kéo theo một đoạn ruột dài đỏ nhạt.
+
+Thi rút súng trước khi Quỳnh kịp hiểu toàn bộ hình ảnh.
+
+— Đứng lại! Bỏ dao xuống!
+
+Người đàn ông khựng ngay giữa sân, mặt biến sắc.
+
+— Gì… gì vậy?
+
+Từ trong kho vang lên tiếng lợn kêu ré.
+
+Quỳnh nhìn kỹ hơn. Đoạn ruột trong tay hắn nhạt màu, dính mỡ vàng. Sau vách kho lộ ra phần thân một con lợn vừa mổ.
+
+Một phụ nữ từ cửa nhà chính chạy ra.
 
 — Quỳnh?
 
-Giọng nói ấy làm tất cả quay sang.
+Chỉ một tiếng gọi đó đã khiến Quỳnh quên mất khẩu súng của Thi trong vài giây.
 
-Cô gái đứng dưới ánh đèn hiên.
-
-Gầy hơn bảy năm trước. Tóc dài, da trắng hơn, mặc váy đơn giản. Đường nét khuôn mặt đúng là Trâm.
-
-Ít nhất thoạt nhìn.
-
-Quỳnh không nói được gì trong vài giây.
+Cô gái đứng dưới bóng đèn hiên. Nhỏ người, tóc dài hơn hồi đi học, gương mặt gầy đi nhưng các đường nét vẫn rất quen. Nếu chỉ nhìn mặt, Quỳnh có thể gọi tên ngay.
 
 — Trâm?
 
 Cô gái cười.
 
-Mắt cũng cười.
-
-Nhưng không hiểu sao Quỳnh thấy ánh mắt ấy tới chậm hơn nụ cười một nhịp.
-
 — Tao đây.
 
-Người đàn ông cầm dao nhìn khẩu súng của Thi rồi nhìn đám ruột trong tay, cuối cùng hiểu tình hình.
+Bảy năm bỗng trở nên rất ngắn.
 
-— Lợn. — hắn nói. — Tôi... làm lợn.
+Quỳnh bước lên hai bước. Trâm cũng đi xuống bậc hiên. Hai đứa ôm nhau trong một khoảnh khắc hơi vụng về của những người từng rất gần nhưng đã mất quá nhiều năm không biết phải bắt đầu lại từ đâu.
 
-Trung bật cười trước.
+— Mày tới thật…
 
-— Anh chọn màn chào khách ấn tượng thật.
+Giọng Trâm ở ngay bên tai.
 
-Thi hạ súng nhưng chưa cất ngay.
+Quỳnh nhắm mắt một nhịp rồi mở ra.
 
-Trâm giả — dù lúc ấy chưa ai biết — bước xuống bậc thềm.
+— Mày gửi thư thì tao tới chứ sao.
 
-— Đây là A Hù, chồng sắp cưới của tao.
+Khi buông nhau, nó thấy nụ cười trên môi Trâm còn đó. Chỉ có ánh mắt như phải mất thêm một thoáng mới theo kịp.
 
-A Hù cười hơi ngây ngô.
+Ở phía sau, người đàn ông vẫn cầm dao. Thi đã hạ nòng súng nhưng chưa cất.
 
-— Chào.
+Cô gái quay lại.
 
-Hắn quay vào kho đặt dao.
+— Trời, anh bỏ dao xuống đi. Làm người ta hết hồn.
 
-Khi cúi xuống, áo sau lưng kéo căng.
+Người đàn ông nhìn xuống tay mình như lúc đó mới nhận ra tình huống nhìn từ phía khách sẽ thành thế nào.
 
-Trung đứng gần nhất.
+— Tôi đang làm lợn. Nghe ngoài này có tiếng nên chạy ra.
 
-Hắn nhìn thấy dưới lớp áo mỏng, từ vai phải chạy chéo xuống lưng, là một đường sẹo gồ lên rất dài.
+Hắn đặt dao lên thớt gỗ cạnh kho, bỏ đoạn ruột vào chậu nhôm rồi quay lại, hai bàn tay vẫn còn đỏ máu.
 
-Nụ cười trên mặt Trung vẫn giữ nguyên.
+— Tôi là A Hù.
 
-Chỉ có mắt thay đổi.
+Trâm đứng bên cạnh hắn.
 
-Thi không thấy.
+— Chồng sắp cưới của tao.
 
-Quỳnh không thấy.
+Thi cất súng.
 
-Lan đang nhìn những dải giấy trước cửa.
+— Xin lỗi anh. Nhưng anh cầm dao dính máu chạy thẳng ra thì tôi phản xạ thôi.
 
-Trung lấy điện thoại như kiểm tra sóng.
+A Hù nhìn cô, cười có vẻ thật thà.
 
-Màn hình chỉ có một vạch.
+— Không sao. Tôi cũng không biết bạn Trâm có công an.
 
-Hắn gõ một tin nhắn nhưng chưa gửi:
+Trung lúc ấy mới bước tới, chìa tay.
 
-“Xác nhận mục tiêu có sẹo phù hợp.”
+— Trung. Tôi đi ké nhóm này.
 
-Rồi xóa đi.
+A Hù bắt tay hắn.
 
-Chưa đủ.
+— Anh cũng công an?
 
-Người có não không kết luận một người là kẻ đã chết bảy năm trước chỉ vì một vết sẹo.
+Trung hơi khựng rồi cười.
 
-Trung khóa màn hình.
+— Nhìn tôi giống vậy lắm hả?
 
-A Hù quay lại.
+— Cách đứng.
 
-Hai người nhìn nhau.
+— Vậy chắc tôi phải sửa.
 
-A Hù cười.
+A Hù cười theo.
 
-— Anh công an hả?
+Không hiểu sao Quỳnh thấy hai người nhìn nhau lâu hơn mức cần thiết trước khi buông tay.
 
-Trung cũng cười.
+Khi A Hù cúi nhấc chậu lên, áo sau lưng kéo căng. Một đường gồ dài dưới lớp vải chạy chéo từ vùng vai xuống lưng. Trung đứng gần nhất, ánh mắt dừng ở đó một nhịp rồi chuyển đi. Hắn lấy điện thoại kiểm tra sóng, ngón tay lướt trên màn hình nhưng không gửi gì.
 
-— Sao anh biết?
+Quỳnh chỉ kịp nhận ra hành động ấy rồi Trâm đã kéo tay nó.
 
-— Nhìn là biết.
+— Vào nhà đi, ngoài này lạnh lắm.
 
-— Hay vậy.
+Quỳnh quay sang.
 
-— Ừ.
+Trâm đang dùng tay phải vuốt phần tóc bị gió thổi dính lên má.
 
-Trong một khoảnh khắc rất ngắn, cái vẻ ngờ nghệch trên mặt A Hù biến mất.
+Một động tác hoàn toàn bình thường.
 
-Ánh mắt hắn tỉnh táo, lạnh và sắc.
+Nhưng Quỳnh nhớ rất rõ hồi ở phòng 201, Trâm thuận tay trái. Nó viết tay trái, cầm đũa tay trái, thậm chí lúc căng thẳng cũng dùng ngón cái trái cào lên móng trỏ.
 
-Rồi lại trở về bình thường.
+Bảy năm đủ để nhiều thứ thay đổi.
 
-Trung biết mình không nhìn nhầm.
+Thuận tay cũng có thể đổi sau chấn thương, bệnh tật hoặc đơn giản do tập luyện.
 
-Và ở cửa nhà, Quỳnh đang ôm Trâm sau bảy năm xa cách cũng vừa nhận ra một chuyện khác.
+Quỳnh không nói gì.
 
-Trâm ngày trước thuận tay trái.
-
-Người đang ôm nó vừa đưa tay phải lên vuốt tóc.
+Nó chỉ nhìn bàn tay phải của Trâm thêm một lần rồi bước qua cánh cổng.

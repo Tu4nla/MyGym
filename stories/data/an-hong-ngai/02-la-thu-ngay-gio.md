@@ -1,467 +1,495 @@
 Sáng 15 tháng 9, Hà Nội tạnh mưa.
 
-Bầu trời vẫn thấp, trắng đục, nhưng sau một đêm bị nước rửa, cây cối ven đường xanh đến mức gần như mới. Quỳnh ngủ chưa đầy ba tiếng. Trên đường về trường cũ, nó dừng xe hai lần vì đầu óc cứ quay lại tờ bản đồ tìm thấy sau bàn Huy.
+Bầu trời vẫn thấp và trắng đục, nhưng cây cối ven đường sau một đêm bị nước rửa xanh đến mức gần như mới. Quỳnh ngủ chưa đầy ba tiếng. Trên đường về trường cũ, có hai lần nó dừng đèn đỏ mà đầu óc vẫn còn mắc ở tấm bản đồ rơi ra sau bàn Huy.
 
 Hồng Ngài.
 
-Một cái tên tối qua còn hoàn toàn xa lạ.
+Một địa danh tối qua còn hoàn toàn xa lạ, chỉ trong vài tiếng đã xuất hiện hai lần: một lần từ miệng sếp Hòa, một lần trong vòng mực đỏ của người đã mất tích bốn tháng.
 
-Quỳnh đã chụp lại bản đồ, đặt xấp giấy về chỗ cũ rồi nhắn sếp Hòa rằng nó tìm thấy tài liệu có thể thuộc Huy. Sếp chỉ trả lời:
+Quỳnh đã chụp lại tờ bản đồ rồi đặt toàn bộ xấp giấy vào túi hồ sơ trên bàn Hòa trước khi về. Nó nhắn cho ông đúng một câu: **Em tìm thấy giấy của Huy bị kẹt sau bàn. Có Hồng Ngài. Em để trên bàn sếp.**
 
-“Để nguyên. Ngày kia nói.”
+Hòa trả lời lúc 02:07:
 
-Không giải thích.
+**Biết rồi. Đừng tự làm gì.**
 
-Quỳnh cũng chưa nói với ai về giấc mơ.
+Rõ ràng ông cũng chưa ngủ.
 
-Mười một giờ trưa, nó đứng trước cổng trường.
+Quỳnh chưa kể với ai về giấc mơ.
 
-Bảy năm đủ để nhiều thứ đổi khác.
+Gần mười một giờ trưa, nó dựng xe trước cổng trường cũ.
 
-Cổng sơn lại. Dãy phòng học có thêm một tầng. Quán nước nhỏ phía đối diện đã biến thành cửa hàng tiện lợi. Nhưng con đường vòng ra sau ký túc xá vẫn y như cũ, hẹp, có đoạn rễ cây đội lớp xi măng lên thành những gờ nhỏ.
+Bảy năm đủ để một nơi quen trở nên hơi sai. Cổng đã sơn lại. Dãy lớp học chính xây thêm một tầng. Quán nước từng bán mì tôm, trứng cút và những ly trà đá loãng phía đối diện biến thành cửa hàng tiện lợi sáng choang. Chỉ có con đường vòng ra sau khu ký túc vẫn hẹp như trước, vài đoạn rễ cây đã đội lớp xi măng lên thành những gờ nhỏ.
 
-Phòng 201 nằm khuất trên tầng hai.
+Từ dưới sân, Quỳnh nhìn lên cửa sổ phòng 201.
 
-Từ dưới sân Quỳnh nhìn thấy cửa sổ đóng kín.
+Cửa đóng kín.
 
-Sau vụ năm ấy, phòng được sửa lại và chuyển thành kho một thời gian. Về sau nhà trường có phương án khác, nhưng Quỳnh chưa bao giờ hỏi.
+Sau vụ năm ấy, phòng từng bị khóa, sửa lại rồi chuyển thành kho. Về sau nhà trường sắp xếp thế nào Quỳnh không hỏi. Không phải vì nó sợ nhìn thấy căn phòng; chỉ là có những nơi người ta đã sống đủ lâu trong ký ức rồi, không cần quay lại để chứng minh chúng còn tồn tại.
 
-Có những nơi con người không sợ quay lại.
+Gốc chôm chôm phía sau ký túc vẫn còn.
 
-Chỉ là không có lý do để quay lại.
+Cây già hơn, tán thưa và lệch hẳn về một phía. Vết cháy do sét trên thân đã khép lại phần nào nhưng không biến mất. Dưới gốc có một bát nhang nhỏ, cạnh đó là ba lọ hoa sứ trắng không giống nhau — có lẽ do nhiều người để lại qua các năm.
 
-Gốc chôm chôm vẫn còn.
+Quỳnh mang một bó cúc trắng và túi nhang mua trên đường.
 
-Cây già hơn, tán thưa hơn. Vết sét cháy năm nào đã liền một phần nhưng thân vẫn méo về một bên. Dưới gốc có một bát nhang nhỏ và ba bình hoa bằng sứ trắng.
+Quân đáng lẽ đi cùng. Sáng nay anh gọi báo xưởng có đơn gấp, chưa biết mấy giờ thoát được.
 
-Quỳnh mang theo hoa cúc và một túi nhang.
+— Em thắp giúp anh nha. Trang, Hoa, Quyên, mỗi người ba nén.
 
-Quân đáng lẽ đi cùng, nhưng sáng anh gọi báo có việc đột xuất ở xưởng, nhờ nó thắp giúp.
+Quỳnh đang đội mũ bảo hiểm, nghe tới đó thì hỏi:
 
-“Ba nén cho Trang, ba cho Hoa, ba cho Quyên.”
+— Còn ai nữa không?
 
-Quân dừng một lúc rồi nói thêm:
+Đầu dây im một chút.
 
-“Nếu em muốn thì thắp cho Tùng một nén.”
+— Nếu em muốn thì… Tùng một nén.
 
-Quỳnh hỏi tại sao.
+— Anh còn thắp cho hắn?
 
-Anh chỉ đáp:
+— Không phải năm nào cũng thắp.
 
-“Người chết rồi thì thôi.”
+Quân nói chậm hơn.
 
-Lúc đó Quỳnh không nói cho anh biết đêm qua mình vừa thấy Tùng trong mơ.
+— Anh chỉ nghĩ nếu nó chết thật rồi thì thôi. Người sống còn phải sống tiếp.
 
-Bây giờ nó ngồi xuống trước gốc cây.
+Quỳnh không đáp ngay. Nó nhớ bàn tay lạnh trong giấc mơ, nhớ câu *mày sẽ phải trả giá*.
 
-Có người tới trước.
+— Để em tính.
 
-Trong bát nhang còn ba chân nhang mới. Tàn mới rụng, chưa ướt sương. Một cành hoa trắng đặt cạnh rễ cây, còn tươi.
+Quân không ép.
 
-Quỳnh chạm vào đất quanh chân nhang.
+Bây giờ, đứng dưới gốc cây, Quỳnh phát hiện đã có người tới trước.
 
-Khô.
+Trong bát nhang còn ba chân nhang mới. Tàn xám rụng trên lớp đất phía dưới vẫn khô, chưa bị hơi ẩm sáng sớm làm bết lại. Bên rễ cây có một cành hoa trắng còn tươi, cuống mới cắt.
 
-Người đó tới sáng nay.
+Quỳnh ngồi xuống, chạm đầu ngón tay vào đất quanh chân nhang rồi nhìn đồng hồ.
 
-Nó nhìn quanh.
+Người đó tới không lâu.
 
-Sân sau vắng.
+Sân sau vắng. Phía khu thể thao xa hơn có tiếng bóng nảy và tiếng học sinh gọi nhau. Một tiết học bình thường đang diễn ra ở dãy nhà bên cạnh; âm thanh ấy khiến khoảng đất dưới gốc cây bớt giống một nơi tách khỏi hiện tại.
 
-Xa hơn có tiếng học sinh chơi bóng ở khu thể thao.
+Quỳnh cắm hoa, đốt chín nén nhang. Khói trầm quyện trong không khí sau mưa.
 
-Quỳnh cắm hoa, đốt chín nén nhang.
+Nó nhìn ba lọ hoa trước mặt, nhất thời không biết nên nói với ai trước.
 
-Mùi khói trầm bay lên trong không khí ẩm.
+— Em tới trễ chút.
 
-— Em lại tới đây rồi.
+Câu nói bật ra nhỏ tới mức gần như chỉ đủ cho mình nghe.
 
-Nó nói rất nhỏ.
+Trang từng xuất hiện trong giấc mơ để đẩy nó tới một mảnh sự thật. Quyên từng đứng ngay giữa phòng 201 mà chỉ một mình Quỳnh nhìn thấy. Hoa thì khác — Quỳnh biết cô qua lời kể, hồ sơ và cái cây này nhiều hơn qua bất kỳ hình ảnh nào.
 
-Không rõ nói với ai trong ba người.
+Bảy năm rồi cả ba không xuất hiện nữa.
 
-Trang từng xuất hiện trong giấc mơ để đưa bằng chứng cho nó.
+Quỳnh luôn coi đó là điều tốt.
 
-Quyên từng đứng giữa phòng 201 mà chỉ mình nó nhìn thấy.
+Nó chia chín nén nhang thành ba phần, cắm xuống. Khi chỉ còn bật lửa trong tay, Quỳnh vẫn ngồi yên thêm một lúc.
 
-Còn Hoa, Quỳnh chưa từng thực sự gặp.
+Cuối cùng nó lấy một nén nữa.
 
-Bảy năm qua, không ai trong ba người xuất hiện nữa.
-
-Quỳnh coi đó là điều tốt.
-
-Nó cắm ba nén đầu tiên.
-
-Ba nén thứ hai.
-
-Ba nén cuối.
-
-Sau đó lấy thêm một nén.
-
-Giữ trên ngọn lửa bật lửa rất lâu.
+Ngọn lửa liếm vào đầu nhang, đỏ lên rồi bắt khói.
 
 — Cái này không phải tha thứ đâu.
 
-Quỳnh nói.
+Quỳnh nói, mắt vẫn nhìn xuống đất.
 
-— Chỉ là nếu mày chết thật... thì đừng quay lại nữa.
+— Nếu mày chết thật thì… nằm yên giùm tao.
 
-Nó cắm nén nhang riêng sang một bên.
+Nó cắm nén nhang riêng sang mép bát.
 
-Một cơn gió nhẹ thổi tới.
+Một cơn gió rất nhẹ lùa qua tán cây. Khói của chín nén kia nghiêng cùng một hướng. Nén nhang đặt riêng chớp đỏ một lần rồi tắt.
 
-Chín nén nhang kia nghiêng khói về cùng một hướng.
+Quỳnh nhìn đầu nhang đen đi.
 
-Riêng nén của Tùng tắt phụt.
-
-Quỳnh nhìn nó.
-
-Không châm lại.
+Nó không châm lại.
 
 ***
 
 — Cháu là Quỳnh phải không?
 
-Một giọng đàn ông gọi phía sau.
+Giọng đàn ông từ sau lưng làm nó quay lại.
 
-Quỳnh quay lại.
-
-Chú bảo vệ lớn tuổi đang đứng bên lối đi. Nó không nhận ra chú. Có lẽ người mới.
-
-— Dạ.
-
-— Hồi trước ở phòng 201?
+Một chú bảo vệ lớn tuổi đứng cách đó vài bước, tay cầm chiếc mũ lưỡi trai vừa tháo ra để quạt. Quỳnh không nhận ra chú; có lẽ vào trường sau thời nó học.
 
 — Dạ. Sao chú biết cháu?
 
-— Có người gửi cái này cho cháu.
+— Hồi trước cháu ở phòng 201 đúng không?
 
-Chú lấy trong túi áo một phong thư màu kem.
+Quỳnh đứng lên.
 
-Mặt trước viết:
+— Dạ.
 
-GỬI QUỲNH — P201.
+Chú bảo vệ lấy từ túi áo một phong thư màu kem đã hơi cong ở một góc.
 
-Tay Quỳnh lạnh đi.
+— Có cô gái gửi cái này. Cô ấy nói hôm nay nếu thấy một cô tới thắp nhang ở gốc cây thì đưa giúp.
 
-— Ai gửi vậy chú?
+Mặt trước phong bì viết bằng bút mực xanh:
 
-— Một cô gái. Đội mũ, đeo khẩu trang. Sáng sớm chú mới vào ca thì cô ấy đưa, nói nếu hôm nay thấy một cô gái tới thắp nhang ở cây thì giao giúp.
+**GỬI QUỲNH — P201**
 
-— Cô ấy biết cháu sẽ tới?
+Quỳnh không nhận ngay.
 
-— Chú cũng hỏi. Cô ấy chỉ nói “Quỳnh năm nào cũng nhớ ngày này”.
+— Cô ấy gửi lúc nào vậy chú?
 
-Không đúng.
+— Sáng sớm. Chú mới vào ca được chút.
 
-Quỳnh không năm nào cũng tới.
+— Cô ấy biết chắc hôm nay cháu tới à?
 
-Hai năm đầu có. Sau đó khi đi học xa, có năm Quân đi thay.
+— Chú cũng hỏi vậy. Cô ấy nói cháu nhớ ngày này, kiểu gì cũng có người tới.
 
-Người gửi không thể chỉ dựa vào thói quen.
+Câu đó nghe có vẻ hợp lý, nhưng không đúng hẳn. Hai năm đầu Quỳnh có tới. Sau khi đi học đại học, có năm Quân tới thay, có năm cả hai chỉ nhờ người quen gửi hoa.
 
-— Chú nhớ cô ấy như thế nào không?
+Người gửi có thể đoán.
 
-— Tầm tuổi cháu. Người hơi gầy. Nói giọng Hà Nội. Tay trái có đeo nhẫn bạc.
+Nhưng không thể biết chắc chỉ dựa vào thói quen.
 
-— Đi xe gì?
+— Chú nhớ cô ấy không? Tóc, giọng, xe… gì cũng được.
 
-— Có xe ô tô chờ ngoài cổng. Chú không nhìn biển.
+Chú bảo vệ suy nghĩ.
 
-Quỳnh nhận thư.
+— Người hơi gầy, tầm tuổi cháu. Đội mũ, đeo khẩu trang. Nói giọng Hà Nội. Tay trái có cái nhẫn bạc. Ngoài cổng có xe ô tô chờ, chú không để ý biển.
 
-— Camera cổng còn lưu không chú?
+Quỳnh nhận phong thư bằng hai ngón tay ở mép.
 
-Chú bảo vệ hơi ngạc nhiên.
+— Camera cổng có lưu không chú?
 
-— Chắc có. Nhưng muốn xem phải xin ban giám hiệu.
+Chú nhìn nó, hơi bật cười.
 
-— Dạ. Cháu hỏi vậy thôi.
+— Cháu hỏi như công an vậy.
 
-Quỳnh không mở thư ngay.
+— Bạn cháu làm công an, bị lây đó chú.
 
-Nó chụp mặt ngoài trước.
+— Camera thì có. Nhưng muốn xem chắc phải xin ban giám hiệu.
 
-Sau đó dùng chìa khóa rạch mép phong bì, tránh chạm nhiều vào phần giữa.
+— Dạ, cháu hiểu. Cảm ơn chú.
 
-Một thói quen Thi từng dạy nó sau P201: nếu thứ gì khiến mày nghi, đừng phá dấu vết trước khi biết nó có cần làm chứng cứ hay không.
+Quỳnh chưa mở thư. Nó chụp lại cả hai mặt trước, sau, rồi dùng chìa khóa rạch dọc mép dán thay vì xé ngang. Thói quen này Thi dạy nó từ nhiều năm trước: thứ gì làm mày thấy không ổn thì cứ giữ nguyên nhiều nhất có thể, tới lúc biết nó vô dụng cũng chưa muộn.
 
-Bên trong là một tờ giấy viết tay.
+Bên trong chỉ có một tờ giấy viết tay.
 
-“Quỳnh thân,
+Quỳnh đọc chậm.
 
-Không biết mày còn giận tao không. Tao nghĩ đã lâu lắm rồi, đủ lâu để tất cả tụi mình có thể sống tiếp.
+**Quỳnh,**
 
-Tao vẫn ổn. Mày đừng tìm tao nữa.
+**Không biết mày còn giận tao không. Tao nghĩ lâu rồi, chắc cũng tới lúc mỗi đứa sống cuộc đời của mình. Tao vẫn ổn nên mày đừng tìm tao nữa.**
 
-Ngày 19/9 này tao cưới. Chồng tao tên A Hù, nhà ở Hồng Ngài, Bắc Yên, Sơn La. Tao biết đường xa và mọi chuyện giữa tụi mình rất khó nói, nhưng nếu được, tao muốn mày, Lan và Thi tới.
+**Ngày 19/9 tao cưới. Chồng tao tên A Hù, nhà ở Hồng Ngài, Bắc Yên, Sơn La. Đường xa, chuyện giữa tụi mình cũng khó nói, nhưng nếu được tao muốn mày, Lan với Thi tới. Tao không muốn ngày đó nhìn quanh lại chẳng có ai từ hồi trước.**
 
-Tao không muốn ngày quan trọng nhất đời mình lại không có một người nào từ quãng đời cũ.
+**Đừng báo cho nhiều người. Nhà bên này không quen đông người lạ.**
 
-Đừng báo cho nhiều người. Gia đình bên này không thích người lạ.
+**Tao chờ.**
 
-Tao chờ.
+**Trâm.**
 
-Trâm.”
+Quỳnh đọc xong mà ngón tay vẫn giữ nguyên ở góc giấy.
 
-Quỳnh đọc xong.
+Hồng Ngài.
 
-Rồi đọc lại từ đầu.
+Nó đọc lại một lần nữa, lần này không nhìn nội dung trước mà nhìn cách xuống dòng, độ nghiêng chữ, những chỗ đầu bút ấn mạnh.
 
-HỒNG NGÀI.
+Nếu không có tấm bản đồ tối qua, có lẽ Quỳnh vẫn thấy lá thư lạ. Với Hồng Ngài nằm ngay trong hồ sơ Huy, cảm giác đó lập tức đổi thành một thứ khác.
 
-Trong đầu nó hiện đúng vòng tròn mực đỏ trên bản đồ của Huy.
+Nó không gọi Quân.
 
-Tỷ lệ trùng hợp không phải bằng không.
-
-Nhưng đủ thấp để Quỳnh không thể coi như chưa thấy.
-
-Nó lấy điện thoại gọi Lan.
+Người đầu tiên Quỳnh gọi là Lan.
 
 ***
 
-Ba người gặp nhau lúc ba giờ chiều tại một quán cà phê yên tĩnh trên đường Nguyễn Chí Thanh.
+Ba giờ chiều, Quỳnh ngồi trong một quán cà phê trên đường Nguyễn Chí Thanh, phong thư nằm giữa bàn trong túi nhựa trong suốt nó xin ở cửa hàng văn phòng phẩm.
 
-Lan tới đầu tiên.
+Lan tới trước. Bảy năm làm gương mặt nó bớt nét con nít nhưng không làm thay đổi cách nó quan sát người khác trước khi cất lời. Tóc đã cắt ngang vai thay vì để dài như hồi học sinh; áo sơ mi xám nhạt, quần tối màu, không trang sức ngoài một sợi dây mảnh ở cổ tay. Ba năm học và làm việc ở Thái Lan khiến thỉnh thoảng Lan phải dừng lại tìm một từ tiếng Việt cho đúng, nhưng lúc ngồi nghe vẫn có thói quen nhìn rất lâu và ít chớp mắt.
 
-Bảy năm khiến gương mặt nó bớt nét con nít, tóc cắt ngang vai, ăn mặc đơn giản. Ba năm học và làm việc ở Thái Lan khiến giọng nó đôi lúc lẫn vài từ chuyên môn tiếng Anh, nhưng cái cách ngồi im nghe người khác nói vẫn y hệt hồi mười bảy tuổi.
+Nó đọc ảnh lá thư trên điện thoại, không đụng vào phong bì.
 
-Thi tới sau mười phút, mặc sơ mi xanh nhạt, quần đen, tóc buộc cao. Nó đặt mũ bảo hiểm xuống bàn rồi nhìn hai đứa.
+— Chữ nhìn giống không?
 
-— Một đứa nhà báo, một đứa tâm lý. Gọi công an tới cà phê buổi chiều là chuẩn bị thú tội vụ gì?
+— Tao chưa nhớ đủ để nói.
 
-Quỳnh đẩy phong thư qua.
+Quỳnh đáp.
 
-Thi không cầm ngay.
+— Tối tao về lục sổ cũ.
 
-— Ai chạm rồi?
+Lan kéo ảnh lên xuống thêm lần nữa.
 
-— Chú bảo vệ, tao. Tao cầm mép.
+— Giọng thì hơi lạ.
 
-Thi nhìn nó.
+— Lạ chỗ nào?
 
-— Tiến bộ.
+— Chưa biết. Tao mới đọc một lần.
 
-— Nhờ mày ám.
+Quỳnh không giục.
 
-Thi lấy khăn giấy lót dưới thư, đọc.
+Thi tới khoảng mười phút sau, vẫn mặc sơ mi xanh nhạt và quần đen như vừa rời cơ quan, tóc buộc cao, dưới mắt có một quầng mờ vì thiếu ngủ. Nó đặt mũ bảo hiểm xuống ghế trống, kéo ghế ngồi rồi nhìn hai đứa.
 
-Lan đọc ảnh Quỳnh chụp trên điện thoại.
+— Hai đứa hẹn gấp vậy, có đứa nào gây chuyện chưa?
 
-Khi tới chữ Hồng Ngài, Lan ngẩng lên.
+— Chưa. — Quỳnh đẩy túi thư về phía nó. — Nhưng có cái này.
 
-— Mày nói tối qua tìm thấy cái tên này trong tài liệu của Huy?
+Thi vừa đưa tay đã dừng.
+
+— Ai cầm rồi?
+
+Quỳnh bật cười.
+
+— Chú bảo vệ với tao. Tao chỉ cầm mép, chụp trước rồi mới mở.
+
+Thi nhìn nó một giây, gật đầu.
+
+— Ừ, vậy được.
+
+— Khen tao một câu khó vậy hả?
+
+— Tao vừa khen rồi đó.
+
+Lan chống cằm.
+
+— Hai đứa bây nói chuyện sau. Đọc đi.
+
+Thi lót tờ khăn giấy dưới phong bì, không phải vì nghĩ đây chắc chắn là vật chứng mà đơn giản vì nó đã quen không làm hỏng thứ mình chưa hiểu. Đọc tới chữ **Hồng Ngài**, tay Thi dừng trên mép giấy rất ngắn.
+
+Quỳnh thấy.
+
+— Mày biết chỗ này à?
+
+— Biết địa danh.
+
+— Còn Huy?
+
+Thi ngước lên.
+
+Quỳnh mở ảnh tấm bản đồ trên điện thoại, đặt cạnh lá thư.
+
+— Tối qua tao tìm thấy cái này sau bàn Huy. Sếp Hòa xác nhận điểm cuối trong lịch trình của Huy là Hồng Ngài.
+
+Thi nhìn tấm ảnh lâu hơn lần đầu đọc thư.
+
+— Hồ sơ mất tích đã báo chưa?
+
+— Bốn tháng rồi. Tòa soạn báo ngay sau khi mất check-in.
 
 — Ừ.
 
-Quỳnh mở ảnh bản đồ.
+Chỉ một tiếng đó thôi, nhưng Quỳnh thấy Thi không hề bất ngờ như người mới nghe tên vụ việc.
 
-Thi nhìn kỹ.
+— Mày từng nghe chuyện Huy rồi đúng không?
 
-— Người mất tích ở tòa soạn mày?
+Thi đưa cốc nước lên, không uống.
 
-— Bốn tháng.
+— Có nghe trong hệ thống. Vụ người trưởng thành mất tích có dấu hiệu liên tỉnh. Không phải đơn vị tao thụ lý trực tiếp.
 
-— Báo công an chưa?
+Một câu trả lời rất đúng nghề.
 
-— Báo lâu rồi.
+Lan nhìn Thi vài giây nhưng không hỏi.
 
-Thi không phản ứng gì đặc biệt, nhưng Quỳnh thấy ngón tay nó dừng một nhịp trên thành cốc.
+Quỳnh cũng chưa ép. Nó quay lại lá thư.
 
-— Mày biết vụ Huy à? — Quỳnh hỏi.
+— Theo mày có giả không?
 
-— Nghe qua hệ thống thôi. Người trưởng thành mất tích, có dấu hiệu liên tỉnh. Không phải đơn vị tao trực tiếp làm.
+Thi lắc đầu.
 
-Câu trả lời rất chuẩn.
+— Chưa biết. Một lá thư thì chưa đủ. Nhưng có mấy chỗ tao muốn kiểm: người gửi biết hôm nay mày tới trường bằng cách nào; tại sao không gọi thẳng; tại sao lại dặn đừng báo nhiều người. Với lại nếu đúng Trâm thì phải tìm mẫu chữ cũ.
 
-Chuẩn đến mức Lan nhìn Thi lâu hơn bình thường.
+Lan đặt điện thoại xuống.
 
-Quỳnh hỏi:
+— Tao thấy cái câu “tao không muốn ngày đó nhìn quanh lại chẳng có ai từ hồi trước” không giống nó lắm.
 
-— Còn thư?
+— Bảy năm rồi. — Quỳnh nói.
 
-Thi đọc lại.
+— Tao biết. Người ta đổi cách nghĩ, đổi từ mình dùng. Nhưng có những nhịp câu rất khó đổi hết.
 
-— Chưa đủ để nói giả. Nhưng có điểm lạ. Tại sao Trâm không gọi? Tại sao biết hôm nay mày tới trường? Tại sao bảo “đừng báo nhiều người”?
+Thi nhướng mày.
 
-Lan nói:
+— Mày đọc được nhịp câu luôn hả?
 
-— Và “tao không muốn ngày quan trọng nhất đời mình lại không có một người nào từ quãng đời cũ”. Trâm không nói kiểu này.
+— Không. Tao chỉ nói tao thấy lạ, chưa kết luận gì.
 
-Quỳnh nhìn Lan.
+— Vậy hợp lý.
 
-— Bảy năm rồi.
+Cả ba im một lúc.
 
-— Người ta thay đổi, nhưng cách cấu trúc câu ít thay đổi hơn mình nghĩ.
+Ngoài cửa kính, dòng xe giờ tan tầm bắt đầu đông. Một bàn phía trong có hai sinh viên đang tranh nhau ổ cắm sạc. Nhạc trong quán nhỏ tới mức chỉ nghe tiếng bass đều đều.
 
-Thi dựa ghế.
+Quỳnh nhìn lại chữ ký **Trâm**.
 
-— Mày còn mẫu chữ Trâm không?
+— Tao vẫn muốn đi.
 
-— Chắc đâu đó còn sổ cũ.
-
-— Tìm.
-
-Quỳnh gật.
-
-Lan hỏi:
-
-— Nhưng mày vẫn muốn đi?
-
-— Muốn.
-
-Thi nhíu mày.
+Thi đặt ngay câu hỏi:
 
 — Vì Trâm hay vì Huy?
 
 — Cả hai.
 
-Quỳnh nhìn lá thư.
+Quỳnh xoay phong thư về phía mình.
 
-— Nếu thư thật, tao muốn gặp Trâm. Nếu thư giả, tao càng muốn biết ai biết chuyện cũ của tụi mình và tại sao lại chọn đúng nơi Huy mất dấu.
+— Nếu thư thật, tao muốn biết bảy năm qua Trâm sống thế nào và tại sao giờ mới gọi. Nếu thư giả thì người gửi biết quá nhiều chuyện cũ, lại chọn đúng nơi Huy mất dấu. Trường hợp nào cũng không thể coi như thư mời cưới bình thường được.
 
-Lan không phản đối.
+Lan gật chậm.
 
-Nó chỉ hỏi:
+— Ngày cưới mười chín. Hôm nay mười lăm.
 
-— Ngày cưới 19. Hôm nay 15. Đi ngày mai thì có hai ngày để xem tình hình trước.
+— Mai đi. — Quỳnh nói. — Tới sớm, ở ngoài bản trước một ngày nếu cần. Không lao thẳng vào nhà người ta rồi mới nghĩ.
 
-Thi nhìn Lan.
+Thi nhìn hai đứa, môi hơi cong.
 
-— Mày nói nghe như chuẩn bị đi điều tra chứ không phải dự đám cưới.
+— Hai người lên kế hoạch nghe không giống đi ăn cưới lắm.
 
-— Mày là công an mà còn hỏi câu đó?
+Quỳnh nhìn nó.
 
-Thi bật cười.
+— Mày ngồi đây với tụi tao thì cũng đâu còn giống khách dự cưới.
 
-— Tao đang có vụ.
+Thi chưa kịp trả lời thì điện thoại rung trên bàn.
 
-Điện thoại nó rung ngay lúc ấy.
+Màn hình chỉ hiện một chữ **K**.
 
-Màn hình chỉ hiện một chữ:
-
-K.
-
-Thi đứng lên.
+Nét mặt nó thay đổi gần như không thấy, nhưng giọng khi đứng lên đã phẳng hơn.
 
 — Tao nghe máy chút.
 
-Nó đi ra ngoài quán.
-
-Qua lớp kính, Quỳnh thấy Thi không đứng yên. Nó đi xuống cuối vỉa hè, quay lưng vào camera của quán rồi mới nghe.
+Thi đi ra ngoài. Qua lớp kính, Quỳnh thấy nó không đứng ngay trước cửa mà đi xuống gần cuối vỉa hè, chọn chỗ khuất camera trong quán rồi mới bắt máy.
 
 Lan nhìn theo.
 
-— Nó đang giấu mình chuyện gì đó.
+— Nó biết nhiều hơn nó nói.
 
 — Công việc mà.
 
-— Có thể.
+— Ừ. Có thể.
 
-Lan khuấy ly trà không đường.
+Lan khuấy ly trà đã hết đá.
 
-— Hoặc chuyến này vốn đã có người muốn Thi đi.
+— Hoặc người gọi kia đang chờ đúng chuyện này.
 
-Quỳnh nhìn bạn.
+Quỳnh quay sang.
 
-— Mày biết gì?
+— Mày biết gì à?
 
 — Không.
 
-— Vậy sao nói?
+— Vậy đừng làm tao căng.
 
-Lan nhún vai.
+Lan bật cười rất nhẹ.
 
-— Tao làm nghề đọc người. Đôi lúc tao cũng được phép khó chịu một cách có cơ sở.
+— Tao chỉ nhìn Thi thôi. Mày cũng nhìn thấy mà.
 
-Năm phút sau Thi quay lại.
+Năm phút sau Thi quay vào, kéo ghế ngồi xuống như chưa có chuyện gì.
 
-— Vụ tao tạm hoãn. Sếp cho nghỉ hai tuần.
+— Tao xin nghỉ được mấy ngày. Mai đi được.
 
 Quỳnh và Lan cùng nhìn nó.
 
-— Nhanh vậy? — Quỳnh hỏi.
+— Mày vừa xin là được luôn? — Quỳnh hỏi.
 
-— Người đẹp thường được ưu ái.
+— Vụ tao đang làm có người thay.
 
-— Mày nói câu đó giống một thằng tao chưa từng gặp nhưng nghe kể rất nhiều.
+Thi đáp tỉnh bơ.
 
-Thi cầm cốc uống.
-
-— Vậy mai đi.
-
-— Còn một chuyện. — Quỳnh nói. — Đi ba đứa con gái vào nơi lạ, tao muốn có thêm người.
-
-Thi im hai giây.
-
-Rồi cười theo kiểu Quỳnh không thích.
-
-— Có.
-
-— Ai?
-
-— Bạn đại học tao. Cũng công an.
+— Đừng nhìn tao như sếp tao là bố nuôi tao vậy.
 
 Lan hỏi:
 
-— Đáng tin không?
+— Đi ba đứa thôi?
 
-Thi suy nghĩ.
+Quỳnh lắc đầu.
 
-— Nghiệp vụ thì đáng tin.
+— Tao không muốn ba đứa con gái lái xe vào chỗ lạ, lại đang có một vụ mất tích liên quan. Có thêm người càng tốt.
 
-— Còn con người?
+Thi chống hai khuỷu tay lên bàn, suy nghĩ đúng hai giây.
 
-— Hên xui.
+— Tao có người.
+
+— Ai?
+
+— Bạn đại học. Cũng làm trong ngành. Lái xe ổn, đi đường dài được.
+
+— Đáng tin không? — Lan hỏi.
+
+Thi cười.
+
+— Nếu hỏi nghiệp vụ thì có.
+
+Quỳnh nhìn nó.
+
+— Còn tính nết?
+
+— Tới lúc gặp rồi tự đánh giá.
 
 ***
 
-Bốn giờ chiều, ở một nơi khác trong thành phố, Thi bước vào chiếc xe đỗ dưới hàng cây.
+Bốn giờ mười lăm chiều, Thi bước vào một chiếc sedan màu đen đỗ dưới hàng cây cách quán cà phê gần một cây số.
 
-Người đàn ông ngồi ghế sau không nhìn nó ngay. Ông đang đọc một tập hồ sơ màu xám.
+Người đàn ông ngồi ghế sau đang đọc tập hồ sơ màu xám. Tóc anh cắt ngắn, hai bên thái dương đã có vài sợi bạc dù gương mặt chỉ khoảng gần bốn mươi. Khi Thi đóng cửa, anh không ngẩng lên ngay.
 
-Thi đóng cửa.
+— Em nhận chuyến đi.
 
-— Em nhận.
+— Quỳnh có nghi gì không?
 
-— Cô Quỳnh có nghi không?
+— Nó biết em giấu chuyện. Lan cũng biết. Nhưng chưa hỏi sâu.
 
-— Chưa. Lan thì có thể.
+Nguyễn Đức Khải khép tập hồ sơ lại.
 
-— Không sao. Đừng nói mục tiêu thật.
+— Càng tốt. Đừng cố diễn tới mức họ thấy giả.
 
-Thi nhìn tập hồ sơ.
+Thi nhìn xuống bìa. Không có chữ “ma”, “ngải” hay tên một nghi thức nào. Chỉ có mã chuyên án và danh sách những hành vi hoàn toàn thuộc thế giới của người sống: bắt giữ người trái phép, mua bán mẫu sinh học, giấy tờ giả, chất chưa rõ thành phần, một chuỗi giao dịch đi qua nhiều tỉnh.
 
-Trên gáy có một mã số, không có chữ “ma”, “ngải” hay bất kỳ thứ gì huyền bí.
+Khải lật tới một ảnh chụp từ camera giao thông sáu tháng trước. Người đàn ông trong ảnh cúi lấy đồ ở cốp xe, gương mặt chỉ còn nửa bên và bị nhiễu. Phần áo sau lưng kéo lên đủ để lộ một đường sẹo dài.
 
-Chỉ là một chuyên án hình sự.
+Thi nhìn ảnh.
 
-Bên trong có ảnh một người đàn ông chụp từ camera giao thông cách đó sáu tháng.
+Năm 2012, cô từng thấy Tùng bị Trâm đâm trong hỗn loạn. Không đủ để khẳng định vết sẹo trong ảnh là của hắn, nhưng đủ để tên hắn chưa thể bị gạch khỏi danh sách.
 
-Khuôn mặt không rõ.
-
-Nhưng phía sau lưng áo, khi người đó cúi xuống, lộ một vết sẹo dài chạy chéo từ vai phải xuống gần thắt lưng.
-
-Thi đã nhìn thấy một vết sẹo như vậy bảy năm trước.
-
-Trên lưng Tùng.
-
-Người đàn ông đối diện hỏi:
-
-— Trung đi cùng cô.
-
-— Anh ấy biết bao nhiêu?
-
-— Nhiều hơn cô một việc. Ít hơn tôi một việc.
-
-Thi cau mày.
-
-— Em ghét kiểu phân tầng thông tin này.
+— Cái này vẫn chưa nhận dạng được. — Thi nói.
 
 — Tôi biết.
 
-— Nếu Tùng thật sự sống thì sao?
+— Vậy nhiệm vụ chính của em?
 
-Lúc này người đàn ông mới ngẩng lên.
+— Đi cùng Quỳnh. Giữ nhóm an toàn, quan sát, thu thứ có thể kiểm chứng. Nếu thấy người trong ảnh thì không tự bắt, trừ khi có nguy hiểm tức thời.
 
-— Thì chuyến đi ngày mai không phải đi dự đám cưới nữa.
+— Trung?
+
+— Đi cùng cô.
+
+Thi nhíu mày.
+
+— Anh ấy biết gì?
+
+Khải nhìn cô một chút.
+
+— Biết chúng ta đang theo H-49 và người mất tích. Có một phần việc riêng tôi giao trực tiếp.
+
+— Phần gì?
+
+— Chưa cần cô biết.
+
+Thi dựa lưng ghế, khó chịu thấy rõ.
+
+— Em ghét kiểu chia thông tin này.
+
+— Tôi biết. Nhưng nếu cả nhóm bị tách ra, không ai có thể khai thứ mình không biết.
+
+Thi im. Lý do hợp lý không làm nó dễ chịu hơn.
+
+Nó nhìn lại tấm ảnh lần cuối.
+
+— Nếu thật sự là Tùng thì sao?
+
+Khải đặt ảnh vào hồ sơ.
+
+— Thì trước tiên chúng ta phải chứng minh người đó là Tùng.
+
+Anh nhìn Thi.
+
+— Còn trước khi chứng minh được, cô đi dự đám cưới với bạn mình. Đừng để một vết sẹo biến mọi người thành nghi phạm trước khi họ mở miệng.
+
+Thi gật.
+
+Lúc mở cửa xe, Khải gọi lại.
+
+— Thi.
+
+— Dạ?
+
+— Nếu tình hình lệch khỏi kế hoạch, ưu tiên đưa Quỳnh và Lan ra ngoài. Hồ sơ để sau.
+
+Thi nhìn anh một giây rồi đóng cửa.
+
+— Em biết.
