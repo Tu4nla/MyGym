@@ -25,11 +25,22 @@
       ]
     },
     {
-      "id":"ma-ki-su","seriesLabel":"HUY I · NHẬT KÝ ÂM DƯƠNG","title":"Ma Kí Sự","hook":"Tôi đi tìm ma để viết báo. Rồi có thứ bắt đầu viết trước cả tôi.","description":"Trương An Huy, cộng tác viên tòa soạn Âm Dương, bị một lá Ba Bích đẩy lên đường thu thập tư liệu ma quỷ dân gian. Những chuyến đi tưởng rời rạc dần chỉ về Chợ Âm, Huyền mạch kỳ lạ của chính Huy và một câu hỏi: rốt cuộc ai đang kể Ma Kí Sự?","period":"2018–2019","genre":"Folk Horror · Road Mystery · Dark Comedy","pov":"Ngôi nhất — Trương An Huy","glow":"rgba(41,77,92,.34)","plannedChapters":14,
+      "id":"ma-ki-su","seriesLabel":"HUY I · NHẬT KÝ ÂM DƯƠNG","title":"Ma Kí Sự","hook":"Tôi đi tìm ma để viết báo. Rồi có thứ bắt đầu viết trước cả tôi.","description":"Trương An Huy, cộng tác viên tòa soạn Âm Dương, bị một lá Ba Bích đẩy lên đường thu thập tư liệu ma quỷ dân gian. Những chuyến đi tưởng rời rạc dần chỉ về Chợ Âm, Huyền mạch kỳ lạ của chính Huy và một câu hỏi: rốt cuộc ai đang kể Ma Kí Sự?","period":"Cuối 2018 – 05/2019","genre":"Folk Horror · Road Mystery · Dark Comedy","pov":"Ngôi nhất — Trương An Huy","glow":"rgba(41,77,92,.34)","plannedChapters":14,
       "chapters":[
         {"id":"01","title":"Lá Ba Bích","teaser":"Năm mươi hai người, một bộ bài và một chuyến công tác chẳng ai muốn nhận.","date":"Cuối 2018","file":"data/ma-ki-su/01-la-ba-bich.md"},
         {"id":"02","title":"Đường lên Mẫu Sơn","teaser":"Ông xe ôm bỏ tôi lại giữa đường núi lúc mặt trời vừa tắt.","date":"Mẫu Sơn · Lạng Sơn","file":"data/ma-ki-su/02-duong-len-mau-son.md"},
-        {"id":"03","title":"Ba ngấn cổ","teaser":"Con gái ông Tích rất đẹp. Chỉ có điều trên người cô ấy có mùi tanh.","date":"Khuổi Cấp · đêm đầu tiên","file":"data/ma-ki-su/03-ba-ngan-co.md"}
+        {"id":"03","title":"Ba ngấn cổ","teaser":"Con gái ông Tích rất đẹp. Chỉ có điều trên người cô ấy có mùi tanh.","date":"Khuổi Cấp · đêm đầu tiên","file":"data/ma-ki-su/03-ba-ngan-co.md"},
+        {"id":"04","title":"Người không có bóng","teaser":"Mây nằm trên giường không thở, nhưng Huy vừa nói chuyện với cô ngoài sân lúc hai giờ sáng.","date":"Mẫu Sơn · ngày thứ hai","file":"data/ma-ki-su/04-nguoi-khong-co-bong.md"},
+        {"id":"05","title":"Ba cái bóng","teaser":"Một người sống đang cố tình nuôi cơn đói của Ma Lai để thu thứ hắn gọi là dị huyết.","date":"Mẫu Sơn · đêm cuối","file":"data/ma-ki-su/05-ba-cai-bong.md"},
+        {"id":"06","title":"Người Không Có Tên","teaser":"Một cái tên biến khỏi tin nhắn ngay sau khi Huy đọc xong.","date":"Hà Nội · vài tuần sau","file":"data/ma-ki-su/06-nguoi-khong-co-ten.md"},
+        {"id":"07","title":"Căn nhà bốn người","teaser":"Trong nhà có phòng của Khôi, quần áo của Khôi, ảnh của Khôi — chỉ không ai nhớ Khôi là ai.","date":"Hồ sơ Vô Danh · ngày 1","file":"data/ma-ki-su/07-can-nha-bon-nguoi.md"},
+        {"id":"08","title":"Bức tường đầy tên","teaser":"Ông Cẩn đã viết tên những người bị quên suốt hai mươi ba năm.","date":"Hồ sơ Vô Danh · ngày 2","file":"data/ma-ki-su/08-buc-tuong-day-ten.md"},
+        {"id":"09","title":"Đừng để họ quên mày","teaser":"Muốn cứu Khôi, Huy phải khiến càng nhiều người càng tốt biết rằng cậu từng tồn tại.","date":"Hồ sơ Vô Danh · kết","file":"data/ma-ki-su/09-dung-de-ho-quen-may.md"},
+        {"id":"10","title":"Bản Ghi Ngày Mai","teaser":"Một cuộn cassette cũ phát chính giọng Huy kể những chuyện ngày mai mới xảy ra.","date":"Đầu 2019","file":"data/ma-ki-su/10-ban-ghi-ngay-mai.md"},
+        {"id":"11","title":"Hai nhịp tim","teaser":"Hồ sơ thai sản cũ nói Huy từng là song thai — nhưng không giải thích được người dùng chính chữ của anh.","date":"Hồ sơ Song Mạch","file":"data/ma-ki-su/11-hai-nhip-tim.md"},
+        {"id":"12","title":"Người theo dõi tôi","teaser":"Điều tra viên Khải xuất hiện và cho Huy biết hai vụ án trước vốn đã nằm trên cùng một dòng tiền.","date":"Hà Nội · 2019","file":"data/ma-ki-su/12-nguoi-theo-doi-toi.md"},
+        {"id":"13","title":"Chợ Âm","teaser":"Chợ Âm không có cổng vào. Nó tồn tại ở bất cứ nơi nào có người muốn mua thứ không thể bán ngoài ánh sáng.","date":"Hà Nội · trước chuyến Bắc Yên","file":"data/ma-ki-su/13-cho-am.md"},
+        {"id":"14","title":"Hồng Ngài","teaser":"Huy đi theo một chuyên án có check-in và tracker — rồi biến mất dưới căn nhà của A Hù.","date":"05/2019","file":"data/ma-ki-su/14-hong-ngai.md"}
       ]
     },
     {
