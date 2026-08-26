@@ -1,535 +1,371 @@
-Sáng hôm sau tôi tới nhà Nguyễn Thu Hà với ba cuốn sổ, hai cây bút, máy ghi âm, máy ảnh và một cuộn băng keo giấy.
+Sáng hôm sau tôi tới nhà Nguyễn Thu Hà với ba cuốn sổ, hai cây bút, máy ghi âm, máy ảnh và một cuộn băng keo giấy. Quang nhìn đống đồ tôi bày trên bàn, hỏi tôi đi làm hay chuyển trọ.
 
-Anh Quang nhìn đống đồ trên bàn.
+— Tao đang chuẩn bị cho trường hợp quên sạch giữa đường.
 
-— Mày đi điều tra hay chuyển nhà?
+— Mày có gì nhiều để quên đâu.
 
-— Tao đang chuẩn bị chống mất trí nhớ.
+Tôi nhìn anh.
 
-— Mày có trí nhớ đâu mà mất?
+— Mới sáng ra mà nói chuyện tổn thương nhau vậy?
 
-Tôi nghĩ một lúc.
+Quang nhún vai, tiếp tục uống cà phê.
 
-— Câu này khó phản biện.
+Sếp Hòa nhất quyết không cho tôi đi một mình. Chị Linh cuối cùng gọi một cậu thực tập tên Phong sang. Phong hai mươi mốt tuổi, cao gầy, vai hơi so vì lúc nào cũng ôm laptop trước ngực, tóc cắt ngắn nhưng mái thường rơi xuống kính. Nó có đôi mắt sáng kiểu sinh viên báo chí còn tin mọi chuyến đi thực địa đều sẽ kết thúc bằng một câu chuyện hay và một tấm ảnh đăng được.
 
-Sếp Hòa bắt tôi mang theo người.
+Trên đường, Phong hỏi Ma Lai có thật không.
 
-Không ai tình nguyện.
+— Anh thấy cái gì? — nó hỏi.
 
-Cuối cùng chị Linh dúi cho tôi một cậu thực tập tên Phong.
+— Một cái đầu bay kèm nguyên bộ lòng phía dưới.
 
-Phong hai mươi mốt tuổi, cao gầy, vai hơi so vì quen ôm laptop, tóc cắt ngắn nhưng mái lúc nào cũng rơi xuống kính. Nó có đôi mắt sáng kiểu sinh viên báo chí còn tin mỗi chuyến đi thực địa đều sẽ trở thành một câu chuyện đáng kể.
+Phong quay sang.
 
-Trên xe nó hỏi:
-
-— Anh Huy, Ma Lai có thật không anh?
-
-— Có thể.
-
-— Anh thấy thật hả?
+— Anh nói thiệt hả?
 
 — Ừ.
 
-— Sợ không?
+— Anh chạy không?
 
-— Không.
+— Có.
 
-— Thiệt?
+— Bao xa?
 
-— Anh chỉ chạy khoảng ba trăm mét.
+— Đủ xa để không cần đo.
 
-Phong im hai giây.
-
-— Vậy là sợ mà anh.
-
-— Người trẻ đừng ám ảnh tiểu tiết.
-
-Nó cười.
-
-Tôi không biết đến tối, nụ cười đó gần như biến mất.
+Nó cười. Tôi cũng cười theo. Đến cuối ngày, cả hai đứa đều ít cười hơn.
 
 ***
 
-Nhà Hà nằm trong một con ngõ cũ phía tây Hà Nội, nơi mấy căn nhà cấp bốn bị những khối bê tông mới xây ép hai bên. Trời âm, đường còn ướt từ đêm. Nước từ mái tôn nhỏ từng giọt xuống các chậu cây, nghe đều đều như đồng hồ.
+Nhà Hà nằm trong một con ngõ cũ phía tây Hà Nội, nơi những căn nhà cấp bốn còn sót lại bị các khối bê tông mới xây ép hai bên. Trời âm, nước mưa đêm trước vẫn nhỏ từ mái tôn xuống mấy chậu cây ngoài hiên.
 
-Hà ra mở cửa.
+Hà ra mở cửa. Ngoài đời cô nhỏ người hơn trong ảnh, tóc cắt ngang vai, da nhợt vì thiếu ngủ. Trên tay vẫn là cuốn sổ hôm qua cô nói qua điện thoại. Tôi để ý mỗi lần căng thẳng, Hà không khóc ngay; cô siết mép sổ, ngón tay trắng ra rồi mới nói.
 
-Ngoài đời cô nhỏ người hơn trong ảnh, tóc ngang vai cắt rất gọn, da nhợt vì thiếu ngủ. Đôi mắt thâm nhưng khô. Tôi để ý từ đầu tới cuối ngày, mỗi lúc sắp khóc Hà đều làm một việc giống nhau: siết mép cuốn sổ đến trắng đầu ngón tay rồi nuốt cảm xúc xuống.
-
-Vừa thấy tôi, cô nhìn ngay quyển sổ đang cầm.
+Câu đầu tiên khi nhìn thấy tôi là:
 
 — Anh còn nhớ tên em tôi không?
 
 Tôi mở trang đầu.
 
-**NGUYỄN MINH KHÔI — EM TRAI THU HÀ.**
+**NGUYỄN MINH KHÔI — EM TRAI NGUYỄN THU HÀ.**
 
 — Nguyễn Minh Khôi.
 
-Cái tên lập tức có cảm giác trơn khỏi đầu.
+Cái tên vừa đọc xong đã bắt đầu nhạt đi trong đầu. Tôi nhìn xuống lần nữa để giữ nó.
 
-Tôi nhìn xuống lần nữa.
-
-— Khôi.
-
-Hà mới thở ra.
+Hà thở ra.
 
 — Nó mất tích mười một ngày rồi.
 
-— Báo công an chưa?
+— Hôm đầu mọi người còn nhớ hết?
 
-— Có. Ngày đầu bố mẹ tôi đi báo. Ngày thứ ba quay lại, cán bộ tiếp nhận bảo chưa từng có đơn nào. Camera đúng hôm đó lỗi file.
+— Bố mẹ còn. Cả nhà đi báo công an. Sau hai hôm bố tôi quay lại thì chính ông ấy không nhớ mình đi báo chuyện gì nữa. Cán bộ tiếp nhận cũng không tìm thấy hồ sơ ban đầu.
 
-Phong mở sổ.
+— Chị còn giấy hay số tiếp nhận không?
 
-Tôi nói trước khi nó kịp hỏi:
+— Tôi từng chụp. Ảnh bây giờ còn ngày giờ, phần nội dung trắng hết.
 
-— Ghi hiện tượng. Chưa gọi tên nguyên nhân.
+Tôi không kết luận gì. Chỉ bật máy ghi âm, nói rõ giờ bắt đầu và nhờ Hà kể lại theo thứ tự.
+
+Phong ngồi cạnh ghi chép. Nó định hỏi một câu, rồi nhìn tôi trước.
+
+— Cứ hỏi đi — tôi nói. — Chỉ phân biệt cái mình thấy với cái mình đoán là được.
 
 Nó gật.
 
 ***
 
-Bố Hà, chú Thành, đang ngồi hàn bo mạch điều hòa. Người đàn ông ngoài năm mươi, vai ngang, cặp kính lão trễ xuống sống mũi, hai ngón tay cái ám đen vì thiếc và dầu máy. Mẹ cô, cô Vân, ngồi lựa rau trong bếp, tóc búi thấp, thi thoảng lại gạt những sợi bạc con ra sau tai.
+Bố Hà, chú Thành, đang sửa bo mạch điều hòa ở gian trước. Ông ngoài năm mươi, vai ngang, kính lão trễ xuống sống mũi; hai đầu ngón cái ám đen vì thiếc hàn và dầu máy. Mẹ Hà, cô Vân, ngồi lựa rau trong bếp, tóc búi thấp, vài sợi bạc xổ bên thái dương.
 
-Hà giới thiệu chúng tôi.
+Hà giới thiệu chúng tôi là người của tòa soạn.
 
-Chú Thành nghe xong chỉ hỏi:
+Chú Thành nhìn con gái rồi hỏi:
 
-— Tòa soạn viết chuyện ma hả?
+— Lại chuyện thằng em con nói đó hả?
 
-— Dạ. Nhưng tụi cháu kiểm nguồn như bình thường.
+Hà siết cuốn sổ.
 
-Ông nhìn con gái.
+Tôi ngồi xuống ghế đối diện.
 
-— Con lại nói chuyện thằng em tưởng tượng đó à?
+— Chú có mấy người con ạ?
 
-Hà đứng cứng người.
+— Một. Con Hà.
 
-Tay siết cuốn sổ.
-
-— Chú có mấy người con? — tôi hỏi.
-
-— Một. Nó đó.
-
-Ông chỉ Hà ngay, không chần chừ.
-
-Cô Vân từ bếp nói vọng:
-
-— Có một đứa mà dạo này cứ bảo có em trai. Tôi cũng không hiểu nó bị sao.
+Ông trả lời ngay, không cần nghĩ. Cô Vân từ bếp cũng nói vọng ra rằng nhà chỉ có một đứa, dạo này Hà cứ khăng khăng mình có em trai nên cả nhà rất lo.
 
 Hà nhìn tôi.
 
-Không khóc.
-
-Chỉ hỏi rất nhỏ:
-
 — Anh thấy chưa?
 
-***
+Tôi chưa trả lời. Chuyện đáng chú ý không phải bố mẹ cô “nói sai”; đáng chú ý là họ nói với sự chắc chắn của người không hề biết mình đang thiếu một phần ký ức.
 
-Căn phòng cuối hành lang tầng lửng làm mọi cuộc tranh luận ngắn lại.
+— Chị dẫn tụi em lên phòng Khôi được không?
 
-Một giường đơn.
+Cô Vân nghe vậy quay ra.
 
-Một bàn học.
+— Phòng nào?
 
-Vệt băng keo hình chữ nhật trên tường nơi từng dán poster.
-
-Ổ điện cạnh giường còn cắm sợi dây sạc cũ.
-
-Tủ quần áo có bốn áo nam, hai quần jean và một áo khoác học sinh.
-
-Nó không giống kho.
-
-Nó giống một căn phòng vừa mất chủ.
-
-— Phòng này của ai chú? — tôi hỏi.
-
-Chú Thành đứng ở cửa. Hai đầu mày kéo gần nhau như người bị hỏi một câu đáng ra phải dễ.
-
-— Đồ cũ thôi.
-
-— Của ai?
-
-— Không nhớ.
-
-Hà lấy một chiếc áo, áp lên người bố.
-
-Ngắn hơn gần một gang.
-
-— Bố mặc cái này sao?
-
-Chú Thành bực lên không phải vì bị bắt quả tang nói dối. Tôi nhìn thấy rõ sự bực của một người **thực sự không tìm được đáp án trong đầu**.
-
-— Có thể đồ người ta cho.
-
-Cô Vân lên tới nơi, nhìn chiếc áo rồi bảo:
-
-— Đem bỏ đi, để chật nhà.
-
-Hà giật lại.
-
-— Không được. Của Khôi.
-
-Mẹ cô nhăn mặt.
-
-— Lại Khôi.
-
-Phong đứng cạnh tôi. Mái tóc rơi xuống kính mà nó cũng không còn đưa tay hất lên nữa.
+Hà không đáp mẹ, chỉ đi trước.
 
 ***
 
-Tôi dán một đoạn băng keo giấy lên tường.
+Căn phòng cuối hành lang tầng lửng khiến mọi lời giải thích kiểu “Hà tưởng tượng ra em trai” trở nên khó hơn nhiều.
 
-Viết:
+Một giường đơn kê sát tường. Bàn học có những vết bút hằn trên mặt gỗ. Ổ điện cạnh đầu giường vẫn cắm dây sạc cũ. Trên tường còn vệt băng keo hình chữ nhật nơi từng treo poster. Trong tủ là quần áo nam cỡ nhỏ hơn chú Thành rõ rệt, một áo khoác học sinh và đôi giày thể thao đã mòn gót.
 
-**PHÒNG NGUYỄN MINH KHÔI.**
+Nó không giống kho chứa đồ. Nó giống căn phòng một người đã rời đi mà chưa dọn.
 
-— Chú đọc giúp cháu.
+Chú Thành đứng ở cửa, nhíu mày.
 
-— Phòng Nguyễn Minh Khôi.
+— Phòng này trước để ai vậy chú? — tôi hỏi.
 
-— Người đó là ai?
+Ông nhìn quanh.
 
-— Không biết.
+— Chắc để đồ linh tinh.
 
-— Đọc lại tên.
+Hà kéo một chiếc áo nam ra.
 
-Chú Thành đọc.
+— Bố mặc cái này được không?
 
-Lần thứ hai, mặt ông thay đổi.
+— Sao bố biết. Đồ ai cho thì có.
 
-Không nhiều.
+— Bố không nhớ cái bàn này ai mua à?
 
-Chỉ là ánh mắt tự nhiên mất tiêu điểm, như người ta vừa nghe một bài hát rất quen mà không nhớ nổi tên.
+— Hà, con hỏi bố mấy chuyện gì kỳ vậy?
 
-— Hình như...
+Ông bắt đầu bực. Nhưng không phải kiểu người bị bắt quả tang nói dối; đó là sự cáu gắt của người bị buộc phải trả lời một câu mà chính đầu mình không cung cấp nổi đáp án.
 
-Hà bước tới.
-
-— Bố.
-
-— Hình như cái tên này...
-
-Ông đưa tay lên trán.
-
-Một giây.
-
-Hai.
-
-Rồi ánh mắt trở lại.
-
-— Ai vậy?
-
-Hà quay mặt đi.
-
-Tôi ghi giờ.
-
-Phong thì thào:
-
-— Anh nghĩ thôi miên được không?
-
-— Với bố mẹ, dữ liệu máy tính và hồ sơ công an cùng lúc thì phải chứng minh được cách làm.
-
-— Em hỏi thôi.
-
-— Hỏi đúng. Chỉ đừng yêu ma quá sớm.
-
-Phong chỉnh kính.
-
-— Em thấy anh ghét ma ghê.
-
-— Anh kiếm tiền nhờ nó. Quan hệ phức tạp.
-
-***
-
-Chúng tôi không kiểm kê từng món.
-
-Chỉ chọn những thứ có khả năng nối một con người với một danh tính.
-
-Trong ngăn bàn là một thẻ học sinh cũ.
-
-Ảnh nam sinh còn.
-
-Mã học sinh còn.
-
-Ngày sinh còn.
-
-Ô **họ tên** trắng trơn.
-
-Không có vết cạo hay tẩy.
-
-Phong đưa thẻ ra ánh sáng.
-
-— Cái này mới rồi nè.
-
-— Mới là dữ kiện.
-
-— Em biết. Chưa được nói ma.
-
-— Học nhanh đấy.
-
-Mặt sau có số trường.
-
-Chúng tôi đi luôn.
-
-***
-
-Ở trường cũ của Khôi, mã học sinh dẫn tới một dòng trong sổ điểm.
-
-Ngày sinh đúng.
-
-Địa chỉ đúng.
-
-Tên trống.
-
-Ảnh tập thể lớp có ba mươi chín gương mặt nhưng danh sách dưới ảnh có bốn mươi vị trí. Một dòng bị nhòe trắng.
-
-Tôi đã thấy đủ để hiểu hiện tượng.
-
-Thứ làm tôi sợ thật sự tới khi gặp cô Lan, giáo viên chủ nhiệm cũ.
-
-Cô ngoài bốn mươi, người nhỏ, đeo kính viền đỏ. Ban đầu cô nhìn ảnh rồi lắc đầu.
-
-— Cô không nhớ.
-
-Hà nói:
-
-— Nguyễn Minh Khôi.
-
-Cô Lan giật nhẹ.
-
-Mắt mở lớn.
-
-— Khôi...
-
-Rồi như có ai mở một cánh cửa.
-
-— Khôi ngồi bàn ba dãy cửa sổ. Hay ngủ gật tiết Văn. Chữ đẹp. Đá bóng dở mà cứ tranh sút phạt. Lớp mười một từng gãy tay vì trèo tường...
-
-Hà chụp lấy cổ tay cô.
-
-— Cô nhớ rồi đúng không?
-
-Tôi bật máy ghi âm.
-
-Cô Lan nói tiếp rất nhanh, gương mặt vừa sáng lên vì ký ức.
-
-Rồi dừng.
-
-Chưa tới mười lăm giây.
-
-— Cô? — tôi gọi.
-
-Cô nhìn Hà.
-
-— Ai vậy?
-
-— Khôi.
-
-— Khôi nào?
-
-Tôi nhìn đồng hồ.
-
-Mười hai giây.
-
-Mười hai giây một người lấy lại ba năm ký ức rồi mất sạch.
-
-Lần đầu tiên tôi thấy case này đáng sợ hơn Ma Lai.
-
-Ma Lai ít nhất có cái đầu để bạn biết mình phải chạy khỏi cái gì.
-
-Thứ này lấy luôn **lý do để chạy**.
-
-***
-
-Chiều chúng tôi về nhà Hà.
-
-Tôi không cần thêm mười bằng chứng rằng Khôi từng tồn tại.
-
-Tôi cần biết **tên của một người biến mất như thế nào**.
-
-Tôi viết “NGUYỄN MINH KHÔI” lên năm tờ giấy, gửi cùng dòng chữ ấy qua email, tin nhắn và drive của tòa soạn. Mỗi bản được chụp lại, ghi giờ.
-
-Hà ngồi ở bàn, tay giữ cuốn sổ như giữ một thứ dễ bay mất.
-
-Phong hỏi:
-
-— Nếu nó xóa hết thì sao?
-
-— Thì mình biết vật chứa không quan trọng.
-
-— Nếu không xóa?
-
-— Thì tao lại phải nghĩ.
-
-— Anh hay làm việc không biết có tác dụng vậy hả?
-
-— Nghề báo gọi là thử giả thuyết. Mẹ anh gọi là bày bừa.
-
-Phong cười được một chút.
-
-***
-
-Tám giờ tối, tờ giấy trên tủ lạnh trắng trơn.
-
-Mực không nhòe.
-
-Không bị lau.
-
-Chỉ biến mất.
-
-Hai phút sau, bức ảnh chụp nó trong máy tôi cũng mất dòng chữ.
-
-Mười giờ, email vẫn còn tiêu đề nhưng phần nội dung trống.
-
-Anh Quang gọi lại:
-
-— Huy, chiều mày gửi tao cái gì vậy?
-
-— Mày không nhớ tên?
-
-— Tên ai?
-
-Tôi nhìn Hà.
-
-Nó nghe thấy.
-
-Ngón tay lại siết mép sổ.
-
-Phong hỏi:
-
-— Sao ba người mình chưa quên?
-
-Tôi nhìn trang có tên Khôi.
-
-— Vì mình đọc lại liên tục.
-
-Không ai đề nghị thử ngừng.
-
-Cuối cùng Hà tự nói:
-
-— Thử đi.
-
-— Chị chắc?
-
-— Nếu em không biết giới hạn là bao lâu, tới lúc ngủ em còn sợ hơn.
-
-Chúng tôi đặt mười lăm phút.
-
-Không nhìn tên.
-
-Không nói.
-
-Không mở ảnh.
-
-Khi chuông kêu, tôi hỏi:
-
-— Em trai chị tên gì?
-
-Hà mở miệng.
-
-Không có tiếng.
-
-Gương mặt cô đổi lần đầu tiên từ lúc tôi tới. Không còn vẻ cố lì. Mắt mở lớn, hai bàn tay lục bàn loạn xạ.
-
-— Tôi... tôi...
-
-Tôi đẩy cuốn sổ sang.
-
-Hà đọc.
-
-— Nguyễn Minh Khôi.
-
-Cô ôm cuốn sổ vào ngực.
-
-Lần này khóc thật.
-
-Không thành tiếng.
-
-Chỉ cúi đầu để tóc che mặt.
-
-Phong quay đi, tháo kính lau dù kính không bẩn.
-
-Tôi không nói gì.
-
-Có những lúc câu đùa của tôi chỉ làm căn phòng nhỏ hơn.
-
-***
-
-Mười một giờ mười ba, cửa nhà vang ba tiếng gõ.
-
-Một ông già đứng ngoài.
-
-Gầy, lưng hơi còng, tóc bạc cắt ngắn sát đầu. Áo khoác nâu đã bóng ở hai khuỷu tay. Hai ngón giữa bàn tay phải chai dày và ám mực như người viết quá nhiều năm.
-
-Ông ôm một bó giấy cuộn.
-
-Nhìn thấy tôi, ông hỏi:
-
-— Nhà báo?
-
-— Dạ.
-
-Ông bước vào.
-
-Hà ngẩng lên.
-
-— Ông Cẩn.
-
-Ông nhìn nó rất lâu, như kiểm tra xem cô còn nhớ mình không.
-
-— Cô còn gọi được tên tôi là may.
-
-Ông đặt bó giấy xuống bàn.
-
-— Bác là ai? — tôi hỏi.
-
-Ông tháo sợi dây buộc.
-
-— Người viết tên.
-
-Giấy bung ra.
-
-Hàng trăm cái tên chen kín nhau bằng mực đen, đỏ, bút chì. Có tên được tô chồng đến rách cả giấy. Có tên bị gạch rồi viết lại ở mép khác.
-
-Phong đứng sát tôi nhưng không hỏi nữa.
-
-Ông Cẩn chỉ một dòng gần cuối.
+Tôi lấy băng keo giấy, dán lên cạnh bàn rồi viết:
 
 **NGUYỄN MINH KHÔI.**
 
-— Cậu tìm nó phải không?
+— Chú đọc giúp cháu cái tên này được không?
 
-— Bác biết Khôi ở đâu?
+— Nguyễn Minh Khôi.
 
-Ông lắc.
-
-— Tôi chỉ biết nó từng tồn tại.
-
-— Những tên khác đều mất tích?
+— Chú có biết ai tên vậy không?
 
 — Không.
 
-Ông già vuốt lên một dòng mực đã nhạt.
+Tôi để vài giây rồi nhờ ông đọc lại.
 
-— Có người chết. Có người sống. Có người tôi không còn nhớ mình từng biết họ bằng cách nào.
+Lần thứ hai, ánh mắt chú Thành mất tiêu điểm. Ông không nói tiếp ngay. Bàn tay đang chống lên cánh cửa chậm rãi siết lại.
 
-Tôi nhìn số giấy trước mặt.
+— Khôi...
 
-Case Khôi vừa từ một căn nhà biến thành một khoảng trống lớn hơn nhiều.
+Hà bước tới một bước.
 
-— Bác viết bao lâu rồi?
+— Bố nhớ gì hả?
+
+Ông nhìn quanh căn phòng, vẻ mặt bỗng hoang mang.
+
+— Hình như... cái bàn này...
+
+Câu nói dừng giữa chừng. Chỉ vài giây sau, nét mặt ấy biến mất.
+
+— Sao cả đám đứng đây vậy?
+
+Hà quay mặt đi.
+
+Tôi ghi lại thời gian, nhưng không yêu cầu ông lặp thêm. Một lần đã đủ để biết cái tên có thể chạm vào thứ gì đó trong trí nhớ; ép một người cha nhớ rồi quên con trai hết lần này tới lần khác chỉ để lấy thêm dữ liệu là việc tôi không muốn làm.
+
+Phong đứng cạnh, nói rất nhỏ:
+
+— Có thể là ám thị không anh?
+
+— Có thể. Nhưng nếu nghĩ vậy thì mình phải tìm cơ chế giải thích cả hồ sơ, đồ đạc và những người khác nữa.
+
+— Tức là chưa bỏ khả năng nào?
+
+— Ừ. Đừng vội cưới một giả thuyết khi mới gặp nó buổi sáng.
+
+Phong phì cười rồi lập tức tự thấy không khí không hợp lắm, cúi xuống sổ.
+
+***
+
+Chúng tôi không lục tung căn phòng. Chỉ tìm những thứ gắn trực tiếp một danh tính với một hệ thống bên ngoài gia đình.
+
+Trong ngăn bàn có một thẻ học sinh cũ. Ảnh nam sinh còn nguyên, ngày sinh còn, mã học sinh còn. Riêng ô họ tên trắng trơn, không thấy vết cạo hay tẩy trên bề mặt.
+
+Mặt sau có tên trường.
+
+Tôi chụp thẻ, ghi vị trí rồi cùng Hà và Phong đi ngay.
+
+Ở trường cũ, mã học sinh dẫn tới một dòng trong sổ điểm điện tử cũ: ngày sinh và địa chỉ trùng với nhà Hà, nhưng phần tên trống. Ảnh tập thể lớp vẫn có một nam sinh giống ảnh trên thẻ, trong khi danh sách dưới ảnh có một vị trí không còn chữ.
+
+Tới đây tôi đã thấy đủ bằng chứng vật lý rằng một người từng tồn tại trong gia đình và trong trường học. Thứ khiến tôi thực sự sợ lại là một người sống.
+
+Cô Lan, giáo viên chủ nhiệm cũ của Khôi, ngoài bốn mươi, người nhỏ, đeo kính viền đỏ. Ban đầu cô nhìn ảnh rồi lắc đầu.
+
+— Cô không nhớ em này.
+
+Hà đứng cạnh tôi, bàn tay đã đặt sẵn lên mép cuốn sổ.
+
+— Cô thử nghe tên nha cô. Nguyễn Minh Khôi.
+
+Cô Lan khựng lại.
+
+Ánh mắt thay đổi gần như ngay lập tức.
+
+— Khôi...
+
+Cô nhìn tấm ảnh, rồi những chi tiết bật ra dồn dập như nước vừa thông qua một đường ống bị nghẹt.
+
+— Khôi ngồi bàn ba dãy cửa sổ. Hay ngủ gật tiết Văn. Chữ đẹp lắm. Đá bóng dở mà lần nào cũng giành sút phạt. Lớp mười một còn gãy tay vì trèo tường sau trường...
+
+Hà chụp lấy cánh tay cô.
+
+— Đúng rồi cô, Khôi đó. Em tôi đó.
+
+Tôi bật ghi âm và nhìn đồng hồ.
+
+Cô Lan nói thêm được vài câu. Rồi đang giữa một kỷ niệm, cô im bặt.
+
+— Cô? — Hà gọi.
+
+Cô Lan nhìn bàn tay Hà đang giữ tay mình, hơi khó chịu.
+
+— Em là ai?
+
+Hà thả ra.
+
+— Cô không nhớ Khôi nữa hả?
+
+— Khôi nào?
+
+Mười hai giây.
+
+Tôi nhìn con số trên đồng hồ và lần đầu thấy case này đáng sợ hơn cái đầu bay ở Mẫu Sơn. Với Ma Lai, ít nhất khi thấy nó bạn biết mình đang sợ thứ gì. Ở đây, thứ biến mất trước tiên lại chính là lý do khiến bạn phải sợ.
+
+***
+
+Chiều trở về nhà Hà, tôi không cần thêm bằng chứng Khôi từng tồn tại. Câu hỏi còn lại là cái tên biến mất theo quy luật nào.
+
+Chúng tôi làm một thử nghiệm nhỏ, đủ để quan sát chứ không biến căn nhà thành phòng lab. Tôi viết tên Khôi lên giấy, chụp lại, gửi một bản qua email cho chính mình và một bản cho Quang ở tòa soạn. Tất cả được ghi giờ.
+
+Hà ngồi bên bàn, cuốn sổ đặt trước mặt.
+
+Phong hỏi:
+
+— Nếu chữ mất hết thì sao?
+
+— Thì ít nhất biết giấy hay file điện tử đều không giữ được lâu.
+
+— Nếu không mất?
+
+— Thì mình sai và phải nghĩ lại.
+
+— Anh nói nghe nhẹ ghê.
+
+— Sai sớm đỡ tốn tiền hơn sai muộn.
+
+Khoảng tám giờ, nét mực trên tờ giấy dán tủ lạnh biến mất. Không nhòe, không bị lau; mặt giấy chỉ còn trắng. Ảnh chụp trong điện thoại hai phút sau cũng mất dòng chữ. Đến mười giờ, email vẫn còn tiêu đề nhưng phần thân thư trống.
+
+Quang gọi lại.
+
+— Chiều mày gửi tao cái gì vậy?
+
+— Mày có nhớ một cái tên không?
+
+— Tên ai?
+
+Tôi nhìn Hà. Cô nghe rõ câu trả lời, các ngón tay lại bấu mép sổ.
+
+Phong hỏi:
+
+— Ba người mình vẫn nhớ vì cứ đọc lại liên tục đúng không?
+
+— Có vẻ vậy. Nhưng chưa biết bao lâu thì mất.
+
+Không ai muốn thử phần đó.
+
+Cuối cùng chính Hà nói:
+
+— Làm đi.
+
+Tôi nhìn cô.
+
+— Chị chắc không?
+
+— Tối nào tôi cũng phải đặt báo thức để đọc tên nó. Nếu một hôm ngủ quên, tôi cần biết mình có bao nhiêu thời gian.
+
+Chúng tôi đặt mười lăm phút. Không nhìn sổ, không nói tên, không mở ảnh.
+
+Mười lăm phút sau, chuông điện thoại kêu.
+
+Tôi hỏi nhẹ:
+
+— Chị Hà, em trai chị tên gì?
+
+Hà mở miệng nhưng không nói được. Lúc đầu cô chỉ cau mày như cố nhớ một từ quen. Sau đó vẻ hoảng hốt tràn lên rất nhanh. Cô lục mặt bàn, lật mấy cuốn sổ không đúng quyển, hơi thở bắt đầu gấp.
+
+— Tôi... tôi có...
+
+Tôi đẩy cuốn sổ về phía cô.
+
+Hà đọc dòng đầu.
+
+**NGUYỄN MINH KHÔI.**
+
+Cô ôm cuốn sổ sát ngực, cúi đầu. Lần này nước mắt rơi thật nhưng không có tiếng khóc. Phong quay đi lau kính dù tròng kính hoàn toàn sạch.
+
+Tôi ngồi im.
+
+Có những lúc nói một câu đùa không làm ai đỡ sợ; nó chỉ khiến mình trông như không biết phải làm gì với nỗi sợ của người khác.
+
+***
+
+Gần mười một giờ mười ba, cửa nhà vang ba tiếng gõ.
+
+Một ông già đứng ngoài hiên, gầy, lưng hơi còng, tóc bạc cắt ngắn. Chiếc áo khoác nâu đã bóng ở hai khuỷu tay. Hai ngón giữa bàn tay phải chai dày và ám mực tới tận kẽ móng. Ông ôm một cuộn giấy lớn buộc bằng dây vải.
+
+Hà vừa nhìn đã gọi:
+
+— Ông Cẩn.
+
+Ông nhìn cô vài giây rồi mới bước vào.
+
+— Cô còn nhớ tôi là tốt.
+
+Tôi đứng dậy.
+
+— Bác biết chuyện Khôi ạ?
+
+Ông Cẩn đặt cuộn giấy lên bàn, tháo dây. Hàng trăm cái tên mở ra trước mắt chúng tôi: mực đen, mực đỏ, bút chì; có tên bị tô đi tô lại tới rách giấy, có tên chen ở lề như được thêm vào lúc không còn chỗ.
+
+Ông chỉ một dòng gần cuối.
+
+**NGUYỄN MINH KHÔI.**
+
+— Cậu đang tìm thằng bé này đúng không?
+
+— Bác biết Khôi ở đâu?
+
+— Không. Tôi chỉ biết nó từng tồn tại.
+
+Phong đứng sát hơn để nhìn. Tôi hỏi:
+
+— Những người trong đây đều mất tích à?
+
+Ông Cẩn lắc đầu.
+
+— Có người mất tích. Có người chết. Có người có khi vẫn đang sống. Nhiều tên tôi không còn nhớ mình biết họ từ đâu nữa.
+
+— Bác viết danh sách này bao lâu rồi?
 
 — Hai mươi ba năm.
 
-— Tại sao?
+Tôi nhìn những ngón tay ám mực của ông.
 
-Ông Cẩn ngồi xuống. Lần đầu tôi thấy đôi mắt ông mệt tới mức nào; tròng trắng đục nhẹ, mí dưới sẫm như người đã thiếu ngủ quá lâu.
+— Vì sao bác bắt đầu?
 
-— Vì một sáng tôi thức dậy, trong nhà có một chiếc giường trẻ con.
+Ông Cẩn ngồi xuống. Dưới ánh đèn phòng khách, đôi mắt ông mệt đến mức tròng trắng đã đục nhẹ.
 
-Ông nhìn thẳng tôi.
+— Một sáng tôi thức dậy, trong nhà có một chiếc giường trẻ con.
 
-— Nhưng vợ chồng tôi không nhớ mình từng có con.
+Ông ngừng một chút.
+
+— Nhưng cả tôi lẫn vợ đều không nhớ mình từng có con.
+
+Căn phòng im đến mức tôi nghe được tiếng nước nhỏ ngoài mái hiên.
+
+Case Khôi vừa rộng ra khỏi một gia đình.
