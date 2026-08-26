@@ -1,476 +1,310 @@
-Thi mất dấu Quỳnh ở đúng chỗ tiếng chuông vang.
+Thi mất dấu Quỳnh ở đoạn lối rừng vừa hẹp lại.
 
-Cô nhớ rất rõ vì trước đó lưng Quỳnh còn cách chưa tới năm mét.
+Trước đó chưa đầy mười giây cô vẫn nhìn thấy lưng Lan và ánh đèn Quỳnh phía trước. Trung chạy bên trái cô. Hai cán bộ vòng ngoài ở sau cách một quãng, giữ lối từ điểm tạm vào rừng. Huy đã được Minh giữ lại trong nhà ngay từ lúc Trâm lao ra; với tình trạng của anh, không ai cho phép một người vừa được cứu khỏi hầm chạy thêm một cuộc truy đuổi giữa đêm.
 
-Một giây Lan quay đầu.
+Rồi tiếng chuông vang bên phải.
 
-Một giây sương tràn dày hơn.
+Thi quay đầu đúng một nhịp.
 
-Một giây sau chỉ còn ánh đèn pin của Trung ở bên phải.
+Khi nhìn lại, ánh đèn trước mặt chia thành hai hướng.
 
 — QUỲNH!
 
-Thi gọi.
-
-Không đáp.
-
-Trung gọi theo.
-
-Từ phía trước có tiếng Quỳnh trả lời:
+Có tiếng Quỳnh đáp:
 
 — Ở đây!
 
-Thi đứng yên.
+Nhưng giọng phát từ bên phải, trong khi Thi nhớ rất rõ Quỳnh vừa chạy chếch trái.
 
-Giọng đúng.
-
-Quá đúng.
-
-Nhưng vị trí sai.
-
-Quỳnh vừa chạy chếch trái. Giọng phát từ phải.
-
-Thi giơ tay chặn Trung.
+Cô giơ tay chặn Trung.
 
 — Không theo tiếng.
 
-— Tao biết.
+Trung thở gấp.
 
-Huy ở phía sau, thở nặng.
+— Tao cũng nghe nó bên phải.
 
-Anh được một cán bộ dìu ra khỏi điểm an toàn khi cháy, rồi trong hỗn loạn bám theo Thi. Bây giờ mặt trắng vì kiệt sức nhưng mắt còn tỉnh.
+— Hai đứa cùng nghe không có nghĩa nó đúng.
 
-— Nếu có bản đồ offline, mở. — Huy nói.
+Họ đứng lại vài giây để mắt quen sương. Dưới gốc cây cách đó không xa có một túi vải đen nhỏ. Thi không tới gần bằng tay không; cô rọi đèn và thấy một loa mini cùng lớp nhựa đen bám quanh dây buộc.
 
-Trung lấy điện thoại.
+— Lại điểm bám.
 
-GPS đứng.
+Trung nhìn quanh.
 
-La bàn quay hai vòng rồi ổn.
+— Vậy giọng Quỳnh là file ghi âm?
 
-— Tuyệt. — hắn nói. — Công nghệ quyết định nghỉ phép.
+— Có thể một phần. Cái gì còn lại tao không biết.
 
-Thi bật bộ đàm.
+Thi quay video, đánh dấu cây bằng băng phản quang rồi báo qua bộ đàm. Tín hiệu vỡ vụn nhưng một giọng phía ngoài xác nhận được tọa độ mất dấu cuối.
 
-— Đội một gọi trung tâm. Mất ba người hướng đông bắc điểm an toàn. Tôi đi cùng Trung, Huy. Có ai nhận?
-
-Rè.
-
-Một giọng đứt đoạn:
-
-— ...nhận... giữ... vị...
-
-Rồi mất.
-
-Ít nhất phía ngoài biết họ còn sống.
+Ít nhất người bên ngoài biết họ đang ở đâu trước khi rừng bắt đầu làm mọi thứ trở nên không chắc nữa.
 
 ***
 
-Thi không chạy tìm Quỳnh mù quáng.
+Thi không cho Trung chạy vòng tìm người.
 
-Cô đánh dấu vị trí mất dấu bằng băng phản quang, ghi giờ, chụp cây và nền đất. Sau đó cả ba mở rộng tìm trong bán kính ngắn, luôn nhìn thấy nhau.
+Hai người mở bán kính ngắn, luôn giữ nhau trong tầm mắt. Dấu chân phụ nữ xuất hiện trên đất ẩm, ba bộ đi cùng một hướng rồi tách thành sáu. Có những dấu cùng cỡ giày lặp lại ở vị trí quá đều, như được dẫm sẵn.
 
-Có dấu chân phụ nữ.
+Trung ngồi xuống nhìn.
 
-Ba bộ.
+— Nếu là thật thì sáu người đi chung giày.
 
-Đi về một hướng.
+— Hoặc dấu giả.
 
-Rồi đột ngột tách làm sáu.
+— Huy kể Tùng từng dùng đế chồng để tạo dấu quanh nhà.
 
-Trung quỳ nhìn.
+Thi gật.
 
-— Cùng cỡ giày lặp lại.
+— Vậy bỏ dấu chân làm nguồn chính.
 
-Thi hỏi:
+Cô lấy bản đồ offline đã tải từ trước chuyến đi. GPS không bắt được vị trí mới nhưng địa hình trên bản đồ vẫn còn: khe nước, đường mòn cũ, sườn đá và khu Hang A Phủ ở phía thấp hơn.
 
-— Có thể ai đi vòng?
+— Theo dòng nước xuống. Nếu gặp đường thật thì ưu tiên đường.
 
-— Có, nhưng kiểu này giống dấu được dẫm lại nhiều lần.
+Trung nhìn cô.
 
-Huy chống cây gậy nhặt được.
+— Còn Quỳnh?
 
-— Tùng từng dùng giày gắn đế giả để tạo dấu quanh nhà. Tôi thấy hắn làm.
+Thi siết hàm.
 
-Thi nhìn.
+— Đội ngoài đang mở vòng từ điểm mất dấu. Hai đứa mình chạy mù chỉ tạo thêm hai người cần tìm.
 
-— Tức dấu có thể được chuẩn bị trước.
+Câu đó khó nói hơn khó hiểu.
 
-— Ừ.
-
-— Hắn đoán tụi mình vào đây?
-
-Huy thở ra.
-
-— Hắn chọn chỗ này. Khác nhau chút.
+Trung không cãi.
 
 ***
 
-Họ chọn đi theo địa hình thay vì dấu.
-
-Một con khe nhỏ chảy xuống thấp. Nếu đi theo dòng, về lý thuyết sẽ gặp đường hoặc khu dân cư.
-
-Hai mươi phút đầu ổn.
-
-Ba mươi phút sau họ đi ngang một phiến đá có vệt trắng.
+Hai mươi phút đầu, con khe dẫn họ xuống đúng hướng. Thi đánh dấu những chỗ rẽ bằng băng phản quang và chụp lại mỗi mốc. Sau đó họ đi ngang một phiến đá có vệt trắng.
 
 Trung dừng.
 
-— Tao thấy nó rồi.
+— Tao thấy viên này rồi.
 
-Thi nhìn.
+Thi rọi đèn.
 
-— Cái gì?
+— Chắc không?
 
-— Phiến này.
+Hắn chỉ một vết bùn mới ở cạnh đá.
 
-— Chắc?
+— Tao đá trúng nó. Mũi giày còn dính đúng loại đất này.
 
-— Tao đã đá vào đây mười phút trước.
+Họ đã vòng lại dù vẫn nghĩ mình đi theo nước xuống.
 
-Hắn chỉ một vệt đất mới do mũi giày.
+Thi quay lại con khe. Ở đoạn cách đó mấy chục mét, dòng nước tách đôi quanh một ụ đất rồi nhập lại phía dưới. Trong sương và ánh đèn hẹp, hai người đã vô thức đổi sang nhánh vòng mà không nhận ra.
 
-Họ đang vòng.
+Không cần la bàn quay như điên.
 
-Thi nhìn dòng nước.
+Chỉ cần một quyết định nhỏ bị nhận thức đẩy lệch là đủ.
 
-Nước vẫn chảy một hướng.
+— Từ giờ mỗi chỗ tách nước dừng xác nhận. — Thi nói.
 
-— Nếu mình theo nước mà quay lại, hoặc chúng ta không theo đúng một dòng, hoặc cảm giác thời gian/hướng bị sai.
+Trung gật rồi đưa tay lên cổ.
 
-Huy ngồi xuống đá.
+— Nó lại ngứa.
 
-— Cho tôi hai phút. Nếu cứ đi kiểu này tôi thành sinh khí miễn phí.
+— Dẫn Chủng?
 
-Trung đưa nước.
+— Đừng gọi vậy như đã chắc.
 
-— Anh nói xui.
+— Đúng. Cảm giác cũ?
 
-— Tôi là người làm nội dung, phải có hook.
+— Ừ. Mạnh hơn phía bên kia khe.
 
-***
+Thi không dùng lời Trung để chọn đường. Cô chiếu đèn sang bên ấy trước. Trên một thân cây thấp có vệt đen gần giống nhựa cháy.
 
-Mưa bắt đầu lúc gần mười một giờ đêm.
+Cả hai nhìn nhau.
 
-Không lớn ngay.
+— Có tương quan. — Thi nói. — Chỉ vậy.
 
-Chỉ lất phất qua tán cây, đủ làm đá trơn.
+Trung cười mệt.
 
-Huy nhìn phía trước.
+— Tao rất cảm động vì bệnh của tao có giá trị định hướng nhưng không được cấp chứng chỉ.
 
-— Nếu tôi nhớ bản đồ đúng, khu Hang A Phủ nằm không quá xa hướng này. Có đường mòn cắt qua.
-
-Thi hỏi:
-
-— Anh từng tới?
-
-— Chưa. Tôi đọc trước chuyến đi.
-
-— Có chắc không?
-
-— Sáu mươi phần trăm.
-
-Trung nói:
-
-— Cao hơn GPS hiện tại.
-
-Họ đi thêm gần bốn mươi phút thì gặp một biển chỉ dẫn cũ.
-
-Chữ mờ nhưng đọc được:
-
-HANG A PHỦ — THẲM CỐP.
-
-Thi thở ra.
-
-Lần đầu cả đêm, họ có một vật thể ngoài đầu óc để xác nhận vị trí.
-
-Huy dựa biển.
-
-— Tôi chính thức yêu ngành du lịch.
+— Mày còn đùa được thì đi tiếp.
 
 ***
 
-Cửa hang mở trên sườn đá, rộng và tối.
+Mưa lất phất gần mười một giờ. Đá trơn khiến tốc độ giảm hẳn. Sau thêm gần bốn mươi phút, ánh đèn quét trúng một biển chỉ dẫn cũ nghiêng bên đường mòn.
 
-Không có người lúc nửa đêm.
+**HANG A PHỦ — THẲM CỐP.**
 
-Bên trong mát lạnh. Nền đầu hang tương đối bằng rồi thấp dần; sâu hơn nghe tiếng nước chảy.
+Thi chạm vào biển, kiểm lớp rêu và chân cọc như thể cần một vật thật để tin rằng họ vừa tới đâu đó có tên.
 
-Thi không cho đi sâu.
+— Cái này camera thấy. — Trung nói.
 
-— Trú phần ngoài. Có lối ra rõ. Không chui vào chỗ không biết.
+— Ừ.
 
-Trung kiểm tra quanh bằng đèn.
+— Tự nhiên biển du lịch làm tao xúc động ghê.
 
-Không dấu người mới.
+Thi bật cười rất nhẹ.
 
-Không dây.
+Hang nằm trên sườn đá, cửa rộng và có khoảng nền tương đối bằng ở phía ngoài. Cô không cho đi sâu. Phần đầu hang có một lối vào duy nhất, không thấy dấu người mới, không dây cước hay vật lạ rõ ràng.
 
-Không đồ lạ.
+— Trú ở đây tới khi bắt được liên lạc. Không khám phá hang.
 
-Ít nhất nhìn được.
+— Rõ, mẹ.
 
-Huy ngồi xuống tảng đá, mặt trắng hơn.
+Thi nhìn hắn.
 
-Thi kiểm tra mạch.
+— Mày muốn quay lại rừng không?
 
-— Anh sốt nhẹ.
-
-— Tôi thích gọi là nhiệt huyết.
-
-— Anh mà ngất tôi trói lên lưng Trung.
-
-— Sao không lưng cô?
-
-— Vì tôi còn phải bắn.
-
-Trung chen:
-
-— Tôi phản đối phân công nhân sự.
+— Hang đẹp quá, tôi ở.
 
 ***
 
-Bộ đàm bắt được sóng lúc 00:22.
+Bộ đàm bắt được tín hiệu lúc 00:22.
 
-— Đội một gọi trung tâm.
+Khải trả lời sau ba lần gọi.
 
-Lần này Khải trả lời.
+— Thi, nghe được. Báo vị trí.
 
-Giọng vỡ nhưng hiểu được:
+— Hang A Phủ, khu ngoài. Tôi và Trung. Quỳnh, Lan, Trâm mất dấu phía đông bắc điểm tạm khoảng 19:45. Có nhiều điểm phát âm và bột đen dọc lối.
 
-— Thi, nghe rõ. Vị trí?
+— Đã có ba tổ tìm. Huy an toàn với Minh. Không tự rời hang tới sáng trừ khi có nguy cơ trực tiếp. Giữ đèn đánh dấu cửa hang.
 
-— Hang A Phủ, khu ngoài. Tôi, Trung, Huy. Quỳnh, Lan, Trâm mất dấu phía đông bắc điểm an toàn khoảng 19:45.
-
-— Đã có ba tổ tìm. Không tự rời hang tới sáng nếu không có nguy cơ trực tiếp. Đánh dấu đèn nếu nghe người.
+Thi thở ra lần đầu tiên từ lúc vào rừng.
 
 — Rõ.
 
-— Huy tình trạng?
+— Trung tình trạng?
 
-Huy giật bộ đàm khỏi tay Thi trước khi cô kịp ngăn.
+Cô nhìn hắn.
 
-— Còn đẹp trai.
+— Tỉnh, định hướng được. Có cảm giác bất thường gần các điểm bột đen nhưng chưa rõ cơ chế.
 
-Đầu kia im hai giây.
+Trung ghé gần bộ đàm.
 
-Khải nói:
+— Tôi phản đối chữ “bất thường”.
 
-— Trả máy cho Thi.
+Khải đáp ngay:
 
-Huy đưa lại.
+— Phản đối sau. Nghe lệnh Thi.
 
-— Anh ấy nhớ tôi.
+Tín hiệu mất.
 
-Thi phải quay mặt để giấu cười.
+Trung nhìn cô.
+
+— Sao ai cũng thích ra lệnh tao vậy?
+
+— Vì mày cần.
 
 ***
 
-Một giờ mười, dơi bay khỏi sâu trong hang.
+Khoảng một giờ, Thi nghe tiếng bước chân từ sâu trong hang.
 
-Không phải một con.
+Không dơi, không nước nhỏ.
 
-Cả đàn.
+Bước người.
 
-Tiếng cánh dội trần đá thành âm thanh ào như gió.
+Cô đứng dậy, rút súng nhưng hạ nòng về nền.
 
-Trung cúi đầu.
+— Có người ở trong đó không? Lên tiếng.
 
-Huy kéo áo che mặt.
+Không đáp.
 
-Thi không bắn.
-
-Dơi bay qua cửa rồi mất vào mưa.
-
-Sau đó trong hang có tiếng bước chân.
-
-Từ sâu bên trong.
-
-Chậm.
-
-Một người.
-
-Thi giơ súng.
-
-— Ai đó?
-
-Không trả lời.
-
-Ánh đèn pin quét.
-
-Huy xuất hiện.
-
-Một Huy khác.
-
-Đứng cách họ gần hai mươi mét.
-
-Mặc đúng áo Huy đang mặc.
-
-Gầy.
-
-Tóc dài.
-
-Mặt mệt.
-
-Trung quay sang Huy thật bên cạnh.
-
-Rồi nhìn Huy trong hang.
-
-— Được rồi. Trò này hơi thiếu sáng tạo.
-
-Huy thật nói:
-
-— Tôi thấy người kia là A Mã.
-
-Thi:
-
-— Tao thấy không rõ mặt.
-
-Trung nhìn.
+Trung nhìn vào bóng tối.
 
 — Tao thấy Huy.
 
-Ba người ba hình.
+Thi không thấy Huy. Cô chỉ thấy một mảng tối có hình người ở rất xa, có thể là cột đá.
 
-Thi nói ngay:
+— Camera.
 
-— Không tương tác.
+Trung giơ điện thoại. Trên màn hình không có người.
 
-Hình kia bước tới.
+Nhưng bằng mắt thường, hắn vẫn thấy Huy đứng đó, đúng bộ dạng gầy gò lúc vừa được cứu.
+
+“Huy” gọi:
 
 — Trung.
 
-Giọng Huy.
+Giọng vọng trong hang.
 
-— Thi bị nhập rồi.
+— Thi không còn là Thi nữa.
 
-Trung cười.
+Trung quay sang.
 
-— Kịch bản cũ.
+Gương mặt Thi bắt đầu đổi trong mắt hắn. Da xám lại, mắt tối sâu, miệng kéo dài quá mức. Hắn lùi một bước, tay vô thức chạm con dao gấp ở thắt lưng.
 
-— Nhìn mắt nó.
+Thi nhìn thấy động tác đó.
 
-Trung nhìn Thi.
+Cô không chĩa súng vào hắn.
 
-Trong mắt hắn, gương mặt Thi bắt đầu biến.
+— Bỏ tay khỏi dao.
 
-Da xám.
+— Tao đang cố.
 
-Miệng rộng hơn.
+— Nhìn điện thoại. Camera thấy tao thế nào?
 
-Hai mắt đen.
+Trung đưa máy lên bằng tay run. Trên màn hình, Thi vẫn là Thi: tóc ướt vì mưa, mặt bẩn, mắt thâm vì thiếu ngủ.
 
-Huy thật bên cạnh nói:
+Bằng mắt thường, thứ đứng trước hắn lại đang nhe răng.
 
-— Tôi không thấy cô ấy đổi.
+Giọng trong hang nói:
 
-“Fake Huy” nói:
+— Đâm nó trước.
 
-— Nó sẽ giết mày. Ra tay trước.
+Trung thở càng nhanh.
 
-Trung siết con dao gấp dùng sinh tồn trong tay.
+Thi nói đều:
 
-Thi đứng yên.
+— Mày không cần tin tao. Tin cái màn hình trước. Bỏ dao xuống đất.
 
-Không giơ súng về hắn.
+— Nếu màn hình cũng sai thì sao?
 
-— Trung. — cô nói. — Mày nghe tao không?
+— Thì mày vẫn còn lựa chọn ít không thể đảo ngược hơn là đâm một người.
 
-Trong mắt Trung, răng cô dài ra.
+Câu đó giữ hắn lại.
 
-— Nghe.
+Không phải ký ức tuổi trẻ, không phải một lời thề. Chỉ là nguyên tắc đủ đơn giản để bám khi chính mắt mình không đáng tin.
 
-— Tao là ai?
+Trung rút dao khỏi bao.
 
-— Con quỷ cái.
+Thi cứng người nhưng không đổi tư thế.
 
-Thi cười rất nhẹ.
+Hắn cúi xuống, đặt con dao lên nền đá rồi đá sang một bên.
 
-— Còn đùa được là ổn.
+— Xong.
 
-“Fake Huy” tiến gần.
-
-— Đâm nó.
-
-Trung nhìn Thi.
-
-Hắn nhớ những năm đại học.
-
-Thi chạy dép lê đuổi móc túi.
-
-Thi ngủ gục trên tài liệu.
-
-Thi mắng hắn khi trễ giờ.
-
-Thi ngồi cả đêm cạnh giường sau chén trà.
-
-Những thứ nhỏ.
-
-Không có gì anh hùng.
-
-Nhưng chính những thứ nhỏ là ký ức khó giả nhất.
-
-Trung hạ dao.
-
-— Không.
-
-“Fake Huy” gầm:
-
-— Nó không còn là người!
-
-Trung nhìn thẳng hình ảnh Thi đang biến dạng.
-
-— Thì tao trói nó lại.
+“Huy” trong hang quát lớn hơn:
 
 — Nó sẽ giết mày!
 
-— Thì tính sau.
+Trung nhắm mắt.
 
-Hắn cười, môi run.
+— Thì ít nhất tao chưa giết nhầm trước.
 
-— Cùng lắm nó thành quỷ, tao làm ma theo. Chứ kêu tao giết nó trước thì mày không hiểu tao rồi.
+Thi lập tức tiến tới, không chạm hắn mà kéo điện thoại của mình ra quay toàn cảnh. Trên video không có hình người trong hang.
 
-Thi đứng im.
+Nhưng micro thu được một lớp âm rất nhỏ.
 
-Một giây sau khuôn mặt cô trở lại bình thường trong mắt Trung.
+Một giọng méo lặp đi lặp lại:
 
-“Fake Huy” lao tới.
+**“Trung... Trung...”**
 
-Trung không đâm Thi.
+Không phải câu đầy đủ hắn đang nghe.
 
-Hắn xoay người, vung dao vào bóng kia.
+Thi rọi đèn dọc vách nơi âm thanh phản lại mạnh nhất. Trong một khe đá ngang đầu gối có một túi vải đen, dây loa mảnh và lớp nhựa sẫm bôi vòng quanh.
 
-Lưỡi dao đập vào vách đá.
+Trung đưa tay lên cổ.
 
-Keng.
+— Ở đó. Cái ngứa mạnh nhất ở đó.
 
-Tia lửa nhỏ bắn.
+— Đứng yên. Đừng lại gần.
 
-Hình người vỡ như khói.
+Thi dùng kẹp trong túi hiện trường gắp cả túi bỏ vào hộp kim loại nhỏ rồi kéo Trung ra sát cửa hang, cách khe đá hơn ba chục mét.
 
-Trong đúng khoảnh khắc cuối, Trung không còn thấy Huy.
+Không có khoảnh khắc phép thuật vỡ tung.
 
-Hắn thấy một người đàn ông không có mặt.
+Gương mặt Thi trong mắt Trung chỉ từ từ trở lại. Giọng “Huy” nhỏ dần, còn tiếng lặp từ loa gần như mất hẳn khi bị nhốt trong hộp.
 
-A Hù thật.
+Năm phút sau hắn mới thở đều được.
 
-Rồi mất.
+— Giờ nhìn tao thế nào? — Thi hỏi.
 
-Không để lại xác.
-
-Chỉ một vệt bột đen trên đá.
-
-***
-
-Trung ngồi phịch xuống.
-
-Hai tay run dữ.
-
-Thi cất súng, tới trước mặt.
-
-— Nhìn tao.
-
-— Tao đang nhìn.
+— Khó ưa như cũ.
 
 — Mấy ngón?
 
@@ -480,156 +314,104 @@ Cô giơ ba ngón.
 
 — Tên tao?
 
-— Trần Ngọc Thi.
+— Thi.
 
-— Sai tên đệm.
-
-Trung hoảng.
-
-Thi bật cười.
-
-— Tao giỡn.
-
-— Đụ má mày!
-
-Hắn gần như hét.
-
-Huy ngồi bên cạnh cười đến ho.
-
-Không khí căng suốt mấy phút vỡ ra.
-
-Trung chửi liên tục.
-
-Thi để hắn chửi.
-
-Rồi ngồi xuống trước mặt.
-
-— Cảm ơn.
-
-Trung im.
-
-— Vì gì?
-
-— Vì không đâm tao.
-
-— Tiêu chuẩn tình bạn của mày thấp vậy?
-
-— Với mày phải bắt đầu từ nền.
-
-Hai người nhìn nhau.
-
-Quá lâu.
-
-Trung hơi nghiêng tới.
-
-Thi cũng không lùi.
-
-Khoảng cách còn chưa tới một gang.
-
-Huy ho một tiếng rất giả.
-
-— Tôi xin lỗi vì còn sống.
-
-Thi đứng bật dậy.
-
-— Anh im!
-
-Trung quay đi, tai đỏ.
-
-Huy cười.
-
-— Bị nhốt bốn tháng vẫn có content coi.
-
-***
-
-Hai giờ mười bảy, Thi kiểm tra vệt bột trên đá.
-
-Không chạm tay.
-
-Cô lấy mẫu.
-
-Huy nhìn.
-
-— Nếu A Hù thật là một trong năm “dấu”, có thể Tùng đang dùng phần đó để tạo hình.
-
-Thi hỏi:
-
-— Tức Trung vừa thấy một người chết qua mặt anh?
-
-— Tôi không biết.
-
-Huy chống lưng vào đá.
-
-— Tôi thấy A Mã. Trung thấy tôi. Có thể nó mượn cái gần nỗi sợ nhất. Có thể chỉ là bộ não tự ghép.
-
-Thi gật.
-
-— Ghi cả hai giả thuyết.
-
-***
-
-Gần sáng, bộ đàm có tín hiệu lần nữa.
-
-Một tổ tìm kiếm đã phát hiện dải vải đỏ ở hướng đông.
-
-Dấu của Quỳnh.
-
-Thi bật đứng.
-
-— Có người?
-
-— Chưa. Có dấu chó, vết máu và một mái đá. Đang tiếp cận.
+— Đầy đủ.
 
 Trung nhìn cô.
 
-— Lan.
+— Mày có giấy tờ không? Tao không làm thủ tục hành chính lúc một giờ sáng.
 
-Thi nói vào máy:
+Thi bật cười. Tiếng cười ngắn nhưng thật.
 
-— Kiểm tra người nằm trước. Nữ, khoảng hai mươi bốn, có thể mạch rất chậm. ĐỪNG KẾT LUẬN TỬ VONG nếu chưa khám kỹ.
+Hắn cũng cười rồi lập tức cúi mặt, hai tay vẫn run.
 
-Đầu kia đáp:
+— Tao suýt rút dao.
 
-— Rõ.
+— Nhưng mày đặt xuống.
 
-Huy nhìn Thi.
+— Nếu camera không có thì sao?
 
-— Sao biết mạch chậm?
+Thi ngồi đối diện.
 
-— Quỳnh từng kể Lan học vài kỹ thuật điều tức kỳ quặc.
+— Thì tao sẽ tìm một cách khác để làm mày chậm lại. Quan trọng là lúc không biết, đừng chọn hành động không thu lại được.
 
-Trung nói:
+Trung gật.
 
-— Mày tin ghê.
+Một lúc sau hắn hỏi:
 
-Thi nhìn cửa hang đang sáng dần.
+— Mày có sợ tao không?
 
-— Tao chỉ không muốn ai lặp lại sai lầm tuyên bố một người chết khi họ chưa chết.
+Thi trả lời ngay:
 
-Một phút sau bộ đàm vang:
+— Có.
 
-— Tìm thấy nữ. Còn thở.
+Trung ngẩng lên.
 
-Thi nhắm mắt.
+— Cảm ơn vì thành thật.
 
-Trung thả đầu ra sau vách.
+— Tao sợ cái đang tác động lên mày. Cũng sợ mày hoảng rồi làm bậy. Hai chuyện đó khác với coi mày là quái vật.
 
-Không ai reo.
+Hắn im rất lâu.
 
-Chỉ có một hơi thở tập thể nhẹ đi.
+— Ừ.
 
-— Tình trạng?
+Không có gì lãng mạn hơn được nói ra. Nhưng từ đó tới sáng, hai người ngồi gần nhau hơn trước một chút.
 
-— Bị cắn cẳng tay, sốt, lơ mơ. Đang đưa ra.
+***
 
-Thi hỏi ngay:
+Thi báo phát hiện túi loa và chất đen khi bộ đàm bắt lại sóng ngắn. Khải yêu cầu giữ nguyên hộp, không mở, chờ đội kỹ thuật.
 
-— Có hai nữ khác?
+Trung vẫn còn cảm giác râm ran ở gáy nhưng yếu hơn rõ sau khi rời xa túi.
 
-— Không.
+— Nếu tao đúng là Dẫn Chủng thì sao? — hắn hỏi.
+
+Thi nhìn cửa hang.
+
+— Thì tìm cách xử lý.
+
+— Nếu không xử lý được?
+
+— Chưa tới câu đó.
+
+— Mày ghét câu giả định hả?
+
+— Tao ghét tự tuyên án khi chưa có kết quả.
+
+Trung nghe xong không hỏi tiếp.
+
+***
+
+Gần bốn giờ sáng, một tổ tìm kiếm báo phát hiện dải phản quang đầu tiên ở hướng đông. Sau đó thêm hai dải nữa và một miếng vải đỏ buộc cao trên cây.
+
+Thi đứng bật dậy.
+
+— Có người không?
+
+— Có mái đá. Đang tiếp cận.
+
+Cả hai nhìn nhau.
+
+Một phút dài hơn bình thường.
+
+Bộ đàm lại vang:
+
+— Tìm thấy một nữ. Còn tỉnh nhưng yếu, cẳng tay bị chó cắn, cổ chân sưng lớn. Nhận dạng Lan.
+
+Thi chống tay lên vách đá.
+
+Trung nhắm mắt.
+
+— Còn hai người kia?
+
+— Không ở mái đá. Có dấu cho thấy hai người rời về hướng đông. Người bị thương nói Quỳnh và Trâm đi tìm sóng/cứu viện.
+
+Thi hỏi ngay tình trạng Lan, yêu cầu đưa cô ra và kiểm tra vết cắn đúng quy trình. Đầu kia xác nhận.
+
+Không ai reo mừng. Một người được tìm thấy chỉ làm danh sách mất tích ngắn hơn từ ba xuống hai.
+
+Khi trời bắt đầu sáng ngoài cửa Hang A Phủ, Thi nhìn bản đồ, nơi đội tìm kiếm đang mở rộng theo hướng Lan chỉ.
 
 Quỳnh và Trâm vẫn ở ngoài đó.
 
-Mặt trời bắt đầu chiếu một đường sáng mỏng qua cửa Hang A Phủ.
-
-Đêm chưa kết thúc với họ.
+Nhưng ít nhất bây giờ họ có một đường để đi theo.
