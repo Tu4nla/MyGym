@@ -1,206 +1,96 @@
 # Chương 17 — Đúng chỗ
 
-Người đầu tiên được đưa khỏi Phòng 17 là Huy.
+Người đầu tiên rời Phòng 17 là Huy, đơn giản vì bác sĩ muốn kiểm điện tim sau mấy ngoại tâm thu vừa ghi được. Anh phản đối ngay khi cáng được đẩy tới cửa.
 
-Không phải vì anh nguy kịch nhất.
+— Trung mới là người cần nằm.
 
-Vì sau bảy giây tín hiệu hai nhịp, bác sĩ muốn kiểm tim trước.
+Bác sĩ không ngẩng đầu khỏi máy monitor cầm tay.
 
-Huy phản đối ngay khi cáng vừa được đẩy tới.
+— Cậu vừa ngã dựa vào kệ.
 
-— Trung mới là bệnh nhân chính.
+— Em dựa có kiểm soát.
 
-Bác sĩ không ngẩng đầu khỏi monitor.
+Quỳnh đi cạnh cáng, một tay giữ quai balô của Huy để anh khỏi với xuống lấy.
 
-— Cậu vừa ngã.
+— Mày im giùm.
 
-— Em ngã có kỹ thuật.
+Khải đứng cuối hành lang. Vai áo dính bụi trắng, ống tay có một vệt máu nhỏ không phải của anh. Một cán bộ đang được băng tạm gần cầu thang; hai đối tượng mặc đồ bảo trì bị áp giải qua lối khác. Cảnh tượng đủ lộn xộn để Huy thôi đùa khi cáng lăn ngang một người bị giữ. Người đàn ông nhìn anh đúng một lần, ánh mắt không hằn học, chỉ lạnh và tính toán như đang nhìn món hàng đã trượt khỏi tay.
 
-Quỳnh đang giữ một bên vai anh, nghe tới đó chỉ nói:
-
-— Mày im.
-
-Huy bị đặt lên cáng.
-
-— Tôi tự đi được.
-
-Khải từ cuối hành lang quay lại.
-
-Áo sơ mi anh dính một vệt bụi trắng ở vai. Một mảnh kính rất nhỏ còn mắc trên ống tay mà chưa ai kịp phủi.
-
-— Nằm.
-
-Huy nhìn anh.
-
-— Hai người đúng là cùng phe độc tài.
-
-Không ai nghe.
-
-Cáng lăn qua hành lang tòa soạn.
-
-Mùi khói kích ứng vẫn còn lẫn trong mùi gỗ ẩm và bụi vôi. Đèn sự cố nhấp nháy trên tường. Một cán bộ kỹ thuật đang ngồi tựa chân cầu thang, vai quấn băng tạm. Hai người khác áp giải một đối tượng mặc đồ bảo trì đi ngang, hai tay bị khóa phía sau.
-
-Huy nhìn hắn.
-
-Người đàn ông cũng nhìn Huy.
-
-Không oán.
-
-Không sợ.
-
-Chỉ nhìn như người ta nhìn một món hàng đã hụt mất lúc gần giao xong.
-
-Huy không đùa nữa.
-
-***
-
-Trung ra sau.
-
-Hắn tự đi nhưng Thi giữ khuỷu tay.
+Trung ra sau. Hắn tự đi, nhưng Thi vẫn giữ khuỷu tay.
 
 — Tao đi được.
 
 — Tao biết.
 
-— Vậy thả.
+— Thả ra được không?
 
 — Không.
 
 — Lý do?
 
+Thi nhìn thẳng phía trước.
+
 — Tao thích.
 
-Trung cười mệt.
+Trung cười rất mệt.
 
-— Đúng là tình yêu.
+— Nghe giống tán tỉnh quá.
 
-Thi không chửi.
+— Sống qua sáng rồi tính.
 
-Hắn hơi bất ngờ.
+Lần này hắn không bồi thêm câu nào.
 
-Nó siết tay hơn một chút.
+Đi ngang cửa Phòng 17, Trung quay lại. Bên trong chỉ còn năm tờ giấy, chiếc chuông của A Mã và mấy cái ghế lệch khỏi vị trí ban đầu. Không tờ thứ sáu. Không bóng người. Không thứ gì trên camera mà người ngoài phòng không thấy.
 
-— Sống qua sáng rồi nói.
+Hắn hỏi nhỏ:
 
-Lần này Trung không bồi thêm câu nào.
+— Mày còn nghe gì không?
 
-Khi đi ngang cửa Phòng 17, hắn dừng rất nhẹ.
-
-Cửa đã mở.
-
-Bên trong chỉ còn năm tờ giấy trên bàn, chuông của A Mã và một chiếc laptop đã tắt màn hình.
-
-Không bóng.
-
-Không người.
-
-Nhìn như một căn phòng bừa sau buổi họp quá dài.
-
-Trung hỏi nhỏ:
-
-— Mày có nghe gì không?
-
-Thi biết hắn không hỏi tiếng bước chân ngoài hành lang.
+Thi hiểu hắn không hỏi tiếng bộ đàm.
 
 — Không.
+
+Trung chờ một chút rồi nói:
 
 — Tao cũng không.
 
-Một câu đáng lẽ phải làm nhẹ lòng.
-
-Nhưng cả hai đều không thấy nhẹ ngay.
+Một câu đáng lẽ phải làm nhẹ lòng ngay. Nhưng cả hai đã sống quá lâu trong những ngày mà chữ “không” có thể đổi thành “chưa” chỉ sau một đêm, nên họ chỉ tiếp tục đi.
 
 ***
 
-Ba đối tượng Chợ Âm bị giữ trong tòa soạn.
+03 giờ 11, bệnh viện sáng trắng như không có khái niệm ban đêm.
 
-Người thứ tư chạy qua lối mái nhưng bị bắt ở ngõ sau.
-
-Không ai chết.
-
-Một người gãy cẳng tay khi chống trả.
-
-Một cán bộ bị rách vai vì kính.
-
-Một kỹ thuật viên của tòa soạn hít phải chất kích ứng, nôn ba lần rồi được cho thở oxy.
-
-Không có màn “đột kích quỷ ám” nào trong biên bản.
-
-Có xâm nhập trái phép.
-
-Có vũ khí.
-
-Có chất gây kích ứng thần kinh trong hệ thông gió.
-
-Có thẻ truy cập bị lạm dụng.
-
-Có dữ liệu camera bị vô hiệu hóa có chủ đích.
-
-Có những thứ đủ thật để xử lý bằng luật.
-
-Khải bắt mọi người ghi đúng cái đó trước.
-
-Những thứ còn lại để sau.
-
-***
-
-03 giờ 11.
-
-Bệnh viện vẫn sáng như ban ngày.
-
-Ánh đèn trắng làm mặt ai cũng xấu đi một chút.
-
-Huy nằm ở giường theo dõi, áo bệnh nhân rộng hơn người. Điện cực dán trên ngực kéo những sợi dây nhỏ về monitor.
-
-Quỳnh ngồi ghế nhựa cạnh giường.
-
-Nó không ngủ.
-
-Huy cũng không.
-
-Mười phút đầu Huy còn nói.
-
-Phút thứ mười một anh im.
+Huy nằm ở giường theo dõi với mấy điện cực dán trên ngực. Quỳnh ngồi ghế nhựa bên cạnh, chân co lên một chút vì lạnh. Mười phút đầu Huy vẫn còn đủ sức chê áo bệnh nhân rộng và nói bệnh viện nên đầu tư cà phê tốt hơn. Đến phút thứ mười một anh im.
 
 Quỳnh biết đó mới là lúc anh bắt đầu sợ thật.
 
-Nó hỏi:
+— Có thấy cái người giống mày nữa không? — nó hỏi.
 
-— Nghe gì không?
+Huy nhìn trần.
 
 — Không.
 
-— Thấy gì?
+— Có nghe gì không?
 
-— Trần nhà hơi mốc.
+— Có tiếng máy lạnh rung.
 
 — Tao hỏi cái khác.
 
-Huy nhìn lên trần.
-
 — Không.
 
-Một lúc sau anh nói:
+Một lúc sau Huy quay đầu sang.
 
-— Quỳnh.
+— Nếu cái gì đó thật sự đi qua tao thì sao?
 
-— Gì?
+Quỳnh không trả lời “không có đâu”. Cả hai đã quá mệt với những câu an ủi giả làm kết luận.
 
-— Nếu nó qua tao thật thì sao?
-
-Đây là câu đầu tiên từ lúc ra khỏi Phòng 17 mà Huy không bọc đùa bên ngoài.
-
-Quỳnh tựa lưng ghế.
-
-— Thì tìm bằng chứng.
+— Thì tìm dấu của nó.
 
 — Tao đang hỏi nếu có thật.
 
-— Tao cũng trả lời thật.
+— Tao cũng trả lời thật. Có dấu thì kiểm. Có dữ liệu thì theo. Không có thì mày không được biến mỗi lần tim hụt một nhịp thành lời tiên tri.
 
-Huy quay mặt sang.
-
-— Không có chuyện mày tự ngồi đoán rồi biến từng cái giật mí mắt thành điềm. Có dấu thì kiểm. Có dữ liệu thì theo. Không có thì sống.
+Huy cười rất nhẹ.
 
 — Nghe giống Khải.
 
@@ -208,25 +98,11 @@ Huy quay mặt sang.
 
 — Đáng sợ.
 
-Quỳnh nhìn anh.
+Quỳnh kéo áo khoác lên đầu gối.
 
-— Mày đã mất bốn tháng ở Hồng Ngài vì có người biến những thứ không ai hiểu thành công cụ. Đừng tự làm phần còn lại cho họ.
+— Mày đã mất bốn tháng vì có người dùng thứ họ không hiểu để quyết định thay người khác. Đừng tự làm nốt phần còn lại cho họ.
 
-Huy im.
-
-Bên ngoài cửa kính, một điều dưỡng đẩy xe thuốc đi qua.
-
-Bánh xe có một chỗ méo nên cứ mỗi vòng lại phát ra tiếng cộc nhỏ.
-
-Cộc.
-
-Cộc.
-
-Cộc.
-
-Một âm thanh rất bình thường.
-
-Huy nghe thêm vài nhịp rồi hỏi:
+Huy im. Ngoài cửa kính, một điều dưỡng đẩy xe thuốc đi qua. Bánh xe có một điểm méo, cứ mỗi vòng lại phát ra tiếng cộc khô. Một âm thanh tầm thường đến mức Huy nghe thêm mấy lần mới thấy dễ chịu.
 
 — Mày ở đây tới sáng à?
 
@@ -238,61 +114,37 @@ Huy nghe thêm vài nhịp rồi hỏi:
 
 — Vậy về ngủ đi.
 
+Quỳnh nhìn điện thoại.
+
 — Không.
 
 — Lý do?
 
-Quỳnh nhìn điện thoại.
-
 — Tao thích.
 
-Huy bật cười.
-
-Đó là lần đầu trong đêm tiếng cười của anh nghe giống trước Hồng Ngài.
+Huy bật cười. Lần này tiếng cười nghe gần với Huy trước Hồng Ngài hơn tất cả những câu đùa từ lúc được cứu.
 
 ***
 
-Trung nằm ở phòng theo dõi cách đó hai tầng.
+Trung nằm ở tầng khác. Thi đã ngủ gật được gần hai mươi phút khi hắn tỉnh lúc 03 giờ 29. Đầu nó hơi nghiêng sang một bên, một tay vẫn đặt gần mép giường như thể cơ thể còn nhớ mình đang trực dù đầu đã chịu thua.
 
-Thi ngồi cạnh giường, nhưng khác Quỳnh, nó đã ngủ gật được mười bảy phút.
+Trung nhìn trần.
 
-Đầu hơi nghiêng sang bên.
+Không căn phòng không cửa. Không năm cái tên. Không tiếng ai gọi từ bếp. Hắn mất vài giây để nhận ra mình vừa mơ một giấc mơ bình thường.
 
-Một tay vẫn đặt trên mép giường như lúc tỉnh.
-
-Trung mở mắt lúc 03 giờ 29.
-
-Không biết vì máy đo kêu hay vì một cơn mơ vừa đứt.
-
-Hắn nhìn trần.
-
-Không có căn phòng không cửa.
-
-Không năm người.
-
-Không ghế thứ sáu.
-
-Chỉ bóng quạt thông gió rất nhỏ quay trên trần trắng.
-
-Trung nghiêng sang Thi.
-
-Nó ngủ mà chân mày vẫn hơi nhíu.
-
-Hắn đưa tay định kéo chiếc áo khoác đang trượt khỏi vai nó.
-
-Thi mở mắt ngay.
+Thi mở mắt khi hắn định kéo áo khoác đang trượt khỏi vai nó.
 
 — Gì?
 
-— Tao kéo áo.
+— Tao kéo áo thôi.
 
-— Đừng có nhân cơ hội.
+— Đừng lợi dụng lúc tao ngủ.
 
 — Mày ngủ mà vẫn dữ vậy?
 
-Thi ngồi thẳng lại, nhìn monitor.
+Thi ngồi thẳng, nhìn monitor trước rồi mới nhìn hắn.
 
-— Có đau đâu không?
+— Đau không?
 
 — Không.
 
@@ -300,433 +152,141 @@ Thi ngồi thẳng lại, nhìn monitor.
 
 — Không.
 
-— Có nghe giọng?
+— Nghe giọng?
 
-Trung chậm một nhịp.
-
-— Không.
-
-Thi nhìn hắn đủ lâu để chắc câu trả lời không phải để làm nó yên.
+Trung lắc đầu.
 
 — Mơ?
 
 — Có.
 
-— Gì?
+Thi chờ. Trung nhìn hai bàn tay mình, rồi nói:
 
-Trung nhìn xuống bàn tay mình.
-
-— Tao thấy nhà.
-
-— Nhà nào?
-
-— Nhà tao hồi nhỏ. Mẹ tao đang quét sân. Bố tao sửa cái quạt. Tao đứng ngoài cửa.
-
-Thi chờ.
-
-— Rồi sao?
-
-— Hết.
+— Nhà tao hồi nhỏ. Mẹ quét sân. Bố sửa cái quạt bàn bị kẹt. Tao đứng ngoài cửa cầm bịch bánh. Hết.
 
 — Không có ai chết?
 
 — Không.
 
-— Không có Hồng Ngài?
+— Không Hồng Ngài?
 
 — Không.
 
-Trung cười rất nhẹ.
+Trung cười, lần này gần như ngượng vì vui.
 
-— Giấc mơ đầu tiên mấy tháng nay không có người chết.
+— Mấy tháng rồi mới mơ một giấc không có người chết.
 
-Thi không biết nên coi đó là tín hiệu y khoa hay một điều nhỏ để vui.
+Thi nhìn hắn một lúc.
 
-Nó chọn cả hai.
+— Vậy ngủ tiếp đi.
 
-— Ngủ tiếp đi.
+— Mày còn ở đây không?
 
-— Mày có ở đây không?
-
-Thi đang định cằn nhằn.
-
-Nhưng nhìn mặt hắn, nó chỉ nói:
+Nó định cằn nhằn theo thói quen, nhưng cuối cùng chỉ nói:
 
 — Có.
 
-Trung nhắm mắt.
-
-Hai phút sau Thi nghe hắn nói, rất nhỏ:
+Trung nhắm mắt. Hai phút sau hắn nói rất nhỏ:
 
 — Cảm ơn.
 
-Nó không đáp.
-
-Chỉ kéo ghế lại gần thêm một chút.
+Thi không đáp. Nó chỉ kéo ghế lại gần giường thêm một chút.
 
 ***
 
-Sáng hôm sau, kết quả ban đầu được trả từng phần.
+Kết quả y khoa sáng hôm sau không cho ai một đáp án thần bí, và đó là điều Khải thích nhất ở chúng.
 
-Trung:
+Trung không có rối loạn nhịp kéo dài, EEG chưa thấy bất thường rõ, marker cùng nhóm HN-23 vẫn còn nhưng thấp hơn trước; chưa đủ dữ liệu để nói việc giảm nồng độ liên quan đêm Phòng 17 hay chỉ là chuyển hóa theo thời gian. Huy có vài ngoại tâm thu đơn lẻ trong lúc căng thẳng, sau đó trở lại bình thường; các xét nghiệm về hiện tượng khảm tế bào của anh vẫn giống trước, không chứng minh “Song Mạch” là một cơ chế có thể đo được.
 
-Tim bình thường.
+Bác sĩ kết luận đơn giản:
 
-EEG không có bất thường rõ.
+— Hiện tại chưa có bằng chứng về một thứ gì đó “chuyển” từ người này sang người kia. Nhưng cả hai nên tiếp tục theo dõi.
 
-Không còn hai chu kỳ dao động trong monitor qua đêm.
+Somchai đứng ở cửa, không chen một lý thuyết Huyền Môn vào chỗ bác sĩ vừa để trống.
 
-Marker HN-23 trong máu vẫn có nhưng nồng độ thấp hơn trước; chưa biết do chuyển hóa tự nhiên hay liên quan sự kiện.
+Huy nhìn ông.
 
-Huy:
+— Thầy không dịch sang hệ huyền thuật à?
 
-Tim bình thường.
+Somchai khẽ lắc đầu.
 
-Không ghi nhận “nhịp thứ hai”.
+— Không biết thì dịch kiểu gì cũng là thêm chữ.
 
-Các xét nghiệm di truyền cũ vẫn cho thấy hiện tượng khảm/chimera ở một số mẫu mô — điều đã có từ trước và không chứng minh bất cứ thứ siêu nhiên nào.
+Huy nằm yên vài giây rồi gật.
 
-Khải đứng cuối hai giường bệnh khi bác sĩ giải thích.
-
-Anh không hỏi “vậy hết chưa”.
-
-Chỉ hỏi khoảng theo dõi cần thiết, dấu cảnh báo, lịch xét nghiệm lại.
-
-Sau đó mới nhìn hai hồ sơ.
-
-— Về mặt y khoa, chưa có bằng chứng thứ gì chuyển từ Trung sang Huy.
-
-Somchai đứng phía cửa.
-
-— Về mặt Huyền Môn, tôi cũng không dám nói.
-
-Huy nằm trong giường chen vào:
-
-— Lần đầu hai hệ thống thống nhất ở chữ “không biết”.
-
-Bác sĩ không hiểu.
-
-Quỳnh hiểu.
-
-Nó lườm.
-
-Huy kéo chăn lên thêm chút như vô tội.
+— Em bắt đầu thích câu đó.
 
 ***
 
-Khải rời bệnh viện lúc 08 giờ 02.
+Phần người sống của vụ án thì không chờ đợi lâu như phần chưa giải thích.
 
-Anh chưa ngủ.
+Bốn người tham gia vụ đột nhập tòa soạn đều bị giữ. Dữ liệu từ điện thoại, thẻ ra vào và thiết bị mang theo cho thấy họ nhận chỉ thị theo từng lớp, không một người nào có toàn bộ kế hoạch. Người thuê thẻ kỹ thuật không biết người cung cấp chất kích ứng. Người điều khiển node nhắn tin không biết người trực tiếp vào tòa soạn. Một lần nữa Chợ Âm hiện ra đúng bản chất khó chịu nhất của nó: không có ngai, chỉ có những vai tạm thời mà người khác có thể thay thế.
 
-Trên xe về đơn vị, trời Hà Nội vừa sáng nhưng mặt trời bị một lớp mây xám giữ ở đâu đó phía sau. Người đi làm bắt đầu kín đường. Một bà bán xôi dựng xe trên vỉa hè; hơi nóng từ nồi bốc lên, trắng như khói.
+Một phụ nữ ba mươi sáu tuổi tên Nguyễn Thùy Hoài bị bắt sau đó hai ngày. Ngoài công việc kế toán ở một công ty xuất nhập khẩu, hồ sơ đời thường của cô không có gì khiến người ta ngoái nhìn lần thứ hai. Hoài thừa nhận từng giữ vai **Người Giữ Sổ**, nghĩa là quản một số phiên escrow trong từng giai đoạn, nhưng phủ nhận việc mình “đứng đầu” Chợ Âm.
 
-Khải nhìn thấy, theo phản xạ nghĩ tới hệ thông gió tối qua.
+Khải hỏi:
 
-Anh khó chịu với chính mình.
+— Ai ra lệnh vụ tòa soạn?
 
-Một tháng điều tra đủ để những thứ vô hại cũng mang hình của vụ án.
+— Người mua của H-49 gửi điều kiện qua relay.
 
-Điện thoại rung.
+— Danh tính?
 
-Tin bắt giữ người phụ nữ ba mươi sáu tuổi tên Nguyễn Thùy Hoài.
+— Không biết.
 
-Kế toán một công ty xuất nhập khẩu.
+— Cô giữ tiền mà không biết người mua?
 
-Không tiền án.
+Hoài nhìn anh như thể câu hỏi thuộc một mô hình kinh doanh quá cũ.
 
-Không hình xăm nghi lễ.
+— Tôi biết khóa. Không biết người.
 
-Không một ảnh nào trên mạng cho thấy cô có liên hệ thứ người ta gọi là Chợ Âm.
+— Mục tiêu ban đầu?
 
-Khải nhìn hồ sơ trên màn hình.
-
-Một người bình thường.
-
-Đó mới là dạng làm anh ít ngạc nhiên nhất.
-
-***
-
-Hoài ngồi trong phòng hỏi cung lúc 09 giờ 26.
-
-Tóc buộc thấp.
-
-Áo sơ mi xanh nhạt.
-
-Móng tay cắt ngắn.
-
-Trên cổ tay trái còn dấu dây chun.
-
-Nếu gặp ở ngân hàng hoặc thang máy, không ai nhìn lần thứ hai.
-
-Khải đặt một tập ảnh trước mặt.
-
-— Cô là Người Giữ Sổ?
-
-— Có lúc.
-
-— “Có lúc” nghĩa là gì?
-
-— Vai luân phiên.
-
-— Ai giao?
-
-— Hệ thống bỏ phiếu khóa.
-
-— Ai đứng đầu?
-
-Hoài nhìn anh như câu hỏi hơi ngây thơ.
-
-— Không ai.
-
-— Người nào tạo Chợ Âm?
-
-— Không biết. Trước tôi lâu rồi.
-
-— H-49 người mua là ai?
-
-— Tôi không biết danh tính thật.
-
-— Khóa tài khoản?
-
-Hoài đọc một chuỗi.
-
-— Alias?
-
-— Kẻ Không Tên.
-
-Khải không phản ứng.
-
-— Mục tiêu tối qua?
-
-— Dữ liệu.
-
-— Và?
-
-Hoài nhìn xuống bàn.
-
-— Vật chủ.
+— Vật chứa.
 
 — Trung?
 
-— Ban đầu.
+— Vâng.
 
-— Sau đó?
+— Huy thì sao?
 
-Hoài không trả lời.
+Hoài im một nhịp ngắn, đủ để Khải ghi lại nhưng chưa đủ để biến thành lời khai.
 
-Khải đẩy ảnh Huy sang.
+— Sau khi hai người xuất hiện gần nhau, relay đổi điều kiện.
 
-Cô nhìn đúng một giây rồi quay đi.
+— Đổi thế nào?
 
-Một câu trả lời không lời.
+— Giữ cả hai trong phạm vi quan sát. Không để tách quá xa.
 
-— Vì Song Mạch?
+— Vì sao?
 
-— Tôi chỉ giữ giao dịch. Tôi không hiểu kỹ thuật.
+— Tôi không được biết.
 
-— Ai ra lệnh chuyển mục tiêu?
-
-— Người mua.
-
-— Khi nào?
-
-— Tối qua. Khi hai người ở đủ gần.
-
-Khải dừng bút.
-
-— Họ biết diễn biến trong Phòng 17 trực tiếp?
-
-— Tôi nhận update.
-
-— Từ ai?
-
-— Relay.
-
-— Relay lấy dữ liệu từ đâu?
-
-— Tôi không biết.
-
-Khải tựa lưng ghế.
-
-Ngoài hành lang, một chiếc máy photocopy kéo giấy nghe khô và đều.
-
-Anh nghĩ tới camera.
-
-Micro.
-
-Người trong đội.
-
-Thiết bị đã cài từ trước.
-
-Một cơ chế tự động.
-
-Và vài khả năng anh không có tên để ghi.
-
-Không khả năng nào được ưu tiên chỉ vì nó đáng sợ hơn.
+Khải không cho cô một cái tên để bám vào. Không “Song Mạch”, không “Thần Tướng”. Nếu người mua biết những thuật ngữ đó, chính họ phải để lại bằng chứng.
 
 ***
 
-Huy nghe chuyện về Hoài buổi trưa.
+Channarong tự xuất hiện vào sáng hôm sau.
 
-Anh đang ăn cháo bệnh viện và chê nó nhạt đến mức xúc phạm gạo.
+Hắn tới cơ quan phối hợp bằng tên thật, mang hộ chiếu thật và yêu cầu gặp Khải. Mẫu DNA xác nhận máu của hắn ở nhà Hưng và dưới móng người chết trong kho. Channarong thừa nhận đã sửa hai hiện trường theo chỉ đạo của Somchai, thừa nhận bám Trung mà không báo cơ quan chức năng, nhưng không nhận giết người dưới cầu thang.
 
-Quỳnh kể xong, Huy nói:
+— Tôi kéo hắn ra, — Channarong nói. — Hắn cào tay tôi rồi đánh lại. Tôi buông. Sau đó hắn chạy vào tối.
 
-— Tụi nó đặt alias cũng thiếu sáng tạo.
+— Vì sao anh kéo?
 
-— Hoặc cố tình.
+— Tôi tưởng có thứ đứng sau hắn.
 
-— “Kẻ Không Tên”. Sau vụ Người Không Có Tên. Cố tình quá còn gì.
+Khải gõ vài chữ rồi hỏi lại:
 
-Quỳnh bóc quả quýt.
+— Tôi cần hành vi. Anh nhìn thấy gì là lời kể của anh, không phải dữ kiện độc lập.
 
-— Hoặc nó biết mày sẽ nghĩ vậy.
+Channarong im, sau đó gật.
 
-Huy cầm thìa dừng giữa không.
+Biên bản ghi đúng như vậy.
 
-— Tao ghét khi mày chơi trò meta.
+Điều Channarong cung cấp quan trọng hơn nằm ở chuyện cũ của Somchai.
 
-— Ăn đi.
-
-Huy ăn.
-
-Một lát sau:
-
-— Quỳnh.
-
-— Gì?
-
-— Nếu người mua thực sự chỉ chờ Song Mạch chạm Trung... thì từ lúc nào tụi nó biết tao có Song Mạch?
-
-Quỳnh không trả lời ngay.
-
-Ma Kí Sự.
-
-Huyết mạch ở Mẫu Sơn.
-
-Cassette.
-
-Hồ sơ thai sản.
-
-Chợ Âm.
-
-Có quá nhiều điểm có thể rò.
-
-— Không biết. — nó nói.
-
-Huy gật.
-
-Lần này không cố lấp khoảng trống bằng một theory ngay.
-
-Đó là một thay đổi nhỏ.
-
-Quỳnh nhận ra.
-
-Không nói.
-
-***
-
-10 giờ 17 ngày hôm sau, Channarong xuất hiện.
-
-Tự tới.
-
-Không bị bắt ngoài đường.
-
-Hắn bước vào cơ quan phối hợp, đưa hộ chiếu và nói muốn gặp Nguyễn Đức Khải.
-
-Trên cánh tay trái có vết cào mới đóng vảy.
-
-Mẫu DNA đối chiếu sau đó khớp máu ở nhà Hưng và dưới móng người chết trong kho.
-
-Người sống đã có tên.
-
-Channarong thừa nhận sửa hai hiện trường.
-
-Thừa nhận vào kho đêm tấn công.
-
-Không nhận bóp cổ người chết dưới cầu thang.
-
-— Tôi tới sau khi hắn ngã.
-
-Khải đặt ảnh thương tích xuống.
-
-— Máu anh dưới móng hắn.
-
-— Hắn cào tôi trước, khi tôi cố kéo khỏi chỗ tối.
-
-— Tại sao kéo?
-
-Channarong nhìn anh.
-
-— Vì tôi thấy thứ đứng sau hắn.
-
-— Tôi hỏi hành vi, không hỏi lý do huyền thuật.
-
-— Tôi kéo hắn ra. Hắn đánh tôi. Tôi buông. Sau đó hắn chạy và chết.
-
-Một lời khai có thể đúng.
-
-Có thể tự bảo vệ.
-
-Camera không đủ.
-
-Pháp y tiếp tục.
-
-Khải không ghi “thực thể đứng sau nạn nhân”.
-
-Anh ghi:
-
-**Đối tượng khai đã kéo nạn nhân vì tin rằng có nguy hiểm phía sau. Chưa có dữ liệu độc lập xác nhận nguyên nhân nhận thức này.**
-
-Channarong đọc bản lời khai, im một lúc rồi ký.
-
-***
-
-Điều quan trọng hơn là vụ mười bảy năm trước.
-
-Buổi làm việc có Somchai, Lan và luật sư.
-
-Lan tới sớm hơn mười phút.
-
-Nó ngồi đối diện thầy nhưng không hỏi gì.
-
-Somchai trông già hơn lần đầu Lan gặp ở Hồng Ngài.
-
-Có lẽ ông không già đi trong vài tháng.
-
-Chỉ là lần đầu Lan nhìn ông như một người có thể sai đến mức giết người.
-
-Năm 2003.
-
-Một nhóm Huyền Môn gặp một vật chủ Dẫn Chủng ở phía bắc Thái Lan.
-
-Không phải Huyết Ngải của Tùng.
-
-Một biến thể cũ.
-
-Người đó tên Anan.
-
-Em trai Somchai.
-
-Người thứ tư bị cắt khỏi bức ảnh.
-
-Lan nhìn thầy.
-
-Somchai không né.
-
-Anan nhận ba dấu, không phải năm.
-
-Bắt đầu nghe giọng.
-
-Gây ảo giác cho những người đã tiếp xúc cùng vật liệu.
-
-Somchai, A Mã, bà Cầm cố tách.
-
-Không Song Mạch.
-
-Không một người ghi chép trung lập.
-
-Họ dùng cách ép cấu trúc về vật chủ rồi cắt Dẫn Chủng.
+Năm 2003, phía bắc Thái Lan, một nhóm của họ từng gặp một người bị ảnh hưởng bởi một vật dẫn có cơ chế gần với thứ A Mã sau này gọi là Dẫn Chủng. Người đó tên Anan, em trai Somchai. Anh ta bắt đầu mất những khoảng thời gian, nghe giọng và khiến một số người cùng tiếp xúc vật liệu có những cơn hoảng loạn gần giống nhau. Sau hai cái chết, Somchai và những người còn lại quyết định dùng một phương pháp cưỡng ép mà họ tin sẽ “cắt đường”.
 
 Anan chết.
 
@@ -734,395 +294,179 @@ Khải hỏi:
 
 — Ai quyết định?
 
-Channarong nhìn Somchai.
-
-Somchai tự trả lời:
+Somchai ngồi cạnh luật sư, hai bàn tay đặt yên trên bàn.
 
 — Tôi.
 
-Lan nhắm mắt.
+Lan ở phía đối diện nhắm mắt một lúc.
 
-Không khóc.
+— Sau đó còn ai chết nữa không? — Khải hỏi.
 
-Ông nói tiếp:
+— Không.
 
-— Tôi tin nếu không làm, nhiều người sẽ chết.
+Một dữ kiện làm lựa chọn năm ấy dễ hiểu hơn. Và không làm nó sạch hơn.
 
-— Có chết không?
+Somchai nhìn xuống bàn.
 
-— Trước đó có hai.
+— Mười bảy năm tôi tự kể rằng Anan chết để cứu những người còn lại. Có thể đúng. Cũng có thể đó là câu chuyện duy nhất giúp tôi ngủ được.
 
-— Sau khi Anan chết?
+Lan mở mắt.
 
-— Không thêm.
-
-Một dữ kiện khiến quyết định của ông dễ hiểu hơn.
-
-Và không sạch hơn chút nào.
-
-Khải ghi.
-
-— Vì vậy ông tin giết vật chủ là phương án.
-
-Somchai nhìn bàn tay mình.
-
-— Không. Vì vậy tôi biết con người rất dễ biến một lần sống sót thành bằng chứng rằng cách mình chọn là đúng.
-
-Lan ngẩng lên.
-
-Somchai nói:
-
-— Mười bảy năm tôi tự kể với mình rằng Anan chết để cứu người khác. Có thể đúng. Cũng có thể đó là câu chuyện duy nhất giúp tôi ngủ được.
-
-Căn phòng im.
-
-Lan hỏi:
-
-— Nhưng thầy vẫn chuẩn bị người giết Trung.
+— Nhưng thầy vẫn chuẩn bị người theo Trung để giết nếu thấy cần.
 
 — Đúng.
 
-— Nghĩa là thầy chẳng học được gì.
+— Vậy thầy học được gì?
 
-Somchai nhìn học trò.
+Somchai không tránh câu hỏi.
 
-— Có lẽ ta học được cách sợ. Chưa học được cách không để nỗi sợ quyết định thay mình.
+— Ta học được cách sợ chuyện đó lặp lại. Chưa học được cách không để nỗi sợ quyết định thay mình.
 
-Lan quay mặt.
-
-Nó ghét việc ông nói một câu nghe hợp lý.
-
-Người mình giận mà chỉ nói điều ngu sẽ dễ hơn nhiều.
+Lan quay mặt đi. Nó ghét việc người mình đang giận vẫn có thể nói một câu hợp lý. Nếu Somchai chỉ là một ông già độc ác, mọi thứ sẽ dễ hơn rất nhiều.
 
 ***
 
-Somchai bị điều tra về hành vi chỉ đạo xâm phạm thi thể và cản trở hoạt động điều tra.
+Phần hành vi của Somchai và Channarong được tách ra cho cơ quan chức năng tiếp tục xử lý. Việc họ tin mình đang “bảo vệ nhiều người” không miễn cho họ khỏi trách nhiệm đối với xác chết bị xâm phạm, hoạt động theo dõi trái phép hay việc can thiệp một cuộc điều tra đang diễn ra.
 
-Channarong bị tạm giữ để làm rõ các hành vi tại hiện trường và vụ kho.
+Ba ngày sau, Lan tới gặp Somchai trong một buổi làm việc có lịch trước. Không kính ngăn. Chỉ một bàn gỗ nhạt và hai ghế. Nó đặt chiếc chuông A Mã từng giao xuống giữa hai người.
 
-Không ai được miễn luật vì “động cơ bảo vệ”.
+Somchai nhìn chuông rồi nhìn học trò.
 
-Ba ngày sau, Lan tới gặp Somchai trước buổi làm việc với luật sư.
+Lan hỏi:
 
-Không có kính ngăn.
+— Con có ghét thầy không, thầy có muốn biết không?
 
-Chỉ một chiếc bàn gỗ nhạt và hai ghế.
+Ông cười buồn.
 
-Lan đặt chiếc chuông của A Mã lên bàn.
-
-Somchai nhìn.
-
-— Con giữ đi.
-
-— Con chưa hỏi.
-
-— Ta biết.
-
-Lan xoay chiếc chuông bằng đầu ngón tay.
-
-— Con có ghét thầy không?
-
-Somchai cười buồn.
-
-— Đáng lẽ câu đó là của ta.
+— Đáng lẽ ta phải hỏi câu đó.
 
 — Con hỏi trước.
 
-Ông nghĩ.
+Somchai không nói.
 
-— Có lúc ta ghét chính mình đủ cho cả hai.
+Lan xoay chiếc chuông bằng đầu ngón tay.
 
-Lan lắc đầu.
+— Có lúc con ghét. Còn thương thì vẫn thương.
 
-— Đừng lấy phần của con.
+Somchai thở ra rất khẽ.
 
-Somchai im.
+— Hai thứ cùng lúc mệt nhỉ.
 
-Lan nói:
+— Nhưng có được.
 
-— Có. Có lúc con ghét thầy.
+Ông gật. Không xin tha. Lan cũng không biến cái gật thành một màn tha thứ.
 
-— Còn thương?
-
-— Có.
-
-Somchai nhìn chiếc chuông.
-
-— Hai cái cùng lúc khó chịu nhỉ.
-
-Lan nhớ Quỳnh từng nói với Trâm một câu gần giống.
-
-— Nhưng tồn tại cùng lúc được.
-
-Ông gật.
-
-Không xin tha.
-
-Lan cũng không tha bằng một cái gật đầu đẹp đẽ.
-
-Nó cầm chuông lên và đứng dậy.
-
-Ra tới cửa, Somchai gọi:
+Khi nó đứng lên, Somchai gọi lại.
 
 — Lan.
 
-Nó quay lại.
+— Gì?
 
-— Nếu một ngày con gặp thứ mình không hiểu...
+Ông định nói gì đó rồi đổi ý.
 
-Lan nhìn ông.
+— Lần sau gặp thứ con không hiểu, hỏi thêm một người trước khi quyết định.
 
-Somchai dừng.
-
-Rồi thay câu định nói.
-
-— Hỏi thêm một người trước khi quyết định.
-
-Lan mỉm cười rất nhẹ.
+Lan nhìn thầy vài giây.
 
 — Cái đó con làm tốt hơn thầy rồi.
 
-Nó đi.
+Nó cầm chuông đi.
+
+Ra ngoài hành lang, Lan mới đứng lại một chút. Không khóc. Chỉ tựa lưng vào tường, hít một hơi dài rồi gọi cho Quỳnh hỏi tối ăn gì.
+
+Cuộc đời vẫn có bữa tối ngay cả trong những ngày người ta phải thay cách nhìn về một người từng là gia đình.
 
 ***
 
-Khải có một mình trong phòng hồ sơ lúc 23 giờ 08.
+Khải nhận thông báo về H-49 lúc 23 giờ 08 cùng ngày.
 
-Đây là lần hiếm hoi cả ngày không có ai hỏi anh “anh nghĩ nó là gì”.
+Server relay đặt ngoài Việt Nam ghi một event tự động vào **22 giờ 07** đêm Phòng 17 — trong cùng phút monitor Trung hạ sau khi năm cái tên được tách và Huy lưu file thứ năm.
 
-Trên bàn là ba tập.
+Trạng thái hợp đồng đổi từ *pending* sang:
 
-Một tập các nguyên nhân tử vong đã có pháp y.
+**DELIVERED**
 
-Một tập hành vi phạm pháp của Chợ Âm và Huyền Môn.
-
-Một tập mỏng hơn, chưa biết nên đặt tên.
-
-Bóng trên camera.
-
-Hai nhịp.
-
-Cassette.
-
-Các dòng chữ tự xuất hiện.
-
-Khải lấy bút, viết ngoài bìa:
-
-**DỮ LIỆU CHƯA GIẢI THÍCH — KHÔNG SUY DIỄN NGUYÊN NHÂN.**
-
-Anh nhìn dòng đó.
-
-Gạch chữ “không”.
-
-Viết lại nhỏ hơn:
-
-**CHƯA SUY DIỄN NGUYÊN NHÂN.**
-
-Không phải vì anh bắt đầu tin ma.
-
-Chỉ vì “không” và “chưa” khác nhau.
-
-Một điều tra viên sống được lâu nhờ biết sự khác biệt đó.
-
-Điện thoại rung.
-
-Đội kỹ thuật Chợ Âm.
-
-Khải nghe.
-
-Mười phút sau Huy và Quỳnh cũng được gọi tới.
-
-***
-
-Hợp đồng H-49 đã đổi trạng thái.
-
-Không phải do Hoài.
-
-Không do các khóa bị bắt.
-
-Server relay ở nước ngoài ghi một event tự động lúc **22 giờ 07**, đúng khoảng thời gian năm dấu được tách trong Phòng 17.
-
-Trạng thái:
-
-**DELIVERED.**
-
-Khải hỏi:
-
-— Điều kiện nào kích?
-
-Kỹ thuật viên lắc đầu.
-
-— Không rõ. Hệ này không chạy blockchain công khai. Logic server phía bên kia bị xóa sau event.
-
-— Người nhận?
-
-— Trường recipient không có khóa định danh. Chỉ có text.
-
-Anh xoay màn hình.
-
-Một dòng tiếng Việt.
+Trường người nhận không có khóa định danh. Chỉ một chuỗi văn bản:
 
 **ĐÚNG CHỖ.**
 
-Không ai nói gì trong vài giây.
+Kỹ thuật viên nói ngay trước khi bất kỳ ai kịp thần bí hóa nó:
 
-Ngoài cửa sổ, một chiếc xe tải lùi ngoài phố phát tiếng bíp đều đặn.
+— Có thể đặt trigger thời gian. Có thể nhận tín hiệu từ thiết bị cài trước. Có thể log bị sửa sau. Server phía kia đã xóa phần logic chạy event nên giờ chỉ biết nó đã xảy ra.
 
-Huy hỏi:
+Huy nhìn hai chữ trên màn hình.
 
-— Có thể người ta hẹn trước cho server tự đổi lúc đó không?
+— Vậy “đúng chỗ” là đâu?
 
-— Có.
+Quỳnh đứng cạnh anh.
 
-— Có thể relay nhận một trigger từ thiết bị trong Phòng 17?
+— Mày lại vội đặt câu hỏi theo địa điểm rồi.
 
-— Có nếu từng cài.
+Huy cầm bút. Anh nhìn câu mình vừa viết, gạch chữ *đâu* rồi sửa thành:
 
-— Có thể ai đó sau đó sửa log?
+**Đúng chỗ là gì — hoặc là ai?**
 
-— Cũng có.
+Khải không trả lời. Không ai có dữ kiện để trả lời.
 
-Huy gật.
+Anh mở một bìa hồ sơ mới, bỏ bản log vào trong và viết ngoài bìa:
 
-Ba lời giải người sống.
+**DỮ LIỆU CHƯA GIẢI THÍCH — CHƯA SUY DIỄN NGUYÊN NHÂN.**
 
-Không cái nào chứng minh được ngay.
-
-Quỳnh nhìn hai chữ trên màn hình.
-
-— “Đúng chỗ” là đâu?
-
-Không ai trả lời.
-
-Huy lấy sổ tay.
-
-Viết câu đó.
-
-Dừng.
-
-Gạch chữ “đâu”.
-
-Viết lại:
-
-**Đúng chỗ là ai?**
+Chữ *chưa* được gạch chân một lần.
 
 ***
 
-Trung được về nhà sau bốn ngày theo dõi.
+Trung về nhà sau bốn ngày theo dõi.
 
-Vẫn có bảo vệ.
+Căn hộ có mùi đóng kín, một nhánh cây ngoài ban công héo vì không ai nhớ tưới. Hắn đứng ở cửa lâu hơn cần thiết cho tới khi Thi thúc sau lưng:
 
-Không còn căn hộ an toàn.
+— Mày định ngủ ngoài đây à?
 
-Hắn mở cửa nhà lúc gần sáu giờ chiều.
-
-Mùi nhà đóng kín mấy ngày hơi ngai ngái. Một cái ly vẫn úp trên giá từ hôm trước khi đi. Chậu cây ngoài ban công héo một nhánh vì không ai nhớ tưới.
-
-Những thứ nhỏ nhặt khiến hắn đứng ngoài cửa thêm mấy giây.
-
-Thi đi sau.
-
-— Sao?
-
-— Không sao.
-
-— Mày đứng chắn cửa.
-
-Trung bước vào.
-
-Hắn không nhìn tủ inox ngay.
-
-Cởi giày.
-
-Mở cửa ban công.
-
-Tưới cây.
-
-Rồi cuối cùng mới vào bếp.
+Trung bước vào. Hắn cởi giày, mở cửa ban công, tưới cây trước. Chỉ sau đó mới đi vào bếp.
 
 Mặt inox phản lại một người.
 
-Thi đứng ngoài cửa.
+Thi đứng ở cửa bếp.
 
 — Muốn tao che không?
 
 — Không.
 
-Trung nhìn phản chiếu.
+Trung giơ tay phải. Phản chiếu giơ cùng lúc. Hạ xuống. Cùng lúc. Hắn nghiêng đầu, rồi cười một cái hơi ngượng. Người trong inox cười cùng lúc.
 
-Một người.
+— Bình thường, — Trung nói.
 
-Hắn giơ tay.
+— Ừ.
 
-Phản chiếu giơ cùng lúc.
-
-Hạ.
-
-Cùng lúc.
-
-Cười.
-
-Cùng lúc.
-
-Trung thôi cười.
-
-Phản chiếu cũng thôi.
-
-Bình thường.
-
-Hắn đứng lâu hơn cần thiết.
-
-Thi không giục.
-
-Cuối cùng Trung mở tủ lạnh.
-
-Trống gần hết.
+Hắn mở tủ lạnh. Gần như trống.
 
 — Lẩu không?
 
-— Mày mới ra theo dõi.
+— Mày mới ra viện.
 
 — Bác sĩ bảo ăn bình thường.
 
 — Tao chọn quán.
 
-— Đừng có rau mùi.
+— Đừng rau mùi.
 
 Thi nhìn hắn.
 
 — Tao nhớ.
 
-Trung dừng một nhịp.
+Trung dừng tay trên cánh tủ.
 
-Câu “tao nhớ” rất nhỏ.
+Sau nhiều tuần mà ký ức bị chia thành thứ hắn nhớ, thứ camera thấy và thứ người khác kể lại, hai chữ **tao nhớ** bỗng có trọng lượng kỳ lạ.
 
-Nhưng sau nhiều tuần câu chuyện xoay quanh ký ức bị lấy, bị chèn, bị dùng làm bằng chứng rằng một người còn là mình, nó bỗng nặng hơn bình thường.
+— Ừ, — hắn nói.
 
-— Ừ. — Trung nói.
+Hai người xuống phố. Quán lẩu đông, một đứa trẻ bàn bên làm rơi thìa ba lần, ngoài kính mưa bắt đầu rơi lất phất. Trung chê thịt ít. Thi bảo vừa ra viện đừng tham. Hắn kể chuyện một đồng nghiệp bị bắt viết lại biên bản vì sai dấu phẩy.
 
-Hai người xuống phố.
+Giữa câu chuyện Trung bỗng im.
 
-Không ai nói về Người Thứ Sáu trong bữa tối.
+— Gì? — Thi hỏi.
 
-Thi gọi nồi lẩu hai ngăn dù Trung chỉ ăn được một bên.
-
-Trung chê quán cho ít thịt.
-
-Thi bảo hắn mới nằm viện đừng tham.
-
-Một đứa trẻ bàn bên làm rơi thìa ba lần.
-
-Mưa bắt đầu ngoài kính.
-
-Trung kể chuyện một đồng nghiệp bị sếp bắt viết lại biên bản vì sai dấu phẩy.
-
-Thi cười.
-
-Giữa câu chuyện, Trung bỗng im vài giây.
-
-Thi nhìn.
-
-— Gì?
+Hắn nhìn nồi lẩu đang sôi.
 
 — Tao đang kiểm xem tao có vui thật không.
 
@@ -1130,7 +474,7 @@ Thi đặt đũa xuống.
 
 — Kết quả?
 
-Trung nhìn nồi lẩu đang sôi.
+Trung nghĩ vài giây rồi cười.
 
 — Có.
 
@@ -1138,29 +482,19 @@ Trung nhìn nồi lẩu đang sôi.
 
 Hắn ăn.
 
-Trong căn bếp ở nhà, mặt inox đứng trống suốt đêm.
-
-Không bóng thứ bảy.
+Đêm đó mặt inox trong bếp chỉ phản ánh một căn phòng trống.
 
 ***
 
-Ở tòa soạn Âm Dương, Huy ngồi trước một file chưa mở.
+Ở tòa soạn Âm Dương, Huy ngồi trước một file trắng. Ảnh chụp màn hình Khải gửi vẫn mở bên cạnh:
 
-Anh không nhìn gương.
-
-Không nghe cassette.
-
-Không mở Phòng 17.
-
-Chỉ nhìn ảnh chụp màn hình Khải gửi:
-
-**DELIVERED.**
+**DELIVERED**
 
 **ĐÚNG CHỖ.**
 
-Quỳnh đặt một cốc cà phê xuống cạnh bàn.
+Quỳnh đặt một cốc cà phê xuống bàn.
 
-— Viết à?
+— Viết chưa?
 
 — Chưa.
 
@@ -1174,17 +508,17 @@ Quỳnh đặt một cốc cà phê xuống cạnh bàn.
 
 Huy xoay bút.
 
-— Tao muốn viết ngay một bài “Chợ Âm giao cái gì, cho ai”.
+— Tao muốn viết ngay bài “Chợ Âm đã giao cái gì và cho ai”.
 
 — Nhưng?
 
-— Nhưng tao không biết nó giao cái gì.
+— Tao không biết nó giao cái gì. Cũng không biết “giao” có phải thật không.
 
 Quỳnh ngồi xuống bàn đối diện.
 
-Huy nói:
+Huy nhìn file trắng khá lâu.
 
-— Hồi trước tao sẽ viết theory trước rồi tìm bằng chứng sau.
+— Hồi trước tao sẽ viết theory trước rồi đi tìm thứ khớp với nó.
 
 — Tao biết.
 
@@ -1196,17 +530,13 @@ Quỳnh nhấp cà phê.
 
 — Nếu không bao giờ đủ?
 
-— Thì viết cái không đủ.
+— Thì viết cả phần không đủ.
 
-Huy nhìn nó.
+Huy nhìn nó, rồi mở sổ tay. Dưới câu **Đúng chỗ là gì — hoặc là ai?**, anh viết thêm một dòng:
 
-Một lúc sau anh mở sổ tay.
+**Đừng trả lời chỉ vì sợ khoảng trống.**
 
-Dưới câu **“Đúng chỗ là ai?”**, anh viết thêm:
-
-**“Đừng trả lời chỉ vì sợ khoảng trống.”**
-
-Con trỏ trên màn hình vẫn nhấp nháy trong file trắng.
+Con trỏ trên màn hình tiếp tục nhấp nháy.
 
 Không có chữ nào tự xuất hiện.
 

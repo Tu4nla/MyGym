@@ -1,12 +1,6 @@
 # Chương 18 — Ma Kí Sự: Người Thứ Sáu
 
-Ba tuần sau, Hà Nội bước vào một đợt nồm.
-
-Tường tòa soạn Âm Dương đổ mồ hôi.
-
-Những ô kính cao của căn biệt thự Pháp cũ phủ một lớp sương mỏng từ sáng tới trưa. Sàn gỗ lau xong chưa đầy một giờ lại rít dưới đế giày. Mấy tập tạp chí đặt gần cửa sổ phải chuyển sâu vào trong vì giấy bắt đầu cong mép.
-
-Sếp Hòa đi quanh tầng hai với cái khăn trong tay, vừa lau đầu vừa chửi thời tiết như thể độ ẩm là nhân viên dưới quyền làm sai báo cáo.
+Ba tuần sau, Hà Nội bước vào một đợt nồm. Tường tòa soạn Âm Dương ẩm tới mức sếp Hòa đi quanh tầng hai với cái khăn trong tay, vừa lau đỉnh đầu vừa chửi thời tiết như thể độ ẩm là một nhân viên dưới quyền cố tình làm sai báo cáo. Những tập tạp chí đặt gần cửa sổ bị bắt chuyển hết vào trong. Sàn gỗ lau buổi sáng, quá trưa đã rít dưới đế giày.
 
 — Tôi nói rồi, đừng để giấy sát tường!
 
@@ -20,41 +14,13 @@ Quang ở phòng bên vọng sang:
 
 — Cậu quên luôn lương tháng này đi!
 
-Huy ngồi trước bàn, nghe mà thấy yên tâm một cách kỳ lạ.
+Huy ngồi trước bàn, nghe mà thấy yên tâm theo một cách rất khó giải thích. Có những âm thanh phải biến khỏi đời sống một thời gian người ta mới biết mình nhớ: tiếng sếp chửi, tiếng máy in kẹt giấy, tiếng Quang xé bịch bánh tráng rồi giả vờ ho, tiếng Quỳnh gõ bàn phím đều đều ở phía đối diện.
 
-Có những âm thanh chỉ khi từng biến mất khỏi đời sống vài tháng mới biết mình nhớ.
+Không giọng nào trong số đó vang từ trong đầu anh.
 
-Tiếng sếp chửi.
+Ba tuần. Không khoảng mất thời gian. Không tiếng **Biết** lặp lại. Không một phản chiếu nào lệch nhịp. Huy cũng không còn cố đứng trước kính để kiểm tra mỗi tối. Anh nhận ra việc nhìn một cái gương quá lâu vì sợ nó bất thường là cách rất nhanh để chính cái bình thường bắt đầu trông đáng ngờ.
 
-Tiếng máy in kẹt giấy.
-
-Tiếng Quang mở bánh tráng trong giờ làm rồi giả vờ ho để che.
-
-Tiếng Quỳnh gõ bàn phím đều đều phía đối diện.
-
-Không giọng nào trong số đó vang từ trong đầu Huy.
-
-Ba tuần.
-
-Không cassette tự nói.
-
-Không hai nhịp.
-
-Không bóng đứng sau gương.
-
-Không chữ tự hiện trên màn hình.
-
-Không ai gọi anh lúc 02 giờ 13 để nói một việc chưa xảy ra.
-
-Ít nhất là chưa.
-
-***
-
-Buổi sáng đầu tiên Huy quay lại làm, Quang đặt lên bàn anh một cốc trà sữa.
-
-Không nói gì.
-
-Huy nhìn.
+Buổi sáng đầu tiên quay lại làm, Quang đặt lên bàn Huy một cốc trà sữa.
 
 — Gì đây?
 
@@ -68,115 +34,31 @@ Huy cắm ống hút.
 
 — Cảm ơn.
 
-Quang đứng đó thêm một lúc.
-
-— Lần sau đi săn ma báo tao.
-
-Huy ngẩng.
-
-— Để mày đi cùng à?
-
-— Không. Để tao xin nghỉ trước.
-
-Huy cười.
-
-Quang quay đi.
-
-Đi được hai bước lại nói:
+Quang đi được hai bước rồi quay lại.
 
 — Mà... đừng mất tích nữa.
 
-Câu giống hệt trước đêm Phòng 17.
-
-Nhưng lần này Huy không trả “biết rồi” ngay.
-
-Anh nhìn lưng thằng bạn.
+Câu ấy từng được nói trước đêm Phòng 17, gần giống câu sếp Hòa đã nói trước chuyến Hồng Ngài. Lần này Huy không đáp bằng một câu đùa.
 
 — Ừ.
 
-Quang không quay lại.
-
-Chỉ giơ một tay lên.
+Quang chỉ giơ tay lên, không quay lại.
 
 ***
 
-Trung cũng không còn triệu chứng.
+Trung cũng đang học lại thế nào là một ngày bình thường.
 
-Hắn được giữ ở công việc bàn giấy một thời gian, chưa quay lại nhiệm vụ hiện trường.
+Hắn tạm thời làm công việc bàn giấy, chưa quay lại hiện trường. Ba ngày đầu Trung phàn nàn đến mức Thi bảo nếu rảnh quá thì sang xử giúp chồng hồ sơ của nó. Hắn làm thật, sau đó biến chuyện ai xử nhanh hơn thành một cuộc thi mà chỉ mình hắn đăng ký.
 
-Không phải kỷ luật.
+Một tối Thi mang tài liệu qua nhà, thấy trên bàn bếp có tờ giấy chia ba cột bằng bút đen:
 
-Một quyết định đánh giá an toàn.
+**VIỆC TAO NHỚ**
 
-Trung phàn nàn đúng ba ngày rồi bắt đầu biến việc ngồi bàn thành cuộc thi ai xử hồ sơ nhanh hơn Thi.
+**VIỆC CÓ BẰNG CHỨNG**
 
-Thi không tham gia.
+**VIỆC NGƯỜI KHÁC KỂ**
 
-Nhưng lần nào Trung khoe xong nó cũng gửi lại ảnh một chồng hồ sơ cao hơn.
-
-Quan hệ của hai người vẫn chưa có tên chính thức.
-
-Huy từng hỏi.
-
-Thi đuổi anh khỏi phòng.
-
-Trung sau đó nhắn riêng:
-
-“Đang đàm phán.”
-
-Huy trả:
-
-“Cố lên em trai.”
-
-Trung:
-
-“Em trai cái đầu mày.”
-
-Một dấu hiệu hồi phục tốt.
-
-Nhưng có những thứ Huy chỉ biết sau này.
-
-Ví dụ một tối Thi sang nhà Trung mang tài liệu.
-
-Trung đang đứng ngoài ban công phơi áo.
-
-Không nhìn tủ inox.
-
-Không thử bóng.
-
-Thi đặt hồ sơ xuống.
-
-— Hôm nay sao?
-
-— Bình thường.
-
-— “Bình thường” là?
-
-— Đi làm. Bị sếp sửa hai chỗ. Ăn cơm. Cãi nhau với bà bán nước vì bà ấy thối thiếu năm nghìn.
-
-— Tốt.
-
-Trung quay lại.
-
-— Tốt chỗ nào?
-
-— Có chuyện để mày bực mà không liên quan Huyết Ngải.
-
-Hắn nghĩ rồi gật.
-
-— Ờ.
-
-Một lát sau, Thi nhìn thấy trên bàn bếp có một tờ giấy Trung tự viết.
-
-Ba cột.
-
-**Việc tao nhớ.**
-
-**Việc có bằng chứng.**
-
-**Việc người khác kể.**
-
-Thi đọc.
+Thi cầm lên.
 
 — Mày tự làm à?
 
@@ -184,83 +66,47 @@ Thi đọc.
 
 — Học Quỳnh?
 
-— Học mấy tháng bị chúng mày hỏi cung.
+— Học mấy tháng bị tụi mày hỏi tới mức tao không biết ký ức nào được tính là bằng chứng.
 
-Thi cười.
+Trung vừa nói vừa phơi áo ngoài ban công. Hắn quay vào, nhìn tờ giấy trong tay Thi.
 
-Trung nhìn tờ giấy.
+— Tao không muốn một ngày tin một ký ức chỉ vì nó nghe giống tao.
 
-— Tao không muốn một ngày tao tin một ký ức chỉ vì nó nghe giống tao.
-
-Thi không nói “mày ổn rồi”.
-
-Nó biết ổn không phải một cánh cửa đóng lại một lần.
-
-Chỉ nói:
+Thi không bảo hắn “ổn rồi”. Cả hai đều hiểu ổn không phải một cánh cửa chỉ cần đóng một lần.
 
 — Vậy cứ ghi.
 
-***
+Trung gật. Một lát sau hắn hỏi:
 
-Lan quay lại phòng khám tâm lý nơi nó làm việc.
+— Tối ăn gì?
 
-Buổi đầu tiên có một bệnh nhân mới, một cô gái hai mươi tuổi bị những cơn hoảng sợ sau tai nạn xe.
+— Cơm.
 
-Cô gái hỏi:
+— Rõ hơn được không?
 
-— Chị có tin cảm giác sắp chết có thể thật tới mức nào không?
+— Có cơm, có đồ ăn.
 
-Lan nhìn đôi tay cô đang nắm chặt.
+— Mày lãng mạn ghê.
 
-Nó có thể kể về Hồng Ngài.
+Thi ném tập hồ sơ vào người hắn. Trung đỡ được, cười thành tiếng.
 
-Về rừng.
+Huy nghe chuyện này từ chính Trung hôm sau, kèm lời dặn:
 
-Về lúc tim mình chậm tới mức Quỳnh tưởng nó sắp chết.
+— Đừng có viết tao thành bệnh nhân vượt qua bóng tối bằng sức mạnh tình yêu.
 
-Về những ký ức không thuộc về mình.
+— Tao chưa nói gì.
 
-Nhưng đây không phải câu chuyện của Lan.
+— Mặt mày đang nghĩ.
 
-Nó chỉ nói:
+— Tao chỉ nghĩ “hồi phục chức năng tốt”.
 
-— Cảm giác là thật. Điều mình sợ sẽ xảy ra thì chưa chắc.
+— Biến.
 
-Cô gái thở ra.
-
-Lan nhận ra chính mình cũng cần câu đó.
-
-Buổi tối, nó vẫn đọc các bản scan Huyền Môn.
-
-Nhưng không còn cố giải tất cả trong một đêm.
-
-Somchai đang làm việc với cơ quan chức năng và luật sư.
-
-Lan vẫn tới gặp ông.
-
-Không thường xuyên.
-
-Không tuyệt giao.
-
-Không tha thứ thay pháp luật.
-
-Có những mối quan hệ trưởng thành bằng việc người ta ngừng ép chúng phải chỉ có một cảm xúc.
+Một dấu hiệu hồi phục rất tốt.
 
 ***
 
-Khải trở lại nhịp công việc nhanh hơn tất cả.
-
-Ít nhất nhìn bên ngoài là vậy.
-
-Một vụ cướp xe.
-
-Hai hồ sơ truy nã.
-
-Một cuộc họp kéo dài quá giờ trưa.
-
-Huy từng hỏi:
-
-— Anh không bị ám ảnh gì à?
+Lan quay lại công việc của mình. Somchai tiếp tục làm việc với cơ quan chức năng và luật sư; Lan vẫn tới gặp, không thường xuyên, không tuyệt giao, cũng không tha thứ thay cho phần pháp luật còn phải xử. Khải thì trở lại nhịp công việc nhanh tới mức Huy từng hỏi anh có bị ám gì không.
 
 Khải đáp:
 
@@ -280,11 +126,7 @@ Huy chờ.
 
 — Không.
 
-Sau đó Huy biết Khải vẫn giữ tập **DỮ LIỆU CHƯA GIẢI THÍCH** riêng.
-
-Không vì anh tin nó thuộc thế giới khác.
-
-Vì anh không muốn những phần chưa hiểu bị trộn vào phần đã chứng minh.
+Sau đó Huy biết Khải vẫn giữ riêng bìa **DỮ LIỆU CHƯA GIẢI THÍCH — CHƯA SUY DIỄN NGUYÊN NHÂN**. Không phải vì anh đã tin nó thuộc về một thế giới khác. Chỉ vì anh không muốn phần chưa hiểu bị trộn vào phần đã chứng minh.
 
 Huy thích cách đó.
 
@@ -292,17 +134,7 @@ Nó giống một cái ngăn kéo dành cho sự khiêm tốn.
 
 ***
 
-Chợ Âm vẫn tồn tại.
-
-Một số node bị triệt.
-
-Một số người bị bắt.
-
-Một số tài khoản biến mất.
-
-Hai tuần sau xuất hiện một tài khoản mới dùng biểu tượng khác.
-
-Khải nói điều đó với Huy bằng giọng rất bình thản:
+Chợ Âm không biến mất. Một số node bị triệt, một số tài khoản ngừng hoạt động, vài người bị bắt; hai tuần sau một node khác lại xuất hiện dưới biểu tượng mới. Khải gọi cho Huy chỉ để dặn trước:
 
 — Đừng viết “Chợ Âm đã bị phá”.
 
@@ -316,7 +148,7 @@ Khải nói điều đó với Huy bằng giọng rất bình thản:
 
 Huy thở dài.
 
-— Làm nhà báo cạnh anh rất mất cảm hứng.
+— Làm báo cạnh anh mất cảm hứng thật.
 
 — Tốt.
 
@@ -324,43 +156,17 @@ Huy thở dài.
 
 Bài cuối của Ma Kí Sự được Huy viết trong mười một ngày.
 
-Không phải vì dài.
+Không phải vì dài. Vì anh xóa nhiều hơn viết.
 
-Vì anh xóa nhiều hơn viết.
+Ngày đầu anh gõ sáu trang. Ngày thứ hai xóa gần bốn. Ngày thứ ba Huy không viết chữ nào, chỉ ngồi đọc lại những bài cũ của chính mình: Mẫu Sơn, Người Không Có Tên, Bản Ghi Ngày Mai, những trang cuối trước Hồng Ngài.
 
-Ngày thứ nhất anh viết sáu trang.
+Có đoạn khiến anh cười vì hồi ấy mình ngu. Có đoạn làm anh ngượng vì đã cố làm câu chữ đáng sợ hơn chính sự việc. Có đoạn Huy đọc xong phải đứng dậy pha cà phê rồi mười phút sau mới quay lại.
 
-Ngày thứ hai xóa bốn.
+Người viết Ma Kí Sự cuối năm 2018 và người đang ngồi trước màn hình bây giờ đều là Trương An Huy. Nhưng họ không hoàn toàn giống nhau. Không cần Song Mạch để điều đó đúng.
 
-Ngày thứ ba không viết chữ nào, chỉ ngồi đọc lại những bài cũ của chính mình.
+Tiêu đề đầu tiên Huy thử là:
 
-Ma Lai.
-
-Người Không Có Tên.
-
-Bản Ghi Ngày Mai.
-
-Hồng Ngài.
-
-Có đoạn khiến anh cười vì hồi đó mình ngu.
-
-Có đoạn khiến anh ngượng vì cố làm câu chữ ghê hơn sự thật.
-
-Có đoạn anh đọc xong phải đứng dậy đi pha cà phê rồi mười phút sau mới quay lại.
-
-Huy nhận ra một điều khó chịu:
-
-Người viết Ma Kí Sự đầu tiên và người đang ngồi trước màn hình bây giờ đều là anh.
-
-Nhưng không hoàn toàn là cùng một người.
-
-Không cần Song Mạch để điều đó đúng.
-
-***
-
-Tiêu đề đầu tiên:
-
-**NGƯỜI THỨ SÁU — CON QUỶ SINH RA TỪ NĂM LINH HỒN**
+**NGƯỜI THỨ SÁU — CON QUỶ SINH RA TỪ NĂM NGƯỜI CHẾT**
 
 Quỳnh đọc.
 
@@ -382,11 +188,13 @@ Tiêu đề ba:
 
 Quỳnh nhìn lâu hơn.
 
-— Được.
+— Cái này được.
 
-— Ít click hơn.
+— Ít click.
 
-— Nhưng đúng thứ mình biết.
+— Nhưng nó chỉ nói đây là hồ sơ về thứ tụi mình từng gọi như vậy. Không khẳng định nó là gì.
+
+Huy gật.
 
 — Mày phá nghề báo mạng của tao.
 
@@ -394,43 +202,25 @@ Quỳnh nhìn lâu hơn.
 
 ***
 
-Huy không viết bài như lời giải.
+Bản đầu Huy định chia thành ba phần: **những gì biết**, **những gì suy đoán**, **những gì chưa giải thích**. Viết được một lúc anh mới thấy đời không chịu nằm ngoan trong ba cái hộp.
 
-Anh thử chia nó làm ba phần.
+Chiếc lọ trắng là vật có thật trong ảnh hiện trường Hồng Ngài. Việc nó biến mất khỏi chuỗi vật chứng là thật. Nhưng từ hồ sơ chính thức, ai lấy nó vẫn là khoảng trống.
 
-**Những gì chúng tôi biết.**
+Chén trà Trung uống có nhiều người chứng kiến. “Dẫn Chủng” là từ trong sổ A Mã. Hai thứ có phải cùng một cơ chế hay không vẫn là suy luận dù mọi đường nét đang chồng lên nhau.
 
-**Những gì chúng tôi suy đoán.**
+Hai hiện trường bị con người sửa là sự thật pháp chứng. Cường thì không được giải thích bằng hai hiện trường đó. Người đàn ông trong kho bị bóp cổ khi Trung đang bị giữ ở xe. Channarong có mặt nhưng chưa có bằng chứng đủ để kết luận hắn giết.
 
-**Những gì chưa ai giải thích được.**
-
-Nhưng khi bắt đầu gõ, anh nhận ra dữ kiện không chịu nằm ngoan trong ba cái hộp.
-
-Chiếc lọ bột là dữ kiện.
-
-Việc nó biến mất là dữ kiện.
-
-Ai lấy là khoảng trống.
-
-Chén trà Trung uống là ký ức nhiều người cùng xác nhận.
-
-Dẫn Chủng là một khái niệm trong sổ A Mã.
-
-Hai thứ có phải một hay không vẫn là suy đoán dù mọi đường nét dường như khớp.
-
-Hai hiện trường bị con người sửa là sự thật pháp chứng.
-
-Nhưng vì sao người ta chọn sửa đúng những hình thức đó lại kéo câu chuyện trở về Huyết Ngải.
+Từ **HC-6** chỉ là mã làm việc. Từ **Người Thứ Sáu** chỉ là cách những người trong vụ gọi một khoảng trống sau năm cái tên.
 
 Huy ngồi nhìn màn hình.
 
 — Viết khó vãi.
 
-Quỳnh phía đối diện:
+Quỳnh ở bàn đối diện không ngẩng lên.
 
 — Vì đời không chia mục cho mày.
 
-— Mày có thể động viên nhẹ nhàng hơn không?
+— Mày động viên nhẹ được không?
 
 — Không.
 
@@ -438,139 +228,39 @@ Huy cười rồi gõ tiếp.
 
 ***
 
-Anh viết phần đầu bằng thứ giọng ít màu nhất có thể.
+Anh viết phần dữ kiện bằng thứ giọng ít màu nhất mình chịu được.
 
-Có một lọ bột xuất hiện ở hiện trường Hồng Ngài rồi biến mất.
+Có một chuỗi nạn nhân từng tiếp xúc hàng hóa liên quan H-49 và mang marker hóa học cùng nhóm HN-23. Hai hiện trường bị sửa sau chết. Có người của Huyền Môn bí mật can thiệp. Có một mạng mua bán muốn thu hồi thứ họ coi là “sản phẩm”. Trung có những khoảng mất ký ức được camera ghi lại. Một âm thanh một từ đã được ghi ở vị trí không trùng miệng hắn nhưng chưa xác định nguồn. Huy và Trung có phản ứng sinh lý khi ở gần nhau, chưa rõ nguyên nhân. Sau đêm Phòng 17, triệu chứng của Trung dừng.
 
-Trung đã uống một thứ trong căn nhà Pá Tra trước khi phát bệnh.
+Huy đọc lại đoạn đó.
 
-Một chuỗi nạn nhân có liên hệ Chợ Âm và từng tiếp xúc marker hóa học gần HN-23.
+Không chữ *ma*.
 
-Hai hiện trường bị con người cố tình sửa.
+Không chữ *quỷ*.
 
-Ít nhất một vụ có người thứ ba là Channarong.
+Vẫn đủ đáng sợ.
 
-Những người Chợ Âm từng săn Trung vì hợp đồng H-49.
+Phần suy đoán khó hơn. Huy viết:
 
-Trung có những khoảng ký ức bất thường và camera ghi hiện tượng không giải thích đầy đủ.
+> Có thể thứ chúng tôi gọi tạm là Người Thứ Sáu là kết quả của nhiều thứ chồng lên nhau: độc chất, mất ngủ, sang chấn, ám thị, ký ức sai nguồn và việc những người xung quanh liên tục đưa cho Trung những câu chuyện để giải thích chính mình.
 
-Sau đêm Phòng 17, các triệu chứng dừng.
+Anh thêm một đoạn khác:
 
-Anh đọc lại.
+> Có thể HN-23 hoặc một hợp chất liên quan khiến những người đã phơi nhiễm dễ có các trải nghiệm nhận thức cùng motif, còn phần chết chóc đến từ hoảng loạn, tội phạm và những người cố ý lợi dụng hiện tượng đó.
 
-Không có chữ “ma”.
+Huy dừng ở chữ *chỉ*, rồi xóa nó trước câu tiếp theo.
 
-Không có chữ “quỷ”.
+> Cũng có thể những cách giải thích trên chỉ mô tả được phần thân thể của một hiện tượng mà hiện tại chúng tôi chưa có ngôn ngữ phù hợp để gọi.
 
-Vẫn đáng sợ.
-
-***
-
-Tối thứ sáu viết bài, Huy qua nhà Trung.
-
-Không phải để điều tra.
-
-Thi đã ở đó.
-
-Ba người ăn mì gói vì không ai muốn xuống đường mưa.
-
-Huy nhìn tủ inox.
-
-Trung bắt gặp.
-
-— Đừng nhìn.
-
-— Tao không nhìn.
-
-— Mắt mày đang nhìn.
-
-— Tao đang nhìn bề mặt vật liệu.
-
-Thi:
-
-— Hai đứa bây ăn đi.
-
-Huy cầm đũa.
-
-Một lúc sau anh hỏi:
-
-— Tao đang viết phần “mày cảm thấy gì”. Có muốn đọc không?
-
-Trung lắc.
-
-— Không.
-
-— Tại sao?
-
-— Tao không muốn đọc lời kể của người khác về tao trước khi tao tự nhớ xong.
-
-Huy dừng.
-
-— Ừ.
-
-Trung nhìn anh.
-
-— Nhưng mày được viết.
-
-— Tin tao vậy?
-
-— Không. Tin Quỳnh sửa mày.
-
-Thi bật cười.
-
-Huy chỉ Trung bằng đũa.
-
-— Mày sống lại xong mất dạy hơn.
-
-— Chứng tỏ đúng người.
-
-Một câu đùa.
-
-Nhưng Huy ghi nhớ.
-
-**Chứng tỏ đúng người.**
-
-Cả vụ án này cuối cùng vẫn xoay quanh câu đó.
-
-Làm sao một người biết mình còn là mình?
-
-Bằng ký ức?
-
-Bằng cơ thể?
-
-Bằng người khác nhận ra?
-
-Hay chỉ bằng việc sáng dậy vẫn ghét rau mùi như hôm qua?
-
-***
-
-Phần suy đoán Huy viết chậm hơn.
-
-> Có thể thứ chúng tôi gọi tạm là Người Thứ Sáu là một cấu trúc tâm lý hình thành khi Trung bị đầu độc, cộng với ám thị, mất ngủ, sang chấn và những câu chuyện chúng tôi liên tục kể cho nhau.
-
-Anh dừng.
-
-Thêm:
-
-> Có thể HN-23 tạo ra một trạng thái thần kinh khiến nhiều người có ảo giác tương tự, còn những cái chết là hệ quả của hoảng loạn, tội phạm và việc con người cố tình lợi dụng hiện tượng.
-
-Rồi xóa một chữ “chỉ”.
-
-Không muốn câu đó đóng cửa quá sớm.
-
-Viết tiếp:
-
-> Cũng có thể cách giải thích trên chỉ mô tả phần thân thể của một thứ mà ngôn ngữ khoa học hiện có chưa gọi tên được.
-
-Quỳnh đọc.
+Quỳnh đọc qua vai anh.
 
 — Giữ.
-
-Huy:
 
 — Tao tưởng mày bắt xóa.
 
 — Vì mày không khẳng định.
+
+Huy quay sang.
 
 — Tao trưởng thành rồi.
 
@@ -578,11 +268,7 @@ Huy:
 
 ***
 
-Có một buổi chiều Huy và Quỳnh không viết.
-
-Hai đứa ngồi ở bậc cầu thang sau tòa soạn ăn bánh mì.
-
-Mưa phùn làm lan can lạnh.
+Có một chiều hai đứa bỏ viết, ngồi ở bậc cầu thang sau tòa soạn ăn bánh mì. Mưa phùn làm thanh lan can lạnh ngắt.
 
 Huy hỏi:
 
@@ -590,49 +276,35 @@ Huy hỏi:
 
 Quỳnh nhai xong mới trả lời.
 
-— Tao nghĩ câu đó đang làm mày mệt hơn bất cứ bằng chứng nào.
+— Tao nghĩ câu đó đang làm mày mệt hơn mọi bằng chứng.
 
 — Né.
 
 — Không. Tao thật sự không biết.
 
-Huy nhìn xuống sân.
+Huy nhìn xuống khoảng sân ướt.
 
-— Hồi P201, mày có bao giờ nghĩ mình điên không?
-
-Quỳnh cười rất nhỏ.
+— Hồi P201 mày có lúc nghĩ mình điên không?
 
 — Có.
 
 — Rồi sao?
 
-— Có vài thứ sau đó người khác cũng thấy. Có vài thứ chỉ tao thấy. Tao học cách không bắt buộc hai nhóm đó phải có cùng một lời giải.
+— Sau đó có thứ người khác cũng thấy. Có thứ chỉ tao thấy. Tao học cách không bắt hai nhóm phải có cùng một lời giải.
 
-Huy bóc mép giấy bánh mì.
+Huy bóc mép giấy gói bánh.
 
-— Tao muốn một đáp án.
+— Tao vẫn muốn đáp án.
 
 — Ai cũng muốn.
 
-— Mày không tò mò à?
+— Sao mày chịu được?
 
-— Có.
+Quỳnh nhìn mưa một lúc.
 
-— Vậy sao mày chịu được?
+— Vì tao từng thấy người ta làm rất nhiều chuyện tệ chỉ để biến thứ mơ hồ thành thứ họ nghĩ mình kiểm soát được.
 
-Quỳnh nhìn cơn mưa mỏng ngoài sân.
-
-— Vì tao từng thấy người ta làm chuyện rất tệ chỉ để biến một thứ mơ hồ thành thứ họ kiểm soát được.
-
-Tùng.
-
-A Mã.
-
-Somchai.
-
-Chợ Âm.
-
-Không ai cần nói tên.
+Không cần nói tên Tùng, A Mã, Somchai hay Chợ Âm. Cả hai cùng biết.
 
 Huy gật.
 
@@ -642,155 +314,61 @@ Huy gật.
 
 ***
 
-Phần cuối cùng là những thứ chưa giải thích.
+Phần cuối bài là những thứ Huy không giải thích được.
 
-Tại sao Trung biết một số ký ức chưa tìm thấy nguồn tiếp cận.
+Tại sao Trung kể được vài chi tiết ký ức chưa tìm thấy nguồn tiếp cận rõ ràng. Âm **Biết** phát từ đâu. Vì sao lớp ghi giọng giống Huy xuất hiện trên cuộn băng Phòng 17 và được ghi vào thời điểm nào. Ai đặt logic để H-49 chuyển sang **DELIVERED**. `ĐÚNG CHỖ` là gì hoặc là ai. Vì sao một số người nhìn thấy những hình khác nhau trong cùng thời điểm mà camera không cho một đáp án tương ứng.
 
-Tại sao camera ghi bóng mà cảm biến nhiệt không ghi người.
+Huy cũng viết về thứ mình thấy trong Phòng 17, nhưng chỉ dưới dạng trải nghiệm chủ quan:
 
-Ai viết vào file Huy.
+> Trong lúc phản ứng sinh lý tăng cao, tôi nhìn thấy một người giống mình ở vị trí camera không ghi được người. Tôi không biết đó là ảo giác, ký ức, hay một hiện tượng khác. Không có nguồn độc lập xác nhận hình ảnh này.
 
-Băng năm 1999 có giọng Huy bằng cách nào.
-
-Tại sao bản thảo Ma Kí Sự tồn tại trước khi Huy tự đặt tên series.
-
-Ai cập nhật hợp đồng H-49 thành **DELIVERED**.
-
-Và “ĐÚNG CHỖ” là đâu.
-
-Hoặc ai.
-
-Huy ngồi nhìn câu cuối rất lâu.
-
-Không thêm.
-
-***
-
-Anh không viết chuyện mình thấy một Huy khác trong Phòng 17 như sự thật.
-
-Anh ghi:
-
-> Trong giai đoạn rối loạn sinh lý cao, tôi có một trải nghiệm thị giác mà camera không ghi được. Tôi nhìn thấy một người giống mình và nghe lời nói không có nguồn độc lập. Tôi không biết đó là ảo giác, ký ức, hay thứ khác.
-
-Khải đọc bản pháp lý sau đó gật.
+Khải đọc bản dành cho kiểm tra pháp lý rồi gật.
 
 — Được.
 
 Huy nhìn anh.
 
-— Anh biết câu “được” của anh làm em vui hơn lời khen không?
+— Anh biết chữ “được” của anh làm em vui hơn lời khen không?
 
 — Đừng quen.
 
-Khải lật thêm hai trang.
+Khải lật thêm một trang.
 
-— Chỗ này.
+— Chỗ này cậu viết “người mua muốn chuyển vật chứa sang Huy”. Bằng chứng?
 
-— Gì?
+— Hoài nói mục tiêu đổi sau lúc em với Trung ở gần.
 
-— Cậu viết “Chợ Âm muốn chuyển vật chủ sang Huy”. Bằng chứng?
+— Chưa đủ để kết luận chuyển vật chứa.
 
-— Hoài nhìn ảnh em.
+Huy thở ra, xóa câu rồi thay bằng:
 
-— Không đủ.
+**Một số dữ kiện cho thấy mục tiêu của nhóm đột nhập thay đổi sau khi Huy và Trung ở gần nhau; động cơ chưa xác định.**
 
-Huy thở ra.
-
-Xóa chữ “muốn”.
-
-Đổi thành:
-
-**“Một số dữ kiện cho thấy mục tiêu của nhóm đột nhập thay đổi sau khi Huy và Trung ở gần nhau; động cơ chưa xác định.”**
-
-Khải:
+Khải đọc.
 
 — Được.
 
 Huy quay sang Quỳnh.
 
-— Tao nghiện chữ “được” của ảnh rồi.
+— Tao nghiện chữ đó rồi.
 
-Quỳnh:
-
-— Đi khám đi.
+— Đi khám.
 
 ***
 
-Ngày Huy hoàn thành bản draft là 12 tháng Hai.
+Huy kết bài vào tối 12 tháng Hai.
 
-23 giờ 18.
+Đoạn cuối chỉ dài vài dòng:
 
-Tòa soạn còn Huy, Quỳnh, sếp Hòa ở phòng dưới và bảo vệ.
-
-Không một mình.
-
-Sếp Hòa đã đặt luật từ sau tất cả chuyện:
-
-**“Không ai ở ban Kinh dị - Tâm linh một mình sau mười một giờ.”**
-
-Huy nói luật mê tín.
-
-Sếp đáp:
-
-**“Luật nhân sự.”**
-
-Không tranh được.
-
-Quỳnh đọc lần cuối.
-
-— Kết thế nào?
-
-Huy nhìn cuối file.
-
-Đoạn anh đang định viết:
-
-> Tôi không biết Người Thứ Sáu đã chết, biến mất hay chưa từng tồn tại như một cá thể riêng.
-
-Anh xóa chữ “chết”.
-
-Viết lại:
-
-> Tôi không biết Người Thứ Sáu đã biến mất, chuyển thành một trạng thái khác, hay ngay từ đầu chỉ là cái tên chúng tôi đặt lên nhiều hiện tượng khác nhau.
-
-Quỳnh:
-
-— Tốt hơn.
-
-— Độc giả sẽ chửi “kết mở”.
-
-— Kệ.
-
-— Mày không sống nhờ view.
-
-— Mày cũng không nên sống nhờ nói láo.
-
-Huy chỉ nó.
-
-— Câu này đau.
-
-***
-
-Anh kết bài bằng một đoạn ngắn:
-
-> Tôi từng nghĩ nghề của mình là đi tìm câu chuyện.
+> Tôi từng nghĩ nghề của mình là đi tìm câu chuyện. Sau này tôi mới hiểu phần khó hơn là biết lúc nào mình đang tìm sự thật, lúc nào mình chỉ đang tìm một câu chuyện đủ hay để tin.
 >
-> Sau này tôi mới hiểu phần khó hơn là biết lúc nào mình đang tìm sự thật, lúc nào mình chỉ đang tìm một câu chuyện đủ hay để tin.
+> Có những thứ tôi đã thấy mà không chứng minh được. Có những thứ tôi từng nghĩ là ma rồi cuối cùng tìm thấy bàn tay người. Và có những bàn tay người mà đến cuối tôi vẫn chưa biết vì sao chúng lại sợ cùng một thứ.
 >
-> Có những thứ tôi đã thấy mà không chứng minh được.
->
-> Có những thứ tôi từng tin là ma nhưng cuối cùng có bàn tay người đứng sau.
->
-> Và cũng có những bàn tay người mà đến cuối tôi vẫn không giải thích được thứ gì đã khiến chúng đưa ra cú cuối cùng.
->
-> Vì vậy hồ sơ này kết ở đây, không phải vì đã có đáp án, mà vì từ điểm này trở đi, mọi câu trả lời đều sẽ nói nhiều về người chọn nó hơn về thứ chúng tôi từng gọi là Người Thứ Sáu.
+> Hồ sơ này dừng ở đây không phải vì đã có đáp án. Nó dừng vì từ điểm này trở đi, một câu trả lời không có bằng chứng sẽ nói nhiều về người chọn nó hơn về thứ chúng tôi từng gọi là Người Thứ Sáu.
 
-Quỳnh đọc.
+Quỳnh đọc một lượt, kéo con trỏ lên bỏ một dấu phẩy rồi ngồi lại.
 
-Không sửa.
-
-Nó chỉ kéo con trỏ lên một đoạn, bỏ một dấu phẩy.
-
-Huy nhìn.
+Huy nhìn nó.
 
 — Có mỗi vậy?
 
@@ -798,125 +376,73 @@ Huy nhìn.
 
 — Không khen à?
 
-Quỳnh dựa ghế.
+Quỳnh dựa lưng ghế.
 
 — Bài này mày viết giống người hơn mấy bài đầu.
 
-Huy im.
+Huy im đúng một nhịp.
 
 — Đó là khen hả?
 
 — Ừ.
 
-Huy cười.
+— Thế mặt tao?
 
-— Thế đẹp trai không?
-
-— Bài hay. Mặt bình thường.
+— Bình thường.
 
 — Tao hỏi bài.
 
 — Tao trả cả hai.
 
+Huy cười.
+
 ***
 
-Huy lưu bản draft.
-
-Không bấm đăng.
-
-Một số chi tiết cần Khải xác nhận không ảnh hưởng chuyên án đang mở.
-
-Trạng thái trong CMS:
+Bản thảo được lưu trong CMS với trạng thái:
 
 **DRAFT — CHỜ DUYỆT PHÁP LÝ.**
 
-23 giờ 47, Huy logout.
+Huy không bấm đăng.
 
-23 giờ 51, Quỳnh về.
-
-Trước khi đi, nó đứng ở cửa.
-
-— Mai tao tới sớm.
-
-— Tao biết.
+23 giờ 47, anh logout. Quỳnh về trước, đứng ở cửa dặn:
 
 — Đừng tự sửa đêm nay.
 
 — Tao có phải trẻ con đâu.
 
-Quỳnh nhìn.
+Nó nhìn.
 
 Huy giơ hai tay.
 
 — Rồi. Không sửa.
 
-Nó đi.
-
-Sếp Hòa lên tận phòng nhìn Huy tắt máy.
+Sếp Hòa lên tầng đúng lúc đó, đứng ngay sau lưng Huy cho tới khi máy tắt.
 
 — Về.
-
-— Em biết.
-
-— Tôi đứng đây tới lúc cậu đi.
 
 — Sếp thương em quá.
 
 — Tôi sợ cậu nghịch.
 
-Huy khoác balo.
+— Khác gì nhau đâu.
 
-— Khác gì đâu.
+— Khác.
 
-Sếp không trả lời.
-
-00 giờ 03, camera hành lang ghi hai người rời tầng hai.
-
-00 giờ 08, hệ thống báo động văn phòng chuyển sang chế độ đêm.
-
-Không ai quay lại.
+00 giờ 03, camera hành lang ghi Huy và sếp Hòa rời tầng hai. 00 giờ 08, hệ thống chuyển sang chế độ đêm. Không ai quay lại phòng Kinh dị - Tâm linh.
 
 ***
 
 02 giờ 13.
 
-CMS Âm Dương xuất bản bài:
+CMS Âm Dương xuất bản:
 
-**MA KÍ SỰ: NGƯỜI THỨ SÁU.**
+**MA KÍ SỰ: NGƯỜI THỨ SÁU**
 
-Không ai ở tòa soạn nhìn thấy lúc đó.
-
-Huy ngủ ở nhà.
-
-Điện thoại để chế độ im lặng.
-
-Quỳnh ngủ.
-
-Sếp Hòa ngủ được khoảng ba tiếng sau khi cãi nhau với máy điều hòa phòng khách.
-
-Khải đang trực một cuộc gọi khác.
+Huy đang ngủ ở nhà. Điện thoại để im lặng. Quỳnh ngủ. Sếp Hòa cũng ngủ được chưa đầy ba tiếng sau khi cãi nhau với cái máy điều hòa phòng khách.
 
 Bài lên mạng như một bài đã được duyệt bình thường.
 
-Trong bảy phút đầu có mười ba lượt đọc.
-
-Một người chụp màn hình.
-
-Một người chia sẻ.
-
-Sau đó số tăng.
-
-***
-
-05 giờ 56, sếp Hòa gọi Huy.
-
-Cuộc đầu không bắt.
-
-Cuộc hai.
-
-Ba.
-
-Đến cuộc bốn, Huy bật dậy.
+Đến 05 giờ 56, sếp Hòa gọi Huy bốn cuộc liên tiếp mới dựng được anh dậy.
 
 — Alo...
 
@@ -928,17 +454,13 @@ Huy tỉnh hẳn.
 
 — ĐỪNG CÓ NÓI BÀI GÌ!
 
-Huy mở điện thoại.
+Anh mở điện thoại. Thông báo CMS hiện ngay trên màn hình.
 
-Thông báo CMS.
-
-Bài đã live.
-
-Mặt hắn lạnh.
+Mặt Huy lạnh đi.
 
 — Em không đăng.
 
-Đầu dây im.
+Đầu dây bên kia im.
 
 Sếp Hòa không chửi nữa.
 
@@ -946,587 +468,119 @@ Sếp Hòa không chửi nữa.
 
 ***
 
-Huy đọc bài trên taxi.
+Huy đọc bài trên xe.
 
-Phần thân đúng bản draft của anh.
+Phần thân đúng bản draft tối qua. Không số liệu bị sửa. Không thêm đoạn giải thích ma quỷ. Không một câu giật gân nào chen vào giữa.
 
-Không sửa số liệu.
+Chỉ có một thứ không thuộc bản anh lưu.
 
-Không thêm “ma”.
+Nó nằm ở đầu bài, trước tiêu đề phụ và trước đoạn mở của bản mới:
 
-Không giật tít.
+> **Xin chào tất cả các bạn. Tên tôi là Trương An Huy, hai mươi hai tuổi, cộng tác viên của tòa soạn Âm Dương.**
 
-Nhưng có hai đoạn không thuộc bản gốc.
+Huy đọc lại hai lần.
 
-Đoạn đầu nằm trước lời mở bài của Huy.
+Đó là câu đầu tiên của Ma Kí Sự anh đã viết cuối năm 2018. Đúng dấu chấm. Đúng cách giới thiệu. Không phải câu bí mật; bất kỳ người nào đọc bài cũ cũng có thể sao chép.
 
-Chỉ một câu:
+Chính vì vậy nó không cho Huy một thứ dễ gọi là “phép”.
 
-> **Xin chào tất cả các bạn, tên tôi là Trương An Huy, 22t...**
-
-Huy nhìn.
-
-Đó là câu mở đầu Ma Kí Sự đầu tiên anh từng đăng cuối năm 2018.
-
-Dấu ba chấm.
-
-Cách viết “22t”.
-
-Đúng.
-
-Bất kỳ ai đọc bài cũ cũng có thể copy.
-
-Không có gì siêu nhiên trong việc đó.
-
-Chính vì vậy nó đáng sợ hơn một câu thần chú.
-
-Có người biết cách làm nó trông như chính anh đang quay lại điểm bắt đầu.
-
-Hoặc...
-
-Huy không hoàn thành ý nghĩ.
-
-Đoạn thứ hai nằm cuối bài.
-
-Sau đoạn kết của anh.
-
-Một dòng riêng:
-
-> **Cảm ơn vì đã nhớ.**
+Nó chỉ khiến một câu hỏi cũ quay trở lại bằng giọng của chính anh.
 
 ***
 
-Khải tới tòa soạn lúc 06 giờ 41.
+Khải tới tòa soạn lúc 06 giờ 41. Đội kỹ thuật kiểm CMS, tài khoản, máy trạm và log mạng trước khi cho bất kỳ ai chạm vào bàn Huy.
 
-Đội kỹ thuật kiểm CMS.
+Lệnh publish dùng token hợp lệ của tài khoản Huy. Request xuất phát từ mạng nội bộ. Máy trạm của anh ghi một phiên khởi động ngắn lúc 02 giờ 12 phút 46 giây rồi tắt lại sau chưa đầy hai phút.
 
-Lệnh publish tới từ tài khoản Huy.
-
-Token hợp lệ.
-
-Nguồn IP: mạng nội bộ tòa soạn.
-
-Thời điểm workstation của Huy gửi request: 02 giờ 12 phút 51 giây.
-
-Nhưng máy đã tắt lúc 00 giờ.
-
-Log nguồn điện ghi có một phiên khởi động ngắn lúc 02 giờ 12.
-
-Không người bật theo camera hành lang.
+Camera hành lang không ghi người vào phòng.
 
 Kỹ thuật viên nói:
 
 — Có thể Wake-on-LAN.
 
-Khải:
+Khải hỏi:
 
-— Có cấu hình?
+— Cấu hình trước đó?
 
-— Đang kiểm tra. BIOS hỗ trợ, nhưng trước đây không bật theo profile.
+— Profile không bật, nhưng máy hỗ trợ. Nếu ai có quyền admin hoặc đã chạm máy trước thì có thể đổi rồi che lại.
 
-— Có thể ai thay?
+Một lời giải hoàn toàn của người sống.
 
-— Nếu có quyền admin hoặc chạm máy trước đó, có thể.
+Chợ Âm từng có người vào được hệ thống tòa soạn. Thẻ kỹ thuật từng bị lạm dụng. Token có thể bị lấy. Một script có thể được cài trước nhiều ngày. Không cần một bóng ma biết HTTP.
 
-Một lời giải con người.
-
-Hoàn toàn có thể.
-
-Chợ Âm đã từng có quyền truy cập tòa soạn.
-
-Một kỹ thuật viên điện cũ từng bị lợi dụng.
-
-Somchai có người.
-
-Channarong biết hệ thống.
-
-Bất kỳ ai có token và hiểu mạng đều có thể dựng.
-
-Không cần một bóng ma biết HTTP.
-
-Huy thấy nhẹ được vài giây.
+Huy nghe và thấy nhẹ được vài giây.
 
 Rồi Quỳnh gọi từ bàn anh.
 
 — Huy.
 
-Giọng nó khác.
+Giọng nó khiến anh quay lại ngay.
 
 ***
 
-Dưới bàn phím có một lá bài.
+Dưới mép bàn phím có một lá bài.
 
 Ba bích.
 
-Góc phải dưới xước hình bán nguyệt.
+Không ai chạm tay trần. Khải cho chụp nguyên trạng trước khi niêm phong.
 
-Huy không chạm.
+Huy nhìn vết xước bán nguyệt ở góc phải dưới.
 
-Khải nhìn camera đêm.
+— Lá gốc đâu?
 
-Không ai vào phòng.
+— Kho vật chứng, — Khải nói, rồi lập tức gọi xác nhận thay vì dựa vào trí nhớ.
 
-Nhưng camera không quay dưới bàn.
-
-Lá bài hoàn toàn có thể được đặt **trước khi họ rời đi** mà không ai thấy.
-
-Huy nhớ mình đã ngồi đó cả tối.
-
-Ký ức không phải camera.
-
-Khải cho niêm phong.
-
-— Lá gốc đâu? — Huy hỏi.
-
-— Kho vật chứng.
-
-— Chắc?
-
-Khải không đáp “chắc”.
-
-Anh gọi ngay.
-
-Mười hai phút sau xác nhận:
-
-Lá ba bích thu ở Hồng Ngài năm 2019 vẫn nằm trong túi niêm phong.
-
-Chưa mở.
-
-Còn đó.
+Mười hai phút sau họ có câu trả lời: lá Ba Bích thu từ chuỗi vụ cũ vẫn nằm trong túi niêm phong. Chưa mở.
 
 Hai lá.
 
-Huy ngồi xuống ghế khác.
+Pháp chứng sau đó cho thấy vết xước mới chỉ **giống bằng mắt**. Rãnh vi mô khác. Lá bài mới là một lá khác cùng mẫu sản xuất, có vẻ được làm cho trông giống lá cũ.
 
-— Có thể copy vết xước.
+Điều đó khiến lời giải “có người đang dàn trò” mạnh hơn.
 
-Khải:
+Nó không khiến người đó dễ tìm hơn.
 
-— Đúng.
-
-— Có ảnh công khai không?
-
-— Không. Nhưng nhiều người trong vụ từng thấy.
-
-— Vậy vẫn làm được.
-
-— Đúng.
-
-Huy nhìn anh.
-
-— Anh đừng đồng ý nhanh vậy, em đang tự trấn an.
-
-Khải:
-
-— Tôi cũng đang liệt kê khả năng.
-
-***
-
-Mặt sau lá mới có chữ.
-
-Bút bi đen.
-
-Nét chữ in hoa, không hoàn toàn giống chữ ai.
+Mặt sau lá bài mới có một dòng chữ in hoa bằng bút bi đen:
 
 **NGƯỜI THỨ SÁU ĐÃ VỀ ĐÚNG CHỖ.**
 
-Không chữ ký.
+Quỳnh đọc xong không nói.
 
-Quỳnh đọc.
+Khải đặt cạnh nó bản log H-49.
 
-Không nói.
+**DELIVERED**
 
-“Đúng chỗ.”
+**ĐÚNG CHỖ.**
 
-Cùng câu trạng thái hợp đồng H-49.
+Cùng hai chữ. Có thể cùng một người dựng. Có thể một nhóm muốn họ tin giao dịch đã hoàn thành. Có thể lá bài được đặt từ trước lúc mọi người rời tòa soạn và camera không bao giờ nhìn xuống khe dưới bàn phím.
 
-Có thể cùng người dựng cả hai.
+Huy cũng nằm trong danh sách khả năng. Anh từng có những khoảng không nhớ. Camera đêm cho thấy anh rời tòa soạn, nhưng không chứng minh anh không đặt lá bài từ trước rồi quên.
 
-Có thể Chợ Âm muốn họ nghĩ quá trình giao hàng thành công.
-
-Có thể một người Huyền Môn muốn dọa.
-
-Có thể Somchai biết nhiều hơn đã nói.
-
-Có thể Huy tự làm trong trạng thái không nhớ.
-
-Và có thể tất cả những giả thuyết đó chỉ đang cố nhét một hiện tượng vào cái hộp mình quen dùng.
+Không giả thuyết nào được ưu tiên chỉ vì nó đáng sợ hơn.
 
 ***
 
-Pháp chứng chữ viết không kết luận được.
+Đội kỹ thuật đóng băng phiên bản bài đã xuất bản để phục vụ truy vết. Sếp Hòa muốn gỡ ngay. Khải muốn giữ trạng thái hiện trường số. Huy ngồi giữa, lần đầu không quan tâm bài đang có bao nhiêu lượt đọc.
 
-Có nét gần Huy.
+Anh mở bản live trên một máy khác.
 
-Có nét không.
+Ở đầu trang là câu mở năm 2018.
 
-Viết in hoa làm giảm đặc trưng.
+Ở cuối trang là đoạn kết anh viết tối qua.
 
-Mực phổ thông.
+Ở giữa, toàn bộ câu chuyện vẫn mang tên anh.
 
-Lá bài sản xuất hàng loạt trong khoảng nhiều năm, không có giá trị định niên đại chính xác.
+Ngay dưới tiêu đề, CMS hiển thị dòng tác giả như mọi bài khác:
 
-Vết xước dưới kính hiển vi **không giống hoàn toàn** lá gốc.
+**Trương An Huy.**
 
-Cùng hình bán nguyệt nhìn bằng mắt.
+Huy nhìn tên mình rất lâu.
 
-Nhưng rãnh vi mô khác.
+Suốt hơn một năm, anh đã dùng tên để giữ người khác khỏi bị quên, dùng hồ sơ để tách ký ức khỏi lời kể, dùng chữ để buộc chính mình phải thừa nhận khi không biết. Đến cuối cùng, cái tên ở đầu bài vẫn hoàn toàn đúng.
 
-Một bản sao có chủ đích.
+Nhưng lần đầu tiên kể từ ngày viết câu mở đầu Ma Kí Sự, Huy không chắc nó đủ để trả lời một câu đơn giản.
 
-Hoặc hai vết xước tình cờ giống nhau.
-
-Không phải cùng một lá.
-
-Huy nghe kết quả thấy vừa nhẹ vừa nặng.
-
-Nếu là bản sao, có người đang chơi trò với họ.
-
-Người đó là ai?
-
-***
-
-Cùng ngày, Trung được kiểm lại toàn bộ.
-
-Không bóng.
-
-Không giọng.
-
-Không mất thời gian.
-
-Đêm 02:13 hôm bài tự đăng, camera nhà hắn ghi Trung ngủ.
-
-Đồng hồ ghi một nhịp tim.
-
-Không sự kiện.
-
-Thi hỏi:
-
-— Mày có mơ không?
-
-— Không nhớ.
-
-— Cảm giác gì sáng dậy?
-
-— Đói.
-
-— Khác?
-
-— Nhớ mày.
-
-Thi nhìn hắn.
-
-— Tao đang hỏi chuyên môn.
-
-— Tao trả lời dữ kiện.
-
-Nó cố không cười.
-
-Không thành công hoàn toàn.
-
-Trung nhìn thấy.
-
-Không trêu thêm.
-
-Có những khoảnh khắc nếu nói ra sẽ nhỏ đi.
-
-***
-
-Chiều, đội số hóa Phòng 17 tìm thấy một bản carbon copy bị kẹp giữa hai bìa hồ sơ.
-
-Không phải trang bị xé từ bản Bình.
-
-Một ghi chú riêng, ngày không rõ.
-
-Mực mờ.
-
-Chỉ có bốn dòng:
-
-“Người kể không giữ được thứ mình viết.”
-
-“Người đọc mới giữ.”
-
-“Khi đủ người nhớ, phòng không còn cần khóa.”
-
-“Đừng hỏi nó đang ở đâu.”
-
-Dòng cuối bị gạch.
-
-Bên dưới có người khác viết:
-
-**“Hỏi nó đang ở ai.”**
-
-Không chữ “đúng chỗ”.
-
-Không xác nhận gì.
-
-Nhưng lại đẩy câu hỏi quay về con người.
-
-Huy đọc xong không chụp đăng.
-
-Ngày trước anh sẽ làm ngay.
-
-Lần này anh chỉ hỏi:
-
-— Chuỗi nguồn của tờ này?
-
-Khải nhìn anh.
-
-— Đang xác minh.
-
-— Vậy chờ.
-
-Khải không nói gì.
-
-Quỳnh đứng cạnh nghe, khẽ cười.
-
-Huy thấy.
-
-— Mày cười gì?
-
-— Không.
-
-— Rõ ràng có.
-
-— Thấy con lớn rồi.
-
-— Biến.
-
-***
-
-Khải không “đóng” hồ sơ Huyết Chủng theo nghĩa mọi thứ đã xong.
-
-Anh tách nó.
-
-Các vụ chết có nguyên nhân pháp y riêng.
-
-Hai hiện trường có dấu can thiệp của Channarong.
-
-Mạng Chợ Âm chuyển sang một chuyên án tiếp tục.
-
-Trung không bị truy tố vì không có bằng chứng hành vi gây chết người.
-
-Các dữ liệu bất thường giữ ở phụ lục chưa kết luận nguyên nhân.
-
-Không ai ghi **Người Thứ Sáu đã chuyển sang Huy**.
-
-Không ai ghi **không hề có Người Thứ Sáu**.
-
-Hồ sơ nhà nước không có nhiệm vụ chọn một niềm tin cho những phần chưa chứng minh.
-
-Ngày đặt bút ký báo cáo, Khải ngồi một mình thêm mười phút.
-
-Ngoài cửa phòng, người ta đang tranh nhau máy nước nóng vì hết bình.
-
-Một đồng nghiệp gọi anh xuống ăn cơm.
-
-Khải nhìn tập phụ lục.
-
-Rồi tắt đèn.
-
-Đi ăn.
-
-Có những câu hỏi không được phép ăn hết cuộc đời người hỏi.
-
-***
-
-Bài Ma Kí Sự không bị gỡ.
-
-Khải muốn giữ nguyên phục vụ truy vết.
-
-Sếp Hòa muốn gỡ vì chưa duyệt.
-
-Huy muốn sửa hai đoạn lạ.
-
-Cuối cùng họ đóng băng phiên bản hiện tại, thêm chú thích của tòa soạn rằng bài đang liên quan điều tra về truy cập trái phép CMS.
-
-Một cách rất kém huyền bí.
-
-Và rất đúng.
-
-Bài vẫn được đọc.
-
-Mười nghìn.
-
-Ba mươi nghìn.
-
-Năm mươi nghìn lượt.
-
-Mỗi người đọc mang đi một phiên bản khác trong đầu.
-
-Có người tin Trung bị ngải.
-
-Có người tin cả nhóm bị đầu độc và tự ám thị.
-
-Có người chỉ quan tâm Chợ Âm.
-
-Có người viết bình luận dài về Huy.
-
-Một người bảo tất cả chỉ là chiến dịch marketing của tòa soạn.
-
-Sếp Hòa đọc được, tức đến mức định trả lời bằng tài khoản chính.
-
-Quỳnh giật điện thoại.
-
-— Sếp thôi.
-
-— Nó bảo tôi dựng người mất tích để câu view!
-
-— Sếp trả lời càng giống.
-
-Hòa im ba giây.
-
-— Xóa comment được không?
-
-Huy:
-
-— Không sếp.
-
-— Trang của tôi mà?
-
-— Báo chí tự do.
-
-— Cậu im.
-
-Cả phòng cười.
-
-Huy cười theo.
-
-Rồi thôi trước mọi người một chút.
-
-Không vì bóng.
-
-Chỉ vì anh nhận ra Bình từng viết đúng một điều:
-
-Người viết không kiểm soát được câu chuyện sau khi người khác nhớ nó.
-
-***
-
-Một tuần sau, trời Hà Nội vẫn ẩm.
-
-Mưa rất nhỏ từ chiều.
-
-Huy ở tòa soạn tới 22 giờ 40.
-
-Không vi phạm luật mười một giờ.
-
-Quỳnh vừa về.
-
-Sếp Hòa còn dưới tầng một.
-
-Bảo vệ ngoài cổng.
-
-Phòng Kinh dị - Tâm linh chỉ còn ánh đèn bàn của Huy.
-
-Anh mở một file mới.
-
-Không phải bài về Người Thứ Sáu.
-
-Một case khác.
-
-Một lá thư độc giả gửi về miền Trung, kể chuyện căn nhà cứ mất một bậc cầu thang sau mỗi đêm mưa.
-
-Có thể bịa.
-
-Có thể thú vị.
-
-Có thể chẳng có ma gì hết.
-
-Huy đọc, bật cười.
-
-— Cuối cùng cũng có việc bình thường.
-
-Từ dưới tầng, sếp Hòa vọng:
-
-— CẬU ĐANG NÓI VỚI AI ĐẤY?
-
-Huy giật mình.
-
-— Với em!
-
-— Nói một mình ít thôi!
-
-— Dạ!
-
-Huy cười.
-
-Anh nhìn đồng hồ.
-
-22:47.
-
-Chưa tới giờ bị đuổi.
-
-Mở file.
-
-Đặt tiêu đề:
-
-**MA KÍ SỰ — HỒ SƠ MỚI**
-
-Con trỏ nhấp nháy.
-
-Huy đặt tay lên bàn phím.
-
-Dừng.
-
-Nhìn cửa kính đen phía trước.
-
-Phản chiếu của anh ở đó.
-
-Một người.
-
-Huy nhớ Trung từng đứng trước tủ inox và thử.
-
-Thấy mình ngớ ngẩn, anh vẫn giơ tay phải.
-
-Phản chiếu giơ cùng lúc.
-
-Hạ.
-
-Cùng lúc.
-
-Huy nghiêng đầu.
-
-Cùng lúc.
-
-Anh cười.
-
-Phản chiếu cười.
-
-Bình thường.
-
-— Đúng là tự hù mình.
-
-Huy quay lại màn hình.
-
-Phía sau, sếp Hòa lại gọi:
-
-— VỀ!
-
-— Chưa mười một giờ mà sếp!
-
-— TÔI MUỐN VỀ!
-
-— À!
-
-Huy lưu file trắng, tắt máy, khoác balo.
-
-Trước khi tắt đèn, anh nhìn cửa kính lần cuối.
-
-Chỉ mình anh.
-
-Huy đi.
-
-Cánh cửa phòng khép.
-
-Ánh đèn hành lang tắt sau cảm biến.
-
-Ngoài cửa kính, mưa trượt thành những vệt mảnh trên nền thành phố.
-
-Không còn ai trong phòng để nhìn xem đó là nước mưa, hơi ẩm...
-
-hay trong đúng nửa cái chớp mắt trước khi kính tối hẳn,
-
-phản chiếu của Trương An Huy đã thôi cười **chậm hơn anh một nhịp**.
+**Ai đang kể Ma Kí Sự?**
 
 
 **HẾT — HUYẾT CHỦNG**
