@@ -274,11 +274,25 @@ Thi thể trên gác có quan hệ huyết thống cha-con với A Mã; kết h�
 
 Như được xác định chết vào tối ngày hai mốt. Vết thương nhỏ ở ngực và hỗn hợp chất trong máu cần thêm giám định; dấu đen ở lòng bàn tay tương tự các dấu đã thấy trong chuỗi Khalamay.
 
-Trâm lấy lại giọng gần cùng khoảng thời gian ấy.
+Trong túi áo phía trong của Như, kỹ thuật viên tìm được một mẩu giấy nhỏ xé từ mép hóa đơn, gấp làm tư. Trên đó chỉ có ba chữ viết bằng bút bi xanh:
 
-Lan tin Như đã chủ động cắt liên hệ trước khi chết. Quỳnh cũng muốn tin vậy. Nhưng Thi chỉ ghi vào hồ sơ những thứ có thể ghi: thời điểm, tình trạng, mẫu vật và lời khai. Phần còn lại không bị chế giễu, cũng không được biến thành kết luận nhà nước chỉ vì họ tin.
+**TRÂM, NÓI ĐI.**
 
-Quỳnh thấy như thế là đủ công bằng.
+Giám định chữ viết về sau cho kết quả phù hợp với các mẫu chữ của Như. Không ai xác định được cô viết lúc nào, cũng không có cơ sở biến mẩu giấy thành bằng chứng cho một nghi thức mà pháp y không thể kiểm tra.
+
+Thi chỉ chụp lại ảnh vật chứng rồi cho Trâm xem khi bác sĩ đồng ý.
+
+Trâm cầm điện thoại bằng hai tay. Cô nhìn ba chữ rất lâu, lâu tới mức Quỳnh tưởng cổ họng đang đau nên không muốn nói. Cuối cùng Trâm chạm đầu ngón tay lên màn hình, đúng chỗ chữ **NÓI**.
+
+— Như.
+
+Giọng khàn và nhỏ, nhưng rõ.
+
+Trâm hít vào một hơi rồi quay mặt sang bên. Nước mắt xuống trước khi cô kịp lau.
+
+Quỳnh không nói Như đã được tha thứ. Nó cũng không nghĩ một mẩu giấy có thể xóa những lần Như từng giúp Tùng làm người khác tổn thương. Chỉ là giữa rất nhiều thứ đã bị lấy đi, trước lúc chết Như dường như vẫn còn nghĩ tới việc trả lại một thứ cho Trâm.
+
+Vậy là đủ để đau.
 
 ***
 
@@ -298,17 +312,75 @@ Quỳnh gật.
 
 — Vậy tao về.
 
-Trâm ôm nó.
+Điện thoại Quỳnh rung đúng lúc đó. Hân gọi.
 
-— Cảm ơn.
+Quỳnh nhìn tên trên màn hình rồi đưa máy cho Trâm.
 
-— Đừng cảm ơn sớm. Mày vẫn nợ tao vụ kéo cả đám vào rừng.
+— Mày nghe đi.
 
-— Tao tưởng mày nợ tao cái tát.
+Trâm đứng yên.
 
-— Hòa.
+— Tao chưa biết nói gì.
 
-Hai đứa cùng cười. Không giống hồi lớp mười hai nữa. Cũng không cần giống.
+— Thì nói “alo”.
+
+Cô lườm Quỳnh một cái rất cũ rồi nhận điện thoại.
+
+— Alo.
+
+Đầu kia im vài giây.
+
+Hân hỏi:
+
+— Mày còn sống không?
+
+Trâm bật ra một tiếng cười nghẹn.
+
+— Còn.
+
+— Ừ. Vậy được rồi.
+
+Lại im.
+
+— Cổ đau không?
+
+— Có.
+
+— Vậy đừng nói nhiều. Bác sĩ bảo gì thì nghe đi, đừng có lì.
+
+Trâm cúi đầu. Vai cô rung rất nhẹ.
+
+— Hân.
+
+— Gì?
+
+— Tao chưa biết... sau này tao đi đâu.
+
+Hân không trả lời ngay. Ở đầu dây bên kia có tiếng xe chạy, tiếng ai đó đóng cửa rồi giọng cô trở lại, vẫn cái giọng từng quản cả phòng 201 đi ngủ đúng giờ:
+
+— Thì về đây đã. Đi đâu tính sau.
+
+Trâm nhắm mắt.
+
+Lần này cô không giữ được nữa.
+
+Quỳnh quay mặt ra cửa sổ để bạn có vài giây không bị nhìn, nhưng chính mắt nó cũng nóng lên. Điều khiến nó muốn khóc không phải vì mọi thứ đã trở lại như cũ. Không gì có thể trở lại như cũ sau bảy năm.
+
+Chỉ là Trâm từng nghĩ mình đã mất luôn chỗ để quay về.
+
+Hóa ra chưa.
+
+Khi cuộc gọi kết thúc, Trâm lau mặt bằng tay áo rồi nói:
+
+— Xấu hổ quá.
+
+Quỳnh đưa khăn giấy.
+
+— Mày khóc nhìn xấu từ hồi cấp ba rồi.
+
+— Cút.
+
+Hai đứa cùng cười. Lần này tiếng cười đi ra cùng nước mắt nhưng không còn nghe giống một thứ gì đang vỡ.
 
 ***
 
@@ -366,7 +438,25 @@ Bảy năm trước, nó nghĩ đó là lời kết cho một vụ án.
 
 Bây giờ Quỳnh hiểu câu ấy không có nghĩa mọi thứ đều do con người tưởng tượng. Nó chỉ nhắc rằng dù thứ họ gặp là ma, ngải, hóa chất hay một điều chưa gọi được tên, cái ác vẫn cần một con người quyết định dùng nó để làm gì.
 
-Nó nhìn xuống bản thêm một lúc rồi quay vào thu xếp đồ. Lần này, rời Hồng Ngài không giống bỏ chạy khỏi một câu hỏi. Những gì Quỳnh cần làm ở đây đã làm xong.
+Một luồng gió từ dưới thung lũng thổi lên. Giữa mùi đất ẩm, khói bếp và lá cây, Quỳnh thoáng ngửi thấy một mùi hoa nhài rất nhẹ.
+
+Nó quay đầu theo phản xạ.
+
+Không có ai đứng sau.
+
+Quanh sân cũng không có bụi nhài nào Quỳnh nhìn thấy.
+
+Mùi hương chỉ ở lại vài giây rồi tan khi gió đổi.
+
+Quỳnh không đi tìm nguồn của nó. Sau từng ấy năm, nó đã học được rằng không phải điều gì không giải thích được cũng cần bị đuổi tới tận cùng.
+
+Nó nhìn xuống con đường dẫn khỏi bản rồi nói rất khẽ:
+
+— Tao về nha.
+
+Không rõ Quỳnh đang nói với ai.
+
+Nó đeo ba lô lên vai và đi vào trong thu xếp đồ. Lần này, rời Hồng Ngài không giống bỏ chạy khỏi một câu hỏi. Những gì Quỳnh cần làm ở đây đã làm xong.
 
 ***
 
