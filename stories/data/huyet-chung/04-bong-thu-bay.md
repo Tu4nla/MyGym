@@ -1,685 +1,399 @@
 # Chương 4 — Bóng thứ bảy
 
-Trong mặt inox của cánh tủ bếp có bảy cái bóng.
+Mảng tối trong mặt inox nằm sát vai phải Trung.
 
-Quỳnh đếm lại.
+Nếu chỉ nhìn lướt, nó giống một phần bóng bị kéo dài vì bề mặt kim loại cong. Nhưng Quỳnh đã đổi góc đầu hai lần. Thi bước sang trái. Huy lùi khỏi tường. Mảng tối thay hình một chút theo ánh sáng nhưng vẫn bám gần cùng một vị trí trong phản chiếu của Trung.
 
-Một lần.
+Không ai quay lại nhìn phía sau hắn thêm lần nữa. Phía đó chỉ có tường trắng và một bức tranh nhỏ; việc kiểm tra bằng mắt thường đã làm rồi.
 
-Rồi lần nữa.
+Thi rút điện thoại chậm rãi.
 
-Không phải vì nó không tin mắt mình.
+— Tao quay mặt tủ.
 
-Mà vì sau Hồng Ngài, thứ đầu tiên nó học được là **mắt có thể nói dối rất thuyết phục**.
+— Ừ. — Quỳnh nói. — Giữ cả Trung trong khung.
 
-Thi đứng gần cửa bếp nhất. Lan ở cạnh bàn. Huy dựa lưng vào tường. Trung đứng phía sau Quỳnh. Ngoài hành lang, qua khe cửa mở, có thêm một cán bộ giám sát mặc thường phục nhưng người đó không nằm trong góc phản chiếu.
+Trên màn hình điện thoại, hình phản chiếu méo hơn mắt thường. Sáu người thành những dải dài, mép áo hòa vào nhau. Mảng tối sau Trung vẫn có lúc hiện, có lúc biến khi Thi đổi tiêu cự.
 
-Sáu người.
+Trung nhìn màn hình rồi hỏi:
 
-Trong inox có bảy.
+— Có tính là người thứ bảy không?
 
-Cái bóng thứ bảy đứng phía sau Trung.
+— Chưa. — Thi đáp.
 
-Không có mặt.
+— Cảm ơn. Nghe đỡ hơn nhiều.
 
-Không có chi tiết quần áo.
+Giọng hắn có ý đùa nhưng không ai cười. Trung cũng thôi ngay.
 
-Chỉ là một vùng tối đậm hơn phần còn lại, cao gần bằng hắn, đầu hơi nghiêng về bên trái.
+Lan đứng gần cửa bếp, không bước vào vùng đã khoanh để chờ kỹ thuật. Cô hỏi:
 
-Quỳnh không quay lại ngay.
+— Mày có thấy lạnh, buồn nôn, tim nhanh hay râm ran sau gáy không?
 
-— Thi.
-
-Giọng nó thấp.
-
-— Ừ.
-
-— Đừng ai cử động.
-
-Trung nhìn phản chiếu rồi im luôn.
-
-Thi không hỏi “sao”. Nó rút điện thoại bằng động tác rất chậm, mở camera trước khi nâng lên.
-
-— Tao quay.
-
-— Đừng quay trực tiếp. Quay mặt tủ.
-
-— Biết.
-
-Camera hướng vào inox.
-
-Trên màn hình điện thoại Thi vẫn có bảy hình.
-
-Huy thôi cười.
-
-Đó là lúc căn bếp nhỏ bỗng yên đến mức tiếng máy nén của tủ lạnh cũng nghe như có ai thở sau tường.
-
-Lan nói:
-
-— Trung, giơ tay phải.
-
-— Tại sao tao?
-
-— Vì nó đứng sau mày.
-
-— Nghe động viên dữ.
-
-Giọng Trung cố pha trò nhưng khô.
-
-Hắn giơ tay.
-
-Sáu cái bóng trong inox chuyển động.
-
-Cái thứ bảy không.
-
-Lan nhìn chăm chăm.
-
-— Hạ xuống.
-
-Trung hạ tay.
-
-Cái bóng thứ bảy chậm hơn đúng một nhịp.
-
-Chỉ một nhịp.
-
-Nhưng đủ để tất cả đều thấy.
-
-Thi lập tức nói:
-
-— Camera vẫn ghi.
-
-Huy bước một bước sang trái.
-
-— Nếu là lỗi phản chiếu, hình phải biến theo góc.
-
-Cái bóng không đi theo Huy.
-
-Nó vẫn sau Trung.
-
-Quỳnh quay hẳn người lại.
-
-Phía sau hắn không có gì.
-
-Tường trắng.
-
-Một bức tranh nhỏ.
-
-Ánh sáng đèn trần.
-
-Không người.
-
-Nó quay lại mặt inox.
-
-Bảy.
-
-Trung nuốt khan.
-
-— Tao bắt đầu ghét căn hộ của tao rồi đó.
-
-***
-
-Không ai đụng cái cốc.
-
-Đội kỹ thuật lên sau mười hai phút.
-
-Khải tới sau họ năm phút.
-
-Anh đứng ngoài bếp nghe Thi trình bày từ đầu, không ngắt, không hỏi “có chắc không”. Sau đó xem video gốc trên điện thoại, sao chép file, kiểm tra metadata và yêu cầu chụp toàn bộ hệ đèn, góc phản xạ, bề mặt tủ.
-
-Một cán bộ kỹ thuật tắt từng đèn.
-
-Đèn trần.
-
-Đèn bếp.
-
-Đèn hành lang.
-
-Ánh sáng từ cửa sổ.
-
-Bóng thứ bảy thay độ đậm nhưng không biến mất hoàn toàn.
-
-Khi căn bếp tối hẳn, camera hồng ngoại của thiết bị chuyên dụng chỉ ghi sáu nguồn nhiệt.
-
-Khải nói:
-
-— Nghĩa là chưa có cơ sở gọi nó là một người.
-
-Huy khoanh tay.
-
-— Anh còn một cách gọi nào ít đáng sợ hơn “thứ phản chiếu không có nhiệt” không?
-
-— Có.
-
-Khải nhìn anh.
-
-— Hiện tượng hình ảnh chưa giải thích được.
-
-Huy thở dài.
-
-— Em biết ngay anh sẽ nói vậy.
-
-— Vì đó là câu đúng.
-
-Lan không tham gia cuộc đấu từ ngữ.
-
-Nó nhìn Trung.
-
-— Mày thấy gì ngoài gương không?
+Trung tự kiểm vài giây.
 
 — Không.
 
-— Nghe gì?
-
-— Hiện tại chỉ nghe Huy làm phiền.
-
-— Nghiêm túc.
-
-Trung thôi cười.
+— Nghe gì lạ?
 
 — Không.
 
-— Lạnh? Buồn nôn? Ngứa sau gáy? Tim nhanh?
+— Có cảm giác muốn lại gần cái tủ?
 
-— Không.
+— Cũng không.
 
 Lan gật.
 
-— Tốt.
+— Vậy đừng tự thêm triệu chứng chỉ vì đang thấy một cái bóng.
 
-Trung nhìn nó.
+Trung nhìn cô.
 
-— Cái gì tốt?
+— Câu này nghe hữu ích hơn mấy câu “có thể” hồi nãy.
 
-— Ít nhất cái bóng chưa gây cảm giác lên cơ thể mày.
+— Vì cái này tao biết: hoảng có thể làm mình tự ráp phần còn thiếu.
 
-— Chữ “chưa” của mày làm tao thấy rất an tâm.
-
-***
-
-Chiếc cốc được niêm phong.
-
-Bột bên trong được lấy mẫu bằng tăm bông vô trùng, chia làm hai phần. Một chuyển phòng hóa sinh. Một phần giữ đối chứng.
-
-Thi nhìn kỹ thành cốc khi kỹ thuật viên soi đèn cực tím.
-
-Không có dấu vân tay mới rõ ràng ở bên ngoài ngoài dấu của Trung từ buổi sáng, đã được giải thích bằng việc hắn rửa rồi cất cốc.
-
-Điểm lạ nằm ở **mặt trong**.
-
-Một vệt rất mảnh, như bột được ai đó miết từ đáy lên thành theo hình vòng cung.
-
-Kỹ thuật viên nói:
-
-— Nếu rắc từ trên xuống thì phân bố không giống vậy.
-
-Khải hỏi:
-
-— Có thể do nước còn đọng kéo bột lên khi khô không?
-
-— Có thể. Cần thử.
-
-Không ai nói “bột tự bò”.
-
-Đó là điều Quỳnh thích ở Khải.
-
-Anh luôn mở tất cả cánh cửa bình thường trước khi cho phép căn phòng có một cánh cửa khác.
+Quỳnh vẫn giữ mắt trên inox. Cô từng nhìn thấy quá nhiều thứ ở Hồng Ngài để còn tin rằng một hình ảnh lạ phải lập tức có tên. Nhưng việc không gọi tên nó không làm căn bếp bớt lạnh đi bao nhiêu.
 
 ***
 
-Buổi tối, Trung không được ở lại căn hộ.
+Đội kỹ thuật tới sau hơn mười phút. Khải theo sau không lâu.
 
-Đó không phải quyết định vì cái bóng.
+Anh nghe Thi kể từ đầu, xem video gốc ngay trên thiết bị rồi yêu cầu chụp lại cả căn bếp trước khi tắt hay di chuyển bất cứ nguồn sáng nào. Sau đó họ mới thử từng biến số: đèn trần, đèn bếp, ánh sáng hành lang, rèm cửa, góc điện thoại, khoảng cách tới mặt inox.
 
-Khải giải thích rõ:
+Mảng tối có thể làm nhạt đi. Có góc nó biến mất hoàn toàn. Có góc nó quay lại dưới dạng một dải rất mỏng sau vai Trung, nhưng không lần nào rõ tới mức có thể chỉ vào và nói đó là hình người.
 
-— Địa chỉ đã có khả năng bị theo dõi. Có chất lạ xuất hiện trong nhà không rõ nguồn. Cậu chuyển sang địa điểm bảo vệ là hợp lý dù bỏ toàn bộ yếu tố còn lại.
+Thi hỏi kỹ thuật viên:
 
-Trung cầm túi đồ đứng giữa phòng khách.
+— Có dựng lại được bằng bóng đèn hay người đứng ngoài khung không?
 
-— Em có được mang máy chơi game không?
+— Gần giống thì được. Giống đúng vị trí lúc đầu thì chưa.
 
-Thi:
+— Camera hồng ngoại?
+
+Thiết bị chuyên dụng chỉ cho sáu vùng nhiệt của sáu người thật.
+
+Huy đứng ngoài vạch, nhìn màn hình.
+
+— Vậy thứ kia không có nhiệt?
+
+Khải quay sang.
+
+— Không. Kết luận đúng là camera nhiệt không ghi thêm nguồn nhiệt nào.
+
+Huy thở ra.
+
+— Tôi biết ngay anh sẽ không cho tôi câu dễ kể.
+
+— Vì cậu đang đứng trong hiện trường chứ không phải viết tiêu đề.
+
+Lần này Huy im.
+
+Chiếc cốc trên sàn được chụp, niêm phong và lấy mẫu. Kỹ thuật viên soi mặt trong thấy một vệt bột mảnh kéo từ gần đáy lên thành theo đường cong. Nó có thể do cách bột bám khi cốc còn ẩm, cũng có thể do bị miết. Chưa ai biết.
+
+Khải cho chuyển mẫu đi trước rồi yêu cầu Trung thu đồ cần thiết.
+
+— Tối nay cậu không ở đây.
+
+Trung đang đứng giữa phòng khách, quay lại.
+
+— Vì cái bóng?
+
+— Vì nhà cậu đã xuất hiện một chất lạ chưa rõ nguồn, địa chỉ có khả năng bị theo dõi và mã cửa từng bị sử dụng trong khoảng cậu không nhớ. Bỏ cái bóng đi vẫn đủ lý do chuyển cậu.
+
+— Em mang máy chơi game được không?
+
+Thi nói ngay:
 
 — Không.
 
-— Tại sao?
+Khải nhìn Trung.
 
-— Vì tao ghét mày vui.
-
-Khải nói:
-
-— Mang được.
+— Được, nhưng kỹ thuật kiểm tra trước.
 
 Trung chỉ Thi.
 
-— Anh là cấp trên có tâm.
+— Người ta làm quản lý khác nhau ở cái tâm.
 
-— Nhưng máy sẽ kiểm tra trước.
+— Mày mà làm mất thời gian tao vứt máy ở đây.
 
-— Em rút lại.
+— Rồi rồi.
 
-Quỳnh ngồi ở sofa nhìn hai đứa cãi nhau.
-
-Không khí bình thường đến mức nếu không có túi niêm phong trên bàn và hai camera tạm ngoài hành lang, nó có thể tưởng đây chỉ là một tối bạn bè tụ tập.
-
-Nó thấy cần những khoảng như vậy.
-
-Người ta không thể sống bằng cách luôn nhìn quanh xem bóng nào không thuộc về mình.
+Quỳnh ngồi trên sofa nhìn hai đứa cãi vài câu rất nhỏ. Chính sự bình thường ấy làm căn phòng dịu đi. Người ta không thể sống suốt ngày chỉ bằng cách đếm xem có bao nhiêu bóng đứng sau lưng mình.
 
 ***
 
-Trước khi rời căn hộ, Lan xin xem lại bản chụp sổ A Mã.
+Trước khi rời căn hộ, Lan xin mở lại bản scan sổ A Mã.
 
-Bản gốc vẫn nằm trong hồ sơ vụ Hồng Ngài. Thi có một bộ scan được phép dùng để đối chiếu trong chuyên án.
+Bản gốc vẫn nằm trong hồ sơ Hồng Ngài; Thi chỉ có bản sao phục vụ đối chiếu. Họ ngồi quanh bàn ăn, không ai mang chiếc cốc hay mẫu bột trở lại gần.
 
-Họ ngồi quanh bàn ăn.
+Những trang liên quan Khalamay đã được đọc nhiều lần: máu dùng để nuôi cây; năm dấu sinh khí tạo phần lõi; bột khuếch đại thứ đã có sẵn. Ở vài trang cuối xuất hiện chữ **Dẫn Chủng**, nhưng A Mã ghi rất rời rạc, lúc bằng chữ Việt xấu, lúc trộn ký hiệu riêng.
 
-Lan lật tới phần Huy từng dịch sơ.
+Lan phóng một mép trang bị ố nước.
 
-Có bốn quy tắc chính về Khalamay mà cả nhóm đã biết.
+— Đây là chỗ trước giờ tao đọc được “chủng... cửa”. Không đủ để biết ổng nói vật, người hay giai đoạn.
 
-Máu nuôi cây.
+Dòng dưới còn vài chữ: **uống**, **máu nóng**, rồi một đoạn lem mất. Xa hơn có hai chữ mà Lan từng nghĩ là **bóng lệch**, nhưng nét sau chữ “bóng” bị nhòe tới mức cũng có thể là một từ khác.
 
-Năm dấu sinh khí làm lõi.
+Trung nhìn màn hình.
 
-Bột chỉ khuếch đại thứ có sẵn.
+— Nghĩa là sổ có câu nói về bóng?
 
-Và một chữ họ bỏ qua vì không hiểu:
+— Nghĩa là có hai chữ tao chưa dịch chắc. — Lan đáp. — Nếu tối nay mình vừa thấy thứ lạ rồi quay lại ép chữ trong sổ thành lời giải thì rất dễ tự lừa mình.
 
-**Dẫn Chủng.**
+Huy chống khuỷu tay lên bàn.
 
-Ở mép trang có một đoạn ghi bằng chữ Việt rất xấu của A Mã:
+— Có cách nào kiểm tra cái bóng mà không dựa vào căn bếp này không?
 
-“Chủng không phải ngải. Là cửa.”
+Khải gật.
 
-Dòng dưới:
+— Ngày mai dựng lại ở phòng kỹ thuật. Nhiều gương, nhiều nguồn sáng, nhiều camera. Nếu hiện tượng có quy luật thì mình tìm quy luật. Nếu không lặp được, ghi đúng là không lặp được.
 
-“Không có cửa, thần tướng không nhập.”
+Trung nhìn mặt inox lần cuối trước khi ra cửa.
 
-Dòng tiếp theo bị lem nước.
+Mảng tối không còn ở đó.
 
-Lan phóng ảnh.
-
-Chỉ đọc được vài chữ:
-
-“...uống...”
-
-“...máu nóng...”
-
-“...vật chứa...”
-
-Trung ngồi đối diện, hai tay đan vào nhau.
-
-Không còn ai phải nhắc tới chén trà.
-
-Hắn tự nói:
-
-— Vậy tao là cái cửa?
-
-Lan đáp:
-
-— Có thể.
-
-— Mày nói “có thể” nhiều quá.
-
-— Vì tao không biết A Mã có đúng không. Cũng không biết Tùng làm đúng công thức của ổng không. Và càng không biết thứ trong trà là Dẫn Chủng hay một thứ khác.
-
-Huy chống cằm.
-
-— Có cách kiểm tra không?
-
-Lan lật thêm vài trang.
-
-— A Mã có ghi dấu nhận biết.
-
-— Gì?
-
-Lan đọc chậm:
-
-“Vật chứa sau khi nhận chủng có lúc thấy cái bóng không đi cùng thân.”
-
-Không ai cử động.
-
-Trung nhìn mặt inox ở bếp.
-
-Từ vị trí bàn ăn không thấy rõ.
-
-— Hay. — hắn nói. — Rất hay.
+Điều ấy không làm hắn dễ chịu hơn.
 
 ***
 
-Khải không cho phép một dòng trong sổ biến thành kết luận.
+Sáng hôm sau, phòng kỹ thuật được bố trí bốn camera, ba loại gương và một tấm inox gần giống bề mặt căn bếp. Trung đứng giữa vạch đánh dấu, đổi góc theo hướng dẫn. Đèn trắng, đèn vàng và hồng ngoại được thử lần lượt.
 
-Anh yêu cầu dựng lại thử nghiệm phản chiếu tại phòng kỹ thuật hôm sau.
+Mười phút không có gì.
 
-Bốn bề gắn camera.
+Hai mươi phút vẫn không.
 
-Ba loại gương.
+Huy ngồi sau kính quan sát, bắt đầu đổi tư thế liên tục.
 
-Một tấm inox.
+— Hôm qua cả đám thấy, hôm nay nó nghỉ à?
 
-Đèn trắng, đèn vàng, hồng ngoại.
+Khải không nhìn anh.
 
-Trung đứng giữa vạch.
+— Hoặc điều kiện khác. Hoặc mình đã diễn giải sai hình phản chiếu hôm qua.
 
-Không có bóng thứ bảy.
+Trung quay qua lớp kính.
 
-Mười phút.
-
-Hai mươi phút.
-
-Không.
-
-Huy ngồi sau kính quan sát, bắt đầu sốt ruột.
-
-— Vậy tối qua là gì?
-
-Khải:
-
-— Một hiện tượng không lặp lại được.
-
-— Anh vui lắm đúng không?
-
-— Tôi thích dữ kiện rõ.
-
-Trung quay đầu qua kính.
-
-— Anh cho em về chưa?
-
-— Chưa.
-
-— Em đứng đây nửa tiếng rồi.
+— Em được về chưa?
 
 — Thêm năm phút.
 
-Trung giơ ngón giữa về phía kính.
+Hắn giơ ngón giữa.
 
-Thi ngồi cạnh Khải.
+Thi ngồi cạnh Khải nói:
 
-— Cái đó có tính là dữ kiện không anh?
+— Cái đó có tính là baseline không anh?
 
-Khải không đổi mặt.
+Khải nhìn màn hình.
 
-— Tính là hành vi quen thuộc. Hữu ích để xác nhận người trước mặt vẫn là Trung.
+— Hành vi quen thuộc. Ít nhất xác nhận cậu ta chưa đổi tính.
 
 Huy bật cười.
 
-Ngay lúc đó, màn hình camera số ba nhiễu một nhịp.
+Ngay lúc ấy camera số ba nhiễu một nhịp ngắn.
 
-Chưa tới nửa giây.
+Khải cho dừng và tua lại.
 
-Khi trở lại, sau Trung có một vùng tối.
+Trong chưa đầy một giây, phía sau vai phải Trung có một vùng tối hơn nền. Khi phóng to, mép vùng tối tạo thành hình giống một bàn tay đặt lên vai — hoặc một cụm nhiễu nén đúng chỗ khiến não người tự hoàn thiện thành bàn tay.
 
-Chỉ trên camera số ba.
+Ba camera còn lại không ghi chi tiết đó.
 
-Camera số một, hai, bốn không có.
+Trung ngoài phòng không có phản ứng gì ở đúng thời điểm ấy.
 
-Khải lập tức:
+Thi xem đi xem lại ba lần.
 
-— Dừng.
+— Giữ frame gốc. Đừng sharpen hay chạy AI gì hết.
 
-Tất cả im.
+Kỹ thuật viên gật.
 
-Anh tua lại đúng frame.
+Khải ghi thời gian.
 
-Vùng tối không rõ hình người.
+— Một camera. Một frame. Không lặp lại được.
 
-Có thể chỉ là lỗi nén.
+Huy nói rất nhỏ:
 
-Có thể bóng của thiết bị.
+— Nhưng lại đúng vai phải.
 
-Nhưng trong đúng một frame, nó có một chi tiết mà Quỳnh nhìn thấy đầu tiên.
-
-Một bàn tay.
-
-Năm ngón.
-
-Đặt lên vai phải Trung.
-
-Trung ngoài phòng không hề phản ứng.
+Không ai trả lời.
 
 ***
 
-Kết quả hóa sinh về lúc gần trưa.
+Kết quả hóa sinh về gần trưa.
 
-Mẫu bột trong cốc **có ba nhóm hợp chất trùng với mẫu HN-23** thu ở bàn nghi lễ Hồng Ngài.
+Mẫu bột trong cốc có ba nhóm hợp chất trùng với mẫu HN-23 thu ở bàn nghi lễ Hồng Ngài. Không đủ để nói cùng một mẻ, nhưng đủ để loại dần khả năng nó chỉ là bột gia dụng vô tình còn lại sau khi rửa cốc.
 
-Không đủ để nói cùng một mẻ.
+Thi đặt báo cáo xuống bàn.
 
-Nhưng xác suất chỉ là bột gia dụng ngẫu nhiên gần như bị loại.
+— Vậy có một chất liên quan vật chất tới Hồng Ngài xuất hiện trong nhà Trung.
 
-Thi đọc xong, đặt hồ sơ xuống.
+Khải sửa rất nhẹ:
 
-— Vậy có người đem một chất liên quan Hồng Ngài vào căn hộ Trung.
-
-Khải sửa:
-
-— Hoặc chất đó vốn đã ở trong căn hộ mà chúng ta chưa phát hiện.
-
-— Cốc sáng nó vừa rửa.
-
-— Vẫn chưa chứng minh thời điểm bột xuất hiện.
+— Một chất có thành phần gần mẫu Hồng Ngài. Thời điểm nó vào cốc vẫn chưa biết.
 
 Quỳnh hỏi:
 
-— Anh nghĩ người nào làm được?
+— Nếu có người đặt từ trước thì camera cửa không giúp được.
 
-— Tôi không nghĩ khi chưa cần.
+— Đúng.
 
-— Anh không bao giờ đoán à?
+Huy nhìn Khải.
 
-Khải nhìn nó.
+— Anh có giả thuyết riêng không?
 
-— Có. Trong đầu. Nhưng tôi không để phỏng đoán đổi cách tôi thu chứng cứ.
+— Có.
 
-Quỳnh gật.
+— Nói không?
 
-Nó hiểu.
+— Chưa.
 
-Trong đầu nó cũng đã có một giả thuyết.
+Huy thở dài.
 
-Nhưng không nói.
+— Tôi bắt đầu hiểu vì sao Thi hợp làm việc với anh.
+
+Thi không thèm quay sang.
 
 ***
 
-Buổi chiều xảy ra chuyện thứ hai.
+Buổi chiều, một số lạ gọi tới số công việc của Thi.
 
-Không phải trong nhà Trung.
+Giọng đàn ông, khoảng trung niên, nói chậm và không có vẻ muốn che giấu việc mình biết cô là ai.
 
-Một người đàn ông gọi tới số công việc của Thi.
+— Tôi muốn nói chuyện về món đồ thất lạc ở Sơn La.
 
-Số lạ.
+Thi bật ghi âm hệ thống và ra hiệu cho Khải ngồi cạnh.
 
-Giọng nam khoảng bốn mươi, không vội.
+— Anh tên gì?
 
-— Tôi muốn nói chuyện về đồ bị mất ở Sơn La.
-
-Thi bật ghi âm hệ thống, ra hiệu Khải.
-
-— Anh là ai?
-
-— Người không muốn người của cô chết thêm.
-
-— Tên.
-
-— Tên không giúp gì.
+— Tên không giúp cô giữ người của mình sống lâu hơn.
 
 — Vậy anh muốn gì?
 
 — Trả lọ lại.
 
-Thi nhìn Trung qua lớp kính phòng họp.
-
-Hắn không nghe cuộc gọi.
+Thi nhìn qua lớp kính phòng họp. Trung đang ngồi ở phòng bên, không nghe cuộc gọi.
 
 — Lọ nào?
 
-Người kia cười rất nhẹ.
+Người đàn ông cười rất khẽ.
 
-— Đừng làm mất thời gian. Cậu Trung giữ thứ không thuộc về cậu ấy.
+— Cô biết. Cậu Trung cũng biết, dù có thể cậu ấy không nhớ theo cách cô muốn.
 
-Thi không phản ứng.
+Thi không để câu đó kéo mình đi.
 
-— Anh có bằng chứng?
+— Anh có bằng chứng Trung giữ nó?
 
-— Không cần. Thứ đó sẽ tự tìm đúng chỗ.
+— Không cần bằng chứng để thứ đó tìm đúng chỗ.
 
-— “Đúng chỗ” là đâu?
+— Đúng chỗ là đâu?
 
 Đầu dây im hai giây.
 
 — Cô hỏi sai rồi.
 
-— Vậy câu đúng?
+— Vậy hỏi gì?
 
 — **Ai.**
 
 Cuộc gọi tắt.
 
-Không truy ngược trực tiếp được. SIM rác, chuyển tiếp qua dịch vụ VoIP.
+Số thuê bao không dẫn trực tiếp tới người dùng thật; tuyến gọi đã qua nhiều lớp chuyển tiếp. Nhưng lần đầu phía bên kia chủ động nói tên Trung và chiếc lọ trong cùng một câu.
 
-Nhưng lần đầu tiên, phía bên kia đã chủ động nói tên Trung.
+Khải nhìn waveform trên màn hình.
 
-Khải nhìn waveform cuộc gọi trên màn hình.
+— Họ muốn mình tin Trung có lọ.
 
-— Tốt.
+Thi quay sang.
 
-Thi cau mày.
+— Anh không nói “Trung có lọ”.
 
-— Tốt chỗ nào?
+— Vì người gọi không phải nhân chứng độc lập. Họ có thể biết thật, cũng có thể muốn đẩy mình đúng hướng đó.
 
-— Họ nghĩ chúng ta có thứ họ muốn.
+— Nhưng kế hoạch mồi?
 
-— Và nếu Trung thật sự có?
+— Chỉ tiếp tục nếu Trung còn đồng ý sau khi nghe cuộc gọi.
 
-Khải quay sang.
+Trung được gọi vào và nghe lại toàn bộ. Hắn không chen ngang, tới cuối mới hỏi:
 
-— Càng tốt cho việc hiểu vì sao họ săn cậu ấy.
+— Vẫn làm chứ?
 
-Trung được gọi vào.
+Khải đáp:
 
-Nghe lại cuộc gọi.
+— Cậu có quyền dừng.
 
-Hắn ngồi yên tới cuối.
+Trung nhìn Thi. Cô không gật, cũng không lắc.
 
-Sau đó hỏi:
+— Làm. Nếu tụi nó đã nhắm tao thì việc chuyển chỗ ở không làm câu hỏi biến mất.
 
-— Kế hoạch mồi vẫn giữ?
+Thi nói:
 
-Khải:
+— Tao không cần mày chứng minh gan.
 
-— Chỉ nếu cậu đồng ý.
+— Tao cũng không định. Tao chỉ muốn biết vì sao một thằng lạ biết tên tao trước cả khi tao nhớ nổi cái lọ.
 
-Trung nhìn Thi.
-
-Thi không gật.
-
-Không lắc.
-
-Hắn nói:
-
-— Làm.
-
-Thi chửi rất nhỏ.
-
-Trung nghe được.
-
-— Tao biết.
-
-— Biết gì?
-
-— Mày đang nghĩ tao ngu.
-
-— Đúng.
-
-— Nhưng nếu tụi nó đang tìm tao, ngồi im cũng không làm tụi nó biến mất.
-
-Thi nhìn hắn.
-
-— Tao không muốn mày chứng minh mình gan bằng cách chết.
-
-Trung cười một cái rất ngắn.
-
-— Tao cũng chưa muốn chết. Còn nợ mày bữa lẩu.
-
-— Bốn bữa.
-
-— Vậy càng phải sống.
+Câu đó làm Thi thôi định mắng tiếp.
 
 ***
 
-Tối đó, Trung được đưa vào căn hộ an toàn.
+Tối, Trung được chuyển tới một căn hộ an toàn ở khu khác. Hai lối ra được kiểm soát, camera đặt ngoài cửa và ở hành lang, cảm biến cửa sổ bật. Bên trong không có camera; Trung đang được bảo vệ và theo dõi rủi ro, không phải bị nhốt trong buồng quan sát.
 
-Không phải phòng giam.
+Khải đưa hắn một nút báo động nhỏ.
 
-Một căn hộ bình thường ở khu khác, hai lối ra, camera ngoài cửa, cảm biến cửa sổ, đội giám sát thay ca.
+— Bấm một lần, đội ngoài vào ngay.
 
-Trong phòng không đặt camera vì hắn vẫn là người được bảo vệ, chưa phải bị canh giữ trong buồng kính.
+Trung bỏ vào túi quần.
 
-Khải đưa cho hắn một nút báo động.
+— Nếu em thấy cái bóng thì sao?
 
-— Một lần bấm, đội vào ngay.
+— Báo. Đừng tự đi kiểm tra hành lang hay cầu thang.
 
-Trung bỏ túi.
+— Nếu không chắc mình thấy thật?
 
-— Nếu thấy bóng thứ bảy thì sao?
+— Càng báo.
 
-— Báo.
+Khải rời đi.
 
-— Nếu bóng đó không có điện thoại?
+Đêm Hà Nội tháng Một lạnh và khô. Từ tầng cao vẫn nghe tiếng xe dưới đường kéo thành một lớp âm thanh đều. Trung để đèn ngủ sáng, đặt điện thoại ghi âm trên bàn cạnh giường rồi ghi vào ứng dụng note đúng một dòng: **01:52 — tỉnh, chưa có triệu chứng.**
 
-Khải nhìn hắn.
+Hắn không muốn sáng mai lại phải tranh luận với chính trí nhớ của mình mà không có bất kỳ mốc nào.
 
-— Cậu còn đùa được là tốt.
+02:07, Trung vẫn chưa ngủ.
 
-Trung hơi sững.
+02:08, hắn đứng dậy uống nước. Khi đi ngang cửa kính tối, Trung thoáng thấy phản chiếu của mình dừng chậm hơn nửa nhịp.
 
-Khải đi.
+Hắn đứng lại.
 
-Đêm xuống.
+Không nhìn tiếp vào kính. Trung lấy điện thoại, bật camera hướng vào cửa sổ.
 
-Trung nằm trên giường mới, nhìn trần nhà xa lạ.
+Trên màn hình chỉ có hắn và căn phòng.
 
-Ngoài cửa sổ là Hà Nội tháng Một lạnh và khô. Tiếng xe dưới đường không bao giờ tắt hẳn.
+— 02:09. — Trung nói vào bản ghi. — Có cảm giác hình phản chiếu lệch nhịp. Camera không thấy gì khác.
 
-Hắn không ngủ được.
+Hắn vừa nói xong thì điện trong phòng tắt.
 
-02 giờ 07.
+Không phải cả tòa nhà. Ánh sáng hành lang vẫn lọt qua khe cửa.
 
-Hắn nhìn đồng hồ.
+Trung đưa tay vào túi lấy nút báo động.
 
-02 giờ 08.
+Trong bóng tối có tiếng bước chân rất nhẹ ở khu bếp.
 
-02 giờ 09.
+Một vòng.
 
-Trung ngồi dậy, lấy nước.
+Rồi thêm một vòng khác.
 
-Khi đi qua tấm kính cửa sổ, hắn nhìn thấy mình.
+Trung không đi tìm.
 
-Một người.
+Hắn bấm nút.
 
-Không bóng thứ bảy.
-
-Hắn thở ra.
-
-Rồi hình phản chiếu của hắn **không thở ra cùng lúc**.
-
-Trung đứng khựng.
-
-Trong kính, chính hắn vẫn nhìn thẳng.
-
-Miệng phản chiếu từ từ cong lên.
-
-Trung ngoài đời không cười.
-
-Hắn lùi.
-
-Bóng trong kính giơ một ngón tay lên môi.
-
-Suỵt.
-
-Sau đó điện trong phòng tắt.
-
-Và từ trong bóng tối, có năm giọng người cùng lúc thì thầm tên hắn.
+Trong vài giây chờ đội ngoài phá khóa khẩn cấp, nhiều giọng nói chồng lên nhau rất sát tai. Trung không nhận ra ai, cũng không chắc có bao nhiêu. Đến lần cuối, hắn có cảm giác khoảng năm giọng cùng gọi một từ duy nhất:
 
 — Trung.
+
+Cửa ngoài rung mạnh.
+
+Đèn bật lại đúng lúc đội bảo vệ vào.
+
+Sau đó, khi nghe lại bản ghi âm đặt trên bàn, họ chỉ nghe được tiếng Trung nói mốc 02:09, một tiếng cạch rất nhỏ, rồi tiếng hắn thở nhanh trong bóng tối.
+
+Không có bước chân.
+
+Không có giọng gọi tên.
+
+Cầu dao nhánh của căn hộ được tìm thấy ở vị trí tắt.
+
+Nó nằm trong tủ kỹ thuật bên trong phòng.
