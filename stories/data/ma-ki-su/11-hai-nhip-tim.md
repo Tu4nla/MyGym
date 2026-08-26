@@ -1,609 +1,457 @@
 Tôi quay phắt lại.
 
-Không có ai trên giường.
+Chiếc giường trống.
 
-Tất nhiên.
+Không có ai ngồi ở đó, không có bóng người nép sau rèm, cũng chẳng có thứ gì đủ giống một cơ thể để tôi tự dọa mình thêm. Tôi nhìn lại điện thoại. Camera trước vẫn mở, nhưng hình trên màn hình lúc này chỉ còn mặt tôi với căn phòng phía sau.
 
-Nếu có thật chắc tôi đã chạy xuyên cửa rồi.
+Tôi kiểm tra đoạn video vừa quay. Ở đúng khoảnh khắc màn hình tự đổi camera, có một khung hình nhiễu nặng: sau vai trái tôi là một khối tối có tỷ lệ gần giống người đang ngồi, đầu hơi cúi. Không thấy mặt. Tôi phóng to vài lần, và đúng như lời anh Tuấn từng nói, công nghệ ngoài đời không có nút “enhance” biến vài chục pixel thành chân dung hung thủ. Tôi chỉ nhận được những ô vuông lớn hơn.
 
-Tôi nhìn điện thoại.
+Tôi gọi Quang.
 
-Camera trước vẫn mở.
+Nó bắt máy sau bốn hồi chuông, giọng ngái ngủ:
 
-Trên màn hình chỉ còn mặt tôi và chiếc giường trống phía sau.
+— Mày biết mấy giờ không?
 
-Tôi bấm vào ảnh vừa chụp tự động.
+— Qua phòng tao một lát được không?
 
-Có một tấm.
+— Có chuyện gì?
 
-Ảnh hơi nhiễu vì thiếu sáng.
+Tôi nhìn chiếc giường trống.
 
-Vai trái tôi.
+— Tao vừa thấy có người ngồi sau lưng trên camera.
 
-Sau lưng là một khối tối giống người ngồi.
+Đầu dây im hai giây.
 
-Không rõ mặt.
+— Mày ở một mình hả?
 
-Tôi zoom.
+— Ừ.
 
-Vỡ hạt.
+— Khóa cửa chưa?
 
-Zoom tiếp.
+— Rồi.
 
-Vỡ hạt to hơn.
+— Đừng mở cho ai. Tao qua.
 
-Đúng như anh Tuấn từng nói, công nghệ ngoài đời không có phép “enhance” biến ba pixel thành khuôn mặt hung thủ.
+Không có câu đùa nào. Có lẽ vì giọng tôi lúc ấy không giống đang diễn.
 
-Tôi gọi anh Quang.
+Mười lăm phút sau Quang tới, tóc dựng một bên vì vừa chui khỏi giường, mặc áo khoác ngoài áo thun và cầm cây đèn pin kim loại dài mà nó vẫn để trong cốp xe.
 
-Nó bắt máy bằng giọng ngái ngủ.
+Tôi nhìn cây đèn.
 
-— Gì nữa?
+— Mày tính làm gì với cái đó?
 
-— Qua ngủ với tao.
+— Tao không biết. Mày nói trong phòng có người thì tao cầm cái gì chắc tay một chút cho đỡ ngu.
 
-Đầu dây im.
+Nghe hợp lý hơn bất cứ thứ gì tôi có thể nghĩ ra.
 
-— Mày nói lại coi.
+Hai đứa kiểm tra lại cửa sổ, gầm giường, nhà vệ sinh và cả khoảng nhỏ sau tủ. Không có dấu ai vào. Tôi cho Quang xem khung hình. Nó kéo kính điện thoại ra xa, nhìn một hồi rồi nói:
 
-— Qua phòng tao ngủ.
+— Có thể lỗi camera.
 
-— Huy, tao quý mày nhưng...
+— Sau giường không có vật gì cao cỡ đó.
 
-— Có ma.
-
-— À.
-
-Nó hiểu ngay.
-
-Mười lăm phút sau anh Quang tới với cái áo khoác mặc ngược và cây chổi lau nhà.
-
-Tôi nhìn cây chổi.
-
-— Mày định đánh ma bằng cái này?
-
-— Tao không có kiếm gỗ.
-
-— Chổi thì có tác dụng gì?
-
-— Nếu ma nữ thì tao đưa nó quét phòng, biết đâu nó thấy áy náy rồi đi.
-
-Tôi phải công nhận lúc căng thẳng có một thằng bạn nói nhảm bên cạnh cũng có ích.
-
-Tôi cho nó xem ảnh.
-
-Quang nhìn rất lâu.
-
-— Có thể là áo treo.
-
-— Sau giường không treo áo.
-
-— Bóng rèm.
-
-— Rèm bên phải.
-
-— Lỗi camera.
+— Có thể bóng do đổi camera.
 
 — Có thể.
 
-Nó nhìn tôi.
+— Mày muốn tao nói gì?
 
-— Mày muốn tao nói ma hả?
+Tôi ngồi xuống ghế.
 
-— Không. Tao muốn một lời giải thích dễ ngủ.
+— Một câu nào đó để tối nay tao ngủ được.
+
+Quang trả điện thoại lại.
 
 — Vậy lỗi camera.
 
+Tôi bật cười được một tiếng.
+
 — Cảm ơn.
 
-Chúng tôi không bật băng nữa.
+— Không có gì. Mai nhớ bao tao bữa sáng.
 
-Tôi cất cassette vào hộp.
+Chúng tôi không nghe cassette nữa. Tôi cho băng vào hộp, đặt trong ngăn kéo, khóa lại rồi bỏ chìa vào túi quần. Quang trải tạm chiếc chiếu mỏng dưới sàn. Nó ngẩng lên nhìn cái giường của tôi.
 
-Khóa ngăn bàn.
+— Tao nằm dưới này thật hả?
 
-Quang trải chiếu dưới sàn.
+— Mày muốn nằm giường thì tao nằm dưới.
 
-— Giường mày rộng mà.
+— Thôi, nghe câu đó tự nhiên tao thấy sàn cũng thoải mái.
 
-— Tao không nằm chung đàn ông.
+— Ngủ đi.
 
-— Vậy mười phút trước ai gọi tao qua ngủ?
-
-— Ngủ cùng phòng khác ngủ cùng giường.
-
-— Mày phân loại kỹ ghê.
-
-— Im ngủ đi.
-
-Tôi tắt đèn.
-
-Năm phút sau Quang hỏi:
+Phòng tắt đèn được một lúc, Quang mới hỏi trong bóng tối:
 
 — Huy.
 
 — Gì?
 
-— Nếu cái thứ trên băng đúng là mày thì sao?
+— Nếu cái giọng trong băng đúng là giọng mày thì sao?
 
-— Tao đang cố ngủ.
+Tôi nhìn trần nhà.
 
-— Tao hỏi thiệt.
+— Tao không biết.
 
-Tôi nhìn trần.
+— Ý tao là... mày có bao giờ bị mất đoạn không? Kiểu tỉnh dậy rồi không nhớ mấy tiếng trước mình làm gì ấy.
 
-— Không biết.
+Tôi định trả lời ngay là không, nhưng vài chuyện vụn vặt tự nhiên hiện ra. Có lần tôi ngủ quên trên bàn, tỉnh dậy thấy bài đã được sửa vài đoạn mà không nhớ mình sửa lúc nào. Có hôm chìa khóa phòng nằm trong ngăn mát tủ lạnh. Hồi cấp ba mẹ từng bảo tôi hay nói mớ, có đêm còn nói bằng giọng khàn khác thường.
 
-— Mày có bao giờ mất đoạn ký ức không?
+Những chuyện ấy trước đây đều có lời giải rất bình thường: thiếu ngủ, đãng trí, nói mớ. Chỉ vì một cuộn băng mà gom chúng lại thành “dấu hiệu” thì cũng nguy hiểm chẳng kém việc tin ma quá sớm.
 
-— Ai chẳng có.
+— Có vài chuyện linh tinh thôi — tôi nói. — Không tới mức mất mấy tiếng.
 
-— Kiểu không nhớ mình làm gì vài tiếng ấy.
+— Ừ.
 
-Tôi định nói không.
-
-Rồi nhớ vài chuyện.
-
-Có lần tỉnh dậy thấy file bài viết đã sửa vài đoạn mà không nhớ sửa lúc nào.
-
-Có lần chìa khóa phòng nằm trong tủ lạnh.
-
-Có lần hồi cấp ba mẹ bảo tôi nói chuyện lúc ngủ bằng giọng rất lạ.
-
-Những chuyện trước đây đều có thể giải thích bằng đãng trí.
-
-Nếu gom lại sau khi nghe cuộn băng, chúng tự nhiên đáng sợ hơn.
-
-Tôi nói:
-
-— Không đáng kể.
-
-Quang im.
-
-Một lúc sau nó ngáy.
-
-Tôi ghét người ngủ dễ.
+Quang không hỏi nữa. Một lúc sau nó ngủ thật. Tôi nằm thêm gần một tiếng mới chợp mắt.
 
 ***
 
-Sáng hôm sau, cassette nằm trên bàn.
+Sáng hôm sau, cassette nằm trên mặt bàn.
+
+Tôi tỉnh dậy vì Quang lay vai. Nó không nói gì, chỉ chỉ về phía bàn làm việc. Hộp băng mở. Cassette đặt ngay ngắn bên ngoài.
 
 Ngăn kéo vẫn khóa.
 
-Chìa khóa trong túi quần tôi.
+Chìa khóa vẫn ở túi quần tôi.
 
-Tôi đứng nhìn nó.
+Tôi kiểm tra ổ khóa, mặt bàn, cửa phòng. Không có dấu cạy hay xáo trộn. Quang đứng cạnh, mặt còn ngái ngủ nhưng không đùa nữa.
 
-Quang thức dậy, nhìn theo.
+— Tối qua mày có dậy không?
 
-— Tối qua mày lấy ra à?
-
-— Không.
+— Tao không nhớ dậy.
 
 — Tao cũng không.
 
-— Camera phòng?
+Tôi cầm băng lên. Trước khi ngủ, tôi đã dùng bút đánh dấu vị trí bánh cuộn ở mép trong. Bây giờ dấu ấy lệch đi một đoạn, nghĩa là băng đã được chạy thêm vài phút.
 
-Tôi không có.
+— Nhà mày có camera không? — Quang hỏi.
 
-Hai thằng nhìn nhau.
+— Không.
 
-Quang nói:
+— Sau vụ này lắp đi.
 
-— Hôm nay tao xin nghỉ làm với mày được không?
+— Tao đang bắt đầu thấy camera làm tao sợ hơn rồi.
 
-— Không. Tao đang tính nghỉ.
+Nó nhìn tôi.
 
-— Mày nghỉ nhiều vậy sếp giết mày trước ma.
+— Hôm nay mày đi làm không?
 
-Nó nói đúng.
-
-Tôi cầm cassette lên.
-
-Băng đang ở vị trí khác hôm qua.
-
-Tôi đã dùng bút đánh dấu bánh cuộn.
-
-Có người đã chạy nó thêm khoảng vài phút.
-
-Tôi chưa bấm play.
-
-Điện thoại reo.
+Tôi còn chưa kịp trả lời thì điện thoại reo.
 
 Mẹ.
 
 07:21.
 
-Tôi nhìn đồng hồ.
-
-Trong đoạn băng hôm qua không có dự đoán cuộc gọi này.
-
-Tôi bắt.
+Tôi nhìn tên người gọi một lúc rồi bắt máy.
 
 — Alo mẹ.
 
 — Mày có ở Hà Nội không?
 
-— Có.
+— Có. Sao vậy mẹ?
 
 — Cuối tuần về được không?
 
-— Có chuyện gì?
+— Nhà có chuyện hả?
 
-— Không. Lâu chưa về thì hỏi.
+— Không có gì. Lâu rồi chưa thấy mặt nên hỏi.
 
-Mẹ tôi không bao giờ gọi lúc bảy giờ sáng chỉ để hỏi “lâu chưa về”.
+Mẹ tôi không gọi lúc bảy giờ sáng chỉ để nhắc tôi “lâu rồi chưa về”. Tôi ngồi xuống mép giường.
 
-— Mẹ.
+— Mẹ, con hỏi cái này nha.
 
-— Gì?
+— Hỏi gì?
 
-— Hồi mang thai con, mẹ có mang thai đôi không?
+— Hồi mang thai con... có phải ban đầu là thai đôi không?
 
-Đầu dây bên kia im.
+Đầu dây bên kia im. Tôi vẫn nghe tiếng quạt và tiếng bát đũa từ bếp, nên không phải mất sóng.
 
-Không phải mất sóng.
+Một lúc sau mẹ mới hỏi:
 
-Tôi nghe tiếng quạt nhà mẹ.
+— Ai nói mày chuyện đó?
 
-Một lúc sau:
+Tôi nhìn Quang. Nó đã tỉnh hẳn.
 
-— Ai nói mày?
+— Vậy là có hả mẹ?
 
-Tôi ngồi xuống.
+Mẹ thở ra.
 
-Quang nhìn mặt tôi, lập tức tỉnh ngủ.
+— Lúc siêu âm sớm bác sĩ nói có hai túi thai. Sau đó một cái không phát triển nữa. Mất rất sớm, bác sĩ nói cơ thể tự hấp thu. Chuyện lâu rồi.
 
-— Vậy là có?
+— Có biết trai hay gái không?
 
-— Sao tự nhiên hỏi chuyện đó?
+— Lúc đó còn sớm quá, biết sao được.
 
-— Mẹ trả lời trước.
+— Sao mẹ chưa từng kể con?
 
-Mẹ thở dài.
+— Kể để làm gì? Mày sinh ra khỏe mạnh, lớn bình thường. Với mẹ lúc đó cái quan trọng là vậy.
 
-— Ban đầu bác sĩ nói hai túi thai.
+Giọng bà hoàn toàn bình thường. Không có bí mật gia đình bị giấu hai mươi hai năm, không có lời nguyền truyền đời. Chỉ là một chuyện thai kỳ mà bố mẹ tôi nghĩ không cần kể cho đứa con đã ra đời khỏe mạnh.
 
-Tôi thấy cổ họng khô đi.
+Tôi lại nhìn cassette.
 
-— Sau đó?
-
-— Một thai không phát triển. Mất rất sớm. Bác sĩ nói cơ thể tự hấp thu.
-
-— Trai hay gái?
-
-— Không biết. Lúc đó còn nhỏ quá.
-
-— Sao chưa bao giờ kể?
-
-— Có gì để kể? Mày sinh khỏe, thế là được.
-
-Tôi nhìn cassette.
-
-— Có ai từng nói trong người con có gì lạ không?
+— Hồi nhỏ có bác sĩ nào nói xét nghiệm của con lạ không mẹ?
 
 — Huy.
 
-Giọng mẹ nghiêm lại.
+Giọng mẹ đổi ngay.
 
-— Mày đang dính chuyện gì?
+— Mày đang gặp chuyện gì?
 
-— Không có gì.
+— Không có gì đâu.
 
-— Đừng nói dối mẹ.
+— Đừng có nói với mẹ cái giọng đó. Có chuyện thì nói.
 
-Mẹ tôi có năng lực phát hiện nói dối mạnh hơn mọi máy phân tích giọng.
+Mẹ tôi không cần máy phân tích giọng để phát hiện tôi nói dối.
 
-Tôi kể một phần.
+Tôi kể một phần: Mây từng nói trên người tôi có “hai mùi máu”, rồi gần đây tôi gặp vài tài liệu nhắc chuyện song thai nên muốn kiểm tra hồ sơ cũ. Tôi không kể người trên camera, cũng không kể cassette biết trước tai nạn; tôi chưa muốn mẹ mất ngủ cùng mình.
 
-Không kể Ma Lai liếm ông Tài.
+Bà im một lúc rồi nói:
 
-Không kể người sau lưng camera.
+— Cuối tuần về. Mẹ còn giữ mấy giấy siêu âm với hồ sơ lúc sinh.
 
-Chỉ nói có người nhắc tôi giống song thai, tôi muốn kiểm tra hồ sơ cũ.
+— Hai mươi mấy năm rồi mẹ còn giữ hả?
 
-Mẹ im.
-
-— Cuối tuần về. Hồ sơ thai sản cũ mẹ còn giữ vài tờ.
-
-— Sao mẹ giữ?
-
-— Mẹ mày giữ giấy tờ của con từ cái phiếu cân lúc mới đẻ tới giấy khen lớp một. Có gì lạ?
-
-Không lạ.
+— Phiếu cân lúc mới đẻ mẹ còn đây, có gì mà ngạc nhiên.
 
 Đúng là mẹ.
 
 ***
 
-Tôi về quê cuối tuần.
+Cuối tuần tôi về quê.
 
-Nhà tôi không có Lamborghini.
+Xin xác nhận luôn: nhà tôi không có Lamborghini, không có dây chuyền vàng nối thành dây nhảy và ba tôi chưa từng chở kim cương bằng xe rùa. Có một chiếc xe máy cũ dựng dưới mái tôn, một khoảng sân lát gạch, hai cây cau mẹ trồng và con chó lông đen tên Vàng. Tên do ba đặt từ lúc nó còn bé, và ông từ chối thừa nhận mình đã nhìn nhầm màu.
 
-Tôi xin xác nhận cho những ai tin phần giới thiệu Ma Kí Sự.
+Mẹ lôi từ đáy tủ ra một túi hồ sơ đã ngả vàng. Bà ngồi bên bàn, vừa phủi bụi vừa trách tôi bao năm chẳng hỏi giấy tờ gì, giờ đột nhiên về đào như công an.
 
-Có một chiếc xe máy cũ của ba, một cái sân nhỏ, hai cây cau mẹ trồng và con chó tên Vàng nhưng lông màu đen. Tên do ba đặt. Gia đình tôi có truyền thống không quá câu nệ logic.
+— Con chỉ coi thôi mà.
 
-Mẹ lôi một túi hồ sơ từ đáy tủ.
+— Coi xong cất đúng chỗ. Lần trước lấy bằng tốt nghiệp xong quăng giấy tờ tùm lum ai dọn?
 
-Giấy siêu âm đã mờ.
+Ba tôi ngoài sân nói vọng vào:
 
-Một tờ ghi:
+— Nó mà biết cất đồ thì chìa khóa xe đâu có nằm tủ lạnh.
 
-“Song thai sớm. Thai II ngừng phát triển.”
+Tôi quay ra cửa.
 
-Không có gì siêu nhiên.
+— Sao ba biết chuyện đó?
 
-Một hiện tượng y khoa có thật.
+— Mẹ mày kể.
 
-Tôi thấy nhẹ người một chút.
+Tôi nhìn mẹ.
 
-Mẹ nhìn tôi.
+— Chuyện xấu của con mẹ lưu dữ vậy?
 
-— Thấy chưa? Có gì đâu.
+— Giấy tờ còn lưu được, chuyện xấu càng nhớ lâu.
+
+Không khí trong nhà bình thường đến mức tôi thấy nhẹ người.
+
+Tờ siêu âm cũ nhất đã mờ nhiều. Dòng kết luận vẫn đọc được:
+
+**Song thai sớm. Thai II ngừng phát triển.**
+
+Tôi đọc hai lần. Một hiện tượng y khoa có thật, không phải dấu hiệu huyền bí nào tự thân. Mẹ ngồi đối diện nhìn tôi.
+
+— Thấy chưa. Có gì đâu.
 
 — Dạ.
 
-— Mày đừng làm báo ma rồi cái gì cũng kéo về ma.
+— Làm nghề của mày thì càng phải coi chừng, nghe chuyện lạ riết rồi cái gì cũng nghĩ tới ma.
 
-— Con có vậy đâu.
+— Con có nghĩ vậy đâu.
 
-Ba từ ngoài sân nói vọng vào:
+Ba đi ngang cửa, cười:
 
-— Hồi nhỏ nó sợ ma nhất nhà.
+— Hồi sáu tuổi đi vệ sinh ban đêm bắt ba đứng ngoài mà giờ làm báo ma.
 
-— Ba!
+— Ba để con làm việc coi.
 
-— Sáu tuổi đi vệ sinh bắt ba đứng ngoài cửa.
+— Làm đi, ai cản.
 
-— Con đang làm việc.
+Tôi nhận ra về nhà là cách nhanh nhất để một người mất toàn bộ hình tượng đã xây ở Hà Nội.
 
-Mẹ cười.
+Trong túi giấy còn có phiếu xét nghiệm sơ sinh. Tôi không hiểu phần lớn ký hiệu, nhưng ở mép tờ giấy có một dòng bút đỏ:
 
-Tôi nhận ra về nhà là cách nhanh nhất để mất hình tượng.
+**kiểm tra lại mẫu — kết quả không đồng nhất.**
 
-Trong túi có một phiếu khác.
+— Mẹ nhớ cái này không?
 
-Xét nghiệm máu sơ sinh.
+Bà cầm lên, nheo mắt.
 
-Tôi không hiểu các con số.
+— Không. Chắc bác sĩ cho kiểm lại thôi.
 
-Nhưng một ghi chú bằng bút đỏ bên mép:
+— Có kết quả sau đó không?
 
-“kiểm tra lại mẫu — kết quả không đồng nhất.”
+— Mẹ không nhớ. Mày lúc đó ăn ngủ bình thường, bệnh viện cho về đúng ngày thì chắc không có chuyện gì lớn.
 
-Tôi chỉ.
+Tôi chụp lại toàn bộ giấy tờ rồi mới tìm tài liệu về mặt sinh học. Khái niệm *chimerism* xuất hiện khá sớm: trong một số trường hợp hiếm, một người có thể mang hai dòng tế bào di truyền khác nhau; một cơ chế được nhắc tới có liên quan tới thai đôi rất sớm.
 
-— Cái này là gì?
+Nhưng đọc vài bài trên mạng không biến ghi chú “mẫu không đồng nhất” thành chẩn đoán. Tôi viết vào sổ:
 
-Mẹ nhíu mày.
+**Giả thuyết sinh học: có khả năng chimerism? Chưa có xét nghiệm xác nhận.**
 
-— Không nhớ.
+Bên dưới tôi ghi thêm:
 
-— Có kiểm tra lại không?
+**Dù đúng cũng không giải thích cassette.**
 
-— Chắc có. Mày khỏe thì thôi.
-
-Tôi chụp lại.
-
-Một ý nghĩ về chimera sinh học xuất hiện sau khi tôi tìm tài liệu trên mạng: trong những trường hợp rất hiếm, một người có thể mang hai dòng tế bào di truyền khác nhau, đôi khi liên quan tới song thai sớm.
-
-Nhưng từ một ghi chú cũ tới kết luận đó còn rất xa.
-
-Tôi không tự phong mình thành người hai DNA chỉ vì Google.
-
-Tôi ghi:
-
-“Giả thuyết sinh học — cần xét nghiệm chuyên môn nếu cần.”
-
-Bên dưới:
-
-“Không giải thích cassette.”
-
-Đó mới là vấn đề.
+Đó mới là vấn đề khiến tôi không ngủ ngon.
 
 ***
 
-Tối ở nhà, tôi ngủ phòng cũ.
+Tôi không mang băng về quê. Trước khi đi, tôi đã giao nó cho sếp Hòa, để trong két của tòa soạn. Hành lang có camera, két có log điện tử; ít nhất nếu có người động vào, chúng tôi sẽ có thứ để kiểm.
 
-Không mang cassette về.
+23:16 tối thứ Bảy, sếp gọi.
 
-Tôi để nó trong két tòa soạn, có camera hành lang và log người mở.
+— Cậu đang ở nhà bố mẹ đúng không?
 
-23:16, sếp Hòa gọi.
+— Dạ. Có chuyện gì?
 
-— Cậu đang ở quê?
+— Tôi vừa mở két kiểm tra băng.
 
-— Dạ.
+— Nó còn không?
 
-— Tôi vừa mở két.
+— Còn. Nhưng cái nhãn khác rồi.
 
-— Sao?
+Tôi ngồi bật dậy trên chiếc giường cũ.
 
-— Băng ở trong.
+— Khác sao?
 
-— Thì đúng.
+Điện thoại nhận một bức ảnh. Nhãn trắng trước đây chỉ có **H. — 22.** Bây giờ bên dưới xuất hiện thêm một dòng mực xanh:
 
-— Nhưng nhãn đổi rồi.
+**HAI NHỊP TIM, MỘT CÁI TÊN.**
 
-Tôi ngồi dậy.
+Nét chữ của tôi.
 
-— Đổi sao?
+Tôi nhìn ảnh rất lâu rồi hỏi:
 
-Ông chụp gửi.
+— Log két?
 
-Tấm nhãn trắng trước đây ghi “H. — 22.”
+— Không ai mở từ lúc cậu giao.
 
-Bây giờ có thêm một dòng bên dưới.
+— Camera hành lang?
 
-“HAI NHỊP TIM, MỘT CÁI TÊN.”
+— Không có người vào phòng tôi sau giờ làm.
 
-Chữ của tôi.
+Ngoài cửa, mẹ đi ngang, hỏi vọng tôi có ăn trái cây không. Tôi đáp “lát con ăn” theo phản xạ. Chỉ vài mét bên ngoài là căn nhà tôi đã lớn lên, tiếng tivi của ba, tiếng mẹ mở tủ lạnh. Mọi thứ gần gũi và bình thường.
 
-Tôi nhìn ảnh rất lâu.
+Còn ở Hà Nội, một cuộn băng nằm trong két đang viết bằng chữ của tôi về chuyện tôi vừa đọc trong hồ sơ thai sản.
 
-— Camera?
+Sếp Hòa hỏi:
 
-— Không ai mở két từ lúc cậu gửi.
+— Cậu nói chuyện song thai với những ai?
 
-— Có chắc?
+— Quang, mẹ em. Ba chắc nghe được một phần.
 
-— Log điện tử và camera hành lang.
-
-Tôi nghe tiếng mẹ đi ngang ngoài cửa.
-
-Bình thường.
-
-Ấm áp.
-
-Thế giới ngoài kia vẫn rất bình thường.
-
-Chỉ một cuộn băng trong két ở Hà Nội đang viết bằng chữ của tôi về chuyện mẹ vừa kể.
-
-Sếp hỏi:
-
-— Cậu có nói chuyện song thai với ai không?
-
-— Quang. Mẹ. Ba nghe chắc một phần.
-
-— Không ai vào tòa soạn.
-
-— Có thể hack két?
-
-— Rồi mở, viết lên băng, đóng lại mà camera không thấy?
-
-— Em đang cố.
-
-— Tôi biết.
-
-Ông im.
-
-— Huy. Cậu có muốn dừng series không?
-
-Câu hỏi làm tôi bất ngờ.
-
-Hai tuần trước chính ông dọa đuổi việc nếu tôi không làm.
-
-— Sếp sợ à?
-
-— Tôi hỏi cậu.
-
-Tôi nhìn tờ siêu âm.
+— Có gửi hình hồ sơ cho ai không?
 
 — Chưa.
 
-— Nghĩ kỹ.
+— Đăng gì lên mạng?
 
-— Em nghĩ rồi.
+— Không.
 
-— Cậu nghĩ có ba giây.
+Tôi im một chút rồi nói:
 
-— Não em xử lý nhanh.
+— Nếu có người theo dõi điện thoại thì sao?
 
-Sếp thở dài.
+— Tôi cũng đang nghĩ theo hướng đó. Nhưng còn chuyện vào két thì vẫn chưa giải thích được.
 
-— Thứ Hai lên nói.
+Giọng ông mệt hơn bình thường.
+
+— Huy, cậu có muốn dừng series một thời gian không?
+
+Tôi bất ngờ vì chính ông hỏi câu ấy. Vài tuần trước sếp còn dọa nếu tôi tiếp tục biến bài dài thành trò đùa thì cuối tháng có thể nghỉ việc.
+
+— Anh hỏi thật hả?
+
+— Ừ. Công việc không đáng để cậu tự đẩy mình vào chuyện không hiểu.
+
+Tôi nhìn tờ siêu âm trên bàn.
+
+— Em chưa muốn dừng.
+
+— Nghĩ kỹ rồi trả lời.
+
+— Em nghĩ rồi. Nhưng từ giờ em không tự giữ băng ở nhà nữa.
+
+— Ít ra còn biết rút kinh nghiệm.
+
+— Em tiến bộ mà.
+
+— Thứ Hai lên nói tiếp.
+
+Ông cúp máy.
 
 ***
 
-Chủ nhật, tôi ghé bệnh viện nơi mình sinh.
+Chủ nhật tôi ghé lại bệnh viện nơi mình sinh. Hai mươi hai năm là khoảng thời gian đủ dài để phần lớn hồ sơ chi tiết không còn nguyên. Tôi chỉ xác nhận được sổ sinh, tên mẹ, ngày giờ, và ghi chú song thai sớm.
 
-Hai mươi hai năm, hồ sơ chi tiết không còn đủ. Tôi chỉ xác nhận được sổ sinh có tên mẹ, ngày giờ và ghi chú song thai sớm.
+Không có bác sĩ già nào nhìn tôi rồi đánh rơi hồ sơ. Không có căn phòng bị niêm phong. Đời thật hiếm khi hợp tác với trí tưởng tượng đến vậy.
 
-Không có bí mật lớn.
+Một nữ hộ sinh lớn tuổi đang giúp tôi đọc bản photocopy bỗng chỉ vào góc giấy.
 
-Không bác sĩ già nhận ra tôi rồi nói “cuối cùng cậu cũng trở lại”.
+— Ký hiệu này hồi trước khoa có người hay dùng.
 
-Đời thật ít cinematic hơn truyện.
+Hai vòng tròn nhỏ chồng lên nhau.
 
-Tôi chuẩn bị về thì một nữ hộ sinh lớn tuổi nhìn bản photocopy, hỏi:
+— Nghĩa là gì cô?
 
-— Cháu là con ca này à?
+— Hình như đánh dấu ca cần lưu lại mẫu để kiểm tra. Máu hoặc mô gì đó. Lâu rồi cô không nhớ chính xác.
 
-— Dạ. Cô biết gì không?
+— Bác sĩ ký ở đây còn làm không ạ?
 
-— Không nhớ người. Chỉ thấy ghi chú lạ.
+Bà nhìn tên rồi lắc đầu.
 
-— Gì ạ?
+— Mất mấy năm rồi.
 
-Bà chỉ ký hiệu ở góc.
+Tôi ghi tên bác sĩ vào sổ. Một cái tên hoàn toàn bình thường, chưa có liên hệ nào với ông Tích, Duy hay Chợ Âm.
 
-Hai vòng tròn chồng lên nhau.
+Trước khi tôi đi, người nữ hộ sinh hỏi:
 
-— Hồi trước một bác sĩ ở khoa hay đánh dấu ca cần lưu mẫu như vậy.
+— Cháu từ nhỏ tới giờ sức khỏe ổn chứ?
 
-— Lưu mẫu gì?
+— Dạ, bình thường. Sao cô hỏi vậy?
 
-— Máu hoặc mô. Nhưng kho cũ chuyển lâu rồi.
+Bà nhìn lại ký hiệu hai vòng tròn.
 
-— Bác sĩ đó còn làm không?
+— Có bao giờ bác sĩ nói nhịp tim cháu không đều không?
 
-— Mất rồi.
+— Con uống cà phê hơi nhiều, có lúc hồi hộp thôi.
 
-Tôi hỏi tên.
-
-Bà nói.
-
-Tôi ghi lại.
-
-Một cái tên bình thường.
-
-Không liên quan ông Tích.
-
-Không liên quan Duy.
-
-Không liên quan Chợ Âm.
-
-Ít nhất tôi chưa thấy.
-
-Trước khi đi, bà nhìn tôi lâu hơn.
-
-— Cháu khỏe không?
-
-— Dạ khỏe.
-
-— Có bao giờ nghe tim đập không đều không?
-
-Tôi cười.
-
-— Người uống cà phê nhiều thì có.
-
-Bà lắc đầu.
+Bà lẩm bẩm rất nhỏ:
 
 — Không phải tim của cháu.
 
-Tôi hết cười.
+Tôi nghe rõ.
 
-— Cô nói gì?
+— Cô nói gì ạ?
 
-Bà như chợt nhận ra câu vừa nói kỳ lạ.
+Bà ngẩng lên, nét mặt thay đổi như vừa nhận ra mình nói một câu không nên nói.
 
-— À... cô nói nhầm. Ý là kết quả cũ thôi.
+— Không, cô nói nhầm. Cô đang nhớ chuyện hồ sơ cũ thôi.
 
-— Kết quả gì?
+— Cô vừa nói “không phải tim của cháu”. Là sao?
 
-— Cô không nhớ.
+— Cô không nhớ rõ đâu. Chuyện hai mươi mấy năm rồi, nói linh tinh lại làm cháu hiểu sai.
 
-— Cô vừa nói “không phải tim của cháu”.
+Bà xếp giấy lại nhanh hơn trước. Tôi hỏi thêm nhưng không nhận được gì ngoài những câu “không chắc”, “để cô nhớ lại”. Không có lý do để ép một người lớn tuổi biến ký ức mơ hồ thành lời khai chắc chắn chỉ vì tôi muốn có câu trả lời.
 
-— Chắc cô già lẫn rồi.
+Tôi ra hành lang, ngồi xuống chiếc ghế nhựa cạnh cửa sổ. Phía trong phòng sơ sinh có tiếng trẻ khóc. Mùi sát trùng, tiếng dép y tá và tiếng người nhà hỏi thăm nhau tạo thành một buổi trưa bệnh viện rất bình thường.
 
-Bà quay đi rất nhanh.
+Tôi mở sổ, viết:
 
-Tôi đứng giữa hành lang.
+**HAI NHỊP TIM?**
 
-Một đứa bé mới sinh khóc trong phòng phía trong.
+Ngay bên dưới đã có một dòng chữ khác.
 
-Tôi mở sổ.
+Tôi không nhớ mình viết nó.
 
-Viết:
+Nét bút nghiêng sang phải, chữ **Đ** đầu câu hơi hất lên đúng thói quen của tôi.
 
-“HAI NHỊP TIM?”
+**ĐỪNG TÌM TRONG NGƯỜI MÀY.**
 
-Ngay bên dưới, không hiểu từ lúc nào, đã có một dòng khác bằng chính nét chữ của tôi:
+Tôi lật lại những trang trước, kiểm cây bút trong tay, cố nhớ mình đã mở sổ lúc nào từ khi vào bệnh viện. Không có khoảng trống ký ức nào đủ rõ để chỉ vào.
 
-“ĐỪNG TÌM TRONG NGƯỜI MÀY.”
+Tôi ngồi đó rất lâu.
 
-Tôi nhìn chữ.
-
-Lần đầu tiên trong cả series, tôi không đùa được nữa.
+Lần đầu tiên từ khi bắt đầu Ma Kí Sự, trong đầu tôi không xuất hiện nổi một câu nào để đùa.

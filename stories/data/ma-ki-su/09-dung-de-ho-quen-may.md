@@ -1,152 +1,88 @@
-Đến ba giờ sáng, tôi mới hiểu một chuyện rất cơ bản: nghe được tiếng tàu và chuông nhà thờ trong điện thoại không biến bạn thành Sherlock Holmes.
+Đến gần ba giờ sáng, tôi mới hiểu một chuyện rất cơ bản: nghe được tiếng tàu và tiếng chuông nhà thờ qua một cuộc gọi chưa tới một phút không biến ai thành Sherlock Holmes. Nó chỉ khiến bốn người lớn ngồi quanh một cái bàn, nhìn bản đồ Hà Nội và khoanh nhiều vòng tròn đến mức tờ giấy trông như vừa bị trẻ con lấy bút bi vẽ lên.
 
-Nó chỉ biến bạn thành một thằng cầm bản đồ khoanh rất nhiều vòng tròn.
+Anh Tuấn đã nhờ đơn vị kỹ thuật kiểm tra vùng trạm phát sóng mà số điện thoại Khôi dùng kết nối lần cuối. Phạm vi vẫn rộng vài cây số, bên trong có đường sắt, hai nhà thờ, một cụm kho cũ và quá nhiều ngõ nhỏ để có thể đi gõ từng cửa trước khi trời sáng.
 
-Anh Tuấn gọi cho đơn vị kỹ thuật và nhà mạng để kiểm tra trạm phát sóng mà số điện thoại vừa dùng kết nối lần cuối. Tôi không hỏi quy trình chi tiết. Thứ tôi cần biết chỉ là phạm vi vẫn rộng vài cây số.
+Phong ngồi cạnh tôi, mắt đỏ vì buồn ngủ nhưng vẫn cố nhìn theo những dấu bút trên bản đồ.
 
-Trong đó có đường sắt.
-
-Có hai nhà thờ.
-
-Có một khu kho cũ.
-
-Có hơn một nghìn căn nhà.
-
-Tôi nhìn bản đồ.
-
-— Nếu phim thì giờ mình sẽ nhìn một cái biển mờ trong ảnh rồi zoom sáu lần ra địa chỉ.
-
-Anh Tuấn không ngẩng lên.
-
-— Ngoài đời zoom sáu lần ra sáu ô vuông.
-
-Tôi thích người này hơn nữa.
-
-Phong ngồi cạnh, mắt đỏ vì buồn ngủ.
-
-— Khôi còn gọi được nữa không anh?
+— Khôi còn gọi lại được không anh?
 
 — Chưa.
 
-— Nếu họ chuyển chỗ?
+— Nếu họ chuyển chỗ thì sao?
 
-— Thì khó hơn.
+Anh Tuấn trả lời trước, rất thẳng:
 
-Anh Tuấn đáp rất thẳng.
+— Thì khó hơn. Nhưng chưa có lý do để nghĩ họ đã chuyển.
 
-Hà ngồi đối diện, hai bàn tay nắm điện thoại. Từ lúc mẹ bắt đầu nhớ mình có con trai, cô không khóc nữa. Cô chỉ nhìn màn hình như thể bằng ý chí có thể ép em trai gọi lại.
+Hà ngồi đối diện, hai tay ôm điện thoại. Từ khi mẹ cô bắt đầu nhớ rằng mình từng có một đứa con trai, Hà không khóc nữa. Cô chỉ nhìn màn hình đến gần như không chớp mắt, như thể bằng cách nào đó có thể ép em trai gọi thêm một lần nữa.
 
-Tôi mở bài “Người Không Có Tên”.
-
-Hai mươi tám nghìn lượt đọc.
-
-Bình luận liên tục tăng.
-
-Nhiều người viết tên Khôi.
-
-Có người từng học chung.
-
-Có người không biết cậu nhưng vẫn comment:
+Tôi mở bài **Người Không Có Tên**. Lượt đọc đã vượt hai mươi tám nghìn. Phần bình luận chạy liên tục; có người từng học cùng Khôi, có người nói từng đá bóng chung, cũng có những người hoàn toàn không biết cậu nhưng vẫn viết lại cái tên ấy.
 
 “Nguyễn Minh Khôi. Để đây cho người ta nhớ.”
 
-Tôi không biết họ đang tham gia một trò mạng hay thật sự giúp được gì.
+Tôi không biết hành động đó có thật sự giúp được gì hay chỉ là một phản ứng của đám đông trước một câu chuyện lạ. Nhưng ít nhất từ lúc bài lên, tên Khôi vẫn nằm nguyên trên trang, không biến mất.
 
-Nhưng cái tên không còn biến mất.
+Đó là dữ kiện duy nhất khiến tôi có chút hy vọng.
 
-Đó là dữ kiện duy nhất tôi có.
+Khoảng bốn giờ mười hai, điện thoại tôi reo. Không phải Khôi.
 
-***
+Người gọi là một ông chú từng làm bảo vệ ở dãy kho gần đường tàu. Ông nói đọc bài rồi nhớ lại hai đêm trước có một chiếc xe tải nhỏ chạy vào kho số 7 lúc gần nửa đêm.
 
-Bốn giờ mười hai, một cuộc gọi khác tới.
+— Sao chú nhớ trên xe có người? — tôi hỏi.
 
-Không phải Khôi.
+— Vì tấm bạt sau xe hở. Có cái chân thò ra ngoài. Tôi tưởng người say nên không để ý, chủ kho còn bảo đừng xen vô chuyện người ta.
 
-Một người đàn ông trung niên nói từng làm bảo vệ kho gần đường tàu. Ông đọc bài và nhớ ra hai ngày trước có xe tải nhỏ chở người vào kho số 7 lúc gần nửa đêm.
+Tôi ngồi thẳng dậy.
 
-— Sao chú nhớ là người? — tôi hỏi.
+— Chú nhớ địa chỉ chính xác không?
 
-— Có cái chân thò ra dưới tấm bạt.
+Ông đọc cho tôi. Vị trí nằm ngay trong vùng trạm phát sóng kỹ thuật vừa khoanh.
 
-Tôi ngồi thẳng.
+Anh Tuấn lấy chìa khóa xe, gọi người của anh rồi chỉ vào tôi.
 
-— Chú báo ai chưa?
+— Cậu ở lại.
 
-— Tôi tưởng người say. Chủ kho bảo đừng xen.
+— Em đi cùng. Em đứng ngoài cũng được.
 
-— Kho nào?
+— Không phải chuyến đi lấy tư liệu đâu. Có khả năng là hiện trường bắt giữ người.
 
-Ông cho địa chỉ.
+— Em biết. Nhưng Khôi đã gọi cho em. Nếu tìm thấy mà nó hoảng, ít nhất em với Hà là hai người nó vừa nghe tên tối nay.
 
-Nằm trong vùng trạm phát.
+Anh nhìn tôi một lúc rồi quay sang Hà. Cô đã đứng dậy từ lúc nào, tay vẫn nắm chặt điện thoại.
 
-Anh Tuấn đứng dậy ngay.
+— Hai người được đi, nhưng ở trong xe đến khi tôi gọi. Không tự xuống, không tách đoàn.
 
-— Cậu ở đây.
+— Dạ.
 
-Tôi cũng đứng.
+Phong cũng đứng lên.
 
-— Em đi.
+— Còn em?
 
-— Không.
+Tôi và anh Tuấn cùng nhìn nó.
 
-— Em là người Khôi biết. Nếu nó hoảng...
+Nó tự ngồi xuống.
 
-— Cậu không có nghiệp vụ vào hiện trường bắt cóc.
+— Em hiểu rồi.
 
-— Em đứng ngoài.
+Tôi vỗ vai nó trước khi đi.
 
-Anh nhìn tôi.
+— Ở đây với chị Linh. Có gì gọi anh.
 
-— Đúng nghĩa đứng ngoài.
+— Anh mà chết em nghỉ thực tập luôn đó.
 
-— Em hứa.
+— Cảm động ghê.
 
-Phong chen:
+— Em sợ không ai ký xác nhận thực tập cho em thôi.
 
-— Em cũng...
-
-Tôi và anh Tuấn cùng nói:
-
-— Không.
-
-Phong tổn thương.
-
-— Sao anh Huy được?
-
-Tôi vỗ vai nó.
-
-— Vì anh là nhân viên chính thức kiểu gần gần vậy.
-
-— Anh cũng cộng tác viên mà.
-
-Tôi giả vờ không nghe.
+Thằng nhỏ bắt đầu học được cách nói chuyện ở tòa soạn rồi.
 
 ***
 
-Kho số 7 nằm cuối một dãy nhà xưởng cũ, phía sau là đường sắt.
+Kho số 7 nằm ở cuối một dãy nhà xưởng cũ. Phía sau là đường sắt; xa hơn một đoạn có một tháp chuông nhà thờ thấp thoáng qua mái tôn. Trời chưa sáng hẳn, mây ép thấp, đèn đường hắt xuống mặt bê tông ướt một màu vàng đục. Thỉnh thoảng tàu hàng chạy qua, nền đất rung rất nhẹ dưới bánh xe.
 
-Trời chưa sáng hẳn. Mây thấp, đèn đường vàng đục phản xuống mặt bê tông ướt. Thỉnh thoảng tàu hàng chạy qua làm mặt đất rung nhẹ.
+Tôi với Hà ngồi trong xe. Anh Tuấn và đội của anh xuống từ đầu dãy, tản ra theo hai hướng rồi biến mất khỏi tầm nhìn.
 
-Xa hơn đúng là có tiếng chuông nhà thờ.
-
-Tôi đứng trong xe cùng Hà.
-
-Phong bị chị Linh giữ ở tòa soạn.
-
-Anh Tuấn và đội của anh tiếp cận kho.
-
-Tôi không thấy rõ gì ngoài bóng người di chuyển ở cuối dãy.
-
-Năm phút.
-
-Mười phút.
-
-Không tiếng súng.
-
-Không tiếng hét.
-
-Chính im lặng mới làm tôi căng.
+Năm phút đầu tôi còn nhìn đồng hồ. Sang phút thứ mười thì tôi thôi, vì mỗi lần liếc xuống lại có cảm giác thời gian chậm hơn.
 
 Hà hỏi:
 
@@ -154,69 +90,37 @@ Hà hỏi:
 
 — Mình tìm chỗ khác.
 
-— Nếu Khôi quên luôn nó là ai trước khi tìm được?
+— Nếu lúc đó Khôi quên luôn nó là ai thì sao?
 
-Tôi nhìn cô.
+Tôi không biết trả lời thế nào cho thật. Cuối cùng tôi mở điện thoại, đưa bài viết cho cô xem.
 
-— Không đâu.
+— Bây giờ có hơn ba mươi nghìn người biết tên nó. Ít nhất tối nay, Khôi không phải tự nhớ một mình nữa.
 
-— Sao anh chắc?
+Hà nhìn màn hình một lúc rồi gật. Tôi không nói thêm. Câu vừa rồi nghe chắc chắn hơn mức tôi thực sự cảm thấy.
 
-Tôi giơ điện thoại.
+Một bóng người bất ngờ lao khỏi hông kho. Hai cán bộ đuổi theo ngay sau đó. Hà theo phản xạ chạm tay vào tay nắm cửa; tôi giữ cổ tay cô lại.
 
-Bài viết lúc đó hơn ba mươi nghìn lượt đọc.
+— Chờ anh Tuấn.
 
-— Giờ có nhiều người nhớ tên nó hơn cả lúc chưa mất tích.
+— Nhưng nếu Khôi ở trong đó...
 
-Tôi nói như chắc chắn.
+— Mình vào sớm cũng không giúp được gì đâu.
 
-Thật ra tôi cũng đang tự trấn an.
+Ba phút sau điện thoại rung.
 
-Một bóng người chạy khỏi hông kho.
+— Huy. Vào được rồi. Đi theo cán bộ đứng ở cửa. Không tự tách.
 
-Ngay sau đó hai công an đuổi theo.
+Hà mở cửa trước khi tôi kịp cúp máy, nhưng lần này cô dừng lại chờ đúng người dẫn vào.
 
-Hà bật cửa xe.
+Bên trong kho lạnh hơn ngoài trời, thứ lạnh ẩm của tường bê tông lâu ngày không thấy nắng. Mùi thuốc sát trùng lẫn với giấy cũ và một mùi ngọt khó chịu bám ở cổ họng. Phòng đầu gần như trống. Phòng thứ hai có nhiều thùng carton chứa ví, ảnh, quần áo, điện thoại cũ và giấy tờ cá nhân.
 
-Tôi giữ lại.
+Phòng cuối bị khóa từ bên ngoài. Ổ khóa đã được cắt.
 
-— Chờ.
+Khôi ngồi dựa vào tường trong đó.
 
-— Nhưng...
+Tôi nhận ra cậu từ bức ảnh Hà đưa, dù ngoài đời gầy hơn nhiều, tóc bết xuống trán, cổ tay hằn đỏ bởi dây trói. Một chiếc chăn mỏng phủ trên chân. Khi cửa mở, cậu chỉ nheo mắt nhìn ra, không có vẻ mừng cũng không có vẻ sợ; gương mặt trống rỗng như người vừa tỉnh sau một cơn sốt kéo dài.
 
-— Chờ anh Tuấn gọi.
-
-Ba phút sau điện thoại tôi rung.
-
-— Huy. Vào được rồi. Đi theo cán bộ ngoài cửa, không tự tách.
-
-Hà đã chạy trước khi tôi kịp cúp.
-
-***
-
-Bên trong kho lạnh hơn ngoài trời.
-
-Không phải lạnh điều hòa.
-
-Là thứ lạnh ẩm của tường bê tông lâu không có nắng.
-
-Mùi thuốc sát trùng, giấy cũ và một mùi ngọt khó chịu lẫn vào nhau.
-
-Phòng đầu trống.
-
-Phòng thứ hai có mấy thùng carton chứa đồ cá nhân: ví, ảnh, thẻ, quần áo.
-
-Phòng cuối khóa từ ngoài.
-
-Khóa đã bị phá.
-
-Khôi nằm bên trong.
-
-Tôi nhận ra cậu nhờ ảnh.
-
-Ngoài đời gầy hơn, tóc dài bết, cổ tay có vết trói. Cậu ngồi sát tường, một chiếc chăn mỏng phủ chân.
-
-Hà quỳ xuống.
+Hà quỳ xuống trước mặt em trai.
 
 — Khôi.
 
@@ -224,415 +128,231 @@ Cậu nhìn cô.
 
 Không phản ứng.
 
-Mặt Hà trắng bệch.
-
 — Khôi, chị đây.
 
-Cậu lùi lại.
+Cậu lùi sâu hơn vào tường.
 
 — Ai?
 
-Tôi thấy tim mình chìm xuống.
+Tôi thấy mặt Hà mất hết màu. Cô luống cuống mở cuốn sổ đã ôm suốt hai ngày, lật tới trang đầu rồi chìa ra trước mặt em.
 
-Hà mở cuốn sổ, tay run.
+— Nhìn nè. Nguyễn Minh Khôi. Em là Nguyễn Minh Khôi. Chị là Hà.
 
-— Nguyễn Minh Khôi. Em là Nguyễn Minh Khôi. Chị là Hà.
-
-Cậu nhìn chữ.
-
-Một lúc.
-
-Môi mấp máy.
+Khôi cúi xuống. Mắt cậu dừng trên cái tên rất lâu.
 
 — Nguyễn... Minh Khôi.
 
-Mắt cậu đỏ lên.
+Cậu lặp lại lần nữa, chậm hơn.
+
+Rồi ánh mắt chuyển sang chị gái.
 
 — Chị Hà?
 
 Hà ôm chầm lấy em.
 
-Khôi bật khóc.
+Lúc ấy Khôi mới khóc. Không lớn, chỉ là cả người run lên khi cậu ôm lại chị mình như một người vừa tìm được thứ đã đánh mất nhưng vẫn chưa tin nó sẽ ở lại.
 
-Tôi quay mặt đi.
-
-Không phải vì xúc động.
-
-Tôi chỉ tôn trọng riêng tư.
-
-Ừ, có xúc động một ít.
+Tôi quay đi. Không phải vì ngại thừa nhận mình xúc động. Chỉ có những khoảnh khắc không cần thêm một người đứng nhìn.
 
 ***
 
-Khôi được đưa đi viện.
+Khôi được đưa tới bệnh viện cùng ba người khác tìm thấy trong kho. Hai người không nhớ nổi tên mình; người còn lại chỉ nhớ một biệt danh từ nhỏ. Trong những phòng phía sau còn rất nhiều đồ cá nhân chưa xác định được chủ.
 
-Trong kho, công an tìm thấy ba người khác còn sống.
+Và một cuốn sổ.
 
-Hai người không nhớ tên mình.
+Nó nằm trong tủ khóa riêng, bìa da đen, dày gần bốn trăm trang. Anh Tuấn đeo găng mới mở. Mỗi trang có tên, ngày tháng và một vài ký hiệu khó hiểu. Nhiều tên bị gạch ngang bằng loại mực sẫm gần như đen.
 
-Một người chỉ nhớ biệt danh.
+Tên Nguyễn Minh Khôi nằm ở phần chữ Nguyễn.
 
-Có thêm rất nhiều đồ cá nhân nhưng chưa xác định chủ.
+Một nét gạch đã chạy qua nó, nhưng đường mực không còn liền; những đoạn nhỏ rạn ra như lớp sơn cũ phơi nắng lâu ngày.
 
-Và có cuốn sổ.
+Một cán bộ đứng cạnh hỏi:
 
-Nó nằm trong một phòng khóa riêng.
+— Danh sách nạn nhân hả anh?
 
-Bìa da đen, dày gần bốn trăm trang.
+— Chưa biết. Niêm phong trước đã.
 
-Anh Tuấn đeo găng mới mở.
+Anh Tuấn đóng sổ lại.
 
-Mỗi trang là một cái tên.
+Từ chỗ đứng, tôi ngửi thấy một mùi ngai ngái rất nhẹ, thoáng giống mùi trên đồng xu chỉ đen. Tôi không nói. Một mùi quen không đủ để trở thành bằng chứng, và tôi bắt đầu học được rằng giữ mồm đúng lúc cũng là một kỹ năng nghề nghiệp.
 
-Ngày tháng.
+Người bị bắt tại kho tên Nguyễn Đức Vĩ, bốn mươi hai tuổi. Hồ sơ của hắn bình thường đến mức khó chịu: học cao đẳng kế toán, từng làm logistics, sau đó quản lý kho qua một công ty trung gian. Không áo đen, không chuỗi hạt, chẳng có hình xăm kỳ quái nào để tôi chụp rồi đặt dưới tiêu đề “tà sư sa lưới”.
 
-Một vài ký hiệu.
+Một người mặc áo polo, đi giày thể thao và có thể ngồi ở bàn làm việc cạnh bạn mỗi ngày.
 
-Nhiều tên bị gạch bằng mực sẫm.
+Anh Tuấn chỉ nói với tôi phần đã được phép nói: Vĩ nhận tiền để giữ người, thu điện thoại, giấy tờ và cho nạn nhân dùng thuốc an thần theo liều được gửi từ bên ngoài. Hắn cũng là người ghi tên vào cuốn sổ. Còn chuyện tại sao hồ sơ và ký ức của những người ấy dần trở nên bất thường, Vĩ khai rằng hắn không biết.
 
-Tôi nhìn từ xa.
+— Ai trả tiền? — tôi hỏi.
 
-— Có tên Khôi không?
+— Qua một tài khoản trung gian.
 
-Anh lật theo chữ Nguyễn.
-
-Có.
-
-NGUYỄN MINH KHÔI.
-
-Bị gạch một nét ngang.
-
-Nhưng nét mực không còn liền.
-
-Nó bị nứt thành những đoạn nhỏ như khô quá lâu.
-
-Anh Tuấn nói:
-
-— Niêm phong. Không ai chạm thêm.
-
-Một cán bộ hỏi:
-
-— Cái này là danh sách nạn nhân à?
-
-— Chưa biết.
-
-Tôi nhìn cuốn sổ.
-
-Có một mùi rất nhẹ.
-
-Mùi giống đồng xu chỉ đen.
-
-Ngai ngái.
-
-Tanh.
-
-Tôi không nói.
-
-Phần đó chưa chứng minh được.
-
-***
-
-Người bị bắt ở kho tên Nguyễn Đức Vĩ, bốn mươi hai tuổi, quản lý thuê mặt bằng qua một công ty trung gian.
-
-Vĩ không giống tà sư.
-
-Không áo đen.
-
-Không chuỗi hạt.
-
-Không nói giọng bí hiểm.
-
-Hắn mặc áo polo, đi giày thể thao, có bằng cao đẳng kế toán và trước đó làm logistics.
-
-Đó lại là thứ làm tôi thấy đáng sợ.
-
-Nhìn hồ sơ, hắn là một người có thể ngồi bàn bên cạnh bạn trong văn phòng.
-
-Anh Tuấn cho tôi biết phần có thể nói: Vĩ nhận tiền để giữ người và đồ cá nhân. Hắn khai không biết tại sao nạn nhân dần mất khỏi hồ sơ; nhiệm vụ của hắn chỉ là làm theo hướng dẫn, cho uống thuốc an thần, thu thiết bị, ghi tên vào sổ.
-
-Tôi hỏi:
-
-— Ai hướng dẫn?
-
-— Một tài khoản trung gian.
-
-— Chợ Âm?
+— Có nhắc Chợ Âm không?
 
 Anh Tuấn nhìn tôi.
 
-— Hắn có nhắc từ đó.
+— Có.
 
-— Vậy anh tin chưa?
+Tôi chờ một lát rồi hỏi:
 
-— Tôi tin có một mạng lưới tự gọi như vậy.
+— Giờ anh nghĩ sao?
 
-— Còn chuyện xóa ký ức?
+— Tôi nghĩ có một mạng lưới dùng cái tên đó và đang thực hiện nhiều hành vi hình sự rất bình thường: bắt giữ người, mua bán mẫu sinh học, che giấu danh tính, chuyển tiền qua trung gian. Còn phần cậu gọi là xóa tên, tôi chưa biết cơ chế.
 
-— Tôi tin có ba người bị giam, giấy tờ bất thường và nhiều nhân chứng có vấn đề nhớ lại. Nguyên nhân chưa biết.
+— Nghe hợp lý.
 
-Tôi cười.
+— Cậu thất vọng à?
 
-— Em bắt đầu thích cách anh trả lời rồi đó.
+— Không. Em chỉ đang tập quen với việc không cần giải thích hết mọi thứ trong một buổi sáng.
 
-— Tôi không cần cậu thích.
+Anh gật.
 
-— Anh làm em nhớ sếp.
+— Tiến bộ đó.
 
-— Tôi coi đó là xúc phạm.
-
-Tôi sẽ không kể câu này cho sếp Hòa.
+Tôi định hỏi anh có phải vừa khen mình không, nhưng nhìn mặt anh thì quyết định giữ khoảnh khắc đẹp nguyên vẹn.
 
 ***
 
-Ba ngày sau, Khôi tỉnh táo hơn.
+Ba ngày sau, bác sĩ cho Khôi nói chuyện lâu hơn. Tôi tới bệnh viện với máy ghi âm, nhưng đặt nó trên bàn và hỏi trước khi bật. Hà ngồi bên cạnh em trai, hai mắt vẫn thâm nhưng lần đầu tiên kể từ khi gặp tôi, cuốn sổ của cô được đặt xuống ghế thay vì ôm trước ngực.
 
-Tôi phỏng vấn ở bệnh viện khi bác sĩ cho phép.
+Khôi nhớ những ngày bị giữ thành từng mảnh. Cậu tới Tân Phúc sửa hệ thống camera, tình cờ thấy file cũ rồi copy về vì tò mò. Sau đó một người đàn ông tìm tới nhà và hỏi tên. Khôi không nhớ mặt người ấy; càng cố nghĩ, khuôn mặt trong đầu càng trống.
 
-Hà ngồi cạnh.
+— Hôm sau chị Hà gọi em bằng cái biệt danh ở nhà vì không nhớ tên em — Khôi nói. — Mẹ nhìn em, hỏi bạn của con nào. Em hoảng quá nên quay lại Tân Phúc xem họ làm gì. Vĩ bắt em ở bãi xe.
 
-Khôi nhìn bài viết trên điện thoại.
+— Sao họ giữ em sống?
 
-— Em không nhớ hết mười một ngày.
+Khôi nhìn tay mình.
 
-— Nhớ gì thì nói cái đó.
+— Em nghe Vĩ nói phải chờ “tên sạch”.
 
-— Em tới Tân Phúc sửa hệ thống camera. Trong ổ cứng có video cũ. Em tò mò copy về.
+— Nghĩa là gì?
 
-— Người trong video?
-
-— Em không biết. Sau khi em copy, một người tới hỏi.
-
-— Vĩ?
-
-— Không.
-
-— Mặt?
-
-Khôi cau mày.
-
-— Em nhớ là đàn ông. Nhưng càng cố nhớ mặt càng trống.
-
-— Ông ta hỏi tên em?
-
-— Ừ.
-
-— Sau đó?
-
-— Em về nhà. Hôm sau chị Hà gọi em bằng biệt danh vì quên tên. Mẹ nhìn em hỏi bạn của ai.
-
-Hà cúi mặt.
-
-Khôi nói chậm hơn.
-
-— Em hoảng. Em quay lại Tân Phúc vì nghĩ họ làm gì đó. Vĩ bắt em ở bãi xe.
-
-— Vì sao không giết?
-
-— Em nghe họ nói phải đợi “tên sạch”.
-
-Tôi ghi lại.
-
-— Nghĩa là?
-
-— Không còn ai nhớ. Không còn giấy nào có tên. Lúc đó mới chuyển.
+— Không còn giấy nào có tên, không còn ai nhớ rõ. Lúc đó mới chuyển.
 
 — Chuyển đi đâu?
 
-— Không biết.
+— Em không biết.
 
-— Làm gì?
+Cậu ngập ngừng một chút rồi nói tiếp:
+
+— Có lần Vĩ uống rượu. Hắn nói người không còn tên thì “dùng được”.
+
+Tôi nhớ lại Vượng trên Mẫu Sơn: *Người mua không quan tâm cậu tin ma hay không. Họ chỉ quan tâm thứ nào dùng được.* Hai người khác nhau, hai vụ khác nhau nhưng cùng một thứ ngôn ngữ lạnh người.
+
+— Em có thấy chữ Chợ Âm ở đâu không?
+
+Khôi gật.
+
+— Trong máy tính Vĩ có một trang chat. Không giống web bình thường. Em chỉ nhìn được vài dòng trước khi hắn đóng.
+
+— Dòng gì?
+
+— “Dị huyết”. “Cốt âm”. Với “Vô danh”.
 
 Khôi nhìn tôi.
 
-— Có lần Vĩ say. Hắn nói người không còn tên thì “dùng được”.
+— Em nghĩ “Vô danh” là người như em.
 
-Tôi nhớ câu Vượng ở Mẫu Sơn.
-
-“Họ chỉ quan tâm thứ nào dùng được.”
-
-Hai vụ.
-
-Hai người khác nhau.
-
-Cùng một kiểu ngôn ngữ.
-
-Tôi hỏi:
-
-— Em có thấy chữ Chợ Âm không?
-
-Khôi im một lúc.
-
-— Trong máy tính Vĩ có một trang chat. Không giống web bình thường. Có danh mục.
-
-— Danh mục gì?
-
-— Em chỉ thấy vài dòng.
-
-Khôi nhắm mắt nhớ.
-
-— Dị huyết.
-
-Tôi siết bút.
-
-— Gì nữa?
-
-— Cốt âm.
-
-— Gì nữa?
-
-— Vô danh.
-
-Cậu mở mắt.
-
-— Em nghĩ “vô danh” là người như em.
+Tôi ghi ba cụm ấy xuống sổ nhưng không hỏi thêm. Khôi vừa mới lấy lại được chính tên mình; bắt cậu đào sâu hơn để thỏa mãn sự tò mò của tôi lúc ấy chẳng khác mấy việc tôi từng ghét ở những người làm báo chỉ cần câu chuyện.
 
 ***
 
-Ông Cẩn tới bệnh viện chiều đó.
+Chiều hôm đó ông Cẩn tới bệnh viện. Ông đứng ở chân giường nhìn Khôi một lúc rất lâu rồi mới mở sổ, tìm tới tên cậu và đánh một dấu nhỏ bên cạnh.
 
-Hà gọi ông.
-
-Khôi không biết ông.
-
-Ông Cẩn đứng trước giường nhìn cậu rất lâu.
-
-Rồi lấy cuốn sổ.
-
-Gạch một dấu nhỏ bên cạnh tên Nguyễn Minh Khôi.
-
-— Dấu gì vậy bác? — tôi hỏi.
+— Bác ghi gì vậy? — tôi hỏi.
 
 — Tìm được.
 
-Tôi nhìn hàng trăm tên khác chưa có dấu.
+Tôi nhìn những cái tên khác chưa có dấu, trải qua nhiều trang.
 
-— Vậy những người này...
-
-— Còn phải tìm.
-
-— Bác có nghĩ mình cứu được họ bằng cách viết tên không?
+— Bác nghĩ việc viết tên có cứu được họ không?
 
 Ông Cẩn lắc đầu.
 
-— Không.
+— Không biết.
 
-— Vậy sao viết hai mươi năm?
+— Vậy sao bác viết hơn hai mươi năm?
 
 Ông nhìn tôi như câu trả lời quá đơn giản.
 
-— Vì nếu không viết, tôi sẽ quên phải tìm ai.
+— Không viết thì tới lúc tìm được manh mối, tôi cũng quên mất mình đang tìm ai.
 
-Tôi im.
+Câu đó làm tôi im.
 
-Ông nói tiếp:
+Ông Cẩn vuốt lên trang giấy đã mòn ở mép.
 
-— Cậu đăng một cái tên cho ba mươi nghìn người đọc. Tôi viết một cái tên ba mươi nghìn lần cũng chỉ có một người nhớ.
+— Cậu đăng một cái tên cho mấy chục nghìn người đọc. Tôi viết một cái tên mấy chục nghìn lần cũng chỉ có một người nhớ. Nếu tòa soạn cậu giữ hồ sơ được thì giữ giúp tôi một bản.
 
-Tôi nhìn ông.
+— Bác cho cháu copy danh sách?
 
-Một ý nghĩ hình thành.
+— Ừ. Không phải để đăng hết. Chỉ để nếu một ngày tôi quên luôn chuyện này, vẫn còn chỗ khác biết những cái tên ấy từng nằm trên tường nhà tôi.
 
-— Bác cho tôi copy danh sách được không?
+Tôi gật.
 
-— Làm gì?
-
-— Không đăng hết. Nhưng lập hồ sơ.
-
-— Cậu tin chữ giữ được người à?
-
-Tôi nhớ tên Khôi không biến mất khỏi bài.
-
-— Em tin ít nhất nó giữ được câu hỏi.
-
-Ông Cẩn gật.
-
-— Vậy giữ đi.
+Có lẽ đó là lúc tôi bắt đầu nhìn kho lưu trữ của Âm Dương khác đi. Trước đây với tôi nó chỉ là nơi chứa những bài cũ ít ai đọc. Từ hôm ấy, tôi hiểu việc một cái tên được ghi đúng, được giữ lại đúng chỗ đôi khi tự nó đã có giá trị, kể cả khi chúng tôi chưa biết nó có tác dụng gì ngoài đời.
 
 ***
 
-Case Nguyễn Minh Khôi kết thúc trên báo không có ma.
+Case Nguyễn Minh Khôi kết thúc trên báo bằng những thứ chúng tôi chứng minh được: bắt giữ người trái phép, thu giữ giấy tờ, sử dụng thuốc an thần, một mạng lưới trung gian liên quan tới thứ gọi là Chợ Âm và hiện tượng suy giảm nhận diện chưa có lời giải thích đủ chắc.
 
-Tôi viết về một vụ bắt giữ người trái phép, một mạng lưới thu gom hồ sơ cá nhân kỳ lạ, những nạn nhân bị mất dấu khỏi dữ liệu và hiện tượng suy giảm ký ức chưa có lời giải.
-
-Sếp Hòa cắt câu “linh hồn bị xóa tên”.
-
-Tôi đồng ý.
+Sếp Hòa cắt câu tôi viết về “linh hồn bị xóa tên”. Tôi đọc lại rồi tự tay xóa luôn.
 
 Không đủ chứng cứ.
 
-Bài cuối có một đoạn tôi giữ nguyên:
+Có một đoạn ông giữ:
 
-“Một con người không chỉ tồn tại bằng giấy khai sinh hay căn cước. Họ tồn tại trong ký ức của những người từng ăn cùng một bữa cơm, ngồi cùng một lớp học, cãi nhau một câu, nợ nhau hai chục nghìn rồi quên trả. Có thể vì vậy mà thứ đáng sợ nhất không phải chết. Là chưa chết mà cả thế giới đã quên mất mình từng sống.”
+*Một con người không chỉ tồn tại bằng giấy khai sinh hay căn cước. Họ còn tồn tại trong ký ức của những người từng ăn cùng một bữa cơm, ngồi cùng một lớp học, cãi nhau một câu hoặc nợ nhau hai chục nghìn rồi quên trả. Có thể vì vậy, thứ đáng sợ không chỉ là chết. Mà là mình vẫn còn sống, trong khi thế giới đã dần quên mất mình từng ở đây.*
 
-Anh Quang đọc xong bảo:
+Quang đọc xong, chống tay lên vách ngăn.
 
-— Đoạn này được.
+— Đoạn này được đó.
 
-Tôi chống cằm.
+— Mày thấy chưa, lâu lâu tao cũng sâu sắc.
 
-— Tao vốn sâu sắc.
+— Ừ. Lúc mày không cố gây cười thì đọc được hơn hẳn.
 
-— Mày im là sâu nhất.
-
-Tôi quyết định không tranh luận với người không biết thưởng thức văn chương.
+Tôi định phản đối, nhưng nghĩ lại thấy câu đó có vẻ nhắm hơi đúng nên thôi.
 
 ***
 
-Một tuần sau, anh Tuấn gọi.
+Một tuần sau anh Tuấn gọi.
 
-— Huy. Cuốn sổ ở kho có chuyện.
+— Huy, cuốn sổ ở kho có thay đổi.
 
-— Chuyện gì?
+— Sao anh?
 
-— Mực trên phần lớn tên bị gạch đang phai.
+— Mực trên một số tên bị gạch đang phai. Phòng vật chứng có camera, chưa ai mở sổ từ lần kiểm kê cuối.
 
-— Tự phai?
+Tôi ngồi thẳng dậy.
 
-— Phòng vật chứng có camera. Không ai chạm.
+— Tên Khôi?
 
-— Còn tên Khôi?
+— Nét gạch gần mất hết.
 
-— Nét gạch mất gần hết.
+— Các tên khác?
 
-Tôi nhìn bài báo đang mở trên màn hình.
+— Có vài tên cũng phai. Tôi đối chiếu thử với bản ông Cẩn gửi cho cậu.
 
-— Có tên nào khác mất nét gạch không?
+— Rồi sao?
 
-— Có.
+— Những tên phai nhiều nhất đều là người ông ấy vẫn viết lại mỗi ngày.
 
-— Những người nào?
-
-— Những người ông Cẩn vẫn viết lại mỗi ngày.
-
-Tôi không nói được vài giây.
+Tôi im khá lâu.
 
 Anh Tuấn hỏi:
 
 — Cậu nghĩ gì?
 
-— Em nghĩ chưa đủ để ghi vào biên bản.
+— Em nghĩ... hiện giờ mình chỉ có tương quan.
 
-Anh bật cười lần đầu tiên tôi nghe thấy.
+Đầu dây bên kia có tiếng cười rất nhỏ.
 
-— Học nhanh đó.
+— Học nhanh thật.
 
-Cuộc gọi tắt.
+Sau khi cúp máy, tôi mở ngăn bàn. Đồng xu chỉ đen nằm trong túi zip, lá ba bích đặt bên cạnh; cả hai đều được tôi ghi ngày nhận, người liên quan và nguồn phát hiện lên nhãn giấy nhỏ. Nhìn cũng ra dáng một người biết quản lý vật chứng, nếu bỏ qua chuyện đó là ngăn kéo cá nhân bên cạnh mấy gói bánh quy.
 
-Tôi mở ngăn bàn.
+Tôi đóng ngăn lại.
 
-Đồng xu chỉ đen nằm trong túi zip.
-
-Lá ba bích nằm cạnh.
-
-Tôi đã dán nhãn ngày tháng lên cả hai.
-
-Rất khoa học.
-
-Rất chuyên nghiệp.
-
-Tôi đóng ngăn.
-
-Ba giây sau có tiếng gõ từ bên trong.
+Ba giây sau, bên trong vang lên ba tiếng gõ.
 
 Cốc.
 
@@ -640,44 +360,46 @@ Cốc.
 
 Cốc.
 
-Tôi nhìn ngăn bàn.
+Tôi đứng yên.
 
-Anh Quang bên cạnh hỏi:
+Quang ở bàn bên ngẩng đầu.
 
 — Gì vậy?
 
-— Chuột.
+— Không biết.
 
-— Trong ngăn kéo?
+Lần này tôi không bịa chuyện chuột. Tôi kéo ngăn ra.
 
-— Chuột văn phòng có ý thức tổ chức.
+Không có thứ gì sống ở trong đó. Đồng xu vẫn nguyên, túi zip không rách. Lá ba bích cũng nằm đúng chỗ, nhưng trên mặt bài có thêm một dòng mực xanh.
 
-Tôi chờ anh quay đi rồi kéo ngăn thật nhanh.
+**NGÀY MAI ĐỪNG ĐI LÀM.**
 
-Không có gì sống.
+Tôi nhận ra nét chữ ngay lập tức.
 
-Đồng xu vẫn ở đó.
+Là chữ của tôi.
 
-Ba bích vẫn ở đó.
+Tôi kiểm tra cả hai mặt lá bài, ngửi mực, nhìn quanh bàn, hỏi Quang có đụng vào ngăn kéo không. Nó tưởng tôi đang đùa cho tới khi thấy mặt tôi.
 
-Nhưng trên mặt lá bài xuất hiện một dòng chữ bằng mực xanh.
+— Có chuyện gì?
 
-Chữ viết rất quen.
+Tôi đưa lá bài cho nó nhưng không buông tay.
 
-Quen tới mức tôi lạnh cả hai bàn tay.
+Quang đọc xong, ngẩng lên.
 
-Vì đó là chữ của tôi.
+— Mày viết à?
 
-“NGÀY MAI ĐỪNG ĐI LÀM.”
+— Tao không nhớ viết.
 
-Tôi nhìn lịch.
+— Vậy mai mày đi làm không?
 
-Thứ Hai.
+Tôi nhìn dòng chữ thêm vài giây rồi lấy điện thoại.
 
-Tôi nhìn dòng chữ lần nữa.
+— Tao là người biết tôn trọng cảnh báo.
 
-Rồi làm việc đầu tiên một người trưởng thành, lý trí và có trách nhiệm nên làm khi nhận được cảnh báo bí ẩn rằng ngày mai đừng đi làm.
+— Từ bao giờ?
+
+— Từ lúc cảnh báo viết bằng chữ của tao.
 
 Tôi nhắn sếp Hòa:
 
-“Mai em xin nghỉ phép 1 ngày.”
+**“Mai em xin nghỉ một ngày.”**
