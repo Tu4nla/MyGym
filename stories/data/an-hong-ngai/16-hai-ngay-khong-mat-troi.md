@@ -1,244 +1,162 @@
-Quỳnh và Trâm đi về hướng đông theo lời Lan.
+Quỳnh và Trâm rời mái đá khi trời vẫn chưa sáng hẳn. Lan đã chỉ hướng đông trước lúc chân sưng tới mức không đứng được, nhưng sau gần một giờ đi giữa rừng, “hướng đông” dần trở thành một khái niệm khó chịu hơn là một phương hướng. Mây phủ kín trời, GPS không tải được bản đồ và la bàn điện thoại có lúc lệch vài độ rồi tự trở lại như chưa từng có chuyện gì.
 
-Ít nhất họ nghĩ là đông.
+Hai đứa thôi tin vào một thứ duy nhất.
 
-Sau gần một giờ, mây phủ kín bầu trời. Không có mặt trời để đối chiếu. La bàn điện thoại của Quỳnh lúc đúng lúc sai. GPS không tải. Những dải vải đỏ nó buộc trên cây có lúc xuất hiện phía trước dù đáng lẽ nằm sau lưng.
+Quỳnh dùng dòng nước để giữ hướng xuống thấp, nhìn độ dốc của đất, dấu người cũ trên lối và những cành cây bị bẻ thật. Trâm đi bên cạnh, cổ vẫn đau nên nói ít. Sau lần chạy theo tiếng Như tối trước, hai đứa buộc cổ tay với nhau bằng một đoạn dây mềm dài gần một mét. Không đủ chặt để cản máu, chỉ đủ để nếu một đứa đổi hướng đột ngột thì đứa kia biết ngay.
 
-Quỳnh ngừng tin đường.
+Trâm nhìn sợi dây một lúc rồi khàn giọng:
 
-Nó chuyển sang tin những thứ khó giả hơn.
-
-Nước chảy xuống thấp.
-
-Rêu mọc dày phía ẩm.
-
-Dốc đất có dấu người dùng thật.
-
-Và Trâm.
-
-Hai người buộc cổ tay với nhau bằng một đoạn dây mềm dài gần một mét.
-
-Không chặt.
-
-Chỉ đủ để nếu một đứa đột ngột chạy theo tiếng gọi, đứa kia biết ngay.
-
-Trâm nhìn sợi dây.
-
-— Giống dắt trẻ con.
-
-Giọng vẫn khàn.
-
-Quỳnh đáp:
+— Nhìn giống mày đang dắt trẻ con.
 
 — Mày mà chạy nữa tao buộc ngắn lại.
 
 — Biết rồi, mẹ.
 
-Câu nói làm Quỳnh khựng.
-
-Trâm thật ngày xưa từng hay gọi Hân là “mẹ Hân” mỗi lúc bị quản.
-
-Một chi tiết vô nghĩa.
-
-Nhưng sau mấy ngày sống giữa những khuôn mặt giả, chi tiết vô nghĩa trở thành thứ quý nhất.
+Quỳnh bật cười. Cách nói đó làm nó nhớ tới phòng 201, hồi Trâm hay gọi Hân là “mẹ Hân” mỗi khi bị nhắc giờ ngủ hay chuyện phơi quần áo. Một chi tiết nhỏ tới mức nếu kể cho người khác chắc chẳng ai hiểu vì sao nó có thể khiến Quỳnh nhẹ người đi một chút. Sau mấy ngày sống giữa những khuôn mặt giả và ký ức bị bẻ cong, những thói quen vô nghĩa lại thành thứ đáng tin nhất.
 
 ***
 
-Đến sáng, họ gặp một khe nước nhỏ.
+Đến gần sáng, họ gặp một khe nước nhỏ. Quỳnh dùng khăn lọc cặn rồi bỏ viên khử khuẩn trong túi sinh tồn vào chai, chờ đủ thời gian mới cho Trâm uống. Nước trên núi nhìn trong không có nghĩa là uống thẳng được; ít nhất chuyện đó không liên quan tới ma hay ngải nên hai đứa còn biết phải làm gì.
 
-Nước trong nhưng Quỳnh vẫn lọc qua khăn sạch và dùng viên khử khuẩn trong túi sinh tồn nó còn mang theo. Không ai uống trực tiếp chỉ vì “nước núi trong”.
-
-Trâm ngồi dựa đá.
+Trâm ngồi dựa lưng vào tảng đá, bàn chân phồng rộp vì giày ướt. Nó uống hai ngụm rồi hỏi:
 
 — Lan có sống không?
 
 — Có.
 
-Quỳnh trả lời ngay.
-
 — Mày biết à?
 
-— Không.
+— Lúc mình đi nó còn tỉnh, còn chửi được. Tao tin vậy trước đã.
 
-— Vậy sao nói chắc?
+Trâm nhìn Quỳnh.
 
-Quỳnh vắt khăn.
+— Vậy là không biết.
 
-— Vì lúc tao đi nó còn nói chuyện.
+— Ừ.
 
-— Sau đó thì sao?
-
-— Sau đó chưa xảy ra trong phần tao biết.
-
-Trâm nhìn nó.
-
-— Mày vẫn y như hồi xưa.
-
-— Sao?
-
-— Cứng đầu theo kiểu dùng từ nghe có lý.
-
-Quỳnh cười.
+— Mày vẫn y như hồi xưa. Nói câu nào nghe cũng như có lý dù thật ra đang cứng đầu.
 
 — Còn mày vẫn phiền.
 
-Hai đứa im một lúc.
+Trâm cười rất khẽ. Hai đứa im một lúc, chỉ còn tiếng nước chảy qua đá.
 
-Rồi Trâm hỏi:
+Một lát sau Trâm hỏi:
 
-— Mày có ghét tao không?
+— Hồi đó mày có ghét tao không?
 
-Quỳnh không giả vờ không hiểu.
+Quỳnh biết “hồi đó” là năm 2012.
 
-— Hồi P201?
-
-Trâm gật.
-
-— Có lúc.
+— Có lúc có.
 
 — Bây giờ?
 
-— Không biết.
+Nó vắt nước khỏi mép quần rồi mới trả lời.
 
-Trâm nhìn nước.
+— Tao không biết gọi là gì. Tao giận mày. Tao thương mày. Có lúc tao nghĩ mày ngu kinh khủng. Có lúc tao nghĩ tụi tao dồn mày tới chỗ phải chọn giữa anh trai với tụi tao mà không hiểu lúc đó mày sợ cỡ nào.
 
-Quỳnh nói tiếp:
+Trâm cúi nhìn chai nước.
 
-— Tao giận. Tao thương. Tao thấy mày ngu. Tao thấy tao cũng có lỗi vì ép mày tới chỗ phải chọn giữa anh trai và tụi tao. Mấy cái đó tồn tại cùng lúc được.
-
-Trâm cười buồn.
-
-— Tao thích câu “mày ngu”.
+— Tao thích phần “mày ngu”.
 
 — Phần đó tao chắc nhất.
 
+Lần này cả hai cùng cười. Không ai tha thứ cho ai bằng một câu nói. Cũng không cần. Ít nhất họ đang ngồi cùng một tảng đá, uống cùng một chai nước, và lần đầu tiên sau bảy năm có thể nhắc lại chuyện cũ mà không phải chọn bên.
+
 ***
 
-Khoảng chín giờ, họ thấy Hân.
+Khoảng chín giờ, Quỳnh nhìn thấy Hân.
 
-Cô đứng giữa rừng mặc đúng áo ngủ năm 2012.
+Cô đứng giữa hai thân cây cách trước mặt chưa tới mười mét, mặc chiếc áo ngủ rộng mà Quỳnh nhớ từ năm lớp mười hai. Tóc cũng ngắn như hồi ấy.
 
-Tóc ngắn như hồi học sinh.
+— Hai đứa đi đâu đó?
 
-— Hai đứa đi đâu vậy?
+Trâm khựng lại. Sợi dây giữa hai cổ tay căng nhẹ.
 
-Trâm đứng khựng.
+Quỳnh không tiến tới. Nó giơ điện thoại lên quay trước. Màn hình chỉ có cây, bụi thấp và một mảnh vải đen buộc sát gốc cây bên phải.
 
-Sợi dây căng.
+— Mày thấy ai? — Quỳnh hỏi.
 
-Quỳnh không nhìn thẳng Hân.
+— Hân.
 
-— Hỏi đi.
+— Tao cũng vậy.
 
-— Hỏi gì?
+“Hân” bước lên một bước.
 
-— Một chuyện chỉ Hân thật biết.
+— Về đi. Mọi người chờ.
 
-Trâm nuốt khan.
+Quỳnh nhìn camera lần nữa. Vẫn không có người.
 
-— Hân. Hồi Thi với Quỳnh đi mua mì đêm đó, mày làm gì?
+Trâm nuốt khan rồi hỏi:
+
+— Hân, đêm Thi với Quỳnh xuống căn tin mua mì, mày làm gì?
 
 “Hân” cười.
 
-— Tao đi cùng.
+— Tao đi cùng chứ làm gì.
 
-Trâm quay mặt ngay.
+Trâm quay mặt đi ngay.
 
-— Giả.
+— Sai.
 
-Hình ảnh vẫn đi theo bên cạnh.
+Hai đứa tiếp tục đi. Hình ảnh Hân theo bên cạnh thêm vài chục mét, lúc năn nỉ, lúc nổi giận. Quỳnh không tranh luận. Khi họ cách cái cây có mảnh vải đen đủ xa, giọng phía sau nhỏ dần rồi mất.
 
-— Trâm, mày bỏ tao à?
-
-Trâm run.
-
-Quỳnh kéo dây.
-
-— Đừng tranh luận với nó. Nó chỉ cần mình đứng lại.
-
-Hai đứa đi tiếp.
-
-Hân giả chửi phía sau.
-
-Giọng càng lúc càng méo.
-
-Rồi biến.
+Quỳnh không quay lại lấy túi. Nó chỉ chụp vị trí và đánh dấu thời gian. Sau những gì Thi đã tìm thấy ở Hang A Phủ, một điểm bám vật lý giữa rừng đáng để lực lượng kỹ thuật quay lại hơn là đáng để hai đứa đang lạc tự tháo.
 
 ***
 
-Mười một giờ, Quỳnh thấy Quân.
+Gần trưa, hình ảnh tiếp theo chỉ Quỳnh nhìn thấy.
 
-Không phải Quân bây giờ.
-
-Quân năm 2007, mặc áo đồng phục, đứng cạnh Trang.
-
-Trang ôm bụng.
-
-— Tại mày. — cô nói.
-
-Quỳnh không dừng.
+Quân đứng bên mép lối, trẻ hơn hiện tại mười mấy tuổi, mặc áo đồng phục. Trang ở cạnh anh, tóc ướt, hai tay đặt trên bụng.
 
 — Vì mày đào lại nên mọi người mới chết tiếp.
 
-Quỳnh đi.
+Quỳnh đi qua.
+
+Trang bước song song.
 
 — Như chết vì mày.
 
-Nó siết dây.
+Trâm hỏi:
 
-Trâm bên cạnh hỏi:
-
-— Mày thấy ai?
+— Mày thấy gì?
 
 — Trang.
 
-— Nói gì?
+— Nó nói gì?
 
-— Nhảm.
+— Mấy câu biết tao sẽ khó chịu.
 
-Trang bước ngay trước mặt.
+Trang tiến lên chắn ngay trước lối.
 
-— Nếu mày không tới Hồng Ngài, A Mã còn sống.
+— Nếu mày không tới Hồng Ngài, A Mã chưa chết.
 
-Quỳnh dừng một phần giây.
+Quỳnh dừng đúng một nhịp.
 
-Đúng chỗ đau nhất.
+Câu ấy có phần thật, và chính phần thật mới làm nó đau. Nếu nhóm không tới, A Mã có thể chưa chết vào ngày mười chín. Nhưng người đã đẩy ông khỏi bậc đá vẫn là Tùng. Người đã giết A Hù thật, bắt Trâm, giữ Huy và dựng toàn bộ cái bẫy này cũng là Tùng.
 
-Huyết Ngải không cần nói toàn lời sai.
+Quỳnh bước xuyên qua hình Trang. Không có cảm giác gì ngoài không khí lạnh trên mặt.
 
-Một lời nói dối tốt nhất luôn chứa phần thật.
+Trâm liếc nó.
 
-Có thể nếu họ không tới, A Mã chưa chết ngày 19.
+— Ổn không?
 
-Nhưng người đẩy ông vẫn là Tùng.
+— Chưa chết được.
 
-Người nuôi ngải vẫn là Tùng.
+— Tao hỏi có ổn không.
 
-Quỳnh nói thành tiếng:
+Quỳnh thở ra.
 
-— Nguyên nhân không phải người đầu tiên phát hiện tội ác.
+— Không. Nhưng đi tiếp được.
 
-Trâm nhìn.
-
-— Mày nói với ai?
-
-— Với tao.
-
-Hai đứa đi tiếp.
+— Vậy đi.
 
 ***
 
-Đến chiều, họ gặp đường mòn thật.
+Đầu giờ chiều họ chạm được một đường mòn có dấu lốp xe cũ. Một chai nước nhãn sản xuất mới nằm dưới bụi khiến Quỳnh mừng còn hơn thấy biển chỉ đường.
 
-Có dấu lốp xe cũ.
+— Có người đi qua đây.
 
-Có một vỏ chai nước nhãn còn mới.
-
-Quỳnh mừng đến mức muốn hôn cái vỏ chai.
-
-— Người đi.
-
-Trâm ngồi xuống.
+Trâm ngồi phịch xuống vệ đường.
 
 — Tao hết chân rồi.
 
@@ -246,480 +164,238 @@ Trâm ngồi xuống.
 
 — Tao muốn đổi.
 
-Quỳnh kiểm tra điện thoại.
+Điện thoại Quỳnh bất ngờ nhảy lên một vạch sóng. Nó gọi Thi nhưng cuộc gọi không đi. Cuộc gọi khẩn cấp cũng không ổn định. Quỳnh chuyển sang nhắn chữ, gửi cùng một nội dung cho Thi, Trung, Khải và Quân:
 
-Một vạch sóng xuất hiện.
+**QUỲNH + TRÂM CÒN SỐNG. GẦN KHE NƯỚC, ĐANG THEO ĐƯỜNG MÒN XUỐNG THẤP. KHÔNG CÓ GPS.**
 
-Nó gọi Thi.
+Một tin hiện dấu đã gửi trước khi sóng mất. Quỳnh không biết tới ai.
 
-Không kết nối.
-
-Gọi 113 không ổn định.
-
-Gửi tin nhắn vị trí dạng text:
-
-“QUỲNH + TRÂM CÒN SỐNG. ĐANG Ở ĐƯỜNG MÒN, GẦN KHE NƯỚC, KHÔNG GPS. ĐI HƯỚNG XUỐNG.”
-
-Gửi cho Thi, Trung, Khải, Quân.
-
-Một tin báo đã gửi.
-
-Không biết cái nào.
-
-Rồi sóng mất.
+Ít nhất bây giờ bên ngoài có khả năng biết hai đứa còn sống.
 
 ***
 
-Đêm thứ hai tới trước khi họ ra khỏi rừng.
+Đêm thứ hai tới khi họ vẫn chưa ra khỏi rừng.
 
-Không phải vì đường dài.
+Càng đi, Quỳnh càng tin phần “lạc” không hoàn toàn do Huyết Ngải. Một vài cọc gỗ bị đóng lại ở vị trí dễ khiến người đi rẽ nhầm. Có cành cây được bẻ có chủ ý. Hai vệt sơn đỏ trên đá giống hệt dấu đường nhưng khi soi gần thì còn mới hơn lớp rêu xung quanh. Tùng đã chuẩn bị địa hình trước; tác động lên nhận thức chỉ làm người ta dễ tin các chỉ dẫn sai đó hơn.
 
-Vì mỗi lần đi được một đoạn, đường lại như thay đổi.
+Hai đứa chọn một khoảng đất khô dưới tán lớn để ngồi chờ trời sáng, mỗi đứa giữ một đầu dây. Quỳnh đặt báo thức hai mươi phút một lần để đổi người thức.
 
-Quỳnh bắt đầu nghi một phần “loop” không hoàn toàn siêu nhiên.
-
-Có những cọc nhỏ bị dịch.
-
-Cành cây bị bẻ theo hướng giả.
-
-Một vài dấu đỏ trên đá là sơn thật.
-
-Tùng đã chuẩn bị địa hình trước.
-
-Huyết Ngải làm phần còn lại: khiến người ta dễ chấp nhận chỉ dẫn sai.
-
-Hai tầng.
-
-Con người và thứ không giải thích được.
-
-Lại đúng kiểu hắn.
-
-***
-
-Khoảng ba giờ sáng 23 tháng 9, Trâm đột ngột tỉnh.
-
-— Quỳnh.
-
-— Gì?
+Khoảng ba giờ sáng, Trâm lay nó dậy.
 
 — Tao nghe Như.
 
-Quỳnh ngồi dậy ngay.
+Quỳnh mở mắt ngay.
 
 — Ở đâu?
 
-Trâm chỉ về phía rừng.
+Trâm chỉ về phía rừng tối.
 
-— Nó khóc.
+— Phía kia. Nó khóc.
 
-— Không đi.
+— Mày muốn đi không?
+
+Trâm lắc đầu, nhưng hai tay run.
+
+— Không. Tao chỉ... nghe giống thật quá.
+
+— Nó nói gì?
+
+— Xin lỗi. Rồi nhắc một chuyện hồi nhỏ tao từng nói với anh Tùng.
+
+— Như có thể biết từ hắn.
 
 — Tao biết.
 
-Trâm ôm đầu.
+Trâm ôm đầu gối.
 
-— Nhưng lần này không giống trước. Nó nói “xin lỗi”.
+— Tao không đi đâu.
 
-Quỳnh giữ vai.
+Quỳnh ngồi sát hơn. Hai đứa không nói thêm. Tiếng khóc kéo dài ở đâu đó giữa cây gần nửa giờ rồi mất. Có thể là bản ghi. Có thể là thứ gì khác. Không ai cần quyết định trong đêm.
 
-— Có thể chỉ là ký ức.
-
-— Nó nói một câu hồi nhỏ tao từng nói với anh Tùng.
-
-— Như có thể biết từ Tùng.
-
-— Ừ.
-
-Trâm thở.
-
-— Tao không đi.
-
-Lần này cô tự nói trước.
-
-Quỳnh gật.
-
-Hai người ngồi dựa nhau.
-
-Trong bóng tối, tiếng phụ nữ khóc kéo dài rất lâu.
-
-Không ai đi theo.
-
-***
-
-Bốn giờ hai mươi, sợi dây nối cổ tay bỗng căng.
-
-Quỳnh mở mắt.
-
-Trâm đang đứng.
-
-Mắt nhắm.
+Gần bốn rưỡi, sợi dây ở cổ tay Quỳnh bỗng căng mạnh. Nó tỉnh dậy thấy Trâm đã đứng, người quay về hướng tiếng khóc trước đó.
 
 — Trâm.
 
 Không phản ứng.
 
-Cô bước.
+Quỳnh giật dây một cái. Trâm khựng nhưng vẫn bước.
 
-Quỳnh kéo lại.
+— Ê. Nhìn tao.
 
-Trâm mạnh bất thường.
+Quỳnh kéo nó ngồi xuống rồi vốc một ít nước lạnh lau mặt. Trâm chớp mắt liên tục, mất gần mười giây mới thực sự nhận ra xung quanh.
 
-— TRÂM!
+— Tao đứng dậy hồi nào vậy?
 
-Mắt mở.
+— Tao đang định hỏi mày.
 
-Không có tròng đen trong một giây.
+Trâm nhìn hướng rừng rồi tự kéo nút dây ngắn lại một đoạn.
 
-Quỳnh tát.
+— Buộc chặt hơn đi.
 
-Một cái.
+Quỳnh làm theo.
 
-Không mạnh tới mức gây thương tích, nhưng đủ sốc.
-
-Trâm giật.
-
-Mắt trở lại.
-
-— Mày đánh tao?
-
-— Ừ.
-
-— Đau.
-
-— Tốt. Đau thật dễ nhận hơn ma.
-
-Trâm vừa bực vừa muốn khóc.
-
-Quỳnh buộc dây ngắn hơn.
-
-— Xin lỗi.
-
-— Tao ghi nợ.
+Không ai nói “bị nhập”. Trâm có thể đã mộng du vì kiệt sức, có thể bị tác động, có thể cả hai. Điều quan trọng là tới sáng nó không đi một mình nữa.
 
 ***
 
-Sáu giờ, họ nghe tiếng người thật.
+Sáu giờ, họ nghe một tiếng còi ba nhịp từ phía thấp hơn.
 
-Không gọi tên.
+Quỳnh không trả lời ngay. Nó đợi.
 
-Một tiếng còi ba nhịp.
+Ba nhịp nữa.
 
-Sau đó lại ba.
+Quỳnh lấy còi cứu hộ ở quai ba lô, thổi ba tiếng. Phía kia đáp đúng ba.
 
-Quỳnh đáp bằng chiếc còi cứu hộ nhỏ móc ở quai ba lô.
+Hai bóng người xuất hiện qua cây. Quỳnh vẫn giơ camera lên trước khi chạy. Một người là Minh, người còn lại mặc đồ tìm kiếm của tổ địa phương.
 
-Ba nhịp.
+— Quỳnh! — Minh gọi.
 
-Tiếng kia đáp.
+Nó đứng yên.
 
-Không chạy.
+— Xác nhận tin nhắn cuối của tôi.
 
-Quỳnh dùng camera trước.
+Minh khựng một chút rồi hiểu.
 
-Hai người mặc đồ tìm kiếm hiện qua cây.
+— “Quỳnh với Trâm còn sống, gần khe nước, theo đường mòn xuống thấp.” Khải nhận được lúc chiều qua.
 
-Một người là Minh.
+Lúc ấy Quỳnh mới cho phép mình bước tới.
 
-Người kia Quỳnh chưa gặp.
+Đầu gối nó mềm hẳn khi Minh nói câu tiếp theo:
 
-— Quỳnh!
+— Lan còn sống.
 
-Minh gọi.
+Đội tìm kiếm đã thấy cô ở mái đá nhờ các dải phản quang từ sáng hôm trước. Vết chó cắn được xử lý theo quy trình, cổ chân bong gân nặng nhưng không gãy. Thứ làm bác sĩ lo hơn là mất nước, lạnh và kiệt sức. Sau truyền dịch và làm ấm, Lan đã tỉnh nhiều lần; câu đầu tiên cô hỏi là Quỳnh với Trâm đâu.
 
-Nó vẫn hỏi:
-
-— Mã xác nhận?
-
-Minh đứng lại.
-
-Rồi hiểu.
-
-— Tin cuối cô gửi: “Quỳnh + Trâm còn sống, gần khe nước, đi hướng xuống.” Khải nói cô sẽ hỏi cái này.
-
-Quỳnh thở ra.
-
-Lần đầu trong hai ngày, nó cho phép đầu gối mềm.
-
-***
-
-Lan còn sống.
-
-Đó là câu đầu tiên Minh nói sau khi kiểm tra hai người.
-
-Đội tìm kiếm phát hiện cô ở mái đá từ sáng 22 theo những dải phản quang và mảnh vải đỏ. Vết chó cắn đã được rửa, xử trí dự phòng nhiễm trùng và dại theo quy trình; cổ chân bị bong gân khá nặng nhưng không gãy. Phần khiến bác sĩ lo hơn là kiệt sức, mất nước và thời gian nằm lạnh một mình. Tình trạng đã ổn dần sau xử trí hỗ trợ.
-
-Quỳnh cười rồi khóc cùng lúc.
-
-— Nó tỉnh chưa?
-
-— Có. Câu đầu là hỏi hai cô.
-
-Trâm cúi đầu.
+Trâm quay mặt đi, dùng mu bàn tay lau mắt.
 
 — Còn Thi, Trung?
 
-— An toàn. Được tìm thấy ở khu Hang A Phủ. Huy thì không vào rừng từ đầu, vẫn ở điểm tạm với lực lượng bảo vệ.
+— An toàn. Hai người được tìm thấy ở Hang A Phủ. Huy không vào rừng, vẫn ở điểm tạm.
 
-Quỳnh thấy hai ngày trong rừng rơi khỏi vai một phần.
-
-Chưa hết.
-
-Nhưng đủ thở.
+Quỳnh ngồi xuống ngay vệ đường. Nó không khóc lớn, chỉ cúi đầu một lúc rất lâu rồi mới đứng dậy để Minh kiểm tra vết xước và tình trạng mất nước.
 
 ***
 
-Đến trưa 23, nhóm gặp lại tại điểm chỉ huy tạm.
+Trưa ngày hai mươi ba, Quỳnh gặp lại mọi người ở điểm chỉ huy tạm dưới Bắc Yên.
 
-Thi ôm Quỳnh rất nhanh rồi đẩy ra.
+Thi đi thẳng tới ôm nó một cái rất nhanh, sau đó đẩy ra nhìn từ đầu tới chân.
 
-— Tao đã bảo dừng.
+— Tao bảo mày dừng.
 
 — Tao biết.
 
 — Mày vẫn chạy.
 
-— Tao biết.
+— Ừ.
 
-— Tao sẽ chửi sau.
+— Đợi vụ này xong tao chửi.
 
-— Biết.
+— Được.
 
-Thi quay sang Trâm, kiểm tra mắt, cổ tay như thể không tin người sống đứng trước mặt.
+Thi quay sang Trâm. Nó không nói gì, chỉ chạm nhẹ vào vai cô rồi kiểm cổ tay bị dây cọ đỏ. Trâm nhìn Thi một lúc trước khi khàn giọng:
 
-Trung ở phía sau nhìn Quỳnh.
+— Tao xin lỗi.
 
-— Chị dâu tương lai của tôi còn sống.
+— Giữ hơi mà nói chuyện khác.
 
-Thi quay phắt.
+Trung đưa cho Quỳnh chai điện giải.
 
-— Mày nói cái gì?
+— Uống đi. Mặt chị nhìn như vừa kiện cả khu rừng thua vậy.
 
-— Tôi nói Quỳnh.
+— Cảm ơn.
 
-— Liên quan gì mày?
+— Không có gì. Tôi với Thi cũng lạc một đêm, nhưng ít hơn nên không tranh giải.
 
-Trung nhận ra mình tự đào hố.
+Thi liếc hắn. Trung im ngay.
 
-Huy ở ghế gần đó cười.
+Huy ngồi ở ghế gần cửa, vẫn gầy nhưng sắc mặt đã khá hơn mấy hôm trước. Anh chỉ giơ tay chào.
 
-— Tôi bỏ lỡ nhiều content quá.
+— Chào mừng về.
+
+Không ai cần đùa nhiều hơn thế.
 
 ***
 
-Khải tới Bắc Yên sáng 23.
+Khải tới Bắc Yên sáng hôm đó. Quỳnh nhận ra anh từ xa qua cách những người xung quanh tự nhiên hạ giọng khi anh hỏi chuyện hơn là qua ngoại hình. Quân ngồi ở bàn phía sau, áo khoác tối màu còn dính bụi đường.
 
-Quỳnh nhận ra anh ngay dù chưa từng gặp trực tiếp. Khoảng gần bốn mươi, người không cao lớn đặc biệt, tóc cắt ngắn, khuôn mặt kiểu nếu đứng trong đám đông sẽ ít ai nhớ. Nhưng cách mọi người tự động giảm tiếng khi anh hỏi cho thấy vai trò.
+Quỳnh đi tới. Quân ôm em một lúc không nói, rồi gõ nhẹ lên đầu nó.
 
-Quân ngồi ở bàn phía sau.
+— Anh dặn đừng làm anh hùng.
 
-Không mặc đồng phục.
-
-Chỉ áo khoác tối màu, quần jeans.
-
-Đúng chỗ của anh.
-
-Một dân sự được bảo vệ, nhân chứng cũ và người Tùng muốn kéo vào.
-
-Không phải “thủ trưởng”.
-
-Quỳnh đi thẳng tới.
-
-Quân ôm em.
-
-Không nói câu nào trong vài giây.
-
-Rồi gõ nhẹ đầu nó.
-
-— Anh bảo đừng làm anh hùng.
-
-— Em đâu làm.
+— Em đâu có.
 
 — Em chạy vào rừng.
 
 — Trâm chạy trước.
 
-— Lý luận ghê.
+— Nghe rất thuyết phục.
 
-Quỳnh cười.
+Quỳnh cười. Cái gõ đầu, mùi vải áo dính bụi và giọng bực thật của Quân khiến cơ thể nó lần đầu tin hoàn toàn rằng mình đã ra khỏi rừng.
 
-Đây là thứ Huyết Ngải không dựng được dễ dàng.
+Khải đợi hai anh em xong mới đặt một chiếc điện thoại lên bàn.
 
-Một cái gõ đầu rất thật.
+— Tùng vừa gửi lúc mười giờ lẻ ba.
 
-***
+Ảnh đầu là Như, gương mặt thật, không Họa Bì. Cô bị trói trên một khoảng đất cao, mắt nhắm. Không có dữ liệu để biết ảnh được chụp lúc nào hay cô còn sống khi chụp hay không.
 
-Khải cho Quỳnh xem điện thoại Tùng đã gửi.
+Ảnh thứ hai chỉ có một chiếc ghế trống.
 
-Tin mới tới lúc 10:03.
+**QUỲNH NGỒI. QUÂN ĐỨNG. NỬA ĐÊM.**
 
-Một ảnh Trâm.
+Bên dưới là tọa độ một quả đồi phía trên nhà Pá Tra.
 
-Không phải Trâm đang ở cạnh Quỳnh.
-
-Như.
-
-Gương mặt thật, không Họa Bì.
-
-Cô bị trói trên một khoảng đất cao. Mắt nhắm. Không biết sống hay chết.
-
-Sau đó một ảnh khác.
-
-Một chiếc ghế trống.
-
-Dòng chữ:
-
-“QUỲNH NGỒI. QUÂN ĐỨNG. NỬA ĐÊM.”
-
-Kèm tọa độ.
-
-Khải nói:
-
-— Đồi phía trên nhà Pá Tra khoảng hai cây số đường chim bay. Có lối khác vào.
-
-Quỳnh nhìn Như.
-
-— Hắn có cô ấy.
-
-— Có thể ảnh chụp trước khi cô ấy chết hoặc mất tích. Chưa biết thời điểm.
-
-— Hắn muốn tôi với Quân.
+— Hắn muốn hai anh em tôi. — Quỳnh nói.
 
 — Đúng.
 
-Quân nói:
+Quân kéo ghế lại.
 
 — Tôi đi.
 
-Quỳnh quay.
+— Anh không đi vào điểm hẹn. — Khải nói ngay.
 
-— Không.
+— Nếu nó không thấy tôi, nó đổi chỗ.
 
-Khải giơ tay trước khi hai anh em cãi.
+— Cho nên chúng tôi sẽ để nó tin anh đang tới mà không đặt anh giữa điểm nguy hiểm.
 
-— Không ai “đi” theo nghĩa tự tới. Nhưng Tùng phải tin hai người sẽ xuất hiện, nếu không hắn đổi địa điểm và mình mất cơ hội lấy người còn sống.
+Khải mở bản đồ. Ba hướng tiếp cận được đánh dấu quanh đồi. Quỳnh sẽ xuất hiện trên một tuyến đã khảo sát trước, có thiết bị thu âm và lực lượng giữ hai sườn. Quân ở tuyến sau, đủ để giọng và một vài dấu hiệu hiện diện của anh lọt tới Tùng nếu cần. Thi cùng một tổ ở sườn trái; Trung ở tuyến phải nhưng không được dùng triệu chứng của mình làm công cụ định vị. Huy ở điểm chỉ huy vì anh biết cấu trúc Huyết Ngải và những cách Tùng từng bố trí điểm bám.
 
-Quỳnh hỏi:
+Lan tham gia bằng điện thoại từ trạm y tế. Cô nghe kế hoạch xong chỉ nhắc một điều:
 
-— Kế hoạch?
-
-Khải mở bản đồ.
-
-— Ba hướng tiếp cận. Quỳnh sẽ xuất hiện ở tuyến nhìn thấy được, có bảo vệ và thiết bị. Quân không vào điểm hẹn; chỉ cho Tùng thấy dấu hiệu đủ để tin anh ấy đang tới. Thi, Trung ở tổ gần. Tôi không để dân sự đứng giữa một quả bom huyền thuật lẫn vật lý nếu có cách khác.
-
-Huy nói từ góc:
-
-— Còn vườn Huyết Ngải?
-
-Khải nhìn anh.
-
-— Tổ khác khóa nhà Pá Tra. Chưa phá cây khi chưa biết có kích hoạt gì liên quan con tin.
-
-Lan đang nằm cáng bên cạnh, tỉnh nhưng yếu, nói:
-
-— Đúng.
-
-Mọi người quay.
-
-Cô đã được đưa lên theo yêu cầu bác sĩ vì nhất quyết muốn cung cấp thông tin, nhưng vẫn truyền dịch.
-
-— Trong ký ức A Mã, lõi Khalamay không ở vườn. Tùng mang theo người. Phá cây chỉ cắt nguồn nuôi, không vô hiệu bột đã hoàn thành.
+— Lõi Khalamay không nằm cố định ở vườn. Nếu Tùng còn giữ lọ trắng thì đừng ai nghĩ phá cây là hết chuyện.
 
 Khải hỏi:
 
-— Có cách vô hiệu?
+— Có cách vô hiệu chắc chắn không?
 
-Lan lắc đầu.
+— Chưa.
 
-— Chưa biết.
+— Vậy coi như chưa có.
 
-— Tốt. Vậy không ai giả vờ biết.
+Không ai cố biến một trang sổ mơ hồ thành biện pháp tác chiến.
 
-***
+Quỳnh nhìn kỹ bản đồ địa hình. Điểm hẹn nằm gần mép tây, nơi đất hạ nhanh xuống một khe sâu. Nó nhớ cách Tùng đã làm mọi thứ suốt bảy năm: dựng lại phòng 201, giữ ảnh Trang, bắt Như mang mặt Trâm, gọi Quân lên đúng câu chuyện cũ. Hắn không chỉ muốn giết người; hắn muốn người khác đứng đúng vị trí trong phiên bản quá khứ của hắn.
 
-Quỳnh nhìn tọa độ đồi.
+— Hắn có thể kéo tôi ra mép tây. — Quỳnh nói.
 
-Trong đầu hiện giấc mơ đầu truyện.
+Khải ngẩng lên.
 
-Mép vực.
+— Căn cứ?
 
-Tùng.
-
-“Mày sẽ phải trả giá.”
-
-Giấc mơ không phải kế hoạch tác chiến.
-
-Nhưng nó cho Quỳnh một điều:
-
-Tùng muốn tái hiện.
-
-Hắn không chỉ muốn giết.
-
-Hắn muốn dựng lại câu chuyện theo cách mình kiểm soát.
-
-Quỳnh nói:
-
-— Hắn sẽ đưa tôi ra gần mép dốc.
-
-Khải nhìn.
-
-— Vì sao?
-
-— Năm 2012 hắn trốn rồi rơi xuống vực. Hắn nhắn Quân. Hắn muốn tôi và Quân ở đó. Với Tùng, mọi thứ phải có biểu tượng.
+— Năm 2012 hắn trốn rồi rơi xuống nước. Bây giờ lại nhất quyết phải có tôi với anh Quân ở một điểm cao. Hắn thích dựng lại những cảnh mà hắn nghĩ người khác còn nợ hắn.
 
 Quân gật chậm.
 
-— Nó thích diễn giải đời mình như thể ai cũng nợ nó một cảnh kết.
+— Cái đó đúng với nó từ hồi còn đi học.
 
-Khải đánh dấu mép tây của đồi.
+Khải đánh dấu mép tây bằng bút đỏ.
 
-— Vậy mình coi đó là điểm nguy cơ cao.
+— Vậy xem đây là khu nguy cơ cao, không phải dự đoán chắc chắn. Tuyến của Quỳnh không vượt quá mốc này.
 
-Không ai nói “đúng vì giấc mơ”.
+Quỳnh gật.
 
-Họ biến một đặc điểm tâm lý của nghi phạm thành giả thuyết địa hình có thể kiểm tra.
+Bên ngoài cửa sổ, mây trên sườn núi cuối cùng đã tách ra một khoảng. Nắng đầu tiên sau hai ngày chiếu lên mái nhà phía dưới bản.
 
-Đó mới là cách Quỳnh muốn câu chuyện này kết thúc.
+Đêm nay họ sẽ quay lại nơi Tùng chọn.
 
-***
-
-Trước khi họp giải tán, điện thoại Quỳnh nhận một tin nhắn từ số lạ.
-
-Không ảnh.
-
-Chỉ bốn chữ:
-
-“ĐỪNG TIN NGƯỜI THỨ SÁU.”
-
-Quỳnh nhìn.
-
-Ba Bích.
-
-Bản ghi ngày mai.
-
-Người thứ hai của Huy.
-
-Những câu hỏi của một câu chuyện khác vừa chạm vào Án Hồng Ngài.
-
-Nó đưa ngay cho Khải.
-
-Không giấu.
-
-Khải chụp lại, chuyển kỹ thuật.
-
-— Ai gửi?
-
-— Không biết.
-
-— Có liên quan Tùng?
-
-— Không biết.
-
-Khải gật.
-
-— Vậy để sau.
-
-Đúng.
-
-Không phải mystery nào xuất hiện cũng phải được giải trong cùng một đêm.
-
-Đêm nay họ chỉ cần sống.
+Nhưng lần này không ai đi vào đó chỉ với đôi mắt của mình.
