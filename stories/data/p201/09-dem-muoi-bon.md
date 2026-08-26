@@ -2,187 +2,129 @@ Tùng biến mất trước khi công an tới nhà.
 
 Như cũng vậy.
 
-Sáng ngày 9 tháng 9, phòng 203 bị kiểm tra với sự có mặt của cô quản sinh và công an. Như đã rời ký túc từ gần nửa đêm hôm trước, ký sổ với lý do về nhà có việc. Điện thoại tắt từ 01:06.
+Sáng ngày 9 tháng 9, phòng 203 được kiểm tra với sự có mặt của cô quản sinh và công an. Như đã ký sổ rời ký túc gần nửa đêm, lý do ghi “về nhà có việc”. Điện thoại tắt từ hơn một giờ sáng.
 
-Trong tủ của Như còn quần áo.
+Trong tủ vẫn còn quần áo, sách vở, thậm chí một đôi giày mới chưa tháo tem. Không giống cách một người chuẩn bị bỏ đi lâu dài. Nhưng ngăn dưới cùng của bàn học lại trống hẳn; trên mặt gỗ có một khoảng bụi hình chữ nhật cho thấy trước đó từng đặt một chiếc hộp khá lớn.
 
-Sách vở.
+Trong thùng rác nhà vệ sinh, công an tìm thấy bao bì tóc giả, mút hóa trang, găng tay dùng một lần và lọ keo sân khấu gần cạn. Khi túi rác được đưa ra, Quỳnh đang đứng ngoài cửa vẫn ngửi thấy mùi hoa nhài pha với thứ cao su hăng nhẹ.
 
-Một đôi giày mới mua chưa tháo tem.
+Đó là mùi nó từng gặp trong phòng tắm của Như.
 
-Những thứ một người định bỏ trốn lâu dài thường sẽ mang theo.
+Và nếu nhớ kỹ, cũng là mùi từng thoảng qua ở khu vườn đêm Trâm gặp người áo mưa.
 
-Nhưng ngăn dưới cùng của bàn học trống bất thường.
-
-Một vệt bụi hình chữ nhật cho thấy trước đó từng có một hộp khá lớn đặt ở đó.
-
-Trong thùng rác nhà vệ sinh, công an thu được bao bì tóc giả, hai miếng mút hóa trang, găng tay dùng một lần và một lọ keo sân khấu đã gần hết.
-
-Mùi hoa nhài trộn với mùi cao su hăng nhẹ.
-
-Quỳnh đứng ngoài cửa, không được vào hiện trường.
-
-Nó vẫn nhận ra.
-
-Đó chính là mùi trong phòng tắm hôm trước.
-
-Và khi nhớ kỹ hơn, nó nhận ra mình từng ngửi thấy mùi tương tự trong một khoảnh khắc rất ngắn ở khu vườn đêm Trâm gặp người áo mưa.
-
-Khi đó mưa và mùi đất đã che gần hết.
-
-Quỳnh không nói “vậy người áo mưa chắc chắn là Như”.
-
-Trâm đã thú nhận điều đó rồi.
-
-Mùi hương chỉ là thứ khiến lời khai của Trâm có thêm một điểm bám vào thế giới thật.
+Trâm đã thừa nhận người ấy là Như. Mùi hương không chứng minh điều mới, nhưng ít nhất lời khai đã có thêm một dấu bám vào thế giới thật.
 
 ***
 
-Từ ngày 9 đến ngày 13, không có ma.
+Từ ngày 9 tới ngày 13, phòng 201 yên hoàn toàn.
 
-Không có điện thoại reo lúc 3:07.
+Không điện thoại reo lúc 03:07. Không nước tự chảy. Không bóng trắng đứng ngoài cửa sổ.
 
-Không có nước tự chảy.
+Bốn đêm liền không xảy ra gì.
 
-Không có bóng trắng ngoài cửa sổ.
+Đáng lẽ cả phòng phải nhẹ nhõm. Nhưng sau khi Như và Tùng biến mất, sự yên tĩnh ấy lại giống việc một người đang nín thở hơn là mọi chuyện đã kết thúc.
 
-Phòng 201 ngủ được bốn đêm yên.
+Công an không kể cho nhóm nhiều hơn mức cần thiết. Quỳnh chỉ biết những phần liên quan trực tiếp tới lời khai của mình.
 
-Lẽ ra phải nhẹ nhõm.
+Cuốn “nhật ký Trang” có nhiều trang do Như tập viết theo chữ Trang. Một số trang đầu thuộc về một cuốn sổ cũ từ khoảng năm 2007, nhưng tên Trang ở bìa và những đoạn quan trọng được thêm sau. Chiếc điện thoại cũng đã bị can thiệp để phát chuông, hiện dãy số và phát file âm thanh theo hẹn giờ hoặc tín hiệu ở khoảng cách gần. SIM bên trong không hoạt động.
 
-Nhưng sự yên tĩnh sau khi Như và Tùng biến mất giống khoảng trời lặng trước một cơn giông hơn là kết thúc.
-
-Công an không nói nhiều với nhóm.
-
-Quỳnh chỉ biết vài thứ qua những gì chính mình được hỏi.
-
-Cuốn nhật ký có nhiều trang là chữ của Như giả theo mẫu chữ Trang. Một số trang đầu thật sự thuộc một cuốn sổ cũ từ khoảng năm 2007, nhưng tên Trang ở trang bìa được viết sau.
-
-Chiếc điện thoại bị can thiệp mạch để có thể phát chuông, hiện chuỗi số và phát file âm thanh theo bộ hẹn giờ hoặc tín hiệu ở khoảng cách gần. SIM bên trong không hoạt động.
-
-Cái gọi là cuộc gọi từ 0888 888 888 phần lớn là trò dựng.
+Nói cách khác, phần lớn các “cuộc gọi” từ 0888 888 888 là đồ dựng.
 
 Phần lớn.
 
-Ông Phúc dùng đúng hai chữ đó.
+Ông Phúc vẫn giữ đúng hai chữ đó, vì không ai giải thích được lần chiếc máy xuất hiện trong túi áo Quỳnh ngoài cây chôm chôm. Trâm và Như lúc ấy đều ở trước mặt Quỳnh, còn Tùng không có mặt theo những gì điều tra được.
 
-Bởi lần chiếc máy xuất hiện trong túi Quỳnh ngoài gốc cây không phù hợp với lời khai của bất kỳ ai.
+Lá thư vàng Quỳnh tỉnh dậy cầm trong tay lại cho kết quả khác: giấy và mực đều đã cũ nhiều năm. Không ai dám đóng đinh là năm 2007, nhưng rõ ràng không phải thứ mới viết vài tuần.
 
-Cũng không có ai trong nhóm ma giả nhận đã làm.
+Tùng từng viết thư cho Trang. Quân xác nhận. Một bạn học cũ khác cũng nhớ hắn từng để ý Trang.
 
-Lá thư Quỳnh tỉnh dậy cầm trong tay được xác định giấy và mực có độ lão hóa phù hợp với việc tồn tại nhiều năm. Không ai dám khẳng định chính xác năm 2007, nhưng nó không phải thứ mới được viết vài tuần.
+Nhưng thích một người không phải tội. Một lá thư tình cũng chưa thể biến thành chứng cứ giết người.
 
-Tùng từng viết thư cho Trang.
-
-Điều đó được Quân xác nhận.
-
-Một bạn học cũ khác cũng nhớ Tùng từng thích Trang.
-
-Nhưng thích một người không phải tội.
-
-Thư tình không phải chứng cứ giết người.
-
-Công an cần nhiều hơn.
+Công an vẫn cần thứ khác.
 
 ***
 
-Trâm không quay lại phòng 201.
+Trâm không quay lại phòng 201 trong mấy ngày đó. Mẹ nó từ quê lên, sau buổi làm việc đã xin cho con ở tạm nhà người thân và nghỉ học ít hôm.
 
-Gia đình được thông báo. Mẹ nó từ quê lên trong ngày, sau buổi làm việc đã xin cho con tạm nghỉ học và ở nhà người thân. Trâm đồng ý tiếp tục cung cấp lời khai.
+Trước khi đi, Trâm gặp riêng Quỳnh ở phòng y tế.
 
-Trước khi đi, nó gặp riêng Quỳnh ở phòng y tế.
+Nó gầy đi thấy rõ, mới vài hôm mà hai má đã hóp xuống. Hai đứa ngồi đối diện nhau một lúc lâu, chẳng ai biết bắt đầu từ đâu.
 
-Trâm gầy đi chỉ trong mấy ngày.
-
-Nó ngồi mép giường, hai tay để trên đầu gối.
+Cuối cùng Trâm nói:
 
 — Tao xin lỗi.
 
-Quỳnh kéo ghế ngồi đối diện.
+Quỳnh nhìn nó.
 
-— Vì cái gì?
+— Tao biết.
 
-Trâm cười, mắt đỏ.
+— Không, ý tao là… nhiều chuyện lắm.
 
-— Mày muốn tao kể danh sách hả?
+— Thì tao cũng chưa biết nên giận mày chuyện nào trước.
 
-— Không. Tao hỏi thiệt.
+Trâm cười được một tiếng rất nhỏ, mắt đỏ lên.
 
-Trâm nhìn xuống.
+— Nghe vậy còn dễ chịu hơn mày bảo “không sao”.
 
-— Vì tao biết có lúc mày sợ tới mất ngủ mà tao vẫn làm.
+Quỳnh cúi nhìn hai bàn tay mình.
 
-— Tại sao mày tin anh mày dữ vậy?
+— Cái tao không hiểu là sao mày tin anh Tùng dữ vậy.
 
-— Ổng là anh tao.
+Trâm im một lúc rồi đáp:
 
-Một câu đơn giản.
+— Vì ảnh là anh tao.
 
-Sau đó Trâm kể.
+Nó nói đơn giản, như thể chuyện đó vốn đủ để giải thích. Rồi Trâm kể thêm, từng đoạn không theo thứ tự: cha thường xuyên đi làm xa, mẹ bán hàng ngoài chợ, Tùng hơn nó năm tuổi nhưng từ nhỏ gần như kiêm luôn nửa vai người lớn trong nhà. Hắn chở nó đi học, đánh nhau với mấy đứa bắt nạt em, giấu mẹ khi nó làm bể cửa kính, dành tiền mua cho nó chiếc điện thoại đầu tiên.
 
-Cha hay đi làm xa. Mẹ bán hàng ngoài chợ. Tùng hơn nó năm tuổi, từ nhỏ là người chở nó đi học, đánh nhau với mấy đứa bắt nạt, giấu mẹ khi nó làm bể cửa kính, lấy tiền tiết kiệm mua cho nó chiếc điện thoại đầu tiên.
+— Nên lúc ảnh nói anh Quân làm chị Trang chết, tao tin — Trâm nói. — Tao không nghĩ ảnh có lý do gì để bịa với tao.
 
-— Khi một người đã cứu mày cả trăm lần, rất khó tin lần thứ một trăm lẻ một họ đang kéo mày xuống nước. — Trâm nói.
+Quỳnh không tranh luận. Nếu một người đã ở cạnh mình từ bé trong mọi ký ức tốt đẹp, rất khó để chỉ sau vài ngày chấp nhận rằng chính người đó có thể đang lợi dụng mình.
 
-Quỳnh im.
+— Còn gì mày chưa kể chú Phúc không?
 
-Nó sẽ nhớ câu đó rất lâu.
+Trâm lắc đầu trước, rồi khựng lại.
 
-— Mày còn biết gì chưa kể không?
+— Có một chuyện tao không biết có quan trọng không.
 
-Trâm lắc đầu, rồi chợt dừng.
+— Cứ nói đi.
 
-— Có một chuyện.
+— Anh Tùng có cuốn sổ nhỏ màu đen. Không phải cái nhật ký giả. Trong đó toàn mấy hình vẽ bùa bùa gì đó với mấy đoạn ảnh chép từ sách. Ảnh hay gọi đùa là “sách sai khiến”.
 
-— Gì?
+— Ảnh tin mấy cái đó hả?
 
-— Anh Tùng có một cuốn sổ nhỏ màu đen. Không phải nhật ký. Toàn hình vẽ kỳ quặc với mấy câu chữ Hán ảnh chép đâu đó. Ảnh hay gọi đùa là “sách sai khiến”.
+— Tao không biết. Ảnh thích tâm lý, thôi miên từ hồi cấp ba, sau này lại đọc thêm mấy thứ dân gian. Có lúc ảnh nói bùa thật hay không không quan trọng, người ta tin nó đủ thì tự làm phần còn lại.
 
-— Bùa?
+Quỳnh ngồi thẳng lên.
 
-— Tao không biết. Hồi nhỏ ảnh đã thích mấy chuyện tâm lý với thôi miên. Sau này lại tìm mấy thứ dân gian. Ảnh từng nói con người sợ cái gì đủ lâu thì tự biến nó thành thật.
+— Ảnh từng dùng với ai chưa?
 
-— Ảnh dùng với ai?
+Trâm cắn môi.
 
-Trâm nhìn Quỳnh.
-
-— Có lần ảnh nhắc chị Quyên.
-
-Quỳnh ngồi thẳng.
+— Tao nhớ có lần ảnh nhắc chị Quyên.
 
 — Nói gì?
 
-— Ảnh nói kiểu... “Con bé đó chỉ cần đẩy một chút là tự đi tới chỗ mình muốn.” Tao tưởng ảnh nói tâm lý.
+— Khoảng năm 2009. Ảnh nói con bé đó… kiểu như chỉ cần dọa thêm chút là tự đi tới đúng chỗ ảnh muốn. Tao hồi đó nhỏ, cứ tưởng ảnh đang nói mấy bài tâm lý.
 
-— Khi nào?
+— Trước hay sau khi Quyên chết?
 
-— Năm 2009. Trước khi chị Quyên chết vài tuần.
+— Trước. Chắc vài tuần.
 
-Một khoảng lạnh lan trong phòng.
-
-Quỳnh không hỏi thêm.
-
-Nó gọi ông Phúc.
+Quỳnh không hỏi thêm. Nó đứng lên đi tìm ông Phúc ngay.
 
 ***
 
-Chiều 13 tháng 9, Quân tìm thấy cuốn sổ đen.
+Chiều 13 tháng 9, Quân gọi báo đã tìm thấy cuốn sổ đen.
 
-Không phải trong nhà Tùng.
+Không phải ở nhà Tùng.
 
-Trong phòng trọ của chính mình.
+Nó nằm trong phòng trọ của chính Quân, kẹt sau mannequin giữa tường và tấm ván đỡ. Quân nói chắc chắn chỗ đó trước đây không có gì nên không chạm vào, chỉ gọi công an tới.
 
-Nó nằm sau chiếc mannequin, kẹt giữa tường và tấm ván đỡ, nơi Quân khẳng định chưa từng để gì.
+Trong cuốn sổ là những ghi chép lẫn lộn: phản ứng sợ hãi, mất ngủ, ám thị lặp, liều thuốc an thần; xen giữa là hình bùa chú chép từ những cuốn sách dân gian, vài trang viết chữ Hán mà Tùng có vẻ chỉ sao lại chứ không hiểu hết. Có một mục đề “thôi tâm” bằng mực đỏ.
 
-Anh không chạm vào.
+Công an không coi những hình đó là bằng chứng của năng lực siêu nhiên.
 
-Gọi công an ngay.
-
-Trong sổ có những đoạn ghi về phản ứng sợ hãi, mất ngủ, ám thị lặp, chất an thần, tiếng động theo giờ cố định. Xen giữa là những hình vẽ bùa chú chép từ sách dân gian, có trang đề “thôi tâm” bằng mực đỏ.
-
-Không có câu thần chú nào được công an coi như bằng chứng về năng lực siêu nhiên.
-
-Nhưng có tên người.
+Nhưng tên người thì có giá trị khác.
 
 Quyên.
 
@@ -192,495 +134,357 @@ Quân.
 
 Trang.
 
-Và gần cuối:
+Và gần cuối là Quỳnh.
 
-Quỳnh.
+Ông Phúc không đưa cuốn sổ cho Quỳnh xem. Ông chỉ hỏi nó đã kể cho Tùng bao nhiêu về lần Quyên xuất hiện.
 
-Ông Phúc không cho Quỳnh xem cuốn sổ.
+— Cháu có kể là thấy chị Quyên trong phòng, nhưng không kể hết.
 
-Ông chỉ hỏi:
-
-— Cháu có từng kể cho Tùng chuyện Quyên xuất hiện trong phòng không?
-
-— Có. Hôm gặp ở quán cháu có nói sơ.
-
-— Chi tiết nửa sọ?
+— Có kể máu ở mắt không?
 
 — Không.
 
-— Máu ở mắt?
+— Cổ bị lệch, tóc bị kéo về phía quạt?
+
+Quỳnh lắc đầu.
 
 — Không.
 
-— Câu “đổi giường”?
+— Câu bảo đổi giường?
 
-Quỳnh nghĩ.
+— Cháu có kể anh Quân. Anh Quân có nói lại không thì…
 
-— Em có kể anh Quân sau đó. Không nhớ anh Quân có nói với Tùng không.
+— Anh không nói — Quân chen vào.
 
-Quân lắc đầu.
+Ông Phúc ghi một dòng.
 
-— Anh không nói.
+Quỳnh nhìn ông.
 
-Ông Phúc ghi.
+— Trong sổ có mấy chi tiết đó hả chú?
 
-Quỳnh hỏi:
+Ông không trả lời thẳng.
 
-— Trong sổ có mấy cái đó?
+— Có vài chi tiết về cái chết của Quyên mà hồ sơ trường ngày trước không công khai.
 
-Ông không trả lời trực tiếp.
+— Vậy Tùng biết.
 
-— Có những chi tiết về cách Quyên chết mà báo trường ngày trước không công khai.
+— Đúng. Nhưng vẫn phải hỏi cậu ta biết bằng cách nào.
 
-— Nghĩa là Tùng biết.
-
-— Nghĩa là cần hỏi Tùng biết từ đâu.
-
-Vẫn cẩn thận đến khó chịu.
-
-Nhưng Quỳnh bắt đầu hiểu vì sao cần sự khó chịu đó.
+Cách nói cẩn thận ấy từng khiến Quỳnh bực. Bây giờ nó bắt đầu thấy biết ơn.
 
 ***
 
-Ngày 14 tháng 9, trời đổ mưa từ chiều.
+Ngày 14 tháng 9, trời đổ mưa lớn từ chiều.
 
-Không phải mưa bụi.
+Không còn thứ mưa bụi dai dẳng mấy ngày đầu. Mây đen kéo từ phía đồi về, gió quật những tán phượng nghiêng hẳn sang một bên. Tới tối, sân trường đã ngập một lớp nước mỏng; sét đánh ở đâu đó xa, tiếng nổ lăn trên mái nhà.
 
-Là mưa lớn thật sự.
+Năm năm trước, vào đúng đêm này, Trang vẫn còn sống.
 
-Mây đen kéo từ phía đồi về, gió đập những tán phượng nghiêng ngả. Đến sáu giờ, sân trường ngập một lớp nước mỏng. Sét đánh ở đâu đó phía xa, tiếng nổ lăn qua mái nhà như một chiếc thùng kim loại khổng lồ bị kéo trên trời.
+19 giờ 32, điện thoại Quỳnh rung.
 
-Đúng năm năm trước, cũng khoảng những ngày này Trang còn sống.
-
-Đêm đó là đêm cuối cùng trước ngày cô chết.
-
-Quỳnh không thích nghĩ tới chuyện ấy.
-
-19:32, điện thoại nó rung.
-
-Tin nhắn từ số lạ.
+Một số lạ gửi tới:
 
 “Muốn nghe chính miệng người giết Trang nói thật không?”
 
-Quỳnh không trả lời.
+Quỳnh không trả lời. Nó chụp màn hình rồi gọi ông Phúc.
 
-Nó chụp màn hình, gọi ông Phúc.
-
-Hai phút sau có tin thứ hai.
+Hai phút sau có tin nữa:
 
 “03:07. Chỗ cũ.”
 
-Rồi:
+Rồi một dòng khác:
 
-“Đi cùng công an thì không có gì để nghe.”
+“Đi với công an thì khỏi tới.”
 
-Ông Phúc tới trường lúc tám giờ mười.
+Ông Phúc có mặt ở trường chưa tới một giờ sau. Quân cũng tới. Cuộc nói chuyện diễn ra trong phòng hiệu phó, trên bàn trải sơ đồ khu vườn sau ký túc.
 
-Quân cũng tới.
+— Không đi — Quân nói ngay khi nghe ý định dùng cuộc hẹn để kéo Tùng ra.
 
-Cuộc trao đổi diễn ra trong phòng hiệu phó, cửa đóng.
+Quỳnh khoanh tay.
 
-— Không đi. — Quân nói trước.
+— Nếu em không ra nó chưa chắc xuất hiện.
 
-— Nếu không đi, Tùng không ra. — Quỳnh đáp.
-
-— Không cần nó ra theo cách này. Công an đang tìm.
-
-— Ảnh đã trốn năm ngày.
-
-— Và em nghĩ em là mồi tốt nên hào hứng hả?
-
-— Em không hào hứng.
-
-— Vậy càng không đi.
-
-Quỳnh quay sang ông Phúc.
-
-— Chú nghĩ sao?
-
-Ông không trả lời ngay.
-
-Trên bàn là sơ đồ khu sau ký túc, vị trí cây, tường, cổng phụ.
-
-— Nếu chỉ để nghe nó nói, không đáng đánh đổi an toàn của cháu. — ông nói. — Nhưng chúng ta có thể chủ động phát một thông tin khiến nó tin mình đang làm theo yêu cầu trong khi thực tế khu vực đã kiểm soát.
-
-Quân cau mày.
-
-— Anh định cho nó ra thật?
-
-— Không phải “cho”. Nếu Tùng chủ động liên hệ một nhân chứng vị thành niên, đang có căn cứ liên quan việc bỏ thuốc và đột nhập, chúng tôi cần bắt cậu ta. Vấn đề là làm thế nào giảm rủi ro.
-
-Quỳnh nhìn sơ đồ.
-
-— Cháu có cần ra không?
-
-— Không đứng một mình, không tới sát cây trước khi có tín hiệu, và sẽ có người ở gần.
-
-Quân lắc đầu.
-
-— Em nó không phải công cụ.
-
-Ông Phúc nhìn Quân.
-
-— Tôi đồng ý. Vì vậy nếu Quỳnh không muốn, kế hoạch dừng.
-
-Hai người nhìn Quỳnh.
-
-Quỳnh sợ.
-
-Nó không cần giả vờ không sợ.
-
-Từ ngày vào phòng 201, có quá nhiều lúc Quỳnh làm việc vì tò mò rồi mới biết mình sợ sau. Lần này ngược lại. Nó biết rõ mình sợ từ đầu.
-
-Nhưng nó cũng biết nếu Tùng tiếp tục ngoài kia, Trâm, Quân và những người trong phòng vẫn là mục tiêu.
-
-— Cháu đi. — nó nói.
-
-Quân nhắm mắt.
-
-— Anh ghét em.
+— Thì công an tìm cách khác. Em có phải mồi câu đâu.
 
 — Em biết.
 
-— Xong vụ này về nhà anh méc mẹ.
+— Biết mà còn muốn ra?
 
-— Anh méc em méc lại anh hút thuốc.
+— Em không muốn. Nhưng nếu nó cứ trốn thì Trâm với cả phòng vẫn chưa yên.
+
+Quân định nói tiếp, ông Phúc giơ tay ngăn hai anh em.
+
+— Không ai ép Quỳnh đi. Nếu cháu không muốn, dừng ở đây. Nhưng nếu cháu đồng ý xuất hiện trong khu vực kiểm soát, chúng ta có thể dùng cuộc hẹn này để xác định và bắt Tùng. Cháu sẽ không đứng một mình, không đi sát cây nếu chưa có chỉ dẫn, và có người ở nhiều hướng.
+
+Quân nhìn ông.
+
+— Tôi vẫn không thích.
+
+— Tôi cũng không thích dùng người chưa đủ mười tám tuổi trong tình huống này. Vì vậy nếu có phương án ít rủi ro hơn, tôi sẽ chọn ngay.
+
+Ông quay sang Quỳnh.
+
+— Cháu quyết định. Không phải anh cháu, cũng không phải chú.
+
+Quỳnh sợ. Lần này nó biết mình sợ trước khi bước vào, không giống những lần tò mò xong mới nhận ra đã đi quá xa.
+
+Nó nhìn Quân.
+
+— Em đi.
+
+Quân nhắm mắt, thở mạnh qua mũi.
+
+— Xong vụ này anh méc mẹ hết.
+
+— Anh méc thì em méc lại chuyện anh hút thuốc.
 
 Quân mở mắt.
 
-— Anh bỏ rồi.
+— Anh bỏ lâu rồi.
 
 — Em có ảnh cũ.
 
 Ông Phúc day trán.
 
-— Hai anh em giải quyết gia đình sau.
+— Được rồi. Chuyện gia đình để mai xử.
+
+Một câu rất bình thường, nhưng làm Quỳnh bớt run hơn một chút.
 
 ***
 
-Kế hoạch không giống phim.
+Kế hoạch thực tế đơn giản hơn những gì Quỳnh tưởng tượng.
 
-Không có tai nghe nhỏ giấu trong tóc vì mưa dễ làm thiết bị hỏng.
+Không có tai nghe giấu trong tóc. Mưa và khoảng cách khiến thiết bị không ổn định. Nó chỉ mặc áo mưa, trong túi có máy ghi âm bọc chống nước. Một nữ cán bộ ở nhà kho dụng cụ cách đó hơn ba mươi mét, hai người khác chốt gần lối tường sau. Ông Phúc ở phía dãy ký túc để quan sát lối chính.
 
-Quỳnh mặc áo mưa, trong túi áo có máy ghi âm nhỏ được bọc chống nước. Một cán bộ nữ mặc thường phục đứng trong nhà kho dụng cụ cách đó hơn ba mươi mét. Hai người khác ở phía cổng sau. Ông Phúc ở dãy ký túc, nơi có thể quan sát lối chính.
+Quân được yêu cầu ở trong nhà cho tới khi có chỉ thị.
 
-Quân được yêu cầu không xuất hiện trừ khi Tùng yêu cầu.
-
-Anh không vui nhưng chấp nhận.
+Anh không vui, nhưng đồng ý.
 
 02:48.
 
-Mưa giảm.
+Mưa đã nhẹ hơn, chỉ còn lộp bộp trên mái tôn. Quỳnh đứng dưới mái che kho, nhìn cây chôm chôm phía cuối vườn như một khối đen đặc dưới trời không trăng.
 
-Chỉ còn rơi lộp bộp trên mái tôn.
+02:57. Không ai.
 
-Quỳnh bước ra cửa sau.
+03:01. Điện thoại vẫn im.
 
-Mùi đất ướt tràn lên.
-
-Cây chôm chôm phía cuối vườn hiện thành một khối đen dưới trời không trăng.
-
-02:57.
-
-Không ai.
-
-03:01.
-
-Quỳnh đứng dưới mái che kho, chưa tiến thêm.
-
-Điện thoại rung.
+Tới 03:03, màn hình sáng lên.
 
 “Ra cây.”
 
-Quỳnh nhắn:
+Quỳnh nhắn lại:
 
 “Anh là ai?”
 
 “Người biết anh mày làm gì Trang.”
 
-Quỳnh gõ:
+“Nói ở đây đi.”
 
-“Nói ở đây.”
+Ba chấm hiện lên rồi mất.
 
-Ba chấm hiện rồi mất.
+“Không dám thì về.”
 
-Tin nhắn tới:
+Quỳnh gần như nghe được giọng Tùng qua dòng chữ. Nó không đáp.
 
-“Không đủ gan thì về.”
+Hai phút sau, một người bước ra khỏi vùng tối phía sau cây.
 
-Một câu cố tình chọc.
+Tùng.
 
-Quỳnh gần như nghe được giọng Tùng.
+Hắn không mặc áo mưa, chỉ có áo khoác đen ướt sũng ở vai. Hai tay để trống, tóc dính lên trán. Hắn đứng đúng khu đất từng chôn Trang năm năm trước.
 
-Nó không đáp.
+— Anh tưởng em sẽ không tới — Tùng nói.
 
-03:05.
+Quỳnh vẫn đứng cách xa.
 
-Một bóng người bước ra từ phía sau cây.
+— Chị Như đâu?
 
-Không áo mưa.
+Khóe miệng Tùng nhấc lên.
 
-Tùng mặc áo khoác đen, tóc ướt, hai tay trống.
-
-Hắn đứng đúng nơi Trang từng bị chôn cách đây năm năm.
-
-— Em khôn hơn anh nghĩ. — Tùng nói.
-
-Quỳnh không tiến thêm.
-
-— Anh Như đâu?
-
-Tùng cười.
-
-— Gặp nhau mà hỏi người yêu anh trước, kỳ vậy.
+— Gặp anh mà câu đầu hỏi người yêu anh hả?
 
 — Công an đang tìm hai người.
 
 — Anh biết.
 
-— Vậy sao còn tới?
+— Biết mà còn tới?
 
-— Vì có chuyện phải kết thúc đúng chỗ nó bắt đầu.
+Tùng nhìn cây chôm chôm rồi cười rất nhạt.
 
-Quỳnh nghe câu đó và thấy buồn cười theo một cách lạnh lẽo.
+— Có mấy chuyện để lâu quá rồi. Anh muốn nói một lần cho xong.
 
-Người ta khi muốn làm điều tồi tệ thường rất thích tự cho nó một câu nghe có ý nghĩa.
+Quỳnh nghe câu ấy và nghĩ người ta rất thích tìm một cách nói đẹp cho những việc mình đã làm xấu.
 
-— Chuyện gì bắt đầu ở đây?
+— Vậy nói đi.
 
-Tùng nhìn cây.
+Tùng nhìn nó.
 
-— Em không biết à?
+— Em vẫn nghĩ Quân vô tội à?
 
-— Em biết Trang chết ở đây.
+— Em nghĩ cuốn nhật ký giả.
 
-— Không. — Tùng nói. — Anh nói chuyện giữa Trang và Quân.
-
-— Anh lại muốn em nghi anh Quân.
-
-— Vì nó đáng bị nghi.
-
-— Nhật ký giả rồi.
-
-Nụ cười Tùng mỏng đi.
+Nụ cười trên mặt hắn mỏng đi.
 
 — Ai nói?
 
-— Người giám định.
+— Người giám định. Có trang bị viết thêm.
 
-— Giả vài trang không có nghĩa mọi thứ giả.
+— Viết thêm vài trang không có nghĩa tất cả đều sai.
 
-— Anh biết trang nào giả?
+Quỳnh bắt được ngay cách hắn nói.
 
-Tùng im.
+— Anh biết trang nào bị viết thêm hả?
 
-Quỳnh tiếp:
+Tùng im một nhịp.
 
-— Anh nói với em ở quán rằng anh chỉ biết Trang có thai sau khám nghiệm.
+— Anh đoán.
 
-Không biểu cảm.
+— Hôm ở quán anh còn nói anh chỉ biết Trang có thai sau khi khám nghiệm.
 
-Nhưng Tùng không cười nữa.
+Lần này hắn không cười nữa.
 
-— Trâm nói chính anh đưa thông tin cái thai để Như viết nhật ký.
+— Trâm nói chính anh kể chuyện cái thai cho Như để viết sổ. Vậy anh biết từ đâu?
 
-Mưa rơi từ lá cây xuống vai hắn.
+— Sau này anh tìm hiểu.
 
-— Nó hoảng nên nói lung tung.
-
-— Vậy anh biết từ đâu?
-
-— Sau này tìm hiểu.
-
-— Tìm ở đâu?
+— Ở đâu?
 
 — Hồ sơ.
 
-— Hồ sơ công an không phát cho anh.
+— Hồ sơ công an đâu có đưa cho anh.
 
 — Quân kể.
 
 — Anh Quân nói không.
 
-Tùng bật cười.
+Tùng bật cười, nhưng nụ cười nghe mệt.
 
-— Em tin anh mày hơn anh?
+— Em tin anh mày tới vậy hả?
 
-— Không. Em đang đối chiếu.
+— Không. Em hỏi cả hai rồi coi câu nào khớp.
 
-Một tia chớp lóe xa.
+Một tia chớp lóe ở xa, soi rõ khuôn mặt Tùng trong một khoảnh khắc.
 
-Quỳnh nhìn tay Tùng.
+Hắn nói:
 
-Không có vũ khí.
+— Trang tự nói với anh.
 
-Nhưng hắn đứng quá gần phần tối sau cây.
-
-— Trang nói với anh. — Tùng bất ngờ nói.
-
-Quỳnh giữ mặt bình thường.
+Quỳnh không đáp ngay.
 
 — Khi nào?
 
 — Trước khi chết.
 
-— Vậy lúc nãy anh nói tìm từ hồ sơ.
+— Vậy sao nãy anh nói biết từ hồ sơ?
 
-Tùng nhận ra.
+Tùng nhận ra mình vừa tự đẩy vào góc. Chỉ trễ một nhịp, nhưng đủ.
 
-Muộn một nhịp.
+— Anh không muốn kể chuyện riêng của Trang cho em.
 
-— Anh không muốn kể chuyện riêng của người chết cho em.
+— Nhưng anh lại dựng cả cuốn nhật ký giả về chuyện riêng của chị ấy.
 
-— Nhưng anh đã dựng cả cuốn nhật ký riêng của người chết.
+Hai người nhìn nhau trong mưa.
 
-Tùng nhìn Quỳnh.
+Lần đầu tiên từ khi quen, Quỳnh thấy Tùng thôi cố tạo cảm giác dễ gần. Không có sự biến đổi kịch tính nào trên mặt hắn. Chỉ là nét cười biến mất, giọng cũng không còn mềm nữa.
 
-Lần đầu tiên đôi mắt dễ tạo thiện cảm biến mất.
+— Em giống Quân ghê — hắn nói.
 
-Không phải biến thành mắt quỷ.
+— Giống chỗ nào?
 
-Chỉ là một người ngừng diễn thân thiện.
+— Cứ nghĩ hỏi nhiều là mình hiểu người khác.
 
-— Em giống Quân. — hắn nói.
-
-— Chỗ nào?
-
-— Nghĩ mình thông minh vì hỏi nhiều.
-
-— Anh gặp Trang đêm 14 không?
+— Anh gặp Trang đêm 14 đúng không?
 
 — Không.
 
-— Chị ấy nói có thai bằng cách nào?
+— Vậy chị ấy báo có thai cho anh bằng cách nào? Gọi điện? Hay gặp trực tiếp?
 
-Im.
+Tùng bước lên một bước.
 
-— Điện thoại?
+Quỳnh không lùi. Máy ghi âm trong túi vẫn chạy.
 
-Im.
+— Em muốn nghe sự thật dữ vậy à?
 
-— Gặp trực tiếp?
-
-Tùng bước một bước về phía trước.
-
-Quỳnh không lùi.
-
-Trong túi áo, máy ghi âm vẫn chạy.
-
-— Em muốn sự thật đúng không? — hắn hỏi.
-
-— Có.
+— Ừ.
 
 — Gọi Quân ra.
 
 — Tại sao?
 
-— Vì sự thật của nó thì nó nên nghe.
+— Vì chuyện này là chuyện của nó trước khi là chuyện của em.
 
 Quỳnh không gọi.
 
-Tùng lấy từ túi áo một vật nhỏ.
+Tùng thò tay vào túi, lấy ra một con búp bê vải đen nhỏ, cổ quấn chỉ đỏ. Nó giống kiểu hình Trâm từng tả trong cuốn sổ.
 
-Một con búp bê vải đen, quấn chỉ đỏ quanh cổ.
+Quỳnh nhìn món đồ.
 
-Quỳnh nhận ra kiểu hình trong lời Trâm kể về cuốn sổ “sai khiến”.
+— Cái này để làm gì?
 
-— Anh nghĩ cái này điều khiển được anh Quân?
+— Em nghĩ con người chỉ sợ thứ họ nhìn thấy thôi hả?
 
-Tùng mỉm cười.
+— Em không biết. Nhưng em biết chị Quyên chết sau khi anh dọa chị ấy nhiều tuần.
 
-— Em nghĩ sợ hãi chỉ nằm trong đầu à?
+Tùng nhìn nó rất nhanh.
 
-— Phần lớn có.
+— Quyên yếu sẵn rồi.
 
-— Vậy Quyên chết thế nào?
+Quỳnh đứng yên.
 
-Câu đó tới quá nhanh.
+— Anh biết tại sao chị ấy chết?
 
-Quỳnh nhìn hắn.
+Tùng khựng lại.
 
-Tùng biết mình vừa nói nhiều.
+— Cả trường biết tóc nó bị cuốn vào quạt.
 
-— Anh biết Quyên chết thế nào? — Quỳnh hỏi.
+— Em không hỏi cách chết. Em hỏi tại sao.
 
-— Cả trường biết.
+Hắn siết con búp bê trong tay.
 
-— Không. Anh vừa nói như người biết tại sao chị ấy làm vậy.
+— Anh không hề chạm vào nó.
 
-Tùng siết con búp bê.
+— Em cũng đâu hỏi anh có chạm không.
 
-— Nó yếu.
+Khoảng lặng giữa hai người chỉ kéo dài một giây, nhưng Quỳnh biết mình đã đụng đúng chỗ.
 
-— Anh làm gì chị Quyên?
-
-— Anh không chạm nó.
-
-— Em đâu hỏi anh có chạm không.
-
-Một khoảng im.
-
-Rất ngắn.
-
-Nhưng đủ.
-
-Từ phía dãy ký túc, có tiếng kim loại va nhẹ.
+Từ phía ký túc vang lên tiếng kim loại va rất nhẹ.
 
 Tùng quay đầu.
 
-Hắn hiểu.
+Khi nhìn lại Quỳnh, hắn đã hiểu.
 
-— Công an.
+— Có công an.
 
 Quỳnh lùi một bước.
 
-— Đứng yên đi anh.
+— Anh đứng yên đi.
 
 Tùng lao tới.
 
 Nhanh hơn Quỳnh tưởng.
 
-Hắn không lao vào nó.
+Hắn không đâm thẳng vào nó mà chụp cổ tay, kéo Quỳnh ép về phía thân cây, tay kia rút một con dao gấp nhỏ giấu sau lưng quần.
 
-Hắn chụp cổ tay, kéo Quỳnh về phía cây rồi rút từ lưng quần một con dao gấp nhỏ.
+Tiếng ông Phúc quát từ phía trước:
 
-Tiếng ông Phúc quát vang lên:
+— Tùng! Bỏ dao xuống!
 
-— Bỏ dao!
+Đèn pin bật sáng từ nhiều hướng.
 
-Đèn pin bật sáng từ ba hướng.
+Tùng ghì Quỳnh sát trước ngực. Lưỡi dao không kề cổ mà giữ gần vai, đủ gần để mọi người phải dừng lại nhưng vẫn cho hắn khoảng kiểm soát.
 
-Tùng ghì Quỳnh trước ngực.
+— Lùi hết! — hắn hét.
 
-Lưỡi dao sát bên vai, không kề cổ.
+Ông Phúc đứng cách hơn mười mét.
 
-Một chi tiết nhỏ nhưng Quỳnh nhận ra hắn vẫn còn tính toán: kề cổ dễ mất kiểm soát, sát vai đủ làm mọi người chậm lại.
-
-— Lùi! — Tùng hét.
-
-Ông Phúc dừng cách hơn mười mét.
-
-— Tùng, bỏ dao. Không ai tiến.
+— Không ai tiến. Cậu bình tĩnh, bỏ dao xuống rồi nói chuyện.
 
 — Kêu Quân ra!
 
-— Quân không liên quan việc này.
+— Quân không cần vào đây.
 
 — KÊU NÓ RA!
 
-Tùng thở gấp.
-
-Quỳnh cảm nhận ngực hắn phập phồng sau lưng.
-
-Mùi mưa.
-
-Mùi mồ hôi.
-
-Và một mùi rất nhẹ giống khói nhang.
-
-Búp bê vải rơi dưới đất.
-
-Tùng nhìn về phía dãy nhà.
+Ngực Tùng phập phồng sau lưng Quỳnh. Mùi mưa, mồ hôi và một chút khói nhang trộn lại. Con búp bê rơi xuống đất dưới chân.
 
 — Quân! Tao biết mày ở đó!
 
@@ -688,280 +492,200 @@ Một bóng người bước khỏi mái hiên.
 
 Quân.
 
-Ông Phúc quay lại:
+Ông Phúc quay lại, giọng bực thấy rõ:
 
 — Tôi đã bảo cậu ở trong.
 
-— Nó đang giữ em tôi.
+— Nó đang giữ em tôi. Tôi đứng trong sao được.
 
-— Cậu ra làm tình hình xấu hơn.
+— Cậu ra làm nó kích động hơn.
 
-— Em biết.
+— Tôi biết.
 
-Quân vẫn bước tới một đoạn rồi dừng.
+Quân dừng lại khi còn cách khá xa, hai tay để trống cho Tùng nhìn thấy.
 
 Tùng cười.
 
-— Cuối cùng cũng chịu ra.
+— Cuối cùng mày cũng chịu ra.
 
-— Thả Quỳnh.
+— Thả Quỳnh trước đã.
 
 — Mày còn nhớ Trang không?
 
+Quân nhìn hắn.
+
 — Ngày nào tao cũng nhớ.
 
-Nụ cười Tùng biến mất.
+Nụ cười trên mặt Tùng tắt hẳn.
 
 — Mày không xứng.
 
-— Có thể. Nhưng tao không giết cô ấy.
+Quân hít một hơi.
 
-— Mày bỏ cô ấy.
+— Có thể. Tao bỏ Trang lúc cô ấy cần tao, chuyện đó tao nhận. Tao ghen, tao nghĩ bậy rồi chia tay. Nhưng tao không giết cô ấy.
 
-— Ừ.
+Tùng siết tay. Lưỡi dao rung rất nhẹ sát vai Quỳnh.
 
-Quân trả lời thẳng.
+Quân thấy, lập tức im.
 
-— Tao bỏ vì tao nghĩ cô ấy thích người khác. Tao ghen, tao ngu. Tao đã sống với chuyện đó năm năm. Nhưng tao không giết Trang.
+Quỳnh nói nhỏ, đủ để Tùng nghe:
 
-Tùng siết tay.
+— Trang nói với anh chuyện có thai lúc nào?
 
-Lưỡi dao rung nhẹ.
-
-Quân nhìn thấy, dừng nói.
-
-Quỳnh hỏi rất nhỏ:
-
-— Trang nói có thai với anh lúc nào?
-
-Tùng ghì nó mạnh hơn.
-
-— Im.
+— Im đi.
 
 — Chị ấy tin anh nên mới nói đúng không?
 
-— Im.
+— Tao nói im!
 
-— Anh nói anh luôn đứng về phía chị ấy.
+— Trong thư anh viết lúc anh Quân không đứng về phía chị ấy thì vẫn còn anh.
 
-Tùng giật mình.
+Tùng giật nhẹ.
 
-Lá thư.
+Quỳnh cảm nhận được qua cánh tay đang ghì mình.
 
-Quỳnh tiếp:
+— Chị Trang từ chối anh hả?
 
-— Chị ấy từ chối anh?
+— Mày biết cái gì mà hỏi?
 
-— Mày không biết gì hết.
+— Vậy anh kể đi.
 
-— Vậy nói đi.
+Tùng thở gấp.
 
-— Nó chọn thằng khác.
+— Nó lúc nào cũng chọn người khác.
 
 — Ai?
 
 — Không quan trọng!
 
-Tùng gào.
+Giọng hắn bật cao lên lần đầu tiên.
 
-Tiếng đó bật ra không giống một người đang kiểm soát.
+— Tao mới là người ở bên nó lúc thằng Quân bỏ đi. Tao nghe nó khóc, tao giúp nó. Nhưng nó cứ coi tao như thằng đi theo Quân, như tao chẳng là cái gì hết!
 
-— Tao mới là người ở bên nó. Tao mới là người biết nó cần gì. Vậy mà nó coi tao như thằng đi theo Quân!
+Mặt Quân trắng đi.
 
-Quân mặt trắng đi.
+Quỳnh hỏi, lần này gần như thì thầm:
 
-Quỳnh nghe tim mình đập trong tai.
-
-— Đứa bé là của anh?
+— Đứa bé là của anh đúng không?
 
 Tùng không trả lời.
 
-Không cần.
+Nhưng cả người hắn cứng lại.
 
-Khuôn mặt hắn trả lời trước.
+Ông Phúc nói chậm:
 
-Ông Phúc nói chậm từ phía trước:
+— Tùng, bỏ dao xuống. Cậu muốn nói gì thì về làm việc, chúng tôi ghi đầy đủ. Đừng làm thêm chuyện nữa.
 
-— Tùng. Đặt dao xuống. Những gì cậu cần nói sẽ được ghi nhận đúng trình tự.
+Tùng bật cười, âm thanh méo đi vì hụt hơi.
 
-Tùng cười méo.
+— Năm năm trước mấy người cũng “làm việc”, cũng “ghi đầy đủ”. Rồi sao? Có ai biết cái gì đâu.
 
-— Trình tự? Năm năm trước mấy người cũng “trình tự”. Có bắt được ai đâu.
+— Vì khi đó thiếu chứng cứ. Còn bây giờ cậu đang tự đưa ra rất nhiều thứ.
 
-— Vì khi đó chúng tôi thiếu chứng cứ. Bây giờ cậu đang tự tạo thêm.
+Tùng nhìn ông Phúc. Một lúc Quỳnh tưởng hắn dao động thật.
 
-Tùng nhìn ông.
-
-Trong một khoảnh khắc, Quỳnh tưởng hắn sẽ buông.
-
-Rồi một giọng nữ vang lên phía sau cây:
+Rồi phía sau cây có tiếng phụ nữ gọi:
 
 — Tùng!
 
-Như bước ra.
+Như bước ra khỏi vùng tối. Tóc ướt bết vào mặt, trên tay cầm một can nhựa nhỏ. Mùi xăng theo gió tràn tới gần như ngay lập tức.
 
-Tóc ướt dính vào mặt. Tay cầm một can nhựa nhỏ.
+Mọi thứ xảy ra rất nhanh.
 
-Mùi xăng theo gió tràn tới.
+Một cán bộ đổi hướng lao về phía Như. Cô giật can lên, xăng văng xuống bùn. Tùng quay đầu theo phản xạ.
 
-Mọi thứ vỡ ra cùng lúc.
+Quỳnh đạp mạnh gót chân xuống mu bàn chân hắn rồi cúi người. Lưỡi dao quét qua vai áo, chỉ xé lớp vải. Quân lao tới kéo em ra khỏi tay Tùng trong khi ông Phúc và người còn lại áp sát.
 
-Một cán bộ lao về phía Như.
-
-Như giật can lên, xăng văng xuống đất.
-
-Tùng quay đầu.
-
-Quỳnh dùng đúng khoảnh khắc đó đạp mạnh gót chân xuống mu bàn chân hắn rồi cúi người.
-
-Lưỡi dao quét qua vai áo, rạch một đường nhưng không vào da.
-
-Quân lao tới kéo Quỳnh ra.
-
-Ông Phúc và một cán bộ khác áp sát Tùng.
-
-Tùng chống trả, đẩy được một người ngã xuống bùn.
-
-Con dao rơi.
-
-Hắn chụp lại.
+Tùng chống trả, đẩy được một người trượt xuống bùn. Con dao rơi khỏi tay rồi lại bị hắn chụp lấy.
 
 — Anh Tùng!
 
-Tiếng Trâm.
+Tiếng Trâm vang lên ngoài vùng sáng.
 
-Quỳnh quay lại.
-
-Không ai biết Trâm tới từ lúc nào.
-
-Nữ cán bộ phụ trách Trâm chạy phía sau, hét bảo nó dừng lại.
-
-Trâm đứng ngoài vùng sáng, áo mưa chưa cài nút, mặt trắng bệch.
+Quỳnh quay lại. Trâm đứng ở lối vườn, áo mưa chưa cài hết nút, mặt trắng bệch. Nữ cán bộ phụ trách nó chạy theo phía sau, rõ ràng cũng không muốn Trâm lao vào đây.
 
 Tùng nhìn em gái.
 
-Chỉ một nhịp đó.
+Trâm nhìn con dao trong tay anh, nhìn Quỳnh đang được Quân kéo sang một bên, rồi nhìn Như bị giữ cạnh can xăng.
 
-Trâm thấy con dao trong tay anh.
+— Anh bỏ dao đi — nó nói.
 
-Thấy Quỳnh dưới đất.
+— Trâm, lại đây với anh.
 
-Thấy Như bị giữ bên cạnh can xăng.
+— Anh bỏ xuống trước đi.
 
-Nó bước tới.
+— Lại đây!
 
-— Anh bỏ dao đi.
+Trâm lắc đầu. Giọng nó run nhưng không lùi.
 
-— Trâm, qua đây.
-
-— Bỏ dao.
-
-— Qua đây với anh.
-
-— Anh nói chỉ dọa họ thôi.
-
-Tùng không trả lời.
-
-— Anh nói anh Quân giết chị Trang.
+— Anh nói với em chỉ dọa họ thôi. Anh nói anh Quân làm chị Trang chết.
 
 — Nó hại Trang!
 
-— Nhưng anh làm chị ấy có thai đúng không?
+— Nhưng đứa bé là của anh đúng không?
 
-Mưa rơi nặng hạt trở lại.
+Tùng không trả lời.
 
-Tùng đứng im.
-
-Trâm nhìn khuôn mặt anh trai.
-
-Có những lời nói dối chỉ sống được vì người ta không dám hỏi câu cuối cùng.
-
-Trâm vừa hỏi.
-
-Và sự im lặng giết nó.
+Mưa bắt đầu nặng hạt trở lại. Trâm nhìn anh trai rất lâu.
 
 — Anh giết chị Trang hả?
 
-— Trâm.
+— Trâm, đừng nghe tụi nó—
 
-— Anh giết hả?
+— Em hỏi anh. Anh có giết không?
 
-— Anh làm tất cả vì—
+— Anh làm mọi thứ vì—
 
-— ĐỪNG NÓI VÌ EM!
+— Đừng nói vì em!
 
-Trâm hét.
+Trâm hét lên. Không phải câu được chuẩn bị sẵn; nó bật ra cùng tiếng khóc.
 
-Tùng bước tới, có lẽ định kéo em.
+Tùng bước về phía em, có lẽ định kéo nó sang. Một cán bộ chặn lại. Hắn vung dao theo phản xạ.
 
-Một cán bộ chặn.
+Trong hỗn loạn, Trâm cúi chụp được chiếc kéo cắt dây rơi từ túi dụng cụ của một cán bộ. Nó lao tới từ phía sau, đâm vào phần lưng vai Tùng.
 
-Tùng vung dao.
+Mũi kéo không vào sâu, nhưng đủ làm cánh tay cầm dao buông lỏng.
 
-Trong cơn hỗn loạn, Trâm chụp được một vật dưới bùn — chiếc kéo cắt dây cán bộ làm rơi từ túi dụng cụ.
+Con dao rơi xuống bùn. Ba người lập tức ghì Tùng nằm sấp, khóa hai tay ra sau.
 
-Nó lao tới từ phía sau.
+Trâm vẫn đứng đó, tay cầm kéo, toàn thân run tới mức chiếc kéo va vào nhau lập cập.
 
-Mũi kéo đâm vào phần lưng vai Tùng.
+— Em xin lỗi…
 
-Không sâu như một nhát dao chí mạng.
+Nó nói nhưng không rõ xin lỗi ai.
 
-Nhưng đủ làm tay hắn buông lỏng.
-
-Con dao rơi xuống.
-
-Ba người lập tức khống chế Tùng xuống đất.
-
-Trâm vẫn đứng đó, tay cầm kéo, toàn thân run.
-
-— Em xin lỗi...
-
-Nó nói.
-
-Không biết xin lỗi ai.
-
-Tùng bị còng tay.
-
-Như cũng vậy.
+Tùng bị còng tay. Như cũng vậy.
 
 03:17.
 
-Mười phút sau giờ Trang chết năm năm trước.
+Quỳnh ngồi dưới mái che kho, Quân quấn khăn quanh vai nó dù lưỡi dao chỉ rạch áo. Trâm được nữ cán bộ giữ vì chân gần như không đứng nổi. Ông Phúc đi ngang qua, quần với tay dính đầy bùn.
 
-Quỳnh ngồi dưới mái che kho, Quân quấn khăn quanh vai nó dù vết rách chỉ nằm trên áo.
+Quỳnh gọi:
 
-Trâm được nữ cán bộ ôm giữ vì chân nó không đứng vững.
+— Chú Phúc.
 
-Ông Phúc đi ngang qua, mặt và quần dính bùn.
+Ông quay lại.
 
-Quỳnh hỏi:
+— Máy ghi âm có được gì không chú?
 
-— Chú ghi âm được không?
-
-Ông lấy chiếc máy nhỏ từ túi áo.
+Ông lấy thiết bị nhỏ khỏi túi áo, nhìn đèn báo rồi gật.
 
 — Được phần lớn.
 
-— Đủ chưa chú?
+— Vậy đủ chưa?
 
-Ông nhìn Tùng đang được đưa đi.
+Ông nhìn Tùng đang được đưa ra cổng.
 
-— Không có vụ án nào nên dựa vào một đêm và một lời thú nhận. Nhưng đủ để chúng ta hỏi đúng những câu tiếp theo.
+— Đủ để bắt đầu hỏi đúng câu. Còn kết luận vụ năm năm trước thì vẫn phải ghép thêm chứng cứ.
 
-Quỳnh gật.
+Quỳnh gật. Nó đã đoán ông sẽ trả lời như vậy.
 
-Nó nhìn cây chôm chôm.
-
-Trong mưa, giữa những người đang chạy qua chạy lại, có một cô gái áo trắng đứng dưới thân cây.
+Khi ngẩng lên nhìn cây chôm chôm, Quỳnh thấy một cô gái áo trắng đứng dưới thân cây giữa những người đang chạy qua lại.
 
 Không ai khác nhìn về phía đó.
 
-Trang không cười.
+Trang không cười. Cô nhìn theo Tùng bị dẫn ra khỏi khu vườn, rồi quay sang Quỳnh và khẽ gật đầu.
 
-Cô chỉ nhìn Tùng bị đưa ra cổng.
+Một tia chớp lóe trắng cả khoảng sân.
 
-Rồi quay sang Quỳnh.
-
-Gật đầu một lần.
-
-Khi chớp sáng lên, dưới cây không còn ai.
+Khi bóng tối trở lại, dưới cây không còn ai.
