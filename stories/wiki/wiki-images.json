@@ -1,0 +1,14 @@
+{
+  "quynh":{"sprite":"assets/cast-sprite.svg","position":"0% 0%"},
+  "huy":{"sprite":"assets/cast-sprite.svg","position":"33.333% 0%"},
+  "lan":{"sprite":"assets/cast-sprite.svg","position":"66.667% 0%"},
+  "thi":{"sprite":"assets/cast-sprite.svg","position":"100% 0%"},
+  "trung":{"sprite":"assets/cast-sprite.svg","position":"0% 50%"},
+  "tram":{"sprite":"assets/cast-sprite.svg","position":"33.333% 50%"},
+  "nhu":{"sprite":"assets/cast-sprite.svg","position":"66.667% 50%"},
+  "tung":{"sprite":"assets/cast-sprite.svg","position":"100% 50%"},
+  "a-ma":{"sprite":"assets/cast-sprite.svg","position":"0% 100%"},
+  "khai":{"sprite":"assets/cast-sprite.svg","position":"33.333% 100%"},
+  "somchai":{"sprite":"assets/cast-sprite.svg","position":"66.667% 100%"},
+  "may":{"sprite":"assets/cast-sprite.svg","position":"100% 100%"}
+}
