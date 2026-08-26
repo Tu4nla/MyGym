@@ -4,8 +4,6 @@ Quỳnh đứng sau một tảng đá cách điểm hẹn hơn ba trăm mét, ng
 
 Thi ở sườn trái cùng tổ tiếp cận. Trung ở tuyến phải với hai cán bộ khác. Quân ở phía sau, không bước lên đồi; một xe được đặt ở vị trí Tùng có thể nhận ra có người tới nếu quan sát từ trên cao. Huy ở điểm chỉ huy cạnh Khải.
 
-Không ai xuất hiện ở đây chỉ vì họ từng có mặt trong những chương trước.
-
 Khải hỏi:
 
 — Nhắc lại giới hạn của cô.
