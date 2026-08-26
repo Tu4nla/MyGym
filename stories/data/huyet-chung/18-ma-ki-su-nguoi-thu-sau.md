@@ -320,7 +320,7 @@ Tại sao Trung kể được vài chi tiết ký ức chưa tìm thấy nguồn
 
 Huy cũng viết về thứ mình thấy trong Phòng 17, nhưng chỉ dưới dạng trải nghiệm chủ quan:
 
-> Trong lúc phản ứng sinh lý tăng cao, tôi nhìn thấy một người giống mình ở vị trí camera không ghi được người. Tôi không biết đó là ảo giác, ký ức, hay một hiện tượng khác. Không có nguồn độc lập cho lời nói hay danh tính của hình ảnh này.
+> Trong lúc phản ứng sinh lý tăng cao, tôi nhìn thấy một người giống mình ở vị trí camera không ghi được người. Tôi không biết đó là ảo giác, ký ức, hay một hiện tượng khác. Không có nguồn độc lập xác nhận hình ảnh này.
 
 Khải đọc bản dành cho kiểm tra pháp lý rồi gật.
 
