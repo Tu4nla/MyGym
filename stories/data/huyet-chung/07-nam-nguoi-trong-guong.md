@@ -4,363 +4,321 @@ Huy không đăng file.
 
 Anh cũng không xóa.
 
-Khải yêu cầu sao lưu ổ cứng, tạo image bit-for-bit, kiểm tra lịch sử chỉnh sửa và cô lập máy khỏi mạng.
+Khải cho cô lập máy khỏi mạng, sao lưu ổ cứng và kiểm tra lịch sử thao tác. Dòng chữ lạ vẫn nằm trong file đúng thời điểm Huy và Quỳnh nhìn thấy nó xuất hiện; log bàn phím không ghi phím tương ứng.
 
-Kết quả khiến mọi thứ khó chịu hơn chứ không rõ hơn.
+Kỹ thuật đưa ra ba khả năng trước: lỗi phần mềm, script, hoặc truy cập trái phép.
 
-Dòng “TÊN KHÔNG PHẢI THỨ MÀY CHO TAO” và “TÊN LÀ THỨ MÀY NHỚ” tồn tại trong file.
+Khải cho kiểm cả ba.
 
-Thời điểm ghi thay đổi: 22 giờ 41 phút 13 giây.
-
-Đúng lúc Huy và Quỳnh đang đứng trước màn hình.
-
-Không có thao tác bàn phím tương ứng trong log thiết bị nhập.
-
-Nhưng phần mềm ghi phím cài sau sự cố cũng không phải hệ pháp chứng tuyệt đối.
-
-Có thể malware.
-
-Có thể lỗi.
-
-Có thể một script.
-
-Khải cho người kiểm tra ba hướng đó trước.
-
-Huy ngồi nhìn kỹ thuật viên tháo máy của mình, đau khổ như người ta đang mổ thú cưng.
+Huy ngồi nhìn người ta tháo máy mình, hai khuỷu tay chống đầu gối, mái tóc vốn vuốt khá kỹ từ sáng đã bị anh vò rối như tổ quạ.
 
 — Em có được chào tạm biệt không?
 
-— Không.
+— Không. — Khải nói.
 
-— Bao giờ trả?
+— Trong đó có đời tư của em.
 
-— Khi xong.
+Khải ngẩng khỏi biên bản. Đôi mắt anh hẹp lại một chút, cái kiểu rất đặc trưng mỗi khi phải phân biệt đâu là thông tin thật và đâu là Huy đang diễn.
 
-— Nếu trong máy có ảnh riêng tư?
+— Ảnh tự sướng không được tính là bí mật nghiệp vụ.
 
-Khải nhìn anh.
+Huy đặt tay lên ngực.
 
-— Cậu làm việc ở tòa soạn. Tôi không quan tâm ảnh tự sướng của cậu.
+— Anh làm em tổn thương.
 
-Huy hơi tổn thương.
+Quỳnh móc mũi giày vào chân ghế, kéo anh lệch khỏi bàn kỹ thuật.
 
-— Anh nói như thể ảnh em không đáng xem.
+— Qua đây tổn thương.
 
-Quỳnh kéo ghế anh ra xa.
+Huy đi thật.
 
-— Đi chỗ khác.
-
-***
-
-Lan đề nghị một việc khác.
-
-Không triệu hồn.
-
-Không nhập đồng.
-
-Không “mở cửa âm”.
-
-Chỉ là một bài kiểm tra ký ức có kiểm soát.
-
-Nó muốn biết năm cái tên trong giấc mơ Trung có đi kèm **thông tin thật mà Trung chưa từng biết** hay không.
-
-Khải đồng ý với điều kiện:
-
-— Không dùng thuốc. Không thôi miên sâu. Không ám thị câu trả lời. Mọi câu hỏi phải được chuẩn hóa trước.
-
-Lan:
-
-— Tôi là nhà tâm lý, anh không cần nhắc phần đó.
-
-— Tôi nhắc vì cô cũng là người đang tin vào một hệ huyền thuật.
-
-Lan im hai giây.
-
-— Hợp lý.
+Khi anh thôi đùa, Quỳnh mới để ý hai quầng thâm dưới mắt đã sẫm hơn mấy hôm trước.
 
 ***
 
-Buổi kiểm tra diễn ra ở phòng quan sát của đơn vị.
+Lan đề nghị kiểm tra năm cái tên trong giấc mơ Trung.
 
-Trung ngồi một mình.
+Không gọi hồn.
 
-Tai nghe.
+Không thôi miên sâu.
+
+Chỉ một bài kiểm tra trí nhớ có kiểm soát: hỏi cùng cấu trúc, ghi câu trả lời trước, rồi mới đối chiếu với những nguồn Trung chưa được xem theo hồ sơ truy cập.
+
+Khải đồng ý.
+
+— Không dẫn câu. Không gợi hình. Nhịp tim vượt ngưỡng thì dừng.
+
+Lan đang buộc lại mái tóc dài sau gáy. Nó có thói quen làm vậy mỗi khi chuẩn bị làm việc nghiêm túc; sau khi sợi chun được siết vòng cuối, nét mặt cũng như khép lại, chỉ còn đôi mắt dài rất ít chớp.
+
+— Tôi là nhà tâm lý. Tôi biết.
+
+— Tôi nhắc vì cô còn là người tin một hệ huyền thuật.
+
+Lan nhìn anh hai giây.
+
+— Công bằng.
+
+Thi đứng cạnh cửa, khoanh tay.
+
+— Hai người mà thân thêm chắc vui lắm.
+
+— Không. — cả Khải lẫn Lan nói cùng lúc.
+
+Trung cười.
+
+Nụ cười của hắn vẫn lệch về một bên như thường lệ, nhưng lần này chỉ kéo được khóe môi, không lên tới mắt.
+
+***
+
+Phòng quan sát sáng trắng.
+
+Trung ngồi một mình bên kia kính, áo thun xám, tay áo xắn quá khuỷu. Mấy tuần mất ngủ làm gương mặt vốn sáng và hay cười của hắn gầy đi một chút; xương hàm hiện rõ hơn, dưới mắt có bóng tím mỏng. Hắn ngồi thẳng, hai chân mở vừa phải như lúc lấy lời khai người khác — một tư thế nghề nghiệp quen đến mức Thi nhìn thấy lại càng khó chịu.
+
+Tai nghe được đặt lên.
 
 Không gương.
 
-Không đồ vật Hồng Ngài.
+Không đồ Hồng Ngài.
 
-Lan ở phòng bên, đọc câu hỏi theo danh sách đã niêm phong.
+Lan bắt đầu.
 
-Thi, Khải, Quỳnh và Huy quan sát.
-
-Câu hỏi đầu tiên:
-
-— Khi nghe tên A Hù, hình ảnh đầu tiên xuất hiện là gì?
+— A Hù.
 
 Trung nhắm mắt.
 
-— Một cái bát sứ mẻ miệng.
+Gần mười giây không nói.
 
-— Màu?
+— Một cái bát.
 
-— Trắng. Có hoa xanh.
+— Mô tả.
 
-— Ở đâu?
+— Sứ trắng, hoa xanh. Mẻ miệng. Trên kệ gỗ. Đáy có vết cháy tròn.
 
-— Trên kệ gỗ. Có một vết cháy tròn dưới đáy.
+Thi đứng sau kính không đổi mặt, nhưng ngón cái đang chà rất chậm lên mép móng trỏ — thói quen chỉ xuất hiện khi nó phải ép mình đứng yên.
 
-Không ai phản ứng.
+Thông tin được niêm lại.
 
-Thông tin được ghi.
+Chiều đó, ảnh căn nhà Pá Tra năm 2016 cho thấy trên kệ bếp có một chiếc bát trắng hoa xanh mẻ miệng.
 
-Sau buổi kiểm tra, tổ khám xét đối chiếu ảnh căn nhà Pá Tra cũ từ trước khi Tùng cải tạo.
+Không thấy được đáy.
 
-Trong một bức năm 2016 do cán bộ địa phương chụp khi kiểm tra cư trú, trên kệ bếp có một cái bát trắng hoa xanh mẻ miệng.
+Một nửa khớp.
 
-Không thấy đáy.
+Một nửa để trống.
 
-Không xác nhận vết cháy.
+Khải chỉ ghi:
 
-Một chi tiết đúng một phần.
+“Xác minh thêm nguồn tiếp cận.”
 
-Không đủ.
-
-***
-
-Tên A Mã.
-
-Trung nói:
-
-— Mùi dầu xoa. Một con dao nhỏ giấu dưới tấm ván cạnh giường. Cán quấn chỉ đỏ.
-
-Lan hỏi:
-
-— Cậu đã thấy con dao đó ở Hồng Ngài?
-
-— Không nhớ.
-
-Sau đó, ảnh khám xét căn phòng A Mã có ghi một hốc ván nhỏ cạnh giường. Bên trong từng có vật nhưng khi khám xét chỉ còn sợi chỉ đỏ và vết kim loại cọ.
-
-Huy nhìn ảnh.
-
-— Có thể Tùng lấy dao trước.
-
-Khải:
-
-— Có thể Trung từng nhìn thấy hốc khi ở nhà.
-
-Hai lời giải cùng tồn tại.
+Không ai cần nói câu còn lại.
 
 ***
 
-Tên bà Cầm.
+Hai cái tên tiếp theo được làm nhanh hơn.
 
-Trung nói:
+**A Mã.**
 
-— Bà ấy sợ mùi quế.
+Trung nói tới mùi dầu xoa và một con dao cán quấn chỉ đỏ dưới tấm ván cạnh giường.
 
-Lan mở mắt.
+Ảnh khám xét cũ có hốc ván, vài sợi chỉ đỏ và vết cọ kim loại. Không còn dao.
 
-— Tại sao?
+**Bà Cầm.**
 
-— Không biết. Chỉ thấy khó thở.
+Trung vừa nghe tên đã đưa tay lên cổ.
 
-Hồ sơ người thân bà Cầm xác nhận bà từng dị ứng nặng với tinh dầu quế, có một lần nhập viện.
+— Mùi quế. Khó thở.
 
-Thông tin này không nằm trong hồ sơ Hồng Ngài mà nhóm từng đọc.
+Người nhà xác nhận bà từng dị ứng nặng tinh dầu quế.
 
-Nhưng có trong hồ sơ y tế địa phương.
+Thông tin nằm trong hồ sơ y tế địa phương, không nằm trong tập tài liệu Trung được cấp.
 
-Không thể chứng minh Trung chưa bao giờ vô tình thấy.
+Khải không bình luận.
 
-Khải vẫn ghi:
+Lan cũng không.
 
-“Chi tiết cần xác minh nguồn tiếp cận.”
+Cả hai chỉ nhìn những dòng đã ghi, mỗi người theo một cách khác nhau: Khải hơi cúi đầu như muốn ép chữ thành vật thể; Lan giữ cây bút giữa hai ngón tay nhưng không viết thêm, ánh mắt đứng yên quá lâu.
+
+Huy thì thào với Quỳnh:
+
+— Hai đứa nó mà thi ai lì hơn chắc ban giám khảo chết trước.
+
+Quỳnh huých khuỷu tay anh.
+
+— Im.
 
 ***
 
-Tên Pao Sử.
+Đến Pao Sử, nhịp bị gãy.
 
-Trung bắt đầu khó chịu.
+Lan vừa đọc tên, vai Trung đã co lại.
 
-Nhịp tim tăng.
+— Có tiếng trẻ con.
 
-— Có tiếng trẻ con khóc.
-
-Lan hỏi:
-
-— Bao nhiêu đứa?
+— Một hay nhiều?
 
 — Một.
 
-— Trai hay gái?
-
-— Không biết.
-
 — Ở đâu?
 
-Trung mở mắt.
+Trung không trả lời.
 
-— Dưới gầm sàn.
+Hai bàn tay hắn siết vào mép ghế.
 
-Buổi kiểm tra dừng ngay.
+Monitor nhảy nhanh.
 
-Không ai muốn đẩy nếu cơ thể phản ứng mạnh.
+Thi bước sát kính.
 
-Sau đó, cơ quan điều tra tìm được một thông tin cũ: Pao Sử từng có con gái chết lúc hai tuổi vì viêm phổi; gia đình từng giữ đồ của bé trong hộc sàn nhà cũ theo thói quen cá nhân.
+— Dừng.
 
-Không có yếu tố huyền thuật.
+Lan không hỏi thêm.
 
-Nhưng Trung không biết.
+Trung mở mắt, hơi thở ngắn.
 
-Ít nhất hắn khẳng định không biết.
+— Dưới sàn.
+
+— Đủ rồi. — Thi nói qua micro.
+
+— Tao còn...
+
+— Đủ.
+
+Giọng Thi không lớn. Nhưng mỗi khi nó dùng cái giọng phẳng, chắc, gần như không có âm cuối ấy, Trung thường nghe.
+
+Lần này cũng vậy.
+
+Buổi kiểm tra kết thúc.
+
+Sau đó họ mới tìm thấy trong hồ sơ gia đình: Pao Sử từng có con gái chết lúc hai tuổi; vài món đồ của bé được cất trong hộc sàn nhà cũ.
+
+Không ai trong phòng quan sát reo lên vì một chi tiết “trúng”.
+
+Thi chỉ ngồi xuống cạnh Trung khi hắn được đưa ra, đặt chai nước vào tay hắn rồi hỏi:
+
+— Mày đang ở đâu?
+
+— Hà Nội.
+
+— Hôm nay ngày mấy?
+
+Trung đáp đúng.
+
+— Tao là ai?
+
+Hắn nhìn nó, lần đầu cười được tới mắt một chút.
+
+— Câu này dễ. Người đẹp nhất phòng.
+
+Thi thở ra.
+
+— Còn chọc được là chưa chết.
 
 ***
 
-Tên cuối cùng: Như.
+Tên cuối cùng được để sang hôm sau.
 
-Hôm sau mới tiếp tục.
+Như.
 
-Lan hỏi cùng cấu trúc.
+Trung ngồi xuống ghế đã biết trước mình sẽ sợ.
 
-Trung nhắm mắt lâu hơn.
+Lan đọc tên.
 
-Rồi nói:
+Hắn nhắm mắt.
+
+Lần này mặt không co lại vì đau.
+
+Nó mềm đi một cách kỳ lạ.
 
 — Cô ấy không sợ chết.
 
-Thi nhìn qua kính.
+Quỳnh đứng thẳng hơn.
 
-Lan:
+Lan hỏi:
 
 — Cậu thấy gì?
 
-— Một căn phòng cháy.
+— Một căn nhà cháy.
 
-— Nhà cha mẹ Như?
+— Còn gì?
 
-— Có thể.
+— Tùng giữ cổ tay cô ấy.
 
-— Chi tiết?
+Trung nuốt khan.
 
-Trung thở nhanh.
+— Như không khóc. Mặt cô ấy đen vì khói. Tóc cháy xém một bên. Cô ấy nhìn hắn rồi nói...
 
-— Cô ấy đứng ngoài. Tùng giữ cổ tay. Cô ấy không khóc.
+Hắn im lâu đến mức Thi lại bước sát kính.
 
-— Rồi sao?
-
-— Cô ấy nói...
-
-Trung im.
-
-— Nói gì?
+— Nói gì? — Lan hỏi rất nhẹ.
 
 — “Một ngày nào đó tao sẽ trả lại thứ mày lấy.”
 
-Lan không hỏi tiếp.
+Không ai hỏi tiếp.
 
-Sau này không có tài liệu nào xác nhận câu đó từng được nói.
+Không còn nhân chứng sống để xác minh câu đó.
 
-Như chết.
+Nhưng Quỳnh nhớ giọng Trâm trở lại đúng khoảng thời gian Như chết ở Hồng Ngài.
 
-Tùng chết.
+Nó không nói ý nghĩ ấy ra ngay.
 
-Không nhân chứng.
+Chỉ nhìn Trung.
 
-Đó là một trong những chi tiết không thể kiểm chứng.
-
-Nhưng Quỳnh nhớ lại việc Trâm lấy lại giọng đúng thời điểm Như chết.
-
-“Trả lại thứ mày lấy.”
-
-Một câu có thể chỉ là giấc mơ đang ghép chuyện họ đã biết.
-
-Hoặc là ký ức thật của Như.
-
-Không ai được quyền chọn theo cảm xúc.
+Ở khóe mắt hắn có nước, nhưng nét mặt không giống người đang khóc cho chính mình.
 
 ***
 
-Kết quả bài kiểm tra tạo ra một vấn đề lớn.
+Kết quả sau hai ngày không tạo ra một câu trả lời đẹp.
 
-Trung có nhiều thông tin **đúng một phần, khó xác định nguồn**.
+Có chi tiết Trung có thể từng thấy mà quên nguồn.
 
-Không đủ để chứng minh ký ức người chết đang sống trong hắn.
+Có chi tiết chưa tìm ra đường tiếp cận.
 
-Nhưng quá nhiều để coi nhẹ.
+Có thứ không thể kiểm chứng nữa.
 
-Khải yêu cầu rà toàn bộ lịch sử truy cập hồ sơ của Trung từ 2019.
+Lan gọi hiện tượng nhớ mà quên nguồn là *cryptomnesia*.
 
-Có một số tài liệu hắn từng xem.
+Huy chống cằm:
 
-Không có hồ sơ dị ứng bà Cầm.
+— Cảm ơn mày đã tự phá truyện ma.
 
-Không có ảnh hốc giường A Mã trước khi khám xét.
+Lan nghiêng mắt sang.
 
-Không có chuyện con Pao Sử.
-
-Một người có thể đọc từ nguồn ngoài.
-
-Một người có thể nghe đồng nghiệp kể rồi quên.
-
-Não người giỏi quên nguồn ký ức hơn người ta tưởng.
-
-Lan nói chính điều đó.
-
-— Cryptomnesia. Nhớ thông tin nhưng quên mình học ở đâu. Chưa cần ma để giải thích.
-
-Huy:
-
-— Cảm ơn mày đã tự phá luận điểm của mình.
-
-— Tao không có luận điểm. Tao có dữ kiện.
+— Tao không viết truyện ma. Tao đang kiểm tra một người.
 
 Khải khẽ gật.
 
-Lan nhìn thấy.
+Lan bắt được ngay.
 
 — Anh đừng gật như thầy chấm bài.
 
-***
+Khải thôi gật.
 
-Đêm, Quỳnh về tòa soạn.
-
-Không còn dùng máy Huy vì đang bị giữ kiểm tra.
-
-Nó ngồi bàn mình, đọc lại bài cũ về P201.
-
-Một thứ làm nó vướng.
-
-Ký ức.
-
-Trang đưa thư trong giấc mơ.
-
-Quyên xuất hiện trong phòng nhưng không phản chiếu.
-
-Bây giờ Trung lại có ký ức của người chết.
-
-Nếu supernatural trong thế giới này có một điểm chung, có lẽ không phải “ma”.
-
-Mà là **thông tin không chịu biến mất khi cơ thể chết**.
-
-Nó viết một câu vào sổ:
-
-“Có phải linh hồn chỉ là tên gọi mình dùng cho ký ức có ý chí?”
-
-Rồi gạch đi.
-
-Quá rộng.
-
-Quá đẹp để là bằng chứng.
+Quỳnh phải quay mặt đi để giấu cười.
 
 ***
 
-Huy tới sau chín giờ.
+Đêm đó, Quỳnh trở lại tòa soạn.
 
-Không laptop.
+Nó đọc P201 từ đầu, chậm hơn mọi lần.
 
-Trông như người mất một bộ phận cơ thể.
+Trang đưa vật chứng qua một giấc mơ.
+
+Quyên từng đứng giữa căn phòng nhưng không có trong gương.
+
+Bây giờ Trung mang những mảnh ký ức không biết từ đâu tới.
+
+Quỳnh viết vào sổ:
+
+“Có thứ gì trong một con người còn tồn tại sau khi người đó chết?”
+
+Nó nhìn câu hỏi một lúc rồi gạch từ **linh hồn** mà mình đã định viết ở đầu dòng.
+
+Tên gọi đến sau dữ kiện.
+
+***
+
+Huy tới hơn chín giờ.
+
+Không laptop, anh có vẻ bứt rứt hơn cả người vừa bị tịch thu điện thoại. Áo sơ mi đen xắn tới khuỷu, cổ mở hai nút; dưới ánh đèn bàn, cái vẻ bảnh bao anh vẫn cố giữ bị phá bởi mái tóc rối và hai mắt thiếu ngủ.
 
 — Cho tao mượn máy.
 
@@ -370,71 +328,55 @@ Trông như người mất một bộ phận cơ thể.
 
 — Viết tay.
 
-— Man rợ.
+— Dã man.
 
-Quỳnh ném cuốn sổ cho anh.
+Quỳnh ném sổ cho anh.
 
-Huy ngồi.
+Huy cầm nhưng chưa viết.
 
-Không viết ngay.
+Ngón tay cái vô thức miết vào cạnh giấy — một thói quen Quỳnh chỉ thấy khi anh thực sự căng.
 
-— Tao nghĩ cái tên “Người Thứ Sáu” có vấn đề.
+— Tao nghĩ tên “Người Thứ Sáu” có vấn đề.
 
 — Vì?
 
-— Nếu năm ký ức nhập lại rồi sinh ra một thứ mới, nó là thứ sáu. Nhưng nếu thứ đó có từ trước rồi chỉ dùng năm ký ức làm mặt nạ thì sao?
+— Nếu năm ký ức nhập lại rồi sinh cái mới, gọi thứ sáu nghe hợp. Nhưng nếu nó có trước, chỉ mượn năm người làm mặt thì sao?
+
+— Nếu nó là Trung?
+
+— Có thể.
 
 Quỳnh nhìn anh.
 
-— Và nếu nó là Trung?
-
-— Cũng được.
-
 — Nếu nó là mày?
 
-Huy im.
+Ngón tay Huy dừng trên mép giấy.
 
-Quỳnh không đùa.
+Quỳnh không cần nhắc lại cả danh sách. Cassette. Ba Bích. Song Mạch. File tự viết.
 
-— Cassette dùng giọng mày. Ba Bích theo mày. Mày có Song Mạch. Bây giờ file của mày tự trả lời.
+Huy biết.
 
-Huy nhìn bàn tay mình.
-
-— Tao biết.
-
-— Mày có sợ không?
+— Mày sợ không? — nó hỏi.
 
 — Có.
 
-Câu trả lời quá nhanh.
+Quá nhanh để là câu đùa.
 
-Huy nói tiếp:
+Một lúc sau anh mới cười rất mỏng.
 
-— Nhưng sợ không có nghĩa tao phải tự coi mình là trung tâm vũ trụ.
+— Nhưng sợ không có nghĩa tao phải nhận luôn vai nam chính của vũ trụ.
 
-Quỳnh hơi cười.
-
-— Lần đầu nghe mày nói câu khiêm tốn.
+— Lần đầu nghe mày khiêm tốn.
 
 — Ghi ngày lại.
 
 ***
 
-Ở căn hộ an toàn, Trung được cho một chiếc gương nhỏ theo đề nghị của chính hắn.
+Ở căn hộ an toàn, Trung xin một chiếc gương nhỏ.
 
-Thi phản đối.
+Thi phản đối vì hắn đã bắt đầu kiểm tra phản chiếu quá nhiều lần trong ngày.
 
-— Mày đang tự hù mình.
-
-— Tao muốn biết nó xuất hiện khi nào.
-
-— Đó gọi là ám ảnh kiểm tra.
-
-Lan cũng nói vậy.
-
-Trung vẫn xin.
-
-Cuối cùng Khải đồng ý với điều kiện chỉ kiểm tra theo khung giờ cố định, không ngồi soi cả đêm.
+Cuối cùng Khải đồng ý với điều kiện chỉ nhìn theo giờ cố định, có camera bên cạnh.
 
 22 giờ.
 
@@ -448,15 +390,11 @@ Không.
 
 Trung ngồi trước gương.
 
-Một mình.
+Đèn phòng hắt một vệt trắng lên sống mũi. Hắn nhìn chính mình: tóc cắt ngắn đã mọc lởm chởm ở mai, da xạm vì thiếu ngủ, môi có vết nứt nhỏ ở bên phải.
 
-Camera ghi từ bên cạnh.
+Một gương mặt rất bình thường.
 
-Trong gương: Trung.
-
-Sau hắn: năm người.
-
-Lần này rõ hơn.
+Sau gương mặt đó là năm người.
 
 Một người không mặt.
 
@@ -466,35 +404,35 @@ Một bà lão chống gậy.
 
 Một người có bàn tay đen.
 
-Một phụ nữ trẻ cổ tay có vết bỏng.
+Một phụ nữ trẻ có vết bỏng ở cổ tay.
 
 Trung không quay lại.
 
-Hắn thở chậm.
+Hắn đặt hai tay lên đầu gối để Thi ở phòng quan sát thấy rõ mình không làm gì khác.
 
-— Nếu tụi mày là ký ức, cho tao một thứ tao kiểm tra được.
+— Nếu tụi mày là ký ức, cho tao một thứ kiểm tra được.
 
 Không ai cử động.
 
-Trung thấy ngu.
+Trung thở ra.
 
 — Tao đang nói chuyện với gương thật à...
 
-Như trong gương đưa tay chỉ xuống.
+Trong gương, Như đưa tay chỉ xuống.
 
-Mặt gương bắt đầu mờ hơi nước dù phòng có điều hòa khô.
+Mặt kính mờ dần từ phía trong, như có người thở ở mặt bên kia.
 
-Năm ngón tay viết từ phía **bên trong**:
+Năm ngón tay kéo thành chữ:
 
 **HỎI HUY VỀ PHÒNG 17.**
 
-Trung nhìn.
+Trung nhìn dòng chữ.
 
 — Phòng 17 là gì?
 
-Năm người cùng quay đầu về phía một chỗ trống ngoài khung gương.
+Năm khuôn mặt cùng quay về một khoảng trống ngoài khung gương.
 
-Một cái bóng thứ sáu bước vào.
+Một bóng thứ sáu bước vào.
 
 Không mặt.
 
@@ -502,10 +440,12 @@ Không tên.
 
 Nó đặt tay lên vai Như.
 
-Tất cả năm hình còn lại biến mất.
+Năm hình còn lại tắt cùng lúc.
 
-Trên gương chỉ còn Trung và nó.
+Trong gương chỉ còn Trung và cái bóng.
 
-Dòng chữ đổi.
+Dòng chữ cũ bị một bàn tay vô hình quệt ngang.
+
+Hai chữ mới hiện ra.
 
 **NÓ BIẾT.**

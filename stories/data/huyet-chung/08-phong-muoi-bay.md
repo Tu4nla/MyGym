@@ -4,7 +4,7 @@ Huy khẳng định anh không biết Phòng 17.
 
 Trung gửi ảnh gương lúc 02 giờ 16.
 
-Huy xem xong, trả lời ngay:
+Huy trả lời ngay:
 
 “Không biết.”
 
@@ -14,39 +14,37 @@ Hai phút sau:
 
 Một phút nữa:
 
-“Đừng nhìn tao kiểu đó, tao biết mày đang nhìn điện thoại kiểu đó.”
+“Đừng nhìn tao kiểu đó. Tao biết mày đang nhìn điện thoại kiểu đó.”
 
 Trung gọi video.
 
-Huy bắt máy với mái tóc rối và một cái gối sau lưng.
+Huy bắt máy với tóc rối, áo thun đen nhăn và một cái gối dựng sau lưng. Bình thường anh rất có ý thức về việc mình trông thế nào trước camera; việc để mặt mộc, mắt sưng vì thiếu ngủ như vậy tự nó đã nói đủ mức nghiêm túc.
 
-— Mày từng ở phòng số 17 nào chưa?
+— Mày từng ở phòng số 17 nào chưa? — Trung hỏi.
 
-— Khách sạn thì chắc có.
+— Khách sạn chắc có.
 
 — Tòa soạn?
 
-— Không có đánh số phòng kiểu đó.
+— Không đánh số kiểu đó.
 
-Quỳnh chen từ đầu dây khác:
+Quỳnh chen vào:
 
 — Trường học?
 
 — Tao học nhiều lớp ngu nhưng không nhớ lớp 17.
 
-Lan:
+Lan hỏi bệnh viện.
 
-— Hồ sơ bệnh viện?
+Huy im lâu hơn.
 
-Huy im.
+— Hồi nhỏ thì ai nhớ hết.
 
-— Có thể. Hồi nhỏ ai nhớ.
-
-Trung nhìn dòng chữ vẫn còn trên gương.
+Trung nhìn dòng chữ trên gương.
 
 — Nó bảo mày biết.
 
-Huy nhìn thẳng camera.
+Huy thôi cười.
 
 — Vậy hoặc nó nói dối, hoặc tao biết mà không nhớ.
 
@@ -56,137 +54,71 @@ Không ai thích phương án thứ hai.
 
 Sếp Hòa biết.
 
-Quỳnh hỏi vào sáng hôm sau.
+Quỳnh hỏi vào sáng hôm sau khi ông đang đứng cạnh máy photocopy. Nghe hai chữ “Phòng 17”, sếp để máy chạy hết một lượt giấy mà quên lấy.
 
-Ông đang đứng trong phòng photo, tay cầm xấp giấy, nghe “Phòng 17” xong thì máy photocopy chạy hết một lượt mà ông không lấy giấy ra.
+Ông Hòa vốn tròn người, đầu hói sáng, bình thường nổi nóng nhanh đến mức ai cũng đoán được ông nghĩ gì. Lúc ấy ông không đỏ mặt, không quát. Chỉ đứng im.
 
-Quỳnh nhìn.
-
-— Sếp.
+Vì vậy Quỳnh biết câu hỏi đã chạm đúng chỗ.
 
 — Ai nói cái tên đó?
 
-— Trả lời em trước.
+— Sếp trả lời em trước.
 
-Ông đặt giấy xuống.
+Ông đóng cửa phòng photo.
 
-— Ở đâu cô nghe?
+Tòa nhà Âm Dương từng có một tầng hầm sâu hơn tầng kho đang dùng. Sơ đồ cũ đánh số các phòng lưu trữ từ 11 tới 18.
 
-— Trong một vụ đang phối hợp với công an.
+Phòng 17 từng là kho hồ sơ nhân sự và bản thảo.
 
-— Huy biết chưa?
+Bị bịt sau một vụ ngập hầm năm 2001 khiến một nhân viên kỹ thuật chết ngạt.
 
-— Nó bảo không biết.
+— Huy biết không?
 
-Sếp Hòa thở ra.
+— Không. — sếp Hòa nói. — Và tôi không có lý do gì cho nó biết một khu nguy hiểm bị khóa từ trước khi nó vào làm.
 
-— Nó không biết là đúng.
+— Sếp còn sơ đồ?
 
-— Vậy phòng đó là gì?
+— Có.
 
-Ông nhìn cửa.
+Quỳnh không hỏi thêm về ma.
 
-Đóng lại.
-
-— Tòa nhà Âm Dương hiện tại từng có một tầng hầm sâu hơn phần đang dùng. Hồi cải tạo, sơ đồ cũ đánh số các phòng lưu trữ từ 11 tới 18.
-
-Quỳnh cảm thấy sống lưng lạnh.
-
-— Phòng 17?
-
-— Kho hồ sơ nhân sự và bản thảo cũ.
-
-— Còn tồn tại?
-
-— Bị bịt lối từ trước khi tôi làm ở đây.
-
-— Vì sao?
-
-Sếp Hòa không đáp ngay.
-
-— Có tai nạn.
-
-— Ai?
-
-— Một nhân viên kỹ thuật chết ngạt trong đợt ngập hầm. Sau đó chủ cũ quyết định bịt khu dưới vì kết cấu không an toàn.
-
-— Năm nào?
-
-— 2001.
-
-Quỳnh tính.
-
-Huy mới khoảng bốn tuổi.
-
-— Liên quan Huy thế nào?
-
-— Tôi không biết.
-
-— Sếp có hồ sơ?
-
-— Có sơ đồ giấy trong kho.
+Có một căn phòng thật là đủ để kiểm tra trước.
 
 ***
 
-Khải không cho ai tự xuống hầm.
+Khải không cho ai đập tường rồi bò xuống ngay.
 
-Đội kỹ thuật công trình được gọi tới trước.
+Kỹ thuật công trình kiểm kết cấu. Máy dò xác nhận khoảng rỗng sau tường kho. Đo khí trước. Thông gió. Ghi hình toàn bộ quá trình.
 
-Sơ đồ cũ của căn biệt thự Pháp không hoàn toàn khớp cải tạo hiện tại. Phần hầm đang dùng làm kho chỉ là tầng nông. Một cầu thang phía sau tường gạch mới dẫn xuống thêm khoảng ba mét.
+Huy đứng xem người ta tháo gạch, hai tay đút túi quần nhưng ngón chân gõ liên tục xuống sàn.
 
-Máy dò khoảng rỗng xác nhận có không gian.
+— Sếp biết mà giấu em.
 
-Phòng 17 nằm ở cuối hành lang.
+— Tôi biết có hầm. — sếp Hòa nói. — Không biết cái gương nhà Trung biết.
 
-Sếp Hòa đứng nhìn người ta tháo một phần tường, mặt khó chịu.
+— Em từng xin archive cũ.
 
-Huy đứng cạnh.
+— Tôi cho cậu phần an toàn.
 
-— Sếp biết mà giấu em?
+— Trừ kho bí mật.
 
-— Tôi biết có hầm. Không biết thứ trong gương nhà thằng Trung biết.
+— Kho nguy hiểm. Không phải Illuminati.
 
-— Em từng hỏi sếp về hồ sơ cũ.
+Huy quay sang.
 
-— Và tôi cho cậu đọc phần còn lại.
-
-— Phần còn lại trừ phòng bị bịt.
-
-— Vì nó được xếp là khu nguy hiểm, không phải kho bí mật của Illuminati.
-
-Huy nhìn ông.
-
-— Sếp biết Illuminati à?
+— Sếp biết Illuminati?
 
 — Tôi biết tôi có thể đuổi cậu.
 
-Quỳnh đứng phía sau khẽ cười.
+Quỳnh bật cười.
 
-Một chút bình thường giữa lúc người ta đang phá tường tìm một căn phòng mà gương đã gọi tên.
+Chỉ một tiếng thôi, nhưng đủ làm Huy ngừng gõ chân vài giây.
 
 ***
 
-Cửa hầm cũ mở lúc 14 giờ 32.
+14 giờ 32, lối hầm mở.
 
-Không ai xuống ngay.
-
-Đo khí trước.
-
-Oxy thấp nhưng không nguy hiểm sau khi thông gió.
-
-Có nấm mốc.
-
-Nước cũ.
-
-Bụi dày.
-
-Không dấu người mới đi qua theo lớp bụi bề mặt.
-
-Khải xuống cùng hai kỹ thuật viên, sau đó mới cho Huy, Quỳnh và sếp Hòa vào với đồ bảo hộ.
-
-Lan và Trung xem qua camera từ đơn vị.
-
-Hành lang dưới hẹp, tường ẩm. Các số phòng vẫn còn bằng chữ sơn đen phai.
+Hành lang thấp, tường ẩm, mùi nấm mốc và giấy mục bám vào cổ họng. Những con số sơn đen còn sót trên cửa:
 
 15.
 
@@ -194,21 +126,17 @@ Hành lang dưới hẹp, tường ẩm. Các số phòng vẫn còn bằng ch�
 
 17.
 
-Cửa Phòng 17 bằng gỗ dày đã cong.
+Cửa Phòng 17 cong vì ẩm, ổ khóa rỉ. Không có dấu mở mới trên lớp bụi trước cửa.
 
-Ổ khóa rỉ.
+Khải chụp xong mới cho phá.
 
-Không có dấu mở mới.
+Bên trong không có bàn thờ.
 
-Khải chụp trước khi phá.
+Không xác.
 
-Bên trong không có ma.
+Không vết máu.
 
-Không có bàn thờ.
-
-Không có máu.
-
-Chỉ là kho.
+Chỉ là một kho cũ.
 
 Kệ sắt.
 
@@ -216,21 +144,17 @@ Hộp giấy mục.
 
 Một bàn gỗ.
 
-Một máy đánh chữ phủ vải.
-
-Và hàng trăm tập hồ sơ bị ẩm tới mức mép giấy dính vào nhau.
+Máy đánh chữ phủ vải.
 
 Huy thở ra.
 
 — Tao thất vọng một cách kỳ lạ.
 
-Quỳnh:
-
-— Mày muốn có gì?
+— Mày muốn gì? — Quỳnh hỏi.
 
 — Ít nhất cái quan tài.
 
-Khải:
+Khải không quay đầu.
 
 — Đừng chạm gì.
 
@@ -238,33 +162,11 @@ Khải:
 
 ***
 
-Ở góc phòng có một tủ hồ sơ thấp.
-
-Ngăn trên cùng khóa.
-
-Khi mở bằng kỹ thuật, bên trong chỉ có một hộp gỗ.
-
-Trên nắp hộp viết:
+Ngăn khóa của một tủ thấp chứa hộp gỗ có dòng:
 
 **BÀI CHƯA ĐĂNG.**
 
-Sếp Hòa nhìn.
-
-— Tôi chưa từng thấy cái này.
-
-Huy:
-
-— Câu này gần đây nghe nhiều quá.
-
-Khải đeo găng, mở.
-
-Bên trong là những bản thảo cũ.
-
-Không theo năm.
-
-Không theo tác giả.
-
-Mỗi tập được kẹp bằng một lá bài.
+Bên trong là các bản thảo cũ, mỗi tập kẹp một lá bài.
 
 Tám cơ.
 
@@ -274,25 +176,17 @@ Mười chuồn.
 
 Hai rô.
 
-Và ở cuối...
-
-một lá ba bích.
+Cuối cùng là một lá ba bích.
 
 Không có vết xước bán nguyệt của lá theo Huy.
 
 Một lá khác.
 
-Huy đứng yên.
+Huy không nói đùa.
 
-— Không phải của em.
+Anh cúi xuống, nhưng dừng tay trước khi chạm theo phản xạ nghề nghiệp.
 
-Khải:
-
-— Tôi biết.
-
-Dưới lá ba bích là một bản thảo đánh máy.
-
-Trang đầu:
+Dưới lá bài là bản thảo đánh máy.
 
 **MA KÍ SỰ — NGƯỜI GIỮ TÊN**
 
@@ -300,113 +194,91 @@ Tác giả:
 
 **PHẠM QUỐC BÌNH.**
 
-Người phóng viên mất tích hơn hai mươi năm trước.
+Người phóng viên đã mất tích hơn hai mươi năm.
 
 ***
 
-Huy ngồi xuống nền mà quên mất bụi.
+Huy ngồi xuống nền mà quên cả bụi.
 
-— Bình cũng gọi series là Ma Kí Sự?
+— Bình cũng gọi nó là Ma Kí Sự?
 
 Sếp Hòa tái mặt.
 
 — Không.
 
-— Trên này rõ ràng...
+— Trên này ghi rõ.
 
-— Series Ma Kí Sự là tên cậu tự đề xuất cuối 2018.
+— Series Ma Kí Sự là tên cậu tự đề xuất cuối 2018. Tôi chưa từng thấy tên đó trong archive cũ.
 
-— Em biết.
+Huy nhìn trang giấy.
 
-— Tôi chưa từng thấy tên đó trong archive cũ.
+Khải hỏi:
 
-Khải nhìn bản thảo.
+— Có khả năng cậu từng thấy cái tên ở nơi khác rồi quên nguồn?
 
-— Có khả năng cậu từng thấy rồi quên?
+Huy định lắc ngay.
 
-Huy lắc ngay rồi tự dừng.
+Rồi dừng.
 
-— Không thể nói chắc.
+— Không thể loại.
 
-Quỳnh thấy anh học được câu của Khải.
+Quỳnh nhìn anh.
+
+Một tháng trước, Huy sẽ cãi bằng trí nhớ của mình tới cùng.
+
+Bây giờ anh đã học được cách để một khoảng trống tồn tại.
 
 ***
 
-Bản thảo Bình dài ba mươi bảy trang.
+Bản thảo được niêm phong, số hóa rồi mới đọc.
 
-Không ai đọc tại chỗ.
+Không ai đứng giữa căn hầm mà nuốt ba mươi bảy trang lore như đọc truyện ma tập thể.
 
-Tất cả được niêm phong, số hóa ở môi trường kiểm soát.
+Buổi tối, họ ngồi trong phòng họp tòa soạn.
 
-Nhưng trang cuối gây ra vấn đề ngay lập tức.
+Mưa phùn bám lên kính. Huy đặt một cốc cà phê trước mặt nhưng không uống.
 
-Không phải nội dung.
+Dòng cuối của bản thảo ghi:
 
-Là ngày.
-
-Bản thảo đánh máy có dòng:
-
-“Ngày hoàn thành: 09/01/1999.”
+**“Ngày hoàn thành: 09/01/1999.”**
 
 Huy sinh sau đó.
 
-Tên “Ma Kí Sự” đã tồn tại trước khi anh dùng nó gần hai mươi năm.
+Không ai nói ngay.
 
-Có thể trùng hợp.
+Hai chữ “Ma Kí Sự” có thể trùng hợp.
 
-Hai chữ rất chung.
+Một tên series không phải định luật vật lý.
 
-Có thể sếp Hòa hoặc ai đó từng nghe rồi vô thức gợi cho Huy.
+Nhưng phần nội dung làm căn phòng yên hơn.
 
-Nhưng Huy nhớ rõ mình tự gõ tiêu đề trong đêm mở series.
+“Người Giữ Tên” kể về một gia đình quên người con.
 
-Không ai tranh cãi bằng ký ức.
-
-Họ đọc.
-
-***
-
-“Người Giữ Tên” kể về một hiện tượng rất giống hồ sơ Khôi.
-
-Một gia đình quên người con.
-
-Một căn phòng vẫn còn đồ.
+Một căn phòng còn đồ.
 
 Một người viết tên lên tường để giữ ký ức.
 
-Huy đọc tới đó phải dừng.
+Huy đọc tới đó thì đặt giấy xuống.
 
-— Case của tao.
+Ngón cái anh miết mạnh vào cạnh cốc.
 
-Quỳnh:
+— Case Khôi.
 
-— Hai mươi năm trước.
+— Hai mươi năm trước. — Quỳnh nói.
 
-— Có thể cùng hiện tượng.
+Không ai vội nói “tiền kiếp”, “lời tiên tri” hay “định mệnh”.
 
-— Hoặc mày đọc lại câu chuyện cũ mà không nhớ.
+Họ đọc tiếp.
 
-— Tao chưa từng vào phòng này.
-
-— Không nhất thiết phòng này. Có bản sao khác.
-
-Huy gật.
-
-Khải đứng phía sau.
-
-— Tiếp tục đọc.
-
-Cuối bài, Bình viết:
+Ở cuối, Phạm Quốc Bình viết:
 
 “Có những câu chuyện không phải ta tìm thấy. Chúng tìm người kể.”
-
-Dòng sau:
 
 “Ba bích không chọn nạn nhân.”
 
 “Ba bích chọn **người làm chứng**.”
 
-Huy khép mắt.
+Sếp Hòa ngồi im. Hai bàn tay vốn hay quơ khi nói của ông giờ đặt phẳng trên bàn.
 
 Quỳnh đọc tiếp:
 
@@ -414,15 +286,15 @@ Quỳnh đọc tiếp:
 
 “Nếu có người viết, nó ở lại.”
 
-“Nhưng hãy cẩn thận.”
+“Nhưng có thứ muốn được nhớ không phải vì nó từng sống.”
 
-“Có thứ muốn được nhớ không phải vì nó từng sống.”
+Huy nhắm mắt vài giây.
 
 ***
 
-Trang cuối cùng bị xé một nửa.
+Trang cuối bị xé một nửa.
 
-Phần còn lại chỉ có:
+Chỉ còn:
 
 “Phòng 17 không phải nơi giữ hồ sơ.”
 
@@ -430,41 +302,51 @@ Phần còn lại chỉ có:
 
 Mất.
 
-Ở mép xé có nét bút bi viết tay:
+Ở mép xé, một người khác viết tay:
 
 **ĐỪNG CHO NÓ MỘT NGƯỜI KỂ.**
 
-Không xác định được người viết ngay.
+Huy bật cười rất khẽ.
 
-Huy nhìn câu đó.
+Không vui.
 
-— Hay thật.
+— Tuyệt. Nghề của tao là viết mà cái gì cũng bảo đừng viết.
 
-Quỳnh:
+Quỳnh nhìn anh.
 
-— Gì?
+— Có thể thứ nó cần không phải chữ. Là người đứng sau chữ.
 
-— Mọi thứ trong đời tao đều bảo tao đừng viết trong khi nghề tao là viết.
+Huy không đáp.
 
-— Có thể đó là vấn đề.
+Câu đó ở lại trong phòng.
 
 ***
 
-Khi dọn kiểm kê Phòng 17, kỹ thuật tìm được một băng cassette.
+Họ dừng ở đó.
 
-Không nhãn.
+Khải yêu cầu mọi người về nghỉ trước khi tiếp tục kiểm kê vật còn lại.
 
-Cùng loại với cuộn Huy từng nghe nhưng không chứng minh liên quan.
+Huy phản đối một câu rồi thôi.
 
-Khải không cho Huy nghe trước.
+Đêm ấy anh không ngủ được, nhưng ít nhất không phải nhận thêm một cú reveal ngay sau cú trước.
 
-Băng được số hóa bằng thiết bị độc lập.
+Sáng hôm sau, kỹ thuật báo tìm được một băng cassette không nhãn trong ngăn riêng của Phòng 17.
 
-Âm đầu tiên là tiếng rè.
+Cùng kiểu với cuộn Huy từng nghe.
 
-Sau đó một người đàn ông nói.
+Lúc này mọi người mới quay lại.
 
-Sếp Hòa nhận ra giọng Bình từ băng phỏng vấn cũ.
+***
+
+Băng được số hóa trên thiết bị độc lập.
+
+Không cho Huy cầm bản gốc.
+
+Phần đầu là tiếng rè.
+
+Sau đó một giọng đàn ông.
+
+Sếp Hòa nhận ra Phạm Quốc Bình từ những băng phỏng vấn cũ.
 
 “Ngày 12 tháng 1 năm 1999.”
 
@@ -474,9 +356,11 @@ Sếp Hòa nhận ra giọng Bình từ băng phỏng vấn cũ.
 
 “Duy chưa vào tòa soạn. Nếu ai nghe sau này, đừng đưa băng cho người có hai nhịp.”
 
-Tất cả trong phòng nhìn Huy.
+Trong phòng, không ai quay sang Huy ngay.
 
-Huy không cử động.
+Chính việc cố không nhìn mới làm anh biết tất cả đang nghĩ gì.
+
+Huy ngồi rất thẳng. Nụ cười biến mất. Hai bàn tay đặt trên đùi, ngón cái bên phải chà liên tục vào khớp trỏ.
 
 Băng tiếp:
 
@@ -484,28 +368,28 @@ Băng tiếp:
 
 “Đừng tin.”
 
-Một khoảng rè.
+Một khoảng rè dài.
 
 Rồi giọng Bình đổi.
 
-Không phải đổi âm sắc nhẹ.
+Không méo dần.
 
-Mà thành một giọng khác.
+Không giống ai bắt chước.
 
-Giọng Huy.
+Nó trở thành giọng Huy.
 
-Rõ đến mức da Quỳnh nổi hết.
+Quỳnh nhận ra ngay cách kéo nhẹ âm cuối, cái chất vừa cợt nhả vừa lười biếng mà Huy không tự nghe thấy ở chính mình.
 
-Bản ghi năm 1999 nói bằng giọng một người sinh sau đó:
+Bản ghi năm 1999 nói:
 
 — **Mày tới trễ rồi.**
 
-Huy đứng bật dậy làm ghế đổ.
+Ghế Huy đổ khi anh đứng bật dậy.
 
 Không ai trách.
 
 Băng vẫn chạy.
 
-Giọng Huy cười.
+Giọng Huy trong loa cười.
 
 — **Tao ra ngoài lâu rồi.**

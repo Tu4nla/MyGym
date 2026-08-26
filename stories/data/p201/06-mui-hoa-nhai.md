@@ -1,214 +1,130 @@
 Phong bì trắng được mang xuống phòng quản sinh lúc mười một giờ bốn mươi ba phút.
 
-Không ai mở nó ở phòng 201.
-
-Hân nhất quyết như vậy.
+Hân không cho ai mở nó trong phòng 201.
 
 — Một lần phá hiện trường là ngu. Hai lần là có năng khiếu. — nó nói.
 
-Thi ngồi trên giường ôm gối, lí nhí:
+Hân nói câu ấy với gương mặt gần như không đổi. Nó vốn vậy: người gầy, tóc lúc nào cũng buộc cao cho gọn, đứng thẳng hơn hẳn đám còn lại; càng lo thì giọng càng ngắn, càng đều, như thể nếu nói đủ chắc mọi thứ sẽ chịu đứng vào hàng.
 
-— Tao thấy câu đó hơi xúc phạm những người có năng khiếu.
+Thi ôm gối ở mép giường, khuôn mặt tròn nhăn lại.
+
+— Tao thấy câu đó xúc phạm người có năng khiếu.
 
 Không ai để ý.
 
-Ông Phúc quay lại trường cùng anh công an trẻ ban sáng. Phong bì được chụp ảnh hai mặt, mép dán, vị trí trên giường. Họ hỏi từng người lần cuối nhìn thấy mặt giường Quỳnh lúc nào.
+Ông Phúc quay lại cùng một cán bộ trẻ. Họ chụp phong bì, hỏi lại ai từng tới gần giường Quỳnh rồi mới mở.
 
-Kết quả chẳng giúp được bao nhiêu.
+Danh sách dài vô nghĩa.
 
-Buổi tối trước khi khóa cửa, Thi từng ngồi trên giường Quỳnh sấy tóc. Mai mượn cuốn Văn rồi trả. Dung chạy sang 205 lấy sạc. Hương đi tắm. Trâm xuống căn tin mua nước. Lan với Hân kiểm tra cửa.
+Phòng tám người không bao giờ là hiện trường sạch.
 
-Một căn phòng tám người ở không bao giờ là hiện trường sạch.
+Bên trong chỉ có một tờ giấy:
 
-Phong bì có thể đã được đặt lên giường từ trước mười giờ mà không ai để ý.
+**“Muốn biết nhật ký thật hay giả, hỏi người đã viết nó.”**
 
-Bên trong chỉ có đúng tờ giấy Quỳnh đã nhìn thấy qua khe phong bì:
+Chữ in từng nét, cố tình không để lộ thói quen viết.
 
-“Muốn biết nhật ký thật hay giả, hỏi người đã viết nó.”
+Ông Phúc hỏi ai ngoài phòng biết chuyện cuốn sổ.
 
-Không ký tên.
+Quỳnh kể Quân, Tùng, Như.
 
-Chữ in đều, cố tình viết từng nét rời như học sinh lớp một.
-
-Ông Phúc soi dưới đèn rồi hỏi:
-
-— Ai ngoài tám em biết chuyện cuốn nhật ký?
-
-Hân đếm:
-
-— Cô quản sinh, thầy hiệu phó, chú bảo vệ, mấy chú công an... anh Quân.
-
-Quỳnh thêm:
-
-— Anh Tùng.
-
-Ông Phúc ngẩng lên.
-
-— Tùng nào?
-
-— Nguyễn Hoàng Thanh Tùng. Bạn anh Quân. Hồi sáng anh Quân gọi ảnh tới.
-
-Ông Phúc nhìn Quỳnh lâu hơn một chút.
-
-— Cậu ấy biết nội dung cuốn sổ?
-
-— Không biết hết. Em có nói trong nhật ký nhắc chữ Q, điện thoại trong hốc được sản xuất sau khi chị Trang chết.
-
-— Còn ai?
-
-Quỳnh nghĩ tới Như.
-
-— Chị Như phòng 203 biết tụi em tìm thấy điện thoại từ hôm trước. Nhật ký thì em không chắc.
-
-Trâm đang ngồi ở cuối giường chợt nói:
+Trâm ngồi cuối giường, hai vai hơi khép lại, bất ngờ chen vào:
 
 — Chị Như biết.
 
 Mọi người quay sang.
 
-Trâm sững một nhịp, rồi giải thích:
+Trâm có gương mặt nhỏ và sáng, bình thường cười rất dễ. Dạo gần đây cái cười ấy xuất hiện chậm hơn nửa nhịp; mỗi lần ai nhắc Tùng hoặc Như, ngón cái nó lại cào nhẹ vào móng trỏ như một thói quen không tự biết.
 
-— Sáng nay... em gặp chị ấy ngoài hành lang. Chị hỏi tối qua tụi mình ra sau trường làm gì. Em nói có tìm được một cuốn sổ.
+— Sáng nay chị ấy hỏi tối qua tụi mình ra sau trường làm gì. Em nói có tìm thấy sổ.
 
-Hân nhìn nó.
+Hân cau mày.
 
-— Sao mày kể?
+— Sao kể?
 
-— Em có nghĩ đó là bí mật đâu.
+— Em có nghĩ là bí mật đâu.
 
-Câu trả lời hợp lý.
+Lý do hợp lý.
 
-Nhưng sắc mặt Trâm không hợp với sự bình thản trong giọng.
+Sắc mặt thì không.
 
-Ông Phúc ghi tên Như vào sổ.
+Ông Phúc chỉ ghi tên Như vào sổ, không hỏi dồn.
 
-— Còn ai nữa không?
+Trước khi đi, ông nhắc một lần:
 
-Không ai nói.
+— Không tự đối đầu. Có gì lạ ghi giờ, gọi người lớn.
 
-Ông gấp hồ sơ.
+Lan dựa vai vào tủ, đôi mắt dài nhìn ông gần như không chớp.
 
-— Tối nay cô quản sinh sẽ đổi khóa cửa phụ, bảo vệ tăng một vòng tuần tra sau hai giờ. Các em không tự đi theo ai nữa. Thấy người lạ thì gọi ngay.
+— Nếu người dọa tụi cháu ở ngay trong trường thì sao?
 
-Lan hỏi:
-
-— Nếu người đó ở trong trường thì sao chú?
-
-Ông Phúc nhìn nó.
-
-— Càng phải ghi nhận hành vi, không tự đối đầu.
-
-— Nhưng nếu họ chỉ dọa, chưa làm gì đủ để bắt?
-
-— Thì mình đừng cho họ cơ hội chuyển từ dọa sang làm thật.
+— Thì càng đừng cho họ biết mình đoán được tới đâu.
 
 Câu đó khiến Thi thôi cười.
 
 ***
 
-Ngày 6 tháng 9, trời hửng nắng lần đầu tiên.
+Ngày 6 tháng 9, trời hửng nắng lần đầu tiên sau mấy hôm mưa.
 
-Không phải nắng đẹp.
+Nắng nhợt, hơi ẩm bốc lên từ sân xi măng. Thầy giám thị vẫn bắt nam sinh bỏ áo vào quần. Căn tin vẫn hết bánh mì trứng trước bảy giờ mười lăm. Một lớp bên dãy B bị giữ ngoài hành lang vì ba đứa nhuộm tóc quá sáng.
 
-Mây vẫn dày nhưng bị xé thành từng khoảng, ánh sáng trắng nhợt lọt xuống làm những vũng nước ngoài sân chói lên. Hơi ẩm bốc từ nền xi măng, trộn với mùi cây cỏ sau nhiều ngày mưa thành một thứ mùi nồng nồng của đất nóng.
-
-Cuộc sống trong trường cố gắng trở lại bình thường.
-
-Tiếng trống vào tiết vẫn đánh.
-
-Thầy giám thị vẫn bắt mấy đứa nam sinh bỏ áo vào quần.
-
-Căn tin vẫn hết bánh mì trứng trước bảy giờ mười lăm.
-
-Một lớp bên dãy B bị kiểm tra đầu tóc, ba đứa con trai phải đứng ngoài hành lang vì nhuộm màu quá sáng.
-
-Không có gì trong những chuyện ấy quan tâm rằng phòng 201 vừa tìm thấy một cuốn nhật ký của người chết.
+Không có gì trong trường quan tâm rằng phòng 201 vừa tìm thấy nhật ký của người chết.
 
 Quỳnh thấy điều đó kỳ lạ nhưng dễ chịu.
 
-Nó nhắc rằng thế giới không xoay quanh nỗi sợ của mình.
+Giờ ra chơi, Lan kéo nó xuống cầu thang sau.
 
-Giờ ra chơi, Lan kéo Quỳnh xuống cầu thang sau.
+Lan có dáng mảnh, da hơi tái vì thiếu nắng, tóc đen thẳng ngang lưng. Khi suy nghĩ nó hay ép đầu lưỡi vào mặt trong má, khiến một bên môi hơi lõm vào. Quỳnh đã học được rằng lúc thấy biểu cảm ấy, tốt nhất đừng chen câu đùa.
 
-— Tao muốn thử một chuyện.
+— Tao muốn thả một thông tin giả.
 
-— Gì?
-
-— Cho người đang chơi mình một thông tin giả.
-
-Quỳnh hiểu ngay.
-
-— Rồi coi thông tin đó có quay lại không.
-
-Lan gật.
-
-— Nhưng chỉ nói cho một người.
-
-— Ai?
+— Cho ai?
 
 — Như.
 
-Quỳnh nhìn nó.
+— Sao không phải Trâm?
 
-— Tại sao không phải Trâm?
-
-— Trâm đang nằm ngay trong phòng. Nếu mình cài nó mà có chuyện, không phân biệt được nó tự làm hay kể người khác. Như ở phòng khác, dễ tách hơn.
+— Trâm ở cùng phòng. Khó tách nguồn. Như ở 203, sạch hơn.
 
 — Mày nghi chị ấy?
 
-— Tao nghi tất cả người biết quá nhiều và xuất hiện đúng lúc.
+— Tao nghi người biết quá nhiều và xuất hiện đúng lúc.
 
 — Kể cả tao?
 
 Lan nhìn Quỳnh từ đầu tới chân.
 
-— Mày ngu tới mức tự dọa mình thì tao chịu.
+— Mày tự dọa được mình tới mức này thì tao chịu.
 
 — Cảm ơn.
 
-— Không có gì.
-
-Quỳnh dựa tường suy nghĩ.
-
-— Nói giả cái gì?
-
-— Cái điện thoại.
-
-— Công an đang giữ.
-
-— Chính vì vậy mới tốt. Mày nói họ đã trả, tụi mình giấu dưới gầm giường Hân. Nếu có ai lục đúng chỗ đó, thông tin chạy từ Như ra.
+Kế hoạch đơn giản: Quỳnh sẽ nói công an đã trả chiếc điện thoại cũ, cả phòng giấu nó trong một hộp xanh dưới giường Hân. Không có điện thoại thật. Chỉ xem thông tin có quay lại đúng chỗ không.
 
 — Chị ấy có thể kể người khác.
 
-— Thì mình vẫn biết đường đi bắt đầu ở đâu.
+— Thì mình chỉ biết đường rò bắt đầu ở Như. Không phải biết thủ phạm.
 
 Quỳnh gật.
 
-Không phải chứng cứ kết tội.
-
-Chỉ là cách thu hẹp.
+Ít nhất lần này chúng không tự biến một thử nghiệm thành bản án.
 
 ***
 
-Phòng 203 khác 201 ở đúng một điểm: có người ở lâu năm.
+Phòng 203 có cảm giác của một nơi đã có người sống lâu: vé xem phim kẹp trên dây, dép xếp lệch, mấy lọ mỹ phẩm chen nhau ở bàn, dây sạc quấn chân giường như rễ cây.
 
-Chỉ cần bước vào là nhận ra.
+Như đang ngồi dưới sàn bóc trứng cút.
 
-Trên tường dán ảnh, lịch học, mấy tấm vé xem phim. Một dây kẹp gỗ treo ảnh chạy ngang cửa sổ. Góc bàn có lọ hoa nhựa màu tím đã bám bụi. Mỗi giường đều có rèm riêng, dép xếp không thẳng hàng, dây sạc điện thoại quấn quanh chân giường như rễ cây.
-
-Như đang ngồi dưới sàn bóc trứng cút khi Quỳnh gõ cửa.
+Chị mặc áo thun rộng màu kem, quần thể dục, tóc cột thấp sau gáy. Gương mặt Như không đẹp kiểu khiến người khác nhìn ngay, nhưng có nụ cười rất dễ kéo người đối diện vào nhịp của mình; khóe miệng bên trái nhấc cao hơn bên phải, làm chị trông lúc nào cũng như sắp nói một câu nghịch.
 
 — Ủa, em qua chơi hả?
 
-— Dạ. Em trả cái hộp hôm trước chị cho ổi.
+— Em trả hộp hôm trước.
 
-— Trời, cái hộp nhựa mà cũng đem trả.
+— Cái hộp nhựa mà cũng trả.
 
-Như kéo ghế cho Quỳnh.
+Như kéo ghế.
 
-— Ngồi đi. Chị đang làm bánh trứng đem qua phòng trực tối nay. Bà cô chị bán đồ ăn sáng, chỉ chị làm riết thành quen.
-
-Một chiếc bếp điện nhỏ đặt sát cửa sổ, bên trên là khuôn gang nhiều ô. Mùi bơ, trứng và hành phi thơm đến mức Quỳnh chợt nhận ra mình chưa ăn trưa.
+Một bếp điện nhỏ cạnh cửa sổ, trên đó là khuôn bánh nhiều ô. Mùi bơ, trứng và hành phi làm bụng Quỳnh réo nhẹ.
 
 — Ký túc cho nấu cái này hả chị?
 
@@ -216,97 +132,59 @@ Như nháy mắt.
 
 — Không.
 
-— Vậy chị còn làm?
+— Vậy còn nấu?
 
-— Cuộc sống phải có một chút phạm pháp nhẹ mới vui.
+— Cuộc sống phải có chút phạm pháp nhẹ mới vui.
 
 Quỳnh bật cười.
 
-Như gắp cho nó một cái bánh vừa chín.
+Như đưa nó một cái bánh mới chín.
 
-— Ăn đi. Đừng méc.
+Chính sự bình thường ấy làm việc nói dối khó hơn.
 
-Bánh nóng, vỏ ngoài hơi giòn, bên trong có trứng cút và hành. Hoàn toàn bình thường.
+— Công an trả điện thoại rồi chị.
 
-Chính sự bình thường đó làm Quỳnh thấy hơi có lỗi vì tới đây với mục đích thử người ta.
-
-Như hỏi:
-
-— Tối qua mấy đứa ổn không?
-
-— Dạ. Công an lấy điện thoại với cuốn sổ đi rồi.
-
-Quỳnh nói tự nhiên nhất có thể.
-
-— Sáng nay họ trả điện thoại lại rồi chị.
-
-Như đang đổ bột vào khuôn.
-
-Bàn tay dừng một thoáng.
+Bàn tay Như đang rót bột dừng rất ngắn.
 
 — Trả rồi hả?
 
-— Dạ. Họ nói chưa có gì để giữ. Tụi em sợ nên giấu dưới gầm giường Hân, trong cái hộp màu xanh.
+— Dạ. Tụi em giấu dưới gầm giường Hân, trong hộp xanh.
 
-Một lời nói dối được chuẩn bị trước luôn nghe giả hơn Quỳnh tưởng.
+Như chỉ “ừ”.
 
-Nó cố không nhìn thẳng Như.
+— Chị thấy đừng giữ trong phòng. Nếu có người nhắm tụi em, đồ đó giống cái mồi.
 
-Như chỉ “ừ” một tiếng.
+Một lời khuyên hợp lý tới mức Quỳnh thấy có lỗi.
 
-— Chị thấy đừng giữ trong phòng. Nếu thật có người nhắm tụi em, đồ đó giống cái mồi.
+Nó đổi chuyện.
 
-Lời khuyên hợp lý.
-
-Quỳnh bắt đầu ghét công việc của mình.
-
-Nó đổi chủ đề.
-
-— Chị Như, hồi chị Trang chết chị học ở đây chưa?
+— Hồi chị Trang chết chị học đây chưa?
 
 — Chưa. Chị vào sau một năm.
 
-— Vậy sao chị biết chi tiết dữ vậy?
+— Sao chị biết kỹ vậy?
 
 Như cười.
 
-— Trường nội trú mà em. Tin đồn sống lâu hơn người. Với lại chị chơi với mấy chị khóa trên từng ở khu này.
+— Trường nội trú mà. Tin đồn sống lâu hơn người.
 
-— Chị có biết chị Hoa không?
+Quỳnh hỏi Hoa, Quyên.
 
-— Không trực tiếp.
+Như đáp vừa đủ, không diễn vẻ bí hiểm.
 
-— Quyên?
+Khi nói tới Quyên, chị nhìn xuống mẻ bánh.
 
-— Có gặp vài lần. Lúc chị vào trường thì Quyên lớp mười một.
+— Nó hiền. Người ta sau này kể nó ghét Trang, nhưng chị không chắc. Người chết rồi, ai muốn gắn tính gì lên chẳng được.
 
-Như quay mặt xuống khuôn bánh.
+Câu đó khiến Quỳnh nhìn chị lâu hơn.
 
-— Nó hiền. Hơi yếu bóng vía.
+— Vậy sao hôm đầu chị kể như chắc chắn?
 
-Quỳnh nhớ khuôn mặt Quyên đứng giữa phòng, máu chảy từ mắt.
+Như khựng một nhịp.
 
-— Người ta nói chị Quyên ghét Trang?
+Rồi cái khóe miệng trái lại nhấc lên.
 
-Như lắc đầu.
-
-— Tin đồn thôi. Người chết rồi ai muốn gắn tính gì lên chẳng được.
-
-Câu nói khiến Quỳnh nhìn chị.
-
-Nó bất ngờ vì sự công bằng trong đó.
-
-Như gắp mẻ bánh ra đĩa.
-
-— Đừng tin hết chuyện chị kể hôm đầu. Chị cũng nghe lại thôi.
-
-— Vậy tại sao chị kể như chắc chắn?
-
-Như khựng.
-
-Rồi cười.
-
-— Chị kể chuyện ma mà. Kể “nghe nói có thể là” thì hết hay.
+— Chị kể chuyện ma. Mở câu nào cũng “nghe nói có thể là” thì tụi em ngủ mất.
 
 Một lý do rất đời.
 
@@ -314,47 +192,23 @@ Quỳnh không biết nên xếp nó vào đâu.
 
 ***
 
-Nó xin dùng nhà vệ sinh trước khi về.
+Trước khi về, nó xin dùng nhà vệ sinh.
 
-Phòng tắm 203 sạch hơn 201. Trên kệ có dầu gội, sữa rửa mặt, vài lọ mỹ phẩm, một hộp nhuộm tóc cũ. Quỳnh vừa khóa cửa đã ngửi thấy một mùi ngọt.
+Cửa vừa khóa, Quỳnh ngửi thấy mùi hoa nhài.
 
-Hoa nhài.
+Nhẹ.
 
-Không phải mùi nước hoa rõ ràng.
+Ngọt.
 
-Nó lẫn với một thứ hăng nhẹ giống cồn hoặc keo cao su.
+Lẫn một thứ hăng giống cồn hoặc keo.
 
-Quỳnh đứng yên vài giây.
+Trên lavabo có một vệt đỏ nhỏ. Bên cạnh thùng rác là một sợi tóc đen bóng bất thường.
 
-Mùi này quen.
+Quỳnh cúi nhìn, nhưng không nhặt.
 
-Nó từng ngửi ở đâu đó trong ba ngày qua.
+Nó đã bắt đầu hiểu một căn phòng đầy đồ cá nhân có thể tạo ra hàng trăm “vật chứng” nếu người tìm đủ muốn tin.
 
-Không nhớ được.
-
-Trên thành lavabo có một vệt đỏ rất nhỏ.
-
-Quỳnh cúi nhìn.
-
-Không phải máu.
-
-Nó quệt bằng giấy, màu đỏ tươi như son hoặc phẩm nhuộm.
-
-Bên cạnh thùng rác có một sợi tóc đen dài, bóng bất thường.
-
-Quỳnh nhặt lên rồi lại đặt xuống.
-
-Tóc giả.
-
-Có thể.
-
-Hoặc chỉ là tóc thật dính dầu.
-
-Nó không bỏ vào túi.
-
-Nếu cái gì cũng nhặt làm “vật chứng”, cuối cùng nó sẽ thành chính kiểu người Lan luôn nhắc phải tránh.
-
-Khi mở cửa ra, Như đang đứng ngoài.
+Khi mở cửa, Như đứng bên ngoài.
 
 Quỳnh giật nhẹ.
 
@@ -362,439 +216,233 @@ Quỳnh giật nhẹ.
 
 — Đau bụng.
 
-— Bánh chị mới cho ăn mà đau rồi là chị quê dữ nha.
+Như nhăn mặt.
 
-Như cười.
+— Bánh chị làm mà ăn xong đau là chị quê dữ nha.
 
-Mùi hoa nhài trên người chị rất nhẹ.
+Chị cười.
 
-Lúc Quỳnh đi ra cửa, Trâm xuất hiện ở đầu hành lang.
+Mùi hoa nhài trên người cũng rất nhẹ.
 
-Nó đi thẳng vào phòng 203 không gõ.
+Lúc Quỳnh ra tới hành lang, Trâm đi thẳng vào 203 không gõ.
 
-Như nhìn Trâm.
-
-— Em ăn chưa?
-
-— Rồi.
+Như vừa thấy nó đã nói:
 
 — Trên bàn có trà đào đó, loại em hay uống.
 
 Quỳnh dừng một nhịp.
 
-Trâm nhìn nó.
+Trâm chưa từng nói trước cả phòng mình thích trà đào.
 
-— Mày cũng ở đây à?
+Có thể hai người chỉ thân.
 
-— Ừ. Qua trả hộp.
+Thân không phải tội.
 
-— Về chung không?
-
-— Tao có việc dưới thư viện.
-
-Quỳnh bước đi.
-
-Sau lưng, cửa 203 khép lại.
-
-Nó đi hết nửa hành lang mới nhận ra một chi tiết rất nhỏ:
-
-Trâm chưa từng nói trước mặt cả phòng rằng nó thích trà đào.
-
-Có thể hai người thân hơn Quỳnh nghĩ.
-
-Thân hơn không phải tội.
-
-Nhưng Quỳnh ghi nhớ.
+Nhưng nó ghi nhớ.
 
 ***
 
-Lan và Hân đã chuẩn bị cái bẫy dưới gầm giường.
+Lan và Hân đặt một hộp xanh rỗng dưới giường. Lan rắc lớp phấn mỏng lên nắp, Hân kẹp một sợi tóc vào khe.
 
-Không có điện thoại.
-
-Chỉ có một hộp nhựa xanh rỗng, đặt sát chân tường. Trên nắp hộp, Lan rắc một lớp bột phấn rất mỏng, gần như không nhìn thấy nếu không biết trước. Hân kẹp một sợi tóc dài của mình vào khe nắp.
-
-Thi thấy chúng làm thì há miệng.
+Thi nhìn hai đứa làm, mắt tròn xoe.
 
 — Hai đứa bây sống lỗi ghê.
 
-Hân chỉ tay.
+— Mày biết rồi thì im. — Hân nói.
 
-— Mày biết rồi thì im.
-
-— Tao im. Nhưng cho tao tham gia với.
+— Cho tao tham gia.
 
 — Không.
 
 — Tại sao?
 
-— Vì mặt mày có chữ “tao biết bí mật”.
+Hân nhìn thẳng mặt nó.
 
-Thi soi gương thật.
+— Mặt mày có chữ “tao biết bí mật”.
+
+Thi quay sang gương thật.
 
 — Đâu?
 
-Hân bỏ đi.
+Lan bật cười mũi.
 
-Chiều cả phòng xuống học thể dục.
+Chiều cả phòng đi học thể dục. Trâm nói đau bụng, ở lại.
 
-Trâm nói đau bụng nên xin ở lại.
+Vậy là thí nghiệm lập tức bẩn.
 
-Quỳnh nghe mà bụng chùng xuống.
-
-Kế hoạch lập tức mất giá trị.
-
-Nếu hộp bị động, có thể là Trâm.
-
-Nó nói với Lan.
-
-Lan nhún vai.
-
-— Vậy thì ghi cả hai khả năng. Thí nghiệm đời thật không sạch như sách giáo khoa.
-
-Khi cả nhóm quay về lúc năm giờ, hộp xanh vẫn nằm nguyên.
-
-Nhưng sợi tóc ở khe nắp đã mất.
-
-Lớp bột phấn có một vệt kéo ngang.
+Khi mọi người về, sợi tóc ở khe nắp đã mất. Phấn có một vệt kéo.
 
 Hộp từng được mở.
 
-Hân quay sang Trâm.
+Nhưng người có cơ hội không chỉ Như.
 
-— Chiều mày có đụng dưới giường tao không?
+Trâm ở lại.
 
-Trâm đang gấp quần áo.
+Cô quản sinh có ghé.
 
-— Không.
+Như mang bánh qua và có lúc đi vệ sinh.
 
-— Có ai vào phòng?
+Hân hỏi vài câu, càng hỏi không khí càng căng.
 
-— Chị Như qua đưa bánh. Với cô quản sinh ghé hỏi sức khỏe.
+Trâm đang gấp quần áo bỗng ngẩng lên.
 
-Quỳnh nhìn Lan.
+— Tụi mày thử tao hả?
 
-Lan không tỏ cảm xúc.
+Quỳnh thấy hai cánh mũi nó hơi nở ra, môi mím rất chặt. Không phải vẻ một người bị bắt quả tang. Giống một người đã mệt vì biết mình đang bị nhìn.
 
-— Chị Như ở bao lâu? — Quỳnh hỏi.
-
-— Chắc năm phút.
-
-— Mày có ở trong phòng lúc chị ấy qua?
-
-— Có.
-
-— Hai người có lúc nào không ở cùng chỗ?
-
-Trâm cau mày.
-
-— Mày hỏi cung tao hả?
-
-Quỳnh khựng.
-
-Câu đó không vô lý.
-
-— Tao chỉ hỏi.
-
-— Chị ấy đi vệ sinh. Tao nằm trên giường.
-
-— Bao lâu?
-
-— Tao không bấm giờ.
-
-Không khí căng lên.
-
-Hân chen vào:
-
-— Thôi. Không kết luận gì hết.
-
-Lan gật.
-
-— Đúng. Hộp bị mở. Người có cơ hội là Trâm, Như, cô quản sinh, và bất kỳ ai vào lúc Trâm ngủ hoặc không để ý. Chỉ vậy thôi.
-
-Trâm nhìn cái hộp.
-
-Mặt nó chợt đổi.
-
-— Trong đó vốn có gì?
-
-Không ai trả lời.
-
-Trâm hiểu.
-
-Nó nhìn Quỳnh.
-
-— Tụi mày thử tao?
-
-— Không riêng mày. — Quỳnh nói.
+— Không riêng mày.
 
 — Nhưng tụi mày nghi tao.
 
 — Tao nghi nhiều người.
 
-— Kể cả anh mày?
-
-Câu đó đâm trúng chỗ Quỳnh không muốn.
-
-Nó im.
-
 Trâm cười nhạt.
 
-— Vậy được.
+— Kể cả anh mày?
 
-Nó trèo lên giường trên, kéo rèm.
+Quỳnh im.
 
-Hương nhìn Quỳnh hơi trách.
+Một câu trúng đúng chỗ đau.
+
+Trâm trèo lên giường, kéo rèm.
 
 Hân thở dài.
 
-— Tụi mình càng làm kiểu này càng dễ tự cắn nhau.
+— Tụi mình làm kiểu này lâu nữa là tự cắn nhau trước khi người kia cần làm gì.
 
-Lan nói:
+Lan nhìn cái hộp.
 
-— Nhưng nếu không làm thì người kia có lợi thế.
+— Vậy từ giờ chỉ thử khi thật cần. Không biến cả phòng thành phòng hỏi cung.
 
-— Tao biết. — Hân đáp. — Nên từ giờ chỉ ba đứa mình thử. Đừng kéo cả phòng vào nếu chưa cần.
+Quỳnh nhìn tấm rèm khép kín trên đầu.
 
-Quỳnh nhìn tấm rèm giường Trâm đã kéo kín.
-
-Nó không thấy mình thắng được gì.
+Nó không thấy mình thắng gì cả.
 
 ***
 
-Tối đó Như đem qua một hộp bánh trứng.
-
-Chị vẫn cười như thường.
+Tối đó Như mang bánh trứng sang.
 
 Không ai nhắc cái hộp xanh.
 
-Thi ăn hai cái liền, bị Hân đập tay vì “để phần người khác”. Mai xin công thức. Dung hỏi chị Như có bỏ phô mai được không. Không khí giống một phòng ký túc bình thường.
+Thi ăn hai cái, bị Hân đập tay. Mai hỏi công thức. Dung xin bỏ phô mai lần sau. Mười phút, căn phòng trở lại giống tám nữ sinh sống chung hơn là tám nhân chứng.
 
-Quỳnh ăn nửa cái rồi thôi.
+Trâm quay lưng xuống dưới, vẫn không nói với Quỳnh.
 
-Không phải vì nghi bánh.
+Quỳnh nằm nhìn quạt trần.
 
-Nó chỉ không đói.
-
-Khoảng mười một giờ, Hân tắt đèn.
-
-Trâm quay lưng xuống dưới, không nói với Quỳnh câu nào.
-
-Quỳnh nằm nhìn trần.
-
-Cánh quạt bất động.
-
-Không khí nóng hơn những đêm mưa trước. Từ cửa sổ, mùi cây cỏ khô dần sau nắng len vào.
+Đêm nóng hơn những hôm mưa.
 
 Nó nhắm mắt.
 
 ***
 
-Quỳnh đứng giữa một hành lang không có mái.
+Trong mơ, Quỳnh đứng giữa một hành lang không mái.
 
-Mưa rơi thẳng xuống.
+Mưa rơi thẳng xuống nền, nước ngập mắt cá.
 
-Hai bên vẫn là những cánh cửa phòng học cũ của trường, nhưng phía trên chỉ có bầu trời đen. Nước ngập tới mắt cá chân, lạnh buốt.
-
-Ở cuối hành lang có một cô gái đứng quay lưng.
-
-Áo trắng.
-
-Tóc dài.
+Cuối hành lang có một cô gái mặc áo trắng quay lưng.
 
 Quỳnh biết là Trang trước khi cô quay lại.
 
-Không phải vì khuôn mặt.
+Không phải vì tóc hay áo.
 
-Mà vì nỗi buồn.
+Vì cái cách bờ vai ấy rũ xuống.
 
-Có những người nhìn từ phía sau cũng mang một thứ buồn khiến người khác nhận ra.
+Có người mang nỗi buồn rõ tới mức nhìn từ phía sau cũng nhận ra.
 
 — Chị Trang?
 
-Cô gái bước đi.
+Trang bước đi.
 
-Quỳnh đi theo.
+Quỳnh theo tới cây chôm chôm.
 
-Mỗi bước chân làm nước bắn lên, nhưng Trang không tạo tiếng động. Mái tóc cô không ướt dù mưa xuyên qua người.
+Cây không còn lá.
 
-Cuối hành lang mở ra khu vườn sau ký túc.
-
-Cây chôm chôm đứng giữa trời tối, không còn lá.
-
-Dưới gốc là một khoảng đất mới đào.
-
-Quỳnh dừng.
+Dưới gốc là khoảng đất mới đào.
 
 — Ai giết chị?
 
 Trang quay lại.
 
-Khuôn mặt không bê bết máu.
+Khuôn mặt tái, rất trẻ, mắt đen sâu vì thiếu ngủ hoặc vì chết — Quỳnh không biết. Không máu. Không biến dạng. Điều đáng sợ nhất là cô gần bằng tuổi Quỳnh.
 
-Không biến dạng.
+Trang không trả lời.
 
-Chỉ tái và rất trẻ.
+Cô chỉ xuống một cuốn sổ bìa nâu trong bùn.
 
-Trẻ đến mức Quỳnh chợt nghĩ: lúc chết Trang gần bằng tuổi nó bây giờ.
-
-Trang mở miệng.
-
-Không có tiếng.
-
-Cô đưa một ngón tay lên môi.
-
-Rồi chỉ xuống đất.
-
-Một cuốn sổ bìa nâu nằm trong bùn.
-
-Chính cuốn nhật ký vừa được tìm thấy.
-
-Quỳnh cúi xuống.
-
-Các trang tự lật trong gió.
-
-Chữ viết tan ra như mực gặp nước, chảy thành những đường xanh ngoằn ngoèo.
-
-Trang lắc đầu.
-
-Quỳnh hiểu.
+Các trang tự lật. Chữ tan ra thành dòng xanh.
 
 — Không phải của chị?
 
-Trang không gật.
+Trang lắc đầu rất nhẹ.
 
-Cũng không lắc.
+Rồi lại nhìn Quỳnh như thể câu hỏi vẫn chưa đúng.
 
-Cô chỉ nhìn Quỳnh như thể câu hỏi vẫn sai.
-
-Rồi từ phía sau thân cây có tiếng trẻ con khóc.
+Sau lưng có tiếng trẻ con khóc.
 
 Quỳnh quay lại.
 
-Không thấy đứa trẻ nào.
+Không có ai.
 
-Khi nhìn về Trang lần nữa, cô đã đứng ngay trước mặt.
+Khi nhìn về, Trang đã đứng sát trước mặt, trong tay cầm một phong bì vàng cũ và một tấm ảnh.
 
-Trong tay là một phong bì cũ màu vàng nhạt và một tấm ảnh nhỏ.
+Cô đặt chúng vào tay Quỳnh.
 
-Trang đặt chúng vào tay Quỳnh.
-
-Lạnh.
-
-Lạnh đến đau.
-
-— Cái này là gì?
+Lạnh tới đau.
 
 Môi Trang mấp máy.
 
-Lần này Quỳnh nghe được.
+Âm thanh không đi qua tai.
 
-Không phải bằng tai.
+**“Đừng để họ viết lại tôi.”**
 
-Âm thanh như nổi lên từ chính trong đầu.
+Gió nổi lên.
 
-“Đừng để họ viết lại tôi.”
+Sau vai Trang, giữa màn mưa, một người đàn ông đứng dưới ô đen.
 
-Mưa đột ngột nặng hạt.
+Không thấy mặt.
 
-Gió giật mạnh.
+Chỉ thấy bàn tay buông dọc thân.
 
-Cây chôm chôm rung dữ dội.
+Ngón út có một vết sẹo gần đốt giữa.
 
-Từ phần đất dưới gốc, một bàn tay đen bùn thò lên nắm lấy cổ chân Quỳnh.
+Sét lóe.
 
-Nó giật mình lùi lại.
-
-Trang đưa tay ra như muốn kéo nó.
-
-Nhưng phía sau Trang, giữa màn mưa, có một người đàn ông đứng dưới chiếc ô đen.
-
-Quỳnh không nhìn rõ mặt.
-
-Chỉ thấy bàn tay người đó buông dọc thân.
-
-Ngón út có một vết sẹo nhỏ gần đốt giữa.
-
-Một giây sau, sét sáng trắng cả khu vườn.
-
-Quỳnh tỉnh dậy.
+Quỳnh tỉnh.
 
 ***
 
-Nó ngồi bật lên, thở hổn hển.
+02:26.
 
-Phòng 201 tối.
+Nó ngồi bật dậy, thở gấp.
 
-Điện thoại dưới gối chỉ 02:26.
-
-Không ai thức.
-
-Quỳnh đưa tay lau mặt.
-
-Bàn tay phải đang nắm một thứ gì đó.
-
-Nó đứng hình.
-
-Một phong bì cũ màu vàng nhạt.
-
-Và một tấm ảnh nhỏ.
-
-Giống hệt trong mơ.
+Bàn tay phải đang nắm một phong bì vàng cũ và một tấm ảnh.
 
 Quỳnh không hét.
 
-Nó cũng không gọi cả phòng.
+Nó ngồi im gần một phút.
 
-Nó chỉ ngồi im gần một phút, nhìn hai món đồ trong tay.
+Rồi bật đèn pin.
 
-Rồi bật đèn pin điện thoại.
+Ảnh chụp ba học sinh trên khán đài.
 
-Tấm ảnh chụp ba học sinh ngồi trên bậc khán đài sân trường.
-
-Quân ở mép trái.
+Quân bên trái.
 
 Trang ở giữa.
 
-Tùng ở bên phải.
+Tùng bên phải.
 
-Ảnh rất cũ. Màu đã ngả vàng. Góc dưới bị gập một đường trắng.
+Mặt sau viết:
 
-Quỳnh lật mặt sau.
+**“Tháng 4/2007 — ba đứa ngu nhất lớp học thêm.”**
 
-Có dòng chữ bằng bút bi:
+Quỳnh xuống giường, đánh thức Lan.
 
-“Tháng 4/2007 — ba đứa ngu nhất lớp học thêm.”
+Lan mở mắt. Vừa nhìn mặt Quỳnh, nó tỉnh hẳn.
 
-Một nét cười nhỏ vẽ cạnh chữ.
+— Tao cần mày nhìn tay tao.
 
-Phong bì không dán kín.
-
-Quỳnh không mở ngay.
-
-Nó xuống giường.
-
-Đánh thức Lan.
-
-— Lan.
-
-Lan mở mắt, nhìn mặt Quỳnh rồi tỉnh hẳn.
-
-— Gì?
-
-— Tao cần mày nhìn tay tao trước.
-
-— Hả?
-
-— Nhìn đi.
-
-Lan bật đèn pin.
-
-Dưới móng tay Quỳnh có bùn.
-
-Không nhiều.
-
-Chỉ vài hạt đất đen dính ở kẽ móng.
+Dưới móng Quỳnh có vài hạt bùn đen.
 
 Lan ngồi dậy.
 
@@ -802,21 +450,15 @@ Lan ngồi dậy.
 
 — Không.
 
-— Chắc không?
+— Chắc?
 
 — Chắc.
 
-— Cửa?
+Chìa khóa vẫn buộc ở cổ tay Hân. Mẩu giấy ở cửa còn nguyên.
 
-Hai đứa nhìn Hân.
+Lan nhìn phong bì.
 
-Hân ngủ ở đối diện, chiếc chìa khóa phòng buộc bằng dây vào cổ tay theo đúng quyết định từ chiều.
-
-Mẩu giấy niêm ở cửa vẫn nguyên.
-
-Lan nhìn phong bì trong tay Quỳnh.
-
-Không nói câu “ma”.
+Nó không nói “ma”.
 
 Chỉ hỏi:
 
@@ -824,43 +466,19 @@ Chỉ hỏi:
 
 — Trong mơ.
 
-Lan im rất lâu.
-
-Rồi nói:
+Lần đầu tiên trong nhiều ngày, Lan không có câu trả lời ngay.
 
 — Đánh thức Hân.
 
 ***
 
-Ba đứa ngồi dưới sàn nhà vệ sinh vì không muốn cả phòng thức.
+Ba đứa ngồi dưới sàn nhà vệ sinh để không làm cả phòng thức.
 
-Hân nghe xong câu chuyện, kiểm tra cửa, cửa sổ, ban công, cả gầm giường. Không có dấu ai vào.
+Hân kiểm cửa, cửa sổ, ban công. Lan chụp hai mặt phong bì, ảnh, bùn dưới móng tay.
 
-— Mở không? — Quỳnh hỏi.
+Rồi Quỳnh mở thư.
 
-Hân nhìn phong bì.
-
-— Chụp trước.
-
-Lan chụp hai mặt, mép gấp, tấm ảnh, cả bùn dưới móng tay Quỳnh.
-
-Sau đó Quỳnh dùng nhíp trong bộ làm móng của Mai mở mép phong bì.
-
-Bên trong là một tờ giấy gấp tư.
-
-Mực đã nhạt sang màu tím xanh.
-
-Không phải thư dài.
-
-Chỉ vài dòng của một cậu con trai viết cho một cô gái.
-
-Không có lời đe dọa.
-
-Không nhắc cái thai.
-
-Không nhắc cây chôm chôm.
-
-Nội dung vụng về đến mức nếu không ở trong hoàn cảnh này có lẽ Thi sẽ đọc rồi cười cả tuần.
+Chỉ vài dòng vụng về của một cậu con trai gửi một cô gái:
 
 “Trang,
 
@@ -868,177 +486,89 @@ Tao biết mày vẫn nghĩ tao đùa, nhưng tao không đùa. Tao ghét nhìn 
 
 Nguyễn Hoàng Thanh Tùng mãi yêu Lê Thị Yến Trang.”
 
-Hân đọc xong, ngẩng lên.
+Hân ngẩng lên.
 
-Lan không nhìn thư nữa.
+Lan nhìn Quỳnh.
 
-Nó nhìn Quỳnh.
-
-— Đây chưa chứng minh Tùng giết Trang.
-
-Quỳnh gật.
+— Chưa chứng minh Tùng giết Trang.
 
 — Tao biết.
 
-— Cũng chưa chứng minh thư thật.
+— Chưa chứng minh thư thật.
 
 — Tao biết.
 
-— Và việc mày mơ thấy rồi tỉnh dậy cầm nó không có nghĩa mình được bỏ qua khả năng ai đó đặt nó vào tay mày bằng cách mình chưa tìm ra.
-
-Quỳnh lại gật.
-
-— Tao biết.
-
-Lan thở ra.
-
-— Tốt.
+Lan định nói tiếp rồi dừng.
 
 Hân nhìn nó.
 
-— Mày có thể cho nó sợ năm phút rồi mới kiểm tra chéo không?
+— Cho nó sợ năm phút được không?
 
 Lan im.
 
 Rồi đưa tay nắm cổ tay Quỳnh.
 
+Bàn tay nó lạnh.
+
 — Tao cũng sợ.
 
-Đó là câu hiếm hoi Lan nói từ đầu tuần mà không có một lớp lý trí phủ lên trên.
-
-Quỳnh siết lại tay nó.
+Đó là câu hiếm hoi Lan nói mà không có lý trí phủ bên ngoài.
 
 ***
 
-Bốn giờ sáng, ông Phúc nhận cuộc gọi lần thứ ba trong chưa đầy hai ngày.
+Ông Phúc tới lúc trời vừa sáng.
 
-Ông tới trường lúc trời vừa sáng.
+Ông nghe chuyện, hỏi thuốc, rượu, mộng du và đồ ăn tối. Ghi lại hết.
 
-Quỳnh giao phong bì, thư, tấm ảnh.
+Sau cùng ông nói:
 
-Ông Phúc nghe câu “cháu cầm nó từ trong mơ” mà mặt không thay đổi.
-
-Chỉ hỏi:
-
-— Cháu có uống thuốc gì tối qua không?
-
-— Không.
-
-— Rượu bia?
-
-— Không.
-
-— Có ai đưa đồ ăn thức uống?
-
-Quỳnh nhớ hộp bánh trứng của Như.
-
-— Có. Cả phòng ăn bánh chị Như mang qua. Nhưng em chỉ ăn nửa cái.
-
-Ông ghi lại.
-
-— Những người khác có biểu hiện gì không?
-
-— Không.
-
-— Cháu có tiền sử mộng du?
-
-— Không.
-
-— Gia đình có ai?
-
-— Em không biết. Chắc không.
-
-Ông gật.
-
-— Chú sẽ không ghi vào biên bản là “ma đưa thư”. Chú sẽ ghi: vật lạ được phát hiện trong tay nhân chứng sau khi ngủ, phòng được khóa từ bên trong theo lời khai các nhân chứng. Được không?
-
-Quỳnh nhìn ông.
+— Chú không ghi “ma đưa thư”. Chú ghi: vật lạ được phát hiện trong tay nhân chứng sau khi ngủ, phòng khóa từ bên trong theo lời khai. Đúng không?
 
 — Dạ.
 
-Đó chính xác là điều đã xảy ra, không hơn không kém.
+— Vậy ghi vậy.
 
-Ông Phúc cầm tấm ảnh lên.
+Ông cầm ảnh ba người lên.
 
-— Ba người này chú biết.
+Ngón tay dừng ở Tùng.
 
-Ngón tay ông dừng ở Tùng.
+Quỳnh hỏi chuyện năm 2007.
 
-— Hồi đó Tùng có được lấy lời khai không chú? — Quỳnh hỏi.
+Ông Phúc đáp ngắn: Tùng từng được lấy lời khai, từng nằm trong nhóm người bị xem xét, nhưng không đủ chứng cứ.
 
-— Có.
+— Còn bây giờ chú nghi không?
 
-— Vì sao?
+Ông nhìn nó.
 
-— Bạn thân của Quân. Có quan hệ quen biết với Trang. Và là người xác nhận Quân ở nhà mình tới khoảng một giờ rưỡi đêm 14.
+— Chú muốn biết lá thư này bao nhiêu tuổi trước.
 
-— Chú có nghi Tùng không?
+Rồi ông nhắc thêm kết quả sơ bộ của cuốn nhật ký: những trang quan trọng có ít nhất hai loại mực, độ cũ không đồng nhất.
 
-Ông Phúc nhìn nó.
+Có khả năng một cuốn sổ cũ đã bị viết thêm.
 
-— Cháu đang hỏi suy nghĩ của chú năm năm trước hay bây giờ?
+Quỳnh nghe câu đó, nhớ giọng Trang trong mơ.
 
-— Cả hai.
+**Đừng để họ viết lại tôi.**
 
-— Năm năm trước, có. Như rất nhiều người khác. Nhưng nghi không đủ để bắt ai. Bây giờ...
-
-Ông đặt ảnh xuống.
-
-— Chú muốn biết lá thư này bao nhiêu tuổi trước khi trả lời.
-
-Quỳnh gật.
-
-Ông Phúc đứng dậy, rồi nhớ gì đó.
-
-— Có một chuyện nữa. Cái nhật ký.
-
-Quỳnh nhìn ông.
-
-— Giả hả chú?
-
-— Chưa kết luận. Nhưng bên kỹ thuật nói ít nhất hai loại mực khác nhau được dùng trong những trang quan trọng. Có trang nét mực già hơn, có trang mới hơn nhiều. Cần kiểm tra tiếp.
-
-Lan đứng cạnh cửa lập tức hỏi:
-
-— Nghĩa là có người lấy một cuốn sổ cũ rồi viết thêm?
-
-— Có thể.
-
-Ông Phúc nhấn vào hai chữ đó.
-
-— Có thể.
-
-Quỳnh nhớ câu Trang trong mơ.
-
-Đừng để họ viết lại tôi.
-
-Một cơn lạnh chạy dọc cánh tay.
-
-Ngoài cửa sổ phòng quản sinh, nắng sớm vừa xuyên qua mây, chiếu lên sân trường còn ướt. Học sinh bắt đầu xuống tập thể dục, tiếng gọi nhau vang lên, tiếng dép kéo trên hành lang, tiếng chổi quét lá.
-
-Một ngày rất bình thường đang bắt đầu.
+Ngoài cửa, học sinh bắt đầu xuống sân. Tiếng dép, tiếng chổi, tiếng gọi nhau. Một ngày rất bình thường đang mở ra.
 
 Ông Phúc bỏ thư vào túi chứng cứ.
 
-Khi ông quay đi, Quỳnh chợt nhìn thấy bàn tay phải của mình phản chiếu trên mặt kính tủ.
+Quỳnh nhìn bàn tay mình phản chiếu trên mặt kính tủ.
 
-Nó nhớ lại người đàn ông dưới chiếc ô trong mơ.
+Vết sẹo ở ngón út trong mơ.
 
-Ngón út.
+Tùng có hay không, nó chưa biết.
 
-Vết sẹo gần đốt giữa.
+Nhưng Quân thì có.
 
-Quỳnh không biết Tùng có vết sẹo đó hay không.
+Hồi bé anh từng bị mảnh chai cứa đúng chỗ ấy.
 
-Nhưng nó biết một người khác chắc chắn có.
+Giấc mơ vừa đặt vào tay Quỳnh một lá thư chỉ về Tùng.
 
-Hôm qua ở quán bánh canh, khi Quân cầm đũa, Quỳnh đã thấy vết trắng nhỏ trên ngón út anh từ hồi bé bị mảnh chai cứa.
+Cũng trong giấc mơ ấy, một chi tiết lại chỉ về Quân.
 
-Giấc mơ vừa đưa nó một lá thư chỉ về Tùng.
-
-Nhưng đồng thời lại cho nó một hình ảnh chỉ về Quân.
-
-Lần đầu tiên Quỳnh hiểu rõ điều đáng sợ nhất của việc nhận manh mối từ người chết:
+Lần đầu tiên Quỳnh hiểu điều nguy hiểm nhất của manh mối đến từ người chết:
 
 Người chết có thể không nói dối.
 
