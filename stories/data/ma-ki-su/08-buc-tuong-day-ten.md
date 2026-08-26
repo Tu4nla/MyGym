@@ -1,6 +1,6 @@
 Nhà ông Cẩn cách nhà Hà chưa tới một cây số.
 
-Nếu đi ban ngày, đó chỉ là một căn nhà cũ cuối ngõ, tường vôi xám, mái ngói thấp, trước sân có cây khế già. Nếu đi lúc gần nửa đêm cùng một ông già vừa nói mình có thể đã từng có con nhưng không nhớ nổi mặt con, nó tự nhiên mang một vẻ rất khác.
+Ban ngày, chắc nó chỉ là căn nhà cũ cuối ngõ: tường vôi xám, mái ngói thấp, cây khế già nghiêng qua cổng. Gần nửa đêm, đi sau một ông già vừa nói mình có thể từng có con nhưng không còn nhớ nổi mặt con, căn nhà nhìn như một thứ khác.
 
 Phong đi sát tôi.
 
@@ -8,19 +8,19 @@ Phong đi sát tôi.
 
 — Gì?
 
-— Nếu lát vô nhà thấy người treo đầy trần thì sao?
+— Nếu lát vô thấy người treo đầy trần thì sao?
 
 — Em xem phim ít thôi.
 
 — Em hỏi để chuẩn bị tâm lý.
 
-— Nếu có thật thì em chạy trước.
+— Nếu có thật em chạy trước.
 
 — Còn anh?
 
 — Anh chạy sau để có người chắn.
 
-Phong nhìn tôi.
+Phong nhìn tôi qua cặp kính.
 
 — Em bắt đầu hiểu vì sao anh sống được tới giờ rồi.
 
@@ -28,61 +28,41 @@ Phong nhìn tôi.
 
 Ông Cẩn mở cửa.
 
-Mùi giấy cũ ập ra trước.
+Mùi giấy cũ ập ra.
 
 Không có xác người.
 
-Có thứ khác làm tôi đứng lại.
+Có thứ khác khiến Phong im hẳn.
 
 Tường.
 
-Tất cả bốn bức tường phòng khách đều kín chữ.
+Bốn bức tường phòng khách kín tên người.
 
-Tên người.
+Mực đen. Mực đỏ. Bút chì. Than. Có chỗ giấy mới dán đè lên chữ cũ. Tên chạy lên cánh cửa, mặt sau tủ, mép bàn, thậm chí sát trần. Một số nét nhạt gần mất; một số được tô lại nhiều lần đến đóng cục.
 
-Hàng nghìn cái tên viết bằng mực, bút chì, than, có chỗ dán giấy đè lên lớp cũ. Một số chữ đã nhạt. Một số được tô lại nhiều lần đến mức mực đóng cục.
-
-Trần nhà cũng có.
-
-Cánh cửa.
-
-Mặt sau tủ.
-
-Cả mặt bàn.
+Ông Cẩn đứng giữa căn phòng ấy, lưng còng nhẹ, hai ngón giữa ám mực tới tận kẽ móng. Nhìn ông ở đây, tôi mới hiểu câu “người viết tên” không phải cách nói văn vẻ.
 
 Phong nuốt khan.
 
-— Em xin rút lại câu lúc nãy. Cái này còn ghê hơn người treo.
+— Em xin rút câu lúc nãy. Cái này ghê hơn người treo.
 
 Ông Cẩn nghe thấy.
 
 — Chữ không cắn cậu đâu.
 
-Tôi nhìn một dãy tên gần cửa.
+Tôi không chắc.
 
-— Bác nhớ hết họ là ai không?
+***
 
-— Không.
-
-— Vậy sao biết phải viết lại?
-
-Ông lấy trong tủ ra một cuốn sổ dày bọc nilon.
-
-— Tôi có quy tắc.
+Ông đưa tôi cuốn sổ bọc nilon.
 
 Trang đầu ghi:
 
-“Mỗi sáng đọc toàn bộ danh sách. Tên nào thấy xa lạ nhất thì tô lại trước.”
+**“Mỗi sáng đọc toàn bộ danh sách. Tên nào thấy xa lạ nhất thì tô lại trước.”**
 
-Tôi lật.
+Ngày tháng kéo dài hơn hai mươi năm.
 
-Có ngày tháng kéo dài hơn hai mươi năm.
-
-— Bác tự nghĩ ra?
-
-— Không.
-
-— Ai chỉ?
+— Ai chỉ bác làm vậy?
 
 — Một người đàn bà.
 
@@ -92,35 +72,19 @@ Có ngày tháng kéo dài hơn hai mươi năm.
 
 — Tôi quên rồi.
 
-Tôi phải công nhận case này rất biết cách làm nghề điều tra khó chịu.
+Case này đúng là có khiếu xúc phạm nghề điều tra.
 
-Ông chỉ lên một góc tường.
-
-Có một khoảng trắng hình chữ nhật sạch hơn xung quanh.
+Ông chỉ một khoảng trắng trên tường, sạch hơn xung quanh.
 
 — Chỗ đó từng có tên con tôi.
 
-— Sao mất?
-
-— Tôi không nhớ tên nó nên không viết lại được.
-
-— Không còn bản sao?
-
-— Tất cả bản tôi biết đều trắng.
-
-Hà đứng phía sau, tay ôm cuốn sổ có tên Khôi.
-
-Cô hỏi:
+Hà đứng phía sau ôm sổ Khôi vào ngực. Mắt cô đỏ nhưng khô.
 
 — Bác nhớ mình có con bằng cách nào?
 
-Ông Cẩn cười buồn.
-
 — Một cái giường.
 
-Ông dẫn chúng tôi vào căn phòng nhỏ phía sau.
-
-Một chiếc giường trẻ con bằng gỗ đặt sát tường. Chân giường đã mòn. Trên thành có những vạch chiều cao và ngày tháng.
+Phòng nhỏ phía sau có chiếc giường trẻ em bằng gỗ. Thành giường đầy vạch chiều cao.
 
 1993.
 
@@ -128,157 +92,91 @@ Một chiếc giường trẻ con bằng gỗ đặt sát tường. Chân giư�
 
 1995.
 
-Bên cạnh mỗi vạch là một khoảng trống nơi tên đã bị mất.
+Bên cạnh ngày tháng là những khoảng trống, như chữ từng tồn tại rồi bị khoét khỏi gỗ.
 
-— Vợ tôi mất mười năm rồi. Đến lúc chết bà vẫn nói chúng tôi chưa từng có con. — ông Cẩn nói. — Nhưng ai mua cái giường? Ai khắc mấy vạch này? Tôi à?
+Ông Cẩn đặt tay lên một vạch.
 
-Không ai trả lời.
+— Vợ tôi chết vẫn bảo hai vợ chồng chưa từng có con. Nhưng nếu vậy ai mua giường? Ai khắc chiều cao mỗi năm?
 
-Tôi chụp từng chi tiết.
+Giọng ông không run.
 
-Rồi hỏi:
+Chỉ ngón tay run.
 
-— Bác có thấy điểm chung giữa những người bị mất tên không?
-
-Ông đưa tôi một xấp giấy.
-
-— Tôi tìm hai mươi năm rồi.
-
-Danh sách có nghề nghiệp, địa chỉ, ngày bắt đầu “mờ”. Nhiều dòng thiếu thông tin vì chính ông cũng quên dần.
-
-Tôi đọc.
-
-Thợ xây.
-
-Sinh viên.
-
-Chủ cửa hàng.
-
-Một cán bộ nghỉ hưu.
-
-Một người bán vé số.
-
-Không cùng tuổi.
-
-Không cùng nghề.
-
-Nhưng có một cột ông Cẩn tự thêm:
-
-“Lần cuối được nhớ rõ ở đâu?”
-
-Tôi rà xuống.
-
-Một số trống.
-
-Một số ghi bệnh viện.
-
-Nhà.
-
-Quán nước.
-
-Rồi một địa chỉ lặp lại.
-
-Sáu lần.
-
-“Nhà tang lễ Tân Phúc.”
-
-Tôi chỉ.
-
-— Bác từng kiểm tra chỗ này chưa?
-
-— Có.
-
-— Kết quả?
-
-— Đổi chủ ba lần. Hồ sơ cũ cháy năm 2009.
-
-— Sáu người đều từng tới đó?
-
-— Ít nhất sáu người tôi còn ghi được.
-
-Tôi nhìn Hà.
-
-— Khôi có liên quan tang lễ không?
-
-— Không.
-
-— Nghĩ kỹ.
-
-Cô nhắm mắt.
-
-— Nó... từng làm thêm.
-
-— Ở đâu?
-
-— Giao hàng. Sửa máy tính. Cài camera.
-
-Cô mở mắt.
-
-— Khoan.
-
-Hà lao tới túi, lấy điện thoại.
-
-Mở một đoạn chat cũ.
-
-Nhiều tin nhắn đã trống.
-
-Nhưng có một ảnh còn nguyên.
-
-Khôi chụp một tủ DVR camera, caption:
-
-“Khách gì mà nhà lạnh như nhà xác.”
-
-Tôi zoom biển dán trên thiết bị.
-
-TÂN PHÚC.
-
-Phong nói:
-
-— Trùng rồi.
-
-Tôi không trả lời.
-
-Trùng không có nghĩa là nguyên nhân.
-
-Nhưng ít nhất là một hướng.
+Một chi tiết nhỏ làm câu chuyện nặng hơn mọi tiếng khóc.
 
 ***
 
-Chúng tôi không đi nhà tang lễ ngay trong đêm.
+Tôi hỏi điểm chung giữa những cái tên.
 
-Tôi gọi chị Linh.
+Ông Cẩn đưa một bảng tự lập.
 
-Chị nghe máy bằng giọng rất cáu vì lúc đó gần một giờ.
+Tuổi khác nhau.
 
-— Mày biết mấy giờ không Huy?
+Nghề khác nhau.
 
-— Một giờ mười ba.
+Địa chỉ khác nhau.
 
-— Tao không hỏi để nghe đáp án.
+Nhưng cột “lần cuối được nhớ rõ ở đâu?” có một nơi lặp sáu lần:
 
-— Em cần chị kiểm tra giúp pháp nhân Tân Phúc, chủ cũ, vụ cháy hồ sơ 2009 và có vụ mất tích nào liên quan không.
+**TÂN PHÚC.**
 
-— Sáng.
+Nhà tang lễ.
+
+Hồ sơ cũ cháy năm 2009.
+
+Đổi chủ nhiều lần.
+
+Tôi nhìn Hà.
+
+— Khôi từng tới đó không?
+
+— Không...
+
+Cô dừng.
+
+Ngón tay siết mép sổ.
+
+— Nó có làm thêm cài camera.
+
+Hà lục điện thoại cũ. Trong một đoạn chat đã mất nhiều chữ còn một bức ảnh tủ DVR.
+
+Caption:
+
+“Khách gì mà nhà lạnh như nhà xác.”
+
+Trên thiết bị dán tên:
+
+**TÂN PHÚC.**
+
+Phong hạ giọng:
+
+— Trùng rồi.
+
+— Trùng là hướng. Chưa phải nguyên nhân.
+
+Nó gật, lần này không cãi.
+
+***
+
+Chúng tôi không tự xông vào Tân Phúc lúc một giờ sáng.
+
+Tôi gọi chị Linh, nhờ kiểm pháp nhân, vụ cháy và người mất tích liên quan.
+
+— Sáng. — chị nói.
 
 — Gấp.
 
 — Mày đang bị ai đuổi à?
 
-Tôi nhìn tường đầy tên.
+Tôi nhìn cả căn phòng tên.
 
-— Có thể là cả một đống người bị quên.
+— Có thể là một đống người mà không còn ai nhớ để đuổi.
 
-Đầu dây im vài giây.
+Đầu dây im.
 
-Chị Linh đổi giọng.
+— Gửi địa chỉ. Và đừng tự làm anh hùng.
 
-— Gửi địa chỉ. Sáng tao làm.
-
-— Cảm ơn chị.
-
-— Và đừng tự ý xông vào đâu hết.
-
-— Em là người rất cẩn thận.
+— Em cẩn thận lắm.
 
 — Huy.
 
@@ -286,495 +184,297 @@ Chị Linh đổi giọng.
 
 — Tao biết mày.
 
-Cuộc gọi tắt.
-
-Tôi thấy bị xúc phạm bởi sự hiểu biết của đồng nghiệp.
+Tôi bị xúc phạm bởi mức độ đồng nghiệp hiểu mình.
 
 ***
 
-Sáu giờ sáng, chúng tôi ngủ được khoảng hai tiếng trên ghế nhà ông Cẩn.
+Sáu giờ sáng, file chị Linh gửi tới.
 
-Tôi tỉnh vì điện thoại rung.
+Tân Phúc trước 2010 từng có thêm dịch vụ bảo quản thi thể và quản lý đồ cá nhân người chết vô thừa nhận. Năm 2008 bị thanh tra vì thất lạc tài sản. Năm 2009 cháy kho giấy.
 
-Chị Linh gửi một file.
+Một nhân viên cũ tên Trần Văn Sâm mất tích cùng năm.
 
-Tân Phúc trước năm 2010 không chỉ là nhà tang lễ.
-
-Pháp nhân đầu tiên đăng ký dưới tên Công ty Dịch vụ An Phúc, có thêm dịch vụ bảo quản thi thể, vận chuyển và quản lý đồ cá nhân người chết vô thừa nhận.
-
-Năm 2008 từng bị thanh tra vì thất lạc tài sản.
-
-Năm 2009 cháy kho giấy.
-
-Năm 2011 đổi chủ.
-
-Điều đáng chú ý nhất nằm ở một bản tin nhỏ:
-
-Một nhân viên cũ tên Trần Văn Sâm mất tích năm 2009.
-
-Tôi tìm trên tường.
-
-TRẦN VĂN SÂM.
+Tôi tìm tên trên tường.
 
 Có.
 
-Tên được tô lại rất đậm.
+Được tô lại đậm tới mức giấy sần lên.
 
-Tôi gọi ông Cẩn.
+— Bác nhớ Sâm không?
 
-— Bác nhớ người này không?
-
-Ông nhìn tên.
+Ông Cẩn nhìn tên.
 
 — Không.
 
 — Nhưng bác viết.
 
-— Thì từng biết.
+— Vậy từng nhớ.
 
-Hà hỏi:
-
-— Nếu Khôi tới Tân Phúc sửa camera rồi biến mất sau đó, có thể nó đã thấy gì đó.
-
-Tôi gật.
-
-— Có thể.
-
-Phong đang nhìn điện thoại Khôi cũ mà Hà mang theo.
-
-— Anh Huy.
-
-— Gì?
-
-— Có một file ghi âm.
-
-— Ở đâu?
-
-— Thư mục hệ thống. Tên file là ngày trước lúc mất một hôm.
-
-Chúng tôi mở.
-
-Ban đầu chỉ có tiếng rè.
-
-Rồi giọng Khôi.
-
-Lần đầu tiên tôi nghe tiếng một người mà nếu không có cuốn sổ trước mặt, vài phút sau có thể tôi sẽ quên luôn tên.
-
-“Chị Hà, nếu chị nghe được thì đừng gọi cho em.”
-
-Có tiếng bước chân xa xa.
-
-“Em sửa camera cho một chỗ. Trong máy có video cũ không đúng ngày. Có người mang vào mà không có ai mang ra.”
-
-Khôi thở.
-
-“Em copy rồi. Có một ông thấy em.”
-
-Rồi một câu rất nhỏ:
-
-“Ông ấy hỏi tên em.”
-
-File kết thúc.
-
-Tôi thấy lạnh ở hai bàn tay.
-
-— Video copy đâu?
-
-Hà lắc đầu.
-
-— Không biết.
-
-Phong nói:
-
-— Nếu người kia chỉ cần biết tên là xóa được thì sao?
-
-— Chưa biết.
-
-Tôi hỏi Hà:
-
-— Khôi hay giấu USB ở đâu?
-
-— Nó không giấu đồ với tôi.
-
-— Nếu sợ người ta tìm?
-
-Cô nghĩ rất lâu.
-
-Rồi quay về nhà.
-
-Chúng tôi đi theo.
+Chỉ một câu đó đủ lạnh.
 
 ***
 
-Trong phòng Khôi, Hà tháo chiếc loa vi tính cũ.
+Phong tìm thấy file ghi âm trong điện thoại cũ của Khôi.
 
-Phía sau có một khe tự chế bằng băng keo.
+“Chị Hà, nếu chị nghe được thì đừng gọi cho em.”
 
-Một USB nhỏ rơi ra.
+Tiếng bước chân ở xa.
 
-— Nó hồi cấp ba hay giấu tiền ở đây để mẹ khỏi lấy đóng học thêm. — Hà nói.
+“Em sửa camera cho một chỗ. Trong máy có video cũ không đúng ngày. Có người mang vào mà không có ai mang ra.”
 
-Cô Vân đứng ở cửa nghe thấy, cau mày:
+Khôi thở gấp.
+
+“Em copy rồi. Có một ông thấy em.”
+
+Rồi câu cuối rất nhỏ:
+
+“Ông ấy hỏi tên em.”
+
+File tắt.
+
+Hà không khóc.
+
+Chỉ nhìn điện thoại tới mức khớp tay trắng bệch.
+
+Tôi hỏi:
+
+— Khôi có chỗ giấu USB không?
+
+Cô nghĩ một lúc rồi quay về nhà.
+
+***
+
+USB nằm sau chiếc loa vi tính cũ.
+
+Hà kéo nó ra, cười rất ngắn:
+
+— Hồi cấp ba nó giấu tiền đây để mẹ khỏi lấy đóng học thêm.
+
+Cô Vân đứng ngoài cửa cau mày.
 
 — Mẹ lấy tiền nó hồi nào?
 
-Hà nhìn mẹ.
+Câu nói rơi xuống phòng.
 
-Mắt cô đỏ lên.
+Một ký ức có Khôi trong đó.
 
-Một ký ức về Khôi vừa tồn tại trong câu nói, nhưng người mẹ không nhận ra chủ nhân ký ức đó.
+Một người mẹ vừa nói ra nó mà không nhận ra chủ nhân.
 
-Tôi không biết cái nào đáng sợ hơn.
+Hà quay mặt đi.
 
-USB chứa một folder tên “CAM”.
+Tôi cũng không biết phải nhìn đâu.
 
-Bên trong có ba video.
+***
 
-Video thứ nhất quay hành lang Tân Phúc lúc 02:41 sáng.
+USB có ba video camera.
 
-Hai người đàn ông đẩy một cáng phủ vải trắng vào phòng kho.
+Hai video đầu chỉ đủ cho thấy một người đàn ông được đưa vào kho Tân Phúc rồi không xuất hiện ở camera hành lang khi đi ra.
 
-Không có gì lạ.
+Video thứ ba quay trong kho.
 
-Video thứ hai quay cùng hành lang lúc 03:18.
+Người đàn ông ngồi đối diện một kẻ mặc áo tối màu.
 
-Một người đi ra.
+Trên bàn là một cuốn sổ lớn.
 
-Người còn lại không.
+Kẻ áo tối hỏi gì đó.
 
-Video thứ ba mới khiến chúng tôi im.
+Người đàn ông viết tên mình.
 
-Camera bên trong kho.
+Khi nét cuối kết thúc, camera nhiễu đúng mười ba giây.
 
-Một căn phòng có tủ hồ sơ.
+Hình trở lại.
 
-Người đàn ông thứ hai — khoảng năm mươi, còn sống — ngồi trên ghế.
-
-Đối diện là một người mặc áo tối màu.
-
-Không thấy mặt.
-
-Trên bàn có một cuốn sổ lớn.
-
-Người áo tối hỏi gì đó.
-
-Người đàn ông đáp.
-
-Sau đó viết tên mình vào sổ.
-
-Ngay khi nét bút cuối cùng kết thúc, camera nhiễu.
-
-Mười ba giây.
-
-Khi hình trở lại...
-
-chiếc ghế trống.
+Ghế trống.
 
 Không cửa mở.
 
-Không ai đi qua camera.
-
-Chỉ còn người áo tối ngồi đó.
-
-Hắn lấy bút.
-
-Gạch một đường qua tên vừa viết.
+Người áo tối cầm bút, gạch một đường qua cái tên vừa viết.
 
 Phong lùi khỏi màn hình.
+
+Mặt nó tái, vẻ háo hức hôm qua biến sạch.
 
 — Cái gì vậy trời...
 
 Tôi tua lại.
 
-Xem lần hai.
+Một lần.
 
-Lần ba.
+Hai lần.
 
-Không có cut rõ.
+Không thấy cut rõ.
 
-Có thể file bị chỉnh.
+Metadata có thể sửa. Camera có thể lỗi. File có thể đã bị can thiệp.
 
-Có thể camera lỗi.
+Nhưng một điều không cần tranh luận: Khôi đã copy nó và sau đó bị nhắm tới.
 
-Có thể có góc khuất.
+Hà nhìn tôi.
 
-Nhưng Khôi đã nhìn thấy và copy nó.
+— Anh vẫn chưa tin à?
 
-Một ngày sau bắt đầu biến mất khỏi ký ức.
-
-Tôi hỏi:
-
-— Video này có metadata gốc không?
-
-Phong kiểm tra.
-
-— Có nhưng dễ sửa.
-
-— Được. Không coi nó là bằng chứng siêu nhiên. Chỉ coi là lý do Khôi bị nhắm tới.
-
-Hà nhìn tôi như không tin nổi.
-
-— Anh còn cần gì nữa mới tin?
-
-— Tôi tin em chị mất tích.
-
-— Còn cái này?
-
-— Tôi chưa biết nó là gì.
+— Tôi tin Khôi mất tích.
 
 Tôi chỉ cuốn sổ trong video.
 
-— Nhưng tôi biết mình phải tìm cái đó.
+— Còn cái này, tôi chưa biết nó là gì. Nhưng mình cần tìm.
 
 ***
 
-Tân Phúc hiện tại nằm sau một bệnh viện tư, biển mới, sơn mới, nhân viên mới.
+Tân Phúc hiện tại nằm sau một bệnh viện tư, biển mới, sơn mới, người làm mới.
 
-Chị Linh đã liên hệ công an địa phương trước.
+Chị Linh đã liên hệ công an địa phương.
 
-Đây là phần mà phim thường bỏ vì nhân vật chính thích tự đột nhập cho kịch tính.
+Điều tra viên Tuấn gặp chúng tôi. Anh khoảng ba mươi, người chắc, tóc cắt sát, nói câu nào ngắn câu đó. Khuôn mặt ít biểu cảm đến mức khi nhíu mày một chút đã đủ thấy anh thật sự chú ý.
 
-Ngoài đời, nếu bạn nghi một nơi có liên quan mất tích mà vẫn tự bò vào lúc nửa đêm, khả năng cao bạn không phải dũng cảm. Bạn chỉ giúp hung thủ giảm số nhân chứng.
-
-Một điều tra viên tên Tuấn gặp chúng tôi.
-
-Anh khoảng ba mươi, nói ngắn và rất ít biểu cảm.
-
-Tôi đưa toàn bộ file, ảnh thẻ, danh sách ông Cẩn, thông tin Khôi.
+Tôi đưa file, danh sách ông Cẩn, ảnh Khôi.
 
 Anh xem gần một giờ.
 
-— Tôi không ghi “bị xóa khỏi trí nhớ” vào biên bản. — anh nói.
+— Tôi không ghi “bị xóa khỏi trí nhớ”.
 
-— Em cũng không yêu cầu.
+— Em cũng không cần anh ghi vậy.
 
-— Tôi có thể ghi có dấu hiệu một người cư trú nhưng hồ sơ nhận dạng bất thường và có dữ liệu camera liên quan cơ sở này.
+— Tôi ghi có người cư trú nhưng dữ liệu nhận dạng bất thường, cộng video liên quan cơ sở.
 
-— Vậy đủ.
+— Đủ.
 
-Anh nhìn tôi.
+Anh Tuấn nhìn tôi.
 
 — Cậu hợp tác dễ hơn tôi tưởng.
 
-— Anh tưởng em sao?
+— Anh tưởng em cầm bùa tới bắt anh thề hả?
 
-— Người viết mục ma quỷ thường muốn tôi tin ma trước khi xem file.
+Khóe miệng anh động rất nhẹ.
 
-— Em muốn anh xem file trước. Tin gì là việc của anh.
-
-Anh Tuấn gật.
-
-Tôi thích anh ngay từ câu đó.
+— Gần vậy.
 
 ***
 
-Kho cũ Tân Phúc nằm phía sau dãy mới, khóa bỏ nhiều năm.
+Kho cũ Tân Phúc được mở có lực lượng đi cùng.
 
-Giấy tờ nói cháy năm 2009, nhưng phần kiến trúc vẫn còn.
+Không phòng bí mật.
 
-Công an mở khóa.
+Không ma.
 
-Chúng tôi chỉ được đứng ngoài ban đầu.
+Chỉ tủ sắt cháy, mùi ẩm mốc và hóa chất cũ.
 
-Mùi ẩm mốc và hóa chất cũ bay ra.
+Tôi bắt đầu nghĩ hướng đi sai thì một cán bộ gọi.
 
-Trong phòng có những tủ sắt cháy đen.
+Dưới tủ cuối có tấm thép khác màu.
 
-Không có cuốn sổ.
+Bên dưới là một hốc.
 
-Không có phòng bí mật.
+Trong đó có hàng trăm thẻ căn cước cũ, thẻ học sinh, giấy khai sinh, ảnh 3x4, bảng tên.
 
-Không có ma đứng chờ.
+Tên trên tất cả đều trắng.
 
-Sau hai tiếng, tôi bắt đầu nghĩ chúng tôi đi sai hướng.
+Lần đầu tiên mặt anh Tuấn đổi rõ.
 
-Rồi một cán bộ gọi anh Tuấn.
+— Niêm phong hết.
 
-Dưới tủ cuối có một khoảng sàn khác màu.
-
-Nhấc tấm thép lên.
-
-Một hốc nhỏ.
-
-Bên trong không có người.
-
-Có hàng trăm thẻ căn cước cũ, thẻ học sinh, giấy khai sinh, ảnh 3x4 và bảng tên.
-
-Tất cả đều chung một đặc điểm.
-
-Ô tên bị trắng.
-
-Tôi nhìn anh Tuấn.
-
-Lần đầu tiên mặt anh thay đổi rõ.
-
-— Niêm phong hết. — anh nói.
-
-Hà run lên.
-
-Cô lục mắt qua từng món.
+Hà nhìn từng món.
 
 — Của Khôi đâu?
 
-Không thấy.
+Không có.
 
-Tôi quay sang một tủ sắt.
+Mặt trong cánh tủ bị cào một câu:
 
-Ở mặt trong cánh tủ có vết cào bằng kim loại.
-
-Không phải tên.
-
-Chỉ một câu:
-
-“ĐỪNG ĐỂ HỌ QUÊN MÀY.”
+**ĐỪNG ĐỂ HỌ QUÊN MÀY.**
 
 Phong đứng cạnh tôi.
 
-— Anh Huy.
-
-— Ừ.
-
 — Nếu Khôi còn sống thì sao?
 
-Tôi nhìn câu chữ.
+Tôi nhìn nét cào.
 
-— Tao nghĩ nó đang cố làm đúng điều đó.
+— Tao nghĩ nó đang cố làm đúng câu này.
 
 ***
 
-Tối, chúng tôi quay về tòa soạn.
+Tối về tòa soạn, tôi không viết bài giải thích hiện tượng.
 
-Tôi không viết bài ngay.
+Tôi chỉ viết một thứ khó cãi nhất:
 
-Tôi viết tên.
-
-Một bài riêng chỉ có những gì kiểm chứng được về Nguyễn Minh Khôi:
+**Nguyễn Minh Khôi là một con người.**
 
 Tuổi.
+
+Ảnh.
 
 Trường từng học.
 
 Địa chỉ.
 
-Ảnh.
-
-Lời của chị gái.
-
-Chiếc phòng.
-
 Mã học sinh.
+
+Phòng ngủ.
 
 File ghi âm.
 
-Tôi gửi chị Linh.
+Lời chị gái.
 
-Chị gọi lại:
-
-— Mày định đăng tên một người mà hồ sơ chính thức không xác minh được?
-
-— Em có ảnh, nhân chứng, vật dụng, mã học sinh.
-
-— Gia đình ngoài chị gái đều phủ nhận.
-
-— Vì vậy em không viết “có ma xóa trí nhớ”. Em viết “một người đang mất khỏi hệ thống hồ sơ và ký ức của những người từng biết”.
+Chị Linh đọc bản nháp.
 
 — Tiêu đề?
 
-Tôi nhìn tờ giấy trước mặt.
-
 — “Người Không Có Tên”.
 
-Chị im.
-
-— Nếu đăng sai thì sao?
+— Nếu sai?
 
 — Em chịu.
 
-— Nếu đăng đúng?
+— Nếu đúng?
 
-— Có thêm hàng nghìn người biết Khôi từng tồn tại.
+Tôi nhìn cái tên đang viết trên màn hình.
 
-Tôi không biết tại sao mình tin điều đó quan trọng.
+— Ít nhất sẽ có nhiều người biết Khôi từng tồn tại.
 
-Có thể do ông Cẩn.
+Chị im vài giây.
 
-Có thể do cái tên cứ biến mất.
-
-Hoặc do một thứ sâu hơn tôi chưa hiểu.
-
-Tên.
-
-Ký ức.
-
-Người làm chứng.
-
-Nếu một con người tồn tại mà không ai gọi tên, không ai nhớ và mọi bằng chứng đều biến mất...
-
-thì thế giới còn giữ họ bằng cái gì?
-
-Chị Linh nói:
-
-— Gửi bản cuối. Tao duyệt.
+— Gửi bản cuối.
 
 ***
 
 Bài lên lúc 21:00.
 
-Hai mươi phút đầu bình thường.
+Bốn mươi phút sau, điện thoại bắt đầu reo.
 
-Bốn mươi phút sau, điện thoại tòa soạn bắt đầu nhận cuộc gọi.
+Một người nhớ từng học cùng Khôi.
 
-Một người nói từng học cùng Khôi.
+Một người nhớ đá bóng.
 
-Một người bảo từng đá bóng với cậu ấy.
+Một cô gái nhớ Khôi từng sửa laptop cho mình.
 
-Một cô gái khóc, nói Khôi từng sửa laptop cho cô nhưng cô đã quên mất mặt cho tới khi thấy ảnh.
+Mỗi người chỉ giữ một mảnh.
 
-Mỗi người chỉ nhớ từng mảnh.
-
-Nhưng họ nhớ.
+Nhưng các mảnh bắt đầu có tên.
 
 Tôi gọi Hà.
 
-Cô bắt máy, khóc đến không nói rõ.
+Cô vừa bắt máy đã khóc.
 
 — Mẹ tôi nhớ rồi.
 
-Tôi đứng bật dậy.
-
 — Nhớ Khôi?
 
-— Không hết. Mẹ nhìn ảnh rồi gọi “thằng cu”. Bà không nhớ tên nhưng biết bà có con trai.
+— Không hết. Bà nhìn ảnh rồi gọi “thằng cu”. Bà không nhớ tên... nhưng biết mình có con trai.
 
-Phía sau nghe tiếng phụ nữ khóc.
+Phía sau là tiếng cô Vân khóc.
 
-Tôi nhìn màn hình bài viết.
-
-Lượt đọc đang tăng.
+Tôi nhìn lượt đọc tăng.
 
 Hàng trăm.
 
 Hàng nghìn.
 
-Mỗi lượt là một người nhìn thấy cái tên.
+Tên Nguyễn Minh Khôi vẫn nằm trên bài.
 
-Nguyễn Minh Khôi.
+Không biến mất.
 
-Tên không biến mất khỏi bài.
+Phong đứng cạnh, hỏi rất nhỏ:
 
-Lần đầu tiên.
-
-Tôi mở cuốn sổ.
-
-Dòng chữ vẫn nguyên.
-
-Phong đứng cạnh hỏi:
-
-— Anh làm gì vậy?
-
-— Kiểm tra.
-
-— Vậy mình thắng rồi hả?
+— Vậy mình thắng rồi hả anh?
 
 Tôi chưa kịp trả lời.
 
@@ -782,51 +482,37 @@ Tôi chưa kịp trả lời.
 
 Số lạ.
 
-Tôi bắt máy.
+***
 
-Không ai nói.
+Không ai nói mấy giây đầu.
 
 Chỉ có tiếng thở.
 
 — Alo?
 
-Một giọng nam rất khẽ:
+Một giọng nam khàn, yếu:
 
 — Anh Huy?
 
-Tôi đứng yên.
+Tôi đứng thẳng.
 
 — Ai vậy?
 
-— Em...
+— Em... là Khôi.
 
-Người đó ho.
-
-— Em là Khôi.
-
-Tôi nhìn Phong.
+Phong nhìn tôi. Mắt sau tròng kính mở lớn.
 
 — Em đang đâu?
 
-— Em không biết.
+— Không biết. Tối. Mùi thuốc. Có tiếng xe.
 
-— Nhìn xung quanh có gì?
-
-— Tối. Mùi thuốc. Có tiếng xe.
-
-— Có bị khóa không?
+— Bị khóa?
 
 — Có.
 
-— Điện thoại ở đâu ra?
-
-— Em lấy được của một người.
-
 — Ai giữ em?
 
-Đầu dây bên kia im.
-
-Rồi Khôi nói:
+Khôi nín một nhịp.
 
 — Đừng hỏi tên họ qua điện thoại.
 
@@ -834,9 +520,9 @@ Rồi Khôi nói:
 
 — Vì họ nghe.
 
-Một tiếng va mạnh.
+Có tiếng va mạnh.
 
-Khôi nói rất nhanh:
+Khôi nói nhanh:
 
 — Anh đăng bài đúng không?
 
@@ -844,60 +530,58 @@ Khôi nói rất nhanh:
 
 — Em bắt đầu nhớ lại mình là ai.
 
-Tôi lạnh sống lưng.
+Lạnh chạy dọc sống lưng tôi.
 
-— Khôi, nghe anh. Gửi định vị nếu được. Không thì mô tả âm thanh, mùi, bất cứ gì.
+— Gửi định vị nếu được. Không thì nghe xung quanh. Âm thanh, mùi, bất cứ gì.
 
 — Có tiếng tàu.
 
 — Tàu hỏa?
 
-— Ừ. Với chuông nhà thờ... em nghĩ...
+— Ừ. Với chuông nhà thờ...
 
-Tiếng cửa mở ở đầu dây.
+Cửa mở ở đầu dây.
 
 Khôi nín thở.
 
-Một giọng khác vang rất xa:
+Một giọng khác vang xa:
 
 — Nó nhớ lại rồi.
 
 Cuộc gọi tắt.
 
-Tôi bấm gọi lại.
+Tôi gọi lại.
 
-Thuê bao không liên lạc được.
+Không liên lạc được.
 
-Phong mặt trắng bệch.
+Phong trắng mặt.
 
-— Sao?
-
-Tôi lấy áo khoác.
-
-— Gọi anh Tuấn.
-
-— Anh biết chỗ rồi?
-
-— Chưa.
-
-— Vậy đi đâu?
+— Mình đi đâu?
 
 Tôi mở bản đồ đường sắt Hà Nội.
 
-— Đi tìm nơi vừa nghe được tàu hỏa vừa nghe được chuông nhà thờ.
+— Chưa biết. Nên gọi anh Tuấn trước.
 
-Phong nhìn tôi.
-
-— Hà Nội thiếu gì chỗ vậy?
-
-— Nên mới cần công an.
-
-Tôi dừng ở cửa.
-
-Quay lại bàn.
+Tôi dừng ở cửa, quay lại bàn.
 
 Lấy lá ba bích bỏ vào túi.
 
-Không hiểu sao.
+Phong nhìn.
 
-Chỉ có cảm giác lần này nó nên đi cùng.
+— Cái đó giúp gì?
+
+— Không biết.
+
+— Vậy sao mang?
+
+Tôi nhìn vết xước bán nguyệt ở góc lá.
+
+— Vì tao có một cảm giác rất ngu.
+
+— Anh thường nghe cảm giác ngu hả?
+
+— Không.
+
+Tôi nhét lá bài sâu hơn vào túi.
+
+— Nhưng mấy lần gần đây nó cứ đúng.
