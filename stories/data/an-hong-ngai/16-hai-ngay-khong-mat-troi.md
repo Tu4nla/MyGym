@@ -46,7 +46,7 @@ Nhưng sau mấy ngày sống giữa những khuôn mặt giả, chi tiết vô 
 
 Đến sáng, họ gặp một khe nước nhỏ.
 
-Nước trong nhưng Quỳnh vẫn lọc qua khăn sạch và dùng viên khử khuẩn trong túi sơ cứu Lan để lại. Không ai uống trực tiếp chỉ vì “nước núi trong”.
+Nước trong nhưng Quỳnh vẫn lọc qua khăn sạch và dùng viên khử khuẩn trong túi sinh tồn nó còn mang theo. Không ai uống trực tiếp chỉ vì “nước núi trong”.
 
 Trâm ngồi dựa đá.
 
@@ -406,9 +406,7 @@ Một tiếng còi ba nhịp.
 
 Sau đó lại ba.
 
-Quỳnh nhớ Thi đã mang còi cứu hộ.
-
-Nó đáp bằng còi nhỏ trong túi Lan để lại.
+Quỳnh đáp bằng chiếc còi cứu hộ nhỏ móc ở quai ba lô.
 
 Ba nhịp.
 
@@ -448,19 +446,19 @@ Lan còn sống.
 
 Đó là câu đầu tiên Minh nói sau khi kiểm tra hai người.
 
-Được đưa xuống trạm từ sáng 22. Vết cắn không mang độc tố động vật thường thấy; xét nghiệm ban đầu cho thấy có hỗn hợp chất hữu cơ và một chất gây hạ nhịp chưa xác định quanh vết thương. Tình trạng ổn dần sau xử trí hỗ trợ.
+Đội tìm kiếm phát hiện cô ở mái đá từ sáng 22 theo những dải phản quang và mảnh vải đỏ. Vết chó cắn đã được rửa, xử trí dự phòng nhiễm trùng và dại theo quy trình; cổ chân bị bong gân khá nặng nhưng không gãy. Phần khiến bác sĩ lo hơn là kiệt sức, mất nước và thời gian nằm lạnh một mình. Tình trạng đã ổn dần sau xử trí hỗ trợ.
 
 Quỳnh cười rồi khóc cùng lúc.
 
 — Nó tỉnh chưa?
 
-— Có lúc tỉnh. Câu đầu là hỏi hai cô.
+— Có. Câu đầu là hỏi hai cô.
 
 Trâm cúi đầu.
 
-— Còn Thi, Trung, Huy?
+— Còn Thi, Trung?
 
-— An toàn. Tìm được ở Hang A Phủ.
+— An toàn. Được tìm thấy ở khu Hang A Phủ. Huy thì không vào rừng từ đầu, vẫn ở điểm tạm với lực lượng bảo vệ.
 
 Quỳnh thấy hai ngày trong rừng rơi khỏi vai một phần.
 
