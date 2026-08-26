@@ -198,9 +198,9 @@ Thi đứng ở cửa hầm, giọng hạ thấp:
 
 Huy nhìn cô.
 
-— Biết.
+— Tôi biết cái tên hắn dùng trước đây.
 
-— Là ai?
+— Tên gì?
 
 — Nguyễn Hoàng Thanh Tùng.
 
@@ -208,11 +208,19 @@ Quỳnh thấy lạnh từ ngực xuống bụng dù cái tên ấy đã nằm t
 
 Thi hỏi:
 
-— Anh chắc?
+— Anh lấy tên đó ở đâu?
 
-— Khoảng tháng thứ hai bị nhốt, hắn tự tháo cái mặt đang đeo ngay trước mặt tôi. Sau đó còn nói tên thật. Chắc nghĩ người sắp chết không cần giữ bí mật.
+— Khoảng tháng thứ hai hắn tự tháo cái mặt đang đeo trước mặt tôi. Lúc đó tôi chỉ biết dưới lớp đó là một người khác. Sau này Như lỡ gọi hắn là “Tùng”. Có lần A Mã tỉnh, lén viết tên đầy đủ lên tường cho tôi.
 
-Huy cười, nhưng lần này nụ cười chỉ hiện rất ngắn rồi tắt.
+— Anh biết Nguyễn Hoàng Thanh Tùng là ai không?
+
+Huy lắc đầu.
+
+— Không. Tôi không có mạng để tra. Với tôi lúc đó chỉ là một cái tên.
+
+Quỳnh không nói gì.
+
+Vậy Huy có lời khai. Còn việc cái tên đó có thật sự thuộc về người đàn ông mang mặt A Hù hay không vẫn cần thứ khác.
 
 Minh giục:
 
@@ -494,11 +502,15 @@ Trong mười hai tiếng tiếp theo, Huy không biết dead-man switch có ch�
 
 Hai tháng sau, A Hù mới tự tháo lớp mặt đang đeo trước mặt Huy.
 
-Bên dưới là một khuôn mặt khác.
+Bên dưới là một khuôn mặt khác, nhiều sẹo hơn, đường nét hoàn toàn không giống người đàn ông đã xuống đường đón anh ngày đầu. Huy lúc đó vẫn không biết người này là ai.
 
-Hắn nói tên mình: **Nguyễn Hoàng Thanh Tùng**.
+Tên **Tùng** tới sau, trong một lần người phụ nữ mà Huy chỉ biết qua giọng nói cãi nhau với hắn ở ngoài hầm. Cô hét cái tên ấy trước khi âm thanh bị cắt ngang bởi một tiếng va mạnh.
 
-Tới lúc đó Huy mới hiểu mình không phải người đầu tiên bị kéo vào câu chuyện này. Anh chỉ là người tới sau một vụ án đã bắt đầu từ rất lâu trước Ma Kí Sự.
+Vài ngày sau, lúc A Mã tỉnh táo, ông lén dùng mẩu than viết lên phần tường gần cửa:
+
+**NGUYỄN HOÀNG THANH TÙNG.**
+
+Huy ghi nhớ từng chữ rồi xóa đi trước khi người khác tới. Không có Internet, không có hồ sơ, cái tên ấy với anh vẫn chỉ là một cái tên. Mãi tới khi được cứu, nó mới được đặt cạnh P201, Trang, Trâm và toàn bộ câu chuyện mà Quỳnh đã sống từ bảy năm trước.
 
 ***
 
