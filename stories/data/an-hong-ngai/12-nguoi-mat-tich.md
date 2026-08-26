@@ -1,454 +1,436 @@
-Buổi chiều 20 tháng 9, Huy được phép rời giường mười phút.
+Buổi chiều 20 tháng 9, bác sĩ cho Huy rời giường đúng mười phút.
 
-Anh đứng trước cửa sổ phòng y tế, hai tay bám thành gỗ, nhìn dãy núi phía xa như người vừa được trả lại màu sắc sau bốn tháng chỉ biết tường đất và đèn dầu.
+Anh đứng ở cửa sổ, hai tay bám thành gỗ, nhìn dãy núi phía xa như người vừa được trả lại một thứ trước đây không biết mình cần. Bốn tháng dưới hầm không có đường chân trời. Bây giờ chỉ một mảng trời xanh nằm giữa hai sườn núi cũng đủ khiến anh đứng yên rất lâu.
 
-Huy gầy đi nhiều. Xương gò má rõ hơn, cổ tay nhỏ hơn cái đồng hồ anh vẫn đeo hồi ở tòa soạn. Tóc dài chạm gáy vì lâu không cắt, nhưng cái kiểu hất mái sang một bên trước khi nói vẫn y như cũ.
+Quỳnh dựa vào khung cửa bên cạnh.
 
-Quỳnh đứng cạnh.
+— Anh biết ngày tháng dưới đó kiểu gì?
 
-— Bốn tháng dưới đó anh biết ngày bằng cách nào?
-
-— Ban đầu đếm bữa.
+— Lúc đầu đếm bữa.
 
 — Sau?
 
-— Nó cho ăn thất thường, lịch phá sản. Tôi chuyển sang đếm số lần A Hù chửi A Mã.
+— Nó cho ăn thất thường. Tôi chuyển sang đếm số lần A Hù chửi A Mã.
 
-Huy cười.
+Quỳnh bật cười nhẹ.
 
-— Không chính xác nhưng giải trí.
+Huy cũng cười, nhưng nụ cười tắt nhanh.
 
-Quỳnh nhìn anh.
-
-— Anh vẫn đùa được.
-
-Nụ cười trên môi Huy tắt nhanh hơn bình thường.
-
-— Có ngày không đùa được.
+— Có ngày không đùa được đâu.
 
 Anh nhìn xuống sân.
 
-— Có ngày tôi nghĩ mình chết chắc.
+— Có hôm tôi nghĩ chắc sáng mai không còn tới lượt mình ăn nữa.
 
-Quỳnh không nói “qua rồi”.
-
-Nó chỉ đứng cạnh.
+Quỳnh không nói “qua rồi”. Nó thấy câu ấy vô dụng với một người mới ra khỏi hầm chưa đầy hai ngày.
 
 Một lúc sau Huy tự nói:
 
-— A Mã là lý do tôi sống tới giờ. Cũng là người nhiều lần tự tay khóa xích chặt hơn.
+— A Mã là lý do tôi còn sống. Cũng là người vài lần tự tay siết xích chặt hơn.
 
-— Tùng điều khiển?
+— Vì Tùng điều khiển?
 
-— Một phần. Một phần do ông ấy tự làm hỏng mình từ trước.
+— Có lúc chắc vậy. Có lúc tôi không biết. Ổng đã làm hỏng mình từ trước khi Tùng học được cách dùng cái đó.
 
 Huy quay sang.
 
-— Đừng viết ổng thành ông thầy tốt bụng bị phản. Không đúng.
+— Nếu sau này cô viết chuyện này, đừng viết A Mã thành ông già tốt bụng bị kẻ xấu lợi dụng.
 
-— Tôi biết.
+— Tôi không định.
 
-— Cũng đừng viết Tùng thành quỷ chỉ vì từng bị ổng hành.
+— Cũng đừng viết Tùng thành quỷ vì từng bị A Mã thử ngải.
 
-— Tôi càng biết.
+— Càng không.
 
-Huy nhếch khóe miệng.
+Huy gật, có vẻ hài lòng.
 
-— Cô hợp bàn tôi thật.
+— Cô ngồi đối diện bàn tôi đúng là hợp.
 
 ***
 
-Quỳnh không cần một bài giảng dài để hiểu Tùng sống sót thế nào.
+Tùng sống sót sau năm 2012 không cần một truyền thuyết.
 
-Nó có ba thứ.
+Quỳnh có trang sổ của A Mã, hồ sơ thời tiết cũ, vài hóa đơn thuốc và lời Huy nghe được trong những tháng bị giữ.
 
-Một trang sổ A Mã.
+Ngày 21 tháng 12 năm 2012, sau khi trốn khỏi quá trình áp giải, Tùng rơi xuống dòng nước dưới vực và bị cuốn đi. Hồ sơ tìm kiếm khi đó không thấy xác. Một ngày sau, sổ A Mã xuất hiện ghi chép về một nam trẻ được tìm thấy ở bờ thấp, gãy xương sườn, chân rách sâu, sốt và mất máu.
 
-Một lời Huy.
+Dòng khiến Quỳnh đọc lại hai lần là:
 
-Một chuỗi giấy tờ rời.
+**“Mạch lạ. Có thể giữ.”**
 
-Ngày 21 tháng 12 năm 2012, Tùng rơi xuống dòng nước dưới vực, bị cuốn đi, gãy xương sườn và rách sâu ở chân. A Mã cùng A Hù thật tìm thấy hắn ở một bờ thấp khi đi lấy cây thuốc.
+A Mã cứu một người còn sống.
 
-Trong sổ A Mã chỉ có:
+Ông cũng nhìn thấy một vật thử.
 
-**“Cơ thể này hiếm. Giữ.”**
+Hai việc ấy tồn tại cùng lúc.
 
-Quỳnh đọc câu đó hai lần.
+Những năm sau không thể dựng thành một timeline đẹp đẽ. Chỉ có mảnh: đơn thuốc, nhà trọ, giao dịch Chợ Âm, những trang thử nghiệm đánh số, vài địa chỉ thay đổi. Nhưng chúng đủ cho thấy Tùng không học tà thuật sau một đêm thức tỉnh nào đó.
 
-Không phải lòng thương đơn thuần đã cứu Tùng.
+Hắn bị thử trên chính cơ thể.
 
-A Mã nhìn một người bị thương và đồng thời nhìn thấy một vật thử.
+Nhìn cách A Mã chuẩn bị.
 
-Những năm sau hiện lên thành các mảnh: hóa đơn thuốc, nhà trọ, giao dịch Chợ Âm, ghi chép thử ngải. Không đủ dựng từng tháng, nhưng đủ chứng minh một điều.
+Nhớ liều lượng.
 
-Tùng không học tà thuật trong vài ngày.
+Đọc trộm sổ.
 
-Hắn sống giữa quy trình đó nhiều năm.
+Rồi học cách làm lại.
 
-Bị thử.
+Lan nói khi xem các trang:
 
-Quan sát.
-
-Trộm cách làm.
-
-Rồi thử lại.
-
-Lan nói:
-
-— Hắn học như tù nhân học cấu trúc nhà giam.
+— Giống một người ở trong nhà giam đủ lâu để nhớ từng ổ khóa.
 
 Huy đang tựa cửa, cánh tay gầy khoanh trước ngực.
 
-— Và một ngày biết cái khóa rõ hơn người giữ chìa.
+— Và tới lúc biết cái khóa rõ hơn người cầm chìa.
 
-Không ai cần kể thêm.
+Không ai dùng quá khứ đó để giảm phần trách nhiệm của Tùng cho những gì xảy ra sau này.
+
+Giải thích không phải tha thứ.
 
 ***
 
-Như không chịu kể quá khứ ngay.
+Như không khai được nhiều khi còn bị ràng buộc.
 
-Không phải chỉ vì trung thành.
+Không chỉ vì sợ. Mỗi lần câu chuyện chạm trực tiếp tới kế hoạch của Tùng, vệt đen sau tai cô sẫm lên, tim nhanh, cơ ngực co lại đến mức có lần nôn khan.
 
-Mỗi khi câu chuyện chạm gần Tùng, vết nút sau tai lại sẫm, đau tới mức cô nôn khan.
+Lớp Họa Bì đã tháo hoàn toàn. Gương mặt Như bây giờ gầy và mệt, một đường bỏng mảnh sát chân tóc. Cô thường ngồi co một chân trên giường, tay ôm cổ tay còn lại như đang tự giữ mình khỏi run.
 
-Như lúc này gần như không còn giống “Trâm” nữa. Lớp Họa Bì đã tháo, để lộ gương mặt thật gầy, mắt sâu, một vết bỏng mảnh chạy sát chân tóc bên thái dương. Cô thường ngồi co một chân lên giường, tay trái ôm cổ tay phải như giữ một thứ vô hình khỏi siết lại.
+Lan tìm trong sổ A Mã một cách tạm làm yếu liên kết. Nó không gọi đó là “giải ngải” vì chính ghi chép cũng chỉ nói hiệu lực kéo dài vài phút và có thể gây ngất, mất phương hướng hoặc chảy máu.
 
-Lan đọc sổ A Mã và đề nghị tạo một khoảng “câm” vài phút giữa Như với ràng buộc.
+Thi hỏi:
 
-Thi hỏi rủi ro.
-
-Lan kể ngất, chảy máu mũi, mất phương hướng.
-
-— Còn chết?
+— Có thể chết không?
 
 Lan không trả lời ngay.
 
-Như chen vào:
+— Tao không thấy ghi ca tử vong. Không có nghĩa là không thể.
 
-— Làm đi.
+Thi quay sang Như.
 
-Thi nhìn cô.
+— Cô không bắt buộc phải làm để khai.
 
-— Cô không phải khai bằng mọi giá.
+Như cười rất mệt.
 
-Như cười mệt.
+— Tôi không làm vì lời khai.
 
-— Tôi không làm để khai.
+Cô chạm vào sau tai.
 
-Cô chạm sau tai.
+— Tôi muốn biết vài phút không có hắn trong đầu thì như nào.
 
-— Tôi muốn biết mấy phút không nghe hắn trong đầu là cảm giác gì.
+Thi vẫn không đồng ý ngay. Nhân viên y tế được gọi vào. Mạch, huyết áp được đo trước. Lan chỉ dùng những bước có trong sổ: một bát nước đặt làm vật dẫn, chiếc chuông A Mã để lại và mảnh giấy ký hiệu. Không máu. Không cắt da. Không cho Như uống thứ gì.
 
-***
+Tiếng chuông đầu tiên gần như không vang.
 
-Thủ thuật nhìn chẳng giống nghi lễ ma quái.
+Lần thứ hai thấp và đục.
 
-Một bát nước.
+Như bật người, tay bấu ga.
 
-Chiếc chuông nhỏ.
+Thi lập tức nói:
 
-Thần Hựu.
+— Dừng được chưa?
 
-Một mẩu giấy ký hiệu.
-
-Thi ngồi sát Như theo dõi mạch. Lan buộc tóc gọn, hai tay rất chắc dù môi đã mím tới trắng.
-
-Tiếng chuông thứ nhất gần như không vang.
-
-Thứ hai thấp và đục.
-
-Vết đen sau tai Như co lại.
-
-Cô bật người, móng tay bấu ga giường.
-
-— Dừng. — Thi nói ngay.
+Như thở hổn hển.
 
 — Chưa.
 
 — Cô chắc?
 
-Như ngẩng lên. Mồ hôi phủ trán, nhưng ánh mắt tỉnh.
+Như gật.
 
-— Tiếp.
+Lan đánh tiếng chuông lần cuối.
 
-Tiếng thứ ba.
+Vệt đen sau tai nhạt đi rõ rệt.
 
-Vết đen nhạt hẳn.
-
-Như đổ người ra sau.
-
-Thi đỡ lấy vai.
-
-— Nhìn tôi.
+Như ngã người ra sau. Thi đỡ vai, nhân viên y tế kiểm mạch ngay. Vẫn nhanh nhưng đều.
 
 Như mở mắt.
 
-Nước mắt chảy.
+Nước mắt chảy xuống thái dương.
 
 — Im rồi.
 
 Lan nhìn đồng hồ.
 
-— Chỉ vài phút. Nói điều cô muốn nói nhất.
+— Có thể chỉ vài phút. Đừng cố kể tất cả. Nói thứ cô muốn nói nhất.
 
-Như thở dốc.
+Như thở một lúc lâu rồi nhìn Quỳnh.
 
-Câu đầu tiên là:
+— Tao không yêu hắn nữa.
 
-— Tôi không yêu hắn.
-
-Quỳnh đứng ngoài cửa thấy ngực mình siết lại.
+Không ai đáp.
 
 Như cười trong nước mắt.
 
-— Tôi từng yêu. Hồi ngu.
+— Từng yêu. Hồi ngu.
 
 ***
 
-Sau trường giáo dưỡng, Như cố học lại và cắt khỏi những người cũ.
+Sau trường giáo dưỡng, Như cố học lại và tránh những người cũ. Hai năm sau Tùng tìm được cô.
 
-Hai năm sau Tùng xuất hiện.
-
-Cô từ chối đi cùng, định báo công an.
+Cô nói mình đã định báo công an.
 
 Đêm đó nhà cháy.
 
-Cha mẹ chết.
+Cha mẹ Như chết.
 
-Tùng gọi là tai nạn.
+Tùng gọi đó là tai nạn. Như không tin, nhưng từ thời điểm ấy nỗi sợ có hình dạng cụ thể. Sau đó mới tới thứ ràng buộc sau tai: ban đầu đau khi cô cố bỏ đi, về sau chỉ cần chuẩn bị làm điều trái lệnh cũng đã có phản ứng.
 
-Như không tin.
+Thi hỏi rất bình tĩnh:
 
-Sau đó mới có ngải ràng buộc.
+— Vậy vì sao cô vẫn giúp bắt Trâm?
 
-Ban đầu đau khi bỏ đi.
-
-Rồi đau khi nghĩ tới phản bội.
-
-Thi hỏi:
-
-— Vậy sao cô giúp hắn bắt Trâm?
-
-Như nhìn Quỳnh.
+Như nhìn xuống tay.
 
 — Vì tôi hèn.
 
-Không ai chen.
+Cô ngừng rồi nói tiếp trước khi ai kịp an ủi:
 
-— Và vì có lúc tôi ghét tụi mày. Ghét Trâm. Ghét Quỳnh. Ghét tất cả đứa đã sống tiếp trong khi đời tôi nát.
+— Với cả có lúc tôi ghét tụi nó thật. Ghét Trâm. Ghét Quỳnh. Ghét mấy đứa sống tiếp như chẳng có gì trong khi đời tôi nát hết.
 
-Câu trả lời xấu xí.
+Câu trả lời không đẹp.
 
-Chính vì vậy nó thật hơn một lời xin tha.
+Chính vì vậy Quỳnh tin nó hơn nếu Như nói mọi thứ đều vì bị ép.
 
-Như nói:
+— Tôi dẫn Trâm tới. Tôi giúp làm mặt. Tôi gửi thư. Những việc đó tôi làm. — Như nói. — Có thứ tôi bị buộc, có thứ tôi tự chọn vì sợ và vì tức. Đừng trộn hết thành một cái.
 
-— Tôi dẫn Trâm tới. Tôi giúp làm mặt. Tôi gửi thư. Những việc đó tôi làm.
+Thi ghi đúng như vậy.
 
-— Còn giết người?
+— Cô có trực tiếp giết ai không?
 
-— Không tự tay. Nhưng tôi biết có người chết và vẫn ở lại.
+— Không. Nhưng tôi biết có người chết và vẫn ở lại.
 
-Thi ghi.
+Không ai trong phòng nói câu tha thứ.
 
-Không an ủi.
-
-Không biến một lời thú nhận thành phán quyết cuối cùng.
+Cũng không ai lấy sự ràng buộc để xóa phần Như tự nhận.
 
 ***
 
-Lan nhìn đồng hồ.
-
-— Còn ít thời gian.
+Lan nhắc còn ít thời gian.
 
 Như quay sang Quỳnh.
 
-— Tùng muốn mày tới vì hai người.
+— Tùng muốn mày lên đây vì mày với Quân.
 
-— Tao và Quân.
+— Anh tao không tới.
 
-— Ừ.
+— Kế hoạch đầu là giữ mày, gửi hình cho Quân rồi bắt ảnh tự lên.
 
-— Quân không tới.
+Quỳnh thấy cổ họng khô đi.
 
-— Hắn sẽ kéo tới bằng mày.
+— Để giết ảnh?
 
-Như nói kế hoạch ban đầu rất ngắn: giữ Quỳnh ở Hồng Ngài, gửi hình cho Quân, ép Quân tự tới.
+— Không chỉ vậy.
 
-Tùng không chỉ muốn giết.
+Như nhắm mắt như chính mình cũng mệt vì phải hiểu một người đã sống trong cùng nỗi ám ảnh quá lâu.
 
-Hắn muốn Quân nhìn hắn còn sống, muốn Quân nhận lại tội cũ, muốn Quỳnh xin.
+— Hắn muốn Quân nhìn thấy hắn còn sống. Muốn Quân thừa nhận chuyện Trang là lỗi của Quân. Muốn mày xin. Muốn tất cả tụi mày đứng đúng chỗ trong câu chuyện hắn kể về năm 2007.
 
-Quỳnh nghe mà buồn nôn.
+Quỳnh không thấy bất ngờ.
 
-Bảy năm trôi qua, Tùng vẫn sống trong một căn phòng tâm lý cũ: Trang, Quân, quyền sở hữu, nhu cầu bắt người khác công nhận câu chuyện hắn tự dựng.
+Chỉ thấy ghê.
+
+Bảy năm, một khuôn mặt mới và cả một hệ thống ngải thuật vẫn không giúp Tùng rời khỏi cái ý nghĩ cũ nhất của hắn: nếu ép đủ mạnh, người khác sẽ phải công nhận phiên bản sự thật hắn muốn.
 
 ***
 
-Lan hỏi năm sinh khí.
+Thi không hỏi Như thêm chuyện quá khứ. Lan chỉ đưa mẩu gỗ năm vòng lên.
 
-Vết sau tai Như bắt đầu sẫm.
+— Cái này là gì?
 
-Cô nói nhanh:
+Như nhìn. Vệt sau tai bắt đầu sẫm lại nhưng chậm hơn.
 
-— A Hù thật. A Mã. Bà Cầm. Pao Sử.
+— Năm sinh khí.
 
-Bốn.
+— Bốn người là ai?
+
+Như nói từng tên, ngắt giữa các nhịp thở.
+
+A Hù thật.
+
+A Mã.
+
+Bà Cầm ở chợ.
+
+Pao Sử.
 
 — Người thứ năm?
 
-— Chưa cố định. Lan hoặc Huy. Ai phù hợp lúc cuối.
+— Chưa cố định.
+
+— Lan?
+
+Như gật rất nhẹ.
+
+— Phù hợp nhất.
+
+— Huy?
+
+— Dự phòng.
+
+Thi ra hiệu chỉ còn một câu.
+
+Lan hỏi:
 
 — Để làm gì?
 
+Như nói một từ lạ:
+
 — Khalamay.
 
-Huy ở cửa đổi mặt.
+Huy đang ở cửa nghe thấy thì nét mặt đổi.
 
-— Tôi từng nghe từ đó.
+— Tôi từng nghe từ đó dưới hầm.
 
-Như thở gấp.
+Như cố nói tiếp:
 
-— Lõi. Cây chỉ nuôi. Năm người cho đủ dấu. Sau đó chế thành bột.
+— Lõi. Cây chỉ nuôi. Năm người để đủ dấu. Sau đó...
 
-Quỳnh hỏi:
+Cơn đau quay lại nhanh. Vệt đen đậm lên. Như co người.
 
-— Huyết Ngải làm gì?
+Lan dừng ngay, đẩy chiếc chuông ra xa.
 
-— Kéo.
+Thi giữ vai Như.
 
-— Kéo gì?
+— Hết. Không hỏi nữa.
 
-Như run mạnh.
+Như gật, mắt nhắm chặt.
 
-— Thứ đã chết. Thứ đang sợ. Thứ có cửa.
-
-Vết đen bật trở lại.
-
-Như hét.
-
-Lan dừng ngay.
-
-Cô co người, ôm đầu.
-
-— Hắn nghe lại rồi.
-
-Thi giữ vai.
-
-— Không hỏi nữa.
+Những gì còn lại phải lấy từ vật chứng.
 
 ***
 
-Sau đó Lan chỉ đọc những phần chắc nhất trong sổ A Mã.
+Sổ A Mã không có một trang mang tiêu đề “Cách làm Huyết Ngải”. Thông tin nằm rải rác ở nhiều trang, có chỗ bị xé hoặc sửa, nên Lan chỉ dám rút ra những phần lặp lại đủ nhiều.
 
-Không ai cần thêm một bài giảng huyền thuật dài.
+Máu nuôi cây nhưng không phải mục tiêu cuối.
 
-Bốn nguyên tắc được viết thành bốn dòng trên giấy:
+Khalamay được gọi là một **lõi giữ dấu sinh khí**.
 
-**Một:** cây được nuôi bằng máu, nhưng máu chỉ là thức ăn.
+Năm dấu hoàn chỉnh có thể làm lõi tác động lên thứ đã có một “khe”.
 
-**Hai:** Khalamay là lõi giữ “dấu sinh khí”.
+“Khe” được A Mã ghi cạnh những từ như sợ hãi, ám ảnh, tổn thương.
 
-**Ba:** đủ năm dấu, lõi có thể thành bột dẫn tác động lên thứ đã có khe hở.
+Và một thuật ngữ khác xuất hiện hai lần:
 
-**Bốn:** nó không tạo linh hồn từ hư vô.
+**Dẫn Chủng.**
 
-Quỳnh chỉ từ “khe hở”.
+Lan đọc nhỏ dòng bên dưới:
 
-Lan lật trang phụ.
+**“Gieo trước vào vật chứa. Mở cửa. Không tính sinh khí.”**
 
-— Sợ hãi. Ám ảnh. Tổn thương. Và một từ nữa: “dẫn chủng”.
+Trung đang dựa tường bỗng ngẩng lên.
 
-Trung đang dựa tường ngẩng lên.
+— Nghe có vẻ chẳng liên quan gì tới tao hết ha.
 
-— Dẫn gì?
+Không ai cười.
 
-Lan đọc dòng rất nhỏ:
+Quỳnh nhớ ấm trà lạnh.
 
-**“Dẫn chủng: gieo trước vào vật chứa, mở cửa nhưng không tính sinh khí.”**
+Đường đỏ dưới da Trung.
 
-Trung nhíu mày.
+Cơn thèm máu.
 
-— Nghe không tốt.
+Nó nhìn hắn.
 
-Quỳnh nhớ thoáng qua chiếc ấm trà lạnh.
+Trung hiểu ánh mắt đó.
 
-Chỉ thoáng qua.
+— Khoan. Chưa kết luận.
 
-Chưa đủ để nói.
+Thi nói ngay:
 
-Nó giữ lại trong đầu.
+— Đúng. Chưa kết luận.
+
+Lan gật.
+
+— Có thể trà là cách gieo. Có thể không. Tao chưa thấy dòng nào ghi tên Trung hay mô tả đúng triệu chứng.
+
+Trung thở ra.
+
+— Cảm ơn vì cho tao thêm một đêm mất ngủ nhưng có chú thích khoa học.
+
+Thi không chọc hắn.
+
+— Từ giờ mày không ở một mình.
+
+Lần này Trung cũng không đùa lại.
 
 ***
 
-Huy nhìn bốn dòng rất lâu.
+Huy đọc mấy dòng ghi chép rồi nói:
 
-— Vậy dưới hầm không nhất thiết có năm linh hồn nguyên vẹn bị nhốt trong lọ.
+— Vậy đừng gọi năm người là năm linh hồn bị nhét nguyên vào một cái lọ.
 
-Lan lắc.
+Lan gật.
 
-— Có thể là ký ức, khuynh hướng, phần dấu nào đó. Tao không gọi là linh hồn hoàn chỉnh khi chưa biết.
+— Tao cũng không nghĩ vậy. Có thể là dấu ký ức, khuynh hướng, thứ gì đó còn lại sau chết. Sổ dùng từ không nhất quán.
 
-Huy gật.
+— Tốt.
 
-— Tốt. Nếu năm người chen nguyên con trong cái lọ thì tôi xin nghỉ nghề.
+Huy dựa đầu vào tường.
+
+— Nếu năm người chen đủ nguyên con trong một cái bình, tôi xin nghỉ nghề.
 
 Trung liếc anh.
 
-— Bốn tháng bị xích chưa đủ à?
+— Bốn tháng bị xích chưa đủ lý do hả?
 
-— Tôi đang chờ tăng nhuận bút.
+— Tôi đang đợi tòa soạn tăng nhuận bút.
 
-Lần này Thi cười thật một tiếng.
+Thi bật ra một tiếng cười rồi ngưng ngay, như chính nó cũng bất ngờ.
+
+Không khí trong phòng nhẹ đi được vài giây.
+
+Thế là đủ.
 
 ***
 
-Buổi tối, Khải gọi tới.
+Tối đó Khải gọi.
 
-Giọng anh ngắn hơn bình thường.
-
-— Tùng vừa nhắn cho Quân.
+— Tùng vừa liên lạc với Quân.
 
 Quỳnh đứng bật dậy.
 
-Khải đọc nội dung: ảnh Quỳnh chụp từ xa, tọa độ, câu “Muốn em mày sống thì tự tới.”
+Khải đọc nội dung: một ảnh Quỳnh chụp từ xa ở Hồng Ngài, tọa độ và câu **“Muốn em mày sống thì tự tới.”**
 
 — Anh Quân đâu?
 
-— Đang ở cạnh chúng tôi.
+— Ở cạnh chúng tôi.
 
-Quỳnh thở ra nhưng vẫn nói ngay:
+Quỳnh thở ra.
 
 — Đừng cho ảnh đi.
 
-Khải im một nhịp.
+Đầu dây im đúng một nhịp.
 
-— Cô nghĩ chúng tôi để dân sự tự chạy vào ổ nghi phạm à?
+— Cô nghĩ chúng tôi để một dân sự tự chạy vào khu vực có nghi phạm giết người à?
+
+Quỳnh nhắm mắt.
 
 — Xin lỗi.
 
-Quân chen từ đầu kia:
+Một giọng khác chen vào:
 
 — Quỳnh.
 
-Chỉ nghe giọng anh, mọi thứ trong Quỳnh mềm xuống một chút.
+Chỉ hai âm ấy đã làm vai nó bớt cứng.
 
 — Anh ở yên đó.
 
 — Anh biết.
 
-— Đừng “anh biết” rồi tự đi.
+— Đừng “anh biết” xong tự đi.
 
-— Ba công an đang ngồi quanh anh. Muốn đi cũng khó.
+Quân thở dài.
 
-Có tiếng ai đó cười nhỏ.
+— Có mấy người đang ngồi quanh anh đây. Anh muốn đi cũng phải xin phép.
+
+Ở phía xa có ai đó bật cười.
 
 Quân hỏi:
 
 — Em ổn không?
 
-Quỳnh nhìn Lan, Thi, Trung, Huy.
+Quỳnh nhìn Lan đang đọc sổ, Thi cạnh Trung, Huy nằm ở giường trong, Như ở phòng khác.
 
 — Còn ổn.
 
@@ -456,41 +438,37 @@ Quỳnh nhìn Lan, Thi, Trung, Huy.
 
 — Tìm được rồi.
 
-Bên kia im rất lâu.
+Đầu dây im lâu.
 
-— Thật?
+— Thật hả?
 
 — Thật.
 
+Quỳnh nghe anh trai thở ra rất chậm.
+
 — Còn Tùng?
 
-Quỳnh nhìn hành lang tối.
-
-— Sống.
-
-Quân thở ra.
+— Đang trốn.
 
 — Lần này đừng tự làm anh hùng.
 
 Quỳnh cười mệt.
 
-— Anh nói câu đó hơi sai người.
+— Anh nói câu đó với em nghe kỳ lắm.
 
 ***
 
-20:17, điện chớp một lần.
+Khoảng tám giờ tối, điện chớp một lần.
 
-20:18, con chó ngoài sân tru.
+Con chó ngoài sân đang nằm bỗng đứng dậy, quay về phía hành lang và gầm rất thấp.
 
-20:19, Trung làm rơi chai nước.
+Trung làm rơi chai nước.
 
-Thi quay sang.
+Thi quay sang ngay.
 
 — Sao?
 
-Hắn đứng im, mặt mất sạch vẻ đùa.
-
-Mắt nhìn khoảng không sau vai Huy.
+Hắn không đáp liền. Mặt mất sạch vẻ đùa. Hai mắt nhìn qua vai Huy về phía cửa.
 
 — Tao nghe tim.
 
@@ -498,22 +476,30 @@ Mắt nhìn khoảng không sau vai Huy.
 
 — Không biết.
 
-Thi đếm người trong phòng bằng mắt.
+Thi nhìn từng người trong phòng.
 
-Trung nói:
+Trung nuốt khan.
 
-— Có bảy nhịp.
+— Có nhiều hơn số người ở đây.
 
-Không khí đông cứng.
+— Bao nhiêu?
 
-— Một nhịp ở ngoài cửa. Rất chậm.
+Hắn nhắm mắt vài giây rồi mở ra.
 
-Thi rút súng, mở cửa.
+— Một nhịp ở ngoài hành lang. Chậm lắm.
+
+Thi rút súng, ra hiệu mọi người ở nguyên vị trí rồi mở cửa.
 
 Hành lang trống.
 
-Trên tường là một dấu bàn tay đen.
+Không có người.
 
-Năm ngón.
+Trên bức tường đối diện vừa xuất hiện một dấu bàn tay đen, ướt như tro trộn nước.
 
-Ngón út bị bẻ gập vào trong.
+Năm ngón in rõ.
+
+Ngón út bị gập vào lòng bàn tay.
+
+Lan nhìn mẩu gỗ có bốn vòng đen.
+
+Không ai cần nói ra con số.
