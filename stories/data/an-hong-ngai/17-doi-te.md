@@ -1,222 +1,146 @@
 23 giờ 08, ngày 23 tháng 9.
 
-Quỳnh đứng sau một tảng đá cách điểm hẹn hơn ba trăm mét, mặc áo khoác tối màu, bên trong là áo chống đâm nhẹ và thiết bị thu âm gắn sát cổ áo.
+Quỳnh đứng sau một tảng đá cách điểm hẹn hơn ba trăm mét, nghe Khải nhắc lại kế hoạch lần cuối qua tai nghe. Bên trong áo khoác là một lớp chống đâm nhẹ và bộ thu âm áp sát cổ áo. Tuyến cô sẽ đi đã được đánh dấu bằng những miếng phản quang thấp sát đất và một dây dẫn mảnh chạy dọc mép an toàn; nếu thị giác bị bẻ, cô vẫn còn thứ để chạm vào.
 
-Không phải áo chống đạn hoàn chỉnh.
+Thi ở sườn trái cùng tổ tiếp cận. Trung ở tuyến phải với hai cán bộ khác. Quân ở phía sau, không bước lên đồi; một xe được đặt ở vị trí Tùng có thể nhận ra có người tới nếu quan sát từ trên cao. Huy ở điểm chỉ huy cạnh Khải.
 
-Không phải phim.
+Không ai xuất hiện ở đây chỉ vì họ từng có mặt trong những chương trước.
 
-Khải đã giải thích rất rõ: thứ gì đủ để bảo vệ khỏi mọi nguy cơ sẽ khiến cô di chuyển như một cái tủ lạnh và Tùng nhận ra ngay.
+Khải hỏi:
 
-Thi ở tổ bên sườn trái.
+— Nhắc lại giới hạn của cô.
 
-Trung bên phải cùng hai cán bộ.
+— Không vượt tuyến phản quang. Không đi theo hình ảnh chỉ mình tôi thấy. Mất liên lạc quá ba mươi giây thì lùi. Tùng có vũ khí thì không tự áp sát.
 
-Quân ở tuyến sau, không vào đồi. Một xe được đặt ở vị trí Tùng có thể thấy ánh đèn và bóng người nếu quan sát từ cao, đủ để hắn tin Quân đang tới nhưng không đủ gần để kéo anh vào vùng nguy hiểm.
+— Nếu hắn kích động?
 
-Huy ở điểm chỉ huy với Khải.
-
-Lan nằm tại trạm, cấm xuất hiện dù cô đã chửi quyết định đó trong gần mười phút.
-
-Trâm thật được bảo vệ ở địa điểm khác.
-
-Không ai còn được phép “đi cùng cho đủ dàn cast”.
-
-Ai có việc ở đâu thì ở đó.
-
-***
-
-Khải nói qua tai nghe:
-
-— Quỳnh, nhắc lại nguyên tắc.
-
-— Không rời tuyến đánh dấu. Không chạy theo hình ảnh chỉ mình tôi thấy. Nếu mất liên lạc quá ba mươi giây, lùi. Nếu Tùng xuất hiện có vũ khí, không tự áp sát.
-
-— Và?
-
-— Không tranh luận đạo lý dài dòng với hắn.
+— Không đứng đó cãi chuyện năm 2007 với hắn.
 
 Khải im một nhịp.
 
-— Câu cuối tôi không nói nhưng đúng.
+— Cái đó tôi định nói tiếp.
 
-Huy chen vào đường truyền từ điểm chỉ huy:
-
-— Nếu cần chọc hắn tức, tôi có thể hỗ trợ nội dung.
-
-Khải:
-
-— Huy, im đường truyền.
-
-— Rõ.
-
-Quỳnh bật cười rất nhỏ.
-
-Tiếng cười làm tay bớt lạnh.
+Quỳnh mỉm cười rất nhẹ. Tay nó bớt lạnh.
 
 ***
 
-23 giờ 22, Quỳnh bước vào tuyến nhìn thấy được.
+23 giờ 22, Quỳnh bước vào khoảng đất nhìn thấy được.
 
-Đồi không trọc hoàn toàn. Có các bụi thấp, vài cây nhỏ và những phiến đá lộ. Phía tây đất hạ rất nhanh xuống một khe sâu — không phải vực dựng đứng như trong mơ, nhưng đủ nguy hiểm nếu ngã ban đêm.
+Quả đồi thấp hơn nó tưởng khi nhìn bản đồ. Phía tây đất đổ khá nhanh xuống một khe sâu, không dựng đứng như vách đá nhưng đủ để một người trượt chân ban đêm gặp chuyện. Điểm hẹn nằm trên một khoảnh đất bằng gần đó, ở giữa đặt đúng chiếc ghế trong ảnh Tùng gửi.
 
-Điểm hẹn là một khoảng đất bằng gần mép.
+Không có người.
 
-Ở giữa có chiếc ghế gỗ.
+Trên mặt ghế là một chiếc điện thoại cũ.
 
-Không thấy người.
+Quỳnh dừng ở mốc đã định.
 
-Trên ghế đặt một chiếc điện thoại.
+— Thấy điện thoại. Chưa thấy Tùng.
 
-Quỳnh dừng ở vạch đã định.
+Khải đáp:
 
-— Thấy điện thoại. Không thấy Tùng.
+— Không chạm tay.
 
-Khải:
+Màn hình điện thoại tự sáng. Một cuộc gọi số ẩn hiện lên.
 
-— Không chạm.
+Quỳnh dùng đầu cây gậy nhặt sẵn để bấm loa ngoài.
 
-Điện thoại tự sáng.
+Giọng Tùng vang lên ngay:
 
-Cuộc gọi đến.
+— Mày vẫn nghe lời người khác ghê ha.
 
-Số ẩn.
-
-Khải nói:
-
-— Có thể nhận bằng loa ngoài, không cầm.
-
-Quỳnh dùng một que gỗ dài chạm nút.
-
-Giọng Tùng vang lên.
-
-— Mày vẫn nghe lời công an như hồi nhỏ nghe Quân nhỉ.
-
-Quỳnh nhìn quanh.
-
-— Còn mày vẫn thích nói từ chỗ không ai thấy.
+— Còn mày vẫn thích trốn chỗ không ai thấy.
 
 — Tao thấy mày.
 
-— Chúc mừng.
+— Ừ.
 
-Khải nói rất nhỏ trong tai:
+Chỉ vậy.
 
-— Giữ hắn nói.
-
-Tùng cười.
+Tùng im mất một nhịp, như thể hắn chờ Quỳnh hỏi mình đang ở đâu.
 
 — Quân đâu?
 
-— Đang tới.
+— Có mặt ở khu vực.
 
-— Nói dối.
+— Tao muốn nó lên đây.
 
-— Mày muốn nghe anh tao thì gọi anh ấy.
+— Muốn thì tự gọi anh ấy.
 
-— Tao muốn nó đứng trước mặt tao.
+— Mày nghĩ tao không biết tụi công an đang quanh đây à?
 
-Quỳnh không trả lời.
+Quỳnh nhìn các bụi thấp trước mặt. Không thứ gì chuyển động.
 
-Tùng tiếp:
+— Biết mà vẫn hẹn thì chắc mày có lý do.
+
+Tùng cười khẽ.
 
 — Mày có biết vì sao tao chọn chỗ này không?
 
-— Không cần biết.
+— Không cần.
 
-Một khoảng im.
+Lần này hắn im lâu hơn.
 
-Câu trả lời làm hắn khó chịu hơn mọi câu hỏi.
+Quỳnh hiểu Tùng muốn kể. Hắn đã dành quá nhiều năm để xây một phiên bản câu chuyện mà trong đó người khác phải nghe hắn giải thích. Không hỏi đôi khi làm hắn khó chịu hơn phản bác.
 
-— Bảy năm trước tao rơi xuống nước ở một chỗ giống thế này.
+— Bảy năm trước tao rơi xuống nước. — hắn nói. — Tao gần chết vì tụi mày.
 
-Quỳnh nghe.
-
-— Tao chết một lần vì tụi mày.
-
-Quỳnh nói:
-
-— Không. Mày trốn khỏi tạm giam rồi tự rơi.
+— Mày trốn khỏi tạm giữ rồi tự rơi.
 
 — Nếu mày không...
 
-— Tao không nhận trách nhiệm thay mày.
+— Như đâu?
 
-Giọng Tùng lạnh đi.
+Câu hỏi cắt ngang khiến giọng hắn đổi hẳn.
 
-— Mày vẫn như cũ.
+— Giờ mới nhớ tới nó?
 
-— Mày cũng vậy.
+— Ảnh mày gửi được chụp lúc nào?
 
-Quỳnh nhớ lời Khải.
+— Nó quay về với tao.
 
-Không tranh luận dài.
+— Tao hỏi lúc nào.
 
-Nó dừng.
+Tùng cười nhưng không đáp.
 
-***
+Quỳnh không nói thêm. Nó để khoảng im kéo dài.
 
-23 giờ 28, Thi báo:
+Cuối cùng hắn nói:
 
-— Có chuyển động sườn trái. Một người.
+— Tối hai mốt.
 
-Trung bên phải:
+Khải ở đầu kia không lên tiếng, nhưng Quỳnh biết thông tin đã được ghi lại.
 
-— Tôi thấy hai.
+— Cô ấy còn sống lúc chụp?
 
-Khải:
+— Lúc đó thì có.
 
-— Camera?
+— Sau đó?
 
-Thi:
+— Tự nó chọn.
 
-— Camera một người.
+— Xác ở đâu?
 
-Trung:
+Một tiếng thở rất nhỏ lọt qua loa.
 
-— Camera không có ai.
+Tùng muốn Quỳnh khóc, muốn nó buộc tội, muốn một câu “mày là quỷ”. Quỳnh chỉ đợi.
 
-Huyết Ngải bắt đầu.
+— Dưới cây lớn phía bắc đồi. Cách đây hai trăm mét, nếu tụi mày đủ giỏi để tìm.
 
-Quỳnh thấy Trang đứng ngay cạnh ghế.
+Khải lập tức chuyển tọa độ tương đối cho tổ tìm kiếm khác. Chỉ trong vài phút nói chuyện, Tùng đã tự cho họ thời điểm cuối Như còn sống và khu vực có thể tìm thấy cô.
 
-Không xuất hiện từ đâu.
+Quỳnh không cảm thấy mình thắng gì cả.
 
-Chỉ như mắt vừa bỏ sót cô ở đó.
-
-Trang nhìn Quỳnh.
-
-— Đừng để hắn chết.
-
-Quỳnh giơ điện thoại quay.
-
-Màn hình ghế trống.
-
-— Ảo riêng. — nó báo.
-
-Trang nói:
-
-— Nếu hắn chết, mày sẽ không bao giờ biết hết.
-
-Quỳnh không trả lời.
-
-Hình ảnh mờ dần.
+Nó chỉ tiếp tục giữ hắn nói.
 
 ***
 
-23 giờ 31, Quân nói qua loa ngoài từ tuyến sau.
+23 giờ 30, giọng Quân vang qua điện thoại từ tuyến sau.
 
 — Tùng.
 
-Cả đồi im.
-
-Giọng Tùng lập tức trở lại điện thoại.
+Không khí trên đồi như đổi hẳn. Tùng trả lời gần như ngay lập tức:
 
 — Quân.
-
-Chỉ một từ nhưng Quỳnh nghe được bảy năm mắc kẹt trong đó.
-
-Quân nói:
 
 — Tao đây.
 
@@ -224,458 +148,292 @@ Quân nói:
 
 — Không.
 
-— Mày sợ?
+— Mày sợ tao?
 
 — Ừ.
 
-Tùng im.
+Quỳnh nghe đầu dây im bặt.
 
-Có lẽ hắn không chờ câu đó.
+Quân nói tiếp, giọng không lớn:
 
-Quân tiếp:
-
-— Tao sợ mày làm hại em tao. Sợ mày giết người tiếp. Sợ mày còn cài thứ gì tao chưa biết. Sợ không phải lý do để tao làm đúng kịch bản của mày.
-
-Quỳnh thấy cổ họng mình nghẹn.
-
-Tùng nói:
+— Tao sợ mày làm hại em tao. Sợ mày còn người bị giữ. Sợ mày gài thêm thứ gì tụi tao chưa thấy. Nhưng tao không lên đó chỉ vì mày bảo.
 
 — Trang chọn mày.
 
-Quân không đáp ngay.
+Quân mất vài giây mới đáp.
 
-— Trang không còn ở đây để chọn ai nữa.
+— Tao không nói thay Trang.
 
 — Nó yêu tao.
 
-— Tao không nói thay cô ấy.
+— Mày cũng đừng nói thay cô ấy.
 
-Quỳnh nhắm mắt một giây.
+Tùng cười một tiếng rất ngắn, không còn vui.
 
-Cùng câu nó đã nghĩ.
-
-Quân nói:
-
-— Mày cũng không được.
+Quỳnh nhìn chiếc ghế trống. Bảy năm trước Quân từng là cái bóng rất lớn trong câu chuyện của Tùng. Đêm nay anh chỉ cần từ chối đứng vào đúng chỗ hắn sắp sẵn là đủ.
 
 ***
 
-Một tiếng động vang phía sau ghế.
+23 giờ 34, Thi báo có chuyển động ở sườn trái. Camera của tổ cô ghi một người thấp thoáng sau đá. Tuyến phải không thấy gì trên thiết bị dù Trung nói mắt thường có một bóng thứ hai.
 
-Tùng bước ra từ khe đá.
+Quỳnh bắt đầu nhìn thấy Trang đứng cạnh chiếc ghế.
 
-Không còn mặt A Hù.
+Cô xuất hiện rất tự nhiên, như thể đã ở đó từ đầu mà mắt Quỳnh vừa mới nhận ra. Tóc ướt, gương mặt buồn hơn đáng sợ.
 
-Họa Bì đã tháo.
+— Đừng để hắn chết.
 
-Gương mặt thật bị sẹo nặng hơn Quỳnh nhớ. Một bên da kéo co từ thái dương xuống hàm, tai biến dạng, tóc ở phần sẹo không mọc. Hắn gầy nhưng cơ thể vẫn chắc.
+Quỳnh giơ camera gắn ở ngực hướng thẳng tới. Màn hình phụ trong tay chỉ có ghế và cỏ thấp.
 
-Tay phải cầm dao ngắn.
+— Tôi có hình ảnh riêng. Camera không ghi. — nó báo.
 
-Tay trái cầm một lọ thủy tinh nhỏ có bột trắng.
+Khải đáp:
 
-Quỳnh nhìn lọ.
+— Giữ tuyến.
 
-Vật chứng tương lai.
+Trang vẫn nói:
 
-Tùng nhìn nó.
+— Nếu hắn chết, mày sẽ không bao giờ biết hết.
 
-Mỉm cười.
+Quỳnh không tranh luận. Nó nhìn xuống miếng phản quang dưới chân rồi chạm hai ngón vào dây dẫn. Dây thật. Đất thật. Giọng trong đầu có thể đợi.
+
+Hình Trang mờ đi khi một người thật bước ra từ khe đá phía sau ghế.
+
+***
+
+Tùng không còn mang mặt A Hù.
+
+Gương mặt thật của hắn khác ký ức Quỳnh nhiều hơn nó tưởng: một bên da co kéo từ thái dương xuống hàm, tai biến dạng và tóc không mọc đều quanh vùng sẹo. Hắn gầy, chân đi hơi lệch nhưng vẫn đủ chắc để khiến người đối diện không được phép coi thường.
+
+Tay phải cầm một con dao ngắn. Tay trái là chiếc lọ thủy tinh nhỏ nắp đen, bên trong còn bột trắng.
+
+Khải nói trong tai Quỳnh:
+
+— Không tiến. Giữ khoảng cách.
+
+Tùng đứng cách cô gần hai mươi mét.
 
 — Lâu quá không gặp.
 
-Giấc mơ quay lại.
+— Ừ.
 
-Xe buýt.
+— Ngồi đi.
 
-Mép vực.
-
-Bàn tay lạnh.
-
-Nhưng lần này Quỳnh không ngủ.
-
-Trong tai có Khải.
-
-Bên trái có Thi.
-
-Bên phải có Trung.
-
-Sau lưng là cả một kế hoạch.
-
-Nó không đứng một mình.
-
-***
-
-Tùng bước tới.
-
-— Ngồi.
-
-Quỳnh không.
-
-— Mày nghĩ súng cứu được à?
-
-Hắn nâng lọ bột.
-
-— Tao chỉ cần mở.
-
-Khải nói trong tai:
-
-— Không tiến. Giữ vị trí.
-
-Quỳnh nói:
-
-— Như đâu?
-
-Tùng cười.
-
-— Giờ mới hỏi?
-
-— Ảnh mày gửi.
-
-— Nó giúp tao lần cuối.
-
-— Mày giết cô ấy?
-
-— Nó tự chọn quay về.
-
-— Vì mày buộc nó.
-
-— Ai cũng bị buộc bởi cái gì đó.
-
-Quỳnh không tranh luận triết lý.
-
-— Xác ở đâu?
-
-Tùng hơi cau mày.
-
-Hắn muốn cảm xúc khác.
-
-Muốn Quỳnh giận.
-
-Muốn nó nói hắn là quỷ.
-
-Quỳnh chỉ hỏi vị trí thi thể như một nhân chứng.
-
-— Dưới cây cách đây hai trăm mét. — hắn nói cuối cùng. — Nếu bọn mày tìm được.
-
-Khải lập tức chuyển lệnh cho tổ khác.
-
-Một thông tin sống được lấy ra khỏi cuộc nói chuyện chết.
-
-***
-
-Tùng mở nắp lọ.
-
-Khải:
-
-— Quỳnh lùi.
-
-Nó lùi.
-
-Tùng lấy một nhúm bột bằng hai ngón.
-
-Không tung ngay.
-
-Chỉ bóp nhẹ.
-
-Trung bên phải đột ngột nói:
-
-— Có vấn đề.
-
-Thi:
-
-— Gì?
-
-— Tim.
-
-— Của ai?
-
-— Tất cả.
-
-Giọng hắn run.
-
-— Tao nghe cả đồi.
-
-Quỳnh thấy cây xung quanh bắt đầu biến thành người.
-
-Hàng chục bóng.
-
-Trang.
-
-Hoa.
-
-Quyên.
-
-A Mã.
-
-Như.
-
-A Hù thật.
-
-Những người nó chưa từng gặp.
-
-Camera gắn trên ngực chỉ ghi cây.
-
-— Ảo tăng. — Quỳnh báo.
-
-Khải:
-
-— Lùi ba bước.
-
-Tùng nói:
-
-— Thấy chưa? Người chết nghe tao.
-
-Quỳnh lùi.
-
-— Không. Tao thấy mấy thứ trong đầu tao nghe thứ bột của mày.
-
-Mặt Tùng co lại.
-
-— Mày nghĩ cái gì cũng giải thích được?
+Quỳnh nhìn chiếc ghế.
 
 — Không.
 
-Quỳnh nhìn hắn.
+— Mày nghĩ mấy người quanh đây cứu được mày?
 
-— Tao chỉ không cho mày quyền giải thích hộ.
+— Tao nghĩ nếu mày muốn nói thì cứ nói ở đó.
 
-***
+Tùng nâng chiếc lọ.
 
-Tùng lao tới.
+— Tao chỉ cần mở cái này.
 
-Không báo trước.
+Trung ở tuyến phải bỗng báo qua bộ đàm:
 
-Dao hướng về vai Quỳnh chứ không cổ — hắn muốn bắt, không giết ngay.
+— Triệu chứng tăng. Cổ với ngực, giống mấy điểm bột trước.
 
-Quỳnh lùi như đã tập.
+Thi hỏi:
 
-Một tiếng súng nổ.
+— Có nhìn thấy gì khác không?
 
-Thi bắn.
+— Có. Nhưng camera không có. Tôi giữ vị trí.
 
-Viên đạn trúng phần ngoài đùi Tùng.
+Không ai hỏi Trung “cảm được Tùng ở đâu”. Cảm giác của hắn vẫn chỉ là một triệu chứng, không phải thiết bị trinh sát.
 
-Hắn ngã một gối.
+Quỳnh nhìn Tùng.
 
-Dao rơi.
+— Mày giữ Như để làm người thứ năm?
 
-— BỎ LỌ! HAI TAY RA XA! — Thi quát.
+Mắt hắn hơi đổi.
 
-Tùng nhìn hướng cô.
+— Ai nói?
 
-Cười.
+— Không cần biết.
 
-Rồi đập lọ xuống đất.
+— Nó có ích hơn tụi mày nghĩ.
 
-Không vỡ.
+— Cô ấy còn sống khi mày dùng cô ấy?
 
-Thủy tinh dày.
+— Mày hỏi giống công an quá rồi đó.
 
-Nhưng bột trắng phụt khỏi miệng lọ thành một đám mỏng.
+— Trả lời đi.
 
-Gió đẩy qua sườn.
+Tùng siết lọ trong tay.
 
-Mọi thứ vỡ.
+— Nó nợ tao.
 
-***
+Quỳnh thấy giận tới mức bàn tay lạnh hẳn, nhưng giọng nó vẫn đều.
 
-Thi thấy ba Quỳnh.
+— Không ai nợ mày mạng của họ.
 
-Trung thấy năm Tùng.
+— Trang nợ tao một câu trả lời. Quân nợ tao. Trâm nợ tao. Như...
 
-Một cán bộ thấy đất dưới chân biến thành vực và ngã quỵ dù mặt đất phẳng.
+— Không.
 
-Quỳnh thấy chính mình đang đứng ở mép dốc, không còn tai nghe.
+Chỉ một chữ.
 
-Tùng ở sau lưng.
-
-“Mày sẽ phải trả giá.”
-
-Giống hệt mơ.
-
-Quỳnh nhắm mắt.
-
-Không để hình ảnh dẫn.
-
-Nó chạm tay vào dây an toàn đã buộc ở hông từ trước.
-
-Dây thật.
-
-Chạy về phía sau, nối với chốt đá tổ kỹ thuật đã đóng.
-
-Mép vực giả không thể thay dây.
-
-Quỳnh kéo.
-
-Dây căng về bên trái.
-
-Nó đi theo dây thay vì mắt.
-
-Một bước.
-
-Hai.
-
-Hình ảnh mép vực biến.
-
-Mặt đất thật trở lại.
-
-Tùng đang bò về phía khe đá, chân chảy máu.
-
-— HƯỚNG TÂY! — Quỳnh hét. — TÙNG ĐANG RÚT HƯỚNG TÂY!
-
-Thi không tin mắt.
-
-Cô nhìn thiết bị định vị gắn trên áo Quỳnh và điểm chuyển động nhiệt từ drone phía trên.
-
-— XÁC NHẬN! HƯỚNG TÂY!
-
-Trung chạy theo tín hiệu, không theo hình người.
-
-Đây là điểm khác nhau giữa đêm nay và những ngày đầu.
-
-Họ đã biết mắt mình có thể phản bội.
-
-Nên mang theo thứ khác để tin.
+Quỳnh không giải thích thêm. Nó không còn nhu cầu thắng Tùng trong một cuộc tranh luận đạo lý. Những người hắn vừa gọi tên đã mất quá nhiều năm vì bị kéo vào câu chuyện hắn tự viết.
 
 ***
 
-Tùng ném một vật nhỏ xuống đất.
+Tùng vặn nắp lọ.
 
-Tiếng nổ chát.
+Một ít bột trắng dính ở miệng thủy tinh. Hắn rắc nó xuống một vệt sẫm đã được bôi trên đá cạnh chân.
 
-Khói trắng.
+Mùi ngai ngái lan ra cùng một lớp khói mỏng từ khe đá. Điểm bám đã được chuẩn bị từ trước.
 
-Thi cúi tránh.
+Cả đồi bắt đầu sai đi.
 
-Khi khói tan, dấu nhiệt tách thành ba điểm.
+Quỳnh thấy những thân cây biến thành người. Không phải một đội quân ma đồng loạt xuất hiện mà là từng khuôn mặt chen vào nơi đáng lẽ có cành cây: Trang, Hoa, Quyên, A Mã, Như, rồi những người nó không biết. Camera vẫn chỉ ghi bụi và đá.
 
-— Mồi nhiệt. — một giọng trên bộ đàm nói. — Có ba nguồn.
+Ở tuyến phải, Trung thở gấp hơn.
 
-Tùng chuẩn bị cả kỹ thuật cho lúc rút.
+— Tôi có cảm giác phải đi về phía hắn.
 
-Không phải mọi “phân thân” đều là phép.
+Thi nói:
 
-Trung dừng trước ngã ba.
+— Đứng yên. Đừng dùng cảm giác đó làm hướng.
 
-— Cái nào?
+— Rõ.
+
+Tùng nhìn Quỳnh.
+
+— Thấy chưa?
+
+— Thấy đầu tao đang bị mày làm rối.
+
+— Người chết nghe tao.
+
+— Có thể.
+
+Câu trả lời làm hắn khựng.
+
+Quỳnh tiếp:
+
+— Cũng có thể không. Tao không biết. Mày cũng không được quyền bắt tao gọi nó là gì.
+
+Tùng bước lên.
+
+— Mày lúc nào cũng nghĩ mày thông minh.
+
+— Không. Tao chỉ biết mày thích người khác tin lời mày.
+
+***
+
+Hắn lao tới rất nhanh.
+
+Dao đưa ngang về phía vai và cổ Quỳnh. Nó lùi theo đúng tuyến đã tập, không quay lưng chạy. Khi Tùng vượt qua mốc cảnh báo cuối cùng mà vẫn cầm dao, một tiếng súng nổ từ sườn trái.
+
+Thi bắn một phát để chặn mối đe dọa. Tùng xoay người đúng lúc viên đạn tới; đạn trúng phần ngoài đùi trái. Hắn quỵ xuống, con dao rơi cách tay gần một mét.
+
+— BỎ TAY KHỎI VŨ KHÍ! — Thi quát từ vị trí che.
+
+Tùng không với dao.
+
+Hắn vẫn giữ chiếc lọ.
+
+Quỳnh lùi thêm, tay chạm dây dẫn. Trong mắt nó, mặt đất phía trước bỗng biến thành mép khe và Tùng xuất hiện ở sau lưng dù tai vẫn nghe hắn thở trước mặt.
+
+Nó thôi tin mắt.
+
+Bàn tay Quỳnh trượt dọc dây dẫn tới nút phản quang kế tiếp. Chân đi theo nền đất đã khảo sát từ trước. Một bước, rồi một bước nữa.
+
+Hình khe sâu chồng lên mặt đất thật nhưng không thể làm sợi dây đổi hướng.
+
+— Tôi đang lùi theo dây. — Quỳnh báo.
 
 Khải:
 
-— Không đoán. Tổ ba khóa chân đồi. Thi giữ sườn. Trung quay lại Quỳnh.
+— Tiếp tục. Tổ trái giữ Tùng.
 
-— Nhưng...
+Tùng bất ngờ ném một vật tròn nhỏ xuống đất.
 
-— Lệnh.
+Tiếng nổ chát và khói trắng bùng lên. Cùng lúc ba nguồn nhiệt nhỏ chạy xuống ba hướng khác nhau trên màn hình drone.
 
-Trung nghiến răng, quay.
+— Mồi nhiệt. — kỹ thuật viên báo.
 
-Một quyết định đúng có thể khiến người ta thấy mình đang bỏ lỡ cơ hội.
+Khi khói mỏng đi, Tùng đã không còn ở vị trí cũ. Một vệt máu thật kéo khỏi tảng đá, còn mắt Quỳnh lại thấy ba bóng hắn chạy ba hướng.
 
-Nhưng đó là lý do có chỉ huy.
+Nó không chọn bóng nào.
 
-***
+Quỳnh cúi nhìn máu. Vệt đỏ đi chếch xuống phía đường mòn dẫn về nhà Pá Tra.
 
-Tùng không chạy về rừng sâu.
+— Máu thật hướng nam, về phía nhà. — nó nói.
 
-Hắn chạy về nhà Pá Tra.
+Thi xác nhận bằng camera sườn trái. Một tổ phía chân đồi cũng báo có dấu người bị thương vượt qua lối hậu.
 
-Tổ khóa nhà báo mất dấu đúng năm phút ở đoạn cây rậm rồi phát hiện máu trên lối hậu.
+Khải ra lệnh không ai tự đuổi xuyên vùng khói; các tổ khóa đường về Pá Tra theo phương án đã chuẩn bị.
 
-Khải hiểu trước mọi người.
+Trung nói:
 
-— Hắn về Huyết Ngải.
+— Tôi có thể theo...
 
-Huy ở điểm chỉ huy nói:
+— Không. — Thi cắt ngay. — Mày quay về tuyến của Quỳnh.
 
-— Đừng để ai vào hầm ngay. Vườn có cơ chế dẫn máu.
+Hắn nghiến răng nhưng làm theo.
 
-— Giải thích.
-
-— A Mã thiết kế rãnh cấp máu. Khi có lượng lớn đổ vào, cây phản ứng. Tôi không biết mức nào nguy hiểm cho người.
-
-Khải chuyển lệnh:
-
-— Bao vây. Không vào hầm tới khi có đánh giá.
-
-Quỳnh nghe.
-
-— Tùng bị bắn. Hắn đang chảy máu.
-
-Huy im.
-
-Rồi nói:
-
-— Vậy hắn đang mang thức ăn vào đúng vườn.
+Không phải bỏ mất cơ hội. Chỉ là không biến một triệu chứng chưa hiểu thành lý do tách đội.
 
 ***
 
-00 giờ 03, ngày 24 tháng 9.
+Tùng không chạy sâu vào rừng.
 
-Tổ tìm kiếm phía đồi báo tìm thấy Như.
+Hắn quay về nhà Pá Tra.
 
-Không còn sống.
+Khi thông tin ấy được xác nhận qua camera ở lối hậu, Quỳnh không bất ngờ. Tùng đã mất gần như mọi thứ còn lại: khuôn mặt A Hù, Như, con tin, thế chủ động và chỗ ẩn. Thứ duy nhất hắn còn tin mình kiểm soát được nằm dưới căn nhà ấy.
 
-Thi đứng cạnh Quỳnh khi tin tới.
+Huy nghe báo ở điểm chỉ huy rồi nói:
 
-Không ai nói trong vài giây.
+— Hầm.
 
-— Thời gian tử vong sơ bộ? — Thi hỏi.
+Khải hỏi:
 
-— Khoảng tối 21. Có dấu đen lòng bàn tay phải. Không thấy thương tích lớn ngoài một vết ở ngực cần khám.
+— Vì sao?
 
-Tối 21.
+— Lõi với phần Huyết Ngải hoàn chỉnh đều từng được giữ ở đó. Nếu hắn muốn phá chứng cứ hoặc thử kích hoạt gì lần cuối, hắn sẽ xuống.
 
-Đúng khoảng Trâm lấy lại giọng.
+Quỳnh nhìn vệt máu kéo về phía nhà.
 
-Quỳnh nhắm mắt.
+— Với hắn hai chuyện đó có khi là một.
 
-Như đã trả tiếng trước khi chết.
-
-Một lựa chọn nhỏ cuối cùng.
-
-Không xóa những gì cô từng làm.
-
-Nhưng cũng không để Tùng sở hữu toàn bộ cái chết của cô.
+Khải chuyển lệnh bao vây nhà Pá Tra, không tự ý xuống hầm cho tới khi kiểm được bẫy và lối phụ.
 
 ***
 
-00 giờ 11, Tùng đi vào hầm Huyết Ngải.
+00 giờ 03, ngày 24 tháng 9, tổ tìm kiếm phía bắc đồi báo đã thấy Như.
 
-Camera nhiệt mất hắn dưới nền.
+Cô không còn sống.
 
-Tổ bao vây giữ vị trí.
+Thi đứng cạnh Quỳnh khi thông tin được truyền qua. Không ai nói ngay.
 
-Khải gọi Huy tới màn hình bản đồ.
+Khám tại chỗ mới chỉ cho phép ước lượng thời điểm tử vong từ tối ngày hai mốt. Lòng bàn tay phải có dấu đen tương tự những dấu liên quan Khalamay. Có một vết thương nhỏ ở ngực cần khám nghiệm đầy đủ.
 
-— Có lối thứ hai?
+Tối hai mốt cũng là khoảng Trâm bắt đầu lấy lại giọng.
 
-Huy chỉ.
+Quỳnh nghĩ tới lời Như từng nói trong phòng tạm: có việc cô bị ép, có việc cô tự chọn. Nó muốn tin việc trả giọng là lựa chọn cuối cùng của Như, nhưng không nói điều ấy thành sự thật. Chưa ai biết.
 
-— Cửa thông sau luống thứ ba. Nhưng nếu hắn biết mình bị bao, có thể gài.
+— Báo cho Trâm sau khi có người ở cạnh nó. — Quỳnh nói.
 
-Lan gọi từ trạm qua loa:
+Thi gật.
 
-— Không để người có vết thương hở vào trước.
+***
 
-Khải:
+00 giờ 11, camera ở nhà Pá Tra ghi Tùng đi qua kho lúa, chân trái kéo một vệt máu dài. Hắn mở lối xuống rồi biến khỏi hình.
 
-— Vì?
+Lối chính bị khóa từ bên trong ngay sau đó.
 
-— Huyết Ngải phản ứng với máu. A Mã ghi vậy.
+Khải không cho ai lao theo.
 
-— Ghi nhận.
+Tùng đang bị thương, có dao, có Huyết Ngải, và đã sống trong căn nhà này đủ lâu để chuẩn bị nhiều thứ mà họ chưa phát hiện.
 
-Quỳnh nhìn màn hình.
+Quỳnh đứng ngoài tuyến an toàn nhìn mái kho tối om. Bảy năm trước Tùng cũng đã chạy khỏi người đang muốn bắt hắn rồi rơi vào một nơi không ai tiếp cận kịp.
 
-Trong đầu hiện bức ảnh Trang trong hộp Tùng.
+Lần này không ai mong lịch sử lặp lại.
 
-Mọi đường hắn đi cuối cùng đều quay về một thứ hắn nghĩ mình sở hữu.
+Bên trong tai nghe, Khải ra lệnh cho tổ phá cửa và y tế sẵn sàng.
 
-Bây giờ hắn quay về thứ cây hắn nghĩ mình sở hữu.
+Còn dưới nền kho, một tiếng kim loại nặng nề vang lên.
 
-Quỳnh không biết đó có phải công lý không.
-
-Công lý nên là tòa án.
-
-Nhưng đêm đó, Hồng Ngài chưa xong với hắn.
+Tùng vừa tự chốt mình vào trong.
