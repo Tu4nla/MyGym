@@ -366,9 +366,7 @@ Bảy năm trước, nó nghĩ đó là lời kết cho một vụ án.
 
 Bây giờ Quỳnh hiểu câu ấy không có nghĩa mọi thứ đều do con người tưởng tượng. Nó chỉ nhắc rằng dù thứ họ gặp là ma, ngải, hóa chất hay một điều chưa gọi được tên, cái ác vẫn cần một con người quyết định dùng nó để làm gì.
 
-Nó nhìn xuống bản thêm một lúc rồi quay vào thu xếp đồ.
-
-Vụ án Hồng Ngài của Quỳnh kết thúc ở đó.
+Nó nhìn xuống bản thêm một lúc rồi quay vào thu xếp đồ. Lần này, rời Hồng Ngài không giống bỏ chạy khỏi một câu hỏi. Những gì Quỳnh cần làm ở đây đã làm xong.
 
 ***
 
@@ -412,7 +410,7 @@ Giọng hoàn toàn bình thường.
 
 06 giờ 47, bức ảnh tiếp theo được chụp.
 
-Méп luống cây trống.
+Mép luống cây trống.
 
 Đến lúc danh sách vật chứng ban đầu được khóa, không có mục nào mang tên **lọ thủy tinh chứa bột trắng**.
 
