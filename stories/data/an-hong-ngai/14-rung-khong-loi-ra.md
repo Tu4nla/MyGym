@@ -1,366 +1,164 @@
-Đèn tắt lúc 19:41.
+Điện tắt lúc 19:41.
 
-Điểm an toàn là một căn nhà hai tầng gần trung tâm bản, được mượn tạm vì có khoảng sân kín, hai lối ra và sóng điện thoại tốt hơn nhà Pá Tra. Ba cán bộ trực vòng ngoài. Hai người ở trong. Không phải pháo đài, nhưng đủ để một nghi phạm đơn lẻ khó tiếp cận mà không bị thấy.
+Điểm tạm là một căn nhà hai tầng gần trung tâm bản, được chọn vì có sân kín, hai lối ra và sóng điện thoại ổn định hơn nhà Pá Tra. Người trực được bố trí cả trong lẫn ngoài. Huy ở phòng phía trước cùng Minh; Trâm thật ở gian giữa; Quỳnh, Lan, Thi và Trung chưa rời vì Khải muốn chờ tuyến đường xuống được kiểm tra lại sau vụ phục kích buổi sáng.
 
-Ít nhất trên lý thuyết.
+Khi bóng đèn phụt tắt, máy phát đáng lẽ phải tự khởi động trong vòng mười giây.
 
-Khi điện tắt, máy phát dự phòng phải tự khởi động sau khoảng mười giây.
+Mười giây qua.
 
-Mười giây trôi qua.
+Không có tiếng máy.
 
-Không có.
-
-Minh nói vào bộ đàm:
-
-— Kiểm tra máy phát.
-
-Một người ngoài sân đáp:
-
-— Rõ.
-
-Rồi bộ đàm phát tiếng rè.
-
-Không thêm gì.
+Minh gọi bộ đàm cho người ngoài sân. Đầu kia đáp được một chữ **“rõ”** rồi tín hiệu biến thành rè kéo dài.
 
 Thi bật đèn pin.
 
-— Tất cả ở nguyên phòng.
+— Ai ở phòng nào ở nguyên phòng đó. Đừng tự đi tìm máy phát.
 
-Trung đang đứng cạnh cửa sổ, bàn tay ôm cổ.
+Trung đang đứng gần cửa sổ, một tay ôm sau gáy.
 
-— Nó gọi tên tao.
+— Cái cảm giác hồi chiều lại tới.
 
-— Đừng trả lời. — Lan nói.
+— Gọi tên mày? — Thi hỏi.
 
-Mẫu rễ đỏ trong túi zip trên bàn co mạnh.
+— Ừ. Nhưng không thành tiếng.
 
-Rồi bục xuyên lớp nhựa.
+Lan nhìn sang phòng bên, nơi mẫu rễ đỏ đã được chuyển vào hộp cứng. Cô không nói chữ Dẫn Chủng. Chưa cần thêm một cái tên để làm Trung sợ hơn.
 
-Không nổ.
-
-Chỉ một đầu rễ mảnh đâm qua như kim, cong về phía Trung.
-
-Huy lùi.
-
-— Cái đó không bình thường.
-
-Trung cười khan.
-
-— Cảm ơn nhận xét chuyên môn.
-
-***
-
-Ngoài sân có tiếng hét.
-
-Một cán bộ gọi:
+Ngoài sân bỗng có tiếng người hét:
 
 — Cháy!
 
-Ánh cam hiện qua cửa sổ phía sau.
+Ánh cam hắt lên cửa sổ phía sau.
 
-Kho chứa củi cạnh nhà đang bén lửa.
+Kho củi tách khỏi nhà chính vài mét đã bén lửa.
 
-Cháy thật.
+Lửa là thật. Khói cũng thật.
 
-Khói thật.
+Thi lập tức chuyển từ giữ vị trí sang phương án sơ tán có kiểm soát. Minh đưa Huy và Trâm ra khu sân trước, cách xa kho củi; hai cán bộ vòng ngoài giữ cổng. Quỳnh đi sát Trâm, Lan đi sau. Trung phụ kéo bình chữa cháy tới cho người ngoài sân rồi quay về đội hình.
 
-Không phải ảo giác.
+Mùi khói ban đầu chỉ là gỗ cháy. Sau đó Lan ngửi thấy lớp ngai ngái quen thuộc.
 
-Thi lập tức đổi kế hoạch.
+— Có mùi giống bột đen ngoài đường.
 
-— Minh, đưa Trâm và Huy xuống lối trước. Lan đi với họ. Quỳnh theo tao. Trung cuối đội.
+Thi nghe vậy liền gọi mọi người tránh luồng khói, không đứng xuôi gió. Minh yêu cầu một người quay toàn bộ khu kho củi từ xa.
 
-— Như? — Quỳnh hỏi.
+Trong ánh lửa, Quỳnh nhìn thấy Trang đứng ở bậc cửa sau.
 
-— Đang tìm ngoài rừng, không ở đây.
-
-Họ chưa kịp đi thì một tiếng trẻ con khóc vang từ cầu thang.
-
-Quỳnh đứng khựng.
-
-Không phải đứa trẻ ngoài đường hôm trước.
-
-Lần này nó nghe tiếng trẻ sơ sinh.
-
-Rất nhỏ.
-
-Từ phòng 201.
-
-Không.
-
-Từ ký ức phòng 201.
-
-Quỳnh nhìn cầu thang.
-
-Ở bậc dưới cùng có một cô gái áo trắng ngồi ôm bụng.
-
-Trang.
-
-Mặt xanh.
-
-Tóc ướt.
+Áo trắng ướt dính vào người. Hai tay ôm bụng.
 
 — Quỳnh.
 
-Giọng Trang gọi.
+Nó giơ điện thoại lên.
 
-Quỳnh siết đèn pin.
+Màn hình chỉ có bậc cửa trống và khói trôi ngang.
 
-Rồi giơ điện thoại quay.
+Trang vẫn đứng đó bằng mắt thường.
 
-Màn hình chỉ có cầu thang trống.
+Quỳnh quay mặt đi.
 
-— Không thật. — nó nói thành tiếng.
+— Tao thấy Trang. Camera không có.
 
-Hình ảnh Trang vẫn ngồi đó.
+Thi không hỏi Trang nói gì.
 
-— Không có nghĩa không tồn tại. — Lan nói. — Chỉ có nghĩa đừng đi theo.
+— Vậy coi như không có người ở chỗ đó.
 
-Quỳnh gật.
+Lan nhìn sang khoảng sân khác.
 
-Họ đi hướng khác.
+— Tao thấy A Mã.
 
-***
+Trung lắc đầu.
 
-Ở hành lang, mỗi người thấy một thứ khác.
+— Tao không thấy ai. Chỉ nghe có người gọi.
 
-Thi thấy mẹ mình đứng cuối lối, tay ôm ngực.
-
-Trung không thấy mẹ Thi.
-
-Hắn thấy một người đàn ông bị mất mặt.
-
-Huy thấy sếp Hòa cầm tờ đơn thôi việc, miệng đầy máu nhưng vẫn mắng:
-
-— Tôi nói cậu đừng có chết rồi mà!
-
-Huy chửi:
-
-— Sếp giả còn phiền hơn sếp thật.
-
-Lan thấy A Mã.
-
-Ông đi cạnh họ, không nói.
-
-Điều đáng sợ là Thần Hựu trên cổ Lan không phản ứng.
-
-Không nóng.
-
-Không lạnh.
-
-Cô không biết A Mã là ký ức, linh thể thật hay chính bộ não mình.
-
-Lan quyết định coi tất cả như ảo cho tới khi có bằng chứng ngược.
-
-Đó là cách an toàn nhất.
+Không cần thêm bằng chứng để hiểu tác động đã vào khu nhà.
 
 ***
 
-Trâm thật ở giữa đội.
+Khi ngọn lửa được khống chế ở mức không lan sang nhà chính, một tiếng phụ nữ vang ngoài hàng rào phía sau.
 
-Từ khi lấy lại giọng, cô nói rất ít vì cổ đau.
+— TRÂM!
 
-Đến chân cầu thang, cô bỗng dừng.
+Lần này tất cả đều nghe.
+
+Không phải mỗi người một giọng.
+
+Trâm thật quay phắt lại.
 
 — Như.
 
-Quỳnh quay lại.
+Quỳnh nắm cổ tay bạn.
 
-— Gì?
+— Chưa biết.
 
-Trâm nhìn cửa sau.
+Giọng ngoài kia lại gọi:
 
-— Như gọi tao.
+— TRÂM! ĐỪNG Ở ĐÓ!
 
-— Không có. Đi tiếp.
+Rồi ho dữ dội.
 
-— Tao nghe.
+Giọng khàn nhưng Quỳnh cũng nhận ra. Có thể là Như thật. Cũng có thể là một bản ghi.
 
-— Huyết Ngải.
+Minh nói qua bộ đàm:
 
-Trâm gật.
+— Đội sau kiểm mép rừng. Không ai dân sự ra ngoài.
 
-Nhưng hai chân không đi.
+Một cán bộ chạy về phía hàng rào, rọi đèn qua khe. Cùng lúc từ ngoài tối có tiếng súng nổ một phát. Viên đạn cắm vào tường bếp, cao hơn đầu người gần một mét.
 
-Lan nắm cổ tay.
+Mọi người lập tức hạ thấp người.
 
-— Nhìn tao.
+Thi kéo Quỳnh và Trâm vào sau bức tường gạch. Trung che hướng cửa sau.
 
-Trâm cố.
+Trong vài giây, sự chú ý của tất cả dồn về tiếng súng.
 
-Mắt đã đỏ.
+Và đúng lúc ấy, Trâm nhìn thấy một bóng người ở ngoài đoạn hàng rào vừa được mở để kéo vòi chữa cháy.
 
-— Nó nói xin lỗi.
+— Như!
 
-— Có thể là ký ức.
+Cô giật khỏi tay Quỳnh.
 
-— Không.
+— Trâm!
 
-Trâm thở nhanh.
+Trâm lao ra sân sau. Quỳnh chụp được vai nhưng cô xoay người quá mạnh, cả hai suýt ngã. Lan chạy theo để giữ Quỳnh. Thi quát người vòng ngoài khóa lối rồi cùng Trung đuổi ngay.
 
-— Nó biết chuyện hồi nhỏ tao chưa kể ai.
+Không ai có ý định chia nhóm.
 
-Quỳnh lạnh.
+Nhưng một cuộc sơ tán, một đám cháy, một phát súng và một người đang hoảng chỉ cần cộng lại là đủ làm đội hình vỡ trong vài giây.
 
-— Chuyện gì?
+Trâm chạy vào lối cây thấp sau nhà.
 
-Trâm chưa kịp nói.
+Quỳnh vẫn nhìn thấy áo cô dưới ánh đèn pin nên không dừng. Lan ở ngay sau. Thi và Trung cách họ chưa tới mười mét.
 
-Ngoài sân có tiếng phụ nữ hét:
+Rồi một tiếng chuông vang từ bên phải.
 
-— TRÂM!
+**Keng.**
 
-Giọng Như.
+Lan quay đầu theo phản xạ.
 
-Rõ đến mức tất cả cùng nghe.
+Không phải chiếc chuông trong túi cô.
 
-Không còn là ảo giác cá nhân.
+Tiếng thứ hai vang phía trái.
 
-Thi quay súng về cửa.
+**Keng.**
 
-— Không mở.
+Thi dừng nửa bước.
 
-Tiếng gọi lại:
+— Loa hoặc chuông đặt sẵn. Không theo tiếng!
 
-— TRÂM! CHẠY!
+Nhưng khi Quỳnh nhìn lại, ánh đèn của Thi đã ở một vị trí khác hẳn nơi cô vừa nghe giọng Thi.
 
-Rồi một tiếng súng nổ ngoài hàng rào.
-
-Không phải của Thi.
-
-Cả căn nhà chấn động tâm lý đúng một nhịp.
-
-Trâm giật tay khỏi Lan.
-
-Không hiểu bằng cách nào cô mạnh đến vậy.
-
-Cô lao qua cửa bếp đang mở vì người chữa cháy vừa chạy ra.
-
-— TRÂM!
-
-Quỳnh chạy theo.
-
-Thi chửi lớn:
-
-— QUỲNH DỪNG!
-
-Nhưng Quỳnh đã chụp được vai Trâm ngoài sân.
-
-Trâm quay lại đẩy.
-
-Mắt không nhận ra Quỳnh.
-
-— Như đang ở ngoài kia!
-
-— Không!
-
-Trâm giật ra, chạy qua khoảng hàng rào bị mở để kéo vòi nước.
-
-Quỳnh theo ba bước.
-
-Lan theo Quỳnh.
-
-Thi, Trung và hai cán bộ phía sau.
-
-Không ai tự tách có chủ ý.
-
-Tùng chỉ cần tạo đủ hỗn loạn để khoảng cách vài mét trở thành một khe.
+Sương từ khe thấp tràn lên, dày nhưng không kín đặc. Cái nguy hiểm không nằm ở việc nó che hết mọi thứ; nó chỉ cần làm khoảng cách mười mét trở thành hai vùng không chắc nhau đang đứng ở đâu.
 
 ***
 
-Sương tràn lên từ chân dốc rất nhanh.
+Ba phút sau, Quỳnh bắt kịp Trâm.
 
-Mười phút trước trời còn quang.
-
-Giờ ánh đèn pin chỉ xuyên được vài mét.
-
-Trâm chạy vào lối rừng thấp phía sau nhà.
-
-Quỳnh vẫn nhìn thấy áo cô.
-
-— TRÂM! DỪNG!
-
-Lan ở ngay sau.
-
-Thi gọi bộ đàm:
-
-— Đội hai khóa lối bắc! Đối tượng nữ đang bị tác động, không phải nghi phạm!
-
-Bộ đàm rè.
-
-Trung chạy cạnh cô.
-
-Huy đáng lẽ ở lại với Minh nhưng đã bị dòng người đẩy ra sân; anh bám theo một cán bộ, thở khó nhưng không dừng.
-
-Rồi tiếng chuông vang trong rừng.
-
-Keng.
-
-Lan quay đầu.
-
-Chỉ một giây.
-
-Khi nhìn lại, Thi không còn sau lưng.
-
-— Thi?
-
-Không tiếng.
-
-Quỳnh dừng.
-
-— Thi!
-
-Trung ở đâu đó bên phải gọi:
-
-— QUỲNH!
-
-Giọng rất gần.
-
-Nhưng ánh đèn không thấy.
-
-Lan nói:
-
-— Đừng chạy theo giọng. Giữ hướng Trâm.
-
-Quỳnh nhìn trước.
-
-Áo Trâm vẫn thấp thoáng.
-
-Hai người đi tiếp.
-
-***
-
-Chỉ khoảng ba phút sau, mọi âm thanh của nhóm sau biến mất.
-
-Không tiếng bộ đàm.
-
-Không gọi.
-
-Không chân.
-
-Rừng im đến mức Quỳnh nghe rõ thở mình.
-
-Trâm đứng cách trước hai mươi mét.
-
-Không chạy nữa.
-
-Quỳnh tới gần.
-
-— Trâm.
-
-Cô quay lại.
-
-Mắt bình thường.
+Cô đứng giữa lối, thở dốc, mắt đã tỉnh lại.
 
 — Tao đang ở đâu?
 
-Quỳnh muốn mắng.
+Quỳnh vừa muốn mắng vừa muốn ôm.
 
-Muốn ôm.
-
-Cuối cùng chỉ nói:
-
-— Trong rừng.
+— Trong rừng. Vì mày chạy theo Như.
 
 Trâm nhìn quanh.
 
@@ -368,398 +166,186 @@ Trâm nhìn quanh.
 
 — Không biết.
 
-— Tao nghe nó.
+Lan tới sau, cúi người lấy hơi rồi lập tức kiểm phía sau.
 
-— Tao biết.
+Không còn thấy đèn Thi.
 
-Lan tới, thở gấp.
+Quỳnh gọi một lần. Có tiếng Thi đáp từ phía phải:
 
-— Quay lại theo dấu chân.
+— Ở đây!
 
-Họ quay.
+Lan nắm tay Quỳnh trước khi nó quay.
 
-Dấu chân trên đất dẫn được khoảng ba mươi mét.
+— Đừng đi theo giọng.
 
-Rồi trở về chính chỗ cũ.
+Cô soi xuống gốc cây. Một túi vải nhỏ màu đen được buộc sát rễ, bên trong có bột trộn nhựa cùng một loa mini cỡ hai ngón tay.
 
-Quỳnh nhìn cây có vết trắng bên thân mà nó đã đánh dấu bằng khăn giấy.
+Thi đã đoán đúng.
 
-— Không thể.
+Một phần tiếng gọi là đồ thật.
 
-Lan soi la bàn điện thoại.
+Còn việc giọng ấy nghe chính xác như người quen tới mức nào, họ chưa biết.
 
-Kim số nhảy bất thường rồi ổn lại.
-
-GPS không tải.
-
-— Có thể mình bị dẫn vòng vì sương. — Lan nói.
-
-— Ba phút thôi.
-
-— Ba phút trong hoảng loạn đủ.
-
-Lan không đổ cho ma trước.
-
-Quỳnh thích điều đó ngay cả lúc muốn chửi.
+Lan không tháo túi. Cô chỉ quay video, đánh dấu cây bằng dải phản quang rồi kéo hai người đi khỏi đó.
 
 ***
 
-Họ chọn một nguyên tắc đơn giản.
+Họ thử quay lại theo dấu chân. Trong mười phút đầu, dấu Trâm khá rõ trên đất ẩm. Sau đó có thêm những dấu giày cùng cỡ, chồng lên và tách ra ở hai nhánh.
 
-Không đi theo tiếng gọi.
+Quỳnh nhớ Huy từng kể Tùng dùng đế giả để tạo dấu.
 
-Không đi theo người xuất hiện một mình.
+— Hắn chuẩn bị chỗ này trước.
 
-Đánh dấu cây bằng dây thật.
+Lan gật.
 
-Dùng hướng dốc và dòng nước thay cho cảm giác phương hướng.
+— Vậy đừng tin dấu một mình.
 
-Đi được hai mươi phút, họ gặp căn nhà.
+Họ chuyển sang những thứ khó giả hơn: dốc đất, dòng nước, hướng gió và các dải phản quang tự buộc. Điện thoại không tải được GPS nhưng camera, đồng hồ và la bàn cơ dự phòng trong túi Lan vẫn hoạt động.
 
-Một căn nhà gỗ nhỏ không nên ở đó.
+La bàn không quay loạn như phim. Nó chỉ lệch vài độ ở vài điểm, rồi lại đúng. Chính sự không ổn định ấy khó chịu hơn nhiều vì không ai biết lúc nào nên tin.
 
-Khói bếp bay.
+Gần một giờ sau họ gặp một căn chòi gỗ cũ sát một ngôi miếu nhỏ. Cả hai đều là vật thật; camera nhìn thấy đúng vị trí, đúng hình dạng.
 
-Ánh đèn dầu.
+Quỳnh lại thấy một ông già đứng ở cửa chòi.
 
-Một ông già đứng cửa.
+— Lạc đường à? Vào ngồi đi.
 
-— Lạc à?
+Trâm nhìn cùng chỗ nhưng hỏi:
 
-Quỳnh dừng.
+— Bà đó nói gì vậy?
 
-Lan cũng.
+Quỳnh quay sang.
 
-Ông già cười hiền.
-
-— Vào uống nước đi. Đêm rừng lạnh.
-
-Trâm thì thầm:
-
-— Tao khát.
-
-Quỳnh giơ điện thoại quay.
-
-Màn hình có căn nhà.
-
-Có ông già.
-
-Khác lần trước.
-
-Có thể thật.
-
-Lan nhìn Thần Hựu.
-
-Không phản ứng.
-
-Họ không thể mãi coi mọi người là ma.
-
-Quỳnh hỏi:
-
-— Bác ở đây một mình?
-
-— Với bà nhà.
-
-Một bà lão đi ra, bưng khay có ba miếng dưa hấu đỏ.
-
-— Ăn đi các cháu.
-
-Trâm nhìn.
-
-Quỳnh cũng.
-
-Miếng dưa trên khay ướt nước.
-
-Rất bình thường.
-
-Nhưng mùi bay tới không phải dưa.
-
-Mùi máu.
-
-Lan kéo tay Quỳnh.
-
-— Đi.
-
-Ông già cau mày.
-
-— Sao không ăn?
-
-Quỳnh nhìn qua camera lần nữa.
-
-Trên màn hình, không có khay dưa.
-
-Bà lão đang cầm một cái đầu người già, phần sọ bị bổ như quả.
-
-Quỳnh tắt màn hình.
-
-— Cảm ơn bác. Tụi cháu có người chờ.
-
-Ba người lùi.
-
-Nụ cười ông già rộng ra.
-
-— Ai chờ?
-
-Quỳnh không trả lời.
-
-Họ quay đi.
-
-Sau lưng, căn nhà phát tiếng gỗ đổ.
-
-Khi Quỳnh nhìn lại sau mười bước, chỉ có một ngôi miếu bỏ hoang, mái sập một góc.
-
-Không người.
-
-Không đèn.
-
-Camera lưu video.
-
-Trong video, từ đầu đến cuối họ đứng nói chuyện trước ngôi miếu trống.
-
-Không có ông bà già.
-
-Không có khay.
-
-Nhưng âm thanh giọng nói vẫn được ghi.
-
-Ba người cùng nghe.
-
-Điều đó làm Lan lạnh hơn.
-
-Huyết Ngải không chỉ chiếu hình vào mắt.
-
-Nó có thể tạo một trải nghiệm dùng chung nếu cả nhóm cùng mang một nỗi sợ hoặc ký ức văn hóa tương tự.
-
-***
-
-Gần nửa đêm, Trâm bắt đầu sốt.
-
-Quỳnh cũng đói.
-
-Họ chỉ có hai chai nước và vài gói bánh nhỏ Lan mang theo. Không ai ăn đồ tìm thấy trong rừng.
-
-Lan bị đau cổ tay nơi cầm chuông.
-
-Mảnh Thần Hựu nóng lạnh thất thường.
-
-Họ chọn trú dưới một mái đá, không sâu, đủ tránh sương.
-
-Quỳnh cố bắt sóng.
-
-Không có.
-
-Thi chắc chắn đang tìm.
-
-Khải chắc chắn đã biết mất nhóm.
-
-Nghĩ vậy giúp Quỳnh không làm điều ngu tiếp theo.
-
-***
-
-Một giờ ba mươi, tiếng chó gầm ngoài mái đá.
-
-Lan mở mắt.
-
-Một con chó đen đứng ngoài.
-
-Giống con ở nhà Pá Tra.
-
-Lông rụng từng mảng.
-
-Mắt đỏ.
-
-Miệng có bọt.
-
-Quỳnh cầm gậy.
-
-— Đừng lại gần.
-
-Con chó không nhìn Quỳnh.
-
-Chỉ nhìn Lan.
-
-Lan giơ Thần Hựu.
-
-Nó lạnh buốt.
-
-— Cái này thật. — Lan nói.
-
-— Sao biết?
-
-— Không biết. Nhưng dây phản ứng khác.
-
-Con chó lao tới.
-
-Quỳnh quật gậy nhưng hụt.
-
-Lan đẩy Trâm sang bên.
-
-Răng chó cắm vào cẳng tay Lan.
-
-Lan hét.
-
-Quỳnh đánh trúng sườn nó.
-
-Con chó buông, quay lại gầm.
-
-Rồi đột ngột co giật.
-
-Nằm xuống.
-
-Thở ba hơi.
-
-Chết.
-
-Lan ôm tay.
-
-Máu ra không nhiều.
-
-Nhưng quanh dấu răng, da chuyển màu đen rất nhanh.
-
-Không giống nhiễm trùng bình thường trong vài giây.
-
-Lan nhìn.
-
-Mặt trắng.
-
-— Không tốt.
-
-Quỳnh xé băng trong túi sơ cứu, rửa vết bằng nước sạch.
-
-Không cắt.
-
-Không hút.
-
-Trâm giữ đèn.
-
-Lan bắt đầu run.
-
-— Phải tìm người. — Quỳnh nói.
+— Mày thấy bà?
 
 — Ừ.
 
-Nhưng năm phút sau, Lan không đứng được.
+Lan không thấy ai. Cô chỉ nghe tiếng mời nước phát từ trong chòi.
 
-Mười phút sau, mạch rất chậm.
+Ba người đứng yên.
 
-Quỳnh đặt hai ngón tay lên cổ.
+Quỳnh đưa camera lia toàn cảnh. Màn hình chỉ có cửa chòi mở, một chiếc radio cũ nằm trên kệ và mấy bao ngô đỏ đã khô.
 
-— Lan.
+Không ông già.
+
+Không bà lão.
+
+Lan soi radio. Dây nguồn đã mất, nhưng dưới chân kệ có một thiết bị nhỏ gắn pin và cùng loại bột đen bôi quanh mép gỗ.
+
+— Không vào. — cô nói.
+
+Trâm khát đến môi trắng nhưng vẫn gật.
+
+Họ lùi khỏi chòi. “Ông già” trong mắt Quỳnh vẫn cười. “Bà lão” trong mắt Trâm bắt đầu khóc. Lan chỉ nghe tiếng radio rè sau lưng.
+
+Không ai quay lại.
+
+Cách đó hơn trăm mét, các hình ảnh tự mất.
+
+Quỳnh thấy nhẹ đi một chút vì ít nhất quy tắc còn giữ: **chòi là thật; người họ thấy thì không.**
+
+***
+
+Gần nửa đêm, Trâm bắt đầu sốt nhẹ vì kiệt sức. Quỳnh cũng đau chân trở lại. Họ còn hai chai nước, vài gói bánh và bộ sơ cứu nhỏ Lan mang theo. Không ai đụng bất kỳ thức ăn nào trong chòi.
+
+Họ tìm được một mái đá nông, đủ che sương nhưng không sâu tới mức thành bẫy. Quỳnh buộc dải vải phản quang ở hai cây ngoài lối, chụp vị trí tương đối theo đồng hồ và hướng dốc rồi mới cho Trâm ngồi nghỉ.
+
+Một giờ hơn, có tiếng động trong bụi.
+
+Lan rọi đèn.
+
+Một con chó đen bước ra.
+
+Không nhất thiết là con ở nhà Pá Tra; trong ánh sáng yếu, Quỳnh không dám chắc. Nó gầy, lông ướt và gầm liên tục. Camera quay được con vật. Nghĩa là ít nhất lần này không phải một hình chỉ có trong đầu.
+
+Quỳnh cầm gậy, Trâm lùi sát mái đá. Lan lấy bình xịt chống động vật trong túi dã ngoại.
+
+— Không chạy. — cô nói.
+
+Con chó lao lên trước khi cô kịp xịt đủ.
+
+Lan đưa cẳng tay che mặt. Răng cắn qua tay áo. Quỳnh đánh trúng sườn nó một lần, Lan xịt thẳng vào mõm. Con vật buông ra, quay đầu chạy xuống bụi, không chết và cũng không biến thành khói.
+
+Mọi thứ xảy ra chưa tới mười giây.
+
+Lan ngồi xuống ngay, giữ cánh tay bị cắn xa quần áo. Vết thương chảy máu nhưng không sâu tới xương. Quỳnh rửa bằng nước sạch, sát khuẩn và băng lại. Không cắt, không hút, không đắp lá.
+
+— Đi được không? — Quỳnh hỏi.
+
+— Tay bị cắn chứ chân có bị đâu.
+
+Lan vừa đứng lên thì đầu gối phải khuỵu xuống.
+
+Trong lúc con chó lao tới, cô đã lùi trúng mép đá và xoắn chân. Cổ chân bắt đầu sưng.
+
+— À. — Lan nhìn xuống. — Cái này mới phiền.
+
+Quỳnh muốn chửi nhưng không còn sức.
+
+***
+
+Họ ở lại thêm gần một giờ. Lan vẫn tỉnh, không sốt cao, không có da biến đen hay thứ gì phi tự nhiên mọc quanh vết cắn. Nhưng cổ chân sưng nhanh và chịu lực kém. Mỗi lần cố bước, mặt cô trắng đi.
+
+Từ xa có tiếng chó khác, rồi tiếng người gọi lẫn trong đó.
+
+Không ai biết tiếng nào thật.
+
+Lan lấy còi cứu hộ ra, thổi ba tiếng ngắn theo chu kỳ rồi nghe.
 
 Không đáp.
 
-Hơi thở mỏng tới mức không cảm được.
+— Nếu cả ba ngồi đây, sáng đội tìm sẽ phải tìm ba người ở một chỗ rất khó bắt sóng. — Lan nói. — Phía đông có sống đất cao hơn. Hai đứa đi tới đó, thử bắt sóng hoặc gặp đường. Tao ở đây, có dấu phản quang, còi, đèn và nước.
 
-Trâm khóc:
-
-— Nó chết rồi hả?
-
-— Im.
-
-Quỳnh cúi sát mũi Lan.
-
-Không chắc.
-
-Không được nói chết khi không chắc.
-
-Nó nhớ ông Phúc.
-
-Chưa có xác thì không được nói.
-
-Còn trước mặt nó là một cơ thể.
-
-Nhưng ngay cả vậy, Quỳnh vẫn không có quyền kết luận khi không biết.
-
-— Tao không biết. — nó nói.
-
-Một tiếng gầm khác vang xa.
-
-Rồi hai.
-
-Nhiều con.
-
-Trâm nhìn bóng cây.
-
-Những đôi mắt đỏ xuất hiện.
-
-Quỳnh kéo Lan vào sâu hơn mái đá.
-
-Không thể mang cô chạy với chân Quỳnh còn đau và Trâm vừa kiệt sức.
-
-Lan bất ngờ mở mắt một khe.
-
-Quỳnh giật.
-
-Môi Lan mấp máy:
-
-— Đi.
-
-— Mày tỉnh?
-
-— Đi... hướng đông.
-
-— Tao không bỏ mày.
-
-Lan nắm tay Quỳnh yếu đến mức gần như không có lực.
-
-— Tao... chưa chết.
-
-Một câu rất Lan.
-
-— Tao hạ mạch... được một lúc. Đánh lừa cái đang bám.
-
-Quỳnh nhìn.
-
-— Mày chắc?
+Quỳnh lắc đầu ngay.
 
 — Không.
 
-Lan cười rất nhỏ.
+— Tao đi với tụi mày được khoảng năm mươi mét rồi cả ba nằm giữa đường.
 
-— Nên... đừng kể tao chết.
+— Đợi đội tìm.
 
-Quỳnh vừa muốn khóc vừa muốn chửi.
+— Có thể họ tới. Cũng có thể mấy cái loa ngoài kia kéo họ lệch như tụi mình.
 
-Những tiếng gầm gần hơn.
+Trâm ngồi cạnh, giọng vừa lấy lại vẫn khàn.
 
-Lan nói:
+— Tao ở với Lan. Mày đi.
 
-— Tao ở lại. Nó đang khóa tao. Mày đưa Trâm đi. Đánh dấu đường. Cảnh sát sẽ tìm.
+Quỳnh nhìn hai người.
 
-— Không.
+— Không ai đi một mình.
 
-— Quỳnh.
+Lan thở ra.
 
-Lần này giọng Lan tỉnh hơn một chút.
+— Vậy mày với Trâm đi cùng. Hai đứa là hai người Tùng đang muốn kéo. Đừng để nó tách thêm một đứa nữa.
 
-— Nếu kéo tao, cả ba chậm. Tao có chuông. Thần Hựu. Tao còn cách tự giữ. Trâm không có.
+Câu đó khiến Quỳnh im.
 
-Quỳnh nhìn Trâm.
+Lan không nói mình có phép giữ mạng. Không hạ mạch, không giả chết, không hứa chắc sẽ ổn. Cô chỉ chỉ những thứ thực tế: mái đá có một lối vào; bình xịt còn hơn nửa; còi, đèn và dao đều ở đây; vết thương đã băng; search team biết hướng đông từ lần mất dấu cuối.
 
-Rồi nhìn Lan.
+Quỳnh đánh dấu vị trí bằng ba dải phản quang liên tiếp, thêm một dải vải đỏ ở cây cao nhất và đặt điện thoại phụ của Lan ở chế độ tiết kiệm pin để nếu bắt được sóng nó tự gửi tin nhắn soạn sẵn.
 
-Lựa chọn đúng không có nghĩa lựa chọn không đau.
-
-Nó để lại một chai nước, đèn phụ và toàn bộ băng gạc.
-
-Buộc một dải vải đỏ trên cây trước mái đá.
-
-— Tao quay lại.
-
-Lan nhắm mắt.
+— Tụi tao tìm được sóng là gửi vị trí ngay.
 
 — Ừ.
 
-— Không được chết.
+— Có tiếng ai gọi tên cũng không đi.
 
-— Mệnh lệnh vô lý.
+Lan nhăn mặt.
 
-Quỳnh kéo Trâm đi.
+— Biết rồi.
 
-Sau lưng, những đôi mắt đỏ dừng quanh mái đá.
+Quỳnh cúi xuống ôm bạn một cái rất nhanh.
 
-Không con nào lao vào.
+— Tao quay lại.
 
-Như thể thứ chúng muốn không phải giết Lan.
+Lan gật.
 
-Mà là chắc cô không đi cùng Quỳnh nữa.
+Không ai nói câu “đừng chết”.
+
+Ở một nơi mà họ đã quá nhiều lần không biết ai sống ai chết, một lời hứa như vậy nghe chẳng giúp được gì.
+
+Quỳnh buộc cổ tay mình với Trâm bằng đoạn dây mềm, kiểm lại hướng đông bằng la bàn rồi hai đứa rời mái đá.
+
+Sau lưng, Lan thổi ba tiếng còi đầu tiên.
+
+Âm thanh đi rất xa trong rừng.
