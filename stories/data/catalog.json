@@ -40,7 +40,7 @@
         {"id":"11","title":"Hai nhịp tim","teaser":"Hồ sơ thai sản cũ nói Huy từng là song thai — nhưng không giải thích được người dùng chính chữ của anh.","date":"Hồ sơ Song Mạch","file":"data/ma-ki-su/11-hai-nhip-tim.md"},
         {"id":"12","title":"Người theo dõi tôi","teaser":"Điều tra viên Khải xuất hiện và cho Huy biết hai vụ án trước vốn đã nằm trên cùng một dòng tiền.","date":"Hà Nội · 2019","file":"data/ma-ki-su/12-nguoi-theo-doi-toi.md"},
         {"id":"13","title":"Chợ Âm","teaser":"Chợ Âm không có cổng vào. Nó tồn tại ở bất cứ nơi nào có người muốn mua thứ không thể bán ngoài ánh sáng.","date":"Hà Nội · trước chuyến Bắc Yên","file":"data/ma-ki-su/13-cho-am.md"},
-        {"id":"14","title":"Hồng Ngài","teaser":"Huy đi theo một chuyên án có check-in và tracker — rồi biến mất dưới căn nhà của A Hù.","date":"05/2019","file":"data/ma-ki-su/14-hong-ngai.md"}
+        {"id":"14","title":"Hồng Ngài","teaser":"Huy lần theo H-49 tới một bản miền núi tên Hồng Ngài. Dòng cuối cùng anh viết chỉ có bốn chữ: Đã tới nơi.","date":"05/2019","file":"data/ma-ki-su/14-hong-ngai.md"}
       ]
     },
     {
@@ -63,13 +63,13 @@
         {"id":"15","title":"Hang A Phủ","teaser":"Trong hang tối, Trung phải quyết định tin Thi hay tin một Huy đang yêu cầu hắn giết cô.","date":"21–22/09/2019","file":"data/an-hong-ngai/15-hang-a-phu.md"},
         {"id":"16","title":"Hai ngày không mặt trời","teaser":"Quỳnh và Trâm thôi tin vào con đường, còn lực lượng tìm kiếm bắt đầu siết vòng từ bên ngoài.","date":"22–23/09/2019","file":"data/an-hong-ngai/16-hai-ngay-khong-mat-troi.md"},
         {"id":"17","title":"Đồi tế","teaser":"Quỳnh bước vào điểm hẹn với dây neo, body mic và ba hướng tiếp cận đang khép lại quanh Tùng.","date":"23–24/09/2019","file":"data/an-hong-ngai/17-doi-te.md"},
-        {"id":"18","title":"Lọ bột trắng","teaser":"Tùng chết trong chính khu vườn hắn nuôi. Ba phút sau khi chiếc lọ được chụp lại lần cuối, nó biến khỏi hiện trường.","date":"24/09/2019","file":"data/an-hong-ngai/18-lo-bot-trang.md"}
+        {"id":"18","title":"Lọ bột trắng","teaser":"Tùng tự khóa mình trong hầm khi đang mất máu. Đến sáng, chiếc lọ trắng xuất hiện trong ảnh hiện trường rồi biến khỏi danh sách vật chứng.","date":"24/09/2019","file":"data/an-hong-ngai/18-lo-bot-trang.md"}
       ]
     },
     {
       "id":"huyet-chung","seriesLabel":"TRUNG I · HẬU ÁN HỒNG NGÀI","title":"Huyết Chủng","hook":"Vật chứng biến mất khỏi Hồng Ngài. Vài tháng sau, Trung bắt đầu mất từng đoạn đời của chính mình.","description":"Một chuỗi án mạng tái hiện dấu vết của những sinh khí Huyết Ngải kéo Trung từ điều tra viên thành người bị giám sát. Công an, Huyền Môn và Chợ Âm cùng săn một thứ không ai thống nhất được là con người, linh hồn hay một sinh vật mới sinh ra từ ký ức.","period":"01–02/2020","genre":"Occult Crime · Psychological Horror · Conspiracy Mystery","pov":"Đa điểm nhìn có kiểm soát — Trung / Thi / Quỳnh / Huy","glow":"rgba(91,36,97,.36)","plannedChapters":18,
       "chapters":[
-        {"id":"01","title":"Vật chứng số 17","teaser":"Ba bức ảnh cách nhau năm phút chứng minh chiếc lọ từng ở đó — nhưng không chứng minh ai đã lấy.","date":"01/2020","file":"data/huyet-chung/01-vat-chung-17.md"},
+        {"id":"01","title":"Vật chứng số 17","teaser":"Hồ sơ không có mục số 17. Trung cũng không nhớ vì sao chiếc lọ trắng từ Hồng Ngài lại nằm trong túi áo mình.","date":"01/2020","file":"data/huyet-chung/01-vat-chung-17.md"},
         {"id":"02","title":"Bốn mươi bảy phút","teaser":"Camera ghi Trung rời nhà. Đồng hồ lại khẳng định hắn ngủ suốt đêm.","date":"01/2020 · 02:13","file":"data/huyet-chung/02-bon-muoi-bay-phut.md"},
         {"id":"03","title":"Dấu răng","teaser":"Vết cắn trên nạn nhân thứ hai không khớp hàm răng của Trung — nhưng lại kéo cả nhóm về chén trà ở Hồng Ngài.","date":"01/2020","file":"data/huyet-chung/03-dau-rang.md"},
         {"id":"04","title":"Bóng thứ bảy","teaser":"Trong mặt inox có bảy cái bóng dù căn bếp chỉ có sáu người, và bóng thứ bảy luôn đứng sau Trung.","date":"01/2020","file":"data/huyet-chung/04-bong-thu-bay.md"},
