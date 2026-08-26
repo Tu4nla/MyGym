@@ -1,659 +1,487 @@
-Quán 37 nằm ở một con phố cũ gần khu trung tâm, biển nhỏ tới mức tôi đi qua hai lần mới thấy.
+Quán 37 nằm trên một con phố cũ gần khu trung tâm, biển nhỏ tới mức tôi đi qua mất một lượt rồi mới quay lại. Nó không có cánh cửa bí mật, không có người mặc áo choàng đứng gác, càng không treo bảng **CHỢ ÂM — MUA BÁN MA QUỶ UY TÍN** như trí tưởng tượng rẻ tiền của tôi đã chuẩn bị sẵn.
 
-Không có bảng “CHỢ ÂM — MUA BÁN MA QUỶ UY TÍN”.
+Bên ngoài chỉ là một quán trà kiêm bán đồ cũ. Cửa gỗ sẫm, mặt tiền hẹp, ánh đèn vàng. Trong tủ kính có máy ảnh film, đồng hồ cơ, vài món gốm, mấy quyển sách đóng chỉ và một chiếc radio cổ nhìn đẹp hơn khả năng tài chính của tôi.
 
-Hơi thất vọng.
+Tôi tới lúc 19:20, chọn bàn cuối theo đúng hướng dẫn. Khải không cho biết người của anh ngồi đâu; anh chỉ nói nếu tôi không biết ai bảo vệ mình thì lúc đối phương kiểm tra, tôi cũng không thể vô thức nhìn về phía họ.
 
-Nó chỉ là một quán trà kết hợp bán đồ cổ, mặt tiền hẹp, cửa gỗ sẫm màu. Bên trong treo đèn vàng, mùi trà rang và gỗ cũ. Trên kệ là đồng hồ, máy ảnh film, đồ gốm, vài cuốn sách đóng chỉ.
+Tôi phải công nhận lý do hợp lý, dù hơi làm tổn thương niềm tin rằng mình diễn xuất rất tự nhiên.
 
-Rất bình thường.
+19:30, một phụ nữ kéo ghế ngồi đối diện.
 
-Đáng ngờ nhất là giá một ấm trà bằng gần nửa công tác phí chuyến Mẫu Sơn của tôi.
+Chị khoảng ngoài bốn mươi, tóc cắt ngắn, áo len đen đơn giản, cổ tay đeo đồng hồ nhỏ. Không trang sức lạ, không mùi nhang, không nét mặt cố làm người khác sợ. Nếu gặp ở hiệu sách, tôi có thể đoán chị làm kế toán hoặc giáo viên hơn là người biết đường vào một mạng lưới buôn “dị huyết”.
 
-19:27.
+Chị gọi trà trước rồi mới nhìn tôi.
 
-Tôi ngồi bàn cuối.
+— Trương An Huy?
 
-Khải ở đâu tôi không biết.
+— Dạ.
 
-Anh không cho tôi biết vị trí người của anh, lý do là “cậu không cần diễn nếu không biết ai đang nhìn”.
+— Cậu gọi tôi là Lệ được rồi.
 
-Nghe rất hợp lý và hơi tổn thương lòng tự trọng diễn xuất của tôi.
+— Tên thật không chị?
 
-19:30 đúng.
+Chị nhếch môi.
 
-Một phụ nữ ngồi xuống đối diện.
+— Cậu làm báo mà hỏi câu đó ngay phút đầu à?
 
-Khoảng ngoài bốn mươi, tóc ngắn, áo len đen đơn giản, cổ tay đeo một chiếc đồng hồ nhỏ. Không trang sức cầu kỳ. Không vẻ “bà đồng”.
+— Em thử vận may.
 
-Chị gọi trà rồi nhìn tôi.
+— Đừng thử nhiều quá. Hôm nay vận cậu đang đủ bận rồi.
 
-— Trương An Huy.
+Người phục vụ đặt ấm trà xuống. Lệ đợi anh ta đi khỏi mới lấy từ túi áo ra một lá bài và đặt giữa bàn.
 
-— Dạ. Chị là?
+Ba bích.
 
-— Cậu gọi tôi là Lệ.
+Tôi cúi nhìn. Lá này mới, mặt giấy còn bóng, không có vết xước bán nguyệt ở góc.
 
-— Tên thật?
-
-— Cậu làm báo mà hỏi câu ngây thơ vậy?
-
-Tôi cười.
-
-— Thói quen nghề nghiệp.
+— Không phải lá của em.
 
 — Tôi biết.
 
-Chị Lệ đặt lên bàn một lá ba bích.
+— Chị đưa để làm gì?
 
-Tôi nhìn.
+— Xem cậu có vồ lấy một giả thuyết tiện lợi không.
 
-Không phải lá của tôi.
+Tôi nhìn chị.
 
-Mới hơn.
+— Ba bích không liên quan Chợ Âm?
 
-Không có vết xước.
+— Không phải ký hiệu của chúng tôi. Không phải vé vào cửa. Cũng không có nghi thức “ai rút ba bích thì được chọn”. Nếu cậu viết như vậy, cậu sẽ dẫn chính mình sai đường.
 
-— Cậu nghĩ cái này là vé vào Chợ Âm? — chị hỏi.
+Tôi ngả lưng ghế. Một giả thuyết lớn vừa bị ai đó cắt khỏi bàn bằng ba câu rất bình thường.
 
-— Em chưa nghĩ gì.
+— Vậy “Chợ Âm” thực ra là cái gì?
 
-— Tốt. Vì không phải.
+Lệ rót trà cho cả hai. Chị không trả lời ngay mà hỏi ngược:
 
-Tôi khựng.
+— Cậu nghĩ nó là gì?
 
-— Vậy sao đưa em?
+— Một mạng lưới. Vượng mua bán mẫu sinh học. Tân Phúc giữ người và giấy tờ. Em đoán có người trung gian nối những thứ đó.
 
-— Để cậu bỏ một giả thuyết ngu trước khi nó lớn lên.
+— Gần hơn câu hỏi ban đầu rồi.
 
-Tôi bắt đầu hiểu cảm giác của Phong khi bị tôi sửa lưng.
+— Có một nơi trung tâm không?
 
-— Chợ Âm dùng biểu tượng gì?
-
-— Không có.
-
-— Địa điểm?
-
-— Không có một địa điểm.
+— Không.
 
 — Website?
 
-— Có lúc có.
+— Có lúc có. Có lúc là phòng chat. Có lúc là danh sách chuyền tay. Có những người chẳng bao giờ dùng mạng.
 
-— Vậy Chợ Âm là gì?
+— Ai điều hành?
 
-Chị Lệ rót trà.
+Lệ cầm chén trà nhưng chưa uống.
 
-— Một cái tên người ta đặt cho mạng lưới những người muốn mua thứ không thể mua ngoài chợ bình thường.
+— Cậu đang cố biến một đám người làm ăn với nhau thành một tổ chức có sơ đồ. Dễ hiểu, nhưng không đúng. Chợ Âm là cái tên người ta dùng khi muốn mua thứ không tiện đặt lên sàn bình thường. Đồ cổ lậu, tài sản của người chết, mẫu sinh học, thuốc, giấy tờ, thông tin… tùy người bán và người mua.
 
-— Đồ cổ lậu?
+— Cả người?
 
-— Có.
-
-— Mẫu máu?
-
-— Có.
-
-— Đồ của người chết?
-
-— Có.
-
-— Người không còn tên?
-
-Tay chị dừng rất nhẹ.
-
-Tôi bắt được.
-
-— Có luôn?
+Lần đầu ngón tay chị dừng lại trên miệng chén.
 
 — Tôi không bán người.
 
-— Nhưng biết người bán.
+— Em không hỏi chị có bán không.
 
-— Cậu đang ghi âm à?
+Lệ nhìn tôi khá lâu rồi mới đặt chén xuống.
 
-Tôi mỉm cười.
+— Cậu đang ghi âm.
 
-— Chị đoán xem.
+Tôi không chối.
 
-— Đang.
+— Máy ở túi áo. Micro quay lên. Cậu còn nhịp chân dưới bàn nên dây cọ vải hơi rõ.
 
-Chị chỉ vào túi áo tôi.
+Tôi lập tức dừng chân.
 
-— Máy mini, micro hướng lên. Cậu đừng gõ chân nữa, rung dây.
+— Chị nghe được luôn?
 
-Tôi nhìn xuống.
+— Không. Tôi nhìn được.
 
-Đúng là chân mình đang nhịp.
+— Vậy nãy giờ em lộ dữ vậy hả?
 
-Tôi dừng.
+— Với người đã biết cậu làm nghề gì thì có.
 
-— Chị chuyên nghiệp ghê.
-
-— Tôi sống lâu được vì không coi người lạ là ngu.
-
-Một nguyên tắc đáng học.
+Câu đó đủ để tôi bớt tự tin.
 
 ***
 
-Tôi hỏi thẳng:
+Tôi không hỏi tiếp theo danh sách đã chuẩn bị. Thay vào đó, tôi lấy túi zip đựng đồng xu lỗ vuông, sợi chỉ đen còn buộc ở mép, đặt giữa hai chúng tôi.
 
-— Vượng làm cho chị?
+Phản ứng của Lệ rõ hơn tất cả những câu trước: mắt chị hạ xuống, người hơi lùi lại và tay không chạm vào bàn nữa.
 
-— Không.
-
-— Tân Phúc?
-
-— Không.
-
-— Chị biết họ?
-
-— Biết tên giao dịch.
-
-— Họ mua bán gì?
-
-— Cậu đã thấy.
-
-— “Dị huyết”, “vô danh”?
-
-Chị Lệ không đáp.
-
-Tôi lấy đồng xu chỉ đen đặt lên bàn.
-
-Mắt chị thay đổi.
-
-— Cái này đâu ra?
+— Cậu lấy cái này ở đâu?
 
 — Mẫu Sơn.
 
 — Ai đưa?
 
-— Một cô gái.
+— Một cô gái. Nó xuất hiện trong đồ của gia đình cô ấy sau khi một người tên Vượng tới hỏi mua máu.
 
-— Cô ấy lấy đâu?
-
-— Không biết.
-
-Chị Lệ không chạm vào đồng xu.
+Lệ nhìn túi zip thêm vài giây.
 
 — Cất đi.
 
 — Chị biết nó?
 
-— Biết loại ký hiệu.
+— Tôi biết kiểu đánh dấu này.
 
-— Là gì?
+— Đánh dấu cái gì?
 
-— Đồ đánh dấu.
+— Thường là đồ hoặc người cần được nhận diện lại khi qua nhiều trung gian.
 
-— Đánh dấu ai?
+Tôi nhìn sợi chỉ đen.
 
-— Người cầm.
+— Vượng có mấy đồng tương tự nhưng buộc chỉ đỏ.
 
-Tôi nhìn túi zip.
+Lệ ngẩng lên.
 
-— Em cầm mấy tuần rồi.
+— Vậy cái này không phải bộ của hắn.
 
-— Vậy có lẽ nó làm xong việc.
+— Em cũng nghĩ thế.
 
-Câu này không dễ chịu.
+— Cậu giữ bao lâu rồi?
 
-— Việc gì?
+— Mấy tuần.
 
-— Cậu hỏi người đưa.
+Chị thở ra rất nhẹ.
 
-— Cô ấy không biết.
+— Nếu nó được đặt để xác nhận cậu mang thứ gì đó hoặc đi tới đâu đó, người cần biết có thể đã biết rồi.
 
-— Vậy hỏi người đặt nó vào rương.
+— “Có thể” hơi rộng.
 
-— Nếu em biết người đó thì đâu ngồi đây.
+— Vì tôi không biết người đặt nó.
 
-Chị Lệ cười.
+Tôi cất túi zip lại. Lần đầu trong buổi gặp, tôi thấy Lệ thực sự không thoải mái. Nó khiến đồng xu đáng ngại hơn khi chị cố kể nó đáng ngại.
 
-— Cậu không ngu như vẻ ngoài.
+— Vượng làm cho ai? — tôi hỏi.
 
-— Em không biết đây là khen hay chửi.
+— Tôi không biết người thuê hắn. Tôi chỉ biết mã giao dịch.
 
-— Cả hai.
+— M-03?
 
-***
+Lệ không giấu vẻ ngạc nhiên.
 
-Một người phục vụ đem ra hộp gỗ mỏng.
+— Cậu biết mã rồi thì dễ nói hơn.
 
-Chị Lệ mở.
+Chị ra hiệu cho người phục vụ. Một hộp gỗ mỏng được mang tới và đặt bên cạnh ấm trà. Bên trong là một tập giấy in, bố cục giống catalog đấu giá nhưng giản lược tới mức vô cảm: mã, mô tả ngắn, trạng thái.
 
-Bên trong không phải đồ vật.
+Lệ không đưa cả tập cho tôi. Chị lật vài trang rồi xoay về phía tôi.
 
-Là một quyển catalog in đơn giản, giống danh sách đấu giá.
+**M-03 — mẫu sinh học — thu hồi thất bại.**
 
-Mỗi dòng chỉ có mã, mô tả ngắn, trạng thái.
+Bên dưới là ngày gần chuyến Mẫu Sơn.
 
-M-03 — mẫu sinh học, đã thu hồi thất bại.
+Trang khác:
 
-Tôi nhận ra ngay.
+**V-11 — hồ sơ vô danh — lô không hoàn tất.**
 
-Vượng.
+Tôi nhìn hai dòng đó mà không cần hỏi nữa. M-03 là Vượng. V-11 là Tân Phúc.
 
-V-11 — hồ sơ vô danh, lô không hoàn tất.
+— Chị cho em xem vì cả hai vụ hỏng rồi?
 
-Tân Phúc.
+— Một phần. Người bán đã bỏ mã, bên mua khiếu nại, thông tin kiểu này sớm muộn cũng trôi sang những người khác.
 
-Tôi giữ mặt bình thường.
+— Phần còn lại?
 
-— Sao chị cho em coi?
+Lệ lật tới một trang ở giữa.
 
-— Vì hai lô này đã hỏng. Không còn giá trị bảo mật với người bán.
+— Vì có một lô khác liên quan tới thứ cậu đang tìm mà cậu chưa biết mình đang tìm.
 
-— Và vì chị muốn gì đó từ em.
+Tôi ghét kiểu câu này, nhưng lần này không có cảm giác chị cố tỏ ra bí hiểm. Chị đang mặc cả: cho một mẩu đủ khiến tôi ở lại, giữ phần còn lại làm giá.
 
-— Đúng.
+Mã in ở đầu trang là **H-49**.
 
-— Gì?
+Bên cạnh:
 
-Chị Lệ đẩy catalog sang.
+**Huyết Ngải — Bắc Yên — chưa thành phẩm.**
 
-— Tìm một người.
+Phần ghi chú ngắn hơn:
 
-Tôi bật cười.
+**Người giữ: A.M.**  
+**Người giao dịch: A.H.**  
+**Yêu cầu đổi: pháp khí Huyền mạch / thông tin cá thể song mạch.**
 
-— Chị nhầm ngành rồi. Công an ở gần lắm.
+Tôi đọc dòng cuối thêm một lần.
 
-— Tôi biết.
+“Song mạch” là một từ tôi chưa từng thấy trong tài liệu y khoa. Nhưng “hai mùi máu” của Mây, “hai nhịp tim” trên cassette và tờ hồ sơ thai đôi tự động đứng cạnh nhau trong đầu tôi.
 
-Tôi ngừng cười.
+— Chị biết “song mạch” nghĩa là gì không?
 
-Chị biết Khải đang theo.
+— Không chắc. Người đăng mô tả một nam trẻ, hơn hai mươi, có “hai mạch chồng nhau”. Tôi đang muốn biết họ nói theo nghĩa y học, huyền thuật hay chỉ là từ người bán tự đặt.
 
-— Chị không sợ?
-
-— Tôi chưa làm gì phạm pháp trước mặt cậu.
-
-Cũng đúng.
-
-Chị chỉ vào một mã.
-
-H-49.
-
-“Huyết Ngải — Bắc Yên — chưa thành phẩm.”
-
-Bên dưới:
-
-“Người giữ: A.M.”
-
-“Người giao dịch: A.H.”
-
-“Yêu cầu đổi: pháp khí Huyền mạch / thông tin cá thể song mạch.”
-
-Tôi đọc lại dòng cuối.
-
-Song mạch.
-
-Hai mùi máu.
-
-Hai nhịp tim.
-
-Tôi ngẩng lên.
-
-— “Song mạch” là gì?
-
-— Tôi đang hy vọng cậu biết.
+— Họ có tên người đó không?
 
 — Không.
 
-— Người giữ lô này hỏi mua thông tin về một người có hai mạch chồng nhau.
-
-— Bao lâu rồi?
-
-— Gần một năm.
-
-Tôi thấy gáy lạnh.
-
-Một năm trước tôi còn chưa viết Ma Kí Sự.
-
-— Họ có tên người không?
-
-— Không.
-
-— Tuổi?
-
-— Nam trẻ. Ngoài hai mươi.
-
-— Ở đâu?
+— Địa chỉ?
 
 — Miền Bắc.
 
-Rộng đủ để không phải tôi.
+Rộng đến mức chẳng nói được đó là tôi. Nhưng cũng gần đến mức tôi không thể bỏ qua.
 
-Nhưng quá gần để bỏ qua.
+— Mã này có từ bao lâu?
 
-Tôi hỏi:
+— Gần một năm.
 
-— A.M là ai?
+Tôi ngẩng lên.
 
-— Người ta gọi A Mã.
+Một năm trước, tôi còn chưa biết Ma Kí Sự sẽ tồn tại.
 
-— Tên thật?
+— A.M. là ai?
 
-— Không biết.
+— Tên giao dịch: A Mã.
 
-— A.H?
+— A.H.?
 
 — A Hù.
 
-Tôi ghi.
+— Tên thật?
 
-— Người Mông?
+— Không có trên catalog.
 
-— Tôi không biết họ là ai thật. Chợ dùng tên người giao dịch tự khai.
+— Người Mông à?
 
-— Ở Bắc Yên chỗ nào?
+Lệ lắc đầu.
 
-— Lần cuối có tọa độ gần Hồng Ngài.
+— Đừng suy từ tên gọi. Người trong mạng tự khai tên gì thì hệ thống dùng tên đó. Có người đổi tên mỗi tháng.
 
-Tôi biết tên Hồng Ngài từ đâu đó.
+— Vị trí?
 
-Không nhớ ngay.
+— Một giao dịch gần nhất được đánh dấu ở Bắc Yên. Khu vực Hồng Ngài.
 
-Chị Lệ nói:
+Tôi ghi hai chữ ấy vào sổ.
 
-— Nếu cậu muốn tìm Chợ Âm thì đừng tìm cái chợ. Tìm những thứ đi qua nó.
+Lệ nhìn động tác của tôi.
 
-— Còn chị?
+— Nếu cậu muốn hiểu Chợ Âm, đừng đi tìm một cái chợ. Tìm đường hàng đi, người môi giới, tài khoản nhận tiền, nơi giao đồ. Những thứ đó thật hơn tên gọi.
 
-— Tôi bán thông tin.
-
-— Thế cũng là Chợ Âm.
-
-— Tùy cậu gọi.
+Câu này nghe gần với cách Khải nói đến mức tôi tự hỏi hai người có từng ngồi với nhau trước đây không.
 
 ***
 
-Tôi hỏi điều quan trọng nhất:
+Tôi hỏi vì sao chị đưa H-49 cho tôi.
 
-— Tại sao chị muốn em tìm A Mã?
+Lệ nhấp trà, lúc này đã nguội.
 
-Chị Lệ ngồi im một lúc.
+— Có người muốn tìm A Mã.
 
-— Vì hắn giữ một thứ không nên bán.
-
-— Huyết Ngải?
-
-— Không.
-
-— Vậy gì?
-
-— Một cái chuông.
-
-Tôi suýt thất vọng.
-
-— Chuông?
-
-— Pháp khí của một dòng Huyền Môn cũ. Mất hơn hai mươi năm.
-
-— Chị là người Huyền Môn?
-
-— Không.
-
-— Vậy sao quan tâm?
-
-— Có người thuê tôi tìm.
-
-— Ai?
-
-— Người mà nếu cậu sống đủ lâu có thể gặp.
-
-Tôi nhìn chị.
-
-— Mấy người trong giới này nói chuyện thẳng có bị phạt tiền không?
-
-Chị Lệ cười.
-
-— Cậu còn đùa được là tốt.
-
-— Em đùa vì chị không trả lời.
-
-— Cũng tốt.
-
-Tôi đóng catalog.
-
-— Em không nhận việc thuê.
-
-— Tôi không thuê.
-
-— Chị vừa bảo tìm người.
-
-— Tôi đưa cậu một hướng cậu vốn sẽ đi.
-
-— Sao chắc?
-
-Chị nhìn túi áo tôi.
-
-Nơi có lá ba bích.
-
-— Vì Duy cũng từng ngồi đúng chỗ cậu.
-
-Tôi đông người.
-
-— Lê Khánh Duy?
+— Chị được thuê?
 
 — Ừ.
 
-— Chị gặp ông ấy?
+— Tìm Huyết Ngải?
 
-— Năm 2006.
+— Không. Tìm một cái chuông được cho là đang ở chỗ ông ta.
 
-— Ở quán này?
+Tôi không giấu được vẻ hụt hẫng.
 
-— Quán khác. Tên khác. Nhưng câu hỏi giống nhau.
+— Một cái chuông?
 
-— Ông ấy hỏi gì?
+— Cậu tưởng tôi sẽ nói đầu lâu biết nói à?
 
-Chị Lệ nhìn tôi.
+Tôi bật cười.
 
-— “Ai đang chọn đường cho tôi?”
+— Em đang cố bỏ kỳ vọng nghề nghiệp.
 
-Tôi không nói.
+— Cái chuông thuộc một nhánh Huyền Môn cũ, mất hơn hai mươi năm. Người thuê tôi quan tâm tới nó hơn H-49.
 
-— Chị trả lời sao?
-
-— Tôi nói tôi không biết.
-
-— Ông ấy có ba bích?
-
-— Có.
-
-— Chợ Âm đưa?
-
-— Tôi đã nói không.
-
-— Vậy ai?
-
-— Duy cũng hỏi như cậu.
-
-— Rồi sao?
-
-— Sau đó ông ấy biến mất khỏi mạng lưới. Tôi tưởng chết. Nhiều năm sau mới biết còn sống một thời gian rồi nghỉ báo.
-
-— Ông ấy tìm được câu trả lời không?
-
-— Nếu có, ông ấy không bán cho tôi.
-
-***
-
-Tôi rời quán lúc 20:41.
-
-Khải đón ở cuối phố bằng một chiếc xe bình thường đến mức đáng ngờ.
-
-Tôi lên ghế sau.
-
-— Anh nghe được bao nhiêu?
-
-— Đủ.
-
-— Chị ta biết anh theo.
-
-— Tôi biết chị ta biết.
-
-— Hai người chơi cờ mệt ghê.
-
-Khải đưa tay.
-
-— Catalog.
-
-— Không cho mang.
-
-— Ảnh?
-
-Tôi lấy điện thoại.
-
-— Chụp bằng camera cúc áo.
-
-Khải nhìn tôi.
-
-— Cậu có à?
-
-— Tòa soạn mua sau vụ Tân Phúc.
-
-— Cậu giấu tôi?
-
-— Anh cũng giấu vị trí người của anh.
-
-— Không giống nhau.
-
-— Em thấy giống.
-
-Anh không tranh luận.
-
-Tôi đưa hình H-49.
-
-Khải đọc.
-
-— Huyết Ngải.
-
-— Anh biết?
-
-— Từ dữ liệu thu ở kho có vài từ khóa tương tự. Không biết là hàng hóa gì.
-
-— Có thể chất độc, mẫu cây, hoặc thứ họ tin là ngải.
-
-— Đúng.
-
-— Hồng Ngài.
-
-Khải phóng to.
-
-— Bắc Yên.
-
-— Em muốn đi.
+— Chị thuộc Huyền Môn?
 
 — Không.
 
-— Anh trả lời nhanh quá.
+— Người thuê là ai?
 
-— Vì cậu đang là điểm giao của ít nhất hai vụ, còn danh mục này lại có dòng “thông tin cá thể song mạch”.
+— Phần đó tôi không bán cho cậu hôm nay.
 
-— Chưa chắc là em.
+Ít nhất câu này thẳng hơn “nếu sống đủ lâu sẽ gặp”.
 
-— Tôi cũng chưa nói là cậu.
+— Vậy chị muốn em làm gì?
 
-— Nhưng anh nghĩ.
+— Tôi không muốn cậu làm gì cho tôi cả. Tôi chỉ đặt Hồng Ngài vào tay cậu. Cậu đi hay không là việc của cậu.
 
-— Tôi nghĩ cậu đi một mình là ngu.
+— Sao chị nghĩ em sẽ đi?
 
-Tôi cười.
+Lệ nhìn xuống túi áo tôi, nơi lá ba bích đang nằm.
 
-— Vậy đi cùng.
+— Vì mười ba năm trước cũng có một phóng viên Âm Dương ngồi trước mặt tôi với đúng kiểu câu hỏi đó.
 
-— Chúng tôi cần căn cứ, phối hợp địa phương, xác định người và mục tiêu. Không phải đọc catalog rồi kéo quân lên một bản.
+Tôi không cử động.
 
-— Trong lúc đó họ chuyển đồ thì sao?
+— Duy?
 
-— Đó là lý do điều tra cần người kiên nhẫn.
+— Lê Khánh Duy.
 
-— Em làm báo.
+— Chị gặp ông ấy năm 2006?
 
-— Tôi biết. Và đó là lý do tôi đang đau đầu.
+— Ở một quán khác. Không phải chỗ này, cũng không dùng tên Lệ. Nhưng là tôi.
+
+— Ông ấy cũng có ba bích?
+
+— Có.
+
+— Chợ Âm đưa cho ông ấy không?
+
+— Không.
+
+— Ông ấy hỏi chị gì?
+
+Lệ nhìn tôi một lúc rồi nhắc lại gần như nguyên câu:
+
+— “Ai đang chọn đường cho tôi?”
+
+Không khí giữa hai chúng tôi im đi.
+
+— Chị trả lời thế nào?
+
+— Tôi nói không biết. Tôi vẫn không biết.
+
+— Sau đó Duy đi đâu?
+
+— Tôi không theo được nữa. Một thời gian ông ấy biến khỏi những kênh tôi biết. Sau này nghe nói còn sống, rồi nghỉ báo.
+
+— Ông ấy có tìm được câu trả lời không?
+
+— Nếu tìm được thì không quay lại bán cho tôi.
+
+Lệ đóng catalog. Buổi trao đổi kết thúc rõ ràng đến mức tôi không cần hỏi “hết rồi à”.
+
+Trước khi đứng dậy, chị nhìn tôi lần cuối.
+
+— Có một điều tôi nói miễn phí.
+
+— Dạ?
+
+— Đừng coi mọi thứ mang tên huyền bí là siêu nhiên. Nhưng cũng đừng nghĩ chỉ vì có người kiếm tiền từ nó thì phần còn lại chắc chắn là giả.
+
+Tôi gật.
+
+— Câu này em có được trích không?
+
+— Không.
+
+— Em biết ngay mà.
 
 ***
 
-Tối về, tôi bật cassette.
+Khải đón tôi ở cuối phố. Chiếc xe anh dùng bình thường tới mức nếu không biết trước, tôi sẽ chẳng nhìn lần hai.
 
-Tôi biết mình đã hứa không nghe.
+Vừa đóng cửa, anh hỏi:
 
-Nhưng hiện tại lời hứa với chính mình có độ bền khá thấp.
+— Catalog có mang ra được không?
 
-Băng chạy.
+— Không.
 
-Giọng tôi xuất hiện.
+— Ảnh?
 
-Không dự đoán ngày mai.
+Tôi lấy điện thoại ra, mở file từ camera cúc áo.
 
-Chỉ nói một câu:
+Khải nhìn tôi.
 
-“Đừng đi Hồng Ngài.”
+— Cậu có cái này từ bao giờ?
 
-Tôi ngồi yên.
+— Tòa soạn mua sau Tân Phúc.
 
-Đây là lần đầu cuộn băng nhắc đúng một nơi tôi vừa biết vài tiếng trước.
+— Sao không nói trước?
 
-Nếu người đứng sau băng nghe lén tôi ở quán, chuyện này giải thích được.
+— Anh cũng không nói người của anh ngồi đâu.
 
-Nếu không...
+Khải nhìn tôi hai giây rồi thôi tranh luận. Có lẽ anh nhận ra nếu đào tiếp thì buổi tối sẽ biến thành cuộc cãi nhau về khái niệm “chia sẻ thông tin”.
 
-Tôi chưa muốn nghĩ.
+Anh phóng lớn ảnh H-49.
 
-Giọng tiếp:
+— “Huyết Ngải”.
 
-“Nếu mày vẫn đi, đừng tin A Hù.”
+— Anh từng thấy từ này chưa?
 
-Rè.
+— Trong dữ liệu thu ở một số node có vài chuỗi tương tự, chưa biết nó là chất, cây, tên sản phẩm hay thứ người bán tự đặt.
 
-“Và khi nhìn thấy cái sẹo...”
+— A Mã. A Hù. Hồng Ngài.
 
-Băng đột ngột dừng.
+Khải chụp lại toàn bộ ảnh vào máy riêng.
 
-Tôi lật mặt.
+— Cậu muốn đi?
 
-Hết băng.
+— Muốn.
 
-— Cái sẹo gì trời?
+— Chưa đi.
 
-Tôi nói thành tiếng.
+— Anh không nói “không” nữa à?
 
-Điện thoại rung.
+— Tôi nói “chưa”. Khác nhau.
 
-Tin nhắn từ một số không lưu:
+Anh chỉ dòng “thông tin cá thể song mạch”.
 
-“Cậu muốn biết phần còn lại không?”
+— Cậu đang là điểm giao giữa Mẫu Sơn, Tân Phúc, ba bích và hồ sơ này. Dù “song mạch” có phải cậu hay không, người đăng H-49 đã tìm kiểu người như vậy từ trước khi cậu viết series. Tôi không để cậu tự xách ba lô lên một địa điểm chưa xác minh.
 
-Tôi gõ:
+— Nếu họ chuyển H-49 thì sao?
 
-“Ai?”
+— Thì chúng tôi theo dòng liên lạc và tiền. Điều tra có lúc phải chấp nhận không chạy nhanh bằng nỗi tò mò.
 
-Không trả lời.
+Tôi thở dài.
 
-Thay vào đó là một ảnh.
+— Câu đó nghe nhắm em dữ.
 
-Một người đàn ông đứng quay lưng, đang thay áo cạnh một dòng suối.
+— Vì tôi đang nói với cậu.
 
-Trên lưng có một vết sẹo dài chéo xuống vai.
+***
 
-Caption:
+Tối hôm đó, tôi không định nghe cassette.
 
-“A Hù. Hồng Ngài.”
+Tôi thật sự không định.
 
-Tôi nhìn ảnh.
+Nhưng sau gần một tiếng ngồi nhìn hộp băng trên bàn, tôi nhận ra “không định” và “không làm” là hai cấp độ đạo đức rất khác nhau.
 
-Sau lưng người đàn ông, xa trong mép khung hình...
+Tôi bật máy.
 
-có một ông già tóc dài đứng dưới cây.
+Phần đầu chỉ có tiếng rè. Sau đó giọng của tôi vang lên, không đọc ngày giờ, không nhắc ai ở tòa soạn.
 
-Một mắt trắng đục.
+**“Đừng đi Hồng Ngài.”**
 
-Tôi chưa biết ông là A Mã.
+Tôi ngồi thẳng.
 
-Tôi cũng chưa biết vết sẹo đó đã có từ đêm 15 tháng 9 năm 2012.
+Đây là lần đầu cuộn băng nhắc chính xác một địa danh tôi mới biết vài tiếng trước. Có một lời giải thích rất con người: ai đó nghe được cuộc gặp, theo dõi điện thoại hoặc đã biết Lệ sẽ đưa tôi tới H-49.
 
-Nhưng có một người khác trong universe của chúng tôi đã nhìn thấy nó được tạo ra.
+Tôi cố giữ mình ở lời giải thích đó.
 
-Tên cô ấy là Trâm.
+Băng chạy tiếp.
+
+**“Nếu mày vẫn đi, đừng tin A Hù.”**
+
+Một lớp rè kéo dài, rồi giọng nói trở lại:
+
+**“Và khi mày nhìn thấy cái sẹo…”**
+
+Âm thanh tắt giữa câu.
+
+Tôi lật mặt cassette. Hết băng.
+
+— Sẹo gì?
+
+Tôi hỏi thành tiếng dù biết cái máy sẽ không trả lời.
+
+Điện thoại rung ngay sau đó.
+
+Một số lạ gửi đúng một dòng:
+
+**“Cậu muốn biết phần còn lại không?”**
+
+Tôi gõ **“Ai?”**.
+
+Không có câu trả lời. Một bức ảnh hiện lên thay thế.
+
+Người đàn ông trong ảnh đứng quay lưng cạnh một dòng nước, áo đang kéo qua đầu. Lưng rộng, da sạm; từ vai trái chạy chéo xuống lưng là một vết sẹo dài, đã lành từ lâu nhưng đủ sâu để nhìn thấy ngay trên ảnh nén.
+
+Dòng chú thích chỉ có:
+
+**A Hù — Hồng Ngài.**
+
+Ở xa hơn, gần mép phải khung hình, có một ông già gầy đứng dưới cây. Một bên mắt trắng đục.
+
+Tôi chụp màn hình, gửi ngay cho Khải rồi cất điện thoại xuống.
+
+Cassette biết Hồng Ngài. Người gửi tin nhắn biết cassette đã dừng ở chữ “sẹo”, hoặc ít nhất biết đúng lúc để gửi thứ khớp với nó.
+
+Tôi chưa biết hai nguồn đó là một hay hai.
+
+Cũng chưa biết vết sẹo của A Hù từ đâu mà có.
+
+Tôi chỉ biết từ khoảnh khắc ấy, Hồng Ngài không còn là một địa danh trong catalog nữa.
