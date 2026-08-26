@@ -1,431 +1,315 @@
 Kết quả so sánh dấu răng có sau ba ngày.
 
-Không khớp Trung.
+Không phù hợp với hàm răng của Trung.
 
-Thi đọc dòng kết luận hai lần rồi mới ngẩng lên.
+Thi đọc câu kết luận hai lần rồi đem cả tập sang phòng pháp y, không phải vì cô không hiểu mà vì muốn nghe bác sĩ Thành nói rõ giới hạn của nó.
 
-— Chắc không anh?
+Ông kéo hai hình lên cùng màn hình: thương tích ở cổ Vũ Mạnh Cường và mẫu hàm răng của Trung.
 
-Bác sĩ pháp y Thành kéo ghế lại gần màn hình. Ông đã ngoài năm mươi, nói chuyện chậm và ghét việc người khác dùng từ “chắc chắn” với những thứ chỉ có thể kết luận theo xác suất.
+— Khoảng giữa hai răng nanh bên trái lệch gần bốn milimet. — Thành chỉ bằng đầu bút. — Trung có một răng cửa dưới mẻ từ trước; nếu cắn theo góc này thường phải để lại khoảng gián đoạn tương ứng, nhưng vết thương không có. Ngược lại phía nanh phải có thêm một điểm ép nhỏ mà hàm Trung không giải thích được.
 
-— Tôi nói không phù hợp với mẫu răng của Trung. Không nói dấu này thuộc về cái gì.
+— Răng lệch? Răng giả?
 
-Ông mở ảnh thương tích cổ Vũ Mạnh Cường cạnh mô hình hàm răng số hóa của Trung.
-
-— Khoảng giữa hai răng nanh bên trái rộng hơn gần bốn milimet. Vị trí này...
-
-Ông chỉ.
-
-— Nếu là Trung cắn, chiếc răng cửa dưới đã mẻ hồi đại học phải để lại khoảng đứt ở đây. Không có. Ngược lại, vết thương có một điểm ép thứ hai sát răng nanh phải, giống như có thêm một mấu cứng.
-
-Thi nhìn.
-
-— Răng mọc lệch?
-
-— Có thể. Răng giả. Vật sắc gắn trong miệng. Vết bị biến dạng khi nạn nhân giằng. Nhiều khả năng.
+— Đều có thể. Một vật cứng gắn trong miệng cũng có thể. Hoặc mô bị kéo lúc giằng làm hình biến dạng. Tôi chỉ loại được điều này: mẫu hiện tại không phù hợp để nói Trung tạo vết cắn.
 
 — Động vật?
 
-— Cung răng lại quá gần người.
+— Cung dấu lại gần người hơn. Chưa cần ép nó thành một đáp án.
 
-Thành tháo kính.
+Thành tháo kính, nhìn Thi.
 
-— Nếu cô muốn tôi viết “ma cắn” vào báo cáo thì hôm nay cô phải mời tôi nghỉ hưu trước.
+— Cô mà hỏi tiếp “vậy là thứ gì” thì tôi trả hồ sơ về cho cô tự viết.
 
-Thi bật cười.
+Thi cười.
 
-— Em chưa nói gì mà.
+— Em chưa hỏi.
 
-— Mặt cô nói.
+— Mặt hỏi rồi.
 
-Ông đưa tập kết quả.
+Ông lật sang trang hóa sinh.
 
-— Có thứ khác đáng để ý hơn. Trong dịch quanh vết cắn có một lượng nhỏ hợp chất thực vật mà phòng hóa sinh chưa định danh đủ. Nó gần với một mẫu thu ở Hồng Ngài nhưng không thể kết luận cùng nguồn.
+— Cái đáng chú ý hơn ở đây. Dịch quanh vết thương có một lượng nhỏ hợp chất thực vật chưa định danh đầy đủ. Ba nhóm chất trùng với mẫu HN-23 từng thu ở bàn nghi lễ nhà Pá Tra.
 
-— Mẫu nào?
+Thi thôi cười.
 
-— Mẫu HN-23. Bột ở bàn nghi lễ.
+— Cùng nguồn?
 
-Thi im.
+— Không kết luận được. Trùng nhóm hợp chất không phải trùng mẻ. Nhưng cũng không giống việc vô tình dính một thứ hoàn toàn không liên quan.
 
-Chiếc lọ mất tích không được thu.
+Lần đầu tiên họ có một cầu nối vật chất giữa vụ Cường và Hồng Ngài mà không cần dựa vào hình dạng vết cắn hay ký ức của bất kỳ ai.
 
-Nhưng bột ở bàn thì có.
-
-Nếu hai thứ liên quan, lần đầu họ có một cây cầu vật chất giữa Hồng Ngài và vụ án hiện tại.
-
-Không cần ma.
-
-Không cần ngải.
-
-Chỉ cần hóa chất.
-
-Đó là thứ Thi có thể đem vào hồ sơ.
+Thi cầm kết quả về cho Khải.
 
 ***
 
-Trung được gỡ khỏi danh sách nghi phạm trực tiếp của vụ Cường về mặt dấu răng.
+Khải không gọi đó là “minh oan cho Trung”.
 
-Nhưng hắn không được quay lại chuyên án.
+Anh đặt báo cáo dấu răng bên cạnh hồ sơ camera chung cư.
 
-Khải nói rất thẳng:
+— Vết cắn không phù hợp hàm của cậu. Điều đó làm yếu khả năng cậu trực tiếp gây thương tích này. Nó không giải thích người ra khỏi nhà lúc 02:13, mã cửa hay người giống cậu ở gần kho.
 
-— Camera vẫn ghi cậu ra khỏi nhà. Một người giống cậu xuất hiện gần hiện trường. Mã cửa nhà cậu bị sử dụng. Cậu không nhớ bốn mươi bảy phút đó. Tôi không bắt cậu vì hiện chưa có căn cứ. Tôi cũng không để cậu điều tra chính mình.
-
-Trung ngồi đối diện bàn ông.
+Trung ngồi đối diện bàn, hai tay đan vào nhau.
 
 — Em hiểu.
 
-— Cậu có đồng ý để chúng tôi giám sát bảo vệ không?
+— Và vì cậu đang ở giữa hai vai rất khó chịu — vừa có thể là mục tiêu, vừa là người cần loại trừ — tôi không để cậu tham gia điều tra chính mình.
 
-— Nói “giám sát” trước “bảo vệ” nghe thật lòng hơn em tưởng.
+— Còn đi làm bình thường?
 
-Khải không cười.
+— Phần việc không liên quan chuyên án thì tùy đơn vị của cậu. Nhưng di chuyển ngoài giờ báo trước. Điện thoại giữ nguyên dữ liệu. Nếu có mất thời gian, sốt, chảy máu, mơ bất thường hoặc hành vi cậu không nhớ, báo ngay.
 
-— Có hoặc không.
+Trung nhìn anh.
+
+— Nghe giống vừa hỏi bệnh sử vừa hỏi cung.
+
+— Vì tôi chưa biết mình đang xử lý cái nào.
 
 Trung thở ra.
 
-— Có.
-
-— Điện thoại không xóa dữ liệu. Không tự ý rời thành phố. Mỗi lần có hiện tượng mất thời gian, mơ bất thường, chảy máu, sốt, bất cứ thứ gì, báo ngay.
-
-— Anh đang hỏi triệu chứng bệnh hay triệu chứng bị ma nhập?
-
-— Tôi đang hỏi dữ liệu.
-
-Trung gật.
-
 — Rồi.
 
-Khải đẩy một tờ giấy sang.
+Khải đẩy một văn bản đồng ý giám sát bảo vệ sang.
 
-— Và một việc nữa. Chúng tôi sẽ để bên ngoài hiểu rằng cậu đang giữ thông tin quan trọng từ Hồng Ngài.
+— Chúng tôi muốn dùng việc bên ngoài tin rằng cậu có thông tin quan trọng từ Hồng Ngài để xem ai chủ động tiếp cận. Cậu có quyền từ chối.
 
-Trung nhướng mày.
+— Dùng em làm mồi.
 
-— Dùng em làm mồi?
+— Dùng sự quan tâm dành cho cậu để xác định người đang săn thứ bị mất.
 
-— Dùng sự quan tâm dành cho cậu để xác định ai đang săn thứ đã mất.
+— Vẫn là mồi, viết lịch sự hơn.
 
-— Khác nhau về mặt ngôn ngữ thôi.
+Khải không tranh luận.
 
-— Cậu có quyền từ chối.
+Trung không ký ngay. Hắn đọc kỹ phạm vi theo dõi, hỏi camera đặt ở đâu, ai được xem dữ liệu, nếu muốn dừng hợp tác thì quy trình thế nào, đội can thiệp ở khoảng cách bao xa. Khải trả lời từng câu.
 
-Trung đọc tờ giấy rất kỹ.
+Thi đứng cạnh cửa, không giục.
 
-Không ký ngay.
+Mười phút sau Trung mới cầm bút.
 
-Thi đứng bên tường nhìn hắn.
-
-Đó là điều nó muốn. Trung không phải kiểu nghe “vì đại cục” rồi gật đầu như phim. Hắn hỏi phạm vi theo dõi, ai biết địa chỉ, phương án can thiệp nếu có người tiếp cận, quyền dừng hợp tác, dữ liệu cá nhân nào bị thu.
-
-Khải trả lời từng câu.
-
-Mười phút sau Trung mới ký.
-
-— Em có điều kiện.
+— Có một điều kiện.
 
 — Nói.
 
-— Nếu có bằng chứng cho thấy em thực sự gây nguy hiểm cho người khác, đừng để Thi là người phải còng em.
+— Nếu sau này có bằng chứng em thật sự nguy hiểm cho người khác, đừng để Thi là người phải còng em.
 
-Thi lập tức nói:
+Thi lập tức cau mặt.
 
-— Mày bớt diễn.
+— Mày ký giấy thôi, đừng diễn hậu sự.
 
-Trung không nhìn nó.
+Trung không quay sang cô.
 
-Khải gật.
+Khải hỏi:
 
-— Được.
+— Cậu nói nghiêm túc?
+
+— Có.
+
+— Tôi ghi nhận. Nhưng ai làm nhiệm vụ gì lúc đó sẽ phụ thuộc tình huống, không phải lời hứa trước.
+
+Trung nhìn anh một lúc rồi gật.
+
+— Công bằng.
+
+Hắn ký.
 
 ***
 
-Buổi chiều, Quỳnh tới căn hộ Trung cùng Huy.
+Buổi chiều, Quỳnh và Huy tới căn hộ Trung. Lan đang trên đường từ chỗ Somchai trở về Hà Nội và sẽ tới sau.
 
-Đây là lần đầu Thi để hai người ngoài chuyên án bước vào từ lúc giám sát bắt đầu, và nó chỉ đồng ý vì bức ảnh trong điện thoại Trung không phải tài liệu điều tra — nó thuộc về chính hắn từ năm 2019.
+Thi chỉ đồng ý vì bức ảnh con gà không phải tài liệu bí mật của chuyên án; nó nằm trong điện thoại cá nhân của Trung, và chính hắn muốn những người từng có mặt ở Hồng Ngài xem lại.
 
-Huy đứng giữa phòng khách, nhìn hai camera tạm đặt ở hành lang ngoài cửa qua màn hình tablet rồi huýt sáo.
+Huy vừa bước vào đã nhìn camera tạm ngoài hành lang qua màn hình rồi nói:
 
-— Công an chăm sóc khách hàng kỹ vậy?
+— Dịch vụ bảo vệ tận cửa luôn.
 
-Thi nói:
+Thi chỉ tay ra ngoài.
 
-— Mày mà nói thêm một câu tao cho ra ngoài.
+— Mày muốn trải nghiệm thì tao bố trí ghế ngoài đó.
 
-— Tôi là người từng bị bắt cóc bốn tháng, rất tôn trọng an ninh.
+— Tôi vừa bị bắt bốn tháng, rất tôn trọng ghế có lưng tựa.
 
-Quỳnh đặt tay lên vai Huy kéo hắn ngồi xuống.
+Quỳnh kéo Huy ngồi xuống trước khi hắn kịp nói thêm.
 
-— Bớt mồm.
+— Đưa điện thoại đây.
 
-Huy nhỏ hơn Quỳnh hai tuổi nhưng khả năng làm người khác mệt có vẻ không phụ thuộc tuổi tác. Sau Hồng Ngài, anh nghỉ gần hai tháng mới quay lại Âm Dương. Sếp Hòa không cho đi thực địa nữa. Huy đồng ý được đúng ba tuần rồi bắt đầu lén viết tiếp Ma Kí Sự.
-
-Bây giờ hắn cầm điện thoại Trung.
-
-Tấm ảnh được chụp ở Hồng Ngài lúc 03:04 sáng ngày 17 tháng 9.
-
-Trong ảnh là con gà nằm nghiêng trên đất. Cổ bị cắn rách. Máu bám lông. Một bàn tay già nua giữ đầu con vật sang bên để lộ vết thương.
-
-Ở góc ảnh có phần gấu áo của A Mã.
+Tấm ảnh được tạo lúc 03:04 sáng ngày 17 tháng 9 năm trước. Con gà nằm nghiêng trên nền đất, cổ rách, máu bết vào lông. Một bàn tay già giữ phần đầu lệch sang bên. Ở mép khung là gấu áo A Mã.
 
 Trung nói:
 
-— Lúc đó tao bất tỉnh.
+— Lúc đó tao đang bất tỉnh.
 
-Huy phóng to.
+Huy mở thông tin file rồi phóng ảnh lên.
 
-— Điện thoại có khóa không?
+— Ảnh tạo trực tiếp bằng camera chính. Không thấy dấu là file nhận từ ứng dụng khác. Nhưng ai cầm máy thì chưa biết.
 
-— Vân tay.
+— Máy khóa vân tay. — Trung nói.
 
-— Bất tỉnh thì tay vẫn mở được.
+— Người bất tỉnh vẫn còn ngón tay.
 
 — Tao biết.
 
-Quỳnh hỏi:
+Quỳnh nhìn lâu vào cổ con gà.
 
-— A Mã chụp?
+— Vết cắn có giống Cường tới mức nào?
 
-— Có thể.
+Thi đáp:
 
-Huy kéo ảnh sang trái.
+— Không đủ để so trực tiếp từ ảnh này. Nhưng hình chung khiến Trung nhớ tới.
 
-Không còn ảnh nào cùng thời điểm.
-
-Kéo thông tin file.
-
-Thi đã kiểm tra trước: ảnh gốc, không dấu hiệu nhận từ ứng dụng khác, tạo bằng camera chính của máy.
-
-Huy nhìn rất lâu vào vết cắn.
+Huy bỗng dừng hai ngón tay ở một điểm sát mép vết thương.
 
 — Phóng chỗ này.
 
-Một chấm trắng nhỏ nằm sát mép vết thương.
+Một hạt trắng rất nhỏ bám trên lông, gần như có thể là nhiễu ảnh.
 
-Quỳnh hỏi:
+— Bột? — Quỳnh hỏi.
 
-— Là gì?
+— Một pixel trắng. — Huy đáp. — Đừng cho nó nghề nghiệp sớm.
 
-— Không biết.
+Trung nhìn hắn.
 
-— Mặt mày đang nói biết.
+— Mày từng thấy bột trắng trong hầm.
 
-Huy đặt điện thoại xuống.
+— Tao từng thấy cả xi măng trắng, muối, tro, thuốc bột và mấy thứ còn chán hơn. Một chấm ảnh không đủ.
 
-— Tôi từng thấy bột giống vậy trong hầm của Tùng. Nhưng bột trắng thì ngoài đời thiếu gì. Muối, vôi, thuốc, tro. Tôi không kết luận từ một pixel.
+Chuông cửa vang lên. Thi nhìn camera trước rồi mở cho Lan.
 
-Trung chỉ ảnh.
+Lan vào, tháo khăn quàng và xin xem ảnh ngay. Cô vẫn gầy hơn thời trước Hồng Ngài, nhưng không còn vẻ kiệt sức như những tuần đầu sau khi trở về.
 
-— Còn vết cắn?
+Lan phóng tới phần bàn tay A Mã.
 
-Huy nhìn hắn.
+— Ổng đang kéo đầu con gà sang để lộ chỗ này.
 
-— Mày cắn con gà.
+— Cái chấm trắng? — Thi hỏi.
 
-— Tao biết phần đó.
+— Có vẻ vậy. Nhưng không biết vì sao.
 
-— Không. Ý tao là nếu mày đang bị thứ gì điều khiển, tại sao A Mã không trói mày? Sao ông ta chỉ đánh ngất rồi để mày sống cùng nhà?
+— Mày nhận ra chất gì không?
 
-Không ai đáp.
+Lan lắc đầu.
 
-Huy tiếp:
+— Không từ ảnh.
 
-— Ông ta biết mày bị gì.
+Trung dựa lưng ghế.
 
-Thi dựa tường.
+— Hôm nay ai cũng “không biết” với “không chắc”.
 
-— Lan cũng nghĩ vậy.
+Lan trả điện thoại.
 
-— Lan đâu?
+— Vì nói chắc khi không biết là cách nhanh nhất biến chuyện này thành mê tín.
 
-Quỳnh nói:
+— Tao xin lỗi giới học thuật.
 
-— Trên đường tới.
+Lan ngồi xuống đối diện hắn.
 
-Chuông cửa vang lên đúng lúc.
+— Tao hỏi chuyện khác. Đêm trước khi mày lên cơn ở chuồng gà, mày ăn uống gì riêng với tụi tao không?
 
-Mọi người nhìn màn hình camera trước.
+Trung nhíu mày.
 
-Lan đứng ngoài hành lang.
+— Cơm chung. Rượu có uống nhưng ai cũng uống.
 
-Một mình.
-
-Thi mở cửa.
-
-Lan bước vào, tháo khăn quàng. So với Hồng Ngài, nó gầy hơn, dưới mắt vẫn còn quầng rất nhẹ sau thời gian điều trị vết cắn và những thứ mà hồ sơ bệnh viện chỉ ghi là nhiễm độc không rõ nguồn.
-
-Nó không chào dài dòng.
-
-— Cho tao xem ảnh.
-
-Huy đưa điện thoại.
-
-Lan nhìn chưa tới mười giây thì hỏi:
-
-— Tấm này trước hay sau lúc Trung cắn gà?
-
-— Sau. — Trung nói.
-
-— Bao lâu?
-
-— Không biết. Tao tỉnh sau đó.
-
-Lan phóng hình bàn tay A Mã.
-
-Ngón cái ông già đang ép vào một điểm ngay dưới mỏ con gà.
-
-— Ổng không chụp vết cắn.
-
-Thi hỏi:
-
-— Vậy chụp gì?
-
-Lan chỉ chấm trắng.
-
-— Cái này.
-
-Huy nhìn nó.
-
-— Biết là gì?
-
-— Không chắc.
-
-Trung ngửa đầu ra sau.
-
-— Hôm nay ai cũng “không chắc” hết vậy?
-
-Lan bỏ điện thoại xuống.
-
-— Vì người biết mà nói chắc khi chưa đủ dữ liệu mới là thằng nguy hiểm.
-
-Trung giơ hai tay.
-
-— Rồi. Xin lỗi giới học thuật.
-
-Lan ngồi đối diện hắn.
-
-— Tao cần hỏi một chuyện. Đêm trước khi phát bệnh, mày có ăn uống thứ gì riêng không?
-
-Trung nghĩ.
-
-— Cơm chung.
-
-— Rượu?
-
-— Không nhiều.
-
-Quỳnh bỗng nhớ.
+Quỳnh đang đứng cạnh cửa sổ bỗng quay lại.
 
 — Trà.
 
-Cả phòng quay sang.
+Căn phòng im đi.
 
-— Cái ấm trà lạnh. — Quỳnh nói. — Lan chạm vào rồi không uống. Trung về sau đó và uống.
+— Ấm trà lạnh. — Quỳnh nói. — Lan chạm vào rồi không uống. Sau đó Trung uống chén ở đó.
 
 Lan nhìn Trung.
 
-Mặt nó thay đổi.
+— Bao nhiêu?
 
-— Mày uống bao nhiêu?
+— Một chén. Có thể tao rót thêm nửa chén, không nhớ chính xác.
 
-— Một chén. Có khi hơn.
+— Lúc đó tao đã bảo đừng uống chưa?
 
-— Tại sao tới giờ mày mới nói?
+— Không. Mày chỉ thấy cái ấm lạ rồi bỏ xuống.
 
-— Vì tao tưởng cái ấm chỉ là một màn hù. Với lại hôm đó mày có nói nó có gì đâu.
-
-Lan nhắm mắt một giây.
-
-— Tao không nói vì tao không biết.
+Lan cúi mặt, suy nghĩ một lúc.
 
 Thi hỏi:
 
-— Bây giờ biết?
+— Mày nghĩ gì?
 
-— Bây giờ tao biết Tùng đã nhắm tới tao từ trước vụ chuối.
+— Tao nghĩ thứ trong trà có thể đã được chuẩn bị cho một người cụ thể. Tùng biết tao nhạy với mạch từ trước, và cái chén đặt gần chỗ tao. Nhưng đó chỉ là cách bố trí. Chưa chứng minh nó dành cho tao, càng chưa chứng minh thứ Trung uống là Dẫn Chủng.
 
-Căn phòng im.
+Trung hỏi:
 
-Lan nói chậm:
+— Nếu thật sự dành cho mày mà tao uống nhầm thì sao?
 
-— Nếu trà cũng dành cho tao, nhưng Trung uống...
+— Thì trước tiên chỉ có nghĩa một thứ không rõ đã vào người mày thay vì tao.
 
-Nó không nói hết.
+— Hết?
 
-Trung nhìn từng người.
+— Hết phần mình biết.
 
-— Thì sao?
+Trung gật chậm. Hắn không thích câu trả lời, nhưng lần này không đòi thêm.
 
-Lan ngẩng lên.
+***
 
-— Thì có thể từ đầu Huyết Ngải chưa từng chọn mày.
+Tiếng thủy tinh chạm nền vang từ bếp.
 
-Một tiếng động vang trong bếp.
+Không lớn. Chỉ một tiếng cạch.
 
-Cạch.
+Thi vào trước, dừng ở ngưỡng cửa. Một chiếc cốc nằm nghiêng cạnh chân tủ, không vỡ. Mặt trong có một lớp bột trắng rất mỏng dính thành vòng không đều.
 
-Tất cả quay lại.
+Trung đứng sau lưng cô.
 
-Không ai ở đó.
+— Cốc đó sáng tao rửa rồi cất.
 
-Thi đi trước, tay đặt gần súng.
+Thi không quay lại.
 
-Trên sàn bếp, một chiếc cốc thủy tinh vừa rơi khỏi giá nhưng không vỡ.
+— Mày nhớ tự cất?
 
-Nó nằm lăn cạnh chân tủ.
+Hắn im một nhịp.
 
-Bên trong có một lớp bột trắng rất mỏng.
+— Nhớ.
 
-Trung đứng ở cửa bếp.
+Câu trả lời không còn mang nghĩa chắc chắn như trước.
 
-Mặt hắn mất hết màu.
+Thi gọi đội kỹ thuật, yêu cầu không ai bước thêm vào bếp. Camera ngoài cửa được kiểm ngay: từ lúc Quỳnh và Huy tới, sau đó Lan, không có người khác ra vào căn hộ. Điều đó không chứng minh bột mới xuất hiện trong khoảng ấy. Nó chỉ loại một số cách đơn giản nhất.
 
-— Cái cốc đó tao rửa sáng nay.
+Huy đứng ngoài cửa bếp, mắt không rời chiếc cốc.
 
-Lan không bước vào.
+— Nếu đây cùng chất Hồng Ngài thì ít nhất có người muốn mình nhìn về Hồng Ngài.
 
-Nó chỉ hỏi:
+Khải chưa tới nên không ai sửa câu của hắn, nhưng Quỳnh tự thêm:
 
-— Camera trong nhà có không?
+— Hoặc nó vốn ở đây từ trước.
 
-Thi lắc đầu.
+Huy gật.
 
-— Chỉ ngoài cửa. Vì quyền riêng tư.
+— Đúng.
 
-Huy nhìn lớp bột.
+Trong lúc chờ kỹ thuật, Quỳnh nhìn mặt inox của cánh tủ phía đối diện. Bề mặt không phẳng như gương nên sáu người trong phòng bị kéo dài, méo nhẹ theo đường kim loại.
 
-— Vậy từ giờ đừng ai chạm.
+Cô đếm theo thói quen.
 
-Trung cười khô.
+Thi ở cửa bếp. Lan cạnh bàn. Huy dựa tường. Trung phía sau Quỳnh. Hai cán bộ ngoài hành lang, nhưng chỉ một người lọt vào góc phản chiếu.
 
-— Câu này tao đồng ý.
+Sáu hình người hợp lý.
 
-Điện thoại Thi rung.
+Quỳnh đếm lại.
 
-Tin nhắn từ đội giám sát ngoài hành lang:
+Ở sát vai phải Trung có một mảng tối đứng dọc, hẹp hơn một người nhưng quá đều để giống bóng tủ.
 
-“Không có ai ra vào căn hộ từ lúc cô và hai người kia vào. Lan là người cuối cùng.”
+Cô đổi góc đầu.
 
-Thi đọc xong.
+Mảng tối vẫn ở đó.
 
-Không nói.
+— Thi.
 
-Ở góc bếp, mặt trong cánh tủ inox phản chiếu sáu người đang đứng.
+— Gì?
 
-Quỳnh nhìn vào đó.
+— Đừng ai đi vào bếp thêm.
 
-Một.
+Thi nhìn theo mắt Quỳnh.
 
-Hai.
+Một lúc sau, cô cũng im.
 
-Ba.
+Trung nhìn mặt inox, rồi nhìn phía sau mình.
 
-Bốn.
+Không có ai.
 
-Năm.
-
-Sáu.
-
-Rồi nó nhận ra trong phản chiếu có **bảy** cái bóng.
+Khi quay lại, mảng tối trong phản chiếu vẫn nằm sát vai hắn.
