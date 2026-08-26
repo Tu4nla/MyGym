@@ -1,54 +1,32 @@
-A Hù biến mất khỏi nhà Pá Tra lúc 09:26 sáng 20 tháng 9.
+A Hù rời nhà Pá Tra trong một khoảng chưa tới mười phút.
 
-Ít nhất đó là khung giờ cuối Minh còn thấy hắn.
+Minh là người cuối cùng chắc chắn nhìn thấy hắn. Lúc đó hắn đi ngang sân về phía kho, mặc áo khoác xám, không mang ba lô. Minh nhận một cuộc gọi, quay vào hiên nói chưa đầy vài phút. Khi nhìn ra lại, sân trống.
 
-09:19, A Hù đi qua sân về phía kho, mặc áo khoác xám, không mang ba lô.
+Không ai ở cổng trước thấy hắn đi qua. Lối sau nhà thì dẫn thẳng vào nương và bụi cây.
 
-09:26, Minh nhận cuộc gọi từ tổ ngoài.
+Thi không cho ai dùng chữ “biến mất” theo nghĩa huyền bí.
 
-09:31, hắn quay lại sân.
+— Hắn rời hiện trường. Mình chưa biết bằng đường nào.
 
-Không còn A Hù.
+Trung nhìn khoảng rừng sau nhà.
 
-Cửa kho vẫn khóa.
+— Câu này nghe đỡ ma nhưng vẫn mất người.
 
-Cổng trước không ai thấy mở.
+— Nhiệm vụ là tìm người. Không phải làm câu chuyện nghe ghê hơn.
 
-Lối sau có bụi cây che.
+Từ lúc đó, vỏ bọc kết thúc hoàn toàn.
 
-Chín phút.
+Người của tổ phối hợp vào nhà. Gác có thi thể được niêm phong. Hầm trồng Huyết Ngải được quay toàn cảnh, đánh dấu từng lối, lấy mẫu đất, nước và cây. Phòng A Mã được giữ nguyên phần đồ vật có khả năng liên quan. Như bị tách riêng với cán bộ nữ. Trâm thật và Huy đều ở cơ sở y tế.
 
-Đủ để một người biết địa hình biến khỏi căn nhà mà không cần phép thuật.
+Quỳnh, Lan, Thi và Trung ở lại vì là nhân chứng trực tiếp, nhưng từ đây không ai được tự lục thêm thứ gì.
 
-Thi không cho ai dùng chữ “biến mất” theo nghĩa khác.
+Quỳnh thấy nhẹ hơn.
 
-— Hắn rời hiện trường. — cô nói. — Mình chưa biết bằng đường nào.
-
-Trung đáp:
-
-— Nghe đỡ ma hơn nhưng kết quả vẫn là không thấy người.
-
-— Mục tiêu là tìm, không phải đặt tên cho cảm giác.
+Có lúc quy trình khiến người ta sốt ruột. Có lúc chính nó là thứ duy nhất ngăn cả căn nhà biến thành nơi mỗi người tự chọn một đáp án rồi đi tìm vật chứng hợp với mình.
 
 ***
 
-Từ thời điểm đó, vỏ bọc kết thúc.
-
-Tổ phối hợp địa phương vào nhà chính thức.
-
-Khu gác có xác được niêm phong. Hầm Huyết Ngải được quay, đo, lấy mẫu. Căn phòng A Mã bị giữ nguyên phần đồ cá nhân có khả năng liên quan vụ án. Như bị tách khỏi nhóm, có cán bộ nữ giám sát. Trâm thật và Huy được đưa tới cơ sở y tế an toàn.
-
-Quỳnh, Lan, Thi, Trung ở lại vì đều là nhân chứng trực tiếp.
-
-Không ai được phép tự lục đồ nữa.
-
-Điều đó khiến Quỳnh thấy dễ chịu.
-
-Có những lúc sự hiện diện của quy trình chính là thứ làm người ta bớt sợ.
-
-***
-
-Mười giờ mười hai, một kỹ thuật viên lấy dấu trên chiếc bát A Hù dùng sáng hôm trước và chai rượu hắn cầm tối 18.
+Kỹ thuật viên lấy dấu ở những vật A Hù dùng thường xuyên: bát ăn, chai rượu, cốc nước, tay nắm trong phòng. Không phải dấu nào cũng dùng được. Một cái bát có quá nhiều vết chồng. Cốc nước bị người khác chạm. Cuối cùng hai dấu trên thân chai rượu tối hôm trước đủ rõ để gửi đối chiếu sơ bộ.
 
 Thi nói với Quỳnh:
 
@@ -56,590 +34,412 @@ Thi nói với Quỳnh:
 
 — Bao lâu?
 
-— Nếu mẫu dùng được, không lâu để so sơ bộ.
-
-— Còn xác trên gác?
-
-— Có thể lấy mẫu ADN so với A Mã. Nếu là con ruột, có cơ sở xác định đó mới là A Hù thật. Nhưng không có kết quả ngay.
+— Có mẫu tốt thì nhanh hơn ADN. Nhưng chưa có kết quả thì vẫn là chưa có.
 
 Quỳnh gật.
 
-Nó nhìn căn phòng A Hù.
+Nó nhìn về căn phòng A Hù đã ngủ mấy ngày qua. Khuôn mặt hắn có thể là giả. Giọng nói có thể luyện. Tên có thể lấy của người chết.
 
-Hắn đã rời đi.
-
-Nhưng lần đầu tiên, việc hắn có khuôn mặt nào không còn quan trọng bằng thứ hắn để lại trên một cái chén.
+Nhưng một cái chai rượu thì không quan tâm hắn muốn được gọi là ai.
 
 ***
 
-Huy được truyền dịch ở một phòng riêng tại điểm y tế.
+Huy được truyền dịch trong phòng nhỏ ở trạm y tế. Bác sĩ cho anh ăn từng ít một, nghỉ giữa các lần. Khi Quỳnh vào, Trung đang đặt bát cháo xuống bàn.
 
-Trung mang cho anh cháo trắng.
+Huy nhìn nó bằng vẻ trang trọng quá mức.
 
-Huy nhìn bát cháo như người vừa được trao giải thưởng quốc gia.
+— Tôi xin lỗi tất cả những lần từng chê cháo bệnh viện.
 
-— Tôi xin rút lại mọi lời từng chê đồ ăn bệnh viện.
+— Ăn chậm. — Trung nói.
 
-Trung kéo ghế.
+— Tôi bị nhốt chứ không mất não.
 
-— Anh ăn chậm.
+Huy ăn được vài thìa rồi tự đặt xuống.
 
-— Tôi bị nhốt chứ không bị mất não.
+— Ờ. Não vẫn còn nhưng dạ dày phản đối.
 
-Huy ăn được ba thìa rồi tự dừng.
+Quỳnh kéo ghế ngồi đối diện.
 
-— Ờ, đúng là nên chậm.
+— Hôm qua anh mới kể đêm đầu. Tôi muốn hỏi tiếp về A Hù. Chỉ phần anh chắc.
 
-Quỳnh ngồi đối diện.
+Huy nhìn nó một lúc.
 
-— Tôi cần anh kể lại A Hù.
+— Cô hỏi giống công an hơn mấy người làm báo tôi biết.
 
-Huy nhìn nó.
+— Anh quen sai người.
 
-— Từ đâu?
+Huy dựa đầu vào tường.
 
-— Từ lần đầu nghi hắn không phải người trong giấy tờ.
+— Tôi nghi hắn ngay từ ngày đầu, nhưng lúc đó chỉ vì hắn biết quá nhiều. Không phải vì mặt.
 
-Huy tựa đầu vào tường.
+— Khi nào anh biết mặt không phải của hắn?
 
-Mặt mệt.
+— Khoảng hơn một tháng sau khi bị nhốt.
 
-— Tôi nghi ngay ngày gặp. Không phải vì mặt. Vì hắn biết quá nhiều về tôi. Đọc Ma Kí Sự, biết Chợ Âm, biết cuộn băng dù tôi chưa từng công khai.
+Giọng Huy mất hẳn vẻ đùa.
 
-— Cuộn băng?
+Một hôm A Hù xuống hầm trong trạng thái sốt, phần da gần tai bong mép. Hắn chửi A Mã vì lớp mặt không giữ được. Trước mặt Huy, hắn dùng một thứ dầu làm mềm rồi kéo phần vật liệu khỏi thái dương và hàm.
 
-— Chuyện dài.
+— Bên dưới là người khác. — Huy nói. — Nhiều sẹo, nhất là một bên mặt. Tôi không biết là ai. Cũng không có lý do gì để biết.
 
-— Tôi có thời gian.
+— Hắn tự nói tên?
 
-— Cô ở Hồng Ngài đó. Không, cô không có.
+— Không lúc đó.
 
-Quỳnh không cười.
+— Vậy anh lấy tên Tùng ở đâu?
 
-Huy thở ra.
+Huy nhìn xuống bát cháo.
 
-— Sau khi bắt tôi, khoảng hơn một tháng hắn tháo lớp mặt trước mặt tôi. Không phải ngày nào cũng mang. Phía dưới là gương mặt có sẹo rất nặng, nhất là một bên thái dương và hàm. Tôi không biết hắn là ai. Chỉ biết hắn nói mình từng “chết một lần rồi”.
+— Như.
 
-— Anh nghe tên Tùng khi nào?
+Quỳnh ngẩng lên.
 
-— Như gọi.
+— Như đã ở đây?
 
-Quỳnh ngước.
+— Có. Phần lớn thời gian tôi chỉ thấy cô ta bằng mặt Trâm hoặc nghe giọng. Một lần hai người cãi nhau ở ngoài hầm. Như hét “Tùng”. Hắn đánh cô ta ngã. Sau đó vài ngày A Mã có một khoảng tỉnh, mang than xuống rồi viết lên tường gần cửa phòng tôi.
 
-— Như đã ở đây lúc đó?
+Huy dùng ngón trỏ viết lên mặt bàn:
 
-— Có. Tôi không thấy mặt thật vì phần lớn lúc đó cô ta mang mặt Trâm. Nhưng một lần họ cãi dưới hầm, Như hét “Tùng”. Hắn đánh cô ta ngất.
+**NGUYỄN HOÀNG THANH TÙNG**
 
-— Anh có biết Nguyễn Hoàng Thanh Tùng là ai trước đó không?
+— Tôi học thuộc rồi xóa trước khi hắn quay lại.
 
-— Không. Tôi tìm trong đầu hoài cũng không. Sau này A Mã lúc tỉnh lén viết tên đầy đủ lên tường cho tôi.
+— Anh biết cái tên đó là ai không?
 
-Huy dùng ngón tay viết trên ga giường:
+— Không. Không mạng, không hồ sơ. Với tôi lúc ấy chỉ là một cái tên dài hơn “A Hù”.
 
-NGUYỄN HOÀNG THANH TÙNG.
+Quỳnh ngồi yên.
 
-— Tôi chưa có Internet để tra. Nên với tôi, đó chỉ là tên.
+Vậy Huy có một cái tên nhưng không có P201.
 
-Quỳnh im.
+Còn nó có P201 nhưng cho tới lúc này vẫn chỉ có một gương mặt giả, một vết sẹo và quá nhiều trùng hợp.
 
-Tức là Huy biết tên, nhưng không có ký ức P201 để gắn con người.
+Thi bước vào đúng lúc ấy.
 
-Còn Quỳnh có.
-
-***
-
-— Vết sẹo trên lưng. — Quỳnh nói.
-
-Huy gật.
-
-— Tôi có ảnh.
-
-— Tùng bị Trâm đâm năm 2012 ở đúng vị trí đó.
-
-— Có thể trùng.
-
-— Vai trái hắn cao hơn. Tùng cũng vậy sau chấn thương, ít nhất trong những tháng cuối trước khi trốn.
-
-— Có thể do sẹo.
-
-— Hắn biết Trang.
-
-Huy dừng.
-
-— Cái đó tôi chưa biết.
-
-Quỳnh kể giấc mơ.
-
-Không dùng làm chứng cứ.
-
-Chỉ kể.
-
-Huy nghe xong nói:
-
-— Tôi không biết mơ của cô có giá trị gì. Nhưng nếu cần thêm cái không pháp lý: lúc sốt, hắn nói tên Trang nhiều lần.
-
-Quỳnh nhìn.
-
-— Anh chắc?
-
-— Chắc. “Trang đừng đi.” “Trang nghe anh.” Kiểu vậy.
-
-Ngực Quỳnh nặng xuống.
-
-Nó vẫn không kết luận.
-
-— Tôi cần dấu tay.
-
-Huy cười rất nhẹ.
-
-— Tôi thích cô rồi đó.
-
-— Anh đừng làm mất giá câu đó.
+— Tiếp đi. Kết quả chưa về.
 
 ***
 
-Mười một giờ, Lan vào.
+Quỳnh kể cho Huy phần của mình: Trâm từng đâm Tùng từ phía sau năm 2012, vùng sau vai trái. Trung nhìn thấy A Hù có sẹo cũ đúng vùng đó. Hồ sơ y tế cũ cho thấy vị trí tổn thương tương ứng.
 
-Chiếc chuông A Mã nằm trong túi niêm phong tạm thời nhưng được ghi là vật A Mã trao trước khi chết; dưới giám sát, Lan được phép quan sát lại các ký hiệu trong sổ của ông.
+Huy nghe rồi nói:
 
-Huy nhìn cô.
+— Rất đáng nghi.
 
-— Cô là Lan?
+— Nhưng chưa phải định danh.
 
 — Ừ.
 
-— A Mã gọi cô là “sư muội” chưa?
+Quỳnh hơi bất ngờ.
 
-Lan cau mày.
+Huy nhún vai rất nhẹ.
 
-— Chưa trực tiếp.
+— Tôi bị nhốt bốn tháng bởi một người thay mặt. Sau vụ đó tôi càng ít tin mặt.
 
-— Vậy sớm muộn.
+— Anh còn gì liên quan P201 không?
 
-— Anh biết gì?
+Huy nghĩ lâu.
 
-— A Mã từng nói thầy cô là người Thái tên Somchai.
+— Có một cái tên hắn nói lúc mê sốt. Trang.
 
-Lan đứng im.
+Ngực Quỳnh nặng xuống.
 
-— Ông biết thầy tôi?
+— Anh chắc nghe đúng?
 
-— Không chỉ biết.
+— Tôi nghe vài lần. Nhưng người sốt nói linh tinh. Đừng lấy nó thay vân tay.
 
-Huy chỉ mảnh ký hiệu Huyền Môn trong sổ.
+Quỳnh gật.
 
-— Cùng một dòng.
+— Tôi cũng không định.
 
-Lan kéo ghế.
+Huy cười mệt.
 
-— Kể.
-
-Huy nhìn Quỳnh.
-
-— Hai người đúng là bạn.
+— Vậy chúng ta hợp nhau hơn tôi tưởng.
 
 ***
 
-Câu chuyện A Mã không được kể trong một đoạn liền.
+Lan vào sau đó với vài ảnh chụp sổ A Mã đã được tổ điều tra cho phép sao lại những trang liên quan. Chiếc chuông vẫn nằm trong túi vật chứng riêng.
 
-Nó được ghép từ lời Huy, những gì Lan thấy qua chuông và sổ tay thu được.
+Huy nhận ra ký hiệu ba đường cong ở góc một trang.
 
-Cuối tháng 12 năm 2012, A Mã và A Hù thật đi lấy dược liệu gần một con suối sau mưa lớn. Họ thấy một người đàn ông trẻ bị thương mắc ở bờ đá.
+— A Mã từng nói cái này liên quan Huyền Môn.
 
-Tùng.
+Lan ngồi xuống.
 
-A Mã cứu.
+— Ông có nhắc Somchai không?
 
-Không vì biết hắn là ai.
+— Có vài lần. Không kể rõ quan hệ. Chỉ bảo “thằng Somchai vẫn thích giấu học trò”.
 
-Chỉ vì hắn còn thở.
+Lan im một nhịp.
 
-Trong những tuần sau, Tùng kể một phiên bản quá khứ khác: bị truy đuổi oan, không còn nhà, không muốn quay về. A Mã lúc ấy đang nghiên cứu một hệ huyền thuật liên quan “mạch” của người sống và khả năng chịu tác động của ngải.
+— Nghe giống thầy tao.
 
-Tùng trở thành người ở nhờ.
+Thi ngồi cạnh bàn.
 
-Rồi thành vật thử.
+— Đừng mở thêm nhánh gia phả huyền thuật lúc này. Cái gì liên quan trực tiếp A Mã với Tùng trước.
 
-Huy nói:
+Lan gật. Chính nó cũng không muốn biến một cái tên quen thành đáp án cho mọi ký hiệu.
 
-— Phần này A Mã không phải người tốt.
+Những gì họ ghép được về A Mã không đến từ một bài kể hoàn chỉnh. Một phần nằm trong sổ, một phần Huy nghe được khi bị giam, phần khác khớp với giấy tờ nhà trọ và giao dịch thu được từ Chợ Âm.
 
-Không ai phản đối.
+Cuối tháng 12 năm 2012, A Mã và người con trai thật đi lấy dược liệu gần một con suối sau mưa. Họ tìm thấy một người trẻ bị thương nặng ở bờ thấp.
 
-Sổ của ông ghi rất lạnh:
+Tên người đó chưa có trong trang ghi đầu tiên. A Mã chỉ viết:
 
-“Thử nghiệm lần 7: sốt 39, co giật, vẫn tỉnh.”
+**“Nam trẻ. Chấn thương nặng. Mạch lạ. Giữ theo dõi.”**
+
+Không phải một câu cứu người đẹp đẽ.
+
+A Mã cứu vì người kia còn thở, nhưng đồng thời nhìn thấy một cơ thể đáng nghiên cứu.
+
+Những trang sau dùng ký hiệu **T.**
+
+“Lần 7: sốt cao, co giật, vẫn tỉnh.”
 
 “Lần 11: phản kháng mạnh.”
 
-“Lần 16: trí nhớ không suy giảm.”
+“Lần 16: trí nhớ không giảm.”
 
-Không có tên Tùng.
+Quỳnh đọc mà thấy lạnh tay.
 
-Chỉ ký hiệu T.
+Huy nói:
 
-A Mã cứu một người rồi tra tấn người đó bằng lý do nghiên cứu.
+— Đừng biến A Mã thành ông thầy tốt bụng bị phản. Ổng cứu tôi. Ổng cũng làm những chuyện rất tệ với người khác trước đó.
 
-Không việc nào xóa việc nào.
+Lan gập trang lại.
 
-Quỳnh nói:
+— Tùng học hệ này vì bị thử trên chính người hắn.
 
-— Thế nên Tùng học được từ ông.
+— Một phần. — Huy nói. — Sau đó hắn đọc sổ, quan sát cách A Mã làm, tự thử lại. Người bị nhốt lâu có thể học rất nhanh cấu trúc cái khóa.
 
-Lan gật.
+Không ai nói việc bị tra tấn biến Tùng thành kẻ vô tội.
 
-— Bị làm trên người đủ lâu, hắn biết quy trình. Sau đó lén đọc sổ.
-
-Huy bổ sung:
-
-— A Hù thật là người duy nhất A Mã muốn truyền bài bản. Tùng ghét nó vì chuyện đó.
+Nó chỉ giải thích hắn đã học bằng cách nào.
 
 ***
 
-Khoảng năm 2016, A Mã tìm thấy Huyết Ngải.
-
-Không phải “cây thần của người Mông”.
-
-Sổ ghi rõ ông mua thông tin từ một mạng lưới buôn đồ tà thuật qua nhiều tỉnh.
+Khoảng năm 2016, những ghi chép đầu tiên về Huyết Ngải xuất hiện. Không có dòng nào nói đây là cây của người Mông hay phong tục Hồng Ngài. Ngược lại, A Mã ghi rõ mua thông tin qua một mạng lưới môi giới tà thuật trải nhiều tỉnh.
 
 Chợ Âm.
 
-Ông đưa A Hù và Tùng tới Hồng Ngài vì khu nhà tách biệt, khí hậu phù hợp với thứ cây ông nuôi và có các hầm cũ dưới nền.
+Sau đó ba người chuyển tới nhà Pá Tra vì căn nhà tách biệt, có hầm cũ và khí hậu phù hợp để nuôi cây.
 
-Từ đó sổ bắt đầu thiếu trang.
+Từ giai đoạn này sổ bắt đầu bất thường. Một số trang bị xé. Có đoạn nét chữ thay đổi. Có chỗ ký hiệu bị sửa đè.
 
-Có trang bị xé.
+Huy nói:
 
-Có đoạn chữ khác nét.
+— Tôi không biết Tùng sửa hay A Mã viết lúc bị điều khiển. Đừng tin mọi trang như cùng một người viết trong cùng trạng thái.
 
-Lan nói:
+Lan gật.
 
-— Tùng đã sửa sổ.
+Hai năm trước, hồ sơ hành chính của A Hù thật gần như dừng. Không khám bệnh mới. Không ảnh giấy tờ mới. Không giao dịch đáng kể đứng tên anh ta.
 
-Huy gật.
+Cùng thời gian ấy, theo lời một số người sống quanh nhà, “A Hù” bắt đầu thay đổi tính cách.
 
-— Hoặc A Mã lúc bị điều khiển tự viết. Không biết.
+Và trên gác nhà Pá Tra hiện có một thi thể nam bị lấy da mặt, ADN đang được đối chiếu với A Mã.
 
-Hai năm trước hiện tại, khoảng 2017, A Hù thật biến mất.
+Từng mảnh tự kéo về một điểm.
 
-Cùng lúc “A Hù” bắt đầu thay đổi tính cách.
-
-Không còn hồ sơ hành chính mới.
-
-A Mã mất dần khả năng tự chủ.
-
-Tất cả khớp với xác không mặt trên gác.
+Nhưng Quỳnh vẫn chờ cái chai rượu.
 
 ***
 
-Mười một giờ bốn mươi sáu, điện thoại Thi rung.
+Điện thoại Thi rung lúc gần trưa.
 
-Cô đọc tin.
+Cô đọc tin nhắn hai lần rồi đặt máy xuống.
 
-Không nói ngay.
+Quỳnh đứng lên ngay.
 
-Quỳnh đứng lên.
+— Dấu tay?
 
-— Khớp?
+Thi gật.
 
-Thi nhìn nó.
+— Hai dấu đủ chất lượng trên chai rượu. So sơ bộ trùng với bộ vân tay của Nguyễn Hoàng Thanh Tùng trong hồ sơ năm 2012.
 
-— Hai dấu trên chai rượu đủ chất lượng so sơ bộ.
+Không ai nói trong vài giây.
 
-— Và?
+Máy truyền dịch của Huy vẫn nhỏ từng giọt đều đặn.
 
-— Trùng hồ sơ vân tay Nguyễn Hoàng Thanh Tùng năm 2012.
+Ngoài cửa sổ có tiếng người gọi nhau chuyển một thùng thuốc.
 
-Căn phòng im.
+Chỉ vậy.
 
-Không có nhạc.
+Quỳnh từng nghĩ nếu có ngày Tùng quay lại, khoảnh khắc nhận ra hắn sẽ phải dữ dội hơn. Nhưng cuối cùng thứ khóa danh tính hắn không phải ma báo, không phải một vết sẹo hay ký ức Lan nhìn thấy.
 
-Không có sấm.
+Chỉ là hai đường vân còn sót trên một chai rượu.
 
-Chỉ tiếng máy truyền dịch của Huy nhỏ giọt đều.
+Thi nói:
 
-Quỳnh nhắm mắt một giây.
+— Từ giờ có căn cứ xác định người sử dụng danh tính A Hù là Nguyễn Hoàng Thanh Tùng.
 
-Khi mở lại, nó nói:
+Quỳnh nhìn cô.
 
 — A Hù là Tùng.
 
-Lần này không phải giấc mơ.
-
-Không phải linh cảm.
-
-Không phải Lan kể ký ức.
-
-Một cái chai rượu đã nói thay tất cả.
+Lần này Thi không sửa câu ấy.
 
 ***
 
-Thi lập tức chuyển mức cảnh báo.
+Việc xác định được tên không làm mọi chuyện dễ hơn. Nó chỉ thay đổi loại nguy hiểm họ đang đối mặt.
 
-Tùng không còn là “người cần xác minh”.
+Khải yêu cầu không ai tự truy đuổi vào rừng. Các lối ra biết được quanh khu vực được chốt kín hơn, người địa phương được cảnh báo theo lý do tìm nghi phạm liên quan án mạng, không nhắc tà thuật.
 
-Hắn là đối tượng truy nã đã được coi chết suốt bảy năm, hiện liên quan trực tiếp ít nhất các hành vi bắt giữ người, che giấu thi thể, có dấu hiệu giết người và nhiều vụ án khác.
+Mệnh lệnh tiếp theo là xác định Tùng còn cần gì.
 
-Khải gửi chỉ thị:
+Lan lấy mẩu gỗ A Mã từng đưa: năm vòng tròn, bốn vòng tô đen, một vòng trắng.
 
-“Không tự truy bắt trong rừng. Khóa các lối ra biết được. Ưu tiên tìm Như có hợp tác không. Xác định mục tiêu tiếp theo của Tùng.”
+Huy nhìn thấy thì nét mặt đổi.
 
-Quỳnh hỏi:
+— Tôi từng thấy hình này dưới hầm.
 
-— Mục tiêu tiếp theo?
+— Ý nghĩa? — Thi hỏi.
 
-Lan lấy mẩu gỗ năm vòng.
+— Tùng gọi là “năm sinh khí”. Tôi không biết định nghĩa đầy đủ. Chỉ nghe vài lần khi hắn với A Mã cãi nhau.
 
-Bốn vòng đen.
+— Tên người?
 
-Một vòng trắng.
-
-— Năm.
-
-Huy nhìn thấy.
-
-Mặt anh thay đổi.
-
-— Cái đó ở đâu?
-
-— A Mã đưa. — Lan nói.
-
-Huy chống tay ngồi thẳng hơn.
-
-— Tôi từng thấy hình giống vậy dưới hầm. Năm bát. Tùng gọi là “năm sinh khí”.
-
-Quỳnh hỏi:
-
-— Là gì?
-
-— Không biết đầy đủ. Hắn không giải thích cho tôi.
-
-— Anh nghe tên ai chưa?
-
-Huy nhắm mắt nhớ.
-
-— A Hù.
-
-Một.
-
-— A Mã.
-
-Hai.
-
-— Bà già ở chợ.
-
-Ba.
-
-Lan lạnh mặt.
-
-— Còn?
-
-— Có một ông thầy làm lễ cho người quanh vùng. Tôi không biết tên.
-
-Bốn.
-
-Quỳnh nhìn vòng trắng.
-
-— Người thứ năm chưa có.
-
-Huy không trả lời.
-
-Mắt anh chuyển sang Lan.
-
-— Ban đầu hắn giữ tôi vì nghĩ mạch của tôi dùng được.
-
-Lan nhìn lại.
-
-— Sau đó?
-
-— Sau khi biết tôi có hai mạch, hắn không chắc. Hắn nói “hàng lỗi đôi khi quý hơn hàng chuẩn”.
-
-Huy cười khô.
-
-— Tôi chưa từng được khen theo cách khó chịu vậy.
-
-Thi hỏi:
-
-— Hắn có nhắc Lan?
-
-— Khi mọi người tới đây, có.
-
-Huy nhìn Lan.
-
-— Hắn nói “con bé đó sạch hơn”.
-
-Không khí nặng xuống.
-
-Lan hiểu.
-
-Người thứ năm có thể là nó.
-
-***
-
-Như được hỏi dưới sự có mặt của cán bộ, không ép khi cơn đau xuất hiện.
-
-Khi nghe “năm sinh khí”, cô co tay.
-
-Không đau ngay.
-
-Thi hỏi:
-
-— Người thứ năm là Lan?
-
-Như thở nhanh.
-
-Vết đen sau tai nóng đỏ.
-
-Lan ra hiệu dừng.
-
-Như nghiến răng, tự nói trước khi cơn đau tăng:
-
-— Không... cố định.
-
-Thi không hỏi thêm tên.
-
-Như nhắm mắt.
-
-— Hắn cần... một người có mạch đủ mạnh. Lan tốt nhất. Huy dự phòng.
-
-— Mục đích? — Quỳnh hỏi.
-
-Như run.
-
-Không nói được.
-
-Một lúc sau, cô viết bằng tay:
-
-“ĐIỀU KHIỂN.”
-
-Rồi:
-
-“KHÔNG CHỈ NGƯỜI SỐNG.”
-
-Lan đọc.
-
-— Điều khiển linh thể.
-
-Như gật.
-
-— Huyết Ngải hoàn chỉnh... không tạo ma.
-
-Cô thở dốc.
-
-— Nó cho hắn... kéo cái đã có tới chỗ hắn muốn.
-
-Quỳnh nhớ khuôn mặt giống Ma Lai ở nghĩa địa.
-
-Huy đang ở phòng bên được đưa ảnh Quỳnh chụp mờ từ ngày đầu.
-
-Anh nhìn rất lâu.
-
-— Không phải Ma Lai thật tôi từng gặp.
-
-— Vì sao? — Quỳnh hỏi.
-
-— Thứ tôi gặp ở Mẫu Sơn có vật chủ sống và để lại dấu vật lý. Cái này giống hình ảnh người dựng từ ký ức về Ma Lai hơn.
-
-— Huyết Ngải?
-
-— Có thể.
-
-Huy nhìn Lan.
-
-— Nếu Tùng có thể kéo hình ảnh hoặc linh thể theo trí nhớ của người chứng kiến, hắn không cần nuôi cả sở thú ma quỷ.
-
-Lan hiểu ngay.
-
-— Mọi thứ trong rừng có thể cùng một nguồn.
-
-Đó là lúc Án Hồng Ngài bớt đi hàng chục con quỷ.
-
-Và chỉ còn một hệ thống đáng sợ hơn:
-
-Tùng.
-
-Huyết Ngải.
-
-Và những thứ hắn có thể gọi tới bằng nỗi sợ của người khác.
-
-***
-
-Chiều cùng ngày, kết quả sơ bộ khác gửi về.
-
-ADN từ thi thể trên gác có quan hệ cha-con với mẫu A Mã.
-
-Không phải định danh tuyệt đối nếu thiếu mẫu đối chiếu riêng của A Hù.
-
-Nhưng đủ mạnh để xác lập:
-
-người bị lấy mặt rất có khả năng là con ruột A Mã.
+Huy nhớ từng cái.
 
 A Hù thật.
 
-Quỳnh nhìn ảnh thi thể.
+A Mã.
 
-Hai năm nằm trên gác ngay phía trên căn nhà nơi Tùng mang mặt anh ta sống như con trai của chính cha nạn nhân.
+Một bà già ở chợ.
 
-Không phải ma quỷ nào nghĩ ra hình phạt đó.
+Một người đàn ông làm lễ quanh vùng.
 
-Một người đã làm.
+Bốn.
+
+— Người thứ năm?
+
+— Tôi chưa nghe tên cố định.
+
+Lan nhìn vòng trắng.
+
+Huy nói thêm:
+
+— Ban đầu hắn nghĩ tôi dùng được cho việc gì đó. Sau khi biết tôi có hai mạch thì không chắc nữa.
+
+— Còn tao? — Lan hỏi.
+
+Huy nhìn cô.
+
+— Sau khi mọi người tới, tôi nghe hắn nói “con bé đó sạch hơn”. Không nghe tên, nhưng tôi đoán là cô vì A Mã từng nói về mạch của cô.
+
+Lan không nói gì.
+
+Thi không cho phép chữ “người thứ năm là Lan” được ghi như kết luận. Trên tờ giấy cô chỉ viết:
+
+**“Mục tiêu thứ năm chưa xác định. Lan/Huy có khả năng bị nhắm tới theo lời Huy.”**
+
+Quỳnh thấy cách viết ấy đúng.
+
+Nỗi sợ không cần được giúp bằng dấu chấm than.
 
 ***
 
-Trước khi trời tối, Quỳnh trở lại phòng A Hù dưới sự giám sát để kiểm tra đồ vật đã được ghi nhận.
+Như được hỏi trong phòng riêng, có cán bộ và nhân viên y tế. Khi câu hỏi chạm tới “năm sinh khí”, vết đen sau tai bắt đầu sẫm. Thi dừng ngay trước khi cơn đau tăng.
 
-Trong đáy một hộp gỗ, kỹ thuật viên tìm thấy một bức ảnh cũ.
+Như tự nói từng đoạn ngắn, giữa các lần thở:
+
+— Không cố định người thứ năm.
+
+— Lan?
+
+Như nhắm mắt.
+
+— Tốt nhất.
+
+— Huy?
+
+— Dự phòng.
+
+Lan ra hiệu không hỏi tiếp khi mạch Như tăng nhanh.
+
+Như lấy giấy tự viết:
+
+**“ĐỂ ĐIỀU KHIỂN.”**
+
+Dòng dưới:
+
+**“KHÔNG CHỈ NGƯỜI SỐNG.”**
+
+Quỳnh nhìn Lan.
+
+Lan không nói “điều khiển linh hồn” ngay. Nó chỉ đáp:
+
+— Chưa biết chính xác thứ gì bị điều khiển. Trong sổ A Mã dùng mấy từ khác nhau: dấu, ảnh, mạch, vật dẫn.
+
+Huy được cho xem tấm ảnh mờ Quỳnh từng chụp thứ giống Ma Lai ngoài rừng.
+
+Anh nhìn lâu.
+
+— Tôi không dám bảo đây là cùng loại với thứ ở Mẫu Sơn. Con tôi gặp ở đó có vật chủ sống và dấu vật lý rõ. Cái này có thể chỉ đang bắt chước hình ảnh người nhìn sợ.
+
+— Huyết Ngải? — Quỳnh hỏi.
+
+— Có thể.
+
+Lần này không ai khó chịu với từ ấy.
+
+Nó là câu trả lời chính xác nhất họ có.
+
+***
+
+Chiều cùng ngày, kết quả ADN sơ bộ từ thi thể trên gác về.
+
+Mẫu có quan hệ cha-con với A Mã ở mức rất cao.
+
+Không có mẫu riêng của A Hù thật để gọi đó là định danh tuyệt đối. Nhưng kết hợp hồ sơ gia đình, độ tuổi, thời điểm biến mất và việc thi thể nằm trong chính nhà A Mã, cơ sở để coi người chết là A Hù thật đã rất mạnh.
+
+Quỳnh nhìn ảnh hiện trường đã được làm mờ phần mặt.
+
+Hai năm nằm trên gác.
+
+Bên dưới, Tùng sống bằng tên của anh ta và để A Mã gọi mình là con trong những ngày ông còn nhớ, rồi lại quên.
+
+Không cần thêm ma nào để làm chuyện đó đáng sợ hơn.
+
+***
+
+Trong phòng A Hù, kỹ thuật viên tìm thấy một tấm ảnh cũ dưới đáy hộp gỗ.
 
 Lê Thị Yến Trang.
 
-Không phải nửa ảnh P201.
+Không phải tấm ảnh P201 từng tìm được. Trang đứng trước lớp học, quay sang người chụp và cười. Mặt sau có một dòng chữ:
 
-Một tấm khác.
+**“15/9 — lần này em sẽ nghe anh.”**
 
-Trang đứng trước lớp học, cười về phía người chụp.
+Không ngày viết. Không ký tên.
 
-Mặt sau có chữ:
+Quỳnh chỉ được nhìn tại chỗ.
 
-“15/9 — lần này em sẽ nghe anh.”
+Nó không thấy lãng mạn.
 
-Không ngày viết.
+Bảy năm, một khuôn mặt khác, nhiều người chết, bao nhiêu thứ thay đổi — nhưng trong đầu Tùng vẫn còn cái cách cũ: gọi việc muốn một người phải nghe mình là yêu.
 
-Không ký tên.
+Điện thoại Thi rung ở cửa.
 
-Nhưng nét chữ Quỳnh đã thấy trong thư Tùng năm 2007.
+Cô đọc rồi ngẩng lên.
 
-Nó không cần mang đi.
+— Tìm thấy người làm lễ mất tích hai hôm trước.
 
-Chỉ nhìn.
+Lan quay lại.
 
-Bảy năm sống dưới khuôn mặt người khác.
+— Còn sống không?
 
-Bảy năm học bùa, ngải, giết người.
+Thi lắc đầu.
 
-Tùng vẫn giữ ảnh Trang.
+Thi thể được phát hiện gần khu nghĩa địa. Lòng bàn tay có vết cháy đen giống mô tả trong sổ A Mã về một cách “đóng dấu”. Danh tính ban đầu là Pao Sử, người vẫn làm lễ thuê cho vài bản quanh vùng.
 
-Quỳnh không thấy lãng mạn.
+A Hù thật.
 
-Chỉ thấy lạnh.
+A Mã.
 
-Có những người gọi chiếm hữu là yêu đủ lâu đến mức chính họ cũng tin.
+Bà Cầm ở chợ.
 
-Điện thoại Thi rung phía cửa.
+Pao Sử.
 
-Cô đọc.
+Bốn cái tên đã có người chết đứng sau.
 
-— Có thêm một xác.
-
-Mọi người quay lại.
-
-— Ai? — Trung hỏi.
-
-Thi nhìn Lan.
-
-— Một người làm lễ tự do quanh vùng. Mất tích hai ngày. Vừa tìm thấy gần khu nghĩa địa.
-
-Cô hạ điện thoại.
-
-— Lòng bàn tay có vết cháy đen.
-
-Vòng thứ tư đã có tên.
+Vòng thứ năm trên mẩu gỗ vẫn trắng.
