@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#0d0d0f">
+  <title>Âm Dương Kí Wiki</title>
+  <link rel="stylesheet" href="wiki.css?v=1">
+</head>
+<body>
+  <header class="topbar">
+    <a class="back" href="../">← Truyện</a>
+    <div class="top-actions">
+      <button id="spoilerToggle" class="chip active" type="button">Spoiler: Bật</button>
+      <button id="themeToggle" class="icon-button" type="button" aria-label="Đổi giao diện">◐</button>
+    </div>
+  </header>
+
+  <main class="shell">
+    <section class="hero">
+      <p class="eyebrow">ÂM DƯƠNG KÍ · ARCHIVE</p>
+      <h1>Wiki Vũ Trụ</h1>
+      <p class="hero-copy">Nhân vật, tổ chức, hiện tượng, vật phẩm và những hồ sơ nhỏ nằm giữa các chương truyện.</p>
+      <div class="search-wrap">
+        <input id="searchInput" type="search" placeholder="Tìm Huy, P201, Huyết Ngải, Chợ Âm…" autocomplete="off">
+      </div>
+      <div id="seriesTabs" class="tabs"></div>
+      <div id="typeTabs" class="tabs secondary"></div>
+    </section>
+
+    <section id="stats" class="stats"></section>
+    <section id="grid" class="wiki-grid"></section>
+    <article id="detail" class="detail hidden"></article>
+  </main>
+
+  <script src="wiki.js?v=1"></script>
+</body>
+</html>
