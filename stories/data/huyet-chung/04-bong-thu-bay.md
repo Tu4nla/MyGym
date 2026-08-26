@@ -348,21 +348,19 @@ Trung bỏ vào túi quần.
 
 Khải rời đi.
 
-Đêm Hà Nội tháng Một lạnh và khô. Từ tầng cao vẫn nghe tiếng xe dưới đường kéo thành một lớp âm thanh đều. Trung để đèn ngủ sáng, đặt điện thoại ghi âm trên bàn cạnh giường rồi ghi vào ứng dụng note đúng một dòng: **01:52 — tỉnh, chưa có triệu chứng.**
+Đêm Hà Nội tháng Một lạnh và khô. Từ tầng cao vẫn nghe tiếng xe dưới đường kéo thành một lớp âm thanh đều. Trung để đèn ngủ sáng, đặt điện thoại ghi âm trên bàn cạnh giường rồi ghi vào ứng dụng note đúng một dòng: **02:52 — tỉnh, chưa có triệu chứng.**
 
 Hắn không muốn sáng mai lại phải tranh luận với chính trí nhớ của mình mà không có bất kỳ mốc nào.
 
-02:07, Trung vẫn chưa ngủ.
+03:07, Trung vẫn chưa ngủ.
 
-02:08, hắn đứng dậy uống nước. Khi đi ngang cửa kính tối, Trung thoáng thấy phản chiếu của mình dừng chậm hơn nửa nhịp.
+03:08, hắn đứng dậy uống nước. Khi đi ngang cửa kính tối, Trung thoáng thấy phản chiếu của mình dừng chậm hơn nửa nhịp. Hắn khựng lại. Trong một khoảnh khắc rất ngắn, khóe miệng trong kính dường như vẫn cong lên dù mặt hắn đã cứng lại.
 
-Hắn đứng lại.
+Trung không nhìn tiếp. Hắn lấy điện thoại, bật camera hướng vào cửa sổ.
 
-Không nhìn tiếp vào kính. Trung lấy điện thoại, bật camera hướng vào cửa sổ.
+Trên màn hình chỉ có hắn và căn phòng. Không nụ cười nào khác.
 
-Trên màn hình chỉ có hắn và căn phòng.
-
-— 02:09. — Trung nói vào bản ghi. — Có cảm giác hình phản chiếu lệch nhịp. Camera không thấy gì khác.
+— 03:09. — Trung nói vào bản ghi. — Có cảm giác phản chiếu lệch nhịp, như đang cười. Camera không thấy gì khác.
 
 Hắn vừa nói xong thì điện trong phòng tắt.
 
@@ -380,15 +378,13 @@ Trung không đi tìm.
 
 Hắn bấm nút.
 
-Trong vài giây chờ đội ngoài phá khóa khẩn cấp, nhiều giọng nói chồng lên nhau rất sát tai. Trung không nhận ra ai, cũng không chắc có bao nhiêu. Đến lần cuối, hắn có cảm giác khoảng năm giọng cùng gọi một từ duy nhất:
+Trong lúc chờ đội ngoài mở cửa khẩn cấp, nhiều giọng nói chồng lên nhau rất sát tai. Trung không nhận ra ai, cũng không chắc có bao nhiêu. Đến lần cuối, hắn có cảm giác khoảng năm giọng cùng gọi một từ duy nhất:
 
 — Trung.
 
-Cửa ngoài rung mạnh.
+03:11, cửa ngoài bật mở. Đèn trong phòng sáng trở lại gần như cùng lúc.
 
-Đèn bật lại đúng lúc đội bảo vệ vào.
-
-Sau đó, khi nghe lại bản ghi âm đặt trên bàn, họ chỉ nghe được tiếng Trung nói mốc 02:09, một tiếng cạch rất nhỏ, rồi tiếng hắn thở nhanh trong bóng tối.
+Sau đó, khi nghe lại bản ghi âm đặt trên bàn, họ chỉ nghe được tiếng Trung nói mốc 03:09, một tiếng cạch rất nhỏ, rồi tiếng hắn thở nhanh trong bóng tối.
 
 Không có bước chân.
 
