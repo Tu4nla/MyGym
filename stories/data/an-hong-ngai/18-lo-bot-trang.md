@@ -292,8 +292,6 @@ Trâm hít vào một hơi rồi quay mặt sang bên. Nước mắt xuống tr�
 
 Quỳnh không nói Như đã được tha thứ. Nó cũng không nghĩ một mẩu giấy có thể xóa những lần Như từng giúp Tùng làm người khác tổn thương. Chỉ là giữa rất nhiều thứ đã bị lấy đi, trước lúc chết Như dường như vẫn còn nghĩ tới việc trả lại một thứ cho Trâm.
 
-Vậy là đủ để đau.
-
 ***
 
 Trâm ở lại điều trị thêm một thời gian. Cổ họng cần theo dõi, cơ thể thiếu dinh dưỡng sau thời gian bị giữ và cô còn nhiều việc phải tự quyết hơn bất kỳ người nào khác có thể quyết hộ.
@@ -312,7 +310,7 @@ Quỳnh gật.
 
 — Vậy tao về.
 
-Điện thoại Quỳnh rung đúng lúc đó. Hân gọi.
+Điện thoại Quỳnh rung. Hân gọi lại.
 
 Quỳnh nhìn tên trên màn hình rồi đưa máy cho Trâm.
 
@@ -360,15 +358,9 @@ Hân không trả lời ngay. Ở đầu dây bên kia có tiếng xe chạy, ti
 
 — Thì về đây đã. Đi đâu tính sau.
 
-Trâm nhắm mắt.
+Trâm nhắm mắt. Vai cô rung mạnh hơn.
 
-Lần này cô không giữ được nữa.
-
-Quỳnh quay mặt ra cửa sổ để bạn có vài giây không bị nhìn, nhưng chính mắt nó cũng nóng lên. Điều khiến nó muốn khóc không phải vì mọi thứ đã trở lại như cũ. Không gì có thể trở lại như cũ sau bảy năm.
-
-Chỉ là Trâm từng nghĩ mình đã mất luôn chỗ để quay về.
-
-Hóa ra chưa.
+Quỳnh quay mặt ra cửa sổ, nhưng chính mắt nó cũng nóng lên.
 
 Khi cuộc gọi kết thúc, Trâm lau mặt bằng tay áo rồi nói:
 
@@ -380,7 +372,7 @@ Quỳnh đưa khăn giấy.
 
 — Cút.
 
-Hai đứa cùng cười. Lần này tiếng cười đi ra cùng nước mắt nhưng không còn nghe giống một thứ gì đang vỡ.
+Hai đứa cùng cười, dù mắt vẫn còn đỏ.
 
 ***
 
@@ -438,23 +430,17 @@ Bảy năm trước, nó nghĩ đó là lời kết cho một vụ án.
 
 Bây giờ Quỳnh hiểu câu ấy không có nghĩa mọi thứ đều do con người tưởng tượng. Nó chỉ nhắc rằng dù thứ họ gặp là ma, ngải, hóa chất hay một điều chưa gọi được tên, cái ác vẫn cần một con người quyết định dùng nó để làm gì.
 
-Một luồng gió từ dưới thung lũng thổi lên. Giữa mùi đất ẩm, khói bếp và lá cây, Quỳnh thoáng ngửi thấy một mùi hoa nhài rất nhẹ.
+Một luồng gió từ dưới thung lũng thổi lên. Giữa mùi đất ẩm, khói bếp và lá cây, Quỳnh thoáng ngửi thấy mùi hoa nhài.
 
 Nó quay đầu theo phản xạ.
 
 Không có ai đứng sau.
 
-Quanh sân cũng không có bụi nhài nào Quỳnh nhìn thấy.
+Mùi hương ở lại một lúc rất ngắn rồi tan khi gió đổi.
 
-Mùi hương chỉ ở lại vài giây rồi tan khi gió đổi.
-
-Quỳnh không đi tìm nguồn của nó. Sau từng ấy năm, nó đã học được rằng không phải điều gì không giải thích được cũng cần bị đuổi tới tận cùng.
-
-Nó nhìn xuống con đường dẫn khỏi bản rồi nói rất khẽ:
+Quỳnh nhìn xuống con đường dẫn khỏi bản.
 
 — Tao về nha.
-
-Không rõ Quỳnh đang nói với ai.
 
 Nó đeo ba lô lên vai và đi vào trong thu xếp đồ. Lần này, rời Hồng Ngài không giống bỏ chạy khỏi một câu hỏi. Những gì Quỳnh cần làm ở đây đã làm xong.
 
