@@ -1,673 +1,439 @@
-Dấu bàn tay đen trên tường không phải máu.
+Dấu bàn tay đen trên tường vẫn còn nguyên tới sáng hôm sau.
 
-Cũng không phải sơn.
+Minh lấy mẫu bằng tăm bông, cạo một phần rất nhỏ ở mép rồi soi dưới đèn. Chất bám không giống máu khô hay sơn. Nó là một lớp bột cực mịn trộn với thứ gì đó có dầu, khi miết qua găng để lại mùi ngai ngái giống nhựa cây cháy.
 
-Minh lấy mẫu bằng tăm bông, soi đèn rồi nói:
+— Gửi cùng mẫu ở hầm và cái rễ đỏ. — Thi nói.
 
-— Dạng bột mịn bám dầu. Có thể than, nhựa cây, chất hữu cơ. Phải xét nghiệm.
+Minh gật.
 
-Lan nhìn ngón út bị bẻ vào trong.
+Lan đứng cách bức tường một khoảng. Hình bàn tay có đủ năm ngón, nhưng ngón út bị gập vào lòng. Trong sổ A Mã có một ký hiệu gần giống, bên cạnh chỉ ghi hai chữ **“đủ dấu”**. Còn mẩu gỗ ông để lại vẫn có bốn vòng sẫm và một vòng trắng.
 
-Trong sổ A Mã có một hình tương tự.
+Quỳnh nhìn hai thứ rồi nói:
 
-Năm ngón tay.
+— Nếu cái tay này nghĩa là đủ năm thì mẩu gỗ lại nói chưa đủ.
 
-Ngón út gập.
+— Hoặc mình đang hiểu sai một trong hai. — Lan đáp.
 
-Bên cạnh ghi hai chữ:
+Huy ngồi tựa cửa, sắc mặt vẫn nhợt sau mấy tháng bị giam.
 
-“Đủ dấu.”
+— Hoặc hắn cố tình để tụi mình hiểu theo cách đáng sợ nhất.
 
-Quỳnh nhìn mẩu gỗ năm vòng.
+Trung xoa gáy.
 
-Bốn vòng đen.
-
-Một vòng trắng.
-
-— Chưa đủ mà. — nó nói.
-
-Huy dựa cửa.
-
-— Có thể đây là lời báo trước.
-
-Trung hỏi:
-
-— Hoặc hắn đang bluff?
-
-Thi gật.
-
-— Cũng có thể.
-
-Một kẻ như Tùng hiểu giá trị của việc làm người khác tin hắn mạnh hơn thực tế.
-
-Không ai cho dấu tay quyền biến thành lời tiên tri.
-
-***
-
-Sáng 21 tháng 9, kế hoạch thay đổi.
-
-Nhà Pá Tra không còn an toàn.
-
-Điểm y tế cũng đã lộ vì Tùng chụp được ảnh Quỳnh trong vùng và có khả năng theo dõi người ra vào.
-
-Khải yêu cầu chuyển Huy, Trâm thật và Như về một điểm tạm giữ kín hơn dưới Bắc Yên, trong khi nhóm điều tra tiếp tục khóa các lối Tùng có thể dùng.
-
-Quỳnh không nằm trong lực lượng nên được yêu cầu rời cùng đoàn.
-
-Nó phản đối.
-
-Khải nói qua điện thoại:
-
-— Cô là mục tiêu của Tùng. Ở lại ngoài thực địa chỉ làm hắn có thêm lựa chọn.
-
-— Nhưng tôi biết hắn.
-
-— Cô biết phiên bản hắn bảy năm trước.
-
-— Và anh Quân?
-
-— Ở điểm khác, có người bảo vệ.
-
-— Tôi muốn nói với anh ấy.
-
-— Sau khi cô xuống nơi an toàn.
-
-Quỳnh ghét câu trả lời.
-
-Nhưng không thể nói nó sai.
-
-***
-
-Đoàn đi lúc gần mười giờ.
-
-Hai xe.
-
-Một xe chở Trâm, Như, nữ cán bộ và Minh.
-
-Xe còn lại Thi, Trung, Quỳnh, Lan, Huy cùng một lái xe địa phương biết đường.
-
-Huy yếu nhưng nhất quyết ngồi dậy nhìn ra ngoài.
-
-— Bốn tháng tôi không thấy đường. Đừng bắt nằm.
-
-Trung đưa cho anh cái gối tựa.
-
-— Anh đừng ngất lên người tôi là được.
-
-— Cậu đẹp trai không?
-
-— Tùy góc.
-
-— Vậy ngất lên Thi.
-
-Thi ngồi ghế trước quay lại.
-
-— Hai thằng im.
-
-Quỳnh bật cười.
-
-Sau ba ngày căng như dây, tiếng cười nghe gần như phạm luật.
-
-Nhưng người ta không thể sống liên tục trong cao trào.
-
-Cơ thể sẽ tự tìm một khe nhỏ để thở.
-
-***
-
-Đường xuống quanh co nhưng trời sáng.
-
-Tầm nhìn tốt.
-
-Đoàn giữ khoảng cách vừa đủ.
-
-Thi liên lạc đều.
-
-Mọi thứ bình thường tới đoạn cách nhà Pá Tra gần bảy cây số.
-
-Chiếc xe trước phanh gấp.
-
-Xe Quỳnh cũng phanh.
-
-Một thân cây lớn nằm ngang đường.
-
-Không phải cây đổ tự nhiên.
-
-Phần gốc bị cắt gần hết, chỉ còn một dải gỗ xé mới.
-
-Trung nhìn.
-
-— Mới.
-
-Thi nói vào bộ đàm.
-
-— Không ai xuống trước. Kiểm tra hai bên.
-
-Minh ở xe trước đáp.
-
-— Rõ.
-
-Một phút.
-
-Không động tĩnh.
-
-Lái xe nói có đường vòng nhỏ qua nương nhưng xa thêm gần một giờ.
-
-Thi quyết định lùi xe để quay đầu.
-
-Đúng lúc đó có tiếng trẻ con khóc phía taluy.
-
-Rất rõ.
-
-— Cứu cháu...
-
-Lái xe khựng.
-
-Quỳnh nhìn bên đường.
-
-Một bé gái mặc áo trắng đứng giữa bụi cây.
-
-Mặt đầy máu.
-
-— Có trẻ! — lái xe nói.
-
-Anh mở khóa cửa.
-
-Thi chụp tay.
-
-— Ngồi yên.
-
-— Nhưng...
-
-— Ngồi yên.
-
-Huy nhìn qua kính.
-
-Mặt đổi.
-
-— Tôi không thấy đứa trẻ.
-
-Quỳnh quay sang.
-
-— Tôi thấy.
-
-Lan cũng nhìn.
-
-— Tao thấy người phụ nữ.
-
-Trung nói:
-
-— Tao thấy... A Mã.
-
-Thi nhìn taluy.
-
-— Tao không thấy ai.
-
-Năm người nhìn cùng một chỗ.
-
-Bốn hình ảnh khác nhau.
-
-Huy nói:
-
-— Huyết Ngải.
-
-***
-
-Thi đóng toàn bộ cửa.
-
-— Không phản ứng thứ chỉ một người thấy. Muốn xác nhận dùng camera.
-
-Trung bật điện thoại quay qua kính.
-
-Màn hình chỉ có bụi cây.
-
-Không trẻ.
-
-Không A Mã.
-
-Lan đưa Thần Hựu lên.
-
-Nóng.
-
-— Ảo hoặc linh thể bị kéo qua nhận thức. — nó nói.
-
-Tiếng khóc ngoài xe lớn hơn.
-
-Quỳnh nghe bé gái gọi:
-
-— Chị Quỳnh...
-
-Nó lạnh da đầu.
-
-Thi nói:
-
-— Đừng nghe tên mình.
-
-Xe trước báo:
-
-— Có tình huống ở khoang sau. Như lên cơn co giật.
-
-Thi chửi nhỏ.
-
-— Minh giữ cửa. Không mở cho tới khi bên tôi qua.
-
-Cô và Trung xuống cùng nhau.
-
-Lan theo.
-
-Quỳnh bị giữ trong xe với Huy.
-
-Tiếng đứa trẻ chuyển sang khóc ngay sát cửa kính.
-
-Quỳnh nhìn camera điện thoại.
-
-Không có gì.
-
-Huy hỏi:
-
-— Cô thấy ai?
-
-— Trẻ con.
-
-— Có liên quan quá khứ?
-
-— Không biết.
-
-— Đừng cố hiểu lúc này. Tùng muốn cô phản ứng, không muốn cô làm triết học.
-
-Quỳnh nhìn anh.
-
-— Anh bị nhốt bốn tháng mà tỉnh ghê.
-
-— Tôi có nhiều thời gian suy nghĩ.
-
-***
-
-Ở xe trước, Như không co giật.
-
-Khi Thi mở cửa sau, nữ cán bộ đang ngồi dựa ghế, mắt mở nhưng nhìn một thứ không có thật ngoài cửa sổ.
-
-Minh giữ tay Như.
-
-Như cũng tỉnh.
-
-Quá tỉnh.
-
-— Cô ta nói thấy con mình ngoài đường. — Minh nói về cán bộ nữ.
-
-— Chị ấy có con? — Thi hỏi.
-
-— Có.
-
-Lan hiểu.
-
-Huyết Ngải không đưa cùng một hình cho tất cả.
-
-Nó lấy thứ nằm sẵn trong đầu từng người.
-
-Như nhìn Thi.
-
-Vết nút sau tai đen như mực.
-
-— Hắn gọi tôi.
-
-— Đừng nghe.
-
-Như cười buồn.
-
-— Cô nghĩ tôi có nút tắt à?
-
-Thi kiểm tra khóa tay mềm đang giữ Như với dây an toàn.
-
-Còn nguyên.
-
-— Cô ở đây.
-
-— Tôi đang ở đây.
-
-Như nói.
-
-— Nhưng chân tôi muốn đi.
-
-***
-
-Minh và Thi đổi vị trí, mỗi người một bên Như.
-
-Lan dùng chuông nhưng không cố cắt ngải hoàn toàn, chỉ giữ Thần Hựu sát vết nút để giảm phản ứng.
-
-Tiếng khóc ngoài đường dần nhỏ.
-
-Sau mười phút, camera vẫn không ghi nhận ai.
-
-Tổ phía sau được báo, đang tiếp cận từ hướng khác.
-
-Lái xe chuẩn bị lùi.
-
-Bỗng một tiếng nổ nhỏ vang phía đầu đường.
-
-Không phải bom lớn.
-
-Một quả pháo/thiết bị gây tiếng được đặt dưới bụi.
-
-Đàn chim bay rào khỏi cây.
-
-Cả hai tài xế giật mình.
-
-Trong đúng khoảng hỗn loạn ấy, Như hét.
-
-Cơ thể cong lên.
-
-Lan giữ vai.
-
-— Như!
-
-Vết sau tai nứt ra, chảy một đường máu đen rất mỏng.
-
-Như nhìn Lan.
-
-— Xin lỗi.
-
-Rồi cắn mạnh vào chính môi mình.
-
-Máu trào.
-
-Lan phản xạ buông một tay để chặn.
-
-Như xoay cổ tay.
-
-Một mảnh kim loại cực mảnh rơi từ dưới móng giả ra.
-
-Cô đã giấu từ trước khi bị bắt.
-
-Không phải phép.
-
-Một dụng cụ mở khóa nhỏ.
-
-Chốt khóa tay bật.
-
-Minh chụp lại.
-
-Như đạp cửa bên kia.
-
-Nữ cán bộ vẫn đang trong ảo giác chậm nửa nhịp.
-
-Như lao xuống dốc.
-
-Thi chạy theo ngay.
-
-— ĐỨNG LẠI!
-
-Như không.
-
-Cô chạy như người bị kéo bằng một sợi dây vô hình.
-
-Lan theo được vài chục mét thì Thần Hựu lạnh buốt.
-
-— Thi! DỪNG!
-
-Thi dừng vì cô tin Lan đủ để dừng khi chưa hiểu.
-
-Ngay phía trước, nơi Như vừa chạy qua, sương đặc đột ngột tràn kín lối.
-
-Chưa tới mười giây.
-
-Không còn thấy người.
-
-Trung từ sau tới.
-
-— Tao vòng trái.
-
-— Không tách! — Thi quát.
-
-Hắn dừng.
-
-Họ tiến cùng nhau.
-
-Tìm gần hai mươi phút.
-
-Không thấy Như.
-
-Chỉ thấy một vệt máu môi trên lá.
-
-Và một mảnh vật liệu Họa Bì cũ mắc ở gai.
-
-***
-
-Thi quay lại xe, mặt lạnh.
-
-— Lỗi của tao.
-
-Minh nói:
-
-— Của cả đội.
-
-— Tôi đã biết cô ta bị điều khiển.
-
-— Và tôi giữ tay vẫn để lọt dụng cụ. Trách nhiệm chia sau. Giờ tìm người.
-
-Đó là một câu rất nghề.
-
-Không ai có thời gian tự trừng phạt giữa hiện trường.
-
-***
-
-Đoàn không tiếp tục theo tuyến cũ.
-
-Tổ sau tới, phong tỏa khu vực. Người được đưa về điểm tạm gần nhất trong bản, đông người và có liên lạc ổn định hơn.
-
-Trâm thật được kiểm tra lại.
-
-Quỳnh vào phòng thấy nó ngồi bên cửa sổ, hai tay ôm cốc nước.
-
-— Như chạy rồi. — Quỳnh nói.
-
-Trâm nhắm mắt.
-
-Nó viết:
-
-“TÙNG GỌI.”
-
-— Mày biết?
-
-Trâm gật.
-
-Viết tiếp:
-
-“TRƯỚC ĐÂY MỖI LẦN NHƯ CHỐNG HẮN, CỔ CÔ ẤY ĐEN.”
-
-Quỳnh ngồi cạnh.
-
-— Mày ghét Như không?
-
-Trâm nhìn giấy rất lâu.
-
-Cuối cùng viết:
-
-“CÓ.”
-
-Rồi:
-
-“NHƯNG TAO KHÔNG MUỐN CÔ ẤY CHẾT.”
-
-Quỳnh hiểu.
-
-Hai câu đó không mâu thuẫn.
-
-***
-
-Đến chiều, không tìm thấy Như.
-
-Tùng cũng không.
-
-Nhưng có một thứ thay đổi.
-
-Mẫu rễ đỏ Lan giữ trong túi zip bắt đầu chuyển động liên tục.
-
-Không cần nước.
-
-Không cần nhiệt.
-
-Nó co duỗi như mạch.
-
-Trung đứng cách gần hai mét vẫn cảm thấy cổ ngứa dữ dội.
-
-— Cất xa tao.
-
-Lan lập tức đưa ra ngoài.
-
-— Sao?
-
-— Nó... gọi.
-
-— Nghe thành tiếng?
-
-— Không.
-
-Trung xoa ngực.
-
-— Kiểu biết nó ở đâu.
-
-Thi nhìn hắn.
-
-— Giống con gà?
+— Nói dễ hiểu là dọa?
 
 — Ừ.
 
-Lan nhìn sổ A Mã.
+Thi nhìn dấu tay thêm lần nữa rồi chốt:
 
-Chữ “Dẫn Chủng” nằm ở mép trang.
+— Cứ coi nó là vật chứng. Đừng nâng nó thành lời tiên tri.
 
-Nó khựng.
-
-Rồi lắc đầu.
-
-Chưa đủ.
-
-Chưa gắn.
+Không ai phản đối.
 
 ***
 
-Sáu giờ mười bảy, Trâm thật đang uống cháo thì làm rơi thìa.
+Sáng 21 tháng 9, Khải quyết định chuyển người.
 
-Quỳnh quay lại.
+Nhà Pá Tra đã thành hiện trường. Điểm y tế cũng không còn kín sau khi Tùng chụp được ảnh Quỳnh trong khu vực. Huy cần nơi hồi phục tốt hơn; Trâm thật cần được bảo vệ; Như vừa là người bị ràng buộc vừa là người có liên quan trực tiếp vụ bắt cóc, giữ cô ở một điểm mà Tùng biết rõ chỉ làm tăng rủi ro.
 
-Trâm ôm cổ.
+Quỳnh cũng được yêu cầu rời Hồng Ngài cùng đoàn.
 
-Mặt hoảng.
+Nó không thích quyết định đó.
 
-Thi bước tới.
+— Tôi biết Tùng. — Quỳnh nói qua điện thoại.
 
-— Khó thở?
+Khải đáp ngay:
 
-Trâm lắc đầu.
+— Cô biết hắn bảy năm trước. Hiện giờ cô còn là mục tiêu hắn chủ động kéo tới đây. Ở ngoài hiện trường lúc này không giúp chúng tôi thêm bao nhiêu bằng việc giữ cô sống và liên lạc được.
 
-Miệng mở.
+— Còn anh Quân?
 
-Một âm rất nhỏ bật ra.
+— Ở điểm khác, có người bảo vệ.
 
-— Q...
+Quỳnh im vài giây.
 
-Quỳnh đông người.
+— Tôi muốn nói với anh ấy.
 
-Trâm thử lần nữa.
+— Xuống nơi an toàn rồi nói.
 
-— Quỳnh.
+Nó ghét cách Khải luôn trả lời bằng một câu rất khó cãi.
 
-Giọng khàn, thấp, gần như vỡ.
-
-Nhưng là giọng của nó.
-
-Không phải giọng Như đã dùng.
-
-Trâm bắt đầu khóc.
-
-Quỳnh ôm bạn.
-
-Lan đứng phía sau, mặt không vui.
-
-Thi thấy.
-
-— Tại sao mày nhìn vậy?
-
-Lan mở sổ Họa Bì.
-
-Một dòng A Mã ghi:
-
-“Thanh mượn chỉ trả khi người mượn tự cắt liên hệ. Nếu chết khi còn giữ, thanh khóa theo xác, phải gọi lại bằng lễ.”
-
-Quỳnh nhìn.
-
-— Nghĩa là Như tự trả giọng?
-
-— Nếu ghi chép đúng.
-
-— Vậy cô ấy còn sống?
-
-Lan không trả lời.
-
-Người mượn có thể cắt trước khi chết.
-
-Có thể cắt để phản lại người giữ.
-
-Có thể cắt vì biết mình sắp chết.
-
-Không đáp án nào tốt.
+Nhưng ghét không làm câu đó sai.
 
 ***
 
-Bảy giờ ba mươi, một đội tìm kiếm báo thấy dấu kéo trên đất gần một khe rừng.
+Đoàn rời bản gần mười giờ. Hai xe đi cách nhau vừa đủ để còn nhìn thấy đuôi xe trước trên những đoạn cua. Xe đầu chở Trâm, Như, Minh và một nữ cán bộ. Xe sau có Thi, Trung, Quỳnh, Lan, Huy cùng tài xế địa phương.
 
-Có máu.
+Huy nhất quyết ngồi dậy sát cửa sổ.
 
-Không có xác.
+— Bốn tháng tôi nhìn tường đủ rồi. Đừng bắt nằm nữa.
 
-Cạnh đó là một hình bàn tay đen in trên đá.
+Trung nhét cái gối sau lưng anh.
 
-Lần này đủ năm ngón duỗi thẳng.
+— Anh mà ngất thì báo trước.
 
-Không ngón nào gập.
+— Để làm gì?
 
-Lan nhìn ảnh.
+— Tôi né.
 
-Mẩu gỗ trong tay nó nóng lên.
+Huy nhìn hắn.
 
-Vòng tròn thứ năm, vốn trắng từ đầu...
+— Tình người mỏng vậy?
 
-đang từ từ thẫm màu.
+— Mới quen nhau có mấy ngày.
 
-Không ai chạm.
+Thi ngồi ghế trước quay xuống.
 
-Màu nâu lan từ mép vào giữa.
+— Hai ông giữ sức để lát còn thở.
 
-Quỳnh nhìn.
+Quỳnh bật cười. Tiếng cười chỉ tồn tại vài giây nhưng làm khoang xe bớt ngột ngạt. Sau mấy ngày liên tục có người chết, bị bắt hoặc lộ mặt giả, cơ thể tự tìm lấy những khe rất nhỏ để trở lại bình thường.
 
-— Như.
+***
 
-Huy đứng cạnh cửa, mặt không còn máu.
+Cách nhà Pá Tra khoảng bảy cây số, xe trước phanh gấp.
 
-— Hắn dùng cô ấy làm người thứ năm.
+Một thân cây lớn nằm ngang mặt đường. Vết cắt ở gốc còn mới, mạt gỗ sáng màu vương trên đất. Chỉ còn một dải gỗ bị xé giữ thân cây khỏi rơi hẳn xuống taluy.
+
+Thi không cho ai xuống.
+
+— Minh, nhìn hai bên trước. Không chạm cây.
+
+— Rõ.
+
+Tài xế nói có một lối vòng qua nương nhưng phải lùi gần trăm mét mới vào được. Thi quyết định quay đầu.
+
+Ngay lúc xe chuẩn bị lùi, Quỳnh nghe tiếng trẻ con khóc phía taluy.
+
+— Cứu cháu...
+
+Rất gần.
+
+Nó nhìn sang và thấy một bé gái mặc áo trắng đứng giữa bụi cây, mặt lấm máu.
+
+Tài xế cũng giật người.
+
+— Có đứa nhỏ kìa.
+
+Tay anh vừa chạm khóa cửa thì Thi giữ lại.
+
+— Khoan.
+
+Huy nhìn đúng chỗ đó.
+
+— Tôi không thấy trẻ con.
+
+Lan nhíu mày.
+
+— Tao thấy một người phụ nữ ngồi dưới gốc cây.
+
+Trung im lâu hơn.
+
+— Tao thấy A Mã.
+
+Thi nhìn qua kính.
+
+— Tao chỉ thấy bụi.
+
+Không ai còn định mở cửa nữa.
+
+Trung bật camera, đưa ống kính qua ô kính xe. Màn hình chỉ có cây, đá và một dải khói mỏng đang bò lên từ mép đường.
+
+Quỳnh nhìn lại bằng mắt thường. Bé gái vẫn ở đó.
+
+— Chị Quỳnh...
+
+Tên mình được gọi rõ tới mức da sau gáy nó dựng lên.
 
 Thi nói:
 
-— Chưa có xác. Chưa kết luận chết.
+— Camera không có thì không ai đi theo. Đừng tranh luận với thứ mình đang thấy.
 
-Đúng.
+Lan sờ Thần Hựu. Miếng đá ấm lên nhưng cô không dùng nó để kết luận.
 
-Nhưng ở góc phòng, mẫu rễ đỏ bỗng đứng thẳng trong túi zip.
+— Nếu cùng loại tác động ở nhà Pá Tra, nó đang bẻ nhận thức chứ không cho tất cả cùng một hình.
 
-Tất cả đèn cùng tắt.
+Huy nhìn lớp khói ngoài đường.
 
-Trong bóng tối, Trung thở gấp.
+— Và cái cây chắn đường là thật.
+
+Đó là điểm Quỳnh không bỏ qua.
+
+Tùng không chỉ ngồi đâu đó làm phép. Hắn đã cho người hoặc tự mình cắt cây, chọn điểm dừng và chuẩn bị thứ gì đó ở đây.
+
+***
+
+Xe trước gọi sang.
+
+— Như đang đau dữ, không co giật. Nữ cán bộ nói nghe con mình khóc ngoài đường.
+
+Thi đáp:
+
+— Đóng kín cửa. Đừng cho ai xuống. Điều hòa lấy gió trong.
+
+Minh trả lời rồi tắt máy.
+
+Mấy phút sau lớp khói mỏng bên ngoài bắt đầu dày hơn. Không phải sương tự nhiên; nó có mùi khét nhẹ, lẫn đúng mùi nhựa cây Minh vừa ngửi ở dấu bàn tay.
+
+Thi gọi đội phía sau, báo khả năng có chất gây kích ứng hoặc chất dẫn tác động ở khu vực. Tổ hỗ trợ đang tiếp cận từ hướng ngược lại.
+
+Huy nói:
+
+— Vậy đây có thể là một trong mấy “điểm bám”.
+
+Lan nhìn anh.
+
+— Ý anh là thứ ngải cần một vật mang tới gần?
+
+— Tôi đoán thôi. Dưới hầm Tùng hay trộn bột đen với nhựa rồi bôi lên vật. Tôi chưa từng biết để làm gì.
+
+Thi nghe xong chỉ nói:
+
+— Giữ chữ “đoán”.
+
+— Rõ.
+
+Quỳnh thấy đứa trẻ ngoài đường tiến sát thêm một bước. Camera vẫn không có gì.
+
+Nó quay mặt đi.
+
+***
+
+Một tiếng nổ chát vang từ bụi bên phải.
+
+Không lớn như thuốc nổ. Gần với pháo tự chế hoặc thiết bị gây tiếng hơn. Cùng lúc một hộp khói khác bật dưới gầm xe trước, phụt ra lớp khói đen đặc hơn khiến tài xế ho dữ dội dù cửa đã đóng.
+
+Minh báo phải chuyển người khỏi xe vì khói lọt qua khe thông gió.
+
+Thi chửi nhỏ rồi ra lệnh hai xe lùi sát nhau, tạo một khoảng được che giữa hai thân xe. Mọi người đeo khẩu trang, chỉ mở cửa phía trong khoảng đó. Đây không còn là chuyện chạy theo ảo ảnh; khói là thật và ở lại trong xe cũng có rủi ro.
+
+Như được đưa xuống cuối cùng. Hai cổ tay vẫn bị giữ phía trước bằng khóa mềm có dây nối ngắn với đai bụng. Minh nắm dây dẫn, nữ cán bộ giữ vai còn lại.
+
+Vết đen sau tai Như sẫm gần thành màu mực. Cô thở từng nhịp ngắn.
+
+— Hắn ở gần. — Như nói.
+
+Thi không hỏi “ở đâu”.
+
+— Nhìn tôi. Chân đứng yên.
+
+Như cố nhìn.
+
+— Tôi đang cố.
+
+Câu đó nghe thật hơn mọi lời hứa trước đây.
+
+Đúng lúc họ di chuyển sang xe sau, nữ cán bộ bỗng quay phắt về phía taluy.
+
+— Con chị!
+
+Cô buông vai Như theo phản xạ và bước một bước ra ngoài khoảng che.
+
+Minh chụp lại cô.
+
+Chỉ một bước.
+
+Nhưng đủ để dây dẫn Như trùng xuống.
+
+Như giật mạnh về hướng ngược lại. Không phải động tác mở khóa đẹp mắt hay tính toán. Cô lao như người bị kéo, ngã quỵ một lần vì hai tay còn bị giữ rồi vẫn đứng dậy chạy tiếp.
+
+Minh giữ được dây trong một nhịp. Khói tạt ngang. Quỳnh nhìn thấy rõ anh đang kéo một người áo xám trở lại.
+
+Thi cũng thấy.
+
+Rồi Trung hét:
+
+— Không có ai ở tay anh Minh!
+
+Quỳnh nhìn qua camera điện thoại đang bật trên tay.
+
+Màn hình cho thấy Minh đang nắm một sợi dây trống, đầu dây đã tuột khỏi khóa mềm.
+
+Nhưng bằng mắt thường Quỳnh vẫn thấy một người đang vùng trong tay anh.
+
+Thi lập tức hiểu.
+
+— MINH, NHÌN DÂY!
+
+Anh cúi xuống.
+
+Khoảnh khắc nhận thức khớp lại, “Như” trong tay biến mất khỏi mắt mọi người.
+
+Như thật đã chạy xuống lối đất phía taluy từ vài giây trước, hai cổ tay vẫn bị khóa với nhau.
+
+Thi và Minh đuổi theo cùng lúc. Trung theo sau nhưng giữ khoảng cách. Không ai tách sang đường khác.
+
+Họ còn thấy Như hai lần giữa những thân cây. Lần thứ ba chỉ còn tiếng cành gãy.
+
+Sương và khói từ đường trộn nhau ở lớp cây thấp. Thi dừng khi nhận ra khoảng cách với xe đã quá xa và phía trước chưa được kiểm tra.
+
+— Không đi sâu. Đánh dấu điểm cuối. Gọi tổ ngoài vòng xuống.
+
+Minh thở dốc, môi mím chặt.
+
+Không ai thích quyết định đó.
+
+Nhưng chạy tiếp một mình vào đúng khu Tùng đã chuẩn bị chỉ đổi một người mất tích thành ba.
+
+***
+
+Sau khi khói tan, tổ kỹ thuật tìm thấy hai hộp kim loại nhỏ giấu dưới bụi, một dây đánh lửa đơn giản và nhiều vệt bột đen trộn nhựa quanh gốc cây bị cắt. Không thứ nào giải thích hoàn toàn những hình ảnh mọi người đã thấy, nhưng ít nhất nó chứng minh một phần cuộc phục kích được dựng bằng vật thật.
+
+Thi xem lại bodycam.
+
+Ở đoạn Minh tưởng đang giữ Như, video chỉ có anh kéo dây trống trong khoảng ba giây.
+
+Ba giây.
+
+Đủ để một người bị giữ chạy khỏi tầm tay.
+
+Thi ngồi im rất lâu rồi nói:
+
+— Tôi cho chuyển người trong vùng tác động trước khi khóa được điểm bám.
+
+Minh lắc đầu.
+
+— Tôi giữ dây mà không nhìn dây. Có phần tôi.
+
+Thi định nói tiếp, nhưng anh cắt:
+
+— Trách nhiệm viết sau. Bây giờ tìm người.
+
+Không ai cần một màn tự kết tội giữa đường.
+
+***
+
+Đoàn được đưa trở lại một điểm tạm gần trung tâm bản, đông người hơn và có sóng ổn định. Trâm thật ngồi bên cửa sổ, hai tay ôm cốc nước ấm khi Quỳnh vào.
+
+— Như chạy rồi. — Quỳnh nói.
+
+Trâm nhắm mắt. Cô chưa nói được nhiều, nên vẫn lấy giấy viết:
+
+**TÙNG GỌI.**
+
+— Mày biết cảm giác đó?
+
+Trâm gật rồi viết tiếp:
+
+**MỖI LẦN NHƯ CHỐNG HẮN, VẾT Ở CỔ ĐEN. CÔ ẤY NÓI NGHE HẮN TRONG ĐẦU.**
+
+Quỳnh ngồi xuống cạnh bạn.
+
+— Mày ghét Như không?
+
+Trâm nhìn tờ giấy rất lâu.
+
+Cuối cùng cô viết:
+
+**CÓ.**
+
+Rồi thêm một dòng:
+
+**NHƯNG TAO KHÔNG MUỐN CÔ ẤY CHẾT.**
+
+Quỳnh hiểu hai câu đó có thể cùng đúng.
+
+***
+
+Chiều xuống mà tổ tìm kiếm vẫn chưa thấy Như.
+
+Mẫu rễ đỏ Lan giữ trong hộp vật chứng bắt đầu co mạnh hơn khi được đưa về cùng điểm tạm. Không ai mở túi. Trung đứng cách bàn gần hai mét vẫn đưa tay lên cổ.
+
+— Đem nó ra xa tao.
+
+Thi hỏi:
+
+— Đau?
+
+— Không. Kiểu... tao biết nó ở đâu dù không nhìn.
+
+Lan lập tức mang mẫu sang phòng khác.
+
+Cảm giác ở Trung giảm sau vài phút.
+
+Lan nhìn Thi.
+
+— Có tương quan.
+
+— Chưa phải năng lực. — Thi nói.
+
+Trung cười khan.
+
+— Cảm ơn. Tao cũng không muốn thêm nghề tay trái.
+
+Lan mở sổ A Mã ở trang có chữ **Dẫn Chủng** rồi đóng lại ngay.
+
+Chưa đủ để gọi tên chắc chắn.
+
+***
+
+Gần sáu giờ, Trâm thật đang ăn cháo thì chiếc thìa rơi khỏi tay.
+
+Cô ôm cổ, ho khan. Quỳnh tưởng cô khó thở nên đứng bật dậy, nhưng Trâm lắc đầu rồi cố phát âm.
+
+Âm đầu tiên chỉ là hơi.
+
+Lần thứ hai có tiếng.
+
+— Quỳnh.
+
+Giọng khàn, thấp và đau, nhưng là giọng của Trâm.
+
+Cô tự nghe thấy mình rồi bật khóc.
+
+Quỳnh ôm bạn. Thi gọi nhân viên y tế kiểm tra cổ họng trước khi ai nói tới Họa Bì hay “trả giọng”. Không có tổn thương cấp mới. Chức năng phát âm đang trở lại nhưng nguyên nhân không thể kết luận tại chỗ.
+
+Sau đó Lan mới mở ghi chép A Mã. Có một dòng nói người “mượn thanh” có thể trả phần giọng khi liên hệ bị cắt, nhưng không nói việc đó chứng minh người mượn đang sống hay chết.
+
+Quỳnh nhìn về phía rừng ngoài cửa sổ.
+
+— Vậy chưa biết Như còn sống.
+
+— Chưa. — Lan nói.
+
+Không ai dùng việc Trâm nói lại được để tuyên bố số phận một người khác.
+
+***
+
+Bảy giờ ba mươi, đội tìm kiếm báo phát hiện dấu kéo trên đất gần một khe rừng. Có máu trên lá, một đoạn dây khóa mềm của Như mắc ở rễ cây và một hình bàn tay đen in trên đá.
+
+Lần này cả năm ngón đều duỗi.
+
+Không có thi thể.
+
+Quỳnh nhìn ảnh gửi về. Mẩu gỗ năm vòng đặt trong túi vật chứng cạnh Lan vẫn là bốn vòng đen, một vòng trắng trong vài giây đầu.
+
+Rồi ở vòng cuối xuất hiện một vệt nâu rất mảnh, như chất màu thấm từ thớ gỗ lên bề mặt.
+
+Lan không chạm.
+
+Thi lập tức yêu cầu quay video liên tục và niêm lại.
+
+Màu tiếp tục lan chậm vào giữa.
+
+Huy đứng phía sau, mặt căng.
+
+— Có thể hắn dùng Như làm người thứ năm.
+
+Thi quay sang.
+
+— Có thể. Chưa có xác, chưa có bằng chứng cô ấy đã chết.
+
+Quỳnh không phản bác.
+
+Ở phòng bên, Trung bỗng cúi người, hai tay chống đầu gối.
 
 — Thi.
 
-— Tao đây.
+Cô chạy sang.
 
-— Tao nghe một thứ.
+— Sao?
 
-— Tim?
+— Không phải tim.
 
-— Không.
+Hắn ngẩng lên, mắt đỏ vì đau đầu chứ không có thứ ánh sáng kỳ lạ nào.
 
-Trung nhìn ra cửa dù không thấy gì.
+— Tao cứ có cảm giác có ai đang gọi tên tao. Từ phía rừng.
 
-— Nó đang gọi tên tao.
+Lan đứng ở cửa, không nói chữ Dẫn Chủng.
+
+Chưa ai có quyền biến một triệu chứng thành định mệnh.
