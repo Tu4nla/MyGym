@@ -1,118 +1,68 @@
 # Chương 15 — Đêm không tên
 
-Kế hoạch tách Người Thứ Sáu có mười một trang.
+Kế hoạch cho buổi ở Phòng 17 dài mười một trang, nhưng ngay dòng đầu Khải bắt mọi người đổi một chữ.
 
-Huy đọc xong nói:
+Không gọi là **nghi thức tách**.
 
-— Em nhớ hồi đầu đi tìm Ma Lai chỉ có cái vali với hai triệu.
+Gọi là **phiên neo danh tính**.
 
-Khải:
+Mục tiêu không phải “diệt thực thể”, cũng không phải chứng minh Huyền Môn đúng. Mục tiêu hẹp hơn: đọc cho Trung những dữ kiện đã xác minh về năm người gắn với năm dấu, theo dõi phản ứng cơ thể và ký ức, rồi xem việc đặt mỗi mảnh về đúng một con người có làm các khoảng mất kiểm soát giảm hay không.
+
+Huy đọc tới đó rồi nói:
+
+— Hồi em đi tìm Ma Lai có cái vali với hai triệu.
+
+Khải không ngẩng lên.
 
 — Và suýt chết.
 
-— Anh không cần nhấn.
+— Anh nhớ dai ghê.
 
 — Vì vậy lần này có mười một trang.
 
 ***
 
-Không ai biết nghi thức có tác dụng.
+Không ai biết phiên neo có tác dụng. Điều đó cũng được ghi rõ.
 
-Đó được ghi ngay dòng đầu.
+Không máu. Không thuốc. Không thôi miên. Không gọi tên một “thứ sáu” để chờ nó trả lời. Năm tờ hồ sơ chỉ chứa thông tin đã kiểm chứng về A Hù, A Mã, Cầm, Pao Sử và Như; mỗi nguồn đều được đánh dấu ai xác nhận, lấy từ đâu, phần nào còn tranh cãi.
 
-**Mục tiêu không phải “diệt thực thể”. Mục tiêu là tách các dấu ký ức khỏi Trung trong điều kiện có thể dừng.**
+Lan mang chiếc chuông A Mã từng giao nhưng không dùng nó như máy đo ma. Nó chỉ đặt chuông trên bàn như một vật có nguồn gốc rõ, rồi nói trước với Khải:
 
-Lan và Somchai thống nhất phần Huyền Môn tối thiểu:
+— Nếu chuông rung mà không thấy nguyên nhân, mình ghi là chuông rung. Không ghi “dấu nào phản ứng”.
 
-Năm tờ giấy ghi danh tính từng người chết, chỉ dùng thông tin đã xác minh.
+— Tốt.
 
-Một vật gắn với mỗi người nếu có chuỗi nguồn rõ.
+Somchai ngồi phòng kế bên, không trực tiếp chạm Trung. Sau những gì lộ ra về Channarong, Khải không cho ông thay đổi bất kỳ bước nào mà chưa nói trước. Somchai chấp nhận điều đó không vui vẻ nhưng cũng không tranh quyền.
 
-Chiếc chuông A Mã từng giao Lan.
+Hai đội y tế ở tầng trên. Camera nhiều góc. Theo dõi tim, SpO2 và điện não cơ bản. Cửa Phòng 17 mở được từ bên ngoài. Có ngưỡng dừng nếu Trung mất ý thức kéo dài, co giật, rối loạn nhịp hoặc có hành vi gây hại.
 
-Không máu.
+Và sau sự cố hành lang, một điều được in đậm:
 
-Không hiến tế.
+**HUY KHÔNG Ở CÙNG PHÒNG VỚI TRUNG.**
 
-Không thuốc.
-
-Không thôi miên.
-
-Khải thêm phần của mình:
-
-Hai đội y tế.
-
-Theo dõi tim, SpO2, EEG cơ bản.
-
-Camera nhiều góc.
-
-Cửa mở được từ bên ngoài.
-
-Ngưỡng dừng nếu Trung mất ý thức kéo dài, co giật, rối loạn nhịp hoặc có hành vi tự/hại người.
-
-Và điều quan trọng nhất:
-
-**Huy không ở cùng phòng với Trung.**
-
-Phòng 17 sẽ chứa Trung, Lan và Thi.
-
-Huy ngồi tầng trên, nhận dữ liệu qua camera và viết từng bản ghi khi một dấu xuất hiện.
-
-Quỳnh ở cùng Huy để kiểm chứng nội dung.
-
-Somchai quan sát từ phòng kế bên, không trực tiếp chạm vật chủ trừ cấp cứu.
-
-Khải chỉ huy ngoài hành lang.
-
-Không ai được tự đổi vai.
+Huy ở tầng trên, nhận dữ liệu qua một luồng riêng và chỉ ghi điều quan sát được. Quỳnh ngồi cạnh để kiểm câu chữ. Thi và Lan ở trong Phòng 17 với Trung. Khải chỉ huy hành lang. Không ai tự đổi vai vì “cảm thấy cần”.
 
 ***
 
-Huy phản đối đúng một điểm.
+Việc chọn tòa soạn thay vì một cơ sở công an được tranh luận tới phút cuối.
 
-— Nếu cái gọi là “người kể” phải ở gần thì sao?
+Khải không thích. Thi càng không thích.
 
-Khải:
+Nhưng hệ thống nội bộ của đơn vị vừa có vụ token bị lợi dụng; những người bảo vệ Trung đã thay safe house hai lần; còn tòa soạn, sau khi phát hiện thẻ nhà thầu cũ, được thay toàn bộ mã cửa, khóa vật lý và quyền truy cập. Sếp Hòa cho nhân viên không liên quan nghỉ sớm. Phòng 17 nằm trong khu hầm có hai lối kiểm soát độc lập, camera analog dự phòng và đủ chỗ để tách người nếu có sự cố.
 
-— Chưa chứng minh phải gần.
+Không nơi nào “an toàn tuyệt đối”. Họ chỉ chọn nơi có rủi ro đã biết rõ hơn trong đêm đó.
 
-— Nếu thử không phản ứng?
+Quang xách ba lô đi ngang Huy lúc sáu giờ rưỡi, thấy hai cán bộ đứng ở cầu thang liền dừng.
 
-— Dừng. Không vì muốn có kết quả mà tăng rủi ro.
-
-Huy nhìn anh.
-
-— Em ghét câu nào của anh cũng hợp lý.
-
-— Tôi sống được tới tuổi này nhờ vậy.
-
-***
-
-Đêm 21 tháng Một.
-
-Tòa soạn Âm Dương đóng cửa sớm.
-
-Sếp Hòa đuổi toàn bộ nhân viên không liên quan về từ sáu giờ.
-
-Quang vừa xách ba lô vừa hỏi Huy:
-
-— Mày lại làm gì nữa?
+— Mày lại làm gì?
 
 — Tăng ca.
 
-— Tăng ca mà có công an đứng cầu thang?
+— Tăng ca có công an canh hầm?
 
 — Bài lớn.
 
-— Tao ghét làm chung với mày.
-
-— Nhưng mày yêu tao.
-
-— Không.
-
-— Tạm biệt.
-
-Quang đi được ba bước quay lại.
+Quang nhìn anh một lúc, không cười theo.
 
 — Ê.
 
@@ -120,470 +70,272 @@ Quang đi được ba bước quay lại.
 
 — Đừng mất tích nữa.
 
-Huy cười.
-
-— Biết rồi.
-
-Quang không cười.
-
-— Tao nói thật.
-
-Huy gật.
+Huy mở miệng định nói một câu cho nhẹ đi, nhưng nhìn mặt bạn rồi thôi.
 
 — Ừ.
 
+Quang gật, đeo lại ba lô và đi.
+
 ***
 
-20 giờ 40.
-
-Trung tới bằng xe không biển dân sự thông thường của đơn vị.
-
-Không còng.
-
-Không trùm đầu.
-
-Hắn tự bước vào.
-
-Thi đi cạnh.
+20 giờ 40, Trung tới bằng xe dân sự của đơn vị. Không còng, không che mặt. Hắn tự bước xuống xe, Thi đi bên cạnh.
 
 — Hồi hộp không? — Trung hỏi.
 
 — Có.
 
-— Tao tưởng mày nói “không”.
+— Tao tưởng mày sẽ nói không.
 
 — Tao không cần diễn với mày.
 
-Trung im một chút.
+Trung im một nhịp.
 
 — Tao thích câu đó.
 
-Thi:
+Thi liếc.
 
-— Đừng tận dụng lúc sắp lên bàn mổ để tán.
+— Đừng tận dụng lúc sắp xuống hầm để tán.
 
-— Không mổ mà.
+— Phiên neo chứ có mổ đâu.
 
-— Ví dụ.
+— Vẫn im được.
 
-— Vậy vẫn còn cửa.
-
-Thi trợn.
-
-Hắn cười.
-
-Nụ cười giúp cả hai đi hết cầu thang xuống hầm.
+Hắn cười. Nụ cười không lớn nhưng giúp cả hai đi hết cầu thang.
 
 ***
 
-Phòng 17 đã được dọn phần sàn đủ an toàn nhưng giữ nguyên kệ và tường.
+21 giờ 13, phiên neo bắt đầu.
 
-Giữa phòng là một ghế tựa thấp cho Trung.
+Tờ đầu tiên là A Hù.
 
-Bàn trước mặt đặt năm tờ giấy úp xuống.
+Không dùng ảnh xác. Quỳnh đã chọn một ảnh dân cư cũ khi người đàn ông còn nguyên mặt. Thi đọc những gì chắc chắn: con A Mã, từng sống cùng cha ở nhiều địa phương, mất tích khoảng năm 2017, thi thể được tìm thấy ở Hồng Ngài năm 2019 và không phải Nguyễn Hoàng Thanh Tùng.
 
-Không gương.
+Trung ngồi ghế tựa thấp, mắt mở. Nhịp tim tăng từ 78 lên 91 rồi giữ ở đó.
 
-Sau sự cố, Khải không muốn thêm bề mặt phản chiếu không cần thiết.
+— Cơ thể thế nào? — Lan hỏi.
 
-Thi gắn cảm biến lên cổ tay Trung.
+— Má trái căng. Như có ai kéo da.
 
-— Chặt không?
+— Thấy gì không?
 
-— Vừa.
+— Có bóng người bên trái. Không mặt.
 
-— Nói thật.
+Thi nhìn camera monitor đặt cạnh tường.
 
-— Vừa thật.
-
-Lan đặt chuông lên bàn.
-
-Nó không mặc gì đặc biệt.
-
-Chỉ áo len xám, tóc buộc gọn.
-
-Trung nhìn.
-
-— Mày chắc không?
-
-— Không.
-
-— Tuyệt.
-
-— Nhưng tao biết lúc nào phải dừng.
-
-— Cũng được.
-
-***
-
-21 giờ 13.
-
-Bắt đầu.
-
-Tờ thứ nhất được lật.
-
-A Hù.
-
-Một ảnh cũ của người đàn ông trước khi bị Tùng lấy mặt, lấy từ hồ sơ dân cư.
-
-Lan nói:
-
-— Không gọi. Chỉ đọc.
-
-Thi đọc thông tin đã xác minh.
-
-Tên thường gọi: A Hù.
-
-Con của A Mã.
-
-Sống tại nhiều địa phương cùng cha.
-
-Mất tích khoảng 2017.
-
-Thi thể được tìm thấy tại Hồng Ngài năm 2019.
-
-Trung nhắm mắt.
-
-Nhịp tim tăng nhẹ.
-
-Tầng trên, Huy nhìn màn hình.
-
-Con trỏ trong file trắng.
-
-Quỳnh nói:
-
-— Chỉ ghi cái nhìn thấy.
-
-Huy gõ:
-
-“Trung tăng nhịp tim khi đọc tên A Hù.”
-
-Không thêm “linh hồn xuất hiện”.
-
-***
-
-Trong Phòng 17, nhiệt độ giảm một độ.
-
-Có thể điều hòa.
-
-Khải cho kiểm.
-
-Điều hòa tắt.
-
-Cảm biến nhiệt vẫn ghi giảm.
-
-Trung nói:
-
-— Tao thấy một người đứng bên trái.
-
-Thi:
-
-— Camera không thấy.
+— Camera không có người.
 
 — Tao biết.
 
-— Nhìn tao.
+— Còn phân biệt được tao với nó không?
 
-Hắn mở mắt.
+Trung quay sang Thi.
 
-— Tao đang nhìn.
+— Được.
 
-Người không mặt trong tầm nhìn Trung đứng phía sau Thi.
+Ở tầng trên, Huy gõ:
 
-Hắn không nói.
+**Trung báo cảm giác căng má trái và thấy hình người không mặt khi nghe dữ kiện A Hù. Camera không ghi hình người. Nhịp tim tăng 13 nhịp/phút.**
+
+Quỳnh đọc qua rồi gật.
+
+Không ai viết “A Hù xuất hiện”.
 
 ***
 
-Tờ thứ hai.
+Tờ thứ hai là A Mã.
 
-A Mã.
+Khi Thi đọc tới việc ông cứu Tùng khỏi khe nước năm 2012, nước mắt Trung tự chảy. Hắn đưa tay quệt rồi nhìn đầu ngón tay như khó hiểu.
 
-Khi đọc tới việc ông cứu Tùng năm 2012, Trung bật khóc.
+— Tao không thấy buồn.
 
-Không nức.
+Lan nói:
 
-Nước mắt tự chảy.
+— Không cần quyết định cảm xúc của ai. Chỉ nói cái mày có.
 
-— Tao không buồn. — hắn nói.
-
-Lan:
-
-— Không cần xác định cảm xúc của ai. Cứ nói cơ thể.
-
-— Ngực nặng.
+— Ngực nặng. Mắt trái đau.
 
 — Thở được?
 
 — Được.
 
-Huy gõ tầng trên.
+Huy ở tầng trên ghi đúng vậy. Không có câu chữ nào tự xuất hiện dưới con trỏ. Màn hình chỉ chứa những gì anh tự tay gõ.
 
-Một câu tự xuất hiện phía dưới trước khi anh chạm bàn phím:
+Quỳnh nhìn file một lúc rồi nói:
 
-“ÔNG ẤY HỐI HẬN.”
+— Cái hay là mình đang buộc mỗi mảnh phải đứng cạnh tên người thật, không đứng cạnh cái tên “Người Thứ Sáu”.
 
-Huy rút tay.
+Huy không trả lời ngay.
 
-Quỳnh thấy.
+— Có khi đây mới là thứ Bình muốn nói về neo.
 
-— Không xóa.
+— Hoặc chỉ là cách làm Trung bớt lẫn.
 
-— Tại sao?
+— Hai cái không nhất thiết loại nhau.
 
-— Giữ làm dữ kiện.
+— Nhưng mình ghi cái thứ hai trước.
 
-Nó chụp màn hình bằng máy riêng.
-
-Khải được báo.
-
-Anh không dừng vì Trung vẫn ổn, nhưng đánh dấu.
+Huy gật.
 
 ***
 
-21 giờ 39.
+21 giờ 37, khi Lan vừa chuẩn bị chuyển sang hồ sơ Cầm, hệ thống báo cháy tầng một kích hoạt.
 
-Hệ thống báo cháy tầng một.
+Khải dừng phiên ngay.
 
-Không khói ở hầm.
+Đội ngoài kiểm tra đầu báo: không có cháy, nhưng một nguồn nhiệt nhỏ đã được gắn sát cảm biến rồi bỏ lại. Cùng lúc, camera hành lang phía tây mất hình trong gần hai phút.
 
-Khải nhìn camera.
+Khải nói qua bộ đàm:
 
-Một đầu báo phát tín hiệu.
+— Mức cảnh báo hai. Kết thúc phiên. Chuyển Trung tuyến B, Huy tuyến A.
 
-Đội ngoài kiểm tra.
+Không ai hỏi “thử thêm tờ nữa”. Lan úp hồ sơ. Thi chuyển monitor sang pin. Huy đóng laptop, Quỳnh cầm bản sao giấy. Mọi người làm đúng kế hoạch đã viết.
 
-Không lửa.
+Tuyến A đưa Huy lên cầu thang phụ phía tây ra ngõ sau. Tuyến B đưa Trung qua hành lang kỹ thuật phía bắc. Hai đường không giao nhau.
 
-Có người đã kích bằng nguồn nhiệt nhỏ rồi rời.
-
-Camera hành lang tầng một mất hình đúng hai phút trước.
-
-Khải lập tức:
-
-— Mức cảnh báo hai. Dừng nghi thức. Chuẩn bị chuyển Trung theo tuyến B, Huy tuyến A.
-
-Không ai tranh luận.
-
-Lan úp các tờ giấy.
-
-Thi tháo cảm biến không cần thiết, giữ monitor di động.
-
-Huy đóng laptop.
-
-Quỳnh cầm bản sao hồ sơ.
-
-Kế hoạch chuyển người đã được viết từ trước.
-
-***
-
-Tuyến A dẫn Huy lên cầu thang phụ phía tây, ra xe ở ngõ sau.
-
-Tuyến B đưa Trung qua hành lang hầm sang lối kỹ thuật phía bắc.
-
-Không giao nhau.
-
-Khải đi giữa.
-
-21 giờ 44.
-
-Tòa soạn mất điện.
+21 giờ 42, điện tòa soạn mất.
 
 Máy phát dự phòng bật sau bốn giây.
 
-Bốn giây đủ dài nếu có người đã chuẩn bị.
+Gần như cùng lúc, một bình khí nén ở cửa ngõ sau nổ van làm vỡ mảng kính lớn. Đội A dừng trước khi đưa Huy ra vùng không nhìn rõ. Ở phía bắc, ống thông gió phụ bắt đầu đẩy khói trắng có mùi ngọt vào hành lang tuyến B.
 
-Một tiếng nổ không lớn vang từ cửa ngõ sau.
+Thi chửi nhỏ.
 
-Không chất nổ phá hoại lớn.
+— Chúng biết hai đường.
 
-Một bình khí nén bị kích làm vỡ kính và tạo tiếng động.
+Khải nghe qua bộ đàm.
 
-Đội A dừng theo đúng protocol, không đưa Huy ra điểm có thể là phục kích.
-
-Đội B báo lối kỹ thuật có khói hóa chất từ ống thông gió.
-
-Khải:
-
-— Cả hai quay về điểm lõi. Không ép ra ngoài.
-
-Điểm lõi an toàn nhất trong kết cấu lúc này là khu hầm nông trước Phòng 17.
-
-Một quyết định hợp lý.
-
-Và chính là điều đối phương muốn.
+— Không ép người qua khói. Cả hai tuyến lùi về lõi, giữ khoảng cách.
 
 ***
 
-21 giờ 47.
+Camera ngoài bắt được ba người mặc đồ bảo trì dùng thẻ hợp lệ vào cửa tầng một. Mã thẻ thuộc đúng công ty điện đã bị khoanh ở chương trình rà soát ba ngày trước; việc vô hiệu hóa trên hệ thống mới không có tác dụng với một khóa cơ dự phòng mà tòa nhà cũ vẫn giữ ở cửa kỹ thuật.
 
-Camera ngoài bắt ba người mặc đồ bảo trì đi vào bằng thẻ truy cập hợp lệ.
+Hai người bị chặn ở tầng một. Người thứ ba mất khỏi camera trong góc cầu thang.
 
-Thẻ thuộc một công ty điện từng làm hệ thống tòa soạn sáu tháng trước.
-
-Không phải công an rò lịch.
-
-Chợ Âm đã chuẩn bị quyền vào từ trước.
-
-Khải ra lệnh khóa cửa ngăn.
-
-Hai đối tượng bị chặn tầng một.
-
-Người thứ ba biến khỏi camera.
+Khải hiểu ngay điều khiến mình khó chịu nhất: đối phương không ứng biến. Chúng đã nghiên cứu kết cấu từ trước.
 
 ***
 
-Huy được đưa xuống hầm nông.
+21 giờ 46, Huy và Trung bị đẩy ngược về cùng khu hầm nông từ hai hướng khác nhau. Họ còn cách nhau hơn mười mét khi nhìn thấy nhau.
 
-Quỳnh cạnh anh.
-
-Trung từ hướng khác cũng tới, Thi và Lan đi cùng.
-
-Hai nhóm nhìn thấy nhau qua hành lang.
-
-Khoảng cách mười lăm mét.
+Cả hai dừng ngay, không cần nhắc.
 
 Khải quát:
 
-— Không tiến gần. Huy đứng yên. Trung lùi vào phòng chờ B.
+— Không tiến gần. Huy giữ bên phải. Trung lùi cửa B.
 
-Họ làm ngay.
+Trung vừa lùi một bước thì khói từ phòng chờ B tràn ra mạnh hơn. Đội đo nhanh chưa biết thành phần, chỉ biết không thể cho người đi vào. Bên phía Huy, tiếng kim loại rơi và một bóng người xuất hiện ở cầu thang sau buộc tổ bảo vệ khóa hướng đó.
 
-Rồi hệ thống thông gió phụ bật trái lệnh.
+Trong chưa tới mười giây, cả hai đường tách bị cắt.
 
-Khói trắng từ phía phòng chờ B tràn ra.
+Cửa duy nhất ở lõi có thể khóa cứng từ trong, không nối trực tiếp hệ thông gió vừa bị can thiệp và đã được camera kiểm soát suốt đêm là Phòng 17.
 
-Không dày nhưng có mùi ngọt.
+Khải nhìn cửa, rồi nhìn Huy và Trung.
 
-Thi:
+Không có lá bài nào bảo ông nên hay không nên làm gì.
 
-— Không vào đó!
+Chỉ có một dữ kiện họ đã thấy ở hành lang vài ngày trước: hai người ở gần nhau có thể cùng phản ứng bất thường.
 
-Lối của Trung bị cắt.
+Và một dữ kiện khác đang xảy ra trước mắt: bên ngoài có khói chưa xác định và ít nhất một người có khả năng mang vũ khí.
 
-Huy phía A cũng bị tiếng kính vỡ và một đối tượng xuất hiện ở cầu thang sau ép ngược.
+Ông quyết định trong một giây.
 
-Khải bắn cảnh cáo/lệnh khống chế, đối tượng bỏ vật kim loại rồi chạy.
+— Tất cả vào Phòng 17. Huy và Trung hai góc đối diện. Không chạm nhau. Khóa trong, chờ tôi sạch hành lang.
 
-Trong chưa đầy mười giây, hai tuyến an toàn cùng bị phá.
-
-Cửa duy nhất còn có thể khóa cứng và không có thông gió trực tiếp:
-
-Phòng 17.
-
-Khải nhìn cửa.
-
-Nhìn Huy.
-
-Nhìn Trung.
-
-Lá ba bích từng cảnh báo:
-
-“Đừng đưa hai đứa vào cùng phòng.”
-
-Nhưng một cảnh báo không phải kế hoạch.
-
-Bây giờ lựa chọn là khói chưa xác định và kẻ có vũ khí ngoài hành lang...
-
-hoặc căn phòng.
-
-Khải quyết định trong một giây.
-
-— Vào Phòng 17. Tất cả. Khóa trong, chờ đội sạch hành lang.
-
-Không ai nói “nhưng lá bài”.
-
-Mạng người trước.
+Mạng người trước giả thuyết.
 
 ***
 
-21 giờ 49.
+21 giờ 48, cửa Phòng 17 đóng.
 
-Cửa Phòng 17 đóng.
+Bên trong có Trung, Thi, Lan, Huy, Quỳnh, Somchai và hai cán bộ bảo vệ. Khải ở ngoài hành lang giữ liên lạc với các tổ truy bắt.
 
-Bên trong:
+Huy đứng sát tường phải. Trung ở góc trái. Giữa họ hơn sáu mét và một chiếc bàn thấp.
 
-Trung.
+Phản ứng bắt đầu gần như ngay lập tức.
 
-Thi.
+Trung gập người, bàn tay ấn giữa ngực. Monitor từ 102 lên 137. Huy dựa lưng vào tường, Holter không hiện trực tiếp ra màn hình nhưng mạch cổ nhanh và không đều dưới ngón tay Quỳnh.
 
-Lan.
+Lan nói:
 
-Huy.
+— Không cho họ tiến gần.
 
-Quỳnh.
+Không ai định làm vậy.
 
-Somchai, được đội quan sát đưa xuống cùng khi tầng trên mất an toàn.
+Trung nhắm mắt rồi bật ra:
 
-Hai cán bộ bảo vệ.
+— Quế.
 
-Khải ở ngoài hành lang chỉ huy, không vào vì phải giữ liên lạc đội.
+Thi cúi xuống.
 
-Camera trong phòng vẫn chạy bằng pin.
+— Gì?
 
-Huy và Trung cách nhau gần sáu mét.
+— Mùi quế. Rồi... lạnh bên mắt trái.
 
-Ngay khi cửa khóa, cả hai cùng co người.
+Hắn hít gấp.
 
-Huy ôm ngực.
+— Tay nóng. Có tiếng trẻ con dưới sàn. Khói. Cổ tay đau.
 
-Trung quỳ xuống.
+Lan nhìn năm tờ hồ sơ vẫn nằm úp trên bàn. Những mảnh vừa nói không mới. Chúng là những mảnh đã từng gắn riêng với Cầm, A Mã, Pao Sử, Như và những ký ức khác, nhưng lần này chúng tới gần như chồng lên nhau, không còn khoảng cách.
 
-Monitor báo hai nhịp tim tăng đột ngột.
+— Trung, mở mắt. — Thi nói.
 
-Lan:
+Hắn mở. Đồng tử đáp ứng ánh sáng.
 
-— Tách họ!
+— Tao không biết cái nào là của tao.
 
-Thi kéo Trung về góc trái.
+Câu ấy làm căn phòng im đi hơn bất kỳ tiếng nói lạ nào.
 
-Quỳnh kéo Huy góc phải.
+Ở phía bên kia, Huy cũng đang thở gấp nhưng vẫn tỉnh. Anh nhìn Trung, rồi nhìn năm hồ sơ.
 
-Somchai mở túi vải.
+— Đừng hỏi “cái thứ sáu” là ai.
 
-— Không được để họ chạm.
+Somchai quay sang.
 
-Huy thở gấp.
+Huy nói tiếp, từng chữ đứt theo nhịp thở:
 
-— Em... không định.
+— Mình đang trộn năm người thành một thứ rồi bắt Trung trả lời tên của thứ đó. Tách năm người ra trước.
 
-Trung ở phía kia nói cùng lúc:
+Quỳnh đã nghĩ cùng hướng. Nó kéo một tập giấy trắng về phía mình, viết năm cái tên thành năm dòng cách xa nhau:
 
-— Tao cũng vậy.
+**A HÙ**
 
-Rồi cả hai ngẩng lên.
+**A MÃ**
 
-Nói cùng một câu.
+**CẦM**
 
-Cùng nhịp.
+**PAO SỬ**
 
-— **Muộn rồi.**
+**NHƯ**
 
-Không ai trong hai người có vẻ biết mình vừa nói.
+Không có dòng thứ sáu.
 
-***
+Lan nhìn tờ giấy rồi gật.
 
-Đèn pin dự phòng chớp.
+— Mỗi mảnh trả về đúng người. Không xử lý cái chưa biết.
 
-Năm tờ giấy trên bàn tự lật.
+Qua bộ đàm, Khải hỏi tình trạng. Thi báo nhịp Trung, Quỳnh báo Huy còn tỉnh. Ngoài hành lang có tiếng chân chạy và một tiếng quát bắt người.
 
-A Hù.
+Khải đáp:
 
-A Mã.
+— Giữ như vậy. Không làm thêm gì cho tới khi hành lang sạch, trừ khi y tế yêu cầu.
 
-Cầm.
+Không ai tranh luận.
 
-Pao Sử.
+Trung nhìn năm cái tên trên giấy. Nước mắt hắn chảy nhưng giọng đã bớt hoảng hơn.
 
-Như.
+— Tao nhớ nhiều thứ quá.
 
-Tờ thứ sáu vốn không tồn tại trượt từ dưới hộp hồ sơ ra.
+Thi ngồi xổm trước mặt hắn.
 
-Trắng.
+— Vậy mình gỡ từng thứ.
 
-Một vệt mực bắt đầu chạy trên đó.
+— Nếu gỡ xong vẫn còn một cái không phải tao thì sao?
 
-Không phải chữ viết đẹp.
+Thi nhìn thẳng.
 
-Chỉ một câu:
+— Tới lúc đó mới hỏi.
 
-**TA KHÔNG CẦN TÊN NỮA.**
+Đêm ấy, khoảng trống sau năm cái tên vẫn còn.
+
+Nhưng lần đầu tiên, không ai vội lấp nó bằng một cái tên mới.

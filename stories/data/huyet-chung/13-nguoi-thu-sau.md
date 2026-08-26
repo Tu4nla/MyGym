@@ -1,545 +1,287 @@
 # Chương 13 — Người Thứ Sáu
 
-Không ai trả lời câu hỏi trên gương.
+Mười bảy giây được xem lại sáu lần trong buổi sáng hôm sau.
 
-Khải yêu cầu tắt toàn bộ kích thích.
+Không ai gọi đó là “câu hỏi của thứ trong gương” nữa, bởi gương không làm gì cả. Camera ghi đúng một người đứng dậy khỏi giường, cầm bút bằng tay phải, viết ba dòng bằng nét chữ quen thuộc rồi quay về chỗ ngồi. Người ấy là Trung. Điều duy nhất Trung không có là ký ức về hành động của chính mình.
 
-Che gương.
+Khải cho in sáu ảnh liên tiếp từ video và đặt cạnh tờ giấy đã niêm phong. Ảnh đầu Trung còn ngồi đọc. Ảnh thứ hai hắn vừa đứng lên. Ảnh thứ ba tay chạm bút. Ảnh thứ tư chữ **MÀY** đã hiện. Ảnh thứ năm là dấu hỏi cuối cùng. Ảnh thứ sáu Trung lại ngồi trên giường, mắt cúi xuống trang sách như chưa từng rời khỏi đó.
 
-Dừng thử nghiệm.
+Thi đứng bên cạnh bàn, không nói gì. Trung nhìn từng ảnh rất lâu rồi hỏi:
 
-Không phải vì sợ câu chữ.
+— Nếu tay em viết, mình còn được gọi là “nó viết” không?
 
-Vì một nguyên tắc đơn giản: khi chưa biết hệ thống phản hồi như thế nào, đừng tiếp tục feed input chỉ vì tò mò.
+Khải đáp:
 
-Trung ngồi trên giường, hai bàn tay đặt lên đầu gối.
+— Không, nếu chưa có bằng chứng phần nào khác điều khiển tay cậu.
 
-Hắn nhìn tấm vải phủ gương.
+— Vậy ghi thế nào?
 
-— Nó hỏi đúng thứ em đang sợ.
+— “Trung viết trong khoảng mất ký ức mười bảy giây.”
 
-Thi qua loa:
+Trung gật. Hắn có vẻ nhẹ đi một chút vì câu chữ chính xác, rồi lại nặng xuống ngay sau đó.
 
-— Không nói tiếp.
+— Nghe còn ghê hơn.
 
-— Tao chỉ mô tả.
-
-— Mô tả cũng là trả lời nếu nó nghe được.
-
-Trung gật.
-
-Lần này ngoan bất thường.
+— Tôi biết.
 
 ***
 
-Sáng hôm sau, Khải chia nhóm.
+Khải chia toàn bộ dữ liệu thành hai bảng. Một bảng chỉ chứa thứ có thể đo, chụp hoặc lấy mẫu: thời gian, camera, hóa sinh, thương tích, marker HN-23, những khoảng mất ký ức. Bảng còn lại chứa trải nghiệm chủ quan: mùi quế, cảm giác nóng ở tay, người đứng trong phản chiếu, những ký ức không rõ nguồn.
 
-Một nhóm chỉ xử lý vật chất: hóa sinh, camera, thời gian, nạn nhân.
+Ông không cấm hai bảng gặp nhau. Ông chỉ không cho chúng nhập làm một quá sớm.
 
-Một nhóm xử lý lời kể/ảo giác: Lan, Quỳnh, Huy hỗ trợ, nhưng mọi phát hiện phải được đánh dấu rõ cái nào quan sát được, cái nào suy luận.
+Kết quả hóa sinh mang tới giới hạn đầu tiên đáng tin hơn mọi lý thuyết. Hưng, Cường, Thành, người chết dưới cầu thang và Lộc đều có marker cùng nhóm HN-23. Hai người khác bị bắt trong kho cũng có, nhưng nhiều tài khoản Chợ Âm khác không có. Khi truy nguồn giao dịch, điểm chung hiện ra: nhóm mang marker từng trực tiếp xử lý hàng sống hoặc vật liệu liên quan mã H-49.
 
-Không cho hai nhóm “nhiễm” giả thuyết quá sớm.
+Thi nhìn sơ đồ trên màn hình.
 
-Huy nói:
+— Nghĩa là ít nhất tới lúc này, những người bị ảnh hưởng mạnh đều từng có thứ đó trong người từ trước.
 
-— Blind analysis?
+Khải sửa rất nhẹ:
 
-Khải:
+— Đều có marker và đều có lịch sử tiếp xúc phù hợp. Chưa biết marker là nguyên nhân, điều kiện hay chỉ dấu đi kèm.
 
-— Gần vậy.
+Lan ngồi bên kia bàn, lật sổ A Mã.
 
-— Anh càng ngày càng dùng kỹ thuật hay.
+— Trong mấy trang cuối ông ấy có câu “bột chỉ gọi thứ đã có cửa”.
 
-— Tôi dùng trước khi cậu biết tên.
+Khải nhìn sang.
 
-Huy im được vài giây.
+— Tôi sẽ giữ câu đó ở cột ghi chép cũ.
 
-***
+— Em cũng vậy.
 
-Nhóm vật chất tìm ra điều đầu tiên.
+Trung dựa lưng ghế.
 
-Ba nạn nhân Hưng, Cường, Thành có marker HN-23 từ trước.
+— Vậy ít nhất em chưa phải cục Wi-Fi phát đi giết người cả thành phố.
 
-Người chết dưới cầu thang cũng có.
+Thi quay sang.
 
-Nhưng nồng độ thấp hơn rất nhiều.
+— Ví dụ của mày ngày càng dở.
 
-Lộc — người bị bắt sống — có cùng marker.
+— Nhưng dễ hiểu.
 
-Hai người Chợ Âm còn lại trong kho cũng có.
-
-Không phải tất cả người trong mạng.
-
-Chỉ một nhánh từng xử lý “hàng sống” và vật liệu H-49.
-
-Khải khoanh trên sơ đồ.
-
-— Những người bị ảnh hưởng đều đã tiếp xúc hàng trước.
-
-Thi:
-
-— Vậy thứ trong Trung không tác động tùy ý lên cả thành phố.
-
-— Hiện chưa có bằng chứng.
-
-Một giới hạn.
-
-Rất quan trọng.
-
-Nếu thật, Trung không phải quả bom có thể giết bất cứ ai chỉ bằng ý nghĩ.
-
-Hắn là một nguồn tín hiệu chỉ “bắt” được những người đã mang một thành phần tương thích.
-
-Lan nghe kết quả sau đó nói:
-
-— Giống A Mã ghi “bột chỉ gọi thứ đã có cửa”.
-
-Khải:
-
-— Tôi thích cách giải thích protein hơn.
-
-— Hai cách đang nói cùng một giới hạn.
-
-— Tạm chấp nhận.
+Lần này Khải không cắt câu đùa. Không khí trong phòng cần một chỗ để thở.
 
 ***
 
-Nhóm lời kể làm một bảng khác.
+Bảng thứ hai khó hơn. Quỳnh tự tay gạch bỏ hai hiện trường Hưng và Thành khỏi mọi phép so sánh tâm lý vì đã có bằng chứng chúng bị dàn dấu sau chết. Cường vẫn để lại. Người ở kho vẫn để lại. Hạ Vũ được ghi riêng vì cái chết có chuỗi va chạm vật lý rõ, dù hành vi ngay trước cú ngã chưa giải thích hết.
 
-Mỗi lần Trung có ý nghĩ mạnh, họ đối chiếu sự kiện.
+Huy nhìn các dòng, đầu bút gõ rất nhẹ vào mép sổ.
 
-Đêm quán Hạ Vũ: Trung không mong người đàn ông chết. Hắn chỉ muốn biết sự thật. Người kia chết vì va/chấn thương chưa rõ.
+— Nếu Trung nghĩ một thứ rồi người mang marker tự nhìn thấy cái khiến họ hành động theo hướng đó thì sao?
 
-Đêm kho: Trung có ý “chết hết đi”. Trong vài phút, nhóm Chợ Âm đã nhiễm HN-23 hoảng loạn mạnh, một người chết.
+Khải hỏi:
 
-Cường: chưa có dữ liệu Trung nghĩ gì lúc mất bốn mươi bảy phút.
+— Dữ liệu nào buộc cậu phải dùng chữ “theo”?
 
-Hưng/Thành: hiện trường bị sửa, không dùng để kết luận.
+Huy ngừng bút.
 
-Không đủ mẫu.
-
-Nhưng pattern đáng sợ.
+— Chưa có.
 
 Quỳnh nói:
 
-— Nếu nó không “thực hiện mệnh lệnh”, mà khuếch đại phần người khác tự sợ hoặc tự làm thì sao?
+— Đêm kho chỉ có một điều chắc: Trung nghĩ “chết mẹ hết đi” trước lúc bên trong loạn. Mình chưa biết hai việc có liên quan hay không.
 
-Lan:
+Lan gật.
 
-— Ví dụ Trung nghĩ “chạy”, người nhiễm chất thấy thứ khiến họ chạy.
+— Vậy đừng làm nó thành mệnh lệnh.
 
-Huy:
+Trung nhìn xuống tay mình.
 
-— Trung nghĩ “chết”, họ thấy thứ khiến họ tự đưa mình tới chỗ chết.
+— Nhưng cũng đừng giả vờ cái trùng đó không đáng sợ.
 
-Khải:
+Không ai phản đối.
 
-— Một giả thuyết hành vi. Tốt. Tìm cách bác nó.
+Hắn đề nghị một thử nghiệm vô hại: cố nghĩ tới một màu, một món ăn hoặc một hành động không gây hại rồi xem người mang marker có phản ứng gì không. Khải từ chối ngay trước khi Trung nói hết.
 
-Huy thở dài.
+— Không dùng người đang bị tạm giữ hoặc bệnh nhân làm thiết bị đo ý nghĩ của cậu.
 
-— Anh rất biết phá mood.
+— Em biết. Em chỉ...
 
-***
+— Tôi biết cậu muốn có câu trả lời.
 
-Cách bác đầu tiên đến từ chính Trung.
+Khải kéo tờ giấy mười bảy giây về phía mình.
 
-Hắn đề nghị nghĩ cố ý một thứ vô hại.
+— Nhưng càng sợ mình nguy hiểm, cậu càng dễ chấp nhận một thử nghiệm mà bình thường cậu sẽ thấy sai. Đó cũng là thứ chúng ta phải canh.
 
-Khải từ chối.
+Trung im một lúc rồi gật.
 
-— Không thử trên người thật.
-
-— Vậy dùng em?
-
-— Cậu đã là người thử.
-
-— Một con chuột?
-
-Lan:
-
-— Không biết “nó” có hiểu động vật như người không.
-
-Quỳnh:
-
-— Và nếu cần người có marker HN-23 thì không thể tạo người thử.
-
-Huy:
-
-— Có Lộc.
-
-Tất cả nhìn anh.
-
-— Tao không nói đem phạm nhân ra làm thí nghiệm. Tao nói mình đã có người nhiễm đang sống và đang được điều trị. Có thể chỉ quan sát tự nhiên, không kích thích.
-
-Khải gật.
-
-— Đúng giới hạn đạo đức hơn.
-
-Lộc được theo dõi y khoa.
-
-Không nói cho hắn về thử nghiệm ý niệm.
-
-Trung được yêu cầu **không cố nghĩ** tới Lộc.
-
-Một yêu cầu gần như chắc khiến người ta nghĩ.
-
-Vì vậy họ bỏ luôn.
-
-Không thử.
-
-Đôi khi khoa học tốt nhất là biết thí nghiệm nào không nên làm.
+— Vâng.
 
 ***
 
-Giọng thứ sáu chủ động xuất hiện hai ngày sau.
+Hai ngày sau, bằng chứng tăng thêm đúng một nấc.
 
-Không gương.
+Không phải vào lúc 02 giờ 13. Không có gương. Không ai đọc tên năm người.
 
-Không 2:13.
-
-Ban ngày.
-
-Trung đang nói chuyện với bác sĩ tâm lý độc lập về mất ngủ.
-
-Phòng có camera theo thỏa thuận.
+Trung đang nói chuyện với một bác sĩ tâm lý độc lập về mất ngủ và cảm giác tội lỗi. Phòng có hai camera và ba kênh âm thanh theo thỏa thuận từ trước, không phải để săn hiện tượng mà để Trung có một nguồn độc lập nếu sau đó hắn không nhớ cuộc nói chuyện.
 
 Bác sĩ hỏi:
 
-— Nếu tách “thứ đó” ra khỏi anh, điều đầu tiên anh muốn làm là gì?
+— Anh sợ nhất điều gì trong mười bảy giây đó?
 
-Trung:
+Trung ngồi im khá lâu.
 
-— Ngủ ba ngày.
+— Sợ là em cứ cố tìm một thằng khác trong đầu để đổ cho nó, trong khi người đứng dậy thật ra vẫn là em.
 
-— Sau đó?
+— Và nếu đúng là anh?
 
-— Ăn lẩu.
+— Thì em muốn biết phần nào của em đã làm.
 
-— Sau đó?
+Bác sĩ gật.
 
-— Đi làm.
+— Còn nếu không phải?
 
-Bác sĩ cười.
+Trung xoa hai lòng bàn tay vào nhau.
 
-— Không trả thù ai?
+— Thì em cũng muốn biết. Em mệt vì câu nào cũng bắt đầu bằng “nếu”.
 
-Trung nhìn.
+Bác sĩ vừa định hỏi tiếp thì có một âm rất nhỏ từ phía bên phải phòng.
 
-— Em nghĩ đủ rồi.
+Một tiếng nói.
 
-Ngay lúc đó microphone ghi một tiếng rất nhỏ.
+Chỉ một từ.
 
-Không phát từ miệng Trung theo video lip-sync.
+— **Biết.**
 
-Một giọng giống hắn nhưng nằm ở kênh âm bên phải, gần microphone tường hơn.
+Cả Trung lẫn bác sĩ cùng quay đầu.
 
-— **Nói dối.**
+Camera chính cho thấy môi Trung đang khép. Camera góc nghiêng cũng vậy. Bác sĩ không nói. Không có người thứ ba trong phòng.
 
-Bác sĩ nghe thấy trực tiếp.
+Ông không hỏi “ai đó”. Ông bấm nút gọi hỗ trợ rồi nói với Trung:
 
-Ông quay đầu.
+— Ngồi nguyên chỗ.
 
-— Ai nói?
+Trung không nhúc nhích.
 
-Trung đông cứng.
+— Em cũng đang định vậy.
 
-Không ai khác trong phòng.
-
-Giọng:
-
-— **Mày muốn Somchai chết.**
-
-Trung đứng bật.
-
-— Im.
-
-Bác sĩ bấm nút gọi.
-
-Giọng cười.
-
-— **Mày muốn Tùng sống lại để tự tay giết lần nữa.**
-
-— IM!
-
-Cửa mở.
-
-Thi và đội vào.
-
-Trung lùi sát tường.
-
-Hắn không nhìn ai.
-
-— Không phải tao nói.
-
-Thi:
-
-— Tao biết.
-
-Giọng từ loa phòng bỗng vang tiếp dù nguồn microphone không xác định:
-
-— **Mày muốn Thi chỉ nhìn mày.**
-
-Cả phòng chết lặng.
-
-Trung đỏ mặt theo một cách vô cùng không đúng lúc.
-
-Thi đứng khựng.
-
-Huy xem lại video sau đó nói:
-
-— Thằng này ác thật.
-
-Trung:
-
-— Tao ghét mày.
-
-Huy:
-
-— Ít nhất câu đó chắc là mày.
+Không có tiếng thứ hai.
 
 ***
 
-Điểm quan trọng không phải câu về Thi.
+Phòng được quét ngay sau đó. Không loa giấu, không điện thoại, không thiết bị phát sóng lạ được tìm thấy. Nhưng kỹ thuật viên cũng không tuyên bố căn phòng “không thể bị can thiệp”; hệ thống âm thanh có đường dây, bộ trộn và máy ghi, bất kỳ thành phần nào cũng cần kiểm riêng.
 
-Là việc giọng thứ sáu nói những ý nghĩ **Trung thừa nhận đã từng có**.
+Phân tích sơ bộ cho thấy âm **Biết** nằm rõ hơn ở microphone tường bên phải so với mic gắn áo Trung. Phổ giọng có vùng giống Trung, nhưng một từ đơn quá ngắn để định danh giọng đáng tin.
 
-Không phải câu nguyên văn.
+Khải ghi lên bảng ba khả năng:
 
-Nhưng đúng nội dung.
+**1. Âm bị chèn qua hệ thống.**
 
-Somchai.
+**2. Có nguồn phát vật lý chưa tìm được.**
 
-Tùng.
+**3. Chưa giải thích.**
 
-Thi.
+Somchai đọc rồi nói:
 
-Nó không đọc tương lai.
+— Anh không để “thực thể” vào danh sách.
 
-Nó đọc phần Trung không nói.
-
-Lan nói:
-
-— Có thể vì nó là cấu trúc sinh ra từ chính vật chủ. Nó không cần “đọc”. Nó dùng cùng nguồn.
-
-Quỳnh:
-
-— Vậy không phải ma nhập theo kiểu người ngoài chui vào.
-
-— Có vẻ không.
-
-Huy:
-
-— Nó là một bản sao được dựng từ năm dấu cộng những phần Trung không kiểm soát.
-
-Khải:
-
-— “Có vẻ”.
-
-Huy:
-
-— Em biết.
-
-***
-
-Họ cần một tên làm việc trong hồ sơ nội bộ.
-
-Không để Trung gọi.
-
-Không để Huy “đặt” theo ý thích.
-
-Chỉ một mã để mọi người nói cùng đối tượng.
-
-Khải đề xuất HC-6.
-
-Huy ghét.
-
-— Nghe như mã phụ tùng.
-
-Khải:
+— Tôi chưa có lý do.
 
 — Tốt.
 
-Lan:
+Trung đứng phía sau, nhìn chữ thứ ba.
 
-— Đừng dùng “Thần Tướng” vì mang giả định.
+— “Chưa giải thích” nghe bực thật.
 
-Quỳnh nhìn file cũ Huy từng mở.
+Thi đứng cạnh hắn.
 
-— “Người Thứ Sáu” chỉ là mô tả vị trí sau năm dấu.
+— Nhưng ít nhất nó không bắt mày nhận một đáp án chỉ vì sợ khoảng trống.
 
-Khải:
+Hắn liếc sang.
 
-— Trong trao đổi ngoài biên bản, tùy.
+— Dạo này mày nói câu nào cũng khó cãi.
 
-Vậy cái tên tồn tại.
+— Học anh Khải.
 
-Không như một lễ đặt tên.
+— Tệ rồi.
 
-Chỉ như cách con người cần nhãn để nói về thứ chưa hiểu.
-
-Người Thứ Sáu.
+Khải nghe thấy nhưng không quay lại.
 
 ***
 
-Đêm đó, Huy nghe cassette cũ trong môi trường kiểm soát cùng Khải.
+Hồ sơ nội bộ cần một mã để nối các sự kiện chưa rõ nguồn. Khải chọn **HC-6** vì nó không mang ý nghĩa ngoài thứ tự làm việc. Huy phản đối theo bản năng.
 
-Không một mình.
+— Nghe như phụ tùng xe máy.
 
-Không tai nghe.
+— Chính xác.
 
-Giọng năm 1999 nói:
+Quỳnh nhìn anh.
 
-“Đừng cho nó một người kể.”
+— Càng ít ý nghĩa càng tốt. Mình từng bị cái tên kéo đi đủ rồi.
 
-Huy hỏi:
+Lan cũng đồng ý không dùng “Thần Tướng” trong biên bản. Đó là thuật ngữ của một trường phái, không phải kết quả giám định. “Người Thứ Sáu” chỉ còn là cách nói miệng khi nhắc tới vị trí trống sau năm cái tên, và ngay cả vậy Trung cũng ít dùng.
 
-— Nếu người kể là thứ giúp nó ổn định, sao Bình lại viết?
+Huy mở một file ghi chú mới, gõ ở đầu trang:
 
-Khải:
+**HC-6 — chưa xác định là một chủ thể độc lập.**
 
-— Có thể ông ấy nhận ra quá muộn.
-
-— Hoặc viết là cách khóa.
-
-— Hai khả năng trái nhau.
-
-— Đúng.
-
-Băng chạy.
-
-Tới đoạn giọng Huy:
-
-“Mày tới trễ rồi.”
-
-“Tao ra ngoài lâu rồi.”
-
-Huy tắt.
-
-— Em bắt đầu nghĩ Phòng 17 không giữ một con gì cả.
-
-— Vậy giữ gì?
-
-— Một **cách truyền**.
-
-Khải nhìn.
-
-Huy giải thích:
-
-— Bản thảo, băng, tên, ký ức. Nếu thứ nào đó tồn tại bằng việc được nhớ, nó không cần ngồi trong phòng. Nó chỉ cần câu chuyện rời khỏi đó.
-
-— Và cậu nghĩ cậu là người mang?
-
-Huy cười không vui.
-
-— Em nghĩ em là một trong những khả năng.
+Rồi mới bắt đầu viết.
 
 ***
 
-Cùng lúc đó ở căn hộ, Trung ngủ.
+Phòng 17 đem lại một kết quả khác, lần này không phải từ băng phát ra lời mới.
 
-Thi ngồi phòng quan sát.
+Phòng kỹ thuật tách được đoạn giọng giống Huy khỏi phần ghi của Bình và xác định hai lớp âm có độ bão hòa, nền nhiễu và dấu từ khác nhau. Kết quả không cho ngày tháng của đoạn sau, nhưng đủ để bác cách nói tiện lợi nhất rằng “năm 1999 đã có giọng Huy”. Ai đó có thể đã ghi đè lên cuộn băng sau này; bằng cách nào nó nằm trong căn phòng bị khóa vẫn là câu hỏi khác.
 
-02 giờ 13.
+Huy nghe báo cáo, ngồi im lâu hơn bình thường.
 
-Không gì.
+— Vậy ít nhất tao chưa bị một ông chú năm 1999 tiên tri.
 
-02 giờ 19.
+Quỳnh nói:
 
-Nhịp tim tăng.
+— Mày thất vọng hả?
 
-02 giờ 21.
+— Hơi. Nghe ngầu.
 
-Trung mở mắt.
+— Mày sống bình thường được ngày nào không?
 
-Nhưng không ngồi dậy.
+— Đang cố.
 
-Hắn nhìn thẳng camera.
+Nhưng khi cười xong, Huy nhìn lại bản thảo *Người Giữ Tên* của Bình và khoanh một câu vốn rất ít huyền bí: **tài liệu có thể giữ ký ức, nhưng cũng có thể làm nhân chứng nhớ theo tài liệu nếu cho đọc quá sớm.**
 
-Miệng nói:
+Anh nói:
 
-— Thi.
+— Có khi cái nguy hiểm nhất của “người kể” chẳng cần là phép gì cả. Mình kể Trung nghe nó là quỷ đủ lâu, tới lúc mất mười bảy giây nó cũng sẽ dùng đúng cái hình đó để hiểu mình.
 
-Nó bật intercom.
+Quỳnh gật.
 
-— Tao đây.
+— Vậy càng phải viết chính xác.
 
-— Vào đi.
+— Ừ.
 
-— Tại sao?
+Đó là lần đầu trong nhiều ngày Huy không thêm câu đùa sau chữ ấy.
 
-— Tao sợ.
+***
 
-Giọng đúng Trung.
+Tối hôm đó, Trung được chuyển sang một phòng khác trong cùng khu bảo vệ. Thi ở phòng quan sát; hắn ngủ từ gần nửa đêm, giấc chập chờn nhưng không có khoảng đi lại nào bị mất.
 
-Thi đứng.
+02 giờ 26, nhịp tim tăng khoảng mười lăm nhịp rồi tự hạ. Camera không ghi gì ngoài một lần Trung trở mình.
 
-Khải ở phòng bên giơ tay.
+Sáng hôm sau Thi vào đánh thức. Hắn mở mắt, nhìn trần nhà vài giây rồi hỏi:
 
-— Xác minh.
-
-Thi:
-
-— Hồi đại học tao làm gãy cái gì của mày?
-
-Trung không cần nghĩ.
-
-— Không phải mày. Tao tự trượt cầu thang, nhưng mày kể với cả khóa là mày đá tao để lấy fame.
-
-Thi thở ra.
-
-Đúng.
-
-Nó vào cùng một cán bộ.
-
-Trung ngồi dậy.
-
-— Tao mơ thấy năm người.
-
-— Rồi?
-
-— Họ biến hết.
-
-— Còn cái thứ sáu?
-
-Trung nhìn nó.
-
-— Không đứng sau tao nữa.
-
-Thi lạnh người.
-
-— Ở đâu?
-
-Trung đặt tay lên ngực.
-
-— Ở đây.
-
-Đúng lúc đó, màn hình theo dõi nhịp tim ghi một hiện tượng lạ.
-
-Trong ba giây, cảm biến quang học bắt được **hai chu kỳ dao động chồng lên nhau**.
-
-Một khoảng 68 nhịp.
-
-Một khoảng 34.
-
-Sau đó trở lại bình thường.
-
-Thi nhìn dữ liệu.
-
-Huy ở đầu kia video khi được gọi tới chỉ nói một câu:
-
-— Giống tao.
-
-Somchai nghe câu đó thì tái mặt.
+— Đêm qua có ai nói không?
 
 — Không.
 
-Lan:
+— Tao có viết gì không?
 
-— Không gì?
+— Không.
 
-Ông nhìn Huy.
+Trung thở ra.
 
-Rồi Trung.
+Thi tưởng hắn sẽ nhẹ nhõm. Nhưng hắn chỉ ngồi dậy, xoa mặt.
 
-— Nó đang học cách dùng Song Mạch.
+— Vậy một đêm yên cũng chưa chứng minh được gì.
+
+— Không.
+
+— Tao ghét câu này.
+
+— Tao biết.
+
+Cả hai cùng dừng lại.
+
+Từ **biết** nằm giữa căn phòng lâu hơn nó đáng có.
+
+Không ai nói thêm.
