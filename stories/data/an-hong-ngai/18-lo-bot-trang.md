@@ -1,544 +1,300 @@
-Tùng tự khóa cửa hầm từ bên trong.
+Tùng khóa cả hai lối xuống hầm từ bên trong.
 
-Đó là lý do hắn không bị bắt ngay lúc 00 giờ 11.
+Cửa chính có thanh chốt ngang bằng sắt và hai điểm khóa phụ. Lối thông sau luống thứ ba bị kéo một tấm chắn xuống bằng cơ cấu ròng rọc cũ. Những thứ đó không phải bùa. Chúng là phần cứng của một nơi đã được chuẩn bị nhiều năm để giữ người ở trong và người khác ở ngoài.
 
-Cánh cửa sắt ở lối chính có một thanh chốt ngang thả từ phía trong, cộng thêm hai điểm khóa phụ mà đội khám xét ban ngày chưa tháo vì khu hầm được giữ hiện trạng. Lối hậu sau luống thứ ba cũng bị hắn kéo một tấm sắt xuống, chèn bằng cơ cấu ròng rọc cũ.
+00 giờ 18, Khải đứng dưới mái kho cùng tổ tiếp cận. Huy ở sau tuyến an toàn để chỉ cấu trúc hầm trên sơ đồ. Quỳnh và Quân bị giữ ngoài sân. Thi cùng Trung vừa từ đồi về, chỉ được phép hỗ trợ ở vòng ngoài sau khi kiểm tra tình trạng.
 
-Tùng không chạy vào một cái bẫy mà không biết đường đóng cửa.
+Lan nghe qua điện thoại từ trạm y tế. Khi kỹ thuật viên phát hiện những dây đỏ nối với hai bình thủy tinh gần cửa phụ, cô nói ngay:
 
-Hắn chạy vào nơi mình đã chuẩn bị làm pháo đài.
-
-Và đó mới là thứ giết hắn.
-
-***
-
-00 giờ 18.
-
-Khải đứng ngoài kho lúa cùng tổ tiếp cận.
-
-Huy được giữ ở khoảng an toàn nhưng có mặt để chỉ cấu trúc hầm. Quỳnh và Quân ở tuyến sau. Thi, Trung vừa từ đồi xuống, được yêu cầu nghỉ vài phút nhưng không ai thật sự nghỉ.
-
-Lan nghe qua điện thoại từ trạm.
-
-— Không cắt bừa dây đỏ quanh cửa. — cô nói. — Trong sổ A Mã có mấy đường dẫn nối bẫy cơ học với bình hóa chất.
+— Đừng cắt trước khi biết đầu kia nối gì. Trong sổ A Mã có mấy bẫy cơ học dùng bình hóa chất.
 
 Khải hỏi:
 
-— Hóa chất gì?
+— Chất gì?
 
-— Không biết.
+— Không ghi rõ.
 
-— Vậy coi tất cả là nguy hiểm cho tới khi kiểm tra.
+— Vậy chưa biết thì tránh.
 
-Không ai gọi đó là “bùa nổ”.
-
-Có dây.
-
-Có bình.
-
-Có thể kiểm tra.
+Không ai cần gọi nó bằng một cái tên huyền bí hơn.
 
 ***
 
-Một camera nhỏ gắn đầu sào được luồn qua khe thông gió.
+Một camera nhỏ gắn đầu sào được luồn qua khe thông gió. Hình nhiễu vì ánh sáng yếu nhưng đủ thấy Tùng ngồi giữa những luống cây đỏ nâu.
 
-Hình ảnh nhiễu nhưng đủ thấy Tùng.
+Vết đạn ở đùi trái vẫn chảy. Hắn đã quấn một dải vải rất chặt trên cao hơn vết thương, nhưng thay vì giữ nguyên để cầm máu, Tùng đang tháo nó ra.
 
-Hắn ngồi giữa những luống Huyết Ngải.
+Trước mặt hắn là một rãnh tre nhỏ dẫn qua các luống cây. Chiếc lọ thủy tinh nắp đen đặt cạnh đầu gối.
 
-Chân trái chảy máu từ vết đạn. Quần đã thẫm một mảng. Lọ bột trắng vẫn trong tay.
+Huy nhìn màn hình, mặt thay đổi.
 
-Trước mặt là hệ rãnh tre nhỏ dẫn vào gốc cây.
+— Hắn định dùng máu.
 
-Tùng dùng dao rạch dây vải quấn vết thương.
-
-Máu nhỏ xuống rãnh.
-
-Huy nhìn màn hình.
-
-— Hắn đang cho cây ăn.
-
-Quỳnh hỏi:
+Khải hỏi:
 
 — Để làm gì?
 
-— Có thể nghĩ nó giúp hồi sức. Có thể kích hoạt lần cuối.
+— Tôi không biết chắc. Tôi từng thấy A Mã cho máu động vật vào rãnh để nuôi cây. Còn cái lọ trắng thì Tùng không cho tôi nhìn gần.
 
-Khải nói:
+Khải quay sang người phụ trách loa liên lạc.
 
-— Không đoán ý định nếu không cần. Theo dõi tay.
+— Gọi hắn ra trước. Đừng đoán tiếp.
 
-Tùng ngẩng đầu.
+Giọng một cán bộ vang qua khe thông gió:
 
-Nhìn thẳng về phía camera dù rất khó biết nó ở đó.
+— Nguyễn Hoàng Thanh Tùng. Anh đang bị thương. Bỏ dao, không sử dụng chất trong lọ, mở chốt cửa chính. Y tế đang chờ bên ngoài.
 
-Hắn cười.
+Tùng ngẩng lên.
 
-— Quỳnh.
+Hắn nhìn quanh một lúc mới xác định được vị trí âm thanh.
 
-Âm thanh lọt qua khe.
+— Quỳnh đâu?
 
-Quỳnh không đáp.
+Không ai trả lời câu đó.
 
-Tùng nói tiếp:
+— Anh đang mất máu. Giữ băng ép và mở cửa.
 
-— Mày coi đi.
+Tùng cười.
 
-Hắn rắc bột xuống máu.
+— Tao không ra.
 
-***
-
-Những cây Huyết Ngải phản ứng.
-
-Không phải mọc dài như phim.
-
-Đầu tiên chỉ là cánh hoa khép.
-
-Từng bông một.
-
-Sau đó các rễ nổi trên mặt đất co nhẹ về hướng rãnh có máu, giống thực vật phản ứng với nguồn ẩm nhưng nhanh hơn mức tự nhiên.
-
-Huy thở chậm.
-
-— Tôi từng thấy khi tụi nó cho máu động vật. Không nhanh vậy.
-
-Tùng đặt tay lên đất.
-
-Đọc một đoạn gì đó.
-
-Không ai ngoài Lan có thể nhận diện vài âm trong đó từ sổ A Mã.
-
-Cô nói qua điện thoại:
-
-— Không phải tiếng Mông. Không phải nghi lễ địa phương. Một đoạn pha nhiều thứ A Mã ghi âm theo kiểu Huyền Môn biến thể.
-
-Một lưu ý nhỏ nhưng cần thiết.
-
-Thứ đang xảy ra dưới căn nhà không đại diện cho ai ngoài những người đã tạo nó.
+Khải ra hiệu tiếp tục phá khóa song song với đàm phán.
 
 ***
 
-00 giờ 27.
+Tùng tháo hẳn dải vải khỏi chân.
 
-Tùng đứng lên.
+Máu chảy xuống rãnh nhanh hơn.
 
-Chân bị thương không chịu lực tốt.
+Quỳnh nhìn màn hình từ ngoài sân qua thiết bị phụ. Nó không hiểu nổi tại sao một người đã biết mình bị thương lại chủ động bỏ thứ duy nhất đang giữ máu. Rồi Tùng mở lọ, đổ một lượng bột trắng rất nhỏ vào vũng máu trong rãnh.
 
-Hắn ném một nhúm bột vào không khí.
+Không có tiếng nổ.
 
-Cùng lúc, ba người ngoài kho báo thấy chuyển động khác nhau.
+Không có cây mọc dài khỏi đất.
 
-Một cán bộ thấy người chạy qua sân.
+Những cánh hoa gần rãnh khép lại gần như cùng lúc. Một số rễ nổi trên mặt đất co nhẹ về phía ẩm, nhanh hơn phản ứng thực vật mà Quỳnh từng thấy nhưng vẫn là chuyển động của những thứ vốn đã nằm ở đó.
 
-Trung nghe tiếng ai gọi tên mình dưới hầm.
+Mùi ngai ngái lọt qua khe thông gió vài giây sau. Tổ tiếp cận lùi thêm, chuyển sang bảo hộ hô hấp.
 
-Thi thấy Quyên đứng trong cửa kho.
+Lan nói qua loa:
 
-Nhưng camera cố định không ghi nhận ai.
+— Trong sổ có cảnh báo không hít trực tiếp hỗn hợp khi trộn với máu. Không ghi tác dụng.
 
-Khải ra lệnh:
+Khải hỏi:
 
-— Không rời vị trí vì hình ảnh đơn lẻ. Giữ mắt vào mục tiêu nhiệt và cửa thật.
+— Có biết đây là độc không?
 
-Tùng đang cố dùng Huyết Ngải để tạo khoảng trống như trên đồi.
+— Không.
 
-Lần này mọi người đã biết trò.
-
-Không hoàn toàn miễn nhiễm.
-
-Nhưng chuẩn bị trước luôn làm nỗi sợ bớt quyền lực.
+— Vậy chỉ báo có nguy cơ phơi nhiễm. Đừng gọi tên tác dụng.
 
 ***
 
-00 giờ 31.
+00 giờ 27, tác động nhận thức bắt đầu xuất hiện ở những người gần kho.
 
-Máu Tùng chảy nhiều hơn.
+Thi nhìn thấy Quyên đứng sau cửa. Một cán bộ ngoài sân nghe tiếng con trai mình gọi từ dưới hầm. Trung không thấy người, nhưng cảm giác râm ran sau gáy tăng mạnh tới mức hắn phải vịn tường.
 
-Rễ cây bò tới cổ giày.
+Camera cố định vẫn chỉ có sân, cửa kho và Tùng bên trong.
 
-Hắn đá ra.
+Khải lập tức cho lùi những người không cần thiết thêm một khoảng, giữ tổ phá cửa ở đúng vị trí đã đánh dấu.
 
-Rễ co lại.
+— Không ai rời chỗ vì tiếng gọi hay hình ảnh đơn lẻ. Nếu thấy thứ gì, báo rồi kiểm bằng nguồn khác.
 
-Huy ghé màn hình.
+Họ đã học quy tắc ấy bằng quá nhiều lần suýt trả giá.
 
-— Cái đó mới.
+Bên trong, Tùng cũng bắt đầu nhìn sang những chỗ trống.
 
-Lan hỏi qua loa:
+Hắn quay đầu rất nhanh về góc luống thứ hai.
 
-— Máu rơi trực tiếp xuống luống à?
+— Im đi.
 
-— Ừ.
+Không ai bên ngoài nghe được người nào khác nói trước đó.
 
-Lan lật sổ A Mã ở đầu dây bên kia.
+Tùng nhìn sang một góc khác.
 
-Một lát sau cô đọc:
+— Tao biết mày chết rồi.
 
-— Có câu: “Ngải không nhận chủ. Chỉ nhận thứ nuôi nó.”
+Huy đứng cạnh màn hình, không nói.
 
-Khải nhìn Huy.
+Quỳnh không biết hắn đang thấy ai. Trang. Như. A Mã. Hay chỉ một hình ảnh do chính hỗn hợp hắn vừa dùng tạo ra.
 
-— Nghĩa thực tế?
+Không cần biết để cứu hắn.
 
-Huy nhún vai.
+Người đàm phán tiếp tục gọi:
 
-— Nếu A Mã ghi đúng, cây không phân biệt máu ai.
+— Tùng. Quấn lại chân. Mở cửa. Chúng tôi sẽ đưa anh đi cấp cứu.
 
-Quỳnh nhìn màn hình.
+Hắn không nghe.
 
-Tùng đang đứng trong một khu vườn được nuôi nhiều năm để phản ứng với máu.
-
-Và hắn đang mất máu giữa nó.
+Hoặc không muốn nghe.
 
 ***
 
-00 giờ 35.
+00 giờ 33, Tùng cố đứng lên nhưng chân trái không chịu lực. Hắn đổ người vào giá gỗ, làm một chậu kim loại rơi xuống nền.
 
-Tùng bắt đầu hiểu.
+Máu để lại một vệt dài từ rãnh tới chỗ hắn ngồi lại.
 
-Hắn rút chân.
+Huy hỏi nhỏ kỹ thuật viên y tế:
 
-Một đoạn rễ đã quấn quanh mắt cá.
+— Mất vậy có nguy hiểm chưa?
 
-Hắn cắt.
+— Không thể ước lượng chính xác qua camera. Nhưng vết đạn đùi chảy liên tục gần một giờ thì chắc chắn cần can thiệp sớm.
 
-Dịch sẫm phun ra.
+Khải thúc đội mở cửa.
 
-Những cây bên cạnh đồng loạt khép cánh.
+Cửa phụ có thể cắt nhanh hơn nhưng dây nối bình hóa chất chưa được cô lập hoàn toàn. Cửa chính chắc hơn, thanh chốt nằm phía trong. Đội kỹ thuật chọn phá từng điểm khóa thay vì kích hoạt một thứ chưa biết.
 
-Không ai bên ngoài nói.
+Tùng vẫn còn cơ hội tự mở.
 
-Tùng chửi.
+Hắn không làm.
 
-Lần đầu giọng mất kiểm soát.
+Thay vào đó hắn kéo chiếc lọ lại, đổ thêm bột xuống rãnh rồi dùng hai bàn tay trộn lớp đất ướt quanh gốc cây gần nhất.
 
-Hắn rắc thêm bột.
+Môi hắn đọc một đoạn ngắn, lẫn nhiều âm không ai trong nhóm nhận ra hoàn toàn.
 
-Đọc nhanh hơn.
+Lan nghe qua điện thoại rồi nói:
 
-Rễ vẫn tiến.
+— Có vài âm giống ghi chép Huyền Môn của A Mã. Phần còn lại tôi không biết.
 
-— Dừng lại! — hắn quát.
-
-Không rõ quát cây, quát linh thể hay quát chính mình.
-
-Một giọng khác vang trong hầm.
-
-Rất nhỏ.
-
-Không ghi được rõ trên microphone.
-
-Quỳnh nghe giống phụ nữ.
-
-Huy nghe đàn ông.
-
-Thi nghe A Mã.
-
-Không ai thống nhất.
-
-Chỉ Tùng phản ứng như hiểu.
-
-— Im!
-
-Hắn quay quanh.
-
-— Tao là chủ!
-
-Quỳnh thấy buồn một cách lạnh lẽo.
-
-Câu cuối cùng hợp với hắn đến mức tàn nhẫn.
-
-Tùng luôn cần làm chủ.
-
-Trang.
-
-Như.
-
-Trâm.
-
-A Mã.
-
-A Hù.
-
-Người chết.
-
-Người sống.
-
-Đến cả thứ cây ăn máu cũng phải thuộc về hắn.
+Không ai gọi đó là tiếng Mông hay nghi lễ của Hồng Ngài. Những gì dưới căn nhà này thuộc về những người đã tạo ra nó, không thuộc về cả một cộng đồng đang sống trên sườn núi bên ngoài.
 
 ***
 
-00 giờ 39.
+00 giờ 39, Tùng bắt đầu ho.
 
-Tùng cố chạy tới cửa hậu.
+Không phải tiếng ho nhẹ. Hắn cúi gập người, thở khó rồi nôn xuống nền. Camera thấy bàn tay run khi tìm lại chiếc lọ.
 
-Vết thương làm hắn ngã.
+Người phụ trách y tế nói:
 
-Máu đổ xuống luống nhiều hơn.
+— Có thể mất máu, hít chất kích ứng, cả hai hoặc thứ khác. Cần đưa ra ngay.
 
-Camera rung vì người cầm sào đổi góc.
+Loa lại gọi:
 
-Rễ và thân cây quấn quanh chân, tay, áo.
+— Tùng, nghe rõ không? Đừng dùng thêm chất. Ép vào vết thương. Mở cửa.
 
-Không phải hàng chục mét dây leo mọc từ hư vô.
+Hắn ngẩng mặt.
 
-Chúng vốn đã phủ dày nền đất, đan giữa các rãnh từ trước. Khi bị kích thích, chúng co và kéo đồng loạt như một hệ lưới sống.
+— Tao không cần tụi mày cứu.
 
-Tùng cắt được vài đoạn.
+Giọng rất nhỏ nhưng micro bắt được.
 
-Rồi dao rơi.
+Quỳnh đứng sau vạch an toàn, hai tay siết trong túi áo. Nó muốn hét bảo hắn mở cửa. Muốn nói hắn không được chết dễ như vậy. Muốn có một phiên tòa, có bản án, có những cái tên Trang, Hoa, Quyên, A Hù, A Mã, Như được đọc lên trong một căn phòng sáng đèn.
 
-Hắn hét.
+Nhưng không lời nào của Quỳnh có thể thay việc Tùng tự mở chốt.
 
-Khải quay sang tổ phá cửa.
+Công an bên ngoài vẫn phá cửa.
 
-— Thời gian mở?
-
-— Ít nhất mười phút nếu không kích bình phụ. Đang cô lập dây.
-
-— Tiếp tục. Mục tiêu còn sống, phải cứu nếu tiếp cận an toàn.
-
-Quỳnh nghe câu đó.
-
-Đúng.
-
-Tùng là kẻ giết người.
-
-Nhưng công an không đứng nhìn hắn chết để gọi đó là công lý.
-
-Họ vẫn phải tìm cách vào.
-
-Đó là khác biệt giữa trả thù và pháp luật.
+Đó là phần họ có thể làm.
 
 ***
 
-00 giờ 44.
+00 giờ 44, Tùng nằm nghiêng giữa hai luống cây.
 
-Tùng không còn hét lớn.
+Một số rễ mảnh co lại quanh vệt đất ướt dưới tay hắn. Không quấn người, không kéo hắn đi. Chúng chỉ phản ứng với thứ Tùng vừa đổ xuống, giống như những lần trước nhưng mạnh hơn.
 
-Chỉ thở.
-
-Hắn nhìn camera.
-
-Không biết có nhìn Quỳnh hay chỉ nhìn ánh đèn.
+Hắn nhìn lên khe camera.
 
 Miệng mấp máy.
 
-Quỳnh ghé loa.
+Âm đầu tiên không rõ.
 
-— Nó nói gì?
-
-Huy lắc đầu.
-
-Camera zoom.
-
-Tùng nói lại.
-
-Hai chữ.
+Lần thứ hai Quỳnh nghe được:
 
 — Trang...
 
-Rồi:
+Rồi một đoạn đứt quãng:
 
-— Anh xin...
+— Anh...
 
-Âm thanh đứt.
+Tùng ho, đầu rơi xuống cánh tay.
 
 Quỳnh không hoàn thành câu hộ hắn.
 
-Không ai được quyền.
+Nó cũng không biết hắn định nói gì.
 
 ***
 
-00 giờ 49, cửa phụ được mở một phần.
+00 giờ 51, Tùng không còn phản ứng với tiếng gọi qua loa.
 
-Khói/mùi hữu cơ trong hầm tăng, tổ tiếp cận phải đeo bảo hộ hô hấp. Lối đi bị thân cây và một khung sắt Tùng kéo sập chắn. Không thể tiếp cận cơ thể ngay mà không cắt.
+Khải vẫn yêu cầu tiếp tục mở cửa như một ca cứu người. Không ai được tuyên bố hắn chết từ camera.
 
-01 giờ 03, Tùng không còn cử động trên camera.
+01 giờ 07, tổ kỹ thuật cô lập được hai bình ở lối phụ và nâng tấm chắn đủ để luồn người qua. Hai cán bộ bảo hộ vào trước, sau đó y tế.
 
-Khải vẫn không cho tuyên bố tử vong.
+Tùng còn mạch rất yếu khi được chạm tới.
 
-— Chưa tiếp cận được thì chưa xác nhận.
+Điều đó khiến mọi suy đoán bên ngoài trong mười mấy phút trước trở nên vô nghĩa.
 
-Quỳnh nghe và nhớ Quân ba tháng sau P201.
+Họ ép lại vết thương, hỗ trợ hô hấp và đưa hắn ra khỏi hầm.
 
-“Chưa có xác thì không ai được nói chắc.”
+01 giờ 26, trên đường chuyển khỏi nhà Pá Tra, Tùng ngừng tuần hoàn. Đội y tế hồi sức theo quy trình.
 
-Một nguyên tắc đơn giản chạy xuyên bảy năm.
+01 giờ 48, bác sĩ xác nhận tử vong.
+
+Không phải cây Huyết Ngải nuốt hắn.
+
+Không phải một con ma bước ra đòi mạng trước mặt tất cả mọi người.
+
+Khám nghiệm sau đó xác định vết đạn đã làm tổn thương một nhánh mạch lớn ở đùi; việc Tùng tự tháo băng ép khiến mất máu nặng hơn đáng kể. Mẫu máu và dịch hô hấp còn có nhiều hợp chất hữu cơ chưa định danh đầy đủ, phù hợp với việc hắn phơi nhiễm hỗn hợp trong hầm, nhưng không đủ cơ sở để nói riêng chất đó đã giết hắn.
+
+Cái chết của Tùng, cuối cùng, vẫn có một chuỗi nguyên nhân có thể viết xuống giấy.
+
+Phần không viết được nằm ở lý do hắn nhất quyết làm những việc ấy khi cửa cứu người ở ngay bên ngoài.
 
 ***
 
-Gần ba giờ sáng, lối hầm được thông đủ để đội kỹ thuật vào từng phần.
+Khi Khải báo xác nhận tử vong, Quỳnh không thấy nhẹ nhõm như từng tưởng.
 
-Tùng được tiếp cận.
-
-Không còn dấu hiệu sống.
-
-Một bác sĩ đi cùng xác nhận tử vong tại hiện trường.
-
-Thi đứng ngoài cửa kho khi tin được truyền ra.
-
-Trung cạnh cô.
-
-Hắn không nói câu đùa.
-
-Quỳnh ở phía sau Quân.
-
-Nó tưởng mình sẽ thấy nhẹ.
-
-Không.
-
-Chỉ trống.
-
-Bảy năm sợ một người quay lại.
-
-Khi người đó thật sự chết, cơ thể không tự biết phải đặt nỗi sợ cũ ở đâu.
+Nó chỉ đứng im cạnh Quân, nhìn ánh đèn xe cấp cứu kéo xuống con đường tối. Bảy năm sợ một người quay lại đã tạo thành một thói quen trong cơ thể; cái chết của người đó không thể khiến thói quen biến mất trong một phút.
 
 Quân đặt tay lên vai em.
 
-— Xong rồi.
+— Về được rồi.
 
-Quỳnh lắc đầu.
+Quỳnh gật, rồi lắc đầu.
 
-— Vụ Tùng thôi.
+— Mai còn lấy lời khai.
 
-Quân hiểu.
+Quân nhìn nó.
 
-Chợ Âm còn.
+— Anh đang nói tối nay thôi.
 
-Ba Bích còn.
+Quỳnh bật cười khẽ.
 
-Huy còn câu hỏi về chính mình.
+— Ừ. Tối nay về.
 
-Trung còn thứ gì đó trong người chưa ai gọi đúng tên.
-
-Không câu chuyện lớn nào thật sự “xong” chỉ vì một hung thủ chết.
+Không ai nói “mọi chuyện đã xong”. Ít nhất vụ săn Tùng đã kết thúc. Những phần còn lại có thể chờ tới lúc trời sáng.
 
 ***
 
-Trời sáng chậm.
+Sáng ngày hai mươi bốn, hầm nhà Pá Tra được thông khí và khám nghiệm theo từng khu vực. Không ai xuống cùng lúc chỉ vì tò mò. Mẫu thực vật, đất, rãnh dẫn, bình hóa chất, thiết bị âm thanh, điện thoại và sổ ghi chép được chụp tại chỗ trước khi niêm phong.
 
-Mưa đêm rửa sạch sân.
+Những thứ pháp y có thể xác nhận dần tách khỏi những điều chỉ tồn tại trong lời khai.
 
-06 giờ 30, việc chụp ảnh hiện trường hầm bắt đầu sau khi khu vực được thông khí và đánh giá đủ an toàn cho đội khám nghiệm vào theo nhóm nhỏ.
+Thi thể trên gác có quan hệ huyết thống cha-con với A Mã; kết hợp hồ sơ cũ và vật dụng cá nhân, cơ quan điều tra xác định đó là A Hù thật. Bà Cầm và Pao Sử được nối vào chuỗi người chết có giao dịch hoặc dấu vết liên quan Huyết Ngải. Cái chết của A Mã được xem xét lại dựa trên lời khai, video hiện trường và hành vi của Tùng trước khi bỏ trốn.
 
-Tùng nằm giữa những thân cây Huyết Ngải đã bị cắt khỏi người. Cơ thể có nhiều vết rách do rễ, cạnh cây và lúc giằng thoát. Không cần mô tả thêm để hiểu hắn chết trong chính hệ thống mình nuôi.
+Như được xác định chết vào tối ngày hai mốt. Vết thương nhỏ ở ngực và hỗn hợp chất trong máu cần thêm giám định; dấu đen ở lòng bàn tay tương tự các dấu đã thấy trong chuỗi Khalamay.
 
-Con dao gấp nằm cách tay hơn một mét.
+Trâm lấy lại giọng gần cùng khoảng thời gian ấy.
 
-Hai điện thoại ở bàn nhỏ.
+Lan tin Như đã chủ động cắt liên hệ trước khi chết. Quỳnh cũng muốn tin vậy. Nhưng Thi chỉ ghi vào hồ sơ những thứ có thể ghi: thời điểm, tình trạng, mẫu vật và lời khai. Phần còn lại không bị chế giễu, cũng không được biến thành kết luận nhà nước chỉ vì họ tin.
 
-Thẻ nhớ.
-
-Mảnh vải.
-
-Hộp diêm.
-
-Nhiều mẫu cây.
-
-Và một chiếc lọ thủy tinh nhỏ bằng ngón út.
-
-06 giờ 42.
-
-Bức ảnh hiện trường số 18 ghi nó ở góc phải dưới, sát một rễ đỏ nâu.
-
-Nắp đen.
-
-Một vệt bột trắng dính trên thành.
-
-06 giờ 44.
-
-Bức số 19 chụp gần hơn.
-
-Chiếc lọ vẫn ở đó.
-
-Chưa được đánh số vật chứng.
-
-Chưa ai nhặt.
-
-Đội ảnh chuyển góc để chụp thân cây phía sau.
-
-Trong khoảng vài phút, người ra vào hầm được kiểm soát nhưng không phải chỉ một người.
-
-Thi xuống để hỗ trợ xác định vị trí vật đã thấy đêm trước.
-
-Trung xuống sau, mang thêm túi niêm phong.
-
-Một cán bộ kỹ thuật đi ngang luống.
-
-Một người chụp ảnh đổi ống kính.
-
-Minh đứng gần cửa.
-
-Ai cũng đeo găng.
-
-Ai cũng có lý do ở đó.
-
-06 giờ 47.
-
-Bức số 20.
-
-Góc phải dưới trống.
-
-Không ai nhận ra lúc ấy.
+Quỳnh thấy như thế là đủ công bằng.
 
 ***
 
-Như được xác nhận tử vong vào tối 21 tháng 9.
+Trâm ở lại điều trị thêm một thời gian. Cổ họng cần theo dõi, cơ thể thiếu dinh dưỡng sau thời gian bị giữ và cô còn nhiều việc phải tự quyết hơn bất kỳ người nào khác có thể quyết hộ.
 
-Khám nghiệm sau đó cho thấy một vết thương nhỏ vùng ngực cùng hỗn hợp chất chưa xác định trong máu. Dấu đen ở lòng bàn tay tương tự các nạn nhân liên quan Khalamay.
+Trước khi Quỳnh về, nó hỏi:
 
-Không có cách pháp y nào ghi:
-
-“Cô ấy đã trả giọng cho Trâm trước khi chết.”
-
-Đó thuộc một hệ bằng chứng khác.
-
-Trâm chỉ biết vào đúng khoảng thời gian Như được xác định chết, giọng cô trở lại.
-
-Trong sổ A Mã có quy tắc “người mượn tự cắt liên hệ”.
-
-Lan tin Như đã lựa chọn.
-
-Quỳnh cũng.
-
-Thi ghi vào hồ sơ phần có thể ghi.
-
-Những phần còn lại, họ không biến niềm tin thành kết luận nhà nước.
-
-***
-
-Thi thể trên gác được xác định có quan hệ huyết thống cha-con với A Mã; cùng các vật dụng cũ và hồ sơ mất tích, cơ quan điều tra xác định đó là A Hù thật.
-
-Bà Cầm và Pao Sử được nhập vào chuỗi án có liên quan các giao dịch Chợ Âm/Huyết Ngải.
-
-Cái chết A Mã được chuyển từ tai nạn cần xác minh sang vụ việc có dấu hiệu bị tác động, dựa trên lời khai Quỳnh, hình ảnh hiện trường và chuỗi hành vi Tùng sau đó.
-
-Không phải mọi tội của Tùng đều có thể đưa ra xét xử vì hắn chết.
-
-Nhưng điều đó không có nghĩa người chết bị bỏ khỏi hồ sơ.
-
-Tên họ vẫn được ghi.
-
-Quỳnh nghĩ ông Cẩn trong Ma Kí Sự sẽ thích chuyện đó.
-
-***
-
-Trâm không về Hà Nội ngay.
-
-Cô cần điều trị cổ họng, dinh dưỡng và quan trọng hơn là quyết định cuộc đời mình sau nhiều năm chỉ chạy khỏi một cái tên.
-
-Quỳnh hỏi:
-
-— Mày muốn tao ở lại không?
+— Muốn tao ở lại thêm không?
 
 Trâm lắc đầu.
 
-Giọng còn khàn:
+— Tao muốn thử tự chọn xem tao đi đâu tiếp theo. Không có anh tao, không có Như, không có ai đứng canh.
 
-— Tao muốn lần đầu tự chọn chỗ tao đi mà không có ai canh.
+Giọng vẫn khàn nhưng là giọng của chính cô.
 
-Quỳnh cười.
+Quỳnh gật.
 
 — Vậy tao về.
 
@@ -546,176 +302,122 @@ Trâm ôm nó.
 
 — Cảm ơn.
 
-— Đừng cảm ơn. Mày nợ tao vụ đánh hồi trong rừng.
+— Đừng cảm ơn sớm. Mày vẫn nợ tao vụ kéo cả đám vào rừng.
 
-— Tao nhớ.
+— Tao tưởng mày nợ tao cái tát.
 
-— Đừng trả.
+— Hòa.
 
-Hai đứa cười.
-
-Lần này tiếng Trâm là của Trâm.
+Hai đứa cùng cười. Không giống hồi lớp mười hai nữa. Cũng không cần giống.
 
 ***
 
-Lan được chuyển về điều trị thêm rồi liên hệ với thầy Somchai để kiểm tra ảnh hưởng từ chuông và vết cắn. Nó không “thừa hưởng toàn bộ công lực” của A Mã hay bà Cầm trong một đêm.
+Lan được chuyển về tuyến dưới sau khi cổ chân ổn hơn. Cô vẫn còn vài mảnh ký ức từ lúc cầm chuông của A Mã, nhưng không còn ai gọi chúng là “truyền công” hay thứ gì tương tự. Có thể đó là ký ức, có thể là ám thị, có thể là một dạng tác động khác. Somchai sẽ là người cô tìm tới sau khi điều trị xong.
 
-Nó chỉ có vài mảnh ký ức không thuộc về mình.
+Chiếc chuông tiếp tục nằm trong kho vật chứng.
 
-Và một câu hỏi khó hơn:
+Lan không đòi lại.
 
-bao nhiêu phần trong đó là thật.
-
-Chiếc chuông được giữ như vật chứng một thời gian trước khi xử lý quyền sở hữu sau điều tra.
-
-Lan không phản đối.
-
-— Tao có đủ thứ trong đầu rồi. Không cần ôm thêm đồ cổ về nhà.
+— Trong đầu tao đủ ồn rồi. Không cần mang thêm đồ về nhà.
 
 ***
 
-Huy được đưa về Hà Nội sau khi đủ sức.
+Huy đủ sức về Hà Nội vài ngày sau.
 
-Sếp Hòa tới đón.
-
-Theo lời Huy kể lại, ông đứng trước giường gần một phút không nói gì.
-
-Sau đó đập một cuộn tạp chí vào vai anh.
+Sếp Hòa tới đón. Theo lời Huy kể, ông đứng cạnh giường gần một phút, nhìn anh từ đầu tới chân rồi dùng cuộn tạp chí đập nhẹ vào vai.
 
 — Thằng mất dạy.
 
 Huy cười.
 
-— Em về rồi sếp.
+— Em về rồi mà sếp.
 
 — Ai cho cậu nghỉ bốn tháng?
 
-— Em xin trừ phép năm.
+— Cho em trừ phép năm.
 
-Sếp Hòa quay mặt đi.
-
-Huy bảo mắt ông đỏ vì dị ứng.
-
-Không ai trong tòa soạn tin.
+Sếp Hòa quay mặt đi. Huy nhất quyết bảo mắt ông đỏ vì bụi đường. Không ai ở tòa soạn tin.
 
 ***
 
-Quân không vào ngành công an sau vụ P201.
+Quân trở lại xưởng thiết kế sau khi hoàn tất những việc cần thiết với hồ sơ. Trước lúc rời Bắc Yên, anh nói với Quỳnh rằng mình vẫn tiếc vì không trực tiếp đứng trước Tùng trên đồi.
 
-Anh vẫn làm thiết kế.
+Quỳnh hỏi:
 
-Vẫn ghét bị gọi lúc đang ở xưởng.
+— Vậy nếu quay lại anh có lên không?
 
-Vẫn từng là người liên quan trực tiếp tới hồ sơ cũ của Tùng, nên bảy năm qua luôn giữ liên hệ với điều tra viên khi có thông tin mới.
+Quân nghĩ rồi lắc đầu.
 
-Ở Bắc Yên, khi Khải hỏi anh có tiếc vì không trực tiếp đối mặt Tùng ở đồi không, Quân nói:
+— Chắc vẫn không. Tiếc với nên làm là hai chuyện khác nhau.
 
-— Có.
-
-Rồi thêm:
-
-— Nhưng tiếc không đồng nghĩa nên làm.
-
-Khải gật.
-
-Đó là một trong số ít câu hai người đồng ý ngay.
+Đó là câu trả lời Quỳnh muốn nghe hơn bất kỳ lời anh hùng nào.
 
 ***
 
-Ngày 24 tháng 9 năm 2019, phần chính của vụ Hồng Ngài được coi đã khống chế.
+Chiều hai mươi bốn, Quỳnh đứng ngoài điểm chỉ huy nhìn mây trôi khỏi sườn Hồng Ngài. Nắng đã trở lại. Dưới bản có khói bếp, tiếng xe máy và trẻ con chạy trên con đường nhỏ. Người ta đi nương như mọi ngày; vài nhà đang dọn lại đồ sau mấy hôm lực lượng ra vào liên tục.
 
-Không phải “đóng hồ sơ” hoàn toàn.
+Hồng Ngài không phải một vùng đất ma quỷ.
 
-Chợ Âm mở thành hướng điều tra khác.
+Một căn nhà ở đó từng chứa những người làm những chuyện khủng khiếp. Một mạng lưới từ nơi khác đưa tà thuật tới. Một kẻ đã dùng nỗi sợ, ký ức và cả sự cả tin của người sống để biến đầu óc họ thành nơi giam giữ mới.
 
-Nguồn gốc Ba Bích không liên quan được chứng minh.
+Quỳnh nhớ câu mình từng mang theo từ P201: **Ma tại tâm nhân.**
 
-Huyền mạch của Huy không có tên trong bất kỳ biên bản chính thức nào.
+Bảy năm trước, nó nghĩ đó là lời kết cho một vụ án.
 
-Huyết Ngải được ghi bằng những mô tả vật chất có thể kiểm tra: mẫu thực vật chưa định loại chính xác, hỗn hợp hữu cơ, chất gây ảo giác/ảnh hưởng thần kinh chưa xác định đầy đủ, các dụng cụ nghi lễ và hệ thống giam giữ.
+Bây giờ Quỳnh hiểu câu ấy không có nghĩa mọi thứ đều do con người tưởng tượng. Nó chỉ nhắc rằng dù thứ họ gặp là ma, ngải, hóa chất hay một điều chưa gọi được tên, cái ác vẫn cần một con người quyết định dùng nó để làm gì.
 
-Những gì nằm ngoài đó tồn tại trong lời khai.
+Nó nhìn xuống bản thêm một lúc rồi quay vào thu xếp đồ.
 
-Không bị xóa.
-
-Cũng không bị nâng thành điều cơ quan điều tra khẳng định.
-
-Quỳnh thấy cách đó công bằng.
+Vụ án Hồng Ngài của Quỳnh kết thúc ở đó.
 
 ***
 
-Buổi chiều trước khi rời Bắc Yên, Quỳnh đứng ngoài nhìn mây kéo qua sườn Hồng Ngài.
+Có một việc Quỳnh chưa biết khi rời Bắc Yên.
 
-Nắng đã trở lại.
+06 giờ 42 sáng hôm ấy, trong loạt ảnh khám nghiệm hầm, chiếc lọ thủy tinh nắp đen xuất hiện ở mép một luống cây. Trên thành còn dính một lớp bột trắng mỏng. Ảnh kế tiếp chụp gần hơn lúc 06 giờ 44; chiếc lọ vẫn nằm nguyên, chưa được gắn số vật chứng.
 
-Những mái nhà dưới bản vẫn có khói bếp.
+06 giờ 46, Trung xuống hầm mang thêm túi niêm phong cho Thi.
 
-Người ta vẫn đi nương.
+Hắn đi ngang luống cây rồi dừng.
 
-Trẻ con vẫn chạy trên đường.
+Không ai gọi.
 
-Không có “vùng đất ma quỷ”.
+Không có hình người nào hiện ra.
 
-Chỉ có một căn nhà từng chứa những người làm điều khủng khiếp.
+Chỉ là cảm giác râm ran sau gáy từng xuất hiện từ chén trà lạnh, rất nhẹ nhưng rõ hơn khi hắn nhìn chiếc lọ.
 
-Quỳnh nghĩ về câu ở cây chôm chôm.
+Trung biết việc đúng phải làm là gọi Thi tới, để người phụ trách chụp và đánh số nó tại chỗ.
 
-Ma tại tâm nhân.
+Hắn cúi xuống.
 
-Bảy năm trước, nó hiểu câu đó như lời kết.
+Bàn tay đeo găng nhặt chiếc lọ lên.
 
-Bây giờ nó thấy chưa đủ.
+Trong một khoảnh khắc rất ngắn, Trung nghĩ mình chỉ đang đưa nó sang bàn vật chứng.
 
-Ma có thể ở trong lòng người.
+Nhưng tay hắn đi về phía túi áo.
 
-Nhưng nỗi sợ cũng ở đó.
+Chiếc lọ biến vào trong.
 
-Ký ức cũng ở đó.
+Trung đứng thẳng lên. Cảm giác sau gáy biến mất nhanh tới mức hắn không chắc nó từng có.
 
-Và nếu ai đó biết cách nắm lấy chúng, họ có thể biến chính đầu óc người khác thành căn phòng 201 mới.
+Có người ở cửa gọi:
 
-***
+— Trung, đủ túi chưa?
 
-Ở tầng hầm nhà Pá Tra, việc thu giữ vật chứng bắt đầu lúc 07 giờ 10 sáng.
+Hắn quay lại.
 
-Mười sáu mục được ghi vào danh sách ban đầu.
+— Đủ rồi.
 
-Không ai hỏi về mục thứ mười bảy.
+Giọng hoàn toàn bình thường.
 
-Bởi lúc đánh số, nó không còn ở đó.
+06 giờ 47, bức ảnh tiếp theo được chụp.
 
-Trước đó hai mươi ba phút, giữa lúc người chụp ảnh đổi vị trí và một cán bộ gọi thêm túi niêm phong, chiếc lọ thủy tinh nhỏ nằm cạnh rễ cây.
+Méп luống cây trống.
 
-Một bàn tay đeo găng đen cúi xuống.
+Đến lúc danh sách vật chứng ban đầu được khóa, không có mục nào mang tên **lọ thủy tinh chứa bột trắng**.
 
-Không vội.
+Ngoài sân, Trung vô thức đặt một bàn tay lên túi áo rồi bỏ xuống ngay.
 
-Những ngón tay dừng trên miệng lọ một giây như đang nghe thứ gì đó rất xa.
+Hắn không biết tại sao mình vừa làm thế.
 
-Rồi nhặt lên.
-
-Chiếc lọ không đi vào túi vật chứng.
-
-Nó biến vào túi áo.
-
-Người đó đứng dậy.
-
-Ngoài khung hình, có ai gọi một cái tên.
-
-Người cầm lọ quay đầu như bình thường.
-
-Khóe miệng cong lên rất nhẹ.
-
-Có thể vì nghe một câu gì đó vui.
-
-Có thể vì mệt.
-
-Hoặc có thể chính người ấy cũng không biết tại sao mình vừa cười.
-
-Dưới lớp thủy tinh, phần bột trắng còn lại dịch sang một bên.
-
-Như thể chiếc lọ vừa được nghiêng.
-
-Hoặc như thể có thứ bên trong vừa tự chuyển động.
-
-HẾT — ÁN HỒNG NGÀI.
+**HẾT — ÁN HỒNG NGÀI.**
