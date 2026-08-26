@@ -1,967 +1,489 @@
-Tôi đứng nhìn cái bóng thứ năm dưới chân mình gần mười giây.
+Tôi đứng nhìn cái bóng thừa dưới chân mình lâu đến mức mắt bắt đầu cay vì nắng.
 
-Mười giây là khoảng thời gian rất dài khi bạn biết chắc sau lưng không có người mà dưới đất lại thừa một cái bóng.
+Giữa sân có bốn người: tôi, ông Tài, ông Tích và Mây. Nắng trưa đổ chếch qua mái hiên, bốn cái bóng kéo dài về phía hàng rào. Thế nhưng sát bên bóng tôi còn có thêm một hình người nhỏ hơn một chút, vai hẹp, đầu nghiêng sang trái, hoàn toàn không nối với bất kỳ bàn chân nào.
 
-Ông Tài là người phá vỡ sự im lặng trước.
+Ông Tài nuốt khan.
 
-— Cậu Huy.
+— Cậu thấy không?
 
-— Dạ.
+— Thấy.
 
-— Tôi thấy.
+— Vậy giờ chạy được chưa?
 
-— Con cũng vậy.
+Tôi không trả lời ngay. Từ lúc lên Mẫu Sơn tới giờ, ông Tài đề xuất chạy trong khá nhiều tình huống và phần lớn đều có lý. Nhưng cái bóng kia không tiến tới, cũng không làm gì chúng tôi. Nó chỉ đứng đó như đang chờ.
 
-— Chạy không?
+Tôi thử giơ tay phải. Bóng của tôi làm theo. Cái bóng thừa vẫn bất động.
 
-Tôi suy nghĩ nghiêm túc.
+Mây đã lùi sát về phía cha. Ông Tích thì không nhìn tôi mà nhìn thẳng xuống mặt sân, một tay chậm rãi luồn vào túi áo lấy ra sợi dây đỏ đã bạc màu.
 
-— Chưa.
+Đúng lúc ấy, cái bóng quay đầu.
 
-— Sao chưa?
+Không có người thật nên chuyển động ấy trông sai đến mức da gáy tôi lạnh buốt. Nó nâng một cánh tay, chỉ về phía căn nhà kho thấp nằm dưới sườn đất sau nhà.
 
-— Vì nó đang đứng yên.
+Tất cả chúng tôi cùng nhìn theo.
 
-— Nó đứng yên thì mình càng có thời gian chạy chứ.
+Nhà kho cách sân hơn hai chục mét, mái lợp cũ phủ lá khô, cửa gỗ đóng kín. Tôi đã đi qua mấy lần mà gần như không để ý vì nó chìm hẳn vào màu đất và cây phía sau.
 
-Tôi không trả lời.
+Khi tôi nhìn xuống lại, cái bóng đã biến mất.
 
-Cái bóng ấy nhỏ hơn bóng tôi một chút, vai hẹp hơn, đầu hơi nghiêng sang trái. Ánh nắng trưa chiếu chếch từ phía sau nên tất cả bóng đều đổ dài về trước.
+Ông Tài thở mạnh ra.
 
-Nhưng cái bóng thứ năm không nối với bất kỳ bàn chân nào.
+— Tôi nói thật nha, xuống núi đi cậu.
 
-Tôi từ từ giơ tay phải.
+— Xe chú còn nằm giữa đường mà.
 
-Bóng tôi giơ tay.
+— Đi bộ cũng được.
 
-Nó không.
+— Chú bỏ xe luôn?
 
-Tôi hạ xuống.
+— Xe mua lại được. Người khó mua lại lắm.
 
-Mây lùi lại sát cha.
+Lần này tôi không cãi. Sau hai ngày đi cùng, tôi bắt đầu nhận ra ông Tài có một hệ triết học rất đơn giản: thứ gì giữ được mạng thì đúng.
 
-Ông Tích không nói gì, chỉ đưa tay vào túi áo lấy ra một sợi dây đỏ đã cũ.
+Ông Tích vẫn nhìn về phía nhà kho.
 
-Cái bóng thứ năm bỗng chuyển động.
+— Không ai xuống đó.
 
-Không đi về phía chúng tôi.
+Tôi quay sang.
 
-Nó quay đầu.
+— Trong đó có gì vậy bác?
 
-Rồi chỉ tay về phía căn nhà kho nhỏ dưới sườn đất.
+— Đồ của người nhà.
 
-Tất cả cùng nhìn theo.
+— Của ai?
 
-Nhà kho cách sân chừng hai chục mét, cửa gỗ đóng kín. Từ sáng tới giờ tôi không để ý vì nó thấp, mái phủ lá khô và gần như chìm vào màu đất phía sau.
+Ông nhìn tôi một lúc.
 
-Khi nhìn trở lại mặt sân...
+— Cậu hỏi đủ rồi.
 
-cái bóng đã biến mất.
-
-Ông Tài lập tức nói:
-
-— Thôi về Hà Nội đi cậu.
-
-— Chú chưa về được, xe chú còn nằm giữa núi.
-
-— Tôi đi bộ xuống.
-
-— Chú sợ tới mức bỏ luôn xe hả?
-
-— Xe mua lại được.
-
-Một triết lý sống giản dị mà thực tế.
-
-Ông Tích nhìn nhà kho.
-
-— Không ai vào đó.
-
-Tôi hỏi:
-
-— Trong đó có gì?
-
-— Đồ cũ.
-
-— Đồ gì?
-
-— Đồ cũ.
-
-— Bác trả lời vậy khác gì chưa trả lời đâu.
-
-Ông quay sang nhìn tôi.
-
-— Cậu ở nhà người ta một ngày mà hỏi như công an vậy.
-
-— Con làm báo. Công an hỏi có biên bản, con hỏi miễn phí.
-
-Mây bật cười một tiếng rất nhỏ rồi lập tức thôi khi cha nhìn sang.
-
-Tôi nhận ra cô cười đẹp.
-
-Rồi tôi cũng nhận ra mình vừa trải qua một đêm suýt bị cái đầu của cô liếm mặt mà vẫn kịp thấy người ta đẹp.
-
-Đúng là đàn ông có những khả năng sinh tồn rất khó giải thích bằng khoa học.
+Giọng ông không lớn, nhưng Mây lập tức im. Tôi hiểu đó là ranh giới và không hỏi thêm.
 
 ***
 
-Ông Tích cấm thì tôi không tự tiện phá cửa.
+Chiều hôm ấy ông Tích sang nhà một người trong bản có người già ốm. Ông Tài xuống chỗ chiếc xe, mang theo bộ dụng cụ mà tôi nghi một nửa là để sửa xe, nửa còn lại dùng để đập bất cứ thứ gì bò ra từ bụi cây. Tôi ngồi ngoài hiên chép lại ghi âm, Mây ở gần đó phơi một rổ lá thuốc.
 
-Tôi có nguyên tắc.
+Gần ba giờ, cô chủ động hỏi:
 
-Ít nhất tôi cố có.
-
-Nhưng chiều đó, chính Mây đưa tôi xuống nhà kho.
-
-Ông Tích lên một nhà trong bản làm lễ cho người già bị ốm. Ông Tài xuống chỗ chiếc xe xem có sửa được không. Tôi ngồi ngoài hiên ghi chép, còn Mây phơi một rổ lá thuốc cạnh sân.
-
-Khoảng ba giờ, cô hỏi:
-
-— Anh muốn coi nhà kho không?
-
-Tôi đặt bút xuống ngay.
-
-— Anh không muốn tỏ ra quá háo hức nhưng...
-
-Tôi đứng dậy.
-
-— Đi.
-
-Mây nhìn tôi như nhìn một đứa trẻ được cho kẹo.
-
-Cửa nhà kho không khóa.
-
-Chỉ cài chốt bên ngoài.
-
-Bên trong mùi ẩm, bụi và dược liệu cũ quện vào nhau. Ánh sáng lọt qua khe mái thành những đường mỏng. Có vài bó cây khô treo trên xà, mấy thùng gỗ, một cái cối đá và những túi vải đã bạc.
-
-Không có xác người.
-
-Tôi hơi thất vọng rồi tự mắng mình.
-
-— Cái gì ở đây mà bố em không muốn cho anh coi?
-
-Mây đi tới góc cuối.
-
-Kéo một thùng gỗ ra.
-
-Phía sau có một chiếc rương thấp.
-
-Cô mở nắp.
-
-Bên trong là những cuốn sổ cũ, vài bức ảnh và một chiếc áo trẻ con đã ố màu.
-
-— Đồ của mẹ tôi.
-
-Tôi ngồi xuống.
-
-— Bác Tích giữ hết à?
-
-— Bố không cho tôi xem.
-
-— Vậy sao em có chìa?
-
-— Không khóa.
-
-— À.
-
-Tôi nhìn cô.
-
-— Gia đình em có vẻ tin rất nhiều vào sức mạnh của lời cấm.
-
-— Trước khi anh tới thì hiệu quả.
-
-Tôi thấy mình bị xúc phạm khá chính xác.
-
-Mây đưa tôi một cuốn sổ bìa vải.
-
-— Tôi không đọc được hết.
-
-Chữ bên trong là tiếng Việt xen những đoạn ký âm hoặc chữ mà tôi không nhận ra. Có nhiều trang ghi ngày tháng, nhiệt độ, tên thuốc. Có vẻ mẹ Mây từng tự theo dõi các cơn sốt của con.
-
-Một số trang sau chữ run hơn.
-
-Tôi lật tới đoạn được gạch dưới bằng mực đỏ.
-
-“Đêm thứ ba. Mây ngủ. Đứa kia thức.”
+— Anh vẫn muốn xem nhà kho à?
 
 Tôi ngẩng lên.
 
-— “Đứa kia” là ai?
+— Bố em vừa bảo không được vào.
 
-— Tôi không biết.
+— Em nghe rồi.
 
-Trang tiếp:
+— Vậy em hỏi làm gì?
+
+Mây xếp nốt nắm lá cuối cùng rồi phủ một tấm vải mỏng lên rổ.
+
+— Vì cái bóng chỉ vào đó. Với lại... đồ trong ấy là của mẹ em. Em cũng muốn biết.
+
+Câu sau làm tôi bớt háo hức hẳn. Đây không còn là một “nhà kho bí mật” cho phóng viên tò mò khám phá. Nó là nơi một gia đình đã khóa những chuyện họ không muốn nhìn lại.
+
+— Nếu em đổi ý thì thôi — tôi nói.
+
+Mây nhìn tôi, hơi bất ngờ.
+
+— Anh cũng biết ngại à?
+
+— Anh có nhiều phẩm chất tốt lắm, em chưa khám phá hết thôi.
+
+Cô khẽ cười rồi đi trước.
+
+Cửa kho thực ra không khóa, chỉ cài chốt gỗ. Bên trong tối và ẩm, mùi cây khô, đất và bụi giấy trộn lẫn. Ánh sáng lọt qua những khe trên mái, cắt căn phòng thành các dải sáng hẹp. Trên xà treo vài bó dược liệu đã khô quắt; dưới đất là cối đá, thùng gỗ, những túi vải bạc màu và một cái rương thấp bị che sau mấy bao tải.
+
+Mây kéo rương ra.
+
+— Cái này của mẹ em.
+
+Bên trong có mấy cuốn sổ bìa vải, một ít ảnh cũ, vài món quần áo trẻ con và những gói thuốc đã mục nhãn. Mây nói cha cô giữ chúng từ sau khi mẹ mất, nhưng gần như không bao giờ mở.
+
+Tôi không lật ngay.
+
+— Em chắc muốn đọc cùng anh không?
+
+— Nếu hôm nay không đọc thì chắc em lại để đó thêm mười năm.
+
+Tôi gật, lấy một cuốn sổ dày nhất.
+
+Phần đầu chủ yếu ghi ngày tháng, cơn sốt, tên lá thuốc, nhiệt độ và những thứ mẹ Mây đã thử cho con. Chữ viết đều, sau đó càng về cuối càng run và có nhiều dòng bị gạch mạnh đến rách giấy.
+
+Tôi dừng ở một trang có mực đỏ.
+
+“Đêm thứ ba. Mây ngủ. Đứa kia thức.”
+
+Mây ngồi sát bên, mắt không rời trang giấy.
+
+— Em từng thấy câu này chưa?
+
+— Chưa.
+
+Trang sau chỉ có một dòng ngắn:
 
 “Nó không giống con trai tôi.”
 
-Một dòng khác:
+Tôi lật tiếp.
 
 “Nếu chỉ là hồn thằng bé thì tại sao nó không nhận bố?”
 
-Tôi thấy da tay nổi gai.
+Gió luồn qua khe ván khiến mép giấy rung nhẹ. Tôi nhớ lại khuôn mặt giống hệt Mây đứng ngoài sân lúc hai giờ sáng, nói chuyện với tôi qua cửa sổ trong khi cơ thể thật của cô nằm bất động trong căn phòng phía sau.
 
-— Mẹ em nghĩ người em sinh đôi còn ở lại?
-
-— Có lẽ ban đầu mẹ nghĩ vậy.
-
-— Sau đó thì không?
-
-Mây chỉ xuống dòng cuối.
-
-Tôi đọc:
+Ở gần cuối trang là câu cuối cùng, nét chữ đậm và xiêu:
 
 “Nó mượn mặt con bé.”
 
-Gió bên ngoài thổi qua khe gỗ.
+Mây đọc xong không nói gì. Hai bàn tay đặt trên đầu gối siết chặt đến mức các khớp ngón tay trắng ra.
 
-Tôi bỗng nhớ khuôn mặt Mây đứng ngoài sân lúc hai giờ sáng.
+Tôi khép sổ lại một chút.
 
-Giống hoàn toàn.
+— Mẹ em mất khi em ba tuổi đúng không?
 
-Nhưng không có bóng.
+— Ừ.
 
-— Mẹ em chết thế nào?
+— Em có nhớ gì không?
 
-— Ngã xuống khe núi.
+Mây lắc đầu.
 
-— Tai nạn?
+— Người lớn nói mẹ ngã xuống khe núi. Bố không bao giờ kể thêm.
 
-— Người ta nói vậy.
+Tôi định hỏi đó có thật là tai nạn không, rồi thôi. Cô ba tuổi khi chuyện xảy ra; bắt cô đưa ra giả thuyết chỉ để phục vụ sự tò mò của tôi chẳng giúp được gì.
 
-— Em nghĩ sao?
-
-Mây im lâu đến mức tôi biết câu trả lời không đơn giản.
-
-— Tôi lúc đó ba tuổi. Tôi không có quyền nghĩ gì cả.
-
-Tôi khép cuốn sổ.
-
-Một vật nhỏ rơi từ giữa các trang xuống nền.
+Khi tôi đặt cuốn sổ xuống, một vật nhỏ trượt khỏi gáy giấy rơi lên sàn.
 
 Tách.
 
-Một đồng xu cổ màu xỉn.
+Đồng xu bằng kim loại xỉn màu, giữa có lỗ vuông, mép buộc một sợi chỉ đen rất mảnh.
 
-Không phải tiền Việt hiện đại. Một mặt có lỗ vuông giữa, mặt kia khắc ký hiệu đã mòn.
+Mây cúi xuống trước tôi.
 
-Mây cúi nhặt.
+— Cái này không phải đồ của mẹ.
 
-— Cái này không phải của mẹ.
+— Em chắc không?
 
-— Sao biết?
+— Em từng mở rương này rồi. Lần gần nhất khoảng một tháng trước. Không có nó.
 
-— Tôi đã coi rương này trước đây. Không có.
-
-— Lần cuối khi nào?
-
-— Khoảng một tháng trước.
-
-Tôi cầm đồng xu lên.
-
-Ở mép có buộc một sợi chỉ đen rất mảnh.
-
-Mùi tanh thoang thoảng.
-
-Không phải từ Mây.
-
-Từ đồng xu.
-
-Tôi hỏi:
+Tôi dùng túi zip nhỏ trong ba lô kẹp đồng xu lên, không chạm tay trực tiếp. Có một mùi tanh rất nhẹ bám ở mặt kim loại.
 
 — Một tháng nay có ai lạ tới nhà không?
 
-Mây nghĩ.
+Mây nghĩ vài giây.
 
-— Có một người đàn ông hỏi mua thuốc của bố. Người thành phố.
+— Có một người đàn ông. Người dưới xuôi. Ban đầu nói tới mua thuốc của bố.
 
-— Tên?
+— Sau đó?
 
-— Không biết. Bố đuổi đi.
+Cô nhìn tôi.
 
-— Vì sao?
+— Ông ta hỏi mua máu của em.
 
-— Ông ấy hỏi mua máu của tôi.
+Tôi tưởng mình nghe nhầm.
 
-Tôi nhìn cô.
+— Hỏi thẳng vậy luôn?
 
-— Hỏi thẳng luôn?
+— Không ngay từ đầu. Ông ta nói biết em “không giống người bình thường”, rồi bảo có người trả rất nhiều tiền cho thứ ông ta gọi là dị huyết. Bố đuổi đi.
 
-— Ban đầu nói mua thuốc. Sau đó nói biết chuyện của tôi.
+Những chi tiết vốn rời nhau bắt đầu nối lại: đồng xu mới xuất hiện, người lạ biết chuyện của Mây, những tuần gần đây cô thường xuyên rời thân hơn và sáng hôm sau ông Tích liên tục tìm thấy xác động vật trên những tuyến cô bay qua.
 
-Tôi cầm đồng xu chặt hơn.
+Tôi hỏi:
 
-Trong đầu, một mảnh câu chuyện bắt đầu đổi hình.
+— Mây, mấy con vật em ăn... có khi nào chúng luôn nằm sẵn ở cùng vài chỗ không?
 
-Có người biết Mây là Ma Lai.
+Cô nhìn tôi rất lâu rồi đứng dậy.
 
-Có người muốn máu của cô.
-
-Một vật lạ xuất hiện trong rương của mẹ.
-
-Và mấy tuần gần đây, theo lời ông Tích, Mây đói bất thường hơn.
-
-— Mây.
-
-— Gì?
-
-— Mấy con vật chết em ăn... em tự tìm thấy hay có người để sẵn?
-
-Cô chậm rãi ngẩng lên.
+— Hỏi bố em đi.
 
 ***
 
-Ông Tích về lúc gần năm giờ.
+Ông Tích về gần năm giờ. Tôi không vòng vo, đặt túi zip có đồng xu lên bàn và kể lại từ đầu. Ông vừa thấy nó đã cau mặt.
 
-Tôi đặt đồng xu lên bàn.
+— Ai mở kho?
 
-Ông nhìn thấy, mặt tối lại.
+— Con — Mây trả lời trước.
 
-— Ai cho cậu vào kho?
+Ông nhìn con gái. Mây không tránh mắt.
 
-Mây nói:
+— Bố mắng con sau cũng được. Bây giờ nói chuyện này trước đi.
 
-— Con.
+Tôi im. Đó là chuyện của hai cha con và Mây vừa tự giành quyền nói thay vì để tôi chen vào.
 
-— Bố đã bảo...
+Ông Tích thở ra, dùng một mảnh vải cầm túi zip lên.
 
-— Bác mắng sau. — tôi chen vào. — Bác biết cái này không?
+— Tôi chưa thấy đồng này bao giờ.
 
-Ông cầm đồng xu nhưng không chạm tay trần, lấy miếng vải lót.
+— Người hỏi mua máu Mây tên gì bác?
 
-— Không.
+Ông ngồi xuống ghế.
 
-— Một tháng trước có người tới hỏi mua máu Mây?
+— Vượng. Hắn nói làm nghề sưu tầm dược liệu. Lúc đầu hỏi rễ cây, sau hỏi “dị huyết”. Tôi tưởng thằng điên nên đuổi.
 
-Ông nhìn con gái.
+— Từ sau lần đó Mây bắt đầu ra khỏi thân nhiều hơn?
 
-Mây gật.
+Ông Tích không đáp ngay. Mây đứng bên bếp, hai tay khoanh trước ngực.
 
-Ông thở ra.
+— Ba tuần nay — ông nói. — Trước đó một tháng chỉ vài lần. Gần đây cách hai, ba đêm lại có.
 
-— Có.
+— Sáng ra bác hay tìm thấy xác động vật ở đâu?
 
-— Sao bác không kể?
+Ông kể mấy vị trí. Hai chỗ nằm đúng trên đoạn đường từ nhà xuống sườn rừng, một chỗ gần nơi tôi và ông Tài gặp Ma Lai đêm đầu.
 
-— Vì tôi tưởng hắn chỉ là thằng điên.
+Ông Tài lúc ấy vừa về, hai tay đen dầu máy, nghe được nửa câu liền hỏi:
 
-— Hắn biết chuyện Ma Lai?
+— Ý cậu là có người rải đồ ăn dụ con bé ra?
 
-— Biết.
+— Có khả năng. Nếu Vượng muốn chụp, lấy máu hay nước bọt thì hắn phải biết Mây sẽ tới đâu.
 
-— Hắn nói gì?
+Ông Tích nhìn con gái. Khuôn mặt ông lúc ấy không còn vẻ của người xử lý một thứ tà lạ nữa; chỉ còn vẻ một người cha vừa nhận ra có kẻ đã theo dõi con mình nhiều tuần.
 
-Ông Tích ngồi xuống.
+— Tối nay nó mà tới — ông nói — tôi giữ lại.
 
-— Hắn tự xưng tên Vượng. Nói làm nghề sưu tầm dược liệu hiếm. Ban đầu hỏi mua mấy thứ rễ cây. Sau đó hỏi tôi có bán “dị huyết” không.
+Tôi nhìn ông.
 
-— Dị huyết là gì?
+— Mình đừng để bác tự xử. Nếu đúng là Vượng thì phải có người chứng kiến, rồi gọi công an. Cháu với chú Tài quan sát ngoài đường. Bác ở với Mây.
 
-— Tôi hỏi lại hắn. Hắn cười, nhìn về phòng Mây.
+Ông Tài lập tức quay sang tôi.
 
-Tôi thấy lạnh bụng.
+— Khoan, sao tự nhiên có tên tôi trong kế hoạch?
 
-— Bác đuổi?
+— Chú thấy hắn một lần rồi thì làm nhân chứng tốt.
 
-— Ừ.
+— Tôi chưa thấy hắn lần nào.
 
-— Sau đó Mây bắt đầu ra ngoài nhiều hơn?
+— Vậy tối nay thấy luôn.
 
-Ông Tích không đáp ngay.
+Ông Tài nhìn tôi như muốn đòi lại tiền xe từ hai ngày trước.
 
-— Ba tuần nay.
+Cuối cùng ông càu nhàu:
 
-Tôi nhìn Mây.
+— Xe chưa sửa xong thôi đó.
 
-— Và thức ăn luôn xuất hiện đúng chỗ em bay qua?
-
-— Tôi không nhớ lúc đó.
-
-— Nhưng sáng hôm sau bác tìm thấy dấu vết.
-
-Ông Tích gật.
-
-— Có xác gà, ếch, chó chết. Tôi tưởng mùa này dịch bệnh.
-
-— Nếu có người cố tình đặt thức ăn để kéo Mây ra xa nhà thì sao?
-
-Ông Tài vừa từ ngoài bước vào, tay đen dầu máy.
-
-— Để làm gì?
-
-Tôi chỉ đồng xu.
-
-— Lấy mẫu.
-
-Lão nhìn tôi.
-
-— Mẫu gì?
-
-— Máu. Nước bọt. Hoặc chụp bằng chứng.
-
-Ông Tài nhăn mặt.
-
-— Ai mua mấy thứ đó?
-
-Tôi nhớ câu Mây.
-
-Người thành phố.
-
-Sưu tầm.
-
-Tôi đáp:
-
-— Câu này chắc phải tìm tiếp.
+Tôi tin khoảng sáu mươi phần trăm.
 
 ***
 
-Đêm đó chúng tôi đặt bẫy.
+Chúng tôi không đặt bẫy Ma Lai. Chúng tôi chờ một con người.
 
-Không phải bẫy Ma Lai.
+Ông Tích gia cố cửa phòng Mây và nhờ một người họ hàng dưới bản biết chuyện, nếu có cuộc gọi thì báo công an xã ngay. Tôi với ông Tài nằm sau nhà kho, từ đó nhìn được đoạn đường mòn xuống rừng mà vẫn cách căn phòng Mây khá xa.
 
-Bẫy người.
+Mười một giờ không có gì. Qua nửa đêm, sương xuống dày, muỗi bắt đầu thắng ý chí làm báo của tôi. Ông Tài thiếp đi vài lần rồi luôn khăng khăng mình “nhắm mắt nghe động tĩnh”. Tôi không vạch trần nữa vì chính tôi cũng suýt ngủ.
 
-Ông Tích không thích kế hoạch. Ông nói nếu Mây mất kiểm soát thì người chết trước có thể là chúng tôi. Tôi nói vậy càng phải để cô trong phòng khóa chắc, còn bên ngoài chúng tôi chỉ quan sát.
+Một giờ ba mươi bảy, giữa rừng xuất hiện một đốm sáng thấp, chớp tắt rất đều.
 
-Ông Tài nói kế hoạch rất ngu.
+Tôi chạm vai ông Tài. Lần này ông tỉnh ngay.
 
-Tôi hỏi nếu ngu sao chú vẫn ở.
+Một người đàn ông đi lên theo đường mòn, đèn pin được che bằng lớp vải tối chỉ hắt đủ sáng xuống chân. Hắn dừng ở khoảng đất cách nhà hơn trăm mét, kéo từ bao tải ra một xác dê nhỏ rồi đổ lên đó thứ chất lỏng gì đó từ chai nhựa.
 
-Ông trả lời:
+Mùi tanh theo gió tới chỗ chúng tôi.
 
-— Xe chưa sửa xong.
+Ông Tài chửi rất khẽ.
 
-Lý do thuyết phục.
-
-Chúng tôi tắt đèn sớm.
-
-Ông Tích ở trong gian phòng Mây. Cửa được gia cố thêm một thanh gỗ. Tôi và ông Tài nằm phục sau kho, từ đó nhìn được đoạn đường mòn qua rừng.
-
-Mười một giờ.
-
-Mười hai giờ.
-
-Một giờ.
-
-Không có gì.
-
-Muỗi cắn tôi mười bảy nốt. Tôi đếm vì không còn việc gì làm.
-
-Ông Tài ngủ gật ba lần.
-
-— Chú đang phục kích mà ngủ hả?
-
-— Tôi nhắm mắt nghe động tĩnh.
-
-— Ngáy có hỗ trợ thính giác không?
-
-— Im.
-
-Một giờ ba mươi bảy.
-
-Có ánh đèn xuất hiện giữa rừng.
-
-Rất thấp.
-
-Chớp tắt.
-
-Một người đang dùng đèn pin bọc khăn để giảm sáng.
-
-Tôi chạm vai ông Tài.
-
-Lão tỉnh hẳn.
-
-Bóng người đi tới một khoảng trống cách nhà chừng trăm mét.
-
-Hắn đặt xuống đất một bao tải.
-
-Mở ra.
-
-Mùi tanh theo gió bay tới.
-
-Tôi nghe ông Tài chửi khẽ.
-
-Hắn kéo ra một xác dê con đã chết.
-
-Sau đó lấy chai gì đó đổ lên.
-
-Rồi lùi vào bụi.
-
-Không đầy năm phút sau, phía nhà ông Tích vang lên tiếng chó sủa dữ dội.
-
-Tôi thấy tim mình nhảy lên cổ.
-
-Một tiếng động như gỗ bị va mạnh.
+Chưa đầy năm phút sau, chó trong sân sủa điên lên. Từ phía nhà vang tiếng gỗ va mạnh vào cửa một lần, rồi lần thứ hai.
 
 Rầm.
 
-Rồi lần nữa.
+Tôi thấy ông Tích chạy vào phía trong. Chúng tôi không nhìn được cửa phòng Mây từ đây, chỉ nghe tiếng động dồn dập.
 
-Rầm!
+Rồi từ mái nhà, một bóng đen vọt lên.
 
-Tôi nhìn ông Tài.
+Tóc dài, dưới cổ kéo theo khối nội tạng sẫm bóng. Mây bay thẳng xuống chỗ xác dê.
 
-— Khóa không giữ được lâu đâu.
+Người đàn ông trong bụi không chạy. Hắn giơ máy ảnh.
 
-— Tôi có cảm giác câu này không giúp gì hết.
+Ánh flash lóe lên hai lần.
 
-Từ mái nhà, một bóng đen vọt lên.
+Ma Lai giật mạnh đầu, quay về phía nguồn sáng. Hắn vẫn không lùi mà rút một cây dài có móc nhỏ và ống chứa ở đầu.
 
-Đầu người.
+Tôi hiểu hắn định làm gì trước khi đầu óc kịp cân nhắc.
 
-Tóc dài.
+— Hắn lấy mẫu.
 
-Dưới cổ kéo theo một khối nội tạng sẫm màu.
+Tôi đứng dậy.
 
-Mây.
+Ông Tài chụp áo tôi.
 
-Nó bay thẳng về phía xác dê.
+— Đừng có lao vô. Gọi người trước.
 
-Người trong bụi không chạy.
+Ông nói đúng. Tôi rút điện thoại, gửi tín hiệu đã thống nhất cho người nhà ông Tích, đồng thời bật ghi hình rồi mới tiến ra mép đường.
 
-Ngược lại, hắn lấy máy ảnh ra.
+— Anh Vượng!
 
-Tách.
+Người đàn ông quay phắt lại. Khoảng ba mươi lăm tuổi, kính gọng đen, áo trekking sạch và đôi giày tốt hơn tổng giá trị vali của tôi. Chỉ một thoáng khựng khi nghe tên cũng đủ xác nhận.
 
-Tách.
+— Ai đó?
 
-Đèn flash bật hai lần.
+— Người nhà này đã bảo anh đừng quay lại rồi mà.
 
-Ma Lai giật mình, quay phắt về phía hắn.
+Hắn nhìn thấy điện thoại trong tay tôi, lập tức lùi về phía rừng.
 
-Hắn lùi nhưng vẫn giữ máy.
+Sai lầm của hắn là chuyển động quá nhanh.
 
-Sau đó rút một ống dài giống dụng cụ bắt thú.
+Mây đang cúi trên xác dê bỗng ngẩng lên và lao theo. Vượng vung cây lấy mẫu, cái móc quệt trúng vùng cổ. Một vệt máu bắn ra, tiếng rú bật lên chói tới mức tôi thấy màng nhĩ đau nhói.
 
-Tôi hiểu ngay.
+Vượng hoảng thật sự. Hắn bỏ cây, quay đầu chạy. Khối nội tạng quấn lấy vai kéo hắn ngã xuống.
 
-— Hắn định lấy mẫu.
+Tôi đứng cách vài mét, không còn tâm trạng nào để đùa. Người trước mặt đang bị một thứ tôi chưa hiểu kéo xuống đất, trong khi thứ đó lại là cô gái vừa ngồi ăn cơm với tôi tối qua.
 
-Tôi bật dậy.
+— Mây!
 
-Ông Tài kéo áo.
+Tôi gọi tên cô.
 
-— Cậu điên hả?
+Cái đầu khựng lại một chút.
 
-— Nếu nó lao vào hắn thì cả hai chết.
+Vượng tranh thủ bò lùi, rút một con dao gấp từ túi. Hắn chém lên theo phản xạ.
 
-— Vậy liên quan gì mình?
+— Đừng!
 
-— Con đang làm báo!
+Tôi lao tới chụp cổ tay hắn. Hắn vùng, cùi chỏ quật trúng mũi tôi. Hai mắt cay xè. Con dao rơi xuống đất.
 
-— Nghề của cậu phiền thật đó!
+Mây bổ nhào xuống.
 
-Tôi lao ra.
+Ngay khoảnh khắc ấy, một cành khô lớn phía trên gãy rắc rồi rơi thẳng xuống giữa hai bên.
 
-— Ê!
+Tất cả khựng lại.
 
-Người đàn ông quay lại.
+Tôi ngẩng lên. Trên cây không có người.
 
-Mặt khoảng ba mươi lăm, đeo kính, áo khoác trekking sạch sẽ đến mức không giống người sống quanh đây.
+Nhưng dưới ánh trăng, cái bóng thứ năm xuất hiện phía sau chúng tôi. Nó không nối với ai, một tay giơ lên rồi chỉ về hướng căn nhà.
 
-— Anh Vượng?
+— Huy, tránh ra!
 
-Hắn khựng đúng một nhịp.
+Giọng ông Tích vang từ phía trên dốc.
 
-Đủ để tôi biết đoán trúng.
+Ông chạy xuống, đứng chắn trước Mây nhưng không đánh. Bàn tay trái ông có một vết rạch nhỏ ở đầu ngón, máu mới rịn ra.
+
+— Mây.
+
+Cái đầu gầm khẽ.
+
+— Về nhà đi con.
+
+Lần này ông nói bằng tiếng Việt trước, rồi mới chuyển sang thứ tiếng địa phương tôi không hiểu. Giọng không giống niệm chú. Nghe gần như một người cha đang gọi đứa con lên cơn về lại chỗ quen thuộc.
+
+Mây run lên. Sau gần một phút, cô lùi khỏi Vượng rồi quay về phía nhà.
+
+Không ai đuổi theo.
+
+***
+
+Trong ba lô Vượng có máy ảnh, kim và ống lấy mẫu, thuốc gây mê thú y, hai túi xác động vật nhỏ đông lạnh, một lọ chất lỏng đỏ sẫm cùng một cuốn sổ ghi mã và tiền. Một dòng khiến tôi nhớ mãi:
+
+**M-03 — dị huyết — mẫu sống.**
+
+Con số bên cạnh đủ lớn để tôi hiểu tại sao có người sẵn sàng trèo lên núi ban đêm chỉ để lấy một ít máu của người khác.
+
+Ông Tài dùng dây chở hàng trói hai tay Vượng trong lúc chờ công an lên. Hắn bị trầy xước, vai bầm nhưng không có vết thương nguy hiểm.
+
+Tôi ngồi cách hắn một khoảng, máy ghi âm để công khai trên đầu gối.
+
+— Ai thuê anh?
+
+— Không ai.
+
+— Anh tự bỏ mấy chục triệu mua mẫu máu về ngắm à?
+
+Vượng nhìn tôi, không đáp.
+
+— Trong sổ có tiền, có mã hàng. Người mua liên lạc thế nào?
+
+Hắn dựa lưng vào gốc cây, thở chậm dần.
+
+— Qua môi giới.
 
 — Ai?
 
-— Người hỏi mua máu Mây.
+— Tôi không biết tên thật.
 
-Hắn lập tức xoay người chạy.
+— Gặp ở đâu?
 
-Sai lầm.
-
-Ma Lai đang lơ lửng bên xác dê quay đầu theo chuyển động.
-
-Nó lao tới hắn.
-
-Vượng hoảng, vung cây bắt mẫu.
-
-Một cái móc nhỏ ở đầu cây quẹt trúng phần cổ Mây.
-
-Máu bắn ra.
-
-Tiếng rú vang khắp sườn núi.
-
-Tôi chưa bao giờ thấy một khuôn mặt thay đổi từ đói sang giận nhanh như vậy.
-
-— Nằm xuống! — tôi hét.
-
-Vượng không nghe.
-
-Hắn chạy.
-
-Bộ ruột Mây quấn lấy vai hắn kéo ngã xuống đất.
-
-Tôi lao tới, không phải vì dũng cảm mà vì nếu đứng nhìn người ta bị moi ruột trước mặt chắc đời tôi hết ăn lòng heo.
-
-Tôi cầm cây gậy nhặt được, quật vào đống ruột đang cuốn.
-
-Không có tác dụng.
-
-Mây quay sang tôi.
-
-Mắt đỏ.
-
-Tôi đứng chết trân.
-
-— Mây.
-
-Tôi biết gọi tên một con Ma Lai đang nổi điên nghe hơi ngây thơ.
-
-Nhưng tôi không biết thần chú.
-
-— Mây, là anh.
-
-Nó khựng.
-
-Chỉ một chút.
-
-Đủ để Vượng bò đi.
-
-Rồi hắn làm một việc khiến tôi tới giờ vẫn thấy ngu nhất đêm đó.
-
-Hắn rút dao.
-
-Đâm về phía Mây.
-
-Tôi chụp cổ tay hắn.
-
-— Anh muốn chết hả?
-
-— Buông!
-
-Hắn thúc cùi chỏ vào mặt tôi.
-
-Tôi ngã sang bên.
-
-Con dao rơi.
-
-Mây lao xuống.
-
-Ngay lúc ấy một vật gì đó đập mạnh vào cành cây phía trên.
-
-Rắc!
-
-Một nhánh khô lớn rơi thẳng giữa Mây và Vượng.
-
-Cả hai tách ra.
-
-Tôi nhìn lên.
-
-Không có ai trên cây.
-
-Nhưng dưới ánh trăng, trên mặt đất phía sau tôi...
-
-cái bóng thứ năm đang đứng.
-
-Nó giơ tay.
-
-Chỉ về phía nhà.
-
-— Huy! Tránh ra!
-
-Giọng ông Tích vang tới.
-
-Ông lao xuống đường với thanh gỗ trong tay.
-
-Lần này ông không đánh Mây ngay.
-
-Ông đứng trước nó.
-
-Gọi tên con gái.
-
-— Mây.
-
-Nó gầm.
-
-— Về.
-
-Ông giơ bàn tay đã rạch một đường nhỏ trên ngón cái.
-
-Mùi máu tươi lan ra.
-
-Ma Lai quay sang.
-
-Tôi nghĩ ông điên.
-
-Nhưng nó không lao vào.
-
-Nó run lên, rồi chậm rãi lùi.
-
-Ông Tích tiếp tục nói rất thấp bằng thứ tiếng tôi không hiểu.
-
-Sau gần một phút, Mây quay đi.
-
-Bay về phía nhà.
-
-Vượng nằm dưới đất, thở như sắp tắt.
-
-Ông Tài tới sau cùng, nhìn tôi rồi nhìn hắn.
-
-— Bắt được chưa?
-
-Tôi quẹt máu mũi.
-
-— Chú tới đúng lúc chụp ảnh kỷ niệm luôn đó.
-
-***
-
-Trong ba lô Vượng có đủ thứ.
-
-Ống nghiệm.
-
-Kim lấy máu.
-
-Máy ảnh.
-
-Hai túi xác động vật nhỏ đông lạnh.
-
-Một lọ đã có chất lỏng đỏ sẫm, dán nhãn bằng mã số.
-
-Và một cuốn sổ ghi các khoản tiền.
-
-Không có chữ “Ma Lai”.
-
-Chỉ có:
-
-“M-03, dị huyết, mẫu sống.”
-
-Bên cạnh là con số tiền đủ để tôi nhìn phong bì hai triệu của sếp Hòa rồi cảm thấy nghề nghiệp của mình lại một lần nữa bị xúc phạm.
-
-Tôi hỏi Vượng:
-
-— Ai mua?
-
-Hắn ngồi tựa gốc cây, hai tay bị ông Tài trói bằng dây chở hàng.
-
-— Không biết.
-
-— Anh làm nghề sưu tầm dược liệu mà mang ống nghiệm, thuốc mê với xác dê lên núi lúc hai giờ sáng hả?
-
-— Việc của tôi.
-
-— Giờ thành việc của công an rồi.
-
-Mặt hắn thay đổi.
-
-Ông Tích đã nhờ người dưới bản gọi công an xã từ trước khi xuống.
-
-Vượng nhìn tôi.
-
-— Cậu không hiểu thứ cậu đang dính vào đâu.
-
-Tôi ngồi xổm trước mặt hắn.
-
-— Câu đó trong phim mấy người xấu hay nói lắm. Anh đổi câu khác được không?
-
-Hắn không cười.
-
-— Người mua không quan tâm cậu tin ma hay không. Họ chỉ quan tâm thứ nào dùng được.
-
-— Họ là ai?
-
-— Tôi không biết tên.
-
-— Liên lạc kiểu gì?
-
-— Qua người môi giới.
-
-— Ở đâu?
-
-Hắn nhìn tôi rất lâu.
-
-Rồi cười.
-
-— Cậu muốn biết thật à?
-
-Tôi ghét kiểu cười đó.
-
-— Nói.
-
-— Chợ.
-
-— Chợ nào?
+Một lúc lâu hắn mới nói:
 
 — Chợ Âm.
 
-Tôi tưởng hắn đang hù.
+Tôi tưởng đó là tên hắn bịa để dọa.
 
-— Nghe như tên group Facebook bán bùa fake vậy.
+— Là chợ thật hay tên gọi?
 
-— Rồi cậu sẽ biết.
+— Cậu cứ nghĩ là chỗ người ta mua những thứ ngoài kia không ai dám niêm yết.
 
-Tiếng xe máy từ xa vọng tới.
+— Ở đâu?
 
-Vượng tựa đầu vào thân cây.
+— Nếu nó chỉ có một địa chỉ thì công an dẹp lâu rồi.
 
-— Nếu còn sống đủ lâu.
+Đây là câu đầu tiên của Vượng khiến tôi ngừng nghĩ hắn chỉ là một kẻ săn mẫu bệnh hoạn làm việc một mình.
 
-Tôi định đáp lại một câu cho ngầu.
+— Họ mua cái gì?
 
-Nhưng lúc ấy tôi nhìn xuống đất.
+Hắn nhìn về phía nhà ông Tích.
 
-Cái bóng thứ năm đã biến mất.
+— Thứ nào dùng được.
+
+Câu nói giống hệt điều hắn đã nói tối trước, nhưng lần này tôi hiểu nó theo nghĩa khác. Người mua không nhất thiết phải tin Mây là ma. Họ chỉ cần tin máu, cơ thể hay tình trạng của cô có giá trị.
+
+Tiếng xe máy của lực lượng địa phương vọng lên từ dưới dốc. Vượng nhắm mắt, không nói thêm.
+
+Phần còn lại đêm ấy được xử lý bằng những thứ rất bình thường: chụp hiện trường, ghi vị trí xác dê, thu dụng cụ, lấy lời khai. Tôi kể chính xác những gì có thể chứng minh về Vượng; chuyện một cái đầu bay trong rừng được ghi là lời kể riêng của những người có mặt, không phải kết luận của biên bản.
+
+Tôi thấy cách ấy dễ chịu hơn. Ma hay không ma có thể tranh luận sau. Còn việc một người lén theo dõi một cô gái, dụ cô ra ngoài và mang dụng cụ lấy máu thì chẳng cần đến ma mới thành nguy hiểm.
 
 ***
 
-Sáng hôm sau, Mây tỉnh muộn.
-
-Cổ cô có một vết cắt nhỏ do cái móc của Vượng. Ông Tích bôi thuốc rồi quấn khăn lại.
-
-Công an đã đưa Vượng đi từ đêm.
-
-Tất nhiên tôi không thể ghi trong lời khai rằng một cái đầu có ruột bay ra đã tấn công hắn.
-
-Tôi chỉ khai phần mình chứng minh được:
-
-Vượng đặt xác động vật, mang dụng cụ lấy mẫu, lén theo dõi nhà ông Tích và có vật chứng liên quan việc mua bán thứ hắn gọi là “dị huyết”.
-
-Phần còn lại...
-
-Tôi giữ trong máy ghi âm.
-
-Trước khi rời đi, tôi hỏi Mây:
-
-— Cái bóng hôm qua em có thấy không?
-
-— Không.
-
-— Bố em?
-
-— Bố nói không thấy.
-
-— Chú Tài thấy.
-
-— Vậy có thể hai anh cùng thần kinh.
-
-Tôi nhìn cô.
-
-— Hôm qua em còn nghiêm túc lắm mà.
-
-Mây mỉm cười.
-
-— Ở với anh hai ngày bị lây.
-
-Tôi đặt tay lên ngực.
-
-— Cuối cùng cũng có người công nhận sức ảnh hưởng của anh.
-
-— Tôi đang nói bệnh.
-
-— Em có thể để anh vui ba giây không?
-
-Cô bật cười.
-
-Tôi kéo vali ra sân.
-
-Ông Tài đã sửa được xe, nhất quyết chở tôi xuống thành phố để “trả hết duyên nợ”.
-
-Trước khi lên xe, Mây gọi:
+Sáng hôm sau Mây tỉnh muộn. Vết rách nhỏ ở cổ đã được ông Tích xử lý, cô trông mệt nhưng tỉnh táo. Tôi chuẩn bị xuống núi cùng ông Tài khi cô gọi lại.
 
 — Anh Huy.
 
-Tôi quay lại.
+Cô ném cho tôi túi zip có đồng xu lỗ vuông.
 
-Cô ném cho tôi một thứ.
+Tôi bắt được rồi nhìn cô.
 
-Tôi bắt được.
+— Bố em không bảo vứt à?
 
-Đồng xu lỗ vuông tìm thấy trong rương.
+— Có.
 
-— Em đưa anh làm gì?
+— Vậy em đưa anh làm gì?
 
-— Bố bảo vứt.
+— Vì nó xuất hiện sau khi Vượng tới. Anh đang tìm hắn với cái Chợ Âm gì đó thì giữ luôn đi.
 
-— Sao không vứt?
+— Nghe như em đang chuyển xui xẻo sang cho anh vậy.
 
-— Vì nó xuất hiện trước khi anh tới.
+— Anh có thể không nhận.
 
-Tôi nhìn đồng xu.
+Tôi nhìn đồng xu qua lớp nhựa. Sợi chỉ đen vẫn buộc ở mép.
 
-— Ý em là sao?
+— Đêm qua trong túi Vượng có mấy đồng giống cái này — Mây nói.
 
-— Người đàn ông tên Vượng tới một tháng trước. Đồng xu không có trong rương lúc đó.
+— Vậy chắc hắn bỏ vào rương.
 
-— Vậy nó xuất hiện sau.
+— Có thể. Nhưng mấy đồng của hắn đều buộc chỉ đỏ.
 
-— Ừ.
+Tôi ngẩng lên.
 
-— Có thể Vượng bỏ vào.
+Cô chỉ vào túi zip trong tay tôi.
 
-— Có thể.
+— Cái này đen.
 
-Mây nhìn tôi.
+Một chi tiết nhỏ, chưa đủ để chứng minh bất cứ thứ gì. Nhưng nó đủ khiến tôi không ném đồng xu xuống rãnh như dự định.
 
-— Nhưng đêm qua tôi thấy trong túi hắn có một túi đồng xu giống hệt.
+Tôi nhét nó vào ngăn ngoài ba lô.
 
-— Vậy càng chứng minh hắn bỏ.
+Ông Tài đứng cạnh xe lắc đầu.
 
-— Không.
+— Tôi mà là cậu, tôi bỏ.
 
-— Sao?
+— Cháu biết.
 
-— Tất cả đồng xu của hắn đều buộc chỉ đỏ.
+— Biết mà vẫn giữ?
 
-Tôi nhìn thứ trong tay.
+— Chắc do nghề.
 
-Sợi chỉ đen.
+Ông kéo quai mũ bảo hiểm xuống.
 
-Một luồng lạnh rất nhẹ chạy dọc gáy.
+— Nghề của cậu cực ghê.
 
-Mây nói:
+Lần này tôi chỉ cười.
 
-— Cái của anh khác.
+Xe chạy khỏi sân, Mây và ông Tích đứng dưới mái hiên nhìn theo. Qua gương chiếu hậu, căn nhà nhỏ dần rồi bị một khúc cua che khuất.
 
-— “Của anh” nghe hơi xui nha.
+Tôi không biết rằng ở mép rừng phía trên sân lúc đó còn có một người khác đang nhìn chiếc xe rời đi.
 
-— Thì đừng giữ.
+Không phải ông Tích. Không phải người trong bản.
 
-Tôi định ném.
-
-Thật.
-
-Nhưng rồi nghề nghiệp lại thắng.
-
-Tôi bỏ nó vào túi zip.
-
-Ông Tài nhìn thấy, lắc đầu.
-
-— Cậu kiểu gì cũng chết vì tò mò.
-
-Tôi leo lên xe.
-
-— Không. Con sẽ giàu vì tò mò.
-
-— Với hai triệu công tác phí?
-
-Tôi im.
-
-Đòn này đau hơn ma cắn.
-
-Xe chạy xuống núi.
-
-Trong gương chiếu hậu, nhà ông Tích nhỏ dần giữa sương.
-
-Mây vẫn đứng ngoài sân.
-
-Tôi giơ tay chào.
-
-Cô cũng giơ tay.
-
-Một lúc sau khúc cua che khuất.
-
-Tôi quay mặt về phía trước.
-
-Không thấy rằng ở mép đường phía sau Mây, dưới hàng cây...
-
-có một người khác cũng đang đứng nhìn chiếc xe rời đi.
-
-Không phải ông Tích.
-
-Không phải người trong bản.
-
-Và dưới chân hắn...
-
-không có bóng.
+Và dưới nắng sớm, dưới chân hắn không có bóng.
