@@ -482,8 +482,20 @@ Lần này tôi chỉ cười.
 
 Xe chạy khỏi sân, Mây và ông Tích đứng dưới mái hiên nhìn theo. Qua gương chiếu hậu, căn nhà nhỏ dần rồi bị một khúc cua che khuất.
 
-Tôi không biết rằng ở mép rừng phía trên sân lúc đó còn có một người khác đang nhìn chiếc xe rời đi.
+Xuống gần tới chân núi, tôi mở lại đoạn video đã quay lúc chào Mây để kiểm xem camera có lưu được gì từ đêm trước không. Ở mấy giây cuối, ngay trước khi xe ôm cua, mép khung hình bắt được một người đứng giữa hàng cây phía trên sân.
 
-Không phải ông Tích. Không phải người trong bản.
+Tôi dừng video.
 
-Và dưới nắng sớm, dưới chân hắn không có bóng.
+Phóng lớn.
+
+Hình vỡ hạt nên không thấy mặt. Chỉ biết đó là một người trưởng thành mặc đồ tối, đứng yên nhìn về phía chúng tôi. Nắng sớm chiếu xiên từ sau lưng Mây, bóng của cô và ông Tích đều đổ rõ xuống sân.
+
+Người ở mép rừng thì không.
+
+Tôi đưa điện thoại cho ông Tài xem khi xe dừng nghỉ.
+
+Ông nhìn đúng ba giây rồi trả lại.
+
+— Tôi đã bảo cậu xuống núi sớm rồi mà.
+
+Lần này tôi không tìm được câu nào để cãi.
