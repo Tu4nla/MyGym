@@ -1,817 +1,581 @@
-Trâm đứng dưới mái hiên, tay còn cầm chiếc khăn vừa dùng lau máu trên cánh tay A Hù.
+Trâm đứng dưới mái hiên, một tay cầm chiếc khăn vừa dùng lau vết máu nhỏ trên cánh tay A Hù.
 
-Bảy năm là quãng thời gian đủ dài để một gương mặt thay đổi. Đủ để má đầy hơn hoặc hóp đi, để tóc dài thành ngắn, để một người từng mười bảy tuổi bước qua tuổi hai mươi tư với vài nếp mỏng nơi khóe mắt và một kiểu im lặng khác trước.
+Bảy năm là quãng thời gian đủ để một gương mặt thay đổi rất nhiều mà vẫn còn nguyên cảm giác quen thuộc. Má có thể hóp đi, tóc dài thêm, giọng trầm hơn, khóe mắt xuất hiện những nếp rất mảnh. Quỳnh đã tự nhắc mình điều đó suốt đường lên đây.
 
-Quỳnh đã tự nhắc mình điều đó suốt quãng đường từ Hà Nội lên đây.
+Nó không chờ Trâm của tuổi mười bảy bước nguyên vẹn ra khỏi một căn nhà trên núi.
 
-Nhưng có những thứ nó vẫn chờ.
+Nhưng khi đứng trước người con gái này, những điều Quỳnh thấy lệch lại không nằm ở tóc hay gương mặt.
 
-Một cái nhíu mày rất nhanh trước khi Trâm nói dối.
+Ngày trước, Trâm mỗi khi lạnh thường kéo tay áo xuống che gần nửa bàn tay. Lúc nói dối, nó hay chạm ngón cái vào móng trỏ rồi mới nhìn người đối diện. Khi có chuyện nghiêm túc, thay vì “mày”, nó thường gọi thẳng tên Quỳnh trước khi nói.
 
-Thói quen kéo tay áo che nửa bàn tay khi lạnh.
+Những thói quen nhỏ tới mức Quỳnh chưa từng nghĩ mình nhớ.
 
-Cách nó gọi Quỳnh là “mày” nhưng lúc có chuyện nghiêm túc lại chuyển sang gọi tên.
-
-Người con gái trước mặt có khuôn mặt Trâm.
-
-Giọng cũng gần như Trâm.
-
-Nhưng khi nhìn Quỳnh, ánh mắt cô dừng ở đúng những nơi một người đang cố nhớ phải nhìn sẽ dừng: mặt, vai, rồi bàn tay.
-
-Không có cái chớp mắt đầu tiên của một người gặp lại bạn cũ sau bảy năm.
-
-Chỉ có sự chính xác.
+Cho tới khi chúng không xuất hiện.
 
 — Quỳnh.
 
-Cô gọi.
+Cô gái trước mặt gọi tên nó.
 
 Một nhịp sau mới cười.
 
-— Mày tới thật.
+— Mày đi đường có mệt không?
 
-Quỳnh cũng cười.
+— Cũng được. Đoạn cuối hơi hành xác thôi.
 
-— Thư mời mà. Không tới lại mang tiếng.
+Trâm bật cười, lần này tự nhiên hơn.
 
-Nó bước lên bậc hiên.
+— Tao nói A Hù xuống đón mà ổng bảo xe tụi mày lên được.
 
-Trâm mở hai tay như muốn ôm.
+A Hù đang rửa tay ở vòi nước cạnh kho nghe thấy, quay lại:
 
-Quỳnh chủ động ôm trước.
+— Tôi đâu biết đường mới lở hôm trước.
 
-Trong khoảnh khắc hai người chạm nhau, nó ngửi thấy một mùi rất nhẹ.
+— Ừ, lúc nào anh cũng “đâu biết”.
 
-Không phải nước hoa.
+Cách hai người đối đáp không có vẻ diễn. Ít nhất Quỳnh chưa thấy.
 
-Hơi ngọt, pha một chút ngai ngái như thuốc bắc cũ.
-
-Quỳnh từng ngửi mùi đó ở đâu rồi.
-
-Nó chưa nhớ ra.
-
-Trâm siết vai nó vừa đủ, rồi buông gần như ngay.
-
-— Lan. Thi.
-
-Cô nhìn hai người phía sau.
+Trâm quay sang Lan và Thi.
 
 — Lâu quá.
 
-Lan gật.
+Lan gật, mỉm cười nhẹ nhưng không chủ động ôm. Thi thì bước tới vỗ vai Trâm một cái như hồi còn đi học.
 
-Không ôm.
+— Mày làm tụi tao ngồi xe nguyên ngày đó.
 
-Thi cười, nhưng mắt vẫn lướt toàn bộ hiên nhà.
+— Tao biết. Xin lỗi.
 
-— Mày làm tụi tao đi gần cả ngày đó.
+— Thôi, cưới có một lần, tạm tha.
 
-— Xin lỗi. Tao không biết gọi sao cho...
+Trung đứng sau cùng, tự giới thiệu ngắn gọn. A Hù gật đầu chào rồi quay vào kho lấy áo sạch. Không ai nhắc lại chuyện khẩu súng; càng không ai cố biến sự cố lúc nãy thành câu chuyện hài.
 
-Trâm dừng.
+Quỳnh bước vào gian chính cùng mọi người.
 
-— Cho đỡ kỳ.
+Căn nhà rộng hơn vẻ ngoài. Tường đất dày tới mức bậu cửa sổ sâu gần một gang tay, vài chỗ phía trong đã trát xi măng mới. Bếp củi nằm ở gian bên, khói theo ống kim loại cũ đi lên mái. Trên xà treo ngô khô thành từng bó. Góc nhà có bao thóc, dao phát, cuốc và một chiếc máy cắt cỏ còn khá mới, trông lạc hẳn giữa phần đồ đạc cũ.
 
-Trung đứng sau cùng, tự giới thiệu:
+Những tờ giấy có ký hiệu dán ngoài cửa không giống đồ trang trí cưới.
 
-— Em là Trung. Khách không mời nhưng lái xe có bằng.
+Quỳnh chỉ vào một tờ.
 
-A Hù vẫn cầm dao.
+— Cái này là gì vậy?
 
-Thi nhìn hắn.
+Trâm nhìn theo.
 
-— Anh bỏ dao xuống được chưa?
+— Bố A Hù dán. Ông hay làm mấy việc chữa đau, cúng cho người quanh đây. Tao không rành.
 
-A Hù cúi nhìn tay mình như giờ mới nhớ ra.
+— Bố anh ấy đâu?
 
-— À.
+— Đi rừng từ sáng, chắc tối mới về.
 
-Hắn cười ngượng.
+Quỳnh hỏi như tiện miệng:
 
-Đặt con dao lên chiếc thớt gỗ cạnh cửa kho.
+— A Mã hả?
 
-Đoạn ruột đẫm máu trên tay còn lại được hắn thả vào một chậu nhôm.
+Trâm khựng rất nhẹ.
 
-Một con lợn con nằm khuất sau vách, bụng đã được mổ.
+— Ừ. Ở đây người ta gọi ông vậy.
 
-Máu trên áo hắn là máu lợn.
+A Mã không phải tên riêng, nhưng Quỳnh không hỏi tiếp.
 
-Lời giải hợp lý đến mức Thi hạ súng rất nhanh nhưng không hề có vẻ xấu hổ vì đã rút nó.
+Trâm dẫn họ đi xem chỗ ngủ. Quỳnh, Lan và Thi ở một phòng tương đối rộng phía sau gian chính. Trung được xếp gian nhỏ gần bếp, có một chiếc giường gỗ đơn và cửa sổ nhìn ra sân sau.
 
-— Lần sau cầm dao chạy ra thấy người lạ thì đứng lại trước. — cô nói.
+Hắn đứng ở cửa nhìn qua phòng ba người rồi nhìn lại giường mình.
 
-A Hù nhìn khẩu súng vừa được Thi cất vào bao trong áo.
+— Phòng bên kia còn chỗ không?
 
-— Tôi tưởng có chó vào kho.
+Thi đặt ba lô xuống.
 
-— Chó nào biết mở cửa?
+— Mày ngủ một mình đi cho rộng.
 
-— Ở đây có con biết.
+— Tao hỏi để biết thôi.
 
-Trung quay sang Thi.
+— Biết rồi thì vô cất đồ.
 
-— Tao đề nghị mình tôn trọng năng lực chó địa phương.
+Trung lắc đầu, xách túi sang phòng mình. Quỳnh thấy A Hù cười nhưng không chen vào.
 
-Thi không thèm nhìn hắn.
+Lúc hắn cười, vai trái nhấc lên trước vai phải một chút.
 
-Trâm bật cười.
+Quỳnh bất giác nhớ người tài xế trong giấc mơ.
 
-Âm thanh khá giống.
+Nó lập tức tự dừng ý nghĩ.
 
-Nhưng Quỳnh vẫn thấy có gì đó lệch.
+Vai không cân không phải dấu vân tay. Giấc mơ càng không phải chứng cứ.
 
-***
-
-Căn nhà chính rộng hơn nhìn từ ngoài.
-
-Tường đất dày, có chỗ đã được trát lại bằng xi măng. Sàn phía trước thấp hơn gian trong một bậc. Một bếp củi nằm ở gian bên, khói đi qua ống kim loại cũ rồi thoát ra mái. Dọc xà nhà treo ngô khô thành từng bó nhỏ; ở góc có mấy bao thóc, dụng cụ làm nương và một chiếc máy cắt cỏ mới đến mức lạc hẳn với phần còn lại.
-
-Những tờ giấy có ký hiệu ngoài cửa không giống đồ trang trí cưới.
-
-Quỳnh hỏi.
-
-Trâm đáp:
-
-— Bố A Hù dán. Ông làm mấy việc cúng bái, chữa bệnh. Tao cũng không hiểu hết.
-
-— Bố đâu?
-
-— Đi rừng. Có khi tối mới về.
-
-— A Mã?
-
-Trâm hơi khựng.
-
-Chỉ một nhịp.
-
-— Ừ. Ở đây người ta gọi vậy.
-
-Quỳnh gật.
-
-A Mã không phải tên.
-
-Nhưng nó chưa hỏi tiếp.
-
-Họ được xếp ngủ ở hai gian phía sau. Quỳnh, Lan, Thi một phòng. Trung được cho một gian nhỏ riêng gần bếp.
-
-Trung phản đối:
-
-— Sao ba người ở phòng rộng, tôi một mình nằm cạnh nhà bếp vậy?
-
-Thi đáp:
-
-— Vì ma cũng có tiêu chuẩn.
-
-— Ý mày là sao?
-
-— Nó lựa.
-
-Trung nhìn quanh.
-
-— Tôi cảm thấy bị xúc phạm bởi cả người lẫn ma.
-
-A Hù cười lớn.
-
-Lúc hắn cười, Quỳnh để ý vai trái hơi nhấc lên trước vai phải.
-
-Một chuyển động rất nhỏ.
-
-Cùng kiểu với người tài xế trong giấc mơ của nó.
-
-Quỳnh lập tức tự dừng ý nghĩ.
-
-Người có vai không cân thiếu gì.
-
-Giấc mơ không phải chứng cứ.
-
-Nó cất chi tiết vào đầu, không gắn tên.
+Quỳnh cất chi tiết đó vào đầu, không gắn nó với cái tên nào.
 
 ***
 
-Bữa tối bắt đầu lúc hơn bảy giờ.
+Bữa cơm bắt đầu sau bảy giờ.
 
-Trâm nấu canh rau, thịt lợn rang và một chảo ngô xào. A Hù mang thêm một chai rượu ngô nhưng Thi từ chối vì còn phải lái thay Trung nếu cần. Trung thì xin đúng nửa chén, bị Thi nhìn một cái rồi tự giảm xuống còn “một ngụm mang tính ngoại giao”.
+Trâm nấu canh rau, thịt lợn rang, ngô xào và một đĩa trứng. A Hù lấy ra chai rượu ngô nhưng Thi từ chối ngay vì có thể phải lái xe nếu cần. Trung xin một chút để nếm, rồi nhìn thấy ánh mắt Thi thì tự rót chưa đầy đáy chén.
 
-Bữa ăn không hề đáng sợ.
+— Mày nhìn tao như nhìn nghi phạm vậy.
 
-Đó chính là điều khiến Quỳnh thấy dễ thở hơn một chút.
+— Mày uống đi rồi lát đau đầu đừng than.
 
-A Hù nói chuyện đơn giản, có lúc hơi chậm nhưng không ngờ nghệch. Hắn hỏi đường Hà Nội, giá thuê nhà, công việc của từng người. Khi biết Quỳnh làm ở Âm Dương, hắn chỉ cười:
+— Tao có than bao giờ.
 
-— Báo ma hả?
+Thi không đáp, chỉ nhìn hắn.
 
-— Báo bình thường. Chỉ có cái tên hơi khó xin quảng cáo.
+Trung tự nhớ ra vài lần trong quá khứ, im luôn.
 
-— Có anh nào trước cũng làm báo đó tới đây rồi.
+Bữa ăn ban đầu bình thường tới mức Quỳnh thấy cơ thể mình bớt căng. A Hù hỏi chuyện Hà Nội, hỏi Lan làm gì, hỏi Thi có thường xuyên phải mang súng hay không rồi bị Thi trả lời rằng chuyện đó không tiện kể. Hắn hỏi Trung sao chịu được Thi từ hồi đại học, Trung bảo “quen rồi”, khiến Thi cười thành tiếng.
 
-Đũa Quỳnh dừng giữa chén.
+Đến khi biết Quỳnh làm ở Âm Dương, A Hù ngẩng lên.
 
-Trung không nhìn lên.
+— Báo chuyện ma phải không?
 
-Thi tiếp tục gắp rau như không nghe.
+— Báo đủ thứ. Chỉ là tên nghe hơi khó mời quảng cáo.
 
-Lan hỏi:
+— Trước có cậu nào bên đó tới đây rồi.
 
-— Khi nào?
+Đũa Quỳnh dừng trên miệng chén.
 
-A Hù nghĩ.
+Không chỉ nó. Lan ngẩng lên. Thi thì vẫn gắp rau, nhưng động tác chậm lại.
 
-— Mấy tháng trước.
+— Khi nào vậy anh? — Quỳnh hỏi.
 
-— Tên gì?
+A Hù suy nghĩ.
 
-— Huy hay gì đó.
+— Mấy tháng trước. Cậu đó nói nhiều lắm.
 
-Trâm chen vào rất tự nhiên:
+— Tên Huy?
 
-— Tao có kể với Quỳnh rồi mà. Có người tới tìm bố A Hù hỏi chuyện cây thuốc, sau đó đi đâu không biết.
+— Ừ, đúng rồi. Huy.
 
-Quỳnh nhìn cô.
+Trâm chen vào:
 
-— Mày chưa kể.
+— Tao tưởng có kể mày trong thư rồi mà.
 
-Nụ cười của Trâm đứng lại.
+Quỳnh quay sang.
 
-— Ờ... chắc tao định viết trong thư rồi quên.
+— Chưa.
 
-— Huy ở lại đây bao lâu?
+Nụ cười của Trâm đứng lại một thoáng.
 
-A Hù đáp:
+— Vậy chắc tao định viết rồi quên. Hồi đó có người tới hỏi bố A Hù chuyện cây thuốc.
 
-— Một đêm.
+Quỳnh không hỏi tại sao Trâm biết Huy nhưng thư lại không nhắc. Nó quay lại A Hù.
 
-Quỳnh nhớ xấp giấy sau bàn Huy.
+— Anh ấy ở đây bao lâu?
 
-Bản đồ.
+— Tới tối. Sáng hôm sau không thấy nữa.
 
-H-49.
+— Anh có biết đi đâu không?
 
-Hồng Ngài.
+— Không. Tôi tưởng cậu ấy về thị trấn.
 
-Nó hỏi:
+Thi lúc này mới lên tiếng:
 
-— Anh ấy đi đâu sau đó?
+— Xe của Huy thì sao anh?
 
-A Hù nhún vai.
+A Hù nhìn cô.
 
-— Sáng dậy đã không thấy. Xe cũng không còn.
+— Xe gì?
 
-Thi ngẩng lên lần đầu.
+— Anh ấy tự đi xe tới hay có người chở?
 
-— Anh nhớ xe gì không?
+— Tôi không để ý. Lúc tới có người đưa lên đoạn ngoài hay sao đó.
 
-— Không để ý.
+Câu trả lời khác với kiểu “xe cũng biến mất” Quỳnh từng nghĩ từ hồ sơ, nhưng chưa đủ thành mâu thuẫn. Huy có thể đổi phương tiện, có người đưa, hoặc A Hù nhớ sai.
 
-— Đi một mình?
+Quỳnh chỉ hỏi thêm:
+
+— Anh ấy ngủ ở đây một đêm đúng không?
 
 — Ừ.
 
-Trung cười:
+Ma Kí Sự dừng ở chính đêm đầu Huy tới căn nhà này.
 
-— Người thành phố đúng liều. Đi một mình chỗ lạ.
+Về mặt thời gian, A Hù chưa nói điều gì chắc chắn sai.
 
-A Hù nhìn hắn.
-
-— Cậu cũng đi mà.
-
-— Tôi đi với ba người. Lúc cần chạy có người kéo chân lại.
-
-Thi đá nhẹ vào mắt cá hắn dưới bàn.
-
-Quỳnh không chen nữa.
-
-A Hù nói Huy chỉ ở một đêm.
-
-Ma Kí Sự cho thấy Huy đã ngủ ở nhà, nghe tiếng người dưới kho và bị bắt ngay đêm đầu.
-
-Về mặt thời gian, câu hắn nói có thể đúng.
-
-Nó chỉ thiếu phần sau.
+Nó chỉ nói thiếu phần quan trọng nhất.
 
 ***
 
-Ăn được nửa bữa, tiếng chó ngoài sân đột ngột gầm.
+Ăn được nửa bữa, con chó ngoài sân đột ngột gầm.
 
-Không sủa.
-
-Chỉ gầm từ rất sâu trong cổ.
+Không sủa. Chỉ phát ra một âm thanh thấp và kéo dài trong cổ.
 
 A Hù đặt đũa xuống.
 
-Trâm nhìn cửa.
+Trâm nhìn ra cửa.
 
 — Bố về.
 
-Một bóng người đi qua ô cửa sổ thấp.
+Một cái bóng đi ngang ô cửa sổ thấp, dừng ngoài hiên. Cửa mở.
 
-Cửa mở.
+Người đàn ông bước vào khiến Quỳnh nhận ra ngay khuôn mặt đã xuất hiện ở mép ảnh Huy để lại.
 
-Người đàn ông bước vào khiến Quỳnh hiểu ngay vì sao Thi kể mình đã thấy một khuôn mặt gần giống trong hồ sơ Huy.
+A Mã gầy tới mức chiếc áo chàm cũ như treo trên vai. Tóc bạc lẫn đen dài quá gáy, bết thành từng lọn vì ẩm. Một mắt đục trắng, mắt còn lại tối và rất tỉnh. Trên tay ông là một bó cây rừng còn dính đất.
 
-A Mã gầy đến mức chiếc áo chàm cũ như treo trên khung xương. Tóc dài quá gáy, bết từng lọn. Một mắt trắng đục, con còn lại rất tối, lặng và sâu.
+A Hù đứng dậy.
 
-Ông cầm một bó cây rừng trong tay.
+— Bố. Bạn Trâm từ Hà Nội lên.
 
-Không chào ai.
+A Mã không chào. Ông đặt bó cây xuống mép bếp, nhìn lần lượt từng người.
 
-Chỉ nhìn từng người.
+Ánh mắt dừng ở Lan trước.
 
-Đến Lan, ánh mắt dừng lại.
+Lan cũng nhìn lại.
 
-Lan cũng nhìn ông.
+Không ai nói gì.
 
-Không ai nói.
+Rồi A Mã nhìn Trung. Lông mày ông cau rất nhẹ. Ông tiến tới gần bàn, cúi xuống như đang ngửi một mùi rất khó nhận ra.
 
-Đến Trung, A Mã cau mày.
+Trung nghiêng người ra sau.
 
-Rất khẽ.
+— Bác tìm gì vậy ạ?
 
-Rồi tới Quỳnh.
+A Mã đưa tay về phía ngực hắn.
 
-Ông nghiêng đầu.
+Trung chặn cổ tay trước khi tay ông chạm tới. Động tác nhanh nhưng không mạnh.
 
-A Hù đứng lên.
-
-— Bố, bạn Trâm.
-
-A Mã không đáp.
-
-Ông đặt bó cây xuống rồi bước về phía Trung.
-
-Trung vẫn ngồi, bàn tay đặt cạnh chén rượu nhưng cơ vai đã cứng lên.
-
-A Mã cúi sát.
-
-Ngửi.
-
-Trung lùi đầu.
-
-— Bác... có cần con xuất trình căn cước không?
-
-Không ai cười.
-
-A Mã đưa tay về ngực hắn.
-
-Trung chặn cổ tay ông trước khi chạm.
-
-Động tác nhanh và gọn.
+— Bác đừng chạm bất ngờ, con giật mình.
 
 Hai người nhìn nhau.
 
-Trung nói nhẹ:
-
-— Bác đừng chạm bất ngờ.
-
-A Mã không giận.
-
-Ông nhìn bàn tay đang giữ mình, rồi nhìn Trung.
-
-Miệng mấp máy một từ rất nhỏ.
+A Mã không tỏ vẻ khó chịu. Ông nhìn bàn tay Trung đang giữ mình rồi nhìn lên mặt hắn, môi động rất khẽ.
 
 — Trống.
 
-— Dạ?
+Trung nới tay.
 
-A Hù lập tức xen vào:
+— Bác nói gì ạ?
 
-— Bố tôi lúc tỉnh lúc không. Mấy người đừng để ý.
+A Hù đứng lên xen vào, giọng vẫn bình thường nhưng nhanh hơn trước:
 
-A Mã rút tay.
+— Bố tôi dạo này lúc nhớ lúc quên. Anh đừng để ý.
 
-Ông quay sang Lan.
+A Mã tự rút tay về. Ông quay sang Lan, không tới gần nữa. Chỉ giơ hai ngón tay lên.
 
-Lần này không tiến lại.
-
-Chỉ giơ hai ngón tay lên.
-
-Lan tái mặt rất nhẹ.
+Lan tái đi rất ít, nếu Quỳnh không nhìn sẵn chắc đã bỏ qua.
 
 A Hù hỏi:
 
 — Bố làm gì vậy?
 
-Ông già cười.
+Ông già nhìn Lan, rồi nhìn qua Trung.
 
-Một nụ cười hoàn toàn không vui.
+Một nụ cười rất mỏng xuất hiện trên gương mặt hốc hác.
 
-— Hai người... đã tới.
-
-Trâm đánh rơi chiếc thìa.
+— Hai người… tới rồi.
 
 Keng.
 
-Quỳnh quay sang.
+Chiếc thìa trên tay Trâm rơi xuống nền.
+
+Mọi người quay sang.
+
+Trâm cúi xuống nhặt ngay.
+
+— Tay dính dầu.
+
+Quỳnh nhìn bàn tay phải của cô đang cầm thìa, rồi nhìn mặt A Mã.
+
+Ông đã quay đi, mang bó cây vào gian sau như thể chuyện vừa rồi không đáng để giải thích.
+
+***
+
+Sau bữa cơm, Trâm đun nước pha trà.
+
+Trời lạnh xuống rất nhanh. Sương tràn qua hàng rào, ánh đèn trước hiên chỉ tạo được một quầng vàng ngắn rồi chìm vào trắng xóa. Trong bếp, củi cháy lách tách; mùi khói nhẹ bám vào quần áo. Thi và Trung ra ngoài một lúc để kiểm tra tín hiệu camera hành trình và chiếc xe để dưới đường. Quỳnh ngồi với Lan cạnh bàn gỗ thấp.
+
+Trâm mang ra một ấm đất màu nâu, đặt xuống giữa bàn. Hơi nước mỏng thoát khỏi vòi.
+
+— Uống chút cho ấm. Tối ở đây lạnh nhanh lắm.
+
+Lan đưa tay định rót.
+
+Đầu ngón tay vừa chạm thành ấm thì dừng lại.
+
+Quỳnh thấy cổ tay nó cứng đi.
 
 — Sao vậy?
 
-— Trơn tay.
+Lan không trả lời ngay. Nó áp thêm hai ngón tay vào thành ấm, rồi cả lòng bàn tay.
 
-Trâm cúi xuống nhặt.
+— Quỳnh, mày thử coi.
 
-A Mã đã đi vào gian sau.
+Trâm hơi nghiêng đầu.
 
-Không ăn.
+— Có gì đâu?
 
-Không nói thêm.
+Quỳnh chạm vào.
 
-***
+Da nó nổi gai ngay lập tức.
 
-Sau bữa tối, Trâm đun nước pha trà.
+Chiếc ấm lạnh.
 
-Trời ngoài nhà lạnh xuống nhanh. Sương tràn qua hàng rào, ánh đèn trước hiên chỉ chiếu được một khoảng vàng nhỏ rồi bị trắng xóa nuốt mất. Tiếng chó ở các nhà xa thỉnh thoảng vọng qua khe núi, nghe lúc gần lúc xa.
+Không phải kiểu nước để nguội. Thành đất lạnh như vừa để ngoài sân sương một lúc lâu. Thế nhưng ngay trước mắt, hơi trắng vẫn bốc ra khỏi vòi.
 
-Trung ra sân kiểm tra xe qua camera hành trình kết nối điện thoại.
+Quỳnh rút tay về, nhìn Lan.
 
-Thi đi theo.
+Trâm cũng chạm thử, nét mặt không đổi nhiều.
 
-Quỳnh và Lan ngồi cạnh bếp.
+— Ấm dày, ngoài lạnh cũng bình thường mà. Nước mới sôi đó.
 
-Trâm đặt một ấm đất lên bàn.
+Cô nhấc nắp. Hơi nóng tràn lên rõ hơn, mang theo mùi lá đắng và một chút ngọt ngai ngái.
 
-Hơi nước mỏng cuộn từ vòi.
+Lời giải nghe không hoàn toàn vô lý.
 
-— Uống cho ấm. — cô nói.
-
-Lan đưa tay định cầm.
-
-Ngón tay vừa chạm thành ấm thì dừng.
-
-Nó không giật lại.
-
-Chỉ giữ nguyên.
-
-— Sao? — Trâm hỏi.
-
-Lan nhìn ấm.
-
-Rồi nhìn Quỳnh.
-
-— Lạnh.
-
-Quỳnh tưởng nghe nhầm.
-
-— Gì?
-
-— Cái ấm lạnh.
-
-Trâm cười.
-
-— Mới rót nước sôi mà.
-
-Lan áp cả lòng bàn tay vào thành đất nung.
-
-— Tao biết.
-
-Quỳnh chạm thử.
-
-Lạnh thật.
-
-Không phải nguội.
-
-Lạnh như chiếc ấm đã để ngoài trời đêm lâu.
-
-Trong khi hơi nước vẫn bốc lên.
-
-Trâm nhìn hai đứa.
-
-Một giây.
-
-Hai giây.
-
-Rồi cô nhấc nắp.
-
-Bên trong nước đang bốc hơi.
-
-— Ấm đất dày. — Trâm nói. — Có khi bên ngoài lạnh.
-
-Một lời giải nghe được.
-
-Nhưng không đủ.
-
-Lan không uống.
+Nhưng Lan không rót.
 
 Quỳnh cũng không.
 
-Đúng lúc ấy Trung bước vào, hai tay xoa vì lạnh.
+Ngay lúc ấy Trung từ ngoài bước vào, hai tay chà vào nhau vì lạnh.
 
-— Trà hả? Cứu mạng.
+— Có trà hả?
 
-Hắn rót một chén đầy.
+Hắn ngồi xuống trước khi ai kịp trả lời, kéo một chén sạch lại rồi tự rót đầy. Hơi nước phủ lên mặt chén.
 
-Lan quay phắt.
+Lan quay sang.
 
-— Khoan.
+— Trung, khoan.
 
-Trung đã uống gần nửa.
+Hắn đã uống một ngụm lớn.
 
 — Gì?
 
-Lan nhìn chén.
+Lan nhìn chén trong tay hắn.
 
-— ...nóng không?
+— Trà nóng không?
 
-— Nóng chứ.
+Trung nhìn nó như câu hỏi hơi lạ.
 
-Hắn nhấp thêm.
+— Nóng. Sao?
 
-— Hơi đắng.
+— Đưa tao coi.
 
-Trâm ngồi đối diện, nhìn Trung uống.
+Hắn đặt chén xuống. Lan chạm vào men sứ. Chén nóng thật.
 
-Rất lâu.
+Quỳnh thử theo. Hơi nóng truyền rõ lên đầu ngón tay, hoàn toàn khác cái lạnh của thành ấm.
 
-Quỳnh thấy.
+Trung nhìn hai người.
 
-Nó không biết Lan có thấy không.
+— Có chuyện gì vậy?
 
-Thi bước vào sau cùng.
+Lan không nói ngay. Nó quay sang ấm trà, rồi nhìn Trâm.
 
-— Mày uống rượu rồi còn trà?
+Trâm đang nhìn Trung.
 
-— Tao đang cân bằng âm dương.
+Chỉ trong một khoảnh khắc. Khi bắt gặp mắt Quỳnh, cô cúi xuống lấy thêm chén.
 
-— Tao cân mày ra ngoài sân giờ.
-
-Trung cười, uống hết chén.
-
-Rót thêm nửa chén nữa.
-
-Lan giữ cổ tay hắn.
-
-— Đủ rồi.
-
-Trung nhìn Lan.
-
-Có lẽ lần đầu trong ngày hắn thấy gương mặt Lan hoàn toàn không có ý đùa.
-
-— Ờ.
-
-Hắn đặt ấm xuống.
-
-Quỳnh hỏi Trâm:
-
-— Trà gì vậy?
-
-— Lá rừng bố A Hù hái.
-
-— Tên gì?
-
-— Tao không biết.
-
-— Mày uống chưa?
-
-Trâm lắc đầu.
-
-— Không hợp bụng.
-
-Quỳnh nhìn chén của A Hù.
-
-Trống.
-
-Hắn đã uống.
-
-Hoặc ít nhất chén đã được làm cho trông như đã uống.
-
-***
-
-Đêm đầu ở nhà Pá Tra, Quỳnh không ngủ ngay.
-
-Ba người nằm cùng phòng. Thi ở sát cửa. Lan gần cửa sổ. Quỳnh giữa hai người.
-
-Đèn tắt lúc mười một giờ.
-
-Khoảng mười một rưỡi, Thi nói rất nhỏ:
-
-— Quỳnh.
-
-— Ừ.
-
-— Còn thức không?
-
-— Có.
-
-Lan cũng lên tiếng:
-
-— Tao nữa.
-
-Thi ngồi dậy.
-
-Ánh sáng điện thoại hắt lên mặt nó.
-
-— Hai đứa nghe kỹ. Từ giờ không ai ăn uống thứ gì khi chưa thấy người nhà uống cùng. Không đi một mình. Nếu tách nhóm phải nhắn trước.
+— Chắc cái ấm thôi. Lá rừng bố A Hù hái, hơi đắng nhưng uống quen thì ấm người.
 
 Quỳnh hỏi:
 
-— Vì ấm trà?
+— Lá gì?
 
-— Vì nhiều thứ.
+— Tao không biết tên dưới này gọi sao.
 
-Thi nhìn cửa.
+— Mày uống chưa?
 
-— Trung gửi check-in rồi. Có tín hiệu chập chờn nhưng đủ.
+— Tao uống không hợp bụng.
 
-Lan hỏi:
+Trung cầm chén lên định uống tiếp. Lan giữ cổ tay hắn.
 
-— Gửi cho ai?
+— Thôi, đừng uống nữa.
 
-Thi im nửa giây.
+Hắn nhìn nét mặt Lan rồi đặt chén xuống ngay.
 
-Quỳnh không ép.
+— Ừ.
 
-Thi cuối cùng nói:
+Không hỏi “tại sao” tới lần thứ hai.
 
-— Người phụ trách công việc tụi tao.
+Thi vừa bước vào thấy cảnh đó.
 
-— Chuyên án Huy? — Quỳnh hỏi.
+— Gì vậy?
 
-Thi nhìn nó.
+Trung chỉ chén.
 
-— Tao chưa được phép nói chi tiết.
+— Lan bảo đừng uống.
 
-— Nhưng đúng.
+Thi nhìn Lan.
 
-— Quỳnh.
+— Có gì không ổn?
 
-— Được. Tao không hỏi nữa.
+Lan đáp rất khẽ:
 
-Thi thở ra.
+— Chưa biết. Nhưng cái ấm lạnh.
 
-— Tụi tao không tới đây để giấu mày cho vui. Càng ít người biết cấu trúc nhiệm vụ, càng ít thứ bị lộ nếu một người bị tách ra.
+Thi đưa tay chạm thử. Lông mày nó nhíu lại.
 
-Lan nói:
-
-— Hợp lý.
-
-Quỳnh cũng gật.
-
-Nó không thích bị giấu.
-
-Nhưng nó hiểu.
-
-Người thông minh không phải người luôn biết hết.
-
-Là người biết lúc nào việc mình chưa biết có lý do tồn tại.
+Không ai nói thêm ở trước mặt Trâm.
 
 ***
 
-Một giờ mười bảy.
+Đêm đầu, ba người con gái nằm chung phòng.
 
-Quỳnh tỉnh vì tiếng chân.
+Thi chọn chỗ sát cửa. Lan nằm gần cửa sổ. Quỳnh ở giữa. Đèn tắt hơn mười một giờ nhưng không ai ngủ ngay; những tiếng động của căn nhà lạ trở nên rõ hơn khi mọi người thôi nói chuyện — tiếng củi vỡ nhỏ trong bếp, tiếng mái gỗ kêu vì lạnh, tiếng chân con chó đi qua sân rồi nằm xuống.
 
-Không phải ngoài hành lang.
+Khoảng mười một rưỡi, Thi nói nhỏ trong bóng tối:
 
-Trên mái.
+— Còn thức không?
+
+— Có. — Quỳnh đáp.
+
+— Tao nữa. — Lan nói từ phía cửa sổ.
+
+Ánh màn hình điện thoại hắt lên nửa mặt Thi khi nó ngồi dậy.
+
+— Từ giờ ăn uống gì thì nhìn kỹ trước. Đừng tự đi đâu một mình, nhất là ban đêm. Nếu tách nhóm thì phải báo.
+
+Quỳnh hỏi:
+
+— Vì trà?
+
+— Vì trà, vì thư, vì Huy từng mất ở đúng nhà này, và vì tao chưa biết mấy người trong nhà đang nói thật tới đâu.
+
+Câu trả lời đủ thẳng để Quỳnh không phải hỏi tiếp.
+
+Lan quay đầu sang.
+
+— Trung gửi tin chưa?
+
+— Gửi rồi. Sóng yếu nhưng đi được.
+
+— Cho ai?
+
+Thi im một nhịp.
+
+Quỳnh nhìn bóng nó trong tối.
+
+— Khải?
+
+Thi quay sang.
+
+— Mày biết tên ảnh?
+
+— Sếp Hòa có nhắc người phụ trách vụ Huy. Với lại điện thoại chiều nay của mày hiện chữ K.
+
+Thi thở ra rất nhẹ.
+
+— Ừ. Nhưng tao chưa nói được toàn bộ.
+
+— Tao không hỏi toàn bộ.
+
+Quỳnh kéo chăn lên một chút.
+
+— Tao chỉ muốn biết nếu có chuyện thì bên ngoài có người biết tụi mình ở đâu không.
+
+— Có.
+
+— Vậy được.
+
+Lan không nói gì thêm.
+
+Không ai cần phát biểu rằng “người thông minh không phải người biết hết”. Căn phòng tối, ba đứa đã sống đủ chuyện với nhau để hiểu đôi lúc không biết cũng là một phần của việc giữ người khác an toàn.
+
+***
+
+Quỳnh không biết mình ngủ được bao lâu thì tỉnh vì tiếng động trên mái.
 
 Cộc.
 
+Một khoảng ngắn.
+
 Cộc.
 
-Rất nhẹ.
+Không giống mưa. Cũng không giống cành cây quệt, vì nhịp di chuyển chậm và có trọng lượng, từ phía đầu giường sang gần cửa sổ.
 
-Như móng chân của một con vật lớn đi trên tấm lợp.
+Quỳnh mở mắt.
 
-Nó mở mắt.
+Lan đã thức. Thi chưa ngồi dậy nhưng bàn tay phải đặt gần vị trí cất súng.
 
-Lan cũng mở.
+Tiếng động dừng ngay phía trên cửa sổ.
 
-Thi chưa cử động nhưng bàn tay đã đặt vào vị trí có thể rút súng.
+Bóng tối ngoài rèm bị che mất một khoảng.
 
-Tiếng chân đi từ phía đầu giường sang cửa sổ.
+Lan nhích người lên.
 
-Dừng.
+Quỳnh nhìn qua khe rèm.
 
-Một bóng đen che phần sáng mờ ngoài rèm.
-
-Quỳnh nín thở.
-
-Rèm dịch.
-
-Một khuôn mặt hiện bên ngoài ô cửa.
+Một khuôn mặt hiện sát bên ngoài kính.
 
 A Mã.
 
-Con mắt trắng đục gần như phát sáng trong bóng tối.
+Con mắt trắng đục nằm gần như ngay ngang tầm Quỳnh.
 
-Ông đứng sát cửa sổ từ bên ngoài.
+Phòng cao hơn sân gần hai mét. Muốn đứng ở đó phải có thang hoặc bám vào phần mái thấp bên cạnh. Quỳnh chưa kịp hình dung ông lên bằng cách nào thì Lan đã ngồi dậy.
 
-Không hiểu bằng cách nào tới đó vì phòng nằm cao hơn sân gần hai mét.
-
-Lan ngồi dậy.
-
-A Mã nhìn nó.
-
-Môi ông mấp máy.
-
-Không nghe được.
-
-Lan bước tới.
-
-Thi giữ tay:
+Thi giữ cổ tay nó.
 
 — Đừng mở.
 
-Lan không mở.
+Lan gật.
 
-Chỉ tới gần kính.
+A Mã nhìn thẳng vào nó. Môi ông động nhưng lớp kính khiến không nghe được gì. Ông đưa ngón trỏ lên môi, rồi chỉ về hướng gian phòng Trung.
 
-A Mã đưa ngón trỏ lên môi.
+Sau đó ngón tay kéo ngang cổ mình.
 
-Sau đó chỉ về phía gian Trung ngủ.
+Quỳnh thấy lạnh dọc sống lưng.
 
-Rồi vẽ một đường trên cổ mình.
+Lan tiến gần cửa sổ thêm một bước nhưng vẫn không mở.
 
-Quỳnh lạnh sống lưng.
+A Mã hạ tay.
 
-— Ông ấy cảnh báo gì? — nó thì thầm.
+Ông biến khỏi khung kính theo kiểu rất bình thường — cơ thể tụt xuống dưới bậu nhanh tới mức chỉ còn sương trắng.
 
-Lan không đáp.
+Thi lao tới vén rèm nhìn ra. Sân không có ai trong vùng đèn chiếu.
 
-A Mã biến khỏi cửa sổ.
+— Có mái kho sát bên. — nó nói rất nhỏ. — Có thể ông leo qua đó.
 
-Không phải tan biến.
-
-Chỉ tụt xuống rất nhanh.
-
-Thi lao tới nhìn ra.
-
-Sân trống.
-
-Sương dày.
-
-Không thấy người.
-
-Ba người chưa kịp trao đổi thì từ gian bên kia vang lên tiếng va đập.
+Chưa ai kịp bàn thêm thì từ gian phía bên kia vang lên một tiếng va mạnh.
 
 Rầm.
 
-Một tiếng ghế đổ.
+Sau đó là tiếng ghế đổ.
 
 Rồi Trung hét.
 
-Không giống tiếng người bị giật mình.
-
-Giống tiếng một người đang cố nôn thứ gì ra khỏi chính cơ thể mình.
+Không phải tiếng giật mình. Âm thanh khàn và nghẹn, như người đang cố nôn trong khi cổ họng bị siết lại.
 
 Thi mở cửa trước.
 
-Quỳnh và Lan chạy theo.
+Quỳnh và Lan chạy theo. Cửa phòng Trung khóa từ bên trong.
 
-Cửa phòng Trung khóa từ bên trong.
+— Trung!
 
-— TRUNG!
+Thi đập tay lên cánh cửa.
 
-Không trả lời.
+— Trung, mở cửa!
 
-Thi đập mạnh.
+Bên trong có tiếng rên rất thấp rồi im bặt.
 
-— TRUNG! MỞ CỬA!
+Thi lùi lại một bước.
 
-Một tiếng rên rất thấp.
+— Phá cửa.
 
-Rồi im.
+A Hù từ gian trước chạy tới, chưa kịp hỏi hết câu thì Thi đã chỉ vào cánh cửa.
 
-Thi lùi một bước.
+— Có chìa không?
 
-— Phá.
+— Chốt trong. Không có chìa.
 
-A Hù từ gian trước chạy tới.
+Một âm thanh gần như tiếng gầm bật lên sau cánh cửa.
 
-— Có chuyện gì?
-
-— Chìa khóa!
-
-— Không có. Chốt trong.
-
-Trung phát ra một tiếng khác.
-
-Lần này gần như tiếng gầm.
-
-Thi không chờ.
-
-Cô và A Hù cùng đạp cửa.
-
-Lần thứ hai, chốt bung.
+Thi không chờ nữa. Cô và A Hù cùng đạp. Lần đầu cánh cửa rung mạnh. Lần thứ hai, thanh chốt bật khỏi khung.
 
 Phòng tối.
 
-Cửa sổ mở.
+Chiếc ghế nằm nghiêng dưới đất. Chăn bị kéo khỏi giường. Cửa sổ mở toang, rèm bay vào trong theo gió lạnh.
 
-Chăn nằm dưới đất.
+Trung không còn trong phòng.
 
-Trung không có trong phòng.
+Thi lao tới cửa sổ. Dưới bậu có một vệt bùn mới và dấu giày kéo xuống phía ngoài.
 
-Thi nhìn cửa sổ.
+Lan cúi gần chỗ chiếc bàn nhỏ.
 
-Dưới bậu có một vệt bùn mới.
+Chiếc chén Trung mang về phòng đã vỡ thành ba mảnh. Giữa những mảnh sứ có một sợi rất nhỏ màu đỏ sẫm, trông giống rễ cây hơn là con vật.
 
-Lan cúi xuống.
+Quỳnh nhìn nó co lại một lần.
 
-Trên sàn, chiếc chén Trung mang về phòng đã vỡ làm ba mảnh.
+Rất chậm.
 
-Ở giữa những mảnh sứ, có một thứ nhỏ như sợi rễ màu đỏ sẫm.
+Rồi nằm im.
 
-Nó đang co lại.
+Thi quay đầu.
 
-Như một con sâu.
+— Trung đâu?
 
-Rồi ngừng hẳn.
+Không ai trong phòng trả lời được.
