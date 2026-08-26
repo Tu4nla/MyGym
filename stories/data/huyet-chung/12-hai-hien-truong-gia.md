@@ -1,349 +1,349 @@
 # Chương 12 — Hai hiện trường giả
 
-Bác sĩ Thành là người phá hỏng “mẫu hình” đẹp nhất của vụ án.
+Bác sĩ Thành là người phá hỏng mẫu hình đẹp nhất của vụ án.
 
-Ông gọi Thi xuống phòng pháp y, kéo ảnh thương tích Phạm Quốc Hưng lên màn hình.
+Ông gọi Thi xuống phòng pháp y vào sáng hôm sau và kéo ảnh thương tích của Phạm Quốc Hưng lên màn hình.
 
-— Mép da mặt này bị tác động sau khi tim đã ngừng hoặc gần như ngừng.
+— Mép tổn thương da mặt này được tạo ra sau khi tim đã ngừng hoặc lúc tuần hoàn đã gần như không còn.
 
-Thi đứng sát bàn inox, hai tay chống mép. Nó không nhăn mặt trước ảnh xác; chỉ khi nghe câu đó, cơ hàm mới siết lại.
+Thi đứng sát bàn inox.
 
 — Sao giờ mới chắc?
 
-— Vì lúc đầu không có lý do tách thời điểm từng vết. Cô hỏi lại, chúng tôi làm mô học sâu hơn.
+— Lúc đầu không có lý do tách thời điểm từng vết nhỏ tới vậy. Sau khi bên cô hỏi lại về khả năng hiện trường bị dựng, chúng tôi làm mô học sâu hơn.
 
 — Nguyên nhân chết?
 
 — Ngộ độc phối hợp. Vết mặt không giết người.
 
-— HN-23?
+— Marker HN-23?
 
-— Có marker cùng nhóm.
+— Có nhóm gần mẫu Hồng Ngài, như báo cáo trước.
 
 Thi nhìn ảnh thêm một lúc.
 
-Một cái xác đã bị sửa để kể một câu chuyện khác với cách nó chết.
+Một cái xác đã bị sửa để kể một câu chuyện khác với cách người đó chết.
 
 ***
 
 Lê Đức Thành cũng vậy.
 
-Vết cháy ở tay có khi nạn nhân còn sống.
+Vết cháy ở lòng bàn tay hình thành khi nạn nhân còn sống, nhưng tổn thương vùng mắt xuất hiện sau chết. Hai dấu vốn khiến cả nhóm liên tưởng tới hai người khác nhau ở Hồng Ngài đã bị ghép lên cùng một thi thể.
 
-Tổn thương mắt thì sau chết.
+Quỳnh nghe kết quả, không nói ngay. Nó kéo ảnh Hưng và Thành lại gần nhau rồi đặt ảnh Cường ở bên cạnh.
 
-Hai dấu vốn thuộc hai người Hồng Ngài bị ghép lên một cơ thể.
-
-Quỳnh nghe kết quả, ngồi im vài giây rồi nói:
-
-— Có người muốn mình nhìn xác và nhớ tới những cái tên cụ thể.
+— Hai cái này rõ quá. — nó nói. — Rõ như muốn mình nhận ra.
 
 Huy chống khuỷu tay lên bàn.
 
-— Một cái PowerPoint bằng xác người.
+— Một bài thuyết trình bằng xác người.
 
-Không ai cười.
+Không ai cười. Anh tự nhăn mặt.
 
-Anh tự thu nụ cười trước.
+— Câu đó tệ. Bỏ.
 
-— Ừ. Câu này tệ. Bỏ.
+Khải chỉ vào hai timeline.
 
-***
+— Hưng và Thành có khoảng thời gian sau chết hoặc sau khi mất khả năng chống cự đủ để người khác sửa thương tích. Cường thì chưa có dấu tương tự.
 
-Timeline mới làm lộ một khoảng sáu phút sau giờ chết của Thành.
+Thi hỏi:
 
-Camera khu dược liệu ghi một người đội mũ đi vào, dáng nhỏ, ở lại đúng khoảng đó.
+— Người kho cũng không.
 
-Không đủ mặt để nhận dạng.
+— Đúng.
 
-Nhưng đủ khiến Khải gọi Somchai tới lần nữa.
+Hai hiện trường giả không làm cả vụ án thành giả.
 
-Somchai vào phòng với dáng rất thẳng của một người đã quen bị người khác nhìn mình như thầy. Áo sơ mi cổ đứng màu sẫm, tóc bạc chải gọn ra sau. Chỉ có bàn tay đặt trên đùi là không yên; ngón cái ông miết rất chậm lên khớp ngón trỏ.
-
-Khải hỏi thẳng về việc can thiệp hiện trường.
-
-Somchai không trả lời ngay.
-
-— Tôi cần luật sư nếu câu hỏi của anh liên quan hành vi có thể cấu thành tội.
-
-Khải gật.
-
-— Đó là quyền của ông.
-
-Lan ngồi bên kia lớp kính.
-
-Nó không nhìn thầy mình nữa.
+Nó chỉ chứng minh **có người đã cố hướng cách họ đọc ít nhất hai cái xác**.
 
 ***
 
-Tối, Lan tự tìm Somchai.
+Camera khu dược liệu của Thành cho thêm một mảnh. Khoảng sáu phút sau thời điểm chết ước tính, một người đội mũ, dáng nhỏ, đi vào khu sau rồi rời đi trước khi xác được phát hiện. Mặt không đủ rõ, nhưng chiều cao và dáng vai gần với ảnh Channarong do Somchai cung cấp.
 
-Quán trà gần khách sạn vắng, mùi gỗ ẩm và trà rang quện vào nhau. Lan ngồi đối diện ông, tóc buộc thấp, hai tay ôm ly nhưng không uống.
+Khải chưa dùng chữ “nhận dạng”. Anh xin đối chiếu thêm tuyến di chuyển và những vật thu được từ phòng khách sạn cũ của Channarong.
 
-— Con sẽ nói lại với Khải mọi thứ liên quan vụ án.
+Trong điện thoại phụ của Somchai, kỹ thuật khôi phục được một số ảnh chụp màn hình tin nhắn trước khi bị xóa ở phía thiết bị kia:
+
+**Dấu mặt: thấy phản ứng.**
+
+**Dấu mắt: yếu.**
+
+**Dấu máu: mạnh.**
+
+Ba câu ngắn làm Lan ngồi yên rất lâu.
+
+Không cần thuật ngữ Huyền Môn nào để hiểu một người đã bị theo dõi như một đối tượng thử nghiệm.
+
+***
+
+Somchai xin luật sư trước khi trả lời phần liên quan hành vi có thể cấu thành tội. Khải cho dừng đúng lúc và tiếp tục khi thủ tục đã đủ.
+
+Ông không vòng vo nữa.
+
+— Tôi bảo Channarong tạo dấu ở hai hiện trường.
+
+Lan ngồi sau lớp kính quan sát, mặt không đổi.
+
+Khải hỏi:
+
+— “Tạo dấu” cụ thể là gì?
+
+— Với Hưng, làm tổn thương phần da mặt sau khi người đó đã chết. Với Thành, thêm dấu ở mắt sau chết.
+
+— Vì sao?
+
+Somchai nhìn xuống hai bàn tay.
+
+— Để xem Trung phản ứng mạnh với loại ký ức nào khi thông tin tới cậu ấy.
+
+— Ông có biết Hưng và Thành sẽ chết trước đó không?
+
+— Không.
+
+— Channarong biết?
+
+— Theo lời hắn, hắn bám những người liên quan H-49 để tìm đầu mối. Khi phát hiện họ đã chết hoặc sắp chết, hắn báo tôi.
+
+— Và thay vì gọi cơ quan chức năng, ông bảo hắn sửa xác.
+
+Somchai nhắm mắt một nhịp.
+
+— Đúng.
+
+Khải ghi câu trả lời.
+
+— Hai người đó chết do Channarong gây ra không?
+
+— Tôi không ra lệnh giết. Tôi không biết hắn có gây cái chết trước khi báo tôi hay không.
+
+— Vậy chúng tôi sẽ tự xác minh.
 
 Somchai gật.
 
-— Tốt.
+Không có một màn “cao nhân thú tội” đẹp đẽ. Chỉ có một người già phải nghe hành động của mình được nói lại bằng những từ rất bình thường và rất xấu.
 
-— Thầy có bảo Channarong sửa xác không?
+***
 
-Một khoảng im.
+Lan tự tìm thầy vào buổi tối. Không phải để lấy lời khai; phần đó đã có Khải. Nó muốn nghe Somchai nói bằng giọng của người từng nuôi mình lớn trong nghề.
 
-— Ta bảo nó tạo dấu.
+Quán trà gần khách sạn vắng, mùi gỗ ẩm và trà rang quện trong không khí. Lan ngồi đối diện, hai tay ôm ly nhưng không uống.
 
-Lan nhìn thầy.
+— Thầy lấy xác người khác để thử Trung.
 
-Không có tiếng quát.
-
-Chỉ đôi mắt vốn ít chớp càng đứng yên hơn.
-
-— Trên người chết.
+Somchai không né.
 
 — Đúng.
 
-— Để xem Trung phản ứng với dấu nào.
+— Thầy bảo Channarong sửa mặt Hưng, sửa mắt Thành rồi chờ xem Trung phản ứng.
 
 — Đúng.
 
-— Thầy lấy xác người khác làm thí nghiệm.
+— Nếu Trung không phản ứng thì sao?
 
-Somchai không biện hộ.
+Somchai im.
 
-Lan đặt ly xuống.
+— Thầy sẽ thử dấu khác?
 
-— Trung là người.
+— Có lẽ lúc đó ta đã nghĩ vậy.
 
-— Ta biết.
+Lan đặt ly xuống. Động tác rất nhẹ.
 
-— Không. — Lan nói rất khẽ. — Thầy biết bằng đầu. Nhưng lúc làm, thầy coi nó như cái cửa.
+— Điều đầu tiên thầy dạy con là đừng dùng thứ mình không hiểu lên người khác.
 
-Lần này Somchai mới ngẩng lên.
+— Ta nhớ.
 
-Nét mặt ông không đổi, nhưng đôi vai hạ xuống một chút. Chỉ một chút đó làm ông trông già hơn mười tuổi.
+— Không. Thầy nhớ câu. Lúc làm thì thầy vẫn coi Trung như cái cửa cần thử chìa nào mở được.
 
-— Có lẽ con đúng.
+Somchai ngẩng lên. Vai ông hạ xuống một chút, và chỉ một thay đổi nhỏ ấy khiến ông trông già hơn rất nhiều.
 
-Lan đứng dậy.
+— Con nói đúng.
+
+Lan nhìn ông lâu.
 
 — Con vẫn thương thầy.
 
-Somchai nhìn nó.
+— Ta biết.
 
-— Nhưng con không đứng về phía thầy chuyện này.
+— Nhưng con sẽ khai hết những gì con biết. Nếu có thứ nào thầy nói với con liên quan vụ án, con không giữ cho thầy.
 
-Ông gật.
+Somchai gật.
 
 — Vậy mới đúng thứ ta từng dạy con.
 
-***
+Lan cười rất buồn.
 
-Lời khai của Lan mở được đường thu thiết bị Somchai và truy tìm Channarong.
+— Đừng dùng chính bài học của thầy để làm chuyện này nghe đẹp hơn.
 
-Trong điện thoại phụ còn ảnh chụp vài tin nhắn đã xóa:
-
-“Dấu mặt: có phản ứng.”
-
-“Dấu mắt: yếu.”
-
-“Dấu máu: mạnh.”
-
-Không cần ai diễn giải thêm.
-
-Một người khác đã theo dõi Trung như người ta theo một thí nghiệm.
+Somchai không nói nữa.
 
 ***
 
-Nhưng hai hiện trường giả không giải thích được Cường.
+Hai hiện trường giả không giải thích được Cường.
 
-Vết cắn xảy ra khi còn sống.
-
-Không dấu can thiệp sau chết.
-
-Người bị bóp cổ dưới cầu thang cũng chết lúc Trung đang bị giữ tại xe.
-
-Tức là việc tìm thấy đạo cụ không làm biến mất phần chưa hiểu.
-
-Nó chỉ khiến từng hiện trường phải bị bóc lại từ đầu.
-
-Quỳnh quay về tin nhắn nháp của Hưng:
-
-“Có thằng đứng ngoài ban công.”
-
-Căn hộ tầng mười một.
-
-Không lối nối.
-
-Camera ngoài không thấy người leo.
-
-Trong máu Hưng có hỗn hợp hoạt tính thần kinh và marker HN-23.
-
-Bác sĩ Thành không khẳng định chất đó gây ảo giác.
-
-Ông chỉ nói:
-
-— Nó có tác động thần kinh. Phần còn lại phải chờ.
-
-Quỳnh ghi vậy.
-
-Không thêm chữ “ma”.
-
-Cũng không thêm chữ “chắc chắn”.
-
-***
-
-Cường trước khi chết để lại một voicemail dài hai mươi ba giây.
+Vết cắn của Cường xảy ra khi còn sống. Không có dấu can thiệp sau chết. Voicemail cuối dài hai mươi ba giây vẫn còn nguyên:
 
 — Mày đứng sau tao làm gì?
 
-Rồi:
+Một khoảng thở gấp.
 
 — Hưng?
 
-Một hơi thở đứt quãng.
+Rồi:
 
 — Mặt mày...
 
 Cuộc gọi cắt.
 
-Quỳnh nghe hai lần rồi dừng.
+Cường có thể đã thấy một người hóa trang. Có thể bị tác động thần kinh. Có thể ký ức về Hưng bị một thứ khác ép thành hình. Không camera nào đủ để chọn một đáp án.
 
-Huy không pha trò.
+Người dưới cầu thang kho cũng không nằm trong hai hiện trường Somchai thừa nhận. Hắn bị bóp cổ khi Trung đang ở xe và khi Channarong, theo timeline khả dĩ, có thể đã ở quanh khu vực — nhưng DNA dưới móng chỉ chứng minh tiếp xúc, chưa chứng minh Channarong là người bóp.
 
-Khải cũng không cần nhắc “chưa kết luận”.
+Khải bắt cả đội viết lại bảng từ đầu:
 
-Bốn người nhìn nhau đủ hiểu: Cường đã thấy **một hình có liên quan Hưng**, bằng mắt thật hay bằng đầu thì chưa biết.
+**Hưng: chết do ngộ độc; thương tích mặt bị dựng sau chết.**
+
+**Thành: nguyên nhân chết đang xác minh; thương tích mắt bị dựng sau chết.**
+
+**Cường: thương tích thật khi còn sống; cơ chế gây nhận thức sai chưa rõ.**
+
+**Nạn nhân kho: bị bóp cổ; hung thủ chưa xác định.**
+
+Không còn một “mẫu hình” duy nhất.
+
+Và điều đó làm vụ án khó hơn, nhưng thật hơn.
 
 ***
 
-Phòng hóa sinh tìm được thứ đáng giá hơn mọi tranh luận.
+Phòng hóa sinh sau đó cho một giới hạn mới. Marker HN-23 trong máu Hưng, Cường và Thành không giống một lần phơi nhiễm ngẫu nhiên ngay trước chết. Một phần bám protein huyết tương theo kiểu cho thấy cơ thể đã tiếp xúc từ trước.
 
-Marker HN-23 trong máu ba nạn nhân không giống một lần uống ngẫu nhiên. Nó bám protein huyết tương và có dấu tồn tại nhiều ngày.
+Cả ba đều từng xử lý hoặc vận chuyển hàng thuộc nhánh H-49 của Chợ Âm.
 
-Ba người đều từng chạm vào hàng hóa liên quan H-49 trong mạng Chợ Âm.
+Lan mở sổ A Mã nhưng không đọc nó như đáp án.
 
-Họ không phải người ngoài vô tình bị kéo vào.
-
-Họ đã mang thứ gì đó trong người từ trước.
-
-Lan nghe kết quả, mở sổ A Mã.
-
-— Trong Huyền Môn có từ “mượn hình”. Có thể hiểu đơn giản là thứ đã có trong đầu bị một tác nhân ép thành hình.
+— Trong tài liệu cũ có cụm “mượn hình”. Nếu bỏ cách gọi huyền thuật, một giả thuyết là người đã mang một chất hoặc dấu nào đó từ trước có thể phản ứng với kích thích sau này bằng hình ảnh quen thuộc.
 
 Khải hỏi:
-
-— Nếu gọi bằng ngôn ngữ của tôi?
-
-— Nhiều người có ảo giác cùng motif sau khi cùng tiếp xúc một chất hoặc một nguồn kích thích.
 
 — Cơ chế?
 
 — Chưa biết.
 
-Khải gật về phía phòng hóa sinh.
+— Có bằng chứng cùng một tác nhân khiến nhiều người thấy cùng motif không?
 
-— Vậy tìm tiếp phần cơ thể trước.
+— Chưa đủ.
 
-Huy nhìn anh.
+Khải gật về phía báo cáo hóa sinh.
 
-— Anh vừa dùng từ “motif” nha.
+— Vậy tiếp tục từ phần cơ thể.
+
+Huy chống cằm.
+
+— Anh vừa dùng chữ motif đó nha.
 
 — Im.
 
+Không khí nhẹ đi được đúng vài giây.
+
 ***
 
-Tối đó Thi nói cho Trung biết hai hiện trường đầu đã bị sửa.
+Thi nói cho Trung biết hai xác đầu đã bị sửa vào tối đó.
 
-Hắn ngồi ở mép giường, lưng hơi cong, hai khuỷu tay tì lên đùi. Mấy ngày qua hắn gầy đi thấy rõ; nụ cười lệch vẫn còn, nhưng xuất hiện ít hơn.
+Hắn ngồi ở mép giường, lưng hơi cong, khuỷu tay tì lên đùi. Mấy tuần mất ngủ làm mặt hắn gầy đi rõ rệt.
 
-— Vậy tao không gây tất cả.
+— Vậy ít nhất tao không gây hết.
 
-Thi đứng dựa cửa.
+— Chưa bao giờ có bằng chứng mày gây hết.
 
-— Chưa từng có bằng chứng mày gây tất cả.
+— Nhưng tao đã nghĩ người ta chết đi thì tốt.
 
-— Nhưng tao đã nghĩ.
+Thi kéo ghế ngồi đối diện.
 
 — Nghĩ không phải giết.
 
-Trung ngẩng lên.
+— Nếu thứ đang xảy ra dùng cái tao nghĩ thì sao?
 
-— Nếu thứ trong tao dùng đúng cái tao nghĩ thì sao?
+Thi không nói “không có đâu” chỉ để hắn dễ ngủ.
 
-Thi không phủ nhận để dỗ hắn.
+— Vậy tụi mình tìm cách nó dùng. Cần điều kiện gì. Tác động được lên ai. Có cần marker không. Có cần khoảng cách không.
 
-Nó đi tới, ngồi xuống ghế đối diện, khuỷu tay chống đầu gối cho ngang tầm mắt.
+Trung nhìn cô.
 
-— Vậy tụi mình tìm cách nó dùng.
+— “Tụi mình” hả?
 
-Trung nhìn chữ “tụi mình” lâu hơn cả câu.
+— Đừng cảm động.
 
-Rồi cười rất nhẹ.
+— Trễ rồi.
 
-— Nghe dễ chịu ghê.
-
-— Đừng quen.
+Nụ cười hắn nhỏ nhưng thật.
 
 ***
 
-Đêm thử nghiệm, Trung được giữ tỉnh.
+Đêm đó, Trung được quan sát trong một phiên **không kích thích**. Không gọi tên năm người. Không gương đặt đối diện giường. Không cassette. Không ai hỏi về cái lọ. Mục tiêu duy nhất là xem còn khoảng hành vi nào hắn không nhớ khi giữ thức qua mốc 02:13 hay không.
 
-02 giờ 13.
+Camera ba góc. Đồng hồ. Ghi âm. Một tập giấy trắng và bút chì trên bàn để hắn ghi cảm giác nếu cần.
 
-Không bóng.
+02 giờ 13, không có gì.
 
-Không giọng.
+02 giờ 17, Trung đọc sách, mắt nặng nhưng tỉnh.
 
-Nhịp tim bình thường.
+02 giờ 19, hắn ngẩng lên như vừa nghe ai gọi. Micro không thu thêm âm.
 
-Hắn ngồi đọc sách, mái tóc rối nhẹ ở trán, một tay gõ rất chậm lên gáy sách.
+Thi ở phòng quan sát nói qua loa:
 
-02 giờ 18, Trung ngẩng lên.
+— Trung?
 
-— Nếu mày nghe được tao, tao muốn thử một chuyện.
+Hắn đáp ngay:
 
-Thi lập tức bật micro.
+— Tao ổn.
 
-— Trung. Không tự thử.
+02 giờ 21, Trung đặt sách xuống.
 
-— Tao chỉ nói.
+Sau đó có một khoảng mười bảy giây mà về sau hắn không nhớ.
 
-— Dừng.
+Camera ghi rất rõ.
 
-Hắn nghe.
+Hắn đứng dậy, đi tới bàn, cầm bút chì bằng tay phải rồi viết lên tờ giấy trắng ba dòng:
 
-Không nói thêm.
+**MÀY**
 
-Nhưng mặt gương trước giường bắt đầu mờ.
-
-Một nét chữ hiện ra.
-
-**MUỐN.**
-
-Trung bất động.
-
-Chữ thứ hai:
-
-**AI.**
-
-Thi đứng bật dậy ở phòng quan sát.
-
-Khải giơ tay ngăn nó lao vào ngay.
-
-Trên gương, chữ cuối cùng được kéo rất chậm.
+**MUỐN AI**
 
 **CHẾT?**
 
-Trung nhìn ba từ.
+Nét chữ là của Trung. Không run. Không đổi kiểu cầm bút.
 
-Mặt hắn trắng hẳn.
+Viết xong, hắn đặt bút đúng chỗ cũ, quay về giường và cầm sách lên.
 
-Thứ trong gương không hỏi nó là ai.
+Thi gọi:
 
-Không xin tên.
+— Trung.
 
-Không đòi được thờ hay được nhớ.
+Hắn nhìn qua camera.
 
-Nó hỏi đúng câu đáng sợ nhất có thể hỏi một con người đang cố chứng minh mình vô tội:
+— Gì?
 
-**Mày muốn ai chết?**
+— Mày vừa viết gì?
+
+Trung cau mày.
+
+— Tao có viết gì đâu.
+
+Khải lập tức dừng thử nghiệm. Thi vào phòng nhưng không cho Trung chạm tờ giấy cho tới khi chụp xong.
+
+Hắn nhìn ba dòng chữ rất lâu.
+
+— Đây là chữ tao.
+
+— Camera thấy mày viết. — Thi nói.
+
+— Tao không nhớ đứng dậy.
+
+Không bóng nào đứng sau lưng hắn. Không giọng lạ được ghi. Không chữ tự xuất hiện trên gương.
+
+Chỉ có Trung, một cây bút chì và mười bảy giây ký ức biến mất.
+
+Hắn ngồi xuống rất chậm.
+
+Câu hỏi trên giấy đáng sợ không phải vì một con quỷ đã hỏi.
+
+Mà vì chưa ai biết **ai trong Trung đã muốn viết nó ra**.
