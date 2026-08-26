@@ -1,326 +1,262 @@
 # Chương 11 — Vết máu không thuộc về Trung
 
-Người chết dưới cầu thang kho không chết vì gãy cổ.
+Người đàn ông chết dưới cầu thang kho không chết vì cú ngã.
 
-Đó là kết luận đầu tiên bác sĩ Thành nói khi Khải vừa bước vào phòng pháp y sáng hôm sau.
+Bác sĩ Thành nói điều đó vào sáng hôm sau, khi Khải và Thi xuống phòng pháp y. Trên màn hình là ảnh CT vùng cổ và những lát mô phóng lớn.
 
-— Vậy vì gì?
-
-— Bị bóp cổ trước.
-
-Thi đứng cạnh nhìn ảnh CT.
-
-Thành chỉ vùng mô mềm quanh khí quản.
-
-— Có tụ máu sâu ở đây. Xương móng có vết nứt. Cú ngã sau đó làm cổ biến dạng thêm, nhưng không phải nguyên nhân chính.
-
-— Dấu tay?
-
-— Có bầm, nhưng không đủ vân. Người bóp dùng lực từ sau.
-
-Khải hỏi:
-
-— Thời gian?
-
-— Rất sát lúc đội vào. Vài phút.
-
-Thi nhìn đồng hồ trong biên bản.
-
-Thời điểm Trung đang bị khóa tại xe.
-
-Không chỉ camera thấy.
-
-Có ba người làm chứng.
-
-Nếu không dùng teleport, Trung không thể trực tiếp bóp cổ người đàn ông rồi quay lại xe.
-
-Thành tháo găng.
-
-— Còn một cái nữa.
-
-Ông mở túi mẫu.
-
-Dưới móng tay nạn nhân có da và máu của người khác.
-
-Không khớp Trung.
-
-Không khớp các cán bộ có mặt.
-
-Không khớp ba người Chợ Âm còn lại trong kho.
-
-Một người thứ năm đã ở đó.
-
-Hoặc ít nhất từng tiếp xúc đủ gần để bị cào.
-
-***
-
-Khải không nói với Somchai ngay.
-
-Anh cho đối chiếu mẫu DNA với hệ dữ liệu trước.
-
-Không hit.
-
-Sau đó rà camera ngoài khu kho.
-
-Một chi tiết bị bỏ vì quá nhỏ xuất hiện ở camera sau cây xăng lúc 23 giờ 49.
-
-Một chiếc xe máy không biển rõ chạy vào đường phụ.
-
-Người lái mặc áo mưa sáng màu.
-
-23 giờ 53, xe không còn ở khung.
-
-Không ghi lúc rời vì góc chết.
-
-Thời điểm trùng sát cuộc tấn công.
-
-Khải xem đi xem lại.
-
-— Có người thứ ba theo cả hai phía.
+— Có tụ máu sâu quanh khí quản, xương móng nứt. Dấu này hình thành trước cú ngã. — Thành chỉ bằng đầu bút. — Cầu thang làm cổ biến dạng thêm, nhưng nguyên nhân chết chính là chèn ép vùng cổ.
 
 Thi hỏi:
 
-— Huyền Môn?
+— Bóp bằng tay?
 
-— Chưa biết.
+— Khả năng cao, nhưng không đủ vân hay hình bầm rõ để dựng bàn tay hoàn chỉnh. Người tác động ở phía sau hoặc lệch sau.
 
-— Somchai nhắn từ điện thoại phụ.
+— Thời gian?
 
-— Cũng chưa biết nội dung người nhận là ai.
+— Rất sát lúc đội vào kho.
 
-Thi hiểu.
+Thi nhìn lại timeline. Lúc đó Trung đang bị giữ ở xe, có camera và nhiều người chứng kiến.
 
-Nghi ngờ không thay bằng chứng.
+Không cần bất kỳ giả thuyết huyền thuật nào để nói một điều rất đơn giản: **Trung không trực tiếp đứng sau lưng nạn nhân và bóp cổ hắn.**
 
-***
+Thành thay ảnh.
 
-Quỳnh thì đi hướng khác.
+— Còn cái này đáng giá hơn.
 
-Nó in ảnh thương tích của bốn người chết tới lúc này.
+Dưới móng tay nạn nhân có mô da và máu của một người khác. Không khớp Trung. Không khớp các cán bộ đã lấy mẫu đối chứng. Không khớp ba người Chợ Âm còn lại bị bắt tại kho.
 
-Hưng.
+Khải hỏi:
 
-Cường.
+— Một người thứ năm?
 
-Thành.
+— Ít nhất là một người khác đã tiếp xúc đủ gần để bị cào.
 
-Người trong kho.
+Thi thở ra rất chậm.
 
-Đặt cạnh hồ sơ Hồng Ngài.
+Sau nhiều ngày nhìn bóng, nghe giọng và tranh luận về ký ức, cuối cùng họ có thứ đơn giản nhất trong một vụ án hình sự:
 
-Có thứ không khớp về **cách kể**.
-
-Hưng bị mất da mặt quá rõ.
-
-Thành có bàn tay cháy đen cộng tổn thương mắt — hai dấu ghép vào một người.
-
-Cường bị cắn và mất máu.
-
-Người kho bị bóp cổ rồi ném/rụng cầu thang.
-
-Nếu một thực thể vô thức đang phản chiếu năm dấu sinh khí, tại sao hai hiện trường đầu lại “đẹp” như minh họa?
-
-Quỳnh gọi Huy.
-
-— Tao có cảm giác có người đang **dạy mình cách đọc vụ án**.
-
-— Ý?
-
-— Hai xác đầu rõ quá. Giống như hung thủ muốn mình nghĩ tới Hồng Ngài.
-
-— Còn sau?
-
-— Bắt đầu lộn xộn.
-
-Huy im.
-
-— Có thể vì thứ trong Trung mạnh dần nên không cần người dựng nữa.
-
-— Hoặc có hai hung thủ.
-
-— Hoặc ba.
-
-— Mày lạc quan ghê.
+**máu của một người sống.**
 
 ***
 
-Khải cho mở lại hiện trường Hưng.
+Khải không gọi Somchai ngay. Mẫu DNA được chạy đối chiếu trước.
 
-Một chi tiết nhỏ ở cửa sổ phòng tắm từng được coi không liên quan: một giọt máu khô trên ron kim loại, khác nhóm máu nạn nhân.
+Không có kết quả nhận dạng trực tiếp.
 
-Lúc đầu phòng kỹ thuật cho là người thân/nhân viên cấp cứu.
+Đội kỹ thuật quay lại camera quanh cây xăng và dãy kho. Một chi tiết trước đó bị xếp vào nhóm không đủ giá trị xuất hiện ở camera phụ phía sau lúc 23 giờ 49: một xe máy đi vào đường dịch vụ, người lái mặc áo mưa sáng màu, biển số bị bùn che gần hết.
 
-Bây giờ đối chiếu.
+23 giờ 53, chiếc xe không còn trong góc máy. Camera khác không ghi được đường rời vì khoảng mù sau dãy tôn.
 
-DNA từ giọt đó **trùng với mẫu dưới móng người chết ở kho**.
+Khải cho trích riêng hình dáng người lái.
 
-Cùng một người lạ có mặt ở hai hiện trường cách nhau nhiều ngày.
+Thi hỏi:
 
-Một sợi dây con người rất thật xuất hiện.
-
-Thi ngồi trước bảng, nói:
-
-— Nếu người này giết Hưng và người kho, thì ít nhất hai vụ không phải Trung trực tiếp.
-
-Khải:
-
-— Trung vốn đã có alibi mạnh ở người kho. Chưa kết luận người lạ giết cả hai. Chỉ có mặt hoặc để lại sinh học.
-
-— Nhưng đây là người thật.
-
-— Đúng.
-
-Một điều chắc.
-
-Giữa cả đống bóng ma, cuối cùng họ có máu của một người sống.
-
-***
-
-Somchai được mời tới.
-
-Không bắt.
-
-Không buộc tội.
-
-Khải đặt ảnh giọt máu, camera xe máy và log địa chỉ mạng khách sạn trước mặt ông.
-
-— Ông có muốn giải thích trước khi tôi xin thêm thủ tục không?
-
-Lan ngồi bên cạnh thầy.
-
-Somchai nhìn từng thứ.
-
-— Tôi có người theo dõi Trung.
-
-Thi lạnh giọng:
-
-— Người của thầy?
-
-— Người quen của Huyền Môn.
-
-Khải:
-
-— Tên.
-
-— Channarong.
-
-— Quốc tịch?
-
-— Thái.
-
-— Đang ở đâu?
-
-Somchai lắc.
-
-— Tôi không biết.
-
-Khải đẩy ảnh nạn nhân kho.
-
-— Máu dưới móng người này có thể thuộc người ông cử không?
+— Người Chợ Âm?
 
 — Có thể.
 
-Lan quay phắt.
+— Người của Somchai?
 
-— Thầy cử người theo mà không nói con?
+— Cũng có thể.
 
-— Ta không biết công an có giữ được cậu Trung nếu Chợ Âm đánh thật.
+— Anh nghi ông ấy rồi.
 
-Thi đứng bật dậy.
+Khải nhìn màn hình.
 
-— Ông theo để làm gì?
+— Tôi nghi một người chưa xác định đã có mặt. Tên người đó chưa nằm trong dữ liệu.
 
-Somchai nhìn nó.
+Thi không nói thêm.
 
-— Nếu Dẫn Chủng mất kiểm soát, dừng vật chủ.
+***
 
-— “Dừng” là gì?
+Quỳnh đi theo hướng khác. Nó in ảnh bốn người chết tới thời điểm đó rồi đặt cạnh hồ sơ Hồng Ngài.
 
-Ông không nói.
+Hưng bị mất một mảng da mặt.
 
-Thi hiểu.
+Cường có dấu cắn và mất máu.
 
-— Giết?
+Thành có lòng bàn tay cháy đen và tổn thương mắt.
 
-Lan:
+Người ở kho bị bóp cổ trước khi ngã.
+
+Càng nhìn, Quỳnh càng thấy hai hiện trường đầu “đẹp” quá mức.
+
+Nó gọi Huy sang.
+
+— Tao có cảm giác có người đang dạy mình cách đọc vụ án.
+
+Huy kéo ghế lại.
+
+— Ý mày là thương tích bị dựng như biển chỉ đường?
+
+— Hưng nhìn là nhớ ngay A Hù thật. Thành thì nhét cả tay của Pao Sử với mắt A Mã lên cùng một xác. Rõ quá.
+
+— Cường thì không.
+
+— Người kho cũng không.
+
+Huy nhìn bốn ảnh một lúc.
+
+— Hai giai đoạn?
+
+— Hoặc hai nguồn gây án. Hoặc cùng một nguồn nhưng có người cố dựng hai xác đầu để mình nghĩ theo hướng họ muốn.
+
+— Và nếu họ dựng để xem Trung phản ứng thế nào?
+
+Quỳnh ngẩng lên.
+
+Cả hai cùng nghĩ tới Somchai, nhưng Quỳnh không viết tên ông vào bảng.
+
+Chưa có bằng chứng.
+
+***
+
+Khải cho mở lại mẫu từ hiện trường Hưng.
+
+Trong ron cửa sổ phòng tắm từng có một giọt máu nhỏ khác nhóm máu nạn nhân. Khi vụ án mới bắt đầu, nó bị xếp vào nhóm có thể thuộc nhân viên cứu hộ hoặc người từng vào nhà trước đó.
+
+DNA từ giọt ấy **trùng với mẫu dưới móng người chết ở kho**.
+
+Cùng một người lạ đã để lại sinh học ở hai hiện trường cách nhau nhiều ngày.
+
+Thi nhìn kết quả.
+
+— Vậy người này không chỉ tình cờ đi ngang kho.
+
+Khải nói:
+
+— Ít nhất đã ở nhà Hưng và tiếp xúc với nạn nhân kho. Chưa biết vai trò ở từng nơi.
+
+— Nhưng là người thật.
+
+— Đúng.
+
+Một sợi dây vật lý bắt đầu nối xuyên qua những hiện tượng khó gọi tên.
+
+***
+
+Lúc ấy Khải mới mời Somchai tới.
+
+Không buộc tội. Không dựng cảnh đối đầu. Anh đặt ba thứ lên bàn: ảnh giọt máu nhà Hưng, ảnh xe máy sau cây xăng và log cho thấy một thiết bị dùng tuyến mạng từng chung cụm với Wi-Fi khách sạn Somchai.
+
+— Ông có người khác ở Hà Nội ngoài những người ông đã khai không?
+
+Somchai nhìn từng tài liệu. Ông không hỏi “các anh theo dõi tôi à”.
+
+Chỉ ngồi im lâu hơn bình thường.
+
+Lan ở bên cạnh, bàn tay đặt trên đùi.
+
+Cuối cùng Somchai nói:
+
+— Có một người quen của Huyền Môn. Tên Channarong.
+
+Thi lạnh giọng:
+
+— Ông đưa hắn sang để làm gì?
+
+— Theo dõi Trung từ xa.
+
+Khải hỏi ngay:
+
+— Trung có đồng ý không?
+
+— Không.
+
+— Chúng tôi có biết không?
+
+— Không.
+
+— Vì sao?
+
+Somchai nhìn anh.
+
+— Tôi không biết hệ thống của anh rò sâu tới đâu. Và tôi không biết người mua H-49 sẽ tới trước hay sau tôi.
+
+Khải không tranh luận về niềm tin.
+
+— Nhiệm vụ Channarong là gì?
+
+Somchai đáp:
+
+— Quan sát. Báo nếu Trung có biểu hiện nguy hiểm. Không tiếp cận nếu chưa cần.
+
+Thi hỏi:
+
+— “Nếu cần” thì sao?
+
+Somchai không trả lời ngay.
+
+Lan quay sang thầy.
 
 — Thầy.
 
-Somchai khép mắt một giây.
+Ông thở ra.
 
-— Nếu không còn lựa chọn.
+— Trong tình huống cậu ấy gây nguy hiểm trực tiếp và không còn cách khống chế, Channarong được phép ngăn lại.
 
-Thi đi vòng bàn.
+— Ngăn kiểu gì? — Thi hỏi.
 
-Khải đứng lên chắn vừa đủ.
+— Bất kỳ cách nào cần thiết.
+
+Không ai cần dịch câu đó thành “giết”.
+
+Thi đứng lên. Khải cũng đứng, chỉ vừa đủ để cắt khoảng đường thẳng giữa cô và Somchai.
 
 — Thi.
 
-Nó dừng.
+Cô dừng.
 
-Không phải vì Somchai.
+Không phải vì hết giận.
 
-Vì Khải.
-
-***
-
-Somchai nói Channarong chỉ được lệnh quan sát.
-
-Không can thiệp trừ khi Trung gây nguy hiểm trực tiếp.
-
-— Hắn có giết người kho không? — Khải hỏi.
-
-— Tôi không biết.
-
-— Liên lạc cuối?
-
-— Tin “thử nghiệm phản ứng thành công”.
-
-— “Thử nghiệm” là gì?
-
-Somchai im.
-
-Khải:
-
-— Đây là lúc câu trả lời quyết định tôi coi ông là nhân chứng hay người cản trở điều tra.
-
-Somchai thở ra.
-
-— Tôi yêu cầu Channarong tạo **một kích thích giả**.
-
-Lan tái mặt.
-
-— Cái gì?
-
-— Một dấu Huyền Môn gần tuyến Trung đi qua. Không gây thương tích. Chỉ để xem thứ trong cậu ấy có phản ứng không.
-
-— Tức là cuộc tấn công?
-
-— Không. Chợ Âm tấn công là thật. Tôi chỉ biết họ có thể hành động từ nguồn riêng.
-
-Khải:
-
-— Ông biết trước?
-
-— Channarong theo một đầu mối.
-
-— Và không báo cho chúng tôi.
-
-— Tôi không tin hệ thống của anh không bị rò.
-
-Khải nhìn thẳng.
-
-— Nên ông tự đặt một sát thủ sau người chúng tôi bảo vệ.
-
-Somchai không sửa từ “sát thủ”.
+Vì lúc này giận không được quyền thay thủ tục.
 
 ***
 
-Lan rời phòng trước khi thẩm vấn xong.
+Khải hỏi tiếp:
 
-Quỳnh tìm thấy nó ở cầu thang bộ.
+— Channarong có ở cây xăng đêm qua không?
 
-Nó ngồi một bậc, hai tay ôm đầu.
+— Tôi không biết vị trí chính xác. Tin cuối chỉ nói mục tiêu có biểu hiện trong vụ tấn công.
+
+— Hắn biết trước Chợ Âm sẽ đánh?
+
+Somchai nhìn xuống bàn.
+
+— Hắn theo một đầu mối và nghi sẽ có người tiếp cận Trung.
+
+— Nhưng không báo cho chúng tôi.
+
+— Tôi đã nói tôi không tin đường thông tin của anh an toàn.
+
+Khải nhìn thẳng ông.
+
+— Kết quả là có một người vũ trang theo sau người chúng tôi đang bảo vệ mà chúng tôi không biết người đó thuộc phía nào.
+
+Somchai không phản bác.
+
+— Máu ở nhà Hưng có thể là của Channarong không?
+
+— Có thể.
+
+— Hắn có vào nhà Hưng?
+
+— Tôi không ra lệnh việc đó.
+
+Câu trả lời không phải “không”. Khải ghi đúng như vậy.
+
+Lan nhìn thầy mình nhưng không hỏi giữa phòng.
+
+***
+
+Channarong không còn ở khách sạn đã đăng ký. Phòng được trả từ sáng. Hộ chiếu dùng tên thật, nhưng chưa có dữ liệu xác nhận hắn đã rời Việt Nam.
+
+Khải phát yêu cầu phối hợp truy tìm để lấy lời khai và mẫu đối chứng. Somchai đồng ý giao mọi số liên lạc, ảnh và thông tin nhận dạng ông có. Anh cũng được yêu cầu không rời Hà Nội trong khi việc xác minh diễn ra; Somchai chấp nhận, chưa cần biến cuộc họp thành một màn bắt giữ tượng trưng.
+
+Lan rời phòng trước khi xong biên bản.
+
+Quỳnh tìm thấy nó ở cầu thang bộ. Lan ngồi một bậc, hai khuỷu tay chống đầu gối, tóc xõa xuống che gần nửa mặt.
 
 — Mày ổn không?
 
@@ -328,143 +264,71 @@ Nó ngồi một bậc, hai tay ôm đầu.
 
 Quỳnh ngồi cạnh.
 
-— Thầy tao từng dạy tao điều đầu tiên của Huyền Môn là đừng dùng thứ mình không hiểu lên người khác.
+Một lúc sau Lan nói:
+
+— Điều đầu tiên thầy tao dạy là đừng biến người thành công cụ chỉ vì mình nghĩ mục đích đủ lớn.
 
 — Ừ.
 
-— Giờ ổng tự lấy Trung ra thử.
+— Giờ ổng cử một người theo Trung mà không nói ai.
 
-— Có thể ổng nghĩ đang bảo vệ nhiều người.
+— Mày giận ổng?
 
-Lan nhìn Quỳnh.
+— Tao giận. Tao còn hiểu tại sao ổng làm. Cái đó mới khó chịu.
 
-— Mày đang bênh?
+Quỳnh nhìn xuống khoảng cầu thang tối phía dưới.
 
-— Không. Tao đang nói lý do người ta thường dùng khi làm chuyện sai mà tin mình đúng.
+— Hiểu lý do không làm việc đó đúng hơn.
 
-Lan im.
+Lan gật.
 
-Một lúc sau:
+— Tao biết.
 
-— Tao ghét là tao hiểu ổng.
-
-— Hiểu không phải tha.
-
-— Biết.
+Nó nói “biết” rất nhỏ, như đang nhắc chính mình.
 
 ***
 
-Channarong biến mất.
-
-Khách sạn hắn từng thuê đã trả phòng từ sáng.
-
-Hộ chiếu dùng tên thật nhưng vé máy bay không ghi xuất cảnh.
-
-Có khả năng hắn vẫn ở Việt Nam.
-
-Khải phát thông báo phối hợp.
-
-Somchai bị giữ hộ chiếu theo thủ tục phù hợp trong khi làm rõ, không được tự ý rời địa bàn.
-
-Ông không phản đối.
-
-Điều đó khiến Thi bực hơn.
-
-— Ông ta bình tĩnh quá.
-
-Khải:
-
-— Người bình tĩnh không tự động có tội.
-
-— Em biết.
-
-— Tôi nhắc vì cô đang rất muốn ghét ông ấy.
-
-Thi nhìn anh.
-
-— Anh lúc nào cũng khó chịu vậy hả?
-
-— Khá thường xuyên.
-
-***
-
-Buổi tối Trung nghe chuyện.
-
-Hắn không nổi điên.
-
-Chỉ hỏi:
-
-— Somchai cử người giết tao nếu cần?
-
-Thi:
-
-— Ừ.
+Trung nghe chuyện vào buổi tối. Phản ứng đầu tiên của hắn không phải hỏi Channarong có định giết mình hay không.
 
 — Lan sao?
 
-— Khó chịu.
-
-— Tao hỏi Lan có ổn không.
-
-Thi nhìn.
+Thi đang đứng cạnh cửa.
 
 — Không ổn lắm.
 
-Trung gật.
-
 — Đừng để nó ở một mình.
 
-— Mày mới là người đang bị săn.
+— Mày mới là người bị theo để “ngăn nếu cần”.
 
-— Tao có camera với năm lớp bảo vệ.
+Trung nhún vai.
 
-— Và một cái bóng.
+— Tao có camera, hai lớp bảo vệ và mày đứng đây như chủ nợ. Lan thì vừa phát hiện người nó coi như cha giấu nó một chuyện kiểu đó.
 
-— Nó không biết nấu cơm.
+Thi nhìn hắn.
 
-Thi thở ra.
+— Mày không giận à?
 
-Trung cười nhẹ.
+— Có chứ. Nhưng để mai giận. Hôm nay đủ việc rồi.
 
-— Tao nghiêm túc. Lan coi Somchai như người nhà.
+Một câu đùa nhỏ, nhưng Thi nghe ra hắn thật sự mệt.
 
-Thi nhắn Quỳnh.
+Cô nhắn Quỳnh:
 
-“Ở với Lan tối nay.”
+**Ở với Lan tối nay nhé.**
 
 ***
 
 Nửa đêm, phòng hóa sinh gọi.
 
-Mẫu máu người lạ từ hai hiện trường có kết quả so sánh mở rộng.
+Trong giọt máu lạ ở nhà Hưng, ngoài DNA người còn có nồng độ rất cao của một số marker thực vật gần nhóm HN-23. Không phải kiểu một lần chạm thoáng qua. Người chảy máu dường như đã tiếp xúc lâu hoặc lặp lại với nguồn tương tự.
 
-Không khớp Channarong vì chưa có mẫu đối chứng.
-
-Nhưng trong giọt máu ở nhà Hưng có một thành phần khác.
-
-Không phải người.
-
-Một hợp chất thực vật cùng nhóm HN-23, nồng độ rất cao, như người chảy máu đã **tiếp xúc lâu dài** với thứ này.
-
-Nếu đó là Channarong, hắn không chỉ theo dõi.
-
-Hắn đã dính sâu vào Huyết Ngải hoặc vật tương tự.
+Nếu máu đó là của Channarong, hắn không chỉ là một người quan sát đứng ngoài hiện tượng.
 
 Khải gọi Somchai lúc 00 giờ 38.
 
-— Người của ông từng dùng Dẫn Chủng?
+— Channarong từng tiếp xúc Khalamay hoặc thứ cùng loại chưa?
 
-Đầu dây im.
-
-— Somchai.
-
-Ông trả lời:
-
-— Không.
-
-— Từng tiếp xúc Khalamay?
-
-Lần này lâu hơn.
+Đầu dây im khá lâu.
 
 — Có.
 
@@ -472,12 +336,24 @@ Lần này lâu hơn.
 
 — Mười bảy năm trước.
 
-— Trong vụ vật chủ ông nói đã chết?
+— Trong ca cũ ông nhắc hôm qua?
 
-Somchai không trả lời.
+Somchai không trả lời ngay.
 
-Khải hiểu.
+Khải không ép bằng cách đoán hộ.
 
-Một lịch sử cũ vừa mở.
+— Tôi cần lời khai đầy đủ vào sáng mai.
 
-Và có thể thứ họ đang đối mặt không phải lần đầu Huyền Môn tạo ra nó.
+— Được.
+
+Trước khi cúp, Khải hỏi thêm:
+
+— Channarong là người theo dõi ca đó hay là người trong ca?
+
+Somchai nói:
+
+— Cả hai, ở những thời điểm khác nhau.
+
+Cuộc gọi kết thúc.
+
+Một lịch sử cũ vừa mở ra, nhưng chưa ai biết nó sẽ chứng minh Huyền Môn từng tạo ra thứ đang bám Trung — hay chỉ chứng minh họ đã từng **sợ một thứ tương tự và xử lý nó rất tệ**.
