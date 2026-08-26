@@ -1,607 +1,401 @@
-Tôi xin nghỉ phép.
+Sếp Hòa trả lời tin nhắn xin nghỉ của tôi sau chưa tới hai phút.
 
-Sếp Hòa trả lời sau hai phút:
+**“Lý do?”**
 
-“Lý do?”
+Tôi ngồi trên mép giường, lá ba bích đặt trước mặt, dòng chữ xanh vẫn còn nguyên.
 
-Tôi nhìn lá ba bích trên bàn.
+Tôi gõ:
 
-“Đau bụng.”
+**“Đau bụng.”**
 
-Ông gọi ngay.
+Điện thoại reo ngay.
 
 — Cậu đau bụng mà nhắn nhanh vậy?
 
-— Đau bụng không ảnh hưởng ngón tay sếp.
+— Đau bụng đâu có liệt ngón tay, sếp.
 
-— Hôm qua còn khỏe.
+— Hôm qua còn khỏe như trâu.
 
-— Bệnh tật vô thường.
+— Bệnh tới bất ngờ mà anh.
 
-— Cậu định trốn đi đâu điều tra nữa đúng không?
+— Cậu định trốn đi đâu điều tra tiếp đúng không?
 
-— Em thề hôm nay không đi đâu.
+Tôi nhìn quanh căn phòng trọ, rồi nhìn lại lá bài.
 
-Đó là câu thật.
+— Hôm nay em không đi đâu hết. Em nói thật.
 
-Ít nhất lúc nói tôi nghĩ là thật.
+Có lẽ giọng tôi khác thường nên sếp Hòa không hỏi thêm. Ông chỉ dặn ngày mai nộp hết giấy tờ case Khôi rồi cúp.
 
-Sếp Hòa im vài giây.
+Tới khoảng chín giờ bốn mươi, tôi bắt đầu thấy mình hơi ngu.
 
-— Nghỉ đi. Mai nộp giấy tờ case Khôi.
+Một dòng chữ không rõ xuất hiện từ đâu bảo tôi đừng đi làm, và tôi nghe theo. Nếu đó là trò của ai đó thì người ấy chắc đang rất hài lòng khi thấy một phóng viên chuyên đi kiểm chứng lời đồn lại chịu nằm nhà chỉ vì một lá bài biết viết.
 
-— Sếp quan tâm sức khỏe nhân viên quá.
+Tôi pha cà phê, mở laptop và làm nốt biên bản tư liệu của Khôi. Cố tình không nhìn đồng hồ quá nhiều. Chín giờ năm mươi tám. Mười giờ mười ba. Mười giờ hai mươi. Mọi thứ bình thường đến mức sự bình thường bắt đầu khiến tôi bực.
 
-— Tôi quan tâm hồ sơ.
+Tôi nhắn Quang:
 
-Tôi cúp máy với niềm tin lại được củng cố rằng tình cảm công sở là khái niệm do phòng nhân sự phát minh.
+**“Văn phòng ổn không?”**
 
-***
+Nó trả lời gần như ngay lập tức:
 
-Tôi ở phòng trọ tới chín giờ bốn mươi.
+**“Ổn. Thiếu mày nên yên tĩnh.”**
 
-Rồi bắt đầu thấy mình rất ngu.
+Tôi gửi một icon không phù hợp với môi trường công sở.
 
-Một dòng chữ không rõ nguồn bảo đừng đi làm, và tôi nghe theo.
-
-Nếu đó là trò của ai đó thì hiện tại người đó chắc đang cười tôi từ đâu đó.
-
-Tôi pha cà phê.
-
-Mở laptop.
-
-Làm việc từ xa.
-
-Chín giờ năm mươi tám.
-
-Mười giờ mười ba.
-
-Mười giờ hai mươi.
-
-Không có gì.
-
-Tôi nhắn anh Quang:
-
-“Văn phòng ổn không?”
-
-Nó trả lời:
-
-“Ổn. Thiếu mày nên yên tĩnh.”
-
-Tôi gửi icon ngón giữa.
-
-Mười giờ hai mươi bảy, điện thoại reo.
-
-Anh Quang.
-
-Tôi bắt.
+Bảy phút sau, điện thoại reo.
 
 — Gì?
 
-Đầu dây ồn.
-
-Có người nói lớn.
-
-Tiếng đồ vật kéo trên nền.
+Đầu dây ồn hơn bình thường. Tôi nghe tiếng người gọi nhau, tiếng kim loại kéo trên nền.
 
 Quang hỏi:
 
-— Mày đang đâu?
+— Mày đang ở phòng thật hả?
 
-— Phòng.
+— Ừ. Sao?
 
-— Hôm nay sao tự nhiên nghỉ?
-
-— Đau bụng.
-
-— Đau cái đầu mày. Trần trên bàn mày vừa rớt xuống.
+— Cái trần trên bàn mày vừa rớt xuống.
 
 Tôi đứng bật dậy.
 
-— Gì?
+— Rớt kiểu gì?
 
-— Một mảng vữa với cái đèn. Đập nát màn hình. Nếu mày ngồi đó chắc giờ đầu mày thành bản tin.
+— Một mảng vữa với cái đèn. Đập nát màn hình. Cái khung sắt cắm xuống mặt bàn luôn. Nếu mày ngồi ở đó thì giờ chắc tao đang gọi cấp cứu chứ không gọi mày.
 
-Tôi nhìn lá bài.
+Tôi quay sang lá ba bích.
 
-Cà phê trong tay tự nhiên hết ngon.
+Cà phê vẫn còn nóng nhưng tôi không muốn uống nữa.
 
 — Có ai bị thương không?
 
-— Không. May mọi người tránh kịp.
+— Không. Mọi người tránh kịp.
 
-— Camera?
+— Bảo trì kiểm tra chưa?
 
-— Mày bị nghề nghiệp ám hả? Trần rớt thì camera gì?
+— Đang lên. Huy...
 
-— Kiểm tra giùm tao có ai động trần trước đó không.
+Quang ngập ngừng.
 
-— Huy.
+— Hôm nay tự nhiên mày nghỉ vì chuyện này hả?
 
-— Gì?
+Tôi im vài giây.
 
-— Mày biết trước à?
+— Chiều tao qua rồi nói.
 
-Tôi không trả lời.
+— Mày đang “đau bụng” mà.
 
-— Chiều tao qua.
+— Hết rồi.
 
-— Mày đang nghỉ bệnh mà.
+— Bệnh của mày tiện ghê.
 
-— Khỏi rồi.
-
-— Nhanh vậy?
-
-— Y học hiện đại.
+Tôi không còn tâm trạng cãi.
 
 ***
 
-Mảng trần rơi đúng chỗ ghế tôi.
+Mảng trần rơi đúng trên vị trí ghế tôi. Khung đèn gỉ sét bị bật khỏi trần, một cạnh xuyên xuống mặt bàn ngay chỗ tôi thường đặt tay trái. Bảo trì tháo phần còn lại xuống, chỉ cho tôi lớp nước thấm lâu ngày và mấy con vít gần mục hết.
 
-Không lệch nhiều.
+Không có dấu ai cạy. Camera hành lang cũng không ghi người lạ vào khu vực kỹ thuật.
 
-Màn hình vỡ.
+Một tai nạn rất bình thường.
 
-Một cạnh kim loại cắm vào mặt bàn nơi tôi thường đặt tay.
+Có lẽ vì vậy mà tôi càng khó chịu.
 
-Bảo trì kiểm tra nói khung đèn gỉ lâu ngày, cộng thêm thấm nước từ mái.
+Nếu có người phá, tôi có thể tìm người phá. Nếu là một hệ thống trần cũ xuống cấp, chuyện nó rơi vào lúc nào vốn phải ngẫu nhiên. Nhưng lá bài đã bảo tôi ở nhà trước khi nó rơi.
 
-Một tai nạn hoàn toàn có thể xảy ra.
+Sếp Hòa gọi tôi vào phòng ngay khi bảo trì xong. Tôi đặt ba bích lên bàn, không nói vòng vo.
 
-Không ai động vào.
+Ông đọc dòng chữ, rồi ngước lên.
 
-Camera hành lang không ghi người lạ lên khu vực kỹ thuật.
+— Cậu viết cái này?
 
-Tôi không biết điều đó khiến mình nhẹ nhõm hay sợ hơn.
+— Chữ em. Nhưng em không nhớ viết.
 
-Nếu có người phá, ít nhất tôi có kẻ để tìm.
+— Có mộng du không?
 
-Còn nếu lá bài thật sự biết trước...
+— Chưa từng biết là có.
 
-Tôi chưa muốn nghĩ.
-
-Sếp Hòa gọi tôi vào phòng.
-
-— Cậu nói thật đi.
-
-Tôi đặt ba bích lên bàn.
-
-Dòng “NGÀY MAI ĐỪNG ĐI LÀM” vẫn còn.
-
-Ông đọc.
-
-Mặt không đổi nhiều nhưng bàn tay đặt trên bàn khựng lại.
-
-— Ai viết?
-
-— Chữ em.
-
-— Cậu viết rồi quên?
-
-— Em cũng đang hy vọng vậy.
-
-— Có tiền sử mộng du không?
+— Uống rượu tối qua?
 
 — Không.
 
-— Uống rượu?
+— Thuốc ngủ, thuốc cảm, chất kích thích?
 
-— Không.
+— Chỉ cà phê.
 
-— Thuốc?
+— Tôi hỏi nghiêm túc.
 
-— Không.
+— Em cũng trả lời nghiêm túc. Không có.
 
-— Chất kích thích?
+Ông nhìn tôi khá lâu rồi đứng dậy, mở chiếc tủ sau bàn. Từ ngăn dưới cùng, sếp lấy ra một hộp hồ sơ màu xám đã cũ. Trên nắp ghi bằng bút đen:
 
-— Cà phê tính không?
+**LÊ KHÁNH DUY — 2006.**
 
-Ông nhìn tôi.
+Tôi nhớ ngay cái tên. Người từng ghi trong sổ tay: *lại là ba bích*.
 
-— Tôi đang nghiêm túc.
+— Kho lưu trữ chuyển hộp này lên sau khi tôi hỏi lại vụ Duy — sếp Hòa nói. — Tôi đọc mấy ngày rồi, chưa biết có nên đưa cậu xem không.
 
-— Em cũng vậy. Không có.
+— Vì sao?
 
-Sếp Hòa đứng dậy.
+— Vì trước đây tôi nghĩ đây là đồ của một người bị sang chấn sau chuyến công tác. Cho cậu xem lúc chưa có lý do chỉ làm cậu tự ám mình.
 
-Mở tủ phía sau bàn.
+— Còn bây giờ?
 
-Lấy một hộp hồ sơ cũ màu xám.
+Ông nhìn lá bài trên bàn.
 
-Bụi bám dày.
+— Bây giờ tôi không chắc mình đang bảo vệ cậu hay giấu mất thứ cậu cần biết.
 
-Trên nắp ghi:
+Câu đó làm tôi im hẳn.
 
-LÊ KHÁNH DUY — 2006.
+Trong hộp có vài cuốn sổ tay, ảnh film, một máy ghi âm mini và mấy băng cassette. Một cuộn dán nhãn trắng, trên đó viết bằng mực xanh:
 
-Tôi nhớ cái tên.
+**H. — 22.**
 
-Phóng viên từng viết “lại là ba bích”.
+— “H” là gì? — tôi hỏi.
 
-— Anh giữ hồ sơ này ở đây?
+— Không có chú thích.
 
-— Kho lưu trữ chuyển lên tuần trước sau khi tôi hỏi lại vụ Duy.
+Tôi đặt băng vào máy cũ của Duy. Sếp Hòa đứng bên cạnh, không ai trong hai chúng tôi nói gì khi bánh cuộn bắt đầu quay.
 
-Ông mở hộp.
+Tiếng rè kéo dài vài giây.
 
-Bên trong là sổ tay, vài ảnh film, băng cassette, một máy ghi âm mini cũ.
+Rồi một giọng đàn ông vang lên.
 
-— Duy để lại trước khi nghỉ.
-
-— Sao giờ mới cho em?
-
-— Vì trước giờ tôi nghĩ nó chỉ là đồ một người bị sang chấn sau chuyến công tác.
-
-— Còn giờ?
-
-Ông nhìn lá bài.
-
-— Giờ tôi chưa biết.
-
-Tôi lục từng món.
-
-Một băng cassette có nhãn trắng.
-
-Chữ viết bằng bút mực xanh:
-
-“H. — 22.”
-
-— H là gì?
-
-Sếp lắc đầu.
-
-Tôi cho vào máy.
-
-Bấm play.
-
-Băng rè vài giây.
-
-Một giọng đàn ông vang lên.
-
-Tôi đông cứng.
+Tôi tắt máy gần như theo phản xạ.
 
 Sếp Hòa nhìn tôi.
 
-Giọng đó là của tôi.
+— Giọng cậu?
 
-Không giống.
+Tôi gật.
 
-Không “hơi giống”.
+Không phải “giống”. Không phải giọng ai đó cố bắt chước. Ít nhất với tai tôi, đó là chính giọng mình.
 
-Là giọng tôi.
+Tôi bật lại từ đầu.
 
-“Xin chào tất cả các bạn.”
+“Xin chào tất cả các bạn. Tên tôi là Trương An Huy, hai mươi hai tuổi...”
 
-Tôi nghe chính câu mở đầu Ma Kí Sự của mình phát ra từ cuộn băng được cất trong hộp hồ sơ năm 2006.
+Đúng câu mở đầu **Ma Kí Sự** tôi mới viết vài tuần trước.
 
-“ tên tôi là Trương An Huy, hai mươi hai tuổi...”
+Sếp Hòa dựa một tay lên mép bàn.
 
-Tôi tắt máy.
+— Cậu từng thu âm đoạn này ở đâu?
 
-Không khí trong phòng im tuyệt đối.
+— Có đọc thử trong điện thoại lúc sửa bài. Nhưng là mấy tuần trước.
 
-Sếp hỏi:
+— Hộp Duy được niêm lại từ 2014. Kho có log từ đó tới giờ.
 
-— Cậu từng ghi cái này?
+Tôi lập tức bám vào phần có thể giải thích.
 
-— Có. Câu mở đầu bài đầu.
+— Log có thể sai. Có người mở hộp rồi đóng lại. Hoặc lấy một băng cũ ghi mới. Giọng bây giờ làm giả cũng không phải chuyện không thể.
 
-— Khi nào?
+— Ừ.
 
-— Hai tuần trước.
+— Phải kiểm hết trước.
 
-Ông nhìn băng.
+— Tôi đồng ý.
 
-— Hộp này niêm từ 2014.
+Sếp nói rất bình tĩnh. Tôi biết cả hai đang làm cùng một việc: tìm bất kỳ cánh cửa bình thường nào còn mở để khỏi phải bước sang đáp án khác.
 
-— Niêm kiểu gì?
+Tôi bấm play.
 
-— Kho có log.
+Sau câu giới thiệu, giọng trên băng đổi sang nhịp đều hơn.
 
-— Có thể ai mở.
+“Ngày mai, tám giờ bốn mươi sáu, Phong làm đổ cà phê lên áo chị Linh.”
 
-— Có thể.
+Tôi nhìn lịch trên bàn. Hôm nay thứ Hai.
 
-— Băng có thể thu lại mới.
+“Chín giờ mười hai, sếp Hòa làm mất chìa khóa xe.”
 
-— Có thể.
+Sếp hơi nhíu mày.
 
-— Giọng có thể giả.
+“Mười một giờ ba phút, có một bó hoa được gửi tới tòa soạn nhưng không ghi người nhận.”
 
-— Có thể.
+Một khoảng rè ngắn.
 
-Hai chúng tôi đang cùng cố tìm chữ “có thể” để giữ não mình ở chỗ an toàn.
+“Hai giờ hai mươi chiều, đừng đứng dưới ban công tầng ba.”
 
-Tôi bật lại.
-
-Giọng trên băng tiếp tục.
-
-“Ngày mai, 08:46, Phong làm đổ cà phê lên áo chị Linh.”
-
-Tôi nhìn đồng hồ.
-
-Hôm nay thứ Hai.
-
-Ngày mai thứ Ba.
-
-“09:12, sếp Hòa làm mất chìa khóa xe.”
-
-Sếp nhíu mày.
-
-“11:03, có người gửi tới một bó hoa nhưng không ghi người nhận.”
-
-Băng rè.
-
-“14:20, đừng đứng dưới ban công tầng ba.”
-
-Rồi im.
+Băng im.
 
 Tôi bấm stop.
 
 Sếp Hòa hỏi:
 
-— Cậu nghĩ sao?
+— Mai cậu định làm gì?
 
-— Nếu ngày mai Phong làm đổ cà phê lên chị Linh thì em nghĩ thằng đó sắp bị giết trước khi tới 09:12.
+— Đi làm.
 
-Sếp không cười.
+Ông nhìn tôi như muốn xác nhận mình nghe đúng.
 
-Tôi cũng không.
+— Hôm nay có một lá bài bảo ở nhà thì cậu ở nhà. Mai băng bảo có chuyện lại đi?
+
+— Vì em muốn biết nó biết trước thật hay đang dẫn mình làm theo.
+
+Ông không đáp ngay.
+
+— Không tự tạo điều kiện cho mấy việc trong băng xảy ra.
+
+— Em hiểu.
+
+— Và hai giờ hai mươi không được đứng dưới ban công tầng ba.
+
+— Cái đó em cũng không định thử lòng số phận.
 
 ***
 
-Chúng tôi không nói cho ai về băng.
+Sáng hôm sau, tôi đến tòa soạn sớm hơn thường lệ gần một tiếng. Không kể chuyện cassette cho Phong, Linh hay Quang. Sếp Hòa cũng không nói. Chúng tôi thống nhất nếu cả phòng biết dự đoán, chính phản ứng của mọi người có thể làm lệch sự việc hoặc vô tình khiến nó xảy ra.
 
-Sáng thứ Ba tôi tới tòa soạn sớm.
+Tám giờ bốn mươi lăm, Phong từ pantry đi ra với một cốc cà phê đầy. Tôi đang đứng cạnh máy photocopy, nhìn nó nhiều tới mức thằng nhỏ phát hiện.
 
-08:45.
+— Anh nhìn em làm gì vậy?
 
-Phong đang cầm cốc cà phê đi từ pantry.
+— Không có gì. Đi cẩn thận thôi.
 
-Tôi đứng nhìn.
+— Em có mang tài liệu gì đâu.
 
-Nó thấy tôi.
+Nó bước qua chồng hồ sơ dưới sàn mà không vấp. Đồng hồ trên màn hình máy tính nhảy sang 08:46.
 
-— Anh nhìn gì vậy?
+Không có gì xảy ra.
 
-— Đi chậm thôi.
+Tôi vừa định thở ra thì cửa phòng chị Linh bật mở đúng lúc Phong đi ngang. Hai người va vai; cà phê đổ nguyên lên tay áo sơ mi trắng của chị.
 
-— Sao?
+Phong chết đứng.
 
-— Không sao.
+— Em xin lỗi chị. Em không thấy chị ra...
 
-08:46.
+Linh nhìn tay áo, rồi nhìn khuôn mặt nó.
 
-Phong tránh một chồng hồ sơ trên sàn.
+— Đi lấy khăn đi. Đứng đó nó tự khô hả?
 
-Không đổ.
+Phong chạy vào pantry.
 
-Tôi thở ra.
-
-Ngay lúc đó chị Linh từ phòng bước ra, va vào nó.
-
-Cà phê đổ nguyên lên tay áo chị.
-
-Cả ban im.
-
-Phong trắng mặt.
-
-— Em xin lỗi chị!
-
-Chị Linh nhìn áo.
-
-Rồi nhìn Phong.
-
-— Mày chạy.
-
-Phong chạy thật.
-
-Tôi nhìn đồng hồ.
+Không ai cười. Chỉ có tôi và sếp Hòa nhìn đồng hồ.
 
 08:46.
 
-Sếp Hòa từ cửa phòng nhìn tôi.
+Chín giờ hơn, tôi cố làm việc nhưng gần như không đọc nổi một đoạn quá ba dòng. 09:12, từ ngoài hành lang vang tiếng sếp Hòa hỏi chị lễ tân có thấy chìa khóa xe của ông không. Ông lục cả hai túi quần rồi quay vào phòng, sắc mặt càng lúc càng khó coi.
 
-Mặt rất khó coi.
+Chìa khóa được tìm thấy mười phút sau dưới một xấp bản in ông vừa mang sang phòng họp.
 
-09:12.
+Một chuyện bình thường.
 
-Ông đứng trước bàn lễ tân lục túi.
+Đúng giờ.
 
-— Chìa khóa xe tôi đâu?
+11:03, lễ tân mang lên một bó cúc trắng gói giấy nâu. Người giao chỉ để ở quầy rồi đi; không tên người gửi, cũng không ghi tên người nhận. Tấm thiệp bên trong hoàn toàn trống.
 
-Tôi thấy gáy lạnh.
+Lúc này Quang mới nhận ra tôi và sếp Hòa đang nhìn nhau hơi nhiều.
 
-11:03.
+— Hai người có chuyện gì vậy?
 
-Lễ tân mang lên một bó cúc trắng.
+— Không có — tôi đáp.
 
-Không tên người gửi.
+— Mày nói “không có” cái mặt y chang lúc mày nói “không sợ ma”.
 
-Không người nhận.
+Tôi kéo nó ngồi xuống.
 
-Chỉ một tấm thiệp trống.
+— Lát tao kể.
 
-Không ai trong phòng còn thấy chuyện này vui.
+— Tao ghét câu đó.
 
-14:18, tôi đứng ở tầng một.
+Tôi cũng bắt đầu ghét.
 
-Không lên hành lang có ban công tầng ba.
+Hai giờ mười tám, tôi xuống tầng một trước. Không đứng ngoài sân, cũng không tới gần ban công tầng ba. Tôi chọn vị trí trong sảnh, từ đó vẫn nhìn được qua cửa kính.
 
 14:20.
 
-Một chậu cây từ tầng ba rơi xuống sân.
+Một tiếng hét ngắn từ trên vọng xuống. Ngay sau đó, chậu cây nhỏ rơi từ ban công tầng ba, đập vỡ trên sân đúng chỗ tôi thường đứng gọi điện cho nguồn tin.
 
-Vỡ đúng vị trí tôi thường đứng hút gió khi gọi điện.
+Một chị bên quảng cáo chạy xuống, mặt tái mét, liên tục xin lỗi. Chị vấp dây tưới khi lùi lại, tay quệt trúng chậu.
 
-Không trúng ai.
+Không ai bị thương.
 
-Người làm rơi là một chị phòng quảng cáo vấp dây tưới cây.
+Không có bàn tay vô hình đẩy nó.
 
-Tai nạn.
+Mỗi sự việc trong ngày đều có một chuỗi nguyên nhân đủ bình thường để giải thích. Chính điều đó mới làm cassette khó chịu hơn. Nó không cần tạo ra tai nạn. Nó chỉ cần biết những chuỗi rất bình thường ấy sẽ kết thúc ở đâu, vào đúng phút nào.
 
-Lại hoàn toàn là tai nạn.
+Tối đó, tôi mang băng tới một kỹ thuật viên âm thanh quen của Linh. Anh ta nghe nhiều lần, kiểm tra bề mặt băng, đầu ghi, dấu hiệu cắt ghép cơ bản rồi kết luận thứ duy nhất có thể kết luận chắc:
 
-Băng không tạo ra chúng.
+— Băng cũ thật. Nhưng băng cũ không chứng minh bản ghi này cũ. Kiếm cassette cũ rồi ghi mới không khó.
 
-Nó chỉ biết trước.
+— Giọng thì sao anh?
 
-Ít nhất nhìn từ những gì chúng tôi thấy.
+— Có thể xử lý. Nếu là giả thì người làm khá giỏi, vì hơi thở, khoảng dừng, cao độ khá tự nhiên.
 
-***
+— Có cách biết nó được ghi ngày nào không?
 
-Tối đó tôi mang băng tới một người quen của chị Linh làm âm thanh.
+— Không chính xác với cassette kiểu này.
 
-Anh kiểm tra máy, băng, dấu hiệu cắt ghép cơ bản.
+Tôi thở ra. Không phải vì tìm được đáp án, mà vì ít nhất vẫn còn những khả năng bình thường chưa bị loại.
 
-— Băng cũ thật. — anh nói. — Nhưng băng cũ không có nghĩa thu âm cũ. Ai cũng có thể kiếm cassette cũ rồi ghi mới.
+Khi tôi chuẩn bị về, anh kỹ thuật gọi lại.
 
-— Giọng?
+— Khoan. Đầu băng này hình như có lớp ghi cũ bị đè lên.
 
-— Có thể xử lý. Nhưng làm giống tự nhiên vậy thì người làm khá giỏi.
-
-— Có timestamp không?
-
-— Cassette thường không.
-
-— Vậy không chứng minh được gì.
-
-— Đúng.
-
-Tôi thấy vừa thất vọng vừa nhẹ người.
-
-Khoa học chưa chịu thua.
-
-Tôi thích vậy.
-
-Trước khi về, anh gọi tôi lại.
-
-— Có cái này lạ.
-
-— Gì?
-
-— Đầu băng có một lớp ghi cũ bên dưới. Có thể bị ghi đè.
-
-— Khôi phục được không?
-
-— Thử.
-
-Anh chỉnh thiết bị.
-
-Một giọng rất yếu hiện ra dưới lớp tiếng rè.
-
-Không phải tôi.
-
-Một người đàn ông khác.
+Anh chỉnh thiết bị thêm gần nửa giờ. Từ dưới lớp tiếng rè, một giọng đàn ông khác hiện ra rất yếu.
 
 “Duy đây.”
 
-Sếp Hòa nói Lê Khánh Duy.
+Tôi lập tức ngồi thẳng.
 
-Giọng tiếp:
+Giọng méo nhưng nghe được từng câu ngắt quãng:
 
 “Nếu ai nghe được đoạn này... đừng tin giọng trên băng.”
 
-Rè.
+Tiếng rè kéo dài.
 
 “Đặc biệt nếu nó là giọng của chính mình.”
 
-Tôi ngồi im.
-
 Anh kỹ thuật nhìn tôi.
 
-— Cậu quen người này à?
+— Duy là ai?
 
-— Không.
+— Chủ cũ của cuộn băng.
 
-— Vậy sao ông ấy biết băng sẽ có giọng cậu?
+— Ông ấy biết sau này băng sẽ có giọng cậu à?
 
-Tôi không trả lời được.
+Tôi không trả lời. Câu hỏi đó chưa có chỗ nào để đặt vào những lời giải thích bình thường tôi đang giữ.
 
 ***
 
-Tối đó tôi đem băng về phòng.
+Sếp Hòa bảo để cassette lại tòa soạn. Tôi đồng ý.
 
-Tôi biết hành động này không thông minh.
+Tới mười một giờ tối, tôi quay lại lấy.
 
-Sếp bảo để ở tòa soạn.
+Về sau, khi nhớ lại, tôi vẫn không tìm được lý do nào tử tế cho quyết định đó ngoài việc tôi muốn nghe hết. Sếp Hòa gọi tôi “có vấn đề với khái niệm an toàn”. Tôi không phản bác được.
 
-Tôi bảo cần nghe kỹ.
-
-Ông nói tôi có vấn đề về khái niệm “an toàn”.
-
-Tôi đồng ý một phần.
-
-23:40.
-
-Tôi ngồi một mình.
-
-Bật băng.
-
-Sau đoạn dự đoán ngày hôm nay, có thêm âm thanh mà tối qua tôi chưa nghe.
-
-Có thể vì chúng tôi dừng quá sớm.
+Gần nửa đêm, tôi ngồi một mình trong phòng trọ, để máy ghi âm trên bàn cách xa giường. Tôi nghe lại từ đầu, ghi giờ và chép từng câu. Sau phần dự đoán đã xảy ra, băng còn một đoạn mà hôm trước chúng tôi tắt quá sớm.
 
 Giọng tôi nói:
 
 “Ngày mai, đừng nghe đoạn tiếp theo.”
 
-Tôi nhìn máy.
+Tôi bấm stop.
 
-Một người bình thường sẽ dừng.
+Trong khoảng mười lăm giây, tôi thực sự có ý định làm theo.
 
-Tôi cũng dừng.
+Rồi một câu hỏi rất ngu nhưng rất đúng tính tôi xuất hiện: nếu nó không muốn tôi nghe, tại sao lại thu lời cảnh báo vào chính cuộn băng?
 
-Được khoảng mười lăm giây.
+Tôi ngồi thêm một lúc, đặt điện thoại quay video toàn bộ bàn, rồi mới bấm play lại.
 
-Rồi tôi tự hỏi nếu chính cuộn băng bảo đừng nghe, tại sao nó lại ghi đoạn đó vào?
+Không có tiếng gì gần một phút.
 
-Ba mươi giây sau, tôi bấm play.
-
-Tôi biết.
-
-Tôi cũng ghét tính mình.
-
-Băng chạy.
-
-Im lặng gần một phút.
-
-Sau đó có tiếng tôi cười.
-
-Không phải kiểu cười bình thường.
-
-Rất khẽ.
-
-Rất gần micro.
-
-Giọng tôi nói:
+Sau đó, một tiếng cười rất khẽ vang lên. Là giọng tôi nhưng không giống cách tôi thường cười; nó gần micro đến mức nghe cả tiếng thở.
 
 “Nếu mày đang nghe câu này...”
 
-Một khoảng rè dài.
+Tiếng rè nuốt mất vài giây.
 
 “...nghĩa là mày vẫn nghĩ tao là mày.”
 
-Tôi tắt máy ngay.
+Tôi tắt máy.
 
-Phòng trọ im phăng phắc.
+Căn phòng im đến mức tiếng quạt máy tính cũng trở nên lớn. Tôi nhìn gương trên tủ: chỉ một mình. Nhìn xuống sàn: một cái bóng. Tôi quay sang cửa sổ, kiểm tra rèm, gầm giường, sau lưng ghế. Không có gì.
 
-Tôi nhìn gương trên tủ.
-
-Chỉ có mình tôi.
-
-Tôi nhìn xuống đất.
-
-Một cái bóng.
-
-Tôi thở ra.
-
-Rồi điện thoại trên bàn tự sáng.
+Điện thoại trên bàn đột nhiên sáng màn hình.
 
 Camera trước đang mở.
 
-Trên màn hình là mặt tôi.
+Tôi chắc mình vừa đặt nó quay camera sau về phía cassette.
 
-Và phía sau vai trái...
+Trên màn hình lúc này là mặt tôi, rất gần, và phía sau vai trái...
 
-có một người khác đang ngồi trên giường.
+có một người đang ngồi trên mép giường.
