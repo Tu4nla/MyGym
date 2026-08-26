@@ -166,29 +166,19 @@ Quỳnh không hỏi tại sao Trâm biết Huy nhưng thư lại không nhắc.
 
 Thi lúc này mới lên tiếng:
 
-— Xe của Huy thì sao anh?
+— Anh Huy tới bằng gì, anh nhớ không?
 
 A Hù nhìn cô.
 
-— Xe gì?
+— Có người đưa lên đoạn ngoài hay sao đó. Tôi không để ý.
 
-— Anh ấy tự đi xe tới hay có người chở?
+Đó là thông tin mới.
 
-— Tôi không để ý. Lúc tới có người đưa lên đoạn ngoài hay sao đó.
+Bản thảo Ma Kí Sự cuối cùng mà tòa soạn có chỉ dừng ở lúc Huy vừa tới Hồng Ngài. Email hẹn giờ anh để lại xác nhận H-49 và khu vực này là mục tiêu điều tra, nhưng không có một dòng nào nói anh đã bước vào căn nhà nào, gặp ai hay ở lại qua đêm.
 
-Câu trả lời khác với kiểu “xe cũng biến mất” Quỳnh từng nghĩ từ hồ sơ, nhưng chưa đủ thành mâu thuẫn. Huy có thể đổi phương tiện, có người đưa, hoặc A Hù nhớ sai.
+Vì vậy lời A Hù nói không thể đối chiếu với chính Huy. Ít nhất là chưa.
 
-Quỳnh chỉ hỏi thêm:
-
-— Anh ấy ngủ ở đây một đêm đúng không?
-
-— Ừ.
-
-Ma Kí Sự dừng ở chính đêm đầu Huy tới căn nhà này.
-
-Về mặt thời gian, A Hù chưa nói điều gì chắc chắn sai.
-
-Nó chỉ nói thiếu phần quan trọng nhất.
+Quỳnh chỉ ghi nhớ thời gian, cách hắn trả lời và việc “Trâm” biết Huy từng tới dù lá thư không hề nhắc chuyện đó.
 
 ***
 
@@ -204,15 +194,15 @@ Trâm nhìn ra cửa.
 
 Một cái bóng đi ngang ô cửa sổ thấp, dừng ngoài hiên. Cửa mở.
 
-Người đàn ông bước vào khiến Quỳnh nhận ra ngay khuôn mặt đã xuất hiện ở mép ảnh Huy để lại.
-
-A Mã gầy tới mức chiếc áo chàm cũ như treo trên vai. Tóc bạc lẫn đen dài quá gáy, bết thành từng lọn vì ẩm. Một mắt đục trắng, mắt còn lại tối và rất tỉnh. Trên tay ông là một bó cây rừng còn dính đất.
+Người đàn ông bước vào rất gầy, chiếc áo chàm cũ gần như treo trên vai. Tóc bạc lẫn đen dài quá gáy, bết thành từng lọn vì ẩm. Một mắt đục trắng, mắt còn lại tối và rất tỉnh. Trên tay ông là một bó cây rừng còn dính đất.
 
 A Hù đứng dậy.
 
 — Bố. Bạn Trâm từ Hà Nội lên.
 
-A Mã không chào. Ông đặt bó cây xuống mép bếp, nhìn lần lượt từng người.
+Vậy đây là A Mã.
+
+Ông không chào. Chỉ đặt bó cây xuống mép bếp rồi nhìn lần lượt từng người, chậm đến mức Quỳnh có cảm giác ông không nhìn mặt mà đang kiểm tra một thứ khác.
 
 Ánh mắt dừng ở Lan trước.
 
@@ -424,7 +414,7 @@ Quỳnh hỏi:
 
 — Vì trà?
 
-— Vì trà, vì thư, vì Huy từng mất ở đúng nhà này, và vì tao chưa biết mấy người trong nhà đang nói thật tới đâu.
+— Vì trà, vì lá thư, vì Huy mất dấu ở Hồng Ngài, còn người trong căn nhà này vừa tự nhận đây là nơi cuối cùng thấy anh ấy. Tao chưa biết họ nói thật tới đâu.
 
 Câu trả lời đủ thẳng để Quỳnh không phải hỏi tiếp.
 
