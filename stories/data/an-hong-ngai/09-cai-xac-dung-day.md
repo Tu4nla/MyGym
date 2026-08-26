@@ -1,156 +1,118 @@
 Con chó cào tấm ván lần thứ ba rồi lùi lại.
 
-Nó không sủa.
+Nó không sủa. Chỉ cụp đuôi, nhìn về phía gian giữa nơi người ta vừa phủ vải lên A Mã, rồi lại quay đầu về bức tường sát nền kho.
 
-Chỉ cụp đuôi, nhìn về phía căn phòng đặt thi thể A Mã.
+Quỳnh nhìn theo. Mép một tấm ván ở đó sáng màu hơn những tấm còn lại, như đã bị kéo ra rồi đóng vào nhiều lần. Ban sáng nó chỉ nghĩ đây là chỗ sửa cũ. Bây giờ, sau cái chết của A Mã và ba lần con chó cứ tìm đúng một điểm, chi tiết ấy khó bỏ qua hơn.
 
-Quỳnh thấy Lan siết chiếc chuông trong tay.
+Lan đang đứng cạnh cửa. Bàn tay nó giữ chiếc chuông giấu trong túi áo.
 
-— Mày nghe gì không? — nó hỏi.
+— Mày nghe gì không? — Quỳnh hỏi.
 
 Lan lắc đầu.
 
 — Không.
 
-Rồi sửa:
+Nó ngừng một chút rồi sửa:
 
 — Chưa.
 
 ***
 
-Thi thể A Mã chưa được đưa đi ngay.
+Thi thể A Mã chưa thể đưa xuống ngay. Đường sau mưa vẫn còn một đoạn sạt, cán bộ địa phương tới đầu tiên chỉ đủ người để bảo vệ hiện trường, ghi nhận lời khai và chờ tổ nghiệp vụ tiếp cận bằng tuyến vòng.
 
-Tuyến đường xuống bị gián đoạn, cán bộ địa phương tới đầu tiên chỉ có thể phong tỏa gian giữa, ghi nhận hiện trường và chờ tổ nghiệp vụ cùng phương tiện tiếp cận. Thi đã trình bày mình là nhân chứng có chuyên môn và được yêu cầu giữ nguyên mọi thứ có thể.
+Cái sân cưới buổi sáng đến chiều đã gần trống. Bàn ghế được hàng xóm gom vào một góc, thức ăn còn lại phủ vải. Trẻ con đã được đưa về từ lâu. Chỉ còn tiếng người nói nhỏ và tiếng chân đi rất nhẹ, như thể cả căn nhà sợ phát ra âm thanh lớn hơn cái chết vừa xảy ra.
 
-A Hù đồng ý quá dễ.
+A Hù ngồi ngoài hiên. Hắn đã thay áo nhưng trên cổ tay vẫn còn một vệt máu khô.
 
-Hắn ngồi ngoài hiên, mặt trống rỗng.
+Khi cán bộ hỏi, hắn nói cha mình mấy tháng nay lúc tỉnh lúc không. Sáng nay A Mã hất gạo, đứng dậy rồi mất thăng bằng. Hắn bảo mình đưa tay giữ nhưng không kịp.
 
-Khi cán bộ hỏi chuyện, hắn kể:
+Cách kể rất gọn.
 
-— Bố tôi mấy tháng nay lúc tỉnh lúc không. Sáng nay ông lên cơn, hất gạo rồi tự lùi. Tôi giữ không kịp.
+Không hề có chữ “đẩy”.
 
-Không phải “tôi không chạm”.
+Đến lượt Quỳnh, Thi chỉ nhắc đúng một câu trước khi nó bước vào:
 
-Chỉ là “giữ không kịp”.
+— Mày nói cái mày thấy. Đừng nói cái mày nghĩ hắn muốn làm.
 
-Một câu đủ rộng để chứa cú đẩy Quỳnh đã thấy mà không tự nhận là đẩy.
+Quỳnh gật.
 
-Trâm khai gần giống.
+Người ghi biên bản hỏi:
 
-Cô nói hỗn loạn, gà bay, không nhìn rõ.
+— Cô đứng ở đâu lúc ông ấy ngã?
 
-Trung nói hắn thấy tay A Hù ở vai A Mã nhưng không thấy lực.
+— Phía sau bên trái cô dâu, cách khoảng hai mét.
 
-Quỳnh nói đúng câu Thi đã dặn:
+— Cô có thấy anh A Hù chạm vào ông A Mã không?
 
-— Tôi thấy A Hù đặt tay lên vai trái của A Mã. Ngay sau đó A Mã lùi nhanh về phía bàn. Tôi có cảm giác đó là một cú đẩy, nhưng tôi không nhìn được toàn bộ chuyển động cánh tay.
+— Có.
 
-Người ghi biên bản ngẩng lên.
+— Như thế nào?
 
-— Cô có chắc từ “đẩy” không?
+Quỳnh nhắm mắt một nhịp để dựng lại đúng khoảnh khắc đó: A Mã đứng lên, gạo còn vướng ở tay. A Hù bước tới. Bàn tay đặt vào vai. Cơ thể ông già giật lùi. Gót chân hụt khỏi mép bậc thấp. Sau đầu va vào cạnh bệ đá kê chum nước.
 
-Quỳnh nghĩ.
+— Tôi thấy tay A Hù tác động vào vai trái của A Mã. Ngay sau đó ông ấy lùi nhanh, hụt bậc và ngã ngửa. Tôi không nhìn rõ toàn bộ chuyển động cánh tay nên không thể nói chính xác lực mạnh tới đâu.
 
-— Tôi chắc có tác động làm cơ thể ông ấy di chuyển. Tôi không chắc mức lực.
+— Cô có cho rằng đó là một cú đẩy không?
 
-Ông gật.
+Quỳnh nghĩ rồi đáp:
 
-Ghi lại.
+— Tôi có cảm giác là đẩy. Nhưng phần tôi chắc chỉ là có tác động làm cơ thể ông ấy lùi.
 
-Quỳnh thấy dễ chịu kỳ lạ.
+Người cán bộ ghi nguyên câu đó.
 
-Sự thật đôi khi không cần nói mạnh hơn nó vốn có.
+Quỳnh bỗng thấy nhẹ đi một chút. Bảy năm trước, nó từng sống trong một vụ án nơi quá nhiều người lấy cảm giác làm bằng chứng. Lần này, nói ít hơn điều mình nghi lại khiến nó thấy gần sự thật hơn.
 
-***
+Trung khai rằng hắn thấy tay A Hù ở vai A Mã nhưng góc đứng bị người phía trước che đúng lúc ông già mất thăng bằng. “Trâm” nói chỉ nhớ tiếng hét và cảnh mọi người xô vào nhau.
 
-Đến chiều, khách đã về gần hết.
+Không ai có một đoạn phim hoàn chỉnh.
 
-Đám cưới biến thành một căn nhà có tang nhưng chưa thể làm tang.
-
-Những người hàng xóm dọn thức ăn, gom bàn ghế trong im lặng. Vài người ở lại giúp Trâm. A Hù không cho ai vào phòng cha.
-
-Thi cũng không muốn ai vào.
-
-Hiện trường cần nguyên.
-
-Khoảng năm giờ, một người đàn ông mặc áo khoác xám tới.
-
-Anh giới thiệu với mọi người là cán bộ hỗ trợ từ huyện, tên Minh.
-
-Quỳnh nhận ra cách Thi nhìn anh.
-
-Không phải lần đầu gặp.
-
-Minh chỉ trao đổi công khai về chuyện A Mã chết, nhưng lúc đi qua phòng, hắn khẽ đặt một mẩu giấy xuống bàn.
-
-Thi đọc sau khi cửa đóng:
-
-“Tổ chính bị chậm. Tôi ở lại. Có thể đưa một người ra an toàn nếu cần. Không mở đối đầu khi chưa có lệnh.”
-
-Trung thở ra.
-
-— Ít nhất có thêm một.
-
-Thi gật.
-
-— Và một người là đủ để đưa con tin ra nếu mình tìm được.
+Nhưng ba lời khai đã đủ để cái chết không còn được ghi đơn giản là tai nạn rồi bỏ qua.
 
 ***
 
-Mảnh ván con chó cào nằm ở chân tường kho, không phải cửa.
+Khoảng năm giờ, một người đàn ông mặc áo khoác xám tới nhà. Anh giới thiệu công khai là Minh, cán bộ hỗ trợ từ huyện. Quỳnh nhận ra ngay cách Thi nhìn anh: không phải lần đầu gặp.
 
-Ban ngày Quỳnh mới nhìn rõ nó khác các tấm bên cạnh: mép mới hơn, ít bụi, có hai vết kéo song song.
+Minh trao đổi với người địa phương về cái chết A Mã như một cán bộ tăng cường bình thường. Chỉ đến khi đi ngang phòng Quỳnh, anh mới để lại một mẩu giấy gấp đôi dưới cuốn sổ.
 
-Lan hỏi A Hù:
+Thi đọc:
 
-— Sau tường này có gì?
+**“Tổ chính đang vòng đường. Tôi ở lại trong khu vực. Nếu xác định được người sống bị giữ, ưu tiên đưa ra. Không đối đầu đối tượng khi chưa có phương án khóa lối.”**
 
-Hắn nhìn.
+Trung ghé nhìn.
 
-— Kho cũ.
+— Ít nhất có thêm người.
 
-— Mở được không?
+— Và có đường đưa con tin ra nếu mình tìm được. — Thi đáp.
 
-— Bị đóng từ trước lúc tôi tới.
+Quỳnh nhìn về phía bức tường con chó vừa cào.
 
-— Chó cứ cào.
+— Tao nghĩ nó đang chỉ đúng chỗ.
 
-— Có chuột.
+— Tao cũng nghĩ chỗ đó đáng kiểm tra. — Thi nói. — Nhưng nghĩ đáng kiểm tra khác với tự cạy tường nhà người ta.
 
-Lại chuột.
+Lan dựa lưng vào cửa.
 
-Một loài vật trong căn nhà này chịu trách nhiệm cho khá nhiều bí mật.
+— A Mã đã cố nói “trên đó có người” hôm qua. Sáng nay ông ấy nói con ông ấy ở trên. Giờ chó lại cào đúng một chỗ khác.
 
-Quỳnh không hỏi nữa.
+— Tao biết.
+
+Thi nhìn sang Minh ngoài sân.
+
+— Nên mình ghi lại và đưa cho người có thẩm quyền xử lý.
+
+Quỳnh không thích chờ. Nhưng nó đã bắt đầu hiểu có những lúc kiềm được tay cũng là một phần của điều tra.
 
 ***
 
-Tối 19 tháng 9, A Hù uống rượu.
+Đến tối, những người hàng xóm cuối cùng cũng về. Căn nhà rộng ra nhưng không dễ thở hơn.
 
-Không nhiều.
+A Hù uống hai chén rượu cạnh bếp, chậm và đều. “Trâm” ngồi cách hắn gần một sải tay. Hai người không giống một đôi vừa mất người cha trước ngày cưới. Không có an ủi, không có cãi vã, cũng không có kiểu im lặng thân mật của hai người quen nhau lâu. Chỉ là hai người cùng ngồi trong một gian nhà và thỉnh thoảng kiểm tra phản ứng của nhau.
 
-Hai chén.
+Quỳnh giả vờ xem điện thoại.
 
-Nhưng hắn uống liên tục, ngồi cạnh bếp nhìn lửa.
+— Chắc phải hoãn cưới rồi hả?
 
-Trâm ngồi cách một khoảng.
-
-Hai người không nói chuyện như đôi sắp cưới vừa mất cha.
-
-Không cãi.
-
-Không an ủi.
-
-Chỉ cùng tồn tại.
-
-Quỳnh ngồi đối diện, giả xem điện thoại.
-
-Nó hỏi:
-
-— Đám cưới chắc hoãn?
-
-A Hù đáp:
+A Hù nhìn lửa.
 
 — Ừ.
 
@@ -158,546 +120,356 @@ A Hù đáp:
 
 — Chưa biết.
 
-Trâm nhìn hắn.
+“Trâm” quay sang.
 
 — Em tưởng...
 
-Hắn quay sang.
+A Hù chỉ cần nhìn một cái.
 
-Chỉ một ánh mắt.
+Cô dừng ngay.
 
-Trâm im.
-
-Quỳnh lưu lại.
-
-Không giống quan hệ vợ chồng.
-
-Giống cấp trên và người đang nhớ mình phải nói gì.
+Quỳnh không gắn nhãn quan hệ ấy. Nó chỉ nhớ lại khoảnh khắc. Sau này nếu cần, một ánh mắt sẽ phải đứng cạnh những thứ khác chứ không được tự mình trở thành đáp án.
 
 ***
 
-Mười một giờ, A Hù vào phòng.
+Gần mười một giờ, Lan nói muốn nhìn lại chiếc chuông A Mã trao.
 
-Trâm cũng về gian của mình.
+Thi không thích ý đó.
 
-Minh đang ở căn nhà ngoài bản, giữ liên lạc bằng tin nhắn khi có sóng.
+— Nhìn thì được. Làm gì?
 
-Thi chia việc.
+— Tao chưa biết.
 
-— Trung canh hành lang. Quỳnh ở phòng, nếu có người ra thì ho ba tiếng. Lan với tao xem tấm ván. Không ai chạm thi thể.
+— Câu đó làm tao càng không thích.
 
-Lan nói:
+Lan kéo ghế ngồi xuống.
 
-— Tao cần đứng gần A Mã trước.
+— Ông ấy cố đưa nó cho tao lúc còn tỉnh. Trước khi chết còn nhìn đúng vào nó. Tao muốn biết đây là vật ghi dấu, vật dẫn hay chỉ là một cái chuông hỏng.
 
-Thi nhìn nó.
+— Không chạm xác. Không lấy máu. Không đốt gì. Không uống gì. Không tự thử lên người.
 
-— Để làm gì?
+Lan gật từng điều.
 
-Lan đưa chuông.
+— Nếu tao mất ý thức thì dừng.
 
-— Tao không biết.
+— Không cần mày dặn.
 
-— Câu đó không giúp tao yên tâm.
+Minh đã ở trong nhà từ lúc chín giờ với lý do hỗ trợ hiện trường. Anh đứng ngoài cửa gian đặt thi thể. Một camera nhỏ được bật sẵn để ghi lại việc có người vào phòng, chủ yếu vì Thi không muốn sáng mai phải giải thích bằng trí nhớ xem ai đã chạm thứ gì.
 
-— Tao cũng không yên tâm.
+Quỳnh ở hành lang. Trung canh lối ra sân.
 
-Lan hạ giọng.
+Lan đứng cách tấm phản gần hai mét, chiếc chuông đặt trong lòng bàn tay. Không có quả lắc thông thường bên trong. Nó xoay nhẹ cổ tay. Không tiếng.
 
-— Nhưng ông ấy đưa thứ này trước khi chết, rồi con chó chỉ đúng tường sau khi chuông rung. Nếu có một thông tin ông ấy cố để lại, tao cần thử cách ít nguy hiểm nhất.
+Lần thứ hai vẫn vậy.
 
-Thi suy nghĩ lâu.
+Lan cau mày.
 
-— Không chạm xác. Không uống, đốt, cắt, lấy máu hay bất kỳ thứ gì kiểu đó.
+— Có khi chỉ là chuông hỏng thật.
 
-— Đồng ý.
+Thi vừa định đáp thì trong phòng vang lên một tiếng rất mỏng.
 
-— Nếu mày ngất, dừng.
+**Keng.**
 
-— Đồng ý.
+Không ai xác định được nó phát ra từ chiếc chuông hay đâu đó trong tường.
 
-— Nếu mày nói “tao ổn” nhưng mắt không ổn, tao cũng dừng.
-
-Lan cười rất nhỏ.
-
-— Mày quản kỹ hơn thầy tao.
-
-— Thầy mày không phải người phải viết báo cáo nếu mày chết.
-
-***
-
-Gian đặt A Mã chỉ có một bóng đèn nhỏ.
-
-Thi thể nằm trên tấm phản gỗ, phủ vải trắng tới ngực. Vết thương đã được che. Hai tay đặt dọc thân.
-
-Lan đứng cách gần hai mét.
-
-Không đụng.
-
-Nó cầm chuông.
-
-Thần Hựu trên cổ lạnh.
-
-— Tao bắt đầu nhé.
-
-Thi đứng cạnh cửa.
-
-Quỳnh ngoài hành lang nghe được giọng.
-
-Lan không đọc thần chú.
-
-Chỉ nói:
-
-— Nếu ông đưa cái này cho tôi vì muốn tôi thấy gì, thì cho tôi thấy phần ông muốn. Không hơn.
-
-Nó lắc chuông.
-
-Không tiếng.
-
-Lan nhìn.
-
-Lắc lần nữa.
-
-Vẫn không.
-
-Chiếc chuông không có quả lắc bên trong.
-
-Thi nói:
-
-— Có vẻ không hoạt động.
-
-Lan xoay cổ tay.
-
-Một tiếng rất nhỏ vang lên từ đâu đó không phải chuông.
-
-Keng.
-
-Đèn chớp.
-
-Quỳnh cảm thấy áp lực trong tai thay đổi như lúc máy bay hạ độ cao.
+Bóng đèn trên trần nháy một lần. Quỳnh thấy tai mình ù như vừa thay đổi độ cao quá nhanh.
 
 Lan đứng cứng.
 
 — Lan?
 
-Nó không đáp.
+Nó không trả lời.
 
-Mắt mở nhưng không nhìn căn phòng.
+Mắt vẫn mở nhưng tiêu điểm đã đi khỏi căn phòng.
 
-Trong đầu Lan, ký ức không tới như một bộ phim.
+Sau này Lan nói ký ức của A Mã không hiện thành một câu chuyện. Nó là những mảnh không có đầu cuối, giống một hộp ảnh bị đổ xuống sàn.
 
-Nó tới như những mảnh kính.
+Một người trẻ nằm nửa người dưới nước, ngực còn động. Hai bàn tay già kéo anh ta khỏi bờ đá.
 
-Một người đàn ông trẻ nằm bên bờ suối, mặt đầy máu.
+Một căn nhà khác, nhỏ hơn nhà Pá Tra.
 
-A Mã kéo hắn lên.
+Một người trẻ thứ hai đứng ở cửa, khuôn mặt không nhìn rõ, gọi A Mã bằng một tiếng mà Lan không nghe được.
 
-Một căn nhà khác. Không phải Hồng Ngài.
+Một thân người bị trói trên giường, sốt đến co giật.
 
-Người trẻ bị trói trên giường, gào khi một thứ bột đen được rắc lên ngực.
+Một quyển sổ mở cạnh bát thuốc.
 
-A Hù thật đứng ngoài cửa, khóc.
+Một lưỡi dao đặt trên vải.
 
-Một con dao.
+Một mảng da có tóc.
 
-Da mặt.
+Năm cái bát xếp vòng, nhưng trong ký ức chỉ có hai cái đã chứa thứ gì đó.
 
-Rất nhiều máu.
+Một cầu thang đi xuống đất.
 
-Năm chiếc bát xếp thành vòng.
+Những luống cây đỏ.
 
-Một bát có móng tay.
+Một cổ tay đàn ông bị xích.
 
-Một bát có tóc.
+Một cô gái ngồi tựa tường, mở miệng mà không có tiếng.
 
-Một bát chứa đồng tiền cổ.
+Và cuối cùng là một bàn tay già gõ ba lần lên tấm ván.
 
-Một người phụ nữ già nằm ở nền đất.
+Không có tên.
 
-Huy bị xích ở dưới sâu, gầy hơn ảnh.
+Không có câu “đây là Tùng”.
 
-Một cô gái bị trói ở tầng trên.
+Không có ai quay mặt lại đúng lúc để Lan được xem rõ đáp án.
 
-Không nói được.
+Lan giật mạnh, máu mũi chảy xuống môi.
 
-Tùng.
-
-Tên đó không vang bằng âm thanh.
-
-Nó hiện thành cảm giác.
-
-Lan giật mạnh.
-
-Máu chảy từ mũi.
-
-Thi lập tức chụp vai.
+Thi giữ vai nó ngay.
 
 — Dừng.
 
-Lan thở dốc.
+Lan chớp mắt liên tục.
 
-— Tao thấy...
+— Tao thấy dưới đất...
 
-— Dừng trước.
+— Thở trước.
 
-Thi lấy khăn.
+Thi đưa khăn. Minh bước tới nhưng không chạm vào chiếc chuông.
 
-Lan định nói thì trên phản gỗ có tiếng động.
+Quỳnh vừa định hỏi tiếp thì trên tấm phản vang lên một tiếng **cộc**.
 
-Cộc.
+Bàn tay phải của A Mã đã trượt khỏi mép vải.
 
-Cả hai quay lại.
+Thi quay phắt lại.
 
-Bàn tay A Mã vừa rơi khỏi mép phản.
+— Co cơ sau chết có thể xảy ra.
 
-Thi cứng người.
+Câu ấy nghe như cô đang nói cho cả phòng lẫn chính mình.
 
-— Có thể co cơ sau chết.
-
-Lan không trả lời.
-
-Ngón tay A Mã co lại.
+Ngón tay A Mã cong lại.
 
 Một lần.
 
-Hai lần.
+Rồi hai lần.
 
-Rồi cánh tay chống xuống.
+Vai ông nhấc khỏi phản.
 
-Thi lùi, tay vào súng.
+Không ai kịp nói gì khi thân trên của người đã chết chậm chạp dựng lên. Đầu nghiêng sang một bên theo góc không tự nhiên của cái cổ đã mất trương lực. Con mắt đục trắng mở sẵn; con mắt còn lại cũng mở nhưng không có điểm nhìn.
 
-Thi thể ngồi dậy.
+Minh lùi một bước. Thi đặt tay lên bao súng nhưng không rút.
 
-Không nhanh.
+Quỳnh đứng ngoài hành lang mà chân lạnh tới mức tưởng mình lại bị rắn cắn.
 
-Đầu gục sang một bên.
+A Mã không nhìn ai.
 
-Mắt trắng đục và mắt đã mất thần cùng mở.
-
-Quỳnh ngoài hành lang nhìn thấy, chân lạnh cứng.
-
-Không ai hét.
-
-Có lẽ sợ quá nên không còn tiếng.
-
-A Mã quay đầu.
-
-Không nhìn Lan.
-
-Không nhìn Thi.
-
-Ông giơ tay.
-
-Chỉ về kho lúa.
-
-Ba lần.
-
-Cộc.
-
-Cộc.
-
-Cộc.
+Cánh tay phải nâng lên rất chậm, chỉ về phía kho lúa.
 
 Ngón tay gõ vào thành phản.
 
-Sau đó cơ thể đổ xuống.
+Cộc.
 
-Nằm y như cũ.
+Cộc.
 
-Đèn sáng ổn định.
+Cộc.
 
-Chiếc chuông trong tay Lan phát tiếng đầu tiên thật sự.
+Rồi toàn bộ cơ thể đổ trở xuống.
 
-Keng.
+Bóng đèn sáng ổn định.
 
-***
+Chiếc chuông trong tay Lan phát ra một tiếng rõ hơn trước.
 
-Thi đứng im gần mười giây.
+**Keng.**
 
-Rồi bước tới kiểm tra từ khoảng cách an toàn, không chạm nhiều hơn cần thiết.
+Không ai nói trong gần mười giây.
+
+Thi là người đầu tiên cử động. Cô kiểm tra mạch và hơi thở ở mức tối thiểu, Minh giữ camera hướng vào toàn cảnh.
 
 Không mạch.
 
 Không thở.
 
-Cơ thể lạnh.
-
-— Tao sẽ không ghi “xác ngồi dậy” vào báo cáo nếu không có camera. — cô nói rất nhỏ.
+Da lạnh.
 
 Lan lau máu mũi.
 
-— Tao hiểu.
+— Camera có thấy không?
 
-Quỳnh hỏi:
+Minh nhìn màn hình.
 
-— Mày thấy gì?
+— Có thấy cơ thể nâng lên. Nhưng góc không đủ nói cơ chế gì làm nó vậy.
 
-Lan nhìn nó.
+Thi gật.
 
-— Một người trẻ được A Mã cứu khỏi nước.
+— Vậy báo cáo ghi đúng thế.
 
-Quỳnh nín thở.
+Quỳnh nhìn cô.
 
-— Tùng?
+— Mày không thấy sợ à?
 
-— Tao không thấy mặt rõ lúc đầu. Sau đó có.
+Thi cất tay khỏi người chết.
 
-— A Hù?
-
-Lan gật chậm.
-
-— Tao thấy một người khác bị lấy da mặt.
-
-Không ai nói.
-
-Từ kho lúa, con chó đen cào tấm ván thêm một lần.
+— Có. Nhưng sợ không làm câu chữ chính xác hơn.
 
 ***
 
-Lần này Thi không chờ.
+Minh xem lại phần tường con chó cào ngay trong đêm.
 
-Có khả năng con tin sống.
+Khác với buổi chiều, bây giờ họ có thêm ba thứ: lời cảnh báo nhiều lần của A Mã khi còn sống, một cảnh bất thường vừa được camera ghi lại trong đó thi thể chỉ đúng hướng kho, và khả năng có người đang bị giữ mà Lan vừa thấy qua một trạng thái chưa thể kiểm chứng.
 
-Nguy cơ hiện hữu cho phép họ hành động.
+Không thứ nào một mình đủ để phá tung căn nhà.
 
-Trung canh cửa.
+Nhưng cộng với hồ sơ người mất tích Huy, xác không mặt trên gác và tình trạng A Hù đang bị xác minh danh tính, Minh quyết định kiểm tra phần ván theo hướng tìm lối có thể dẫn tới người sống.
 
-Thi, Lan và Quỳnh vào kho. Chân Quỳnh còn đau nhưng nó nhất quyết đi; Thi chỉ đồng ý khi Minh đang trên đường tới từ ngoài bản.
+A Hù đã vào phòng từ trước. Trung đứng ở hành lang theo dõi cửa. “Trâm” ở gian bên, Thi giữ cô trong tầm mắt bằng lý do cần lấy thêm lời khai về cái chết A Mã.
 
-Tấm ván không phải tường thật.
+Minh dùng dụng cụ mỏng kiểm mép ván. Không phải vách đóng chết. Sau một bao thóc có chốt sắt giấu sát sàn. Kéo chốt lên, cả mảng gỗ trượt ngang trên một rãnh cũ, để lộ cầu thang hẹp đi xuống.
 
-Sau khi kéo hai bao thóc sang, Trung phát hiện một chốt sắt giấu dưới mép sàn. Kéo lên, cả mảng ván trượt sang bên để lộ cầu thang hẹp đi xuống.
+Một luồng khí lạnh mang theo mùi đất ẩm và vị tanh ngọt tràn lên.
 
-Không khí lạnh tràn lên.
+Lan tái mặt.
 
-Mùi đầu tiên là đất ẩm.
+— Giống thứ tao vừa thấy.
 
-Mùi thứ hai ngọt tanh.
+Thi không hỏi thêm.
 
-Quỳnh nhận ra từ tài liệu Huy.
+— Minh xuống trước. Tôi sau. Lan ở giữa. Quỳnh...
 
-Huyết Ngải.
+— Tao đi.
 
-Thi soi đèn.
+Thi nhìn chân nó.
 
-— Tôi xuống trước.
+— Đi được không?
 
-Minh vừa tới, mặc đồ tối màu, không còn vẻ cán bộ tới làm giấy tờ ban chiều.
+— Được.
 
-— Tôi cùng.
+— Đau tăng thì quay lên. Không tranh.
 
-Trung ở trên canh.
+Quỳnh gật.
 
-Lan sau Thi.
-
-Quỳnh cuối.
-
-Cầu thang xuống khoảng ba mét rồi mở thành một gian thấp.
-
-Hai bên là những luống cây đỏ sẫm.
-
-Hoa không đẹp.
-
-Cánh dày, bề mặt ướt như thịt sống dù đất khô. Ở gốc mỗi luống có ống tre nhỏ dẫn một thứ nước màu nâu đỏ.
-
-Thi không chạm.
-
-— Chụp hết.
+Cầu thang chỉ sâu vài mét rồi mở thành một gian đất thấp. Hai bên là những luống cây đỏ sẫm. Cánh dày, mặt lá bóng ướt dù đất quanh gốc khô. Những ống tre nhỏ dẫn thứ nước nâu đỏ từ một chum phía cuối gian tới từng luống.
 
 Minh quay video liên tục.
 
-Cuối gian có một bức vách gỗ.
+— Không ai chạm.
 
-Sau vách là tiếng thở.
+Không ai có ý định đó.
 
-Quỳnh chạy tới rồi tự dừng trước cửa.
+Sau bức vách gỗ cuối gian có tiếng thở rất nhẹ.
+
+Quỳnh là người nghe đầu tiên.
 
 — Có người.
 
-Thi kiểm tra bẫy, dây, mép cửa.
+Cánh cửa nhỏ khóa bằng ổ khóa ngoài. Minh kiểm tra dây, mép cửa và nền trước khi cắt.
 
-Không thấy.
+Bên trong, một cô gái đang co người sát tường.
 
-Minh cắt khóa.
-
-Cánh cửa mở.
-
-Một cô gái co người trong góc.
-
-Tóc dài bết.
-
-Hai cổ tay bị buộc nhưng không quá chặt như người sắp bị giết; giống người bị giữ lâu ngày. Da xanh vì thiếu nắng. Môi nứt.
+Tóc dài bết thành lọn. Hai cổ tay có vết buộc cũ. Da xanh vì lâu không thấy nắng, môi nứt, người gầy đến mức chiếc áo rộng thùng thình.
 
 Cô ngẩng lên.
 
-Quỳnh quên thở.
+Quỳnh thấy gương mặt ấy và trong một giây không hiểu tại sao mình lại nhìn thấy Trâm lần thứ hai trong cùng một căn nhà.
 
-Gương mặt đó...
+Rồi nó nhìn tai.
 
-Gầy hơn.
+Dái tai gần như dính sát vào má.
 
-Có nhiều sẹo nhỏ quanh cằm và mang tai.
+Đúng tấm ảnh Hân vừa gửi.
 
-Nhưng tai.
+Cô gái nhìn Quỳnh, mắt mở lớn. Miệng bật ra một luồng hơi nhưng không thành tiếng.
 
-Dái tai dính sát.
-
-Đúng như ảnh năm 2012.
-
-Cô gái nhìn Quỳnh.
-
-Mắt mở lớn.
-
-Miệng bật ra âm thanh.
-
-Không thành tiếng.
-
-Chỉ hơi gió.
-
-Quỳnh quỳ xuống.
+Quỳnh quỳ xuống cách một khoảng, tay để trước mặt cho cô nhìn thấy.
 
 — Trâm?
 
-Cô gái bắt đầu khóc.
+Nước mắt trào ra ngay.
 
-Không có tiếng.
-
-Chỉ nước mắt.
-
-Quỳnh đưa tay nhưng dừng trước khi chạm.
+Cô gái gật mạnh.
 
 — Tao là Quỳnh.
 
-Cô gái gật dữ dội.
+Lần này Trâm đưa tay ra trước.
 
-Rồi chỉ lên trên.
+Quỳnh mới nắm lấy.
 
-Hai tay run.
+Bàn tay lạnh và nhẹ, nhưng lực siết rất mạnh.
 
-Viết một chữ bằng ngón tay lên đất:
+Trâm cố nói. Không có âm thanh. Nó buông tay Quỳnh, dùng ngón trỏ viết lên lớp bụi ở nền hai chữ.
 
-NHƯ.
+**NHƯ**
 
 Quỳnh nhìn.
 
-Máu trong người lạnh dần.
+Trâm viết tiếp:
 
-Cô gái viết tiếp:
+**TÙNG**
 
-TÙNG.
+Hai cái tên nằm trên đất.
 
-***
+Chưa giải thích được ai đang mang mặt ai.
 
-Thi gọi Minh.
-
-— Đưa cô ấy ra. Không qua cửa chính.
-
-Minh gật.
-
-— Có đường hậu?
-
-Lan nhìn ký ức vừa nhận.
-
-— Bên trái luống thứ ba có cửa thông nhỏ.
-
-Thi nhìn nó.
-
-— Mày chắc?
-
-Lan nhắm mắt.
-
-Một mảnh hình.
-
-— Khoảng bảy mươi phần trăm.
-
-— Không đủ.
-
-Minh kiểm tra thực tế.
-
-Sau luống thứ ba có khe gió.
-
-Một cửa gỗ thấp dẫn ra sườn sau nhà, bị che bằng bụi.
-
-Lan thở ra.
-
-Lần này ký ức đúng.
-
-Không có nghĩa lần sau sẽ đúng.
-
-Minh quấn chăn cho Trâm thật, đưa cô ra bằng cửa sau tới một điểm an toàn nơi hai đồng nghiệp đang chờ dưới rừng.
-
-Quỳnh muốn đi theo.
-
-Thi giữ lại.
-
-— Nếu “Trâm” trên nhà biến mất mà mày cũng biến mất, A Hù biết ngay.
-
-— Nhưng...
-
-— Cô ấy đang với công an.
-
-Quỳnh nhìn Trâm thật.
-
-Cô nắm tay nó một lần.
-
-Rất chặt.
-
-Rồi buông.
+Nhưng từ khoảnh khắc đó, người phụ nữ ở trên nhà không còn có thể chỉ được gọi là “Trâm” trong đầu Quỳnh nữa.
 
 ***
 
-Trước khi ra khỏi hầm, Lan dừng ở bức tường cuối.
+Minh lập tức gọi người hỗ trợ ở sườn sau. Một lối thông khí thấp phía trái hầm dẫn ra bụi cây sau nhà; anh kiểm tra thực tế rồi mới dùng nó đưa Trâm thật ra ngoài, tránh cửa chính và tránh để A Hù biết họ đã tìm được ai.
 
-Có tiếng kim loại rất nhỏ sau đó.
+Quỳnh muốn đi cùng.
+
+Thi giữ cổ tay nó.
+
+— Cô ấy đang với người của mình. Mày xuất hiện ở cửa sau cùng Trâm thật thì người trên nhà biết hết.
+
+Quỳnh nhìn bạn mình được quấn chăn, dìu qua khe cửa thấp.
+
+Trâm quay lại, nắm tay Quỳnh thêm một lần rồi mới đi.
+
+Không có câu nào.
+
+Nhưng lần này Quỳnh không cần câu nào để biết người trước mặt là bạn mình.
+
+***
+
+Họ chưa rời hầm ngay.
+
+Từ sau bức tường cuối cùng vang lên một tiếng kim loại rất nhỏ.
 
 Cộc.
 
-Cộc.
+Rồi lần nữa.
 
-Không phải từ tầng trên.
+Thi soi đèn. Sau những dây cây khô quấn quanh một khung gỗ là cánh cửa sắt hẹp, khóa mới hơn hẳn phần còn lại của hầm.
 
-Từ sâu hơn.
+Minh ra hiệu không ai chạm.
 
-Thi soi.
+Quỳnh đứng cách cửa một bước.
 
-Một cánh cửa sắt bị phủ bởi dây Huyết Ngải khô.
+— Anh Huy?
 
-Khóa mới.
+Không tiếng trả lời.
 
-Minh đã đưa Trâm đi, Trung đang canh trên.
-
-Không đủ người để mở an toàn.
-
-Quỳnh ghé sát.
-
-— Huy?
-
-Không tiếng.
-
-Nó gọi lần nữa:
+Nó gọi lần nữa, rõ hơn:
 
 — Trương An Huy?
 
-Một khoảng im dài.
+Một khoảng im kéo dài đến mức Quỳnh tưởng mình vừa hy vọng quá sớm.
 
-Rồi từ bên kia có tiếng người khàn đến gần như không còn giọng:
+Rồi từ phía bên kia vang lên tiếng người, khàn đến gần như chỉ còn hơi.
 
-— Nếu... là công an...
+— Ai đó?
 
-Quỳnh lạnh cả người.
+— Quỳnh. Tòa soạn Âm Dương. Có công an ở đây.
 
-Giọng tiếp:
+Lại im.
 
-— Làm ơn... đừng uống trà.
+Giọng bên kia nói:
 
-Dù trong tình trạng đó, câu đầu tiên của Huy vẫn là một câu rất Huy.
+— Vậy... làm ơn bảo họ đừng uống trà nhà này.
 
-Quỳnh bật cười mà mắt cay.
+Quỳnh bật cười trước khi kịp ngăn. Mắt cay xè.
 
-— Tìm thấy rồi.
+Thi quay sang nó, khóe miệng cũng động rất nhẹ.
 
-Bên kia cửa, Huy cũng cười.
+— Anh còn tỉnh không? — cô hỏi qua cửa.
 
-Một tiếng cười khô, yếu.
+— Nếu tiêu chuẩn thấp... thì còn.
 
-— Tôi biết... kiểu gì... cũng có người thông minh hơn tôi tới.
+Minh bắt đầu kiểm tra khung cửa và những sợi dây nối quanh khóa.
+
+Quỳnh đặt tay lên tường lạnh.
+
+Bốn tháng sau dòng cuối cùng **Đã tới nơi**, cuối cùng họ đã nghe thấy giọng Huy ở phía bên kia.
