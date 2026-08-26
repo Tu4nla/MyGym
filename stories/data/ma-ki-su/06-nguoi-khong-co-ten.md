@@ -1,579 +1,359 @@
-Tôi trở lại Hà Nội lúc bảy giờ mười lăm sáng với một cái ba lô nặng hơn lúc đi, một bên mắt thâm vì thiếu ngủ và một niềm tự hào rất lớn: chuyến công tác hai triệu của tôi đã tạo ra đủ tư liệu để viết ít nhất ba bài, hai bản tin ngắn và một đơn xin tăng ngân sách.
+Tôi về tới Hà Nội lúc hơn bảy giờ sáng với một cái ba lô nặng hơn lúc đi, hai mắt thiếu ngủ và một niềm tin rất rõ ràng rằng hai triệu đồng công tác phí là con số chỉ đẹp khi nó nằm trong bảng Excel.
 
-Cái cuối cùng tất nhiên bị từ chối.
+Tôi ngủ được ba tiếng rồi tới tòa soạn nộp bài.
 
-Sếp Hòa đọc bản thảo đầu tiên trong phòng làm việc.
+Sếp Hòa đọc bản thảo đầu trong phòng làm việc, chị Linh ngồi bên cạnh chỉnh từng đoạn. Tôi không viết “Ma Lai có thật”. Phần ông Tài, ông Tích và tôi cùng nhìn thấy cái đầu bay được tách riêng dưới nhãn lời kể nhân chứng; phần Vượng thì viết như một vụ việc bình thường có thể kiểm chứng: theo dõi nhà dân, đặt xác động vật làm mồi, mang dụng cụ lấy mẫu, thuốc gây mê và sổ ghi mã hàng.
 
-Tôi đứng trước bàn.
+Chị Linh đọc xong, đặt bút xuống.
 
-Chị Linh ngồi bên ghế phụ, thỉnh thoảng cầm bút gạch một đoạn.
+— Bài này được.
 
-Không khí nghiêm túc hơn tôi tưởng.
+Tôi đang định cảm ơn theo cách khiêm tốn nhất có thể thì chị nhìn lên.
 
-Bài tôi viết không dùng câu “Ma Lai có thật”. Tôi mô tả đúng những gì ghi âm, chụp được, lời kể của ông Tích, lời khai của ông Tài và phần Vượng bị bắt vì lén đặt xác động vật, mang dụng cụ lấy mẫu, theo dõi nhà dân.
+— Đừng có nở mũi. Tao đang khen bài.
 
-Đoạn về cái đầu bay và nội tạng tôi để trong một box riêng: “Lời kể của nhân chứng”.
+— Em chưa nói gì mà.
 
-Chị Linh đọc xong, ngẩng lên.
+— Nhìn mặt là biết.
 
-— Khá.
+Sếp Hòa lật tới đoạn cuối, dừng ở chỗ ông Tích bảo tôi phun thứ nước trong hồ lô.
 
-Tôi lập tức chỉnh cổ áo.
+— Cậu nuốt thật à?
 
-— Em biết.
+Tôi biết ngay đời làm báo của mình sẽ bị cái chi tiết này đeo theo một thời gian.
 
-— Tao nói bài khá, không nói mày khá.
+— Một ít thôi sếp.
 
-— Bài là sản phẩm của người viết. Khen tác phẩm cũng là khen tác giả gián tiếp.
+— “Một ít” là bao nhiêu?
 
-Sếp Hòa ném cây bút xuống bàn.
+— Đủ để em không muốn nhắc lại lúc đang ăn.
 
-— Có đoạn cậu uống nước tiểu trẻ con thật à?
+Chị Linh quay mặt đi cười. Sếp Hòa cũng nhếch môi nhưng không khai thác thêm. Ông lật lại mấy trang trước.
 
-Tôi nghiêm mặt.
-
-— Em đề nghị tòa soạn không tập trung vào hy sinh cá nhân của phóng viên mà quên giá trị điều tra.
-
-Chị Linh cười đến ho.
-
-Sếp Hòa cố nhịn.
-
-— Cậu nuốt thật?
-
-— Tai nạn nghề nghiệp.
-
-— Tôi có nên cho đoạn này lên sapo không?
-
-— Anh Hòa!
-
-— Được rồi.
-
-Ông dựa lưng ghế, nhìn tôi kỹ hơn.
-
-— Vượng nói “Chợ Âm”?
+— Vượng nói cái tên “Chợ Âm” ở đây?
 
 — Có ghi âm.
 
-— Đưa tôi nghe.
-
-Tôi mở máy.
-
-Giọng Vượng rè rè phát ra:
+Tôi mở máy. Trong tiếng gió và tiếng xe vọng xa, giọng Vượng vang lên rõ hơn tôi tưởng:
 
 “Người mua không quan tâm cậu tin ma hay không. Họ chỉ quan tâm thứ nào dùng được.”
 
-Sau đó:
+Sau đó là hai chữ:
 
 “Chợ Âm.”
 
-Sếp Hòa không cười nữa.
+Nụ cười trên mặt sếp Hòa biến mất.
 
-Tôi để ý rất rõ.
+Ông đưa tay.
 
-— Sếp biết à?
+— Cho tôi nghe lại.
 
-— Không.
+Tôi bật lần nữa. Chị Linh nhìn ông, rồi nhìn tôi.
 
-Trả lời quá nhanh.
+— Anh biết cái tên này à? — chị hỏi.
 
-Sau P201 chắc Quỳnh sẽ gọi kiểu này là một clue.
+Sếp Hòa im vài giây mới nói:
 
-Còn tôi lúc ấy chỉ thấy sếp đang nói dối.
+— Tôi từng nghe. Lâu rồi.
 
-— Anh Hòa.
+Tôi dựa lưng vào ghế.
 
-— Gì?
-
-— Mặt anh mỗi lần nói dối bên trái giật nhẹ.
-
-— Cút ra ngoài.
-
-— Vậy là em đoán đúng?
-
-— CÚT.
-
-Tôi đi ra rất vui vẻ.
-
-Đến cửa, ông gọi lại.
-
-— Huy.
-
-Tôi quay đầu.
-
-Sếp Hòa nhìn chiếc túi zip tôi đang cầm.
-
-Bên trong là đồng xu lỗ vuông buộc chỉ đen.
-
-— Đừng mang thứ đó về nhà.
-
-Tôi hơi khựng.
-
-— Sếp vừa nói không biết Chợ Âm.
-
-— Tôi không biết. Tôi chỉ biết cậu có xu hướng mang rác về phòng trọ rồi ba ngày sau kêu có gián.
-
-Lý do nghe rất hợp lý.
-
-Nhưng ông không nhìn tôi.
-
-Ông nhìn đồng xu.
-
-***
-
-Bài Ma Lai lên trang sau hai ngày.
-
-Lượng đọc cao hơn bình thường của ban Kinh dị - Tâm linh gần năm lần.
-
-Tôi trở thành người nổi tiếng trong tòa soạn khoảng sáu tiếng.
-
-Anh Quang mua cho tôi cốc cà phê.
-
-Chị kế toán hỏi xin ảnh Ma Lai.
-
-Phòng quảng cáo bảo có nhãn hàng thuốc diệt côn trùng muốn tài trợ series.
-
-Tôi không hiểu mối liên hệ nhưng tiền là thứ có khả năng xây cầu nối giữa những khái niệm xa lạ.
-
-Buổi chiều, sếp Hòa đi ngang bàn tôi, đặt xuống một phong bì.
-
-Tôi mở.
-
-Ba triệu.
-
-Tôi xúc động.
-
-— Sếp tăng ngân sách?
-
-— Thưởng bài.
-
-— Em xin rút lại một số nhận xét không hay về sếp.
-
-— Cậu đã nói gì?
-
-— Không quan trọng nữa.
-
-Ông nhìn tôi đầy nghi ngờ rồi đi.
-
-Tôi cất tiền.
-
-Ba phút sau lễ tân gọi nội bộ.
-
-— Huy, có người gửi đồ cho em.
-
-— Ai?
-
-— Không ghi.
-
-Tôi xuống tầng một.
-
-Trên quầy là một hộp carton nhỏ bằng cuốn sách, không tem bưu điện, không tên người gửi. Chỉ có một dòng chữ viết bằng bút mực đen:
-
-TRƯƠNG AN HUY — BAN KINH DỊ.
-
-Tôi hỏi chị lễ tân:
-
-— Ai đem tới?
-
-— Một shipper.
-
-— App nào?
-
-— Không biết. Đưa rồi đi.
-
-— Camera có không?
-
-— Có.
-
-Chúng tôi tua lại.
-
-Đúng mười bốn giờ mười bảy, một người mặc áo khoác, đội mũ bảo hiểm kín mặt bước vào. Đặt hộp. Nói gì đó. Đi.
-
-Không thấy biển số vì xe đỗ ngoài góc camera.
-
-Tôi mang hộp lên bàn.
-
-Anh Quang ghé đầu.
-
-— Fan gửi quà à?
-
-— Có thể.
-
-— Mở đi.
-
-— Nếu bom thì sao?
-
-Anh Quang lập tức lùi ba mét.
-
-— Mày mở đi.
-
-Tình đồng nghiệp thật cảm động.
-
-Tôi dùng kéo rạch băng keo.
-
-Bên trong chỉ có ba thứ.
-
-Một bức ảnh.
-
-Một tờ giấy gấp đôi.
-
-Và một lá bài Tây.
-
-Tôi cầm lá bài lên.
-
-Ba bích.
-
-Góc dưới bên phải có một vết xước nhỏ hình bán nguyệt.
-
-Tay tôi lạnh đi.
-
-Tôi nhớ rất rõ lá bài hôm bốc thăm đã bị sếp Hòa giữ lại.
-
-Không phải kiểu “có lẽ giống”.
-
-Cùng vị trí.
-
-Cùng độ dài.
-
-Tôi lập tức đứng dậy đi vào phòng sếp.
-
-Không gõ cửa.
-
-— Sếp.
-
-Ông ngẩng lên.
-
-Tôi đặt lá bài xuống bàn.
-
-Mặt ông thay đổi.
-
-— Lá này đâu ra?
-
-— Sếp hỏi em trước?
-
-— Tôi hỏi cậu.
-
-— Có người gửi.
-
-Tôi chỉ vào ngăn kéo bàn ông.
-
-— Lá hôm trước đâu?
-
-Ông không nói.
-
-Mở ngăn kéo.
-
-Lục một lúc.
-
-Không có.
-
-Tôi nhìn ông.
-
-— Sếp.
-
-— Tôi để ở đây.
-
-— Có ai lấy không?
-
-— Không biết.
-
-— Camera?
-
-— Phòng tôi không có camera trong phòng.
-
-— Chìa khóa?
-
-— Tôi, hành chính và lao công.
-
-Tôi ngồi xuống ghế.
-
-— Anh biết chuyện này từ trước đúng không?
-
-Sếp Hòa nhìn lá bài.
-
-— Tôi biết một chuyện rất cũ.
-
-— Lại một người lớn nữa trả lời kiểu đó.
-
-Ông không để ý câu đùa.
-
-— Hai mươi năm trước, Âm Dương có một cộng tác viên tên Phạm Quốc Bình. Đi làm hồ sơ ở miền Trung rồi mất tích.
-
-— Liên quan ba bích?
-
-— Trước chuyến đi, trong buổi liên hoan tòa soạn có chơi bốc bài phạt rượu. Bình bốc trúng ba bích.
-
-Tôi im.
-
-— Một người thì trùng hợp.
-
-— Tôi cũng nghĩ vậy.
-
-— Còn ai nữa?
+— Sếp vừa định nói không biết đúng không?
 
 Ông nhìn tôi.
 
-— Năm 2006, một phóng viên tên Lê Khánh Duy. Mất tích ba ngày ở vùng biên. Tìm được, nhưng sau đó nghỉ việc. Trong nhật ký có câu “lại là ba bích”.
+— Tôi đang nghĩ xem chuyện cũ đó có liên quan gì với cái cậu gặp hay không.
 
-— “Lại” nghĩa là ông ấy từng gặp trước?
+— Chuyện gì?
 
-— Không biết.
+— Chưa chắc đã cùng một thứ. Đừng gom mọi cái tên lạ vào chung một câu chuyện.
 
-— Ông Duy đâu?
+Câu đó nghe rất giống chị Linh lúc biên tập, và cũng là cách hợp lý nhất để né câu hỏi.
 
-— Mất năm 2014.
+Tôi không ép thêm. Nhưng khi đứng dậy, tôi thấy ánh mắt ông dừng ở chiếc túi zip trên tay mình.
 
-— Sao?
+Bên trong là đồng xu lỗ vuông buộc chỉ đen.
 
-— Tai nạn giao thông.
+— Cái đó cậu định mang về nhà à? — ông hỏi.
 
-Tôi nhìn lá bài.
+— Em định chụp rồi gửi người xem thử.
 
-Trò bốc bài trong phòng họp bỗng không còn vui như hai ngày trước.
+— Chụp ở đây. Để lại tủ vật chứng của ban trước đã.
 
-— Vậy hôm đó sếp mang bộ bài ra là vì biết chuyện này?
+— Vì sao?
 
-— Không.
+Sếp Hòa chống hai tay lên bàn.
 
-— Anh Hòa.
+— Vì cậu vừa kể hai ngày qua bị một cái đầu bay đuổi, một người lạ lấy máu và một cái bóng không có chủ. Nếu sau tất cả đó cậu vẫn bỏ thứ này cạnh gối thì tôi sẽ nghi năng lực sinh tồn của cậu.
 
-— Tôi nói thật.
-
-Lần này mắt ông không tránh.
-
-— Bộ bài hôm đó tôi mua mới ở cửa hàng dưới phố. Tôi chỉ định chọn ngẫu nhiên cho đỡ cãi nhau. Tôi không biết cậu sẽ bốc ba bích.
-
-— Nhưng anh biết lịch sử ba bích.
-
-— Sau khi cậu bốc tôi mới nhớ.
-
-— Sao không nói?
-
-Ông im.
-
-Tôi tự trả lời:
-
-— Vì sợ em không đi.
-
-— Đúng.
-
-Ít nhất ông thành thật.
-
-— Sếp tốt quá.
-
-— Tôi tăng tiền thưởng rồi.
-
-— Ba triệu mua được mạng em hả?
-
-— Không. Nhưng cậu vẫn nhận.
-
-Tôi nghẹn.
-
-Cãi nhau với người từng làm báo lâu năm khá mệt.
-
-Tôi nhặt bức ảnh trong hộp lên.
-
-Một gia đình bốn người đứng trước căn nhà cấp bốn.
-
-Người bố.
-
-Người mẹ.
-
-Một cô gái khoảng hai mươi.
-
-Và một khoảng trống rất kỳ lạ giữa bố và cô gái.
-
-Không phải ảnh bị xóa.
-
-Bố cục đơn giản có một khoảng rộng đủ cho một người đứng, nhưng không có ai.
-
-Mặt sau ảnh ghi:
-
-“Nhà tôi có bốn người.”
-
-Tôi nhìn lại.
-
-Trong ảnh chỉ ba.
-
-Tờ giấy gấp đôi chỉ có địa chỉ email và một câu:
-
-“Nếu anh còn nhớ tên người trong ảnh sau khi đọc xong, hãy tới gặp tôi.”
-
-Bên dưới là một cái tên:
-
-NGUYỄN THU HÀ.
-
-Tôi hỏi:
-
-— Sếp thấy mấy người trong ảnh?
-
-Ông nhìn.
-
-— Ba.
-
-— Dòng sau nói nhà bốn người.
-
-— Có thể người chụp.
-
-— Ảnh có dấu tripod ở kính cửa.
-
-Ông nhìn kỹ.
-
-Đúng là trong ô kính phản chiếu một chân máy nhỏ.
-
-Sếp Hòa ngồi xuống.
-
-— Đừng đi một mình.
-
-Tôi cười.
-
-— Sếp bắt đầu thương em rồi hả?
-
-— Không. Nếu cậu mất, ban lại thiếu người.
-
-Tôi biết ngay tình cảm không nên kỳ vọng ở môi trường công sở.
+Lần này lý do đủ thuyết phục. Tôi đưa túi zip cho chị Linh làm biên nhận nội bộ.
 
 ***
 
-Tối đó tôi gửi email.
+Bài Ma Lai lên trang hai ngày sau và có lượng đọc cao hơn bình thường của ban gần năm lần. Trong khoảng một buổi sáng, tôi trở thành người được hỏi chuyện nhiều nhất tòa soạn. Có người muốn xem ảnh, người muốn nghe ghi âm, phòng quảng cáo thậm chí hỏi liệu series có nhận tài trợ từ một nhãn hàng diệt côn trùng không.
 
-“Chào chị Hà. Tôi là Huy, Âm Dương. Tôi nhận được ảnh.”
+Tôi không hiểu mối liên hệ, nhưng tôi hiểu doanh thu.
 
-Phản hồi tới sau chưa đầy một phút.
+Đầu giờ chiều, sếp Hòa đặt một phong bì lên bàn tôi.
 
-“Anh nhớ trong ảnh có ai không?”
+— Thưởng bài.
 
-Tôi gõ:
+Tôi mở ra thấy ba triệu, lập tức cảm thấy ông bớt khó tính hơn khoảng bốn mươi phần trăm.
 
-“Bố, mẹ, chị và một khoảng trống.”
+— Em cảm ơn sếp.
 
-Ba dấu chấm hiện lên.
+Ông nhìn tôi, có vẻ hơi bất ngờ vì tôi chỉ nói đúng một câu.
 
-Rồi:
+— Hết rồi à?
 
-“Anh chưa quên.”
+— Dạ. Em trưởng thành rồi.
 
-Tôi nhìn màn hình.
+— Tốt. Giữ được tới chiều càng tốt.
 
-“Quên ai?”
+Ông vừa đi chưa được năm phút thì lễ tân gọi nội bộ.
 
-Hà gửi một cái tên.
+— Huy, có người gửi đồ cho em.
 
-NGUYỄN MINH KHÔI.
+— Ai vậy chị?
 
-Ngay khi đọc, tôi cảm giác rất lạ.
+— Không ghi tên. Shipper đưa rồi đi.
 
-Không phải chóng mặt.
+Tôi xuống tầng một. Trên quầy là một hộp carton nhỏ cỡ cuốn sách, không tem bưu điện, không logo hãng vận chuyển. Bên ngoài chỉ ghi bằng mực đen:
 
-Không đau.
+**TRƯƠNG AN HUY — BAN KINH DỊ.**
 
-Chỉ giống như cái tên trượt khỏi đầu ngay sau khi mắt vừa đi qua.
+Chị lễ tân cho tôi xem camera. Lúc 14:17, một người mặc áo khoác tối và đội mũ bảo hiểm kín mặt đi vào, đặt hộp xuống rồi rời đi. Xe dừng ngoài góc quay nên không thấy biển số.
 
-Tôi đọc lại.
+Tôi không mở ngay. Sau vụ Vượng, tôi đã bớt thích cầm đồ người lạ gửi bằng tay trần. Tôi mang hộp lên phòng, gọi Quang lại chứng kiến rồi dùng kéo rạch băng trong khi camera điện thoại quay từ đầu.
 
-Nguyễn Minh Khôi.
+Quang đứng cách bàn một khoảng vừa đủ để thể hiện tình bạn nhưng vẫn có đường chạy.
 
-Tôi quay sang lấy sổ, viết thật to:
+— Mày đứng xa dữ vậy?
 
-NGUYỄN MINH KHÔI.
+— Tao tin mày xử lý được.
 
-Đặt bút xuống.
+— Cảm động ghê.
 
-Nhìn điện thoại.
+Trong hộp có ba thứ: một bức ảnh gia đình, một tờ giấy gấp đôi và một lá bài Tây.
 
-Tin nhắn của Hà lúc này ghi:
+Tôi cầm lá bài lên qua mép giấy.
 
-“Anh chưa quên.”
+Ba bích.
 
-Tôi chợt không nhớ mình vừa hỏi cô ấy quên ai.
+Ở góc phải dưới là vết xước hình bán nguyệt.
+
+Mọi câu đùa trong đầu biến mất.
+
+Tôi nhớ rất rõ sếp Hòa đã cất lá bài hôm bốc thăm vào ngăn kéo phòng họp. Không chỉ giống về số và chất giấy; vết xước nằm đúng vị trí tôi đã nhìn nhiều lần.
+
+Tôi mang cả hộp sang phòng sếp.
+
+— Sếp, coi cái này.
+
+Ông vừa thấy lá bài đã đứng dậy.
+
+— Ở đâu ra?
+
+— Trong hộp người ta gửi cho em. Lá của hôm trước sếp còn giữ không?
+
+Sếp Hòa không trả lời ngay. Ông mở ngăn kéo bên trái, lục dưới mấy tập hồ sơ, rồi mở ngăn dưới cùng.
+
+Không có.
+
+Chị Linh nghe động cũng sang. Ba người nhìn cái ngăn trống một lúc.
+
+— Anh nhớ chính xác để đâu không? — chị hỏi.
+
+— Ngăn trên. Tôi còn cất riêng vì cái vết xước.
+
+— Ai có chìa khóa phòng?
+
+— Tôi, hành chính. Lao công có chìa tổng khi cần.
+
+Tôi nhìn lá bài trên bàn.
+
+— Có camera hành lang không?
+
+— Có. Linh nhờ hành chính giữ file lại đi.
+
+Đây là lần đầu tiên tôi thấy sếp Hòa xử lý Ba Bích như một việc thật cần kiểm tra chứ không phải câu chuyện ma trong series.
+
+Tôi hỏi:
+
+— Chuyện cũ sếp nói hôm trước là gì?
+
+Ông im khá lâu. Sau đó kéo ghế ngồi xuống.
+
+— Âm Dương từng có một cộng tác viên tên Phạm Quốc Bình. Hơn hai mươi năm trước, Bình đi làm một hồ sơ ở miền Trung rồi mất tích. Không tìm được.
+
+— Liên quan Ba Bích?
+
+— Trước chuyến đi, trong một buổi liên hoan có trò rút bài uống phạt. Bình rút ba bích. Chuyện này lúc đó chẳng ai coi là gì.
+
+— Còn sau đó?
+
+— Năm 2006 có Lê Khánh Duy. Duy mất tích ba ngày ở vùng biên rồi tự quay lại. Sau đó nghỉ việc. Trong mấy trang ghi chép để lại có một câu: “Lại là ba bích.”
+
+Tôi nhìn ông.
+
+— “Lại” là ông ấy từng thấy nó trước?
+
+— Tôi không biết. Duy không chịu nói nhiều sau khi về.
+
+— Bây giờ anh ấy ở đâu?
+
+— Mất năm 2014. Tai nạn giao thông.
+
+Căn phòng yên hẳn.
+
+Tôi nhớ cuộc họp hôm nọ, bộ bài còn nguyên hộp, sếp Hòa xé niêm phong trước mặt tất cả mọi người.
+
+— Hôm đó sếp dùng bộ bài vì biết chuyện này à?
+
+Ông lắc đầu ngay.
+
+— Không. Tôi mua nó dưới phố trước giờ họp vì không nghĩ ra cách chia người. Tới lúc cậu rút ba bích tôi mới nhớ Bình với Duy.
+
+— Sao sếp không nói?
+
+Sếp nhìn thẳng tôi.
+
+— Vì cậu sẽ không đi.
+
+Tôi không biết nên bực hay nên thấy ông ít nhất còn chịu nhận.
+
+— Em có quyền biết chứ.
+
+— Ừ. Chuyện đó tôi sai.
+
+Một lời xin lỗi ngắn, không biện hộ. Nó khiến tôi khó nổi nóng hơn.
+
+Chị Linh cầm bức ảnh trong hộp lên.
+
+— Cái này là gì?
+
+Ảnh chụp một gia đình trước căn nhà cấp bốn. Người bố, người mẹ và một cô gái khoảng hai mươi đứng khá cách nhau. Giữa người bố với cô gái là một khoảng trống rộng vừa đủ cho một người.
+
+Mặt sau ghi:
+
+**“Nhà tôi có bốn người.”**
+
+Quang ghé qua cửa, được tôi gọi vào, nhìn ảnh rồi đếm lại.
+
+— Ba người mà.
+
+— Có thể người thứ tư chụp — chị Linh nói.
+
+Tôi chỉ phần kính cửa phía sau. Trong phản chiếu có chân tripod.
+
+Không ai nói thêm.
+
+Tờ giấy gấp đôi chỉ có một địa chỉ email và một câu:
+
+**“Nếu anh còn nhớ tên người trong ảnh sau khi đọc xong, hãy tới gặp tôi.”**
+
+Bên dưới ký:
+
+**NGUYỄN THU HÀ.**
+
+Sếp Hòa trả bức ảnh cho tôi.
+
+— Nếu liên lạc thì không đi một mình. Báo địa chỉ cho Linh trước.
+
+Tôi định trêu ông bắt đầu thương nhân viên, nhưng nhìn lá Ba Bích trên bàn rồi thôi.
+
+— Dạ.
+
+***
+
+Tối đó tôi gửi email cho Hà từ tài khoản công việc.
+
+“Chào chị. Tôi là Huy, tòa soạn Âm Dương. Tôi đã nhận được hộp.”
+
+Thư trả lời tới gần như ngay lập tức.
+
+“Anh còn nhớ trong ảnh có ai không?”
+
+Tôi viết: “Bố, mẹ, chị và một khoảng trống. Tôi chưa biết người còn lại là ai.”
+
+Một lúc sau Hà gửi lại duy nhất một cái tên:
+
+**NGUYỄN MINH KHÔI.**
+
+Tôi đọc một lần.
+
+Rồi một lần nữa.
+
+Cảm giác rất khó tả. Không chóng mặt, không đau đầu. Chỉ là cái tên vừa được mắt tiếp nhận đã bắt đầu trượt khỏi trí nhớ như chữ viết trên kính gặp nước.
+
+Tôi quay sang lấy sổ, viết thật lớn:
+
+**NGUYỄN MINH KHÔI — EM TRAI NGUYỄN THU HÀ.**
+
+Khi đặt bút xuống, tôi nhìn lại điện thoại.
+
+Đoạn chat vẫn còn câu Hà hỏi “Anh chưa quên chứ?”, nhưng tin nhắn chứa cái tên phía trước đã biến mất.
 
 Tôi nhìn cuốn sổ.
 
-Ba chữ trên giấy.
-
 Nguyễn Minh Khôi.
 
-Một cái tên xa lạ.
+Một cái tên tôi vừa viết bằng chính tay mình, vậy mà trong đầu không có gương mặt, giọng nói hay bất cứ cảm giác quen thuộc nào đi kèm.
 
-Tôi không biết người đó là ai.
+Tôi thử chụp trang giấy, gửi vào email cá nhân. Ảnh còn. Chữ còn. Tôi vẫn không nhớ người đó là ai nếu không đọc dòng chú thích phía sau.
 
-Tim bắt đầu đập nhanh.
+Tôi gọi Hà.
 
-Tôi kéo lên lịch sử chat.
-
-Tin nhắn của Hà:
-
-“Anh chưa quên.”
-
-Tin trước đó của tôi:
-
-“Quên ai?”
-
-Tin sau đó...
-
-trống.
-
-Không còn cái tên cô vừa gửi.
-
-Tôi nhìn sổ.
-
-Chữ vẫn còn.
-
-Tôi cầm bút, ghi thêm bên dưới:
-
-EM TRAI CỦA NGUYỄN THU HÀ.
-
-Rồi lấy điện thoại chụp lại.
-
-Gửi cho chính mình qua email.
-
-Một phút sau, tôi mở thư.
-
-Ảnh còn.
-
-Dòng chữ còn.
-
-Tôi vẫn không nhớ Nguyễn Minh Khôi là ai.
-
-Nhưng tôi biết mình đã viết rằng người đó là em trai Hà.
-
-Tôi gọi cho cô.
-
-Hà bắt máy ngay.
-
-Giọng cô rất nhỏ.
+Cô bắt máy ngay.
 
 — Anh Huy?
 
-— Chị Hà. Em trai chị tên gì?
+— Chị Hà, em trai chị tên gì?
 
-Đầu dây bên kia im vài giây.
+Đầu dây im vài giây. Tôi nghe tiếng cô hít vào rất sâu.
 
-Cô bắt đầu khóc.
+— Nguyễn Minh Khôi.
 
-— Cuối cùng cũng có người hỏi lại câu đó.
+Cái tên vừa được nói thành tiếng lại trượt đi gần như ngay lập tức.
 
-Tôi nhìn ba bích trên bàn.
+— Chị nói lại được không?
 
-Ở góc lá bài, vết xước bán nguyệt dường như sâu hơn lúc chiều.
+— Anh quên rồi hả?
 
-— Chị ở đâu?
+Giọng cô căng lên.
 
-Hà đọc một địa chỉ ngoại thành Hà Nội.
+Tôi nhìn cuốn sổ.
 
-Tôi ghi xuống.
+— Không hẳn. Em đọc được tên, nhưng nếu rời mắt là nó... không bám lại.
 
-Trước khi cúp, cô nói:
+Hà không nói gì một lúc. Khi cất tiếng lại, giọng nhỏ hơn.
+
+— Vậy anh giống tôi mấy ngày đầu.
+
+— Khôi mất tích bao lâu rồi?
+
+— Mười ngày. Ngày đầu bố mẹ còn nhớ. Sau đó mọi thứ bắt đầu mất dần.
+
+Tôi ngồi thẳng.
+
+— Chị gửi địa chỉ cho em. Sáng mai em tới. Với cả từ giờ đừng xóa bất cứ đồ gì trong nhà, kể cả thứ chị thấy vô nghĩa.
 
 — Anh Huy.
 
 — Vâng?
 
-— Đừng nói tên em tôi thành tiếng quá nhiều.
+— Đừng nói tên nó quá nhiều nếu không cần.
 
 — Tại sao?
 
-— Vì mỗi lần có người nói...
+Tôi nghe cô nuốt khan.
 
-Giọng cô nghẹn lại.
+— Mỗi lần có người nhắc tên, trong nhà tôi lại mất thêm một thứ chứng minh nó từng ở đó.
 
-— Trong nhà tôi lại mất thêm một thứ chứng minh nó từng tồn tại.
+Tôi nhìn dòng chữ trên cuốn sổ.
+
+Lần này tôi không đùa.
+
+Tôi viết thêm một câu bên dưới:
+
+**SÁNG MAI: KIỂM TRA TRƯỚC KHI GIẢI THÍCH.**
