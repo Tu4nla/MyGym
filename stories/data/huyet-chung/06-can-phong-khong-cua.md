@@ -1,396 +1,230 @@
 # Chương 6 — Căn phòng không cửa
 
-Trung ngủ lúc 04 giờ 26.
-
-Thi biết vì camera hành lang ghi cửa căn hộ an toàn đóng lúc 04 giờ 11, cảm biến không ghi mở thêm, còn đồng hồ hắn chuyển sang trạng thái ngủ sau mười lăm phút.
+Trung ngủ được hơn ba tiếng sau khi rời bệnh viện nơi người đàn ông Hạ Vũ tử vong. Đó là một giấc ngủ nặng, không đẹp nhưng đủ sâu để hắn không nghe tiếng điều hòa, tiếng xe dưới phố hay hai lần Thi nhắn kiểm tra tình trạng.
 
 07 giờ 52, hắn tự tỉnh.
 
-Không ai gọi.
+Điều đầu tiên Trung thấy là mép một tờ giấy trắng lộ ra dưới gối.
 
-Không chuông.
+Hắn nằm im vài giây, không đưa tay tới ngay. Sau những gì đã xảy ra với cầu dao, ký ức và camera, một mẩu giấy trong phòng kín không còn là thứ có thể nhặt lên theo phản xạ.
 
-Không mất điện.
+Trung gọi Thi.
 
-Không có bóng trong kính.
+— Tao có một thứ trong phòng.
 
-Chỉ có một tờ giấy gấp tư nằm dưới gối.
-
-Trung nhìn nó gần một phút trước khi đụng.
-
-Sau đó dùng điện thoại gọi Thi.
-
-— Tao có một thứ.
+Giọng cô tỉnh ngay.
 
 — Đừng chạm.
 
-— Tao chưa.
+— Chưa.
 
-— Camera ngoài cửa có gì không?
+— Mô tả.
 
-— Tao đang ở trong phòng, hỏi tao sao biết.
+— Giấy gấp tư. Nằm dưới gối.
 
-— Ừ. Tao tới.
-
-Trung nhìn tờ giấy.
-
-— Thi.
-
-— Gì?
-
-— Tao nghĩ chữ trên này là của tao.
-
-Đầu dây im.
-
-— Đừng đọc thêm.
-
-— Muộn rồi.
-
-Trên mặt giấy, qua nếp gấp hé ra, có năm cái tên.
-
-A HÙ.
-
-A MÃ.
-
-BÀ CẦM.
-
-PAO SỬ.
-
-NHƯ.
-
-Dòng thứ sáu để trống.
-
-***
-
-Video hành lang xác nhận không ai vào.
-
-Cửa sổ khóa.
-
-Camera trong căn hộ vẫn không có theo thỏa thuận quyền riêng tư.
-
-Một lựa chọn hợp lý hôm qua bỗng trở thành lỗ hổng hôm nay.
-
-Khải không dùng nó để trách.
-
-Anh chỉ hỏi:
-
-— Cậu có từng viết danh sách này trước đây?
-
-Trung lắc.
+— Mày có nhớ để đó không?
 
 — Không.
 
-— Nhận ra giấy?
+Một khoảng im.
 
-— Giấy từ cuốn sổ em mang theo. Để trong ba lô ngoài phòng khách.
+— Tao tới. Đừng đọc thêm.
 
-— Bút?
+Trung nhìn mép giấy.
 
-— Bút bi xanh ở bàn.
+— Muộn một chút rồi.
 
-Tờ giấy được kiểm tra.
+Nếp gấp hé ra đủ để hắn thấy những dòng chữ viết bằng bút bi xanh.
 
-Mực cùng loại với cây bút trên bàn, nhưng chưa đủ để nói cùng cây.
+**A HÙ**
 
-Nét chữ sơ bộ rất giống Trung.
+**A MÃ**
 
-Không có dấu tay lạ.
+**BÀ CẦM**
 
-Điều khó chịu nhất là camera hành lang không thể trả lời câu hỏi xảy ra **bên trong**.
+**PAO SỬ**
 
-Trung hoàn toàn có thể thức dậy lúc ba giờ, ra phòng khách lấy giấy bút, viết, quay lại ngủ và không nhớ.
+**NHƯ**
 
-Đó là lời giải bình thường nhất.
+Dòng thứ sáu không có tên.
 
-Khải chọn nó làm giả thuyết làm việc.
-
-Không ai phản đối.
+Chỉ có một gạch ngang rất ngắn, như người viết đặt bút xuống rồi đổi ý.
 
 ***
 
-Trung nhớ giấc mơ.
+Camera ngoài cửa không ghi ai vào. Cảm biến cửa sổ không báo mở. Phòng ngủ không có camera vì đó là thỏa thuận bảo vệ ban đầu; sau vụ cầu dao, Trung vẫn chưa đồng ý đặt camera ở chỗ ngủ cho tới tối hôm trước Hạ Vũ, khi kế hoạch tác nghiệp đã khiến hắn chuyển địa điểm tạm thời. Đêm này hắn lại ngủ ở một căn hộ dự phòng chưa lắp hệ thống bên trong.
 
-Không ngay lập tức.
+Giấy được lấy bằng găng, chụp tại chỗ rồi niêm phong. Nó đúng loại giấy trong cuốn sổ Trung mang theo. Bút trên bàn là bút bi xanh. Phân tích sơ bộ cho thấy nét chữ rất giống chữ Trung, dù kết luận cuối cần đối chiếu kỹ hơn.
 
-Khi Lan hỏi từng chi tiết, ký ức mới trồi lên từng mảng như ảnh ngâm trong thuốc hiện hình.
+Khải hỏi:
 
-Hắn đứng trong một căn phòng không cửa.
+— Cậu có từng viết năm cái tên này thành danh sách chưa?
 
-Tường đất.
+— Không nhớ đã từng.
 
-Không cửa sổ.
+— Tôi hỏi có ký ức cụ thể không.
 
-Không trần nhìn thấy được.
+Trung sửa lại:
 
-Ánh sáng tới từ đâu đó không xác định.
+— Không có.
 
-Năm người ngồi quanh một cái bàn.
+— Có khả năng cậu thức dậy, lấy giấy bút, viết rồi quay lại ngủ?
 
-Không ai có khuôn mặt rõ.
+— Có.
 
-Nhưng Trung biết tên họ.
+Khải gật.
 
-A Hù thật ngồi bên trái.
-
-A Mã phía đối diện.
-
-Bà Cầm rất già, hai tay đặt trên gậy.
-
-Pao Sử có lòng bàn tay đen.
-
-Như ngồi gần nhất, tóc dài che một phần mặt.
-
-Ghế thứ sáu trống.
-
-Trung đứng.
-
-A Mã nói:
-
-— Ngồi.
-
-— Tao không thích họp không có agenda.
-
-Không ai cười.
-
-Trong mơ Trung vẫn là Trung, điều đó làm hắn thấy đỡ sợ khi kể lại.
-
-Hắn không ngồi.
-
-Như ngẩng mặt.
-
-— Anh không nhớ em à?
-
-— Nhớ.
-
-— Anh chưa từng gặp em khi em còn sống.
-
-Trung khựng.
-
-Đúng.
-
-Hắn chỉ thấy Như ở Hồng Ngài trong vai “Trâm” và sau đó khi danh tính được lộ. Không có một ký ức bình thường nào về Như trước những năm bị Tùng điều khiển.
-
-Như đưa tay.
-
-Trên cổ tay có vết bỏng nhỏ.
-
-Một chi tiết Trung chưa từng biết.
-
-Thi sau này kiểm tra hồ sơ cũ: Như từng bị bỏng nước sôi ở cổ tay năm mười sáu tuổi, ghi trong bệnh án cải tạo.
-
-Thông tin đó chưa ai trong nhóm nói với Trung.
-
-Có thể hắn từng vô tình đọc hồ sơ.
-
-Có thể ký ức bị quên.
-
-Hoặc có thể giấc mơ không dùng ký ức của hắn.
+Đó là giả thuyết bình thường nhất và cũng là giả thuyết khiến Trung khó chịu nhất, bởi nó không cần một ai đột nhập. Chỉ cần chính hắn có một khoảng mình không giữ được.
 
 ***
 
-Trong mơ, A Hù hỏi:
+Giấc mơ trở lại khi Lan hỏi hắn đã thấy gì trước lúc tỉnh.
 
-— Mặt tao ở đâu?
+Không phải câu chuyện hoàn chỉnh. Trung phải nhắm mắt khá lâu mới kéo được từng mảnh ra khỏi cảm giác nặng ở ngực.
 
-Trung không đáp.
+— Một căn phòng. Không có cửa.
 
-Bà Cầm hỏi:
+— Mô tả cái cậu chắc.
 
-— Tiền của tao đâu?
+— Tường đất hoặc màu giống đất. Không thấy cửa sổ. Không biết ánh sáng từ đâu. Có sáu chỗ ngồi quanh một cái bàn thấp.
 
-Pao Sử:
+— Có người không?
 
-— Tay tao cháy vì ai?
+Trung gật.
 
-Như:
+— Năm chỗ có người. Nhưng tao không thấy mặt rõ.
 
-— Em chết lúc mấy giờ?
+Lan không hỏi “ai”. Cô để hắn tự nói.
 
-A Mã không hỏi gì.
+— Tao biết một chỗ là A Hù. Không phải vì nhìn ra mặt. Ở chỗ đó tao có cảm giác da bên má căng rát, như bị kéo. Chỗ A Mã thì mắt trái nhức, có mùi dầu xoa. Bà Cầm… mùi quế. Pao Sử thì bàn tay nóng như vừa chạm than. Như thì có khói và cảm giác cổ tay bị giữ rất chặt.
 
-Ông chỉ nhìn chiếc ghế trống.
+Thi đứng cạnh tường, tay khoanh trước ngực.
 
-Trung nổi cáu.
+— Còn ghế thứ sáu?
 
-— Mấy người muốn gì?
+Trung lắc.
 
-Năm người cùng quay sang hắn.
+— Trống. Nhưng tao cứ có cảm giác nếu nhìn lâu thì sẽ có người ngồi ở đó.
 
-Miệng không mở cùng lúc.
+— Có ai nói gì với mày không? — Lan hỏi.
 
-Nhưng giọng vang cùng lúc:
+— Không nhớ câu nào rõ. Chỉ có một cảm giác rất mạnh là thiếu một thứ.
 
-— **Tên.**
+— Thiếu người?
 
-— Tên ai?
+— Không biết.
 
-A Mã chỉ ghế trống.
+Lan gật ngay.
 
-— Của nó.
+— Vậy giữ nguyên là “thiếu một thứ”. Đừng sửa thành “thiếu người” chỉ vì có ghế trống.
 
-Trung nhìn.
+Trung thở ra.
 
-Trên ghế có một cái bóng ngồi từ lúc nào.
+— Mày làm nghề này khó chịu thật.
 
-Không mặt.
-
-Không tay chân rõ.
-
-Chỉ có hình người.
-
-— Tao không biết nó là ai.
-
-Như cười buồn.
-
-— Vì nó chưa là ai.
-
-Trung tỉnh.
-
-Tờ giấy dưới gối.
-
-Năm tên.
-
-Dòng thứ sáu trống.
+— Cảm ơn.
 
 ***
 
-Huy nghe xong không nói gì gần nửa phút.
+Họ không gọi năm hình đó là năm linh hồn.
 
-Đó là thời gian dài bất thường đối với anh.
+Khải yêu cầu lập một bảng rất đơn giản: **thứ Trung kể trước** ở một cột; **thứ hồ sơ có thể xác minh** ở cột khác; và **nguồn Trung từng có khả năng tiếp cận** ở cột thứ ba.
+
+Mùi dầu xoa của A Mã xuất hiện trong lời Huy kể về căn nhà Pá Tra, nên không mới.
+
+Vết cháy của Pao Sử đã nằm trong hồ sơ Hồng Ngài.
+
+Mùi quế của bà Cầm chưa từng được nhóm nhắc tới theo trí nhớ của Thi, nhưng hồ sơ y tế địa phương có ghi bà từng phản ứng mạnh với tinh dầu quế. Trung có thể chưa đọc, cũng có thể từng lướt qua trong một tập tài liệu mà quên nguồn.
+
+Cảm giác cổ tay bị siết ở Như không có cách xác minh độc lập.
+
+Với A Hù thật, cảm giác kéo da mặt có thể đơn giản là trí não Trung ráp từ việc biết thi thể mất mặt.
+
+Kết quả không tạo thành một phép màu đẹp đẽ. Nó chỉ cho thấy trong đầu Trung đang có những mảnh mà hắn không còn biết xuất phát từ đâu.
+
+Huy nghe xong, ngồi im gần nửa phút.
 
 Quỳnh hỏi:
 
 — Mày nghĩ gì?
 
-— Một thứ không có tên.
+— Tao nghĩ nếu mình gọi hết những cái này là ký ức của người chết, mình sẽ bỏ qua một khả năng rất chán là Trung từng đọc nhiều hơn nó nhớ.
 
-Lan nhìn Huy.
+Lan nhìn anh.
 
-— Người Không Có Tên?
+— Cryptomnesia.
 
-— Không giống case Khôi. Ở đó người ta bị xóa tên. Cái này...
+— Ừ. Và tao cũng nghĩ nếu mọi chi tiết đều giải bằng cryptomnesia thì mình đang dùng một từ khoa học để che chỗ chưa biết.
 
-Huy chạm ngón tay vào mép bản scan tờ giấy.
+Khải gõ bút xuống bàn.
 
-— Có vẻ như nó **đang cần một cái tên để thành một thứ riêng**.
-
-Khải hỏi:
-
-— Có căn cứ nào ngoài giấc mơ?
-
-— Không.
-
-— Vậy chưa dùng làm kết luận.
-
-Huy gật.
-
-— Em biết.
-
-Lần này không cãi.
+— Hai câu đó đều dùng được. Chưa cần câu thứ ba.
 
 ***
 
-Cùng ngày, bác sĩ Thành báo một phát hiện mới ở ba thi thể.
+Cùng ngày, pháp y báo một cầu nối vật chất mới. Trong máu cả ba nạn nhân Hưng, Cường và Thành đều có lượng nhỏ các marker hữu cơ gần nhóm HN-23 từng thu ở Hồng Ngài. Nồng độ khác nhau, tạp chất khác nhau, chưa đủ để nói cùng một mẻ hay cùng cách đưa vào cơ thể.
 
-Không phải dấu thương tích.
+Bác sĩ Thành nói rất rõ:
 
-Trong máu cả ba nạn nhân có một lượng rất nhỏ hợp chất gần nhóm HN-23.
+— Chúng tôi có thể nói ba mẫu chia sẻ một số nhóm chất. Không thể nói “đều bị đầu độc bằng Huyết Ngải”.
 
-Khác nồng độ.
+Khải gật.
 
-Khác tạp chất.
+— Thế là đủ.
 
-Nhưng cùng ba marker hữu cơ.
+Nếu hung thủ là người, hắn đang mang hoặc tiếp cận một vật liệu nối về Hồng Ngài.
 
-Thi hỏi:
+Nếu có một cơ chế khác, nó vẫn đang đi cùng một dấu vật chất.
 
-— Đưa vào bằng cách nào?
+Cả hai hướng đều quay về câu hỏi cũ:
 
-— Chưa rõ. Qua miệng, hít, tiêm, tiếp xúc vết thương đều có thể tùy chất.
-
-— Thời điểm?
-
-— Có vẻ gần lúc chết.
-
-Khải nhìn sơ đồ.
-
-— Vậy ít nhất có một thứ vật chất đi cùng chuỗi án.
-
-Điều này quan trọng.
-
-Nếu hung thủ là người, hắn đang mang một chất liên quan Hồng Ngài.
-
-Nếu hiện tượng siêu nhiên tồn tại, nó vẫn để lại một cây cầu vật chất.
-
-Cả hai hướng đều dẫn tới cùng câu hỏi:
-
-**lọ bột ở đâu?**
+**Chiếc lọ ở đâu?**
 
 ***
 
-Buổi chiều, Trung được hỏi lại ký ức ngày 24/9/2019.
+Buổi chiều, Trung được phỏng vấn lại về sáng 24 tháng 9. Một điều tra viên khác không tham gia xây giả thuyết thực hiện buổi hỏi để giảm ám thị.
 
-Không ám thị.
+— Sau khi Tùng chết, anh xuống hầm mấy lần?
 
-Không nói trước về ảnh 06:42–06:47.
+— Ít nhất hai. Có thể ba.
 
-Một điều tra viên khác không biết giả thuyết chính thực hiện phỏng vấn để giảm thiên kiến.
+— Anh mang gì?
 
-— Sau khi Tùng chết, anh làm gì?
+— Túi niêm phong, đèn pin. Có lần cầm thẻ nhớ đưa kỹ thuật.
 
-— Hỗ trợ đưa người ra. Sau đó xuống hầm vài lần.
+— Anh có nhặt một lọ thủy tinh nắp đen không?
 
-— Có cầm vật gì?
-
-— Túi niêm phong. Đèn pin. Một lần cầm thẻ nhớ đưa kỹ thuật.
-
-— Có nhặt lọ thủy tinh?
-
-Trung im.
+Trung nhìn mặt bàn một lúc.
 
 — Tôi không nhớ.
 
 — Có thể đã nhặt?
 
-— Có thể.
+— Có.
 
-— Nếu nhặt, anh làm gì?
+— Nếu nhặt, anh sẽ làm gì theo quy trình?
 
-— Theo quy trình thì bỏ vào túi, đánh dấu, giao kỹ thuật.
+— Gọi người chụp hiện trạng nếu chưa chụp, đánh số, cho vào túi rồi giao.
 
-— Anh có làm?
-
-— Danh mục không có.
-
-— Tôi hỏi anh nhớ không.
-
-Trung nhìn xuống bàn.
+— Anh có nhớ đã làm các bước đó không?
 
 — Không.
 
-Không phủ nhận.
+Điều tra viên không ép hắn đổi “không nhớ” thành “không làm”.
 
-Không khẳng định.
+Khi ra khỏi phòng, Thi đang đứng cạnh máy bán nước.
 
-***
-
-Sau buổi hỏi, Thi chờ hắn ngoài hành lang.
-
-Trung đi ra, nhìn thấy nó.
+Trung nhìn cô.
 
 — Mày đứng đây làm gì?
 
 — Chờ.
 
-— Tao tưởng mày tránh tham gia phỏng vấn.
+— Tao tưởng mày tránh buổi hỏi.
 
-— Tao có tham gia đâu.
+— Tao có vào đâu.
 
-Hai người đi tới máy bán nước.
-
-Trung mua cà phê lon.
-
-Thi giật khỏi tay.
+Hắn bấm cà phê lon. Thi giật lon khỏi khe trước.
 
 — Mày đang mất ngủ.
 
@@ -400,7 +234,7 @@ Thi giật khỏi tay.
 
 — Logic độc tài.
 
-Thi mở lon uống một ngụm.
+Thi mở lon, uống một ngụm.
 
 Trung nhìn.
 
@@ -408,63 +242,55 @@ Trung nhìn.
 
 — Tao không mất trí nhớ.
 
+Hắn buột miệng:
+
 — Chưa.
 
-Thi dừng.
+Thi dừng lại.
 
-Trung nhận ra mình nói sai.
+Trung biết ngay câu đó đi quá xa.
 
 — Xin lỗi.
 
-Thi đưa lon lại.
+Cô đưa lon lại nhưng không bỏ đi.
 
 — Tao sợ.
 
-Hắn không đùa.
+Lần này Trung không tìm câu đùa.
 
 — Tao biết.
 
-— Tao không sợ mày giết tao.
+— Không phải sợ mày giết tao.
 
-Trung nhìn nó.
+— Nghe cũng an ủi.
 
-— Cảm ơn?
+— Tao sợ tới lúc nào đó mày không biết một suy nghĩ trong đầu là của mày hay chỉ là thứ đi ngang qua.
 
-— Tao sợ tới lúc nào đó mày không còn biết cái gì là suy nghĩ của mày nữa.
-
-Hắn nhìn lon cà phê.
+Trung nhìn lon cà phê lạnh trong tay.
 
 — Tao cũng sợ cái đó.
 
-Một khoảng yên.
+Hai đứa đứng im một lúc.
 
 Thi hỏi:
 
-— Nếu mày nhớ ra mày lấy lọ thì sao?
+— Nếu mày nhớ ra mày đã lấy lọ thì sao?
 
 — Tao nói.
 
-— Kể cả biết nói ra có thể khiến mày bị bắt?
+— Kể cả biết nói ra có thể làm mày từ người được bảo vệ thành người bị xử lý?
 
-— Ừ.
+Trung định đáp ngay rồi dừng.
 
-— Chắc?
+— Tao muốn nói “chắc chắn” cho đẹp. Nhưng nếu tới lúc đó tao hoảng thật, tao không biết tao sẽ làm gì.
 
-Trung nhìn nó.
+Thi nhìn hắn.
 
-— Không.
+— Vậy mày hứa cái gì được?
 
-Thi khẽ cau.
+— Nếu tao bắt đầu giấu, đừng tin tao chỉ vì mày muốn tin.
 
-Hắn nói tiếp:
-
-— Tao muốn nói “chắc” cho đẹp. Nhưng nếu tới lúc đó tao thật sự hoảng, tao không biết tao sẽ làm gì. Nên tao chỉ hứa một việc.
-
-— Gì?
-
-— Nếu tao bắt đầu giấu, mày đừng tin lời tao chỉ vì mày muốn tin.
-
-Thi siết lon nước.
+Thi siết lon nước trong tay hắn một cái rồi buông.
 
 — Tao ghét mày nói mấy câu có lý.
 
@@ -474,71 +300,35 @@ Thi siết lon nước.
 
 ***
 
-Đêm đó, họ đặt camera trong căn hộ an toàn.
+Đêm đó, Trung đồng ý đặt camera trong phòng ngủ của căn hộ an toàn mới. Ba góc, một camera hồng ngoại, cảm biến chuyển động và microphone độc lập. Hắn đọc kỹ giấy đồng ý trước khi ký.
 
-Có sự đồng ý của Trung bằng văn bản.
+— Nếu có bản thân khác thức dậy lúc tao ngủ thì ít nhất lần này cho nó lên hình đẹp.
 
-Ba góc.
+Thi nhìn áo thun cũ của hắn.
 
-Không góc chết chính.
-
-Một camera hồng ngoại.
-
-Cảm biến chuyển động.
-
-Trung tự nói:
-
-— Nếu tao đi ngủ mà có bản thân khác thức dậy thì ít nhất lần này cho nó lên hình đẹp.
-
-Thi:
-
-— Mày mặc áo tử tế vào.
+— Mày mặc tử tế trước đi.
 
 — Lo hình tượng chồng tương lai hả?
 
 — Tao rút camera bây giờ.
 
-Khải đi ngang cửa nghe được, lắc đầu.
+Trung cười, và lần này Thi cũng cười được một tiếng rất ngắn.
 
-***
+02 giờ 13, camera ghi hắn ngủ.
 
-02 giờ 13.
+02 giờ 21, nhịp tim tăng từ 58 lên hơn 90 nhưng cơ thể chỉ trở mình một lần.
 
-Camera ghi Trung ngủ.
+02 giờ 23, Trung bắt đầu nói mơ.
 
-02 giờ 18.
-
-Hắn trở mình.
-
-02 giờ 21.
-
-Nhịp tim tăng từ 58 lên 92.
-
-Nhưng cơ thể vẫn nằm.
-
-02 giờ 22.
-
-Camera số hai nhiễu.
-
-Không mất hình.
-
-Chỉ xuất hiện một dải tối đứng cạnh giường.
-
-02 giờ 23.
-
-Trung bắt đầu nói trong ngủ.
-
-Microphone thu rõ.
-
-Một giọng.
-
-Là giọng Trung.
+Microphone thu rõ chính giọng hắn.
 
 — A Hù.
 
-Năm giây.
+Một khoảng.
 
 — A Mã.
+
+Rồi từng tên còn lại:
 
 — Cầm.
 
@@ -546,105 +336,43 @@ Năm giây.
 
 — Như.
 
-Rồi im.
+Hắn không đổi giọng. Không có âm thứ hai chen vào. Camera hồng ngoại chỉ ghi một cơ thể nằm trên giường.
 
-Dải tối cạnh giường cúi xuống.
+Sau năm cái tên, Trung im gần hai mươi giây. Nhịp tim lên 104.
 
-Không ai trong phòng điều khiển quan sát trực tiếp lúc đó vì hệ thống chỉ cảnh báo khi có chuyển động vật lý; dải hình ảnh không kích cảm biến.
+Rồi hắn nói thêm, vẫn bằng giọng mình:
 
-Sáng họ mới thấy.
+— Còn một chỗ.
 
-02 giờ 24.
+Không “còn tao”. Không có ai trả lời.
 
-Trung nói lần nữa.
-
-Nhưng waveform khác.
-
-Giọng vẫn phát từ miệng hắn.
-
-Âm sắc thấp hơn một chút.
-
-Không giống đủ một người cụ thể.
-
-Nó nói:
-
-— **Còn tao.**
-
-Camera số hai mất hình đúng một frame.
-
-Khi trở lại, cái bóng đã biến mất.
-
-Trung ngủ tới sáng.
+Nhịp tim giảm dần. Trung ngủ tới sáng.
 
 ***
 
-Huy nghe đoạn ghi âm tám lần.
+Khải cho lưu đoạn ghi với mã HC-AUD-06. Bản chép lời chính thức chỉ có sáu dòng: năm tên và câu **“Còn một chỗ.”**
 
-Lần thứ chín, Khải giật tai nghe khỏi tay.
+Huy nghe ba lần rồi trả tai nghe, không đòi lần thứ tư.
 
-— Đủ.
-
-— Em đang phân tích.
-
-— Cậu đang ám ảnh.
-
-Huy không giành lại.
-
-Anh nhìn waveform.
-
-— Em từng nghe kiểu này.
-
-Quỳnh:
-
-— Cassette?
-
-Huy gật.
-
-— Không phải âm sắc. Cách câu chữ... như một thứ dùng giọng của người đang nghe hoặc đang nói.
+— Nó giống giấc mơ hơn là một người khác nói qua miệng Trung.
 
 Lan hỏi:
 
-— Mày nghĩ cái cassette và thứ trong Trung là một?
+— Mày chắc?
 
-— Không.
+— Không. Nhưng tao không muốn một khác biệt âm sắc bé tí bị kể thành “giọng thứ sáu” chỉ vì mình đã chờ nó xuất hiện.
 
-— Sao chắc?
+Khải nhìn anh một giây.
 
-— Không chắc. Nhưng nếu cứ thấy hai thứ kỳ lạ rồi nhập làm một thì mình sẽ tự viết truyện thay vì điều tra.
-
-Khải nhìn Huy một giây.
-
-— Câu này đáng ghi lại.
-
-Huy:
+— Tiến bộ.
 
 — Anh đừng làm em xúc động.
 
-***
-
-Đoạn ghi âm được giữ với mã HC-AUD-06.
-
-Trong bản chép lời chính thức chỉ có sáu dòng.
-
-Năm tên.
-
-Và:
-
-“Còn tao.”
-
-Không ai đặt tên cho giọng thứ sáu.
-
-Chưa.
-
-Nhưng tối hôm đó, khi Quỳnh về tòa soạn để lấy tài liệu, nó thấy Huy ngồi một mình trước bàn.
-
-Trên màn hình là một file Word trắng.
-
-Tiêu đề:
+Tối đó ở tòa soạn, Huy mở một file trắng. Anh gõ tiêu đề:
 
 **NGƯỜI THỨ SÁU**
 
-Quỳnh đứng sau lưng.
+Quỳnh đứng phía sau đọc được.
 
 — Mày định đăng?
 
@@ -654,24 +382,18 @@ Quỳnh đứng sau lưng.
 
 Huy nhìn con trỏ nhấp nháy.
 
-— Để nếu nó cần một cái tên...
+— Vì đầu tao cứ muốn biến một khoảng trống thành một nhân vật. Viết ra để biết mình đang làm thế.
 
-Anh không nói hết.
+Quỳnh kéo ghế ngồi cạnh.
 
-Quỳnh hiểu ý.
+— Rồi?
 
-— Đừng đặt tên cho thứ mình chưa hiểu.
+Huy giữ tay trên bàn phím thêm vài giây, sau đó bôi đen tiêu đề và xóa.
 
-Huy quay sang.
+— Rồi chưa đặt tên.
 
-— Tao biết.
+Anh đóng file không lưu.
 
-Anh đóng file.
+Không có dòng chữ nào tự hiện thêm.
 
-Nhưng trước khi màn hình tắt, Quỳnh nhìn thấy dưới tiêu đề có một dòng mà Huy khẳng định mình chưa gõ.
-
-**TÊN KHÔNG PHẢI THỨ MÀY CHO TAO.**
-
-Dòng dưới tự hiện thêm.
-
-**TÊN LÀ THỨ MÀY NHỚ.**
+Chỉ còn màn hình trắng và hình hai người phản chiếu mờ trên lớp kính tối.
