@@ -1,130 +1,110 @@
-Chiếc điện thoại không sáng lần nữa.
+Chiếc điện thoại nắp gập không sáng thêm lần nào nữa.
 
-Quỳnh thử bấm nguồn, tháo nắp sau, tháo pin rồi lắp lại. Không phản ứng. Cục pin phồng nhẹ ở giữa, phần tiếp xúc đã xỉn màu. Với tình trạng đó, nó không hiểu bằng cách nào màn hình vừa hiện được bốn con số.
+Quỳnh thử giữ nút nguồn, tháo nắp sau, rút viên pin ra rồi lắp lại. Cục pin đã phồng nhẹ ở giữa, phần kim loại tiếp xúc xỉn màu; chỉ nhìn cũng đủ biết nó không còn ở trạng thái có thể hoạt động bình thường. Vậy mà chiều hôm trước, giữa căn phòng không có ai khác, màn hình ngoài đã sáng lên đúng một giây và hiện bốn con số.
 
 03:07.
 
-Nó ghi con số vào mặt sau một tờ giấy nháp rồi nhét tờ giấy vào ví.
+Quỳnh lấy một tờ giấy nháp, ghi giờ đó vào mặt sau rồi gấp lại nhét trong ví. Làm xong nó tự thấy hơi buồn cười. Một dòng mực không thể chứng minh rằng thứ nó nhìn thấy là thật. Nhưng Quỳnh bắt đầu nhận ra mình có một thói quen khó bỏ: càng sợ một chuyện, nó càng muốn giữ lại thật rõ, như thể chỉ cần ghi được ngày giờ, vị trí và ai có mặt thì nỗi sợ sẽ bớt quyền tự biến thành thứ gì nó muốn.
 
-Một hành động hơi buồn cười, vì chẳng có gì đảm bảo chính mắt nó vừa nhìn thấy là thật.
-
-Nhưng Quỳnh bắt đầu nhận ra mình có một tật: càng sợ thứ gì, nó càng muốn lưu lại thứ đó cho rõ.
-
-Nếu ngày mai nó tự thuyết phục rằng chuyện chiều nay chỉ là ảo giác, ít nhất vẫn còn nét bút của hôm nay để cãi lại.
+Nếu vài hôm nữa Quỳnh tự thuyết phục mình rằng chiếc máy chưa từng sáng, ít nhất vẫn còn nét bút hôm nay để nhắc rằng vào lúc viết dòng đó, nó đã tin mình nhìn thấy.
 
 ***
 
-Ngày 4 tháng 9, trời vẫn mưa.
+Ngày 4 tháng 9, trời tiếp tục mưa.
 
-Không phải mưa rào, chỉ là thứ mưa phùn dai dẳng khiến hành lang lúc nào cũng ẩm và quần áo phơi ba ngày không khô nổi. Từ cửa sổ phòng 201 nhìn xuống, sân sau trường phủ một lớp sương mỏng. Cây chôm chôm chỉ còn là một khối đen đậm hơn nền xám phía sau.
+Không phải mưa rào mà là thứ mưa phùn dai dẳng khiến hành lang lúc nào cũng ẩm, quần áo phơi từ hôm trước chạm vào vẫn lạnh và ngai ngái mùi xà phòng chưa khô. Từ cửa sổ phòng 201 nhìn xuống, sân sau phủ một lớp hơi nước mỏng, cây chôm chôm ở góc vườn chỉ còn là một khối đen sẫm hơn nền trời xám.
 
-Buổi chiều, bảy đứa kia kéo nhau sang phòng học nhóm chuẩn bị kiểm tra đầu năm.
+Buổi chiều, Hân kéo cả phòng sang lớp học nhóm để chuẩn bị bài kiểm tra đầu năm. Quỳnh bảo vẫn còn đau đầu nên ở lại. Thật ra đầu nó đã đỡ từ sáng; nó chỉ muốn căn phòng yên một lúc để gọi cho Quân.
 
-Quỳnh ở lại vì đau đầu.
+Điện thoại đổ chuông ba lần anh mới bắt máy. Phía bên kia ồn đến mức Quỳnh phải áp sát máy vào tai mới nghe rõ tiếng Quân chen giữa tiếng máy may công nghiệp và tiếng ai đó đang gọi tên anh.
 
-Thật ra đầu nó đã đỡ.
+— Alo. Mới đi có mấy bữa đã gọi giờ này, hết tiền rồi hả?
 
-Nó chỉ muốn có một tiếng yên tĩnh để gọi cho Quân.
+Giọng Quân vẫn cái kiểu trêu em như ở nhà. Chỉ nghe vậy thôi, chuỗi suy luận Quỳnh tự dựng từ nửa tấm ảnh hôm qua đã có vẻ ngớ ngẩn đi một nửa.
 
-Điện thoại đổ chuông ba lần anh mới bắt máy.
+— Anh đang ở đâu?
 
-— Alo? Bé heo mới nhập trường ba ngày đã nhớ anh hả?
+— Ở xưởng. Đang ráp mẫu, ồn lắm. Có chuyện gì không?
 
-Chỉ nghe giọng Quân, Quỳnh đã thấy chuỗi suy luận hôm qua trở nên ngớ ngẩn hơn một nửa.
+Quỳnh ngồi dựa lưng vào tường, mắt nhìn cuốn sách Văn đặt trên bàn.
 
-— Anh đang đâu vậy?
-
-— Xưởng. Sao?
-
-Phía đầu dây bên kia có tiếng máy may công nghiệp chạy rền và ai đó gọi Quân lấy mẫu vải.
-
-— Em hỏi cái này.
+— Em hỏi anh cái này nha.
 
 — Hỏi đi.
 
-Quỳnh im một nhịp.
+Nó định vào thẳng vấn đề nhưng đến lúc mở miệng lại chậm mất một nhịp.
 
 — Anh có biết chị Lê Thị Yến Trang không?
 
-Tiếng máy may vẫn chạy.
+Tiếng máy ở đầu dây bên kia vẫn chạy. Quân thì im.
 
-Nhưng Quân không trả lời ngay.
+Khoảng dừng không dài, chỉ hai ba giây, nhưng Quỳnh nghe rất rõ vì ngay trước đó anh còn trả lời gần như lập tức.
 
-Hai giây.
+— Em nghe tên Trang ở đâu?
 
-Có thể ba.
+Quỳnh ngồi thẳng dậy. Anh không hỏi “Trang nào”.
 
-— Sao tự nhiên hỏi Trang?
+— Vậy là anh biết chị ấy.
 
-Quỳnh ngồi thẳng dậy.
+Quân thở ra, tiếng thở bị tiếng máy may nuốt mất một nửa.
 
-Anh không hỏi “Trang nào”.
-
-— Vậy là anh biết.
-
-Quân thở ra.
-
-— Học cùng khóa. Bạn cũ. Sao?
+— Học cùng khóa. Bạn cũ. Sao tự nhiên em hỏi?
 
 — Thân không?
 
 — Quỳnh.
 
-Giọng anh đổi.
+Giọng anh trầm xuống. Không phải giọng cáu, nhưng là cái giọng Quân dùng mỗi lần muốn em gái thôi vòng vo.
 
-Không cáu, nhưng nghiêm hơn.
+— Em đang ở đâu? Ai kể cho em chuyện Trang?
 
-— Ai kể em chuyện đó?
+Quỳnh nhìn quanh căn phòng.
 
 — Em ở phòng 201.
 
-Đầu dây im hẳn.
+Đầu dây bên kia im hẳn.
 
-Lần này lâu hơn.
+— Em nói lại anh nghe coi.
 
-— Em nói lại coi.
+— Phòng 201. Ký túc xá nữ. Giường trong cùng sát nhà vệ sinh.
 
-— Phòng 201. Ký túc xá nữ. Giường cạnh toilet.
+Quân chửi rất nhỏ một tiếng. Ở nhà anh hiếm khi nói vậy trước mặt mẹ, nên Quỳnh càng thấy bụng mình nặng xuống.
 
-Quân chửi rất nhỏ một tiếng mà bình thường ở nhà anh không bao giờ nói trước mặt mẹ.
+— Trường mở lại phòng đó rồi hả?
 
-— Nhà trường mở lại phòng đó rồi hả?
-
-— Anh biết phòng đó?
+— Anh biết phòng này?
 
 — Biết.
 
-— Chị Trang từng ngủ đúng giường em.
+— Chị Trang từng ngủ đúng giường em, đúng không?
 
-— Anh biết.
+Lần này Quân không vòng tránh.
 
-Quỳnh nhìn vào khoảng không trước mặt.
+— Ừ.
 
-Một cảm giác khó chịu bò lên từ dạ dày.
+Quỳnh nhìn bức tường trước mặt, đầu ngón tay vô thức cào nhẹ vào mép ốp điện thoại.
 
-— Tại sao anh chưa bao giờ kể?
+— Sao anh chưa bao giờ kể?
 
-— Có gì đáng để kể đâu.
+— Tự nhiên anh kể chuyện đó cho em làm gì? Hồi đó em còn nhỏ. Sau này nhà cũng chẳng ai muốn nhắc lại.
 
 — Người ta nói chị ấy bị giết.
 
 — Đúng.
 
-— Và có thai.
+— Lúc chết đang có thai gần hai tháng.
 
-Quân im lặng.
+Quân không đáp. Quỳnh nghe có người ở xưởng gọi anh lần nữa, rồi tiếng bước chân Quân di chuyển sang chỗ ít ồn hơn.
 
-— Anh có biết ai làm chị ấy có thai không?
-
-Lần này Quân đáp ngay:
+— Anh có biết ba đứa bé là ai không?
 
 — Không.
 
-Quỳnh không biết vì sao, nhưng câu trả lời quá nhanh ấy khiến nó không yên tâm.
+Câu trả lời đến nhanh hơn những câu trước. Có thể Quân đã nghĩ về chuyện ấy quá nhiều nên không cần suy nghĩ; cũng có thể vì một lý do khác. Quỳnh không biết, và chính việc không biết khiến nó khó chịu.
 
-— Em muốn gặp anh.
+— Cuối tuần anh qua trường được không? Em muốn gặp anh.
 
-— Cuối tuần anh qua.
+— Được. Anh qua.
 
 — Em có cái này muốn cho anh coi.
 
@@ -132,309 +112,225 @@ Quỳnh không biết vì sao, nhưng câu trả lời quá nhanh ấy khiến n
 
 Quỳnh nhìn cuốn sách Văn đang kẹp nửa tấm ảnh.
 
-— Cuối tuần rồi nói.
+— Gặp rồi em đưa.
 
-Bên ngoài cửa phòng có tiếng bước chân.
+Ngoài hành lang có tiếng bước chân, Quỳnh tưởng mấy đứa kia về nên quay đầu nhìn cửa.
 
-Quỳnh quay lại.
+— Thôi anh làm tiếp đi.
 
-— Thôi anh làm đi.
-
-— Khoan. Quỳnh.
+— Khoan đã, Quỳnh.
 
 — Gì?
 
-— Đừng tự ý đào bới gì ở sau ký túc. Nếu có chuyện lạ thì gọi anh trước.
+Quân im một chút, sau đó nói chậm hơn:
 
-Tim Quỳnh hụt một nhịp.
+— Em ở phòng đó thì cẩn thận. Có nghe chuyện gì cũng đừng tự đi ra sau vườn đào bới linh tinh. Có gì gọi anh trước, hiểu chưa?
+
+Ngón tay Quỳnh đang cầm điện thoại lạnh đi.
 
 — Sao anh biết em đào?
 
-Đầu dây bên kia im bặt.
+Sự im lặng lần này rõ ràng đến mức ngay cả tiếng máy may phía xa cũng trở nên chói tai.
 
-Rồi Quân nói:
+— Anh có biết gì đâu — Quân nói. — Anh đoán thôi. Học sinh mới nghe chuyện cũ, lại ở đúng cái phòng đó, kiểu gì chẳng tò mò.
 
-— Anh đoán. Mấy đứa mới nghe chuyện ma thường tò mò.
+Lời giải thích nghe hợp lý. Chính vì hợp lý nên Quỳnh càng không biết mình có quyền nghi hay không.
 
-Một tiếng người gọi anh vang lên.
+Một người ở xưởng gọi Quân lớn hơn. Anh đáp vọng lại, rồi trở về cuộc gọi:
 
-— Anh làm đây. Tối gọi lại.
+— Anh làm tiếp đây. Tối rảnh anh gọi em. Với lại, đừng tự dọa mình quá. Cuối tuần anh qua rồi nói chuyện.
 
-Cuộc gọi tắt.
+Cuộc gọi kết thúc.
 
-Quỳnh nhìn màn hình.
+Quỳnh vẫn ngồi cầm máy thêm một lúc. Nó có thể chấp nhận chuyện Quân biết Trang, biết phòng 201, thậm chí biết những lời đồn quanh khu vườn. Anh từng học ở đây. Điều khiến nó mắc lại chỉ là câu “đừng đào bới”.
 
-Nó không thích câu “anh đoán”.
+Anh có thể đoán thật.
+
+Nhưng Quỳnh không thích việc mình phải dùng chữ “có thể” nhiều đến vậy khi nghĩ về anh trai.
 
 ***
 
-Tiếng gõ cửa vang lên lúc 16:47.
+Khoảng 16 giờ 47, có người gõ cửa.
 
-Ba tiếng chậm.
+Ba tiếng, chậm và đều.
 
-Cốc.
+Quỳnh vừa cất điện thoại xuống đã đứng dậy. Nó nghĩ Hân với mấy đứa kia học chán nên về sớm, nhưng khi mở cửa, người đứng ngoài lại là một cô gái lạ.
 
-Cốc.
+Cô khoảng mười tám, mười chín tuổi, tóc đen dài gần ngang lưng, gương mặt thanh nhưng nhợt như người vừa qua một trận sốt. Trên người là áo sơ mi trắng và quần đen, kiểu đồng phục cũ mà Quỳnh từng thấy trong mấy tấm ảnh treo ở phòng truyền thống của trường. Vai áo cô thấm mưa, vài sợi tóc dính lên má.
 
-Cốc.
-
-Quỳnh tưởng bọn Hân về sớm.
-
-Nó mở cửa.
-
-Một cô gái đứng ngoài hành lang.
-
-Khoảng mười tám, mười chín tuổi. Tóc dài ngang lưng, gương mặt thanh tú nhưng tái nhợt như người vừa ốm dậy. Cô mặc áo sơ mi trắng và quần đen, kiểu đồng phục cũ của trường vài năm trước.
-
-Hai vai áo ướt mưa.
-
-Nhưng dưới chân cô không có vệt nước.
-
-Chi tiết ấy Quỳnh chỉ nhận ra về sau.
-
-Lúc đó, nó chỉ thấy một người lạ đang cười hơi ngượng.
-
-— Em ở phòng này hả?
+— Em ở 201 hả? — cô hỏi.
 
 — Dạ.
 
-— Chị vào ngồi nhờ chút được không? Chị đợi bạn bên 203 mà nó chưa về.
+— Cho chị ngồi nhờ chút được không? Chị chờ bạn bên 203 mà nó chưa về, ngoài này lạnh quá.
 
-Quỳnh nhìn hành lang.
+Giọng nói bình thường đến mức Quỳnh không nghĩ gì khác. Nó né sang một bên.
 
-Không có ai.
+— Dạ, chị vào đi.
 
-— Dạ, vào đi chị.
+Cô gái bước qua ngưỡng cửa. Quỳnh khép cửa lại rồi mới vô tình nhìn xuống nền gạch. Ngoài hành lang đang ướt, hai vai cô cũng ướt, vậy mà chỗ cô vừa đi qua không hề có dấu dép hay giọt nước nào.
 
-Cô gái bước qua ngưỡng cửa.
+Quỳnh còn đang tự hỏi mình có nhìn nhầm không thì cô gái đã đi tới phía giường của Trâm, ngồi xuống mép tầng dưới.
 
-Quỳnh khép cửa.
-
-— Chị tên gì?
+— Chị tên gì để lát bạn về em gọi giùm?
 
 — Quyên.
 
-Tay Quỳnh dừng trên chốt.
+Bàn tay Quỳnh đang đặt trên chốt cửa dừng lại.
 
-Cô gái đã đi tới giường Trâm, ngồi xuống mép tầng dưới như thể không nhận ra sự thay đổi trên mặt Quỳnh.
+— Chị… họ gì vậy chị?
 
-— Quyên nào chị?
+Cô gái hơi nghiêng đầu, có vẻ không hiểu sao một đứa mới gặp lại hỏi kỹ đến thế.
 
-Cô nghiêng đầu.
+— Nguyễn Ngọc Quyên. Chị 12A4.
 
-— Nguyễn Ngọc Quyên. 12A4.
+Quỳnh nghe tim mình đập mạnh thêm một nhịp.
 
-Quỳnh nghe rõ tiếng tim mình.
+— Chị học 12A4 khóa nào?
 
-— Chị... học lớp mười hai năm nào?
+Quyên cười nhạt.
 
-Quyên cười.
+— Em hỏi kỳ vậy. Năm 2009.
 
-— Em hỏi lạ vậy.
+Ngoài trời lóe lên một vệt chớp, một lúc sau tiếng sấm mới dội về từ xa.
 
-— Chị cứ trả lời đi.
+Quỳnh đứng sát cửa, cố không để ánh mắt mình lộ ra quá nhiều. Trong đầu nó hiện lại câu Như kể: năm 2009 có một học sinh tên Quyên chết ở phòng 201, tóc bị cuốn vào quạt, đúng vị trí tầng trên phía Trâm đang ngủ bây giờ.
 
-Nụ cười trên mặt cô gái nhạt đi.
-
-— 2009.
-
-Ngoài trời chớp sáng.
-
-Một giây sau mới có tiếng sấm vọng tới.
-
-Quỳnh đứng sát cửa, tay vẫn đặt trên chốt.
-
-Trong đầu nó chạy qua lời Như kể: năm 2009, một chị tên Quyên chết ở phòng 201. Tóc bị cuốn vào quạt. Giường tầng trên bên phía Trâm.
-
-Nó nhìn lên trần.
-
-Quạt đứng im.
+Quỳnh ngước lên. Chiếc quạt đứng im.
 
 — Em sao vậy? — Quyên hỏi.
 
-Quỳnh ép mình thở đều.
+— Không sao ạ.
 
-— Không có gì.
+Quyên nhìn sang giường Quỳnh.
 
-— Em ngủ giường đó à?
-
-Quyên chỉ sang giường Quỳnh.
+— Em nằm chỗ đó hả?
 
 — Dạ.
 
-— Đổi đi.
+Vẻ mặt cô thay đổi rất nhẹ.
 
-— Tại sao?
+— Đổi chỗ đi.
 
-Quyên không trả lời.
+Quỳnh nuốt khan.
 
-Cô cúi xuống nhìn hai bàn tay đặt trên đầu gối. Móng tay cô rất ngắn. Ở kẽ móng có thứ gì đen đen như máu khô.
+— Sao vậy chị?
 
-— Chị từng ở đây hả? — Quỳnh hỏi.
+Quyên cúi nhìn hai bàn tay đặt trên đầu gối. Móng tay cắt rất ngắn; ở một vài kẽ móng có vệt sẫm màu, không rõ là đất hay máu khô.
 
-Quyên nhìn lên.
+— Chị từng ở phòng này phải không?
 
-— Ừ.
+Quyên gật.
 
-— Chị biết Trang không?
+Quỳnh biết mình nên dừng ở đó. Một phần trong đầu liên tục bảo nó mở cửa, đi ra hành lang, gọi người. Phần còn lại lại bị kéo bởi đúng thứ tò mò đã khiến nó cạy viên gạch dưới bức tường hôm trước.
 
-Cơ mặt Quyên giật nhẹ.
+— Chị biết chị Trang không?
 
-— Đừng nói tên đó.
+Vai Quyên cứng lại.
+
+— Đừng gọi tên chị ấy ở đây.
+
+Giọng nói vẫn nhỏ nhưng không còn tự nhiên như trước.
 
 — Chị biết ai giết Trang không?
 
 — Đừng hỏi.
 
-— Chị Hoa thì sao?
+— Còn Hoa?
 
-Quyên đứng bật dậy.
-
-Quỳnh lùi một bước.
+Quyên đứng bật dậy. Động tác nhanh đến mức chiếc giường sắt phía sau không hề rung dù đùi cô vừa chạm vào mép nệm.
 
 — Đừng hỏi nữa.
 
-Giọng cô gái bỗng khàn đi như có hai giọng chồng lên nhau.
+Âm cuối bị kéo khàn, như có một giọng khác nằm ngay bên dưới giọng cô.
 
-Ngay lúc ấy cửa phòng mở.
+Quỳnh lùi nửa bước. Nó vừa định với tay mở cửa thì tiếng chìa khóa và tiếng nói chuyện vang lên ngoài hành lang. Cửa bật ra, Hân đi vào trước, theo sau là Lan, Thi, Mai, Hương, Dung và Trâm.
 
-Hân đi vào trước, theo sau là Lan, Thi, Mai, Hương, Dung và Trâm.
+— Ủa, hết đau đầu chưa? — Thi vừa tháo dép vừa hỏi.
 
-— Ủa, hết đau đầu chưa? — Thi hỏi.
+Quỳnh không trả lời ngay. Nó nhìn Quyên, lúc này vẫn đang đứng giữa phòng, chỉ cách Thi chưa tới một mét.
 
-Quỳnh nhìn Quyên.
+— Mấy đứa… chào chị đi.
 
-Cô vẫn đứng giữa phòng.
-
-— Mấy đứa... chào chị đi.
-
-Cả bảy đứa nhìn Quỳnh.
-
-Rồi nhìn khoảng trống nó đang chỉ.
+Cả bảy đứa cùng nhìn Quỳnh, rồi nhìn theo hướng tay nó.
 
 Hân hỏi:
 
 — Chị nào?
 
-Quỳnh cảm thấy da đầu mình tê đi.
+Da đầu Quỳnh tê dần.
 
-— Chị Quyên. Đang đứng đây nè.
+— Chị Quyên. Đứng ngay đó mà.
 
-Thi cười gượng.
+Thi đang định cười thì thấy mặt Quỳnh, nụ cười tắt luôn.
 
-— Mày đừng giỡn nha.
+— Mày đừng hù nha.
 
-— Tao không giỡn.
+— Tao không hù.
 
-Quyên quay mặt sang Quỳnh.
+Quyên quay sang nhìn Quỳnh. Môi cô mấp máy rất chậm, không phát ra tiếng. Quỳnh đọc được hai chữ.
 
-Môi cô mấp máy:
+Đừng nói.
 
-Đừng.
+Lan không hỏi thêm. Nó đặt cặp xuống, bước tới bàn lấy chiếc gương vuông nhỏ Hương hay dùng rồi nhìn Quỳnh.
 
-Lan không nói gì. Nó bước tới bàn, cầm chiếc gương vuông nhỏ Hương vẫn dùng trang điểm.
+— Nó đứng chỗ nào?
 
-— Đứng yên.
+Quỳnh chỉ.
 
-Lan quay lưng về phía Quyên, giơ gương lên sao cho phản chiếu cả căn phòng phía sau.
+Lan quay lưng lại phía đó, giơ chiếc gương lên ngang mặt sao cho phản chiếu phần giữa căn phòng.
 
-Trong gương có Hân.
+Trong gương có Hân đang đứng sát cửa, Thi phía bên trái, Trâm phía sau, có khung giường, bức tường, cả chiếc quạt trên trần.
 
-Có Thi.
+Chỗ Quyên đứng hoàn toàn trống.
 
-Có Trâm.
+Quỳnh cảm thấy cái lạnh chạy từ gáy xuống tận lưng. Nó hạ mắt khỏi gương. Ngoài đời, Quyên vẫn ở nguyên đó.
 
-Có chiếc quạt.
+Hai mắt cô bắt đầu đỏ lên. Không phải tròng mắt đổi màu mà từ khóe mắt có một dòng chất lỏng sẫm chảy xuống má, chậm như nước mắt đặc. Quyên nhìn Quỳnh, nét mặt vừa sợ vừa đau, rồi bất ngờ đưa hai tay lên ôm đầu.
 
-Có khung giường.
+Mái tóc dài phía sau cô từ từ căng lên.
 
-Chỗ Quyên đang đứng trống không.
+Quỳnh ngước theo và thấy những lọn tóc như bị một lực vô hình kéo thẳng về phía chiếc quạt đang đứng im trên trần. Cổ Quyên nghiêng sang bên ở một góc không tự nhiên. Da ở thái dương bắt đầu rách thành một đường đỏ mảnh.
 
-Quỳnh lạnh từ gáy xuống lưng.
+— Chị Quyên…
 
-Nó nhìn khỏi gương.
+Cô gái há miệng. Giọng bật ra lần này không còn giống giọng người vừa nói chuyện với Quỳnh ngoài cửa nữa.
 
-Quyên vẫn ở đó.
+— Chúng mày sẽ phải chết hết!
 
-Cô bắt đầu khóc.
+Tiếng sấm nổ ngay trên mái gần như cùng lúc. Bóng đèn chớp tắt một nhịp.
 
-Không có tiếng.
+Khi ánh sáng ổn định trở lại, Quyên đã biến mất.
 
-Chỉ có nước mắt đỏ sẫm chảy từ hai khóe mắt xuống má.
+Quỳnh loạng choạng ngồi xuống mép giường, cả hai chân mềm nhũn. Mấy đứa kia không nhìn thấy Quyên, nhưng chúng đã thấy mặt Quỳnh đổi sắc, thấy chiếc gương Lan cầm phản chiếu khoảng trống, nghe tiếng Quỳnh gọi một người không có ở đó và nghe tiếng sấm vừa đánh sát tới mức cửa kính rung lên. Chỉ từng đó cũng đủ khiến cả phòng không ai nghĩ đây là trò đùa.
 
-— Chị Quyên...
+Lan ngồi xuống cạnh Quỳnh, vẫn giữ gương trong tay.
 
-Quyên lùi lại.
+— Từ đầu. Kể đúng những gì mày thấy, đừng thêm cái mày đoán.
 
-Phần đỉnh đầu cô bỗng nghiêng sang một góc không tự nhiên.
+Quỳnh hít sâu vài lần mới nói được. Nó kể cô gái gõ cửa, bảo chờ bạn 203, tự xưng Nguyễn Ngọc Quyên, 12A4 năm 2009; kể chuyện Quyên bảo đổi giường và phản ứng khi nghe tên Trang với Hoa. Đến phần cuối, Quỳnh không tả kỹ vết rách ở đầu, chỉ nói hình dáng Quyên thay đổi rồi hét câu kia.
 
-Một đường nứt xuất hiện từ thái dương trái chạy ngang qua trán.
+Trâm đứng phía sau Hân, mặt trắng bệch.
 
-Da tách ra.
+— Nó bảo mày đổi giường hả?
 
-Máu chảy xuống.
+Quỳnh nhìn lên.
 
-Nửa phần sọ phía trên trượt khỏi đầu như một chiếc nắp bị xô lệch, để lộ bên trong tối đen, nhầy nhụa.
+— Ừ.
 
-Quỳnh hét lên.
+— Nó còn nói gì trước khi… biến mất không?
 
-Cả phòng hoảng theo dù chẳng nhìn thấy gì.
+— Tao hỏi Trang thì chị ấy bảo đừng gọi tên. Tao hỏi tiếp Hoa thì chị ấy hoảng lên.
 
-Quyên giơ tay giữ phần tóc đang kéo theo mảnh da đầu.
+Trâm nuốt khan. Bàn tay phải của nó lại nắm lấy ngón trỏ bên trái, nhưng lần này Quỳnh không nói gì.
 
-Miệng cô mở rộng.
+Hân là đứa lấy lại bình tĩnh nhanh nhất.
 
-— CHÚNG MÀY SẼ PHẢI CHẾT HẾT!
-
-Tiếng sấm nổ ngay trên mái.
-
-Bóng đèn chớp tắt.
-
-Khi sáng lại, Quyên biến mất.
-
-Quỳnh ngồi sụp xuống sàn.
-
-Lan quỳ cạnh nó.
-
-— Kể chính xác mày thấy gì.
-
-Quỳnh nhìn vào gương vẫn nằm trong tay Lan.
-
-— Chị Quyên.
-
-— Chắc không?
-
-— Chị ấy tự nói tên. 12A4. Năm 2009.
-
-Trâm đứng phía sau, mặt trắng bệch.
-
-— Nó nói gì?
-
-Quỳnh quay sang.
-
-— Kêu tao đổi giường.
-
-Trâm nuốt khan.
-
-— Còn gì nữa?
-
-— Tao hỏi Trang. Chị ấy bảo đừng hỏi. Sau đó...
-
-Quỳnh không kể phần kinh khủng nhất.
-
-Không cần.
-
-Mặt mấy đứa kia đã đủ tệ.
-
-Hân là người đầu tiên lấy lại bình tĩnh.
-
-— Gọi chị Như.
+— Gọi chị Như qua đi.
 
 ***
 
-Như sang sau chưa đầy năm phút.
-
-Chị mặc nguyên đồ ngủ, tóc còn kẹp lên, nhưng sắc mặt nghiêm hẳn khi nghe chuyện.
+Như sang chưa đầy năm phút sau, trên người vẫn là bộ đồ ngủ ở nhà, tóc kẹp vội lên bằng một chiếc càng cua. Chị nghe Quỳnh kể xong thì không còn vẻ nửa đùa nửa thật như lần đầu nói chuyện ma nữa.
 
 — Quyên nói 12A4?
 
@@ -444,192 +340,148 @@ Chị mặc nguyên đồ ngủ, tóc còn kẹp lên, nhưng sắc mặt nghiê
 
 — Dạ.
 
-Như ngồi xuống giường.
+Như ngồi xuống mép giường, nghĩ một lúc rồi gật đầu.
 
-— Vậy đúng là Quyên.
+— Đúng là lớp của Quyên. Chị không biết có ai khác trùng tên không, nhưng mấy thông tin đó khớp.
 
 Hân hỏi:
 
-— Chị biết ngày chị ấy chết chính xác không?
+— Chị ấy chết ngày nào chính xác chị nhớ không?
 
-Như cau mày nhớ.
+Như cau mày.
 
-— Hình như 15 tháng 9.
-
-Quỳnh ngẩng lên.
-
-— Cùng ngày Trang mất tích?
-
-Như gật đầu chậm.
-
-— Ừ.
-
-Thi lập tức nhìn lịch treo tường.
-
-Ngày 4 tháng 9.
-
-— Còn mười một ngày.
-
-Không ai bảo nó đừng đếm nữa.
-
-Lan ngồi khoanh chân dưới sàn.
-
-— Giả sử mấy chuyện này có thật. Tại sao bây giờ nó mới xảy ra? Phòng bị đóng ba năm. Vừa mở lại thì bắt đầu.
-
-Như đáp:
-
-— Có thể vì có người ở.
-
-— Hoặc vì có người muốn tụi em nghĩ vậy. — Lan nói.
-
-Câu ấy khiến Trâm nhìn sang.
-
-Rất nhanh.
-
-Quỳnh bắt được.
-
-Lần thứ hai trong hai ngày, nó thấy Trâm phản ứng với một câu đáng lẽ chẳng liên quan gì mình.
-
-Như hỏi:
-
-— Ý em là sao?
-
-Lan nhún vai.
-
-— Em không biết. Em chỉ không thích kết luận ma trước khi loại được người.
-
-Như cười nhạt.
-
-— Nếu là người thì tốt.
+— Chị nhớ là giữa tháng chín. Hình như… 15 tháng 9.
 
 Quỳnh nhìn chị.
 
-— Tại sao?
+— Cùng ngày Trang mất tích?
 
-— Vì người thì còn bắt được.
+Như im một nhịp rồi gật đầu.
+
+Thi lập tức quay sang tờ lịch treo tường. Ngày 4 tháng 9 được khoanh bằng bút đỏ vì lịch học đầu năm.
+
+— Còn mười một ngày.
+
+Lần này Hân không mắng nó nói gở. Không ai nói gì cả.
+
+Lan ngồi khoanh chân dưới sàn, hai tay ôm đầu gối.
+
+— Em vẫn thấy có một chuyện không hợp lý. Phòng đóng ba năm, không ai ở. Vừa mở lại mấy ngày thì liên tiếp có chuyện. Nếu đúng là ma thì có thể vì có người quay lại ở. Nhưng nếu có người sống muốn tụi em tin phòng này bị ám, đây cũng là thời điểm dễ làm nhất.
+
+Trâm ngồi gần cửa sổ khẽ ngước lên. Phản ứng rất nhỏ, nhưng Quỳnh nhìn thấy.
+
+Như quay sang Lan.
+
+— Em nghĩ có người dọa mấy đứa?
+
+— Em chưa nghĩ gì hết. Em chỉ không muốn chọn đáp án trước rồi ép mọi thứ vào đáp án đó.
+
+Như cười rất nhạt.
+
+— Nếu là người thì chị lại thấy đỡ hơn.
+
+— Sao vậy chị? — Quỳnh hỏi.
+
+Như nhìn về phía chiếc quạt trần.
+
+— Vì người còn có lúc để mình tìm ra được là ai.
 
 ***
 
-Đêm đó không ai chịu tắt đèn.
+Đêm đó không ai đồng ý tắt hết đèn. Cuối cùng Hân phải nhượng bộ: đèn chính tắt để còn ngủ, nhưng bóng trong nhà vệ sinh được để sáng, cửa hé một khoảng vừa đủ cho ánh vàng hắt thành vệt dài ra nền phòng.
 
-Hân cuối cùng phải thỏa hiệp, để lại bóng đèn nhà vệ sinh và mở hé cửa cho ánh sáng hắt ra.
-
-Khoảng hai giờ rưỡi, từng đứa ngủ dần.
-
-Quỳnh vẫn thức.
-
-Nó nằm nhìn điện thoại của mình.
+Hai giờ rưỡi, Mai với Dung đã ngủ. Hương kéo chăn kín vai. Thi ban đầu tuyên bố sẽ thức tới sáng nhưng chưa đầy hai mươi phút sau đã thở đều. Quỳnh vẫn nằm mở mắt, điện thoại đặt trên gối cạnh mặt.
 
 02:58.
 
+Nó biết mình đang làm một việc vô nghĩa nhưng vẫn cứ nhìn.
+
 03:01.
+
+Phòng yên. Chỉ còn tiếng mưa rất nhỏ ngoài mái tôn.
 
 03:05.
 
-Nó ghét bản thân vì đang chờ.
+Quỳnh bắt đầu thấy mỏi mắt. Nó tự nhủ nếu qua 03:07 mà không có gì, ngày mai nhất định sẽ thôi ngồi canh đồng hồ như một đứa ngốc.
 
 03:06.
 
-Không có gì.
+Không có tiếng nước, không quạt quay, không trẻ con khóc. Quỳnh gần như bật cười vì nhẹ nhõm.
 
-Quỳnh gần như bật cười vì nhẹ nhõm.
+Đúng lúc màn hình chuyển sang 03:07, từ đáy vali dưới giường vang lên tiếng chuông điện thoại cũ.
 
-Rồi đúng lúc con số trên màn hình chuyển thành 03:07, từ đáy vali vang lên một tiếng chuông điện thoại cũ kỹ.
+Âm thanh rè và chói, hoàn toàn khác nhạc chuông điện thoại của bất kỳ đứa nào trong phòng.
 
-Reng.
+Cả tám đứa gần như cùng lúc bật dậy.
 
-Reng.
+— Cái gì vậy? — Hân hỏi, giọng còn đặc ngủ.
 
-Reng.
-
-Quỳnh cứng người.
-
-Cả phòng bật dậy.
-
-— Cái gì vậy? — Hân hỏi.
-
-Quỳnh kéo vali ra.
-
-Tiếng chuông phát từ bên trong.
-
-Nó mở khóa, lôi chiếc điện thoại nắp gập lên.
+Quỳnh đã cúi xuống kéo vali ra. Tiếng chuông phát đúng từ bên trong. Nó mở khóa, lật mấy cuốn vở và lấy chiếc điện thoại nắp gập lên.
 
 Màn hình ngoài đang sáng.
 
-Trâm nhìn thấy chiếc máy thì lùi lại một bước.
-
-Lan nhìn Trâm.
-
-Quỳnh nhìn Lan.
-
-Không ai nói gì.
+Ở phía cuối phòng, Trâm vừa nhìn thấy chiếc máy thì lùi nửa bước. Lan nhìn Trâm trước, rồi mới nhìn sang Quỳnh. Quỳnh bắt được cả hai phản ứng nhưng chưa nói gì.
 
 Trên màn hình hiện số gọi đến:
 
 0888 888 888.
 
-— Đừng bắt. — Thi nói ngay.
+— Đừng nghe — Thi nói ngay, tỉnh ngủ hoàn toàn.
 
-— Bắt đi. — Lan nói cùng lúc.
+Gần như cùng lúc, Lan bảo:
 
-— Mày điên hả?
+— Nghe đi.
 
-— Nếu ai đó đang chơi trò này thì mình cần nghe.
+Thi quay phắt sang.
 
-Quỳnh cầm điện thoại.
+— Mày muốn nghe thì mày nghe.
 
-Ngón tay đặt lên nút nhận cuộc gọi.
+— Nếu có người đang làm trò này thì đây là thứ đầu tiên mình có thể giữ lại được. Bật loa ngoài.
 
-Nó nhìn từng người.
+Hân nhìn Quỳnh.
 
-Rồi mở nắp máy.
+— Mày quyết đi. Nhưng đừng để sát tai.
+
+Quỳnh thấy tay mình lạnh. Nó bấm nhận cuộc gọi, mở loa ngoài rồi đặt chiếc máy lên chiếc khăn giữa sàn.
 
 — Alo?
 
-Không có tiếng người.
+Không có ai đáp. Chỉ có tiếng nhiễu rì rì, đều và nhỏ, giống một chiếc radio đặt sai tần số. Mấy giây sau, giữa lớp nhiễu ấy vang lên tiếng khóc của một người phụ nữ.
 
-Chỉ có âm thanh rì rì rất nhỏ.
+Âm thanh rất xa, lúc rõ lúc mất, như vọng qua một đường hầm dài.
 
-Sau đó là tiếng khóc.
+Quỳnh cúi gần hơn nhưng vẫn giữ khoảng cách.
 
-Một người phụ nữ.
+— Ai vậy? Chị nghe tụi em nói không?
 
-Xa đến mức giống như phát từ cuối một đường hầm.
+Tiếng khóc ngừng đột ngột.
 
-Quỳnh ép điện thoại sát tai.
+Một giọng thì thào bật ra giữa tiếng rè. Chỉ hai từ, yếu đến mức cả phòng phải im hoàn toàn mới nghe được.
 
-— Ai vậy?
+— Không… phải…
 
-Tiếng khóc ngừng.
+Sau đó đường dây tắt.
 
-Một giọng thì thào vang lên.
+Màn hình tối đen trở lại, nhanh đến mức chiếc máy trông lại giống một cục nhựa chết đã nằm trong tường nhiều năm.
 
-Rất khẽ.
-
-Quỳnh chỉ nghe được hai từ.
-
-— Không... phải...
-
-Tút.
-
-Cuộc gọi tắt.
-
-Màn hình tối đen.
-
-Quỳnh vẫn giữ chiếc máy bên tai.
-
-Lan hỏi:
+Quỳnh vẫn nhìn nó. Lan là người lên tiếng trước.
 
 — Nó nói gì?
-
-Quỳnh từ từ hạ tay xuống.
 
 — “Không phải.”
 
 — Không phải cái gì?
 
+Quỳnh lắc đầu.
+
 — Tao không biết.
 
-Trong phòng, không ai để ý Trâm đã quay mặt đi.
+Không ai trong phòng có câu trả lời. Trâm quay mặt về phía cửa sổ, hai vai hơi co lại.
 
-Và ngoài hành lang, cách cánh cửa 201 chưa đầy mười mét, có một người vừa tắt màn hình điện thoại của mình rồi lặng lẽ bước xuống cầu thang.
+Ngoài hành lang bỗng có một tiếng động rất khẽ, như đế dép chạm nền gạch rồi dừng. Hân lập tức đứng dậy mở cửa. Hành lang trống, chỉ có ánh đèn tuýp kéo dài tới cầu thang và tiếng mưa hắt vào từ khoảng thông gió cuối dãy.
+
+Ở chiếu nghỉ phía dưới, cảm biến ánh sáng vừa tắt.
+
+Hân đứng nhìn vài giây rồi đóng cửa lại.
+
+Không ai nói ra, nhưng từ khoảnh khắc đó, câu hỏi trong phòng 201 không còn chỉ là “có ma hay không” nữa.
