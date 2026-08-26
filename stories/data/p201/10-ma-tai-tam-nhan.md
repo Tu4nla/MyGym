@@ -1,604 +1,352 @@
-Sáng 15 tháng 9, trời trong.
+Sáng 15 tháng 9, trời trong đến lạ.
 
-Sau gần một tuần mưa, bầu trời xanh đến mức nhìn lâu thấy nhức mắt. Nắng đổ xuống sân trường, làm những mái ngói đỏ bốc hơi, lá cây sau cơn giông bóng lên như vừa được lau sạch.
+Sau gần một tuần mưa, bầu trời xanh gắt, nắng dội xuống sân trường làm mái ngói đỏ bốc hơi và những tán cây sau cơn giông bóng lên như vừa được rửa sạch. Phòng 201 không đứa nào đi tiết đầu. Không phải vì sợ ma, mà vì gần như cả đêm chẳng ai ngủ được.
 
-Phòng 201 không ai đi học tiết đầu.
+Thi ngồi bệt dưới sàn, ôm ly mì còn chưa đổ nước, hai mắt thâm quầng.
 
-Không phải vì ma.
-
-Vì cả tám đứa — thiếu Trâm — gần như thức trắng.
-
-Thi ngồi dưới sàn, hai mắt thâm quầng, ôm ly mì chưa đổ nước.
-
-— Tao có cảm giác mình già thêm mười tuổi.
+— Tao thấy mặt tao hôm nay già dữ.
 
 Mai nằm úp mặt xuống gối.
 
-— Tao chỉ muốn ngủ.
+— Tao chỉ cần ngủ thôi. Ai nói gì cũng để chiều nói.
 
-Hương đang gấp lại bộ quần áo trắng Trâm bỏ trong túi chứng cứ dự phòng trước khi công an mang đi, nghe vậy ngẩng lên.
+Hương đang gom mấy món Trâm bỏ lại trên giường, nghe vậy bật cười.
 
-— Mày nói câu đó mười hai lần rồi.
+— Nãy giờ mày nói câu đó chắc chục lần rồi.
 
-— Lần nào cũng thật.
+— Tại lần nào tao cũng buồn ngủ thiệt.
 
-Dung ngồi bên cửa sổ, tháo tai nghe khỏi tai dù không có nhạc.
+Dung ngồi bên cửa sổ, tai nghe móc ở cổ nhưng không mở nhạc. Cả phòng cứ vô thức tránh nhìn lên chiếc giường tầng trên của Quỳnh, chỗ Trâm từng nằm. Khoảng trống ấy rõ hơn mọi lời bàn tán.
 
-Từ tối qua đến giờ, cả phòng có một khoảng trống rõ ràng ở giường trên của Quỳnh.
+Ba ngày trước Quỳnh còn nghĩ có thể Trâm đang cố hại mình. Tối qua chính Trâm lại đâm anh trai để cứu nó.
 
-Không ai nói ra.
+Con người không chịu đứng yên trong những cái nhãn gọn gàng mà người khác muốn dán lên. Nghĩ vậy khiến Quỳnh mệt, nhưng cũng nhẹ đi một chút. Ít nhất nó không còn cảm giác mình phải chọn ngay xem Trâm đáng thương hay đáng trách.
 
-Quỳnh nằm dưới, nhìn thanh giường phía trên.
+Hân từ hành lang bước vào, ôm mấy hộp sữa cô quản sinh đưa.
 
-Ba ngày trước nó còn nghi Trâm là người muốn giết mình.
-
-Tối qua Trâm đâm chính anh trai để cứu nó.
-
-Con người đôi khi không đi theo một đường thẳng đủ đẹp để mình ghét hoặc thương cho dễ.
-
-Hân bước vào từ hành lang, cầm sáu hộp sữa.
-
-— Cô quản sinh cho nghỉ buổi sáng. Chiều ai khỏe thì đi học.
+— Sáng nay được nghỉ. Chiều đứa nào khỏe thì đi học.
 
 Thi giơ tay.
 
-— Tao xin phép không khỏe tới hết tháng.
+— Tao xin đăng ký không khỏe luôn tới cuối tuần.
 
-— Không.
+Hân đặt một hộp sữa vào tay nó.
 
-— Mày đâu phải bác sĩ.
+— Uống đi rồi tính.
 
-— Nhưng tao có quyền đập mày.
+— Mày không thương người bệnh gì hết.
 
-Thi mở hộp sữa.
+— Mày bệnh thiếu ngủ chứ có bệnh gì.
 
-Phòng 201 bật cười.
-
-Một tiếng cười nhỏ, mệt, nhưng thật.
-
-Quỳnh ngồi dậy.
-
-Cánh quạt trên trần đứng yên.
-
-Lần đầu tiên nó không nhìn quạt để kiểm tra xem có thứ gì trên đó.
+Cả phòng bật cười. Tiếng cười nhỏ, mệt nhưng thật. Quỳnh ngồi dậy, ngước nhìn chiếc quạt trần đang đứng im và lần đầu tiên không thấy cần kiểm tra xem trên đó có thứ gì khác ngoài bụi.
 
 ***
 
-Sự thật không xuất hiện trong một buổi sáng.
+Sự thật về năm 2007 không xuất hiện trong một buổi lấy lời khai.
 
-Nó được kéo ra từng đoạn trong gần hai tuần sau đó.
+Nó được kéo ra từng đoạn trong gần hai tuần sau đó: một phần từ lời Tùng nói, một phần từ lời Trâm và Như, phần khác nằm trong đồ vật người ta từng bỏ qua hoặc trong ký ức của những người năm năm trước nghĩ điều mình biết chẳng quan trọng.
 
-Có đoạn đến từ lời khai.
-
-Có đoạn đến từ đồ vật cất trong tủ.
-
-Có đoạn đến từ những người năm năm trước từng nghĩ chi tiết mình biết không quan trọng.
-
-Và có những đoạn không bao giờ ghép kín hoàn toàn.
+Có chỗ ghép được rất rõ. Có chỗ đến cuối vẫn chỉ là một khoảng mờ.
 
 Ông Phúc nói với Quỳnh ngay từ đầu:
 
-— Đừng mong một câu chuyện sạch sẽ như sách. Vụ thật luôn có chỗ người ta quên, người ta nói dối, vật chứng mất, thời gian làm hỏng dấu vết.
+— Cháu đừng mong mọi thứ khép lại đẹp như truyện trinh thám. Chuyện thật có người nhớ sai, người giấu, vật chứng mất, thời gian làm hỏng dấu. Mình chỉ cố ghép được tới đâu chắc tới đó.
 
 Quỳnh hiểu.
 
-Nhưng lần này, ít nhất, câu chuyện đã có xương.
+Nhưng ít nhất câu chuyện lần này đã có xương.
 
-***
+Quân và Trang từng yêu nhau. Họ chia tay cuối tháng sáu năm 2007 vì Quân nghĩ Trang có tình cảm với người khác. Anh không biết người đó là ai, còn Trang lúc ấy không giải thích.
 
-Năm 2007, Quân và Trang từng yêu nhau.
+Người xen vào khoảng trống giữa hai người là Tùng, nhưng không phải theo cách hắn kể sau này.
 
-Chuyện đó không còn tranh cãi.
-
-Họ chia tay cuối tháng sáu vì Quân tin Trang có tình cảm với người khác. Quân không biết người đó là ai. Trang không giải thích.
-
-Người khác là Tùng.
-
-Không phải theo nghĩa Trang chọn hắn.
-
-Theo lời khai sau này, Tùng đã thích Trang từ lâu và nhầm sự thân thiết của một nhóm bạn thành quyền được đáp lại. Sau khi Quân và Trang chia tay, hắn cố tiến gần hơn.
+Tùng đã thích Trang từ lâu. Hắn nhìn sự thân thiết trong một nhóm bạn và dần tin rằng nếu Quân không còn ở đó, tới lượt mình sẽ được chọn. Sau khi Quân với Trang chia tay, hắn tiến gần hơn.
 
 Trang từ chối.
 
-Một lần từ chối không đủ.
+Một lần không đủ để Tùng chịu dừng.
 
-Tùng tiếp tục.
+Trong một buổi học thêm cuối tháng tám, khi chỉ còn hai người ở lại, hắn cưỡng ép Trang.
 
-Đến tháng tám, trong một lần hai người ở riêng sau buổi học thêm, Tùng cưỡng ép Trang.
+Ông Phúc không kể chi tiết. Quỳnh cũng không hỏi. Có những sự thật phải được gọi đúng tên để trả lại trách nhiệm cho người gây ra, nhưng không cần biến thành một cảnh cho người ngoài đứng xem.
 
-Không ai trong phòng 201 được nghe chi tiết.
+Vài tuần sau Trang biết mình có thai và nói với Tùng. Đó là lý do hắn biết chuyện trước khi thi thể được tìm thấy.
 
-Ông Phúc không kể.
+Tùng muốn cô im lặng, muốn “giải quyết” cái thai rồi coi như không có gì xảy ra. Trang từ chối. Cô định nói với gia đình và báo công an.
 
-Quỳnh cũng không hỏi.
+Đêm 14 rạng sáng 15 tháng 9, hai người gặp nhau ở khu sau ký túc. Không phải một cuộc hẹn tình cảm. Trang muốn Tùng chấm dứt việc đe dọa và trả lại những món đồ hắn giữ của cô.
 
-Có những sự thật cần được biết để trả lại tên cho tội ác, không cần biến thành cảnh để người khác tò mò nhìn vào.
+Cuộc nói chuyện biến thành cãi vã. Tùng giết Trang rồi chôn vội cô ở khoảng đất gần cây chôm chôm.
 
-Vài tuần sau, Trang biết mình mang thai.
+Không có nghi thức nào bắt hắn làm vậy. Không có lời nguyền, không có thứ ma quỷ nào đứng sau cầm tay hắn.
 
-Cô nói cho Tùng.
+Chỉ có một người rất trẻ sợ sự thật bị nói ra tới mức quyết định làm người đang giữ sự thật biến mất.
 
-Đó là lý do hắn biết trước khám nghiệm.
-
-Tùng muốn Trang im lặng và giải quyết cái thai. Trang từ chối. Cô định nói với gia đình, rồi báo công an.
-
-Đêm 14 rạng sáng 15 tháng 9, hai người hẹn gặp ở khu sau ký túc.
-
-Không phải vì yêu.
-
-Trang muốn hắn chấm dứt việc đe dọa.
-
-Cuộc gặp trở thành cãi vã.
-
-Tùng giết Trang.
-
-Không có nghi thức.
-
-Không có ma.
-
-Không có lời nguyền nào bắt tay hắn làm chuyện đó.
-
-Chỉ có một người đàn ông trẻ tuổi tin rằng nếu sự thật được nói ra, cuộc đời mình sẽ kết thúc, nên quyết định kết thúc người đang giữ sự thật.
-
-Hắn chôn Trang vội dưới khu đất gần cây chôm chôm.
-
-Năm ngày sau, mưa lớn làm đất xói.
-
-Bàn tay cô lộ ra.
+Năm ngày sau, mưa lớn xói đất và bàn tay Trang lộ lên.
 
 ***
 
-Vật chứng quan trọng nhất không phải nhật ký.
+Thứ quan trọng nhất trong lần khám xét sau khi bắt Tùng không phải cuốn nhật ký giả.
 
-Là một chiếc khuyên tai bạc nhỏ.
+Là một chiếc khuyên tai bạc hình giọt nước.
 
-Khi khám nghiệm năm 2007, gia đình Trang nói cô thường đeo một đôi khuyên hình giọt nước. Trên thi thể chỉ còn một chiếc.
+Gia đình Trang năm 2007 từng khai cô hay đeo một đôi khuyên như vậy; lúc tìm thấy thi thể chỉ còn một chiếc. Chiếc còn lại biến mất suốt năm năm.
 
-Chiếc còn lại chưa từng được tìm thấy.
+Trong chỗ ở của Tùng, công an tìm thấy một hộp thiếc nhỏ giấu dưới lớp đáy kép của ngăn tủ. Bên trong là thư cũ, vài tấm ảnh, một sợi dây buộc tóc đã phai màu và chiếc khuyên còn thiếu.
 
-Năm 2012, khi khám xét chỗ ở của Tùng, công an tìm thấy một hộp thiếc nhỏ giấu trong lớp đáy kép của ngăn tủ.
+Mẹ Trang nhận ra ngay. Phần chốt từng được sửa lệch một bên vì trước đó bị gãy, chi tiết này khớp với chiếc còn lại gia đình giữ.
 
-Trong đó có thư cũ của Trang, vài tấm ảnh, một chiếc dây buộc tóc đã phai màu.
+Tùng không giải thích được vì sao nó nằm trong tủ mình.
 
-Và chiếc khuyên hình giọt nước.
-
-Mẹ Trang nhận ra.
-
-Trong khe móc còn dấu vật liệu sinh học quá cũ để cho kết luận tuyệt đối ngay tại chỗ, nhưng kiểu dáng, vết sửa ở chốt và lời khai gia đình trùng khớp.
-
-Tùng không giải thích được vì sao nó ở trong tủ mình.
-
-Một người có thể giữ thư của người mình từng yêu.
-
-Khó hơn nhiều để giải thích vật mà người đó đang đeo trong đêm bị giết.
+Giữ thư của một người mình từng thích có thể là chuyện kỳ quặc nhưng vẫn giải thích được. Giữ món trang sức người đó đang đeo trong đêm bị giết thì khó hơn rất nhiều.
 
 ***
 
-Hoa không ghét Trang.
+Hoa cũng không ghét Trang như lời đồn trong trường.
 
-Tin đồn ấy sống lâu hơn cô.
+Cô là người đầu tiên nhận ra có điều không ổn sau khi Trang biến mất. Đêm 15 tháng 9, Hoa từng tỉnh giấc vì nghe cửa phòng mở rất muộn và thấy Trang đi xuống cầu thang. Sau khi thi thể được tìm thấy, cô mới nhớ thêm rằng ở cuối sân khi ấy có một bóng nam đứng chờ.
 
-Thực tế Hoa là người đầu tiên nghi có chuyện sau khi Trang biến mất. Đêm 15 tháng 9, Hoa từng tỉnh giấc vì nghe tiếng cửa phòng mở rất muộn. Cô nhìn thấy bóng Trang đi xuống cầu thang.
+Hoa kể chuyện này cho một người bạn rồi lại rút lời vì sợ. Người bạn ấy, lúc công an tìm lại năm 2012, vẫn nhớ Hoa đã hoảng như thế nào sau khi bắt đầu nhận những tin nhắn lạ.
 
-Sau khi thi thể được tìm thấy, Hoa nhớ ra còn một người khác.
+Không lâu sau Hoa chết dưới cây chôm chôm.
 
-Một bóng nam đứng phía cuối sân.
+Năm 2007 vụ việc nghiêng về khả năng tự sát vì không có dấu hiệu vật lộn rõ, trong khi Hoa đã mất ngủ và bất ổn nhiều ngày. Nhưng trong cuốn sổ đen của Tùng có những ghi chép đúng thời gian ấy về việc làm một nhân chứng hoảng loạn và quay lại đúng nơi hắn muốn.
 
-Năm năm trước Hoa từng kể điều đó cho một người bạn rồi rút lại vì sợ.
+Tùng cuối cùng thừa nhận có gặp Hoa đêm cô chết. Hắn vẫn gọi việc xảy ra sau đó là “tai nạn”.
 
-Người bạn ấy, nay đã ra trường, được công an tìm lại sau lời khai của Tùng và Trâm.
-
-Hoa bắt đầu nhận tin nhắn dọa.
-
-Sau đó cô chết dưới cây chôm chôm.
-
-Vụ việc khi ấy bị nghi là tự sát vì không có dấu hiệu vật lộn rõ và Hoa đã có biểu hiện hoảng loạn nhiều ngày.
-
-Nhưng trong cuốn sổ đen của Tùng có một dòng ngày tháng trùng tuần Hoa chết:
-
-“Nhân chứng càng sợ, càng dễ tự đi tới nơi đã định.”
-
-Lời khai của Tùng cuối cùng thừa nhận hắn gặp Hoa đêm đó.
-
-Hắn vẫn nói cái chết là “tai nạn”.
-
-Công an không chấp nhận cách gọi ấy.
+Công an không chấp nhận cách gọi ấy dễ dàng như hắn.
 
 ***
 
-Còn Quyên là phần Quỳnh ghét nhất.
+Quyên là phần câu chuyện Quỳnh ghét nhất, bởi ngay cả sau khi Tùng bị bắt vẫn không có một lời giải sạch sẽ.
 
-Bởi không ai có một lời giải hoàn toàn sạch.
+Năm 2009, khi phòng 201 từng được sử dụng lại trong thời gian ngắn, Quyên tình cờ tìm thấy vài món đồ cũ liên quan Trang. Cô hỏi nhiều người, trong đó có Quân và Tùng.
 
-Năm 2009, Quyên tình cờ tìm được vài món đồ cũ liên quan Trang khi phòng 201 được sử dụng lại. Cô hỏi quá nhiều người, trong đó có Quân và Tùng.
+Tùng sợ vụ năm 2007 bị đào lại. Khi ấy hắn đã đọc khá nhiều về ám thị, mất ngủ, phản ứng sợ hãi, đồng thời sưu tầm sách bùa chú và những nghi thức dân gian. Trong cuốn sổ đen, hai thứ ấy nằm cạnh nhau mà gần như không có ranh giới: một bên là ghi chép tâm lý, bên kia là hình vẽ hắn chép từ sách cũ.
 
-Tùng sợ câu chuyện cũ bị đào lên.
+Hắn bắt đầu tạo quanh Quyên những hiện tượng lặp vào 03:07: tiếng khóc, tiếng nước, bóng người, lời nhắn. Vài lần đồ uống của Quyên có chất an thần liều thấp.
 
-Hắn đã bắt đầu học tâm lý, đọc về ám thị, mất ngủ và phản ứng sợ hãi. Đồng thời hắn sưu tầm sách bùa chú, nghi thức dân gian, những thứ mà chính hắn cũng không phân biệt đâu là niềm tin, đâu là kỹ thuật gây sợ.
+Sau nhiều tuần thiếu ngủ, nỗi sợ không còn cần ai dựng nữa. Quyên bắt đầu hoảng thật.
 
-Hắn tạo cho Quyên một chuỗi hiện tượng lặp vào 3:07.
+Ngày 15 tháng 9 năm 2009, cô chết trong phòng 201 khi lùi tránh một thứ chỉ mình cô nhìn thấy rồi vướng vào chiếc quạt trần.
 
-Tiếng khóc.
+Tùng không có mặt trong phòng lúc đó; dữ liệu cũ và lời khai của bạn học đều cho thấy hắn không trực tiếp đứng cạnh Quyên khi tai nạn xảy ra.
 
-Nước.
+Vậy thứ cô nhìn thấy là gì?
 
-Bóng người.
-
-Những lời nhắn.
-
-Một ít thuốc an thần được pha vào đồ uống trong vài lần.
-
-Sau nhiều tuần thiếu ngủ, Quyên bắt đầu hoảng loạn thật.
-
-Ngày 15 tháng 9 năm 2009, cô chết trong phòng 201 khi lao tránh một thứ chỉ mình cô nhìn thấy và bị cuốn vào quạt.
-
-Tùng nói hắn không ở trong phòng khi đó.
-
-Dữ liệu cũ và lời khai bạn học cũng cho thấy hắn không trực tiếp đứng cạnh Quyên lúc tai nạn xảy ra.
-
-Vậy thứ Quyên nhìn thấy là gì?
-
-Một ảo giác do sợ hãi?
-
-Một hiện tượng Tùng đã cài sẵn?
-
-Hay một thứ khác?
+Một ảo giác đã được nuôi nhiều tuần? Một màn dàn dựng Tùng để lại? Hay một thứ khác vốn đã có trong căn phòng ấy?
 
 Không ai chứng minh được.
 
-Quỳnh nhớ cô gái đứng giữa phòng 201 mà chỉ nó nhìn thấy.
-
-Nhớ chỗ trống trong gương.
-
-Nó không cần một bản kết luận đóng dấu cho câu hỏi ấy.
+Quỳnh nhớ Quyên đã đứng trước mặt mình như thế nào, nhớ khoảng trống trong chiếc gương khi cô gái vẫn hiện rõ ngoài đời. Nó không cần ép câu hỏi ấy vào một ô kết luận chỉ để câu chuyện gọn hơn.
 
 ***
 
-Như biết bao nhiêu?
+Như biết ít hơn Quỳnh từng tưởng, nhưng nhiều hơn mức có thể gọi là vô tội.
 
-Ít hơn Quỳnh tưởng.
+Như quen Tùng sau khi vào trường. Hắn kể cho cô một phiên bản trong đó Quân làm Trang có thai, bỏ rơi cô, rồi khiến Trang chết trong một cuộc cãi vã; còn Tùng chỉ là người nhìn bạn mình thoát khỏi hậu quả.
 
-Nhiều hơn mức có thể gọi vô tội.
+Như yêu hắn và tin câu chuyện đó.
 
-Như quen Tùng sau khi vào trường. Hắn kể cho cô một phiên bản khác: Quân làm Trang mang thai, bỏ rơi cô, rồi vì một cuộc cãi vã mà Trang chết; Tùng chỉ là người bất lực nhìn bạn mình thoát tội.
+Nhưng nếu Trâm phần lớn làm theo anh trai vì sợ và lệ thuộc, Như đã chủ động đi xa hơn. Cô tập giả chữ Trang, sưu tầm lời đồn về phòng 201, chuẩn bị tóc giả, mặt nạ, máu sân khấu, hỗ trợ Tùng sửa chiếc điện thoại và bỏ chất an thần vào bánh. Cô cũng thừa nhận mình đã đột nhập phòng Quân để chuyển mannequin, cố tình làm Quỳnh nghi anh trai.
 
-Như yêu Tùng.
+Khi được hỏi liệu có biết Tùng từng cưỡng ép và giết Trang hay không, Như khóc tới mức không trả lời được.
 
-Cũng như Trâm tin anh trai, Như tin người yêu.
+Quỳnh không biết đó là cú sốc thật hay một cách phòng vệ.
 
-Nhưng khác Trâm ở một chỗ: Như chủ động đi xa hơn nhiều.
-
-Cô tập giả chữ Trang.
-
-Sưu tầm chuyện ma về phòng 201.
-
-Chuẩn bị tóc giả, mặt nạ, máu sân khấu.
-
-Dùng kỹ năng cơ bản về điện tử cùng Tùng để dựng chiếc điện thoại giả.
-
-Bỏ chất an thần vào bánh.
-
-Đột nhập phòng Quân, di chuyển mannequin để làm Quỳnh nghi chính anh trai.
-
-Cô thừa nhận những việc đó.
-
-Nhưng khi được hỏi có biết Tùng cưỡng ép và giết Trang không, Như khóc đến không nói được.
-
-Quỳnh không biết đó là cú sốc thật hay một phần phòng vệ.
-
-Công an sẽ làm việc đó.
-
-Quỳnh không cần quyết định thay.
+Nó cũng không còn thấy mình phải là người quyết định chuyện đó. Phần ấy thuộc về điều tra và tòa án.
 
 ***
 
 Trâm quay lại phòng 201 đúng một lần trước khi nghỉ học.
 
-Ngày 18 tháng 9.
+Chiều 18 tháng 9, nó đi cùng mẹ để thu dọn đồ. Cả phòng đông đủ nhưng lúc Trâm bước vào lại chẳng ai biết nói gì.
 
-Buổi chiều nắng nhẹ.
+Thi là đứa phá im lặng trước. Nó nhặt chiếc áo xanh Trâm vo trong góc vali, giơ lên.
 
-Nó tới cùng mẹ, thu quần áo vào hai vali.
+— Cái này mày còn mặc không?
 
-Không ai biết nói gì.
+— Có.
 
-Thi là đứa phá im lặng trước.
+— Vậy sao nhét như giẻ lau vậy trời.
 
-— Cái áo xanh này mày bỏ hả?
+Thi giật lấy áo, gấp lại rồi nhét xuống đáy vali. Trâm nhìn nó, khóe miệng cong lên. Mai quay đi lau mắt rất nhanh. Hương mang về mấy quyển vở Trâm để quên ở lớp, Dung tháo tấm ảnh cả phòng chụp ngày đầu tiên khỏi dây treo rồi nhét vào ngăn ngoài vali. Hân kiểm tra chìa khóa, sách giáo khoa, đồng phục như thể Trâm chỉ đang về quê nghỉ vài hôm.
 
-Trâm nhìn.
+Lan đứng cạnh cửa sổ tới lúc hai vali gần đầy mới hỏi:
 
-— Không.
+— Mày về quê hả?
 
-— Vậy gấp như cục giẻ vậy ai mặc.
+— Chắc vậy. Mẹ bảo nghỉ một thời gian rồi tính.
 
-Thi giật lấy, gấp lại ngay ngắn rồi nhét vào vali.
-
-Trâm cười.
-
-Mắt đỏ.
-
-Mai lén lau nước mắt.
-
-Hương mang mấy cuốn vở Trâm để quên ở lớp về. Dung tháo dây ảnh trên thành giường, chọn tấm cả phòng chụp ngày đầu tiên rồi bỏ vào ngăn ngoài vali.
-
-Hân kiểm tra danh sách đồ như trưởng phòng vẫn làm.
-
-Lan đứng cạnh cửa sổ, không nói gì cho đến khi Trâm kéo khóa vali.
-
-Nó mới hỏi:
-
-— Mày định đi đâu?
-
-— Chắc về quê một thời gian.
-
-— Học lại không?
+— Còn học thì sao?
 
 Trâm nhún vai.
 
-— Không biết.
+— Tao chưa biết.
 
 Lan gật.
 
-Không nói “phải cố lên”.
-
-Không nói “mọi chuyện rồi sẽ ổn”.
-
-Chỉ nói:
-
-— Khi nào muốn nói chuyện mà không muốn ai khuyên, gọi tao.
+— Khi nào muốn nói chuyện thì gọi tao.
 
 Trâm nhìn nó.
 
-— Mày có bao giờ không khuyên à?
+— Gọi mày xong mày có ngồi phân tích tao không?
 
-— Có. Tính phí cao hơn.
+Lan suy nghĩ nghiêm túc một chút.
 
-Trâm bật cười.
+— Nếu mày dặn trước thì tao cố nhịn.
+
+Trâm bật cười. Câu trả lời ấy đúng kiểu Lan hơn một lời hứa “mọi thứ sẽ ổn”.
 
 Sau đó nó quay sang Quỳnh.
 
-Hai đứa đứng gần nhau mà thấy xa hơn ngày đầu nhập phòng.
+Hai đứa đứng cách nhau chưa đầy một mét nhưng cảm giác xa hơn ngày đầu nhập phòng rất nhiều.
 
-— Tao không mong mày tha thứ. — Trâm nói.
+— Tao không mong mày tha thứ liền đâu — Trâm nói.
 
-— Tao chưa biết tao có giận mày không nữa.
+Quỳnh lắc đầu.
 
-— Nghe vô lý vậy.
+— Tao còn chưa biết tao đang giận mày tới đâu nữa.
 
-— Thì tao đang rối.
+— Nghe kỳ vậy.
+
+— Tao rối mà.
 
 Trâm gật.
 
 — Tao cũng vậy.
 
-Quỳnh đưa cho nó một thứ.
+Quỳnh lấy trong túi ra bản photocopy mảnh giấy “Đừng ăn đồ Như”. Bản gốc công an giữ.
 
-Mảnh giấy “Đừng ăn đồ Như”.
+— Cầm đi.
 
-Bản photocopy. Bản gốc công an giữ.
+Trâm nhìn tờ giấy.
 
-— Giữ làm gì? — Trâm hỏi.
+— Làm gì?
 
-— Để nhớ có lúc mày đã chọn khác anh mày.
+— Không biết. Để sau này mày nhớ có lúc mày đã tự dừng lại được.
 
-Trâm nhìn tờ giấy rất lâu.
+Trâm cầm lấy. Nó không ôm Quỳnh, cũng không khóc lớn. Chỉ gấp tờ giấy làm tư rồi bỏ vào ví.
 
-Nó gấp lại, bỏ vào ví.
+Trước khi kéo vali ra cửa, Trâm ngẩng lên nhìn chiếc quạt trần.
 
-Không ôm Quỳnh.
+— Tao ghét cái phòng này thiệt.
 
-Không có cảnh khóc lớn.
+Thi đang đứng cạnh cửa đáp ngay:
 
-Chỉ kéo vali ra cửa.
-
-Trước khi đi, Trâm ngẩng lên nhìn quạt trần.
-
-— Tao ghét cái phòng này.
-
-Thi nói:
-
-— Tụi tao cũng vậy.
+— Ừ. Mày không cô đơn đâu.
 
 Trâm cười.
 
-— Nhưng tao sẽ nhớ tụi mày.
+— Nhưng chắc tao vẫn nhớ tụi mày.
 
-Cửa đóng.
-
-Giường trên của Quỳnh từ đó trống.
+Cửa phòng khép lại sau lưng nó. Từ hôm ấy, chiếc giường trên của Quỳnh trống.
 
 ***
 
-Ngày 20 tháng 9, đúng năm năm ngày thi thể Trang được tìm thấy, chín người ra cây chôm chôm.
+Ngày 20 tháng 9, đúng năm năm ngày thi thể Trang được tìm thấy, cả nhóm ra cây chôm chôm.
 
-Quỳnh.
+Quỳnh, Lan, Hân, Thi, Mai, Hương, Dung, Trâm và Quân. Trâm xin mẹ cho quay lại một buổi.
 
-Lan.
+Trời không mưa. Mấy ngày nắng làm bãi đất khô lại, chỉ còn chỗ từng bị đào sẫm màu hơn xung quanh. Họ mang ba bó hoa trắng vì chẳng ai biết chắc Trang, Hoa và Quyên khi còn sống thích hoa gì.
 
-Hân.
+Quỳnh thấy điều đó buồn hơn mình tưởng.
 
-Thi.
+Người chết thường bị người ta nhớ rất rõ cách họ chết, nhưng lại quên mất họ từng thích ăn gì, nghe bài nào, ghét môn học gì hay cười ra sao.
 
-Mai.
+Quân là người cắm nhang trước. Anh đứng dưới cây rất lâu rồi nói nhỏ:
 
-Hương.
+— Anh xin lỗi.
 
-Dung.
+Không ai hỏi câu ấy dành cho Trang, cho Hoa hay cho chính Quân năm mười bảy tuổi.
 
-Trâm.
+Trâm cắm nhang sau, tay vẫn hơi run. Quỳnh đứng cuối cùng. Khói nhang bị gió kéo mỏng về phía bức tường cũ.
 
-Và Quân.
+Khi nó ngẩng lên, ba cô gái đang đứng phía bên kia thân cây.
 
-Trâm xin mẹ cho quay lại một buổi.
+Trang ở giữa. Hoa bên trái. Quyên bên phải.
 
-Trời không mưa.
+Lần này Quyên không có máu trên mặt, cũng không có cổ lệch hay tóc bị kéo ngược lên. Cô chỉ giống một nữ sinh vừa tan học. Hoa là người Quỳnh chưa từng gặp lúc sống, nhưng trong khoảnh khắc ấy nó vẫn biết đó là Hoa, như thể một cái tên cuối cùng đã đủ để trả lại hình người.
 
-Mấy ngày nắng làm bãi đất khô lại, nhưng chỗ từng bị đào vẫn còn màu sẫm hơn xung quanh. Công an đã dỡ băng tạm sau khi hoàn tất khám nghiệm khu vực.
+Trang nhìn Quân trước, sau đó nhìn Trâm, rồi mới nhìn Quỳnh.
 
-Họ mang ba bó hoa trắng.
+Cô cười rất nhẹ.
 
-Không ai biết chắc Hoa và Quyên thích hoa gì.
+Ba người cùng giơ tay chào.
 
-Quỳnh thấy điều đó buồn một cách kỳ lạ.
+Một cơn gió đi qua khu vườn. Khói nhang tản ra.
 
-Người chết thường bị nhớ bằng cách họ chết nhiều hơn những thứ họ từng thích khi sống.
+Khoảng đất dưới cây trống không.
 
-Quân cắm nhang trước.
+Lan đứng cạnh Quỳnh khẽ hỏi:
 
-Anh đứng trước cây rất lâu.
-
-— Anh xin lỗi. — anh nói nhỏ.
-
-Không ai hỏi anh nói với ai.
-
-Trang.
-
-Hoa.
-
-Hay chính mình năm mười bảy tuổi.
-
-Trâm cắm nhang sau.
-
-Tay nó run.
-
-Quỳnh đứng cuối cùng.
-
-Khói nhang bay lên, bị gió kéo mỏng về phía bức tường.
-
-Nó nhìn qua thân cây.
-
-Ba cô gái đứng phía xa.
-
-Trang ở giữa.
-
-Hoa bên trái.
-
-Quyên bên phải.
-
-Lần này Quyên không có máu trên mặt.
-
-Không có vết thương.
-
-Cô chỉ giống một nữ sinh vừa tan học.
-
-Hoa Quỳnh chưa từng gặp lúc sống, nhưng vẫn biết là Hoa. Có lẽ vì trong khoảnh khắc ấy, một cái tên đủ để nhận ra một người.
-
-Trang nhìn Quân.
-
-Rồi nhìn Trâm.
-
-Cuối cùng nhìn Quỳnh.
-
-Cô cười.
-
-Rất nhẹ.
-
-Cả ba giơ tay.
-
-Một cơn gió lướt qua khu vườn.
-
-Khói nhang tan.
-
-Ba người biến mất.
-
-Lan đứng cạnh bỗng hỏi:
-
-— Thấy hả?
+— Mày lại thấy hả?
 
 Quỳnh quay sang.
 
-— Mày thấy không?
+— Mày không thấy gì à?
 
-— Không.
+Lan lắc đầu rồi xoa cánh tay.
 
-Lan nhìn khoảng đất trống.
+— Không. Nhưng nãy tự nhiên lạnh cái rợn người.
 
-— Nhưng tự nhiên lạnh một cái.
-
-Quỳnh không giải thích.
+Quỳnh không giải thích thêm.
 
 ***
 
-Khi mọi người chuẩn bị đi, Thi gọi:
+Lúc mọi người chuẩn bị về, Thi gọi cả nhóm lại phía sau thân cây.
 
-— Ê, ở đây có chữ nè.
+Một mảng vỏ bị bong sau trận mưa để lộ lớp gỗ xám bên trong. Trên đó có mấy nét khắc cũ, xiêu vẹo và đã bị thời gian ăn mất một phần.
 
-Nó đang đứng phía mặt sau cây, nơi vết sét cũ chạy xuống thân.
+Quỳnh cúi xuống đọc.
 
-Một mảng vỏ bị bong sau trận mưa mấy hôm trước, để lộ phần gỗ xám bên trong.
-
-Trên đó có những nét khắc rất cũ.
-
-Không biết từ năm nào.
-
-Chữ nhỏ, xiêu vẹo, có chỗ bị vỏ cây nuốt gần hết.
-
-Quỳnh cúi đọc.
-
-MA TẠI TÂM NHÂN.
+**MA TẠI TÂM NHÂN.**
 
 Mai hỏi:
 
-— Nghĩa là gì?
+— Nghĩa là gì vậy?
 
-Lan nói:
+Lan đưa tay phủi chút bụi trên nét khắc.
 
-— Ma ở trong lòng người.
+— Đại khái là ma nằm trong lòng người.
 
-Thi nhăn mặt.
+Thi nhìn dòng chữ rồi nhìn cái cây.
 
-— Ai rảnh khắc câu triết lý ở đây vậy?
+— Không biết ai khắc hồi nào ha.
 
-Không ai biết.
+Không ai biết. Có thể một học sinh khóa trước, có thể Hoa, cũng có thể một người nào đó từng nghe câu ấy rồi tiện tay khắc chơi.
 
-Có thể một học sinh nhiều năm trước.
+Quỳnh không cần biết tác giả là ai.
 
-Có thể Hoa.
+Nó nhìn cây chôm chôm, rồi ngước lên căn phòng 201 ở tầng hai.
 
-Có thể ai đó nghe câu này ở đâu rồi khắc chơi.
+Trong ba tuần, chúng đã gặp ma giả. Có lẽ cũng đã gặp ma thật.
 
-Quỳnh không cần biết.
+Nhưng thứ giết Trang không phải một oan hồn. Thứ đẩy Hoa vào sợ hãi cũng không phải lời nguyền. Và kể cả nếu cái chết của Quyên còn một phần không ai giải thích được, người đã biến nỗi sợ của cô thành vũ khí vẫn là một con người.
 
-Nó nhìn cây chôm chôm, nhìn căn phòng 201 phía trên dãy nhà.
-
-Suốt ba tuần qua, chúng đã gặp ma giả.
-
-Có lẽ cũng gặp ma thật.
-
-Nhưng thứ giết Trang không phải một oan hồn.
-
-Thứ dọa Hoa tới chết không phải lời nguyền.
-
-Và cho dù cái chết của Quyên còn một phần không ai giải thích được, người đã biến nỗi sợ của cô thành vũ khí vẫn là một con người.
-
-Quỳnh đưa tay chạm nhẹ vào nét chữ cũ.
-
-Gỗ ấm vì nắng.
+Quỳnh chạm nhẹ đầu ngón tay vào nét khắc. Gỗ ấm vì nắng.
 
 ***
 
-Ba tháng sau.
+Ba tháng sau, ngày 21 tháng 12 năm 2012, Quỳnh đang ngồi làm bài ở thư viện thì Quân gọi.
 
-Ngày 21 tháng 12 năm 2012.
+Chỉ cần nghe giọng anh, nó biết có chuyện.
 
-Quỳnh đang làm bài ở thư viện thì Quân gọi.
+— Em đang đâu?
 
-Giọng anh không giống bình thường.
-
-— Em đang ở đâu?
-
-— Thư viện. Sao vậy?
+— Thư viện. Sao vậy anh?
 
 Đầu dây im vài giây.
 
 — Tùng trốn rồi.
 
-Quỳnh đứng bật dậy.
+Quỳnh đứng bật dậy, ghế kéo kêu một tiếng khiến mấy người xung quanh quay lại.
 
-— Cái gì?
+— Trốn sao được?
 
-— Trên đường chuyển tạm giam qua cơ sở khác. Xe phải dừng vì đoạn đèo phía trước sạt. Nó lợi dụng lúc hỗn loạn bỏ chạy xuống sườn núi.
+— Xe chuyển tạm giam phải dừng vì đoạn đèo phía trước bị sạt. Lúc người ta xử lý với đổi đường, nó lợi dụng hỗn loạn chạy xuống sườn núi.
+
+Quỳnh ôm điện thoại chặt hơn.
 
 — Bắt được chưa?
 
@@ -608,42 +356,30 @@ Quỳnh đứng bật dậy.
 
 — Công an đang báo gia đình.
 
-Quỳnh bước ra hành lang thư viện.
+Nó bước ra hành lang thư viện.
 
-Bàn tay lạnh dần.
-
-— Anh nói “xuống sườn núi” là sao?
+— Anh nói chạy xuống sườn núi là sao?
 
 Quân thở ra.
 
-— Người truy đuổi thấy nó trượt chân ở mép vực. Dưới đó có dòng nước lớn. Họ tìm từ trưa tới giờ chưa thấy.
+— Người đuổi theo thấy nó trượt ở mép vực. Dưới đó có dòng nước lớn. Tìm từ trưa tới giờ chưa thấy.
 
-Quỳnh nhắm mắt.
+Quỳnh dựa lưng vào tường.
 
-— Chết chưa?
+— Vậy… chết chưa?
 
-— Chưa có xác thì không ai được nói chắc.
+— Chưa có xác thì chưa ai nói chắc được.
 
-Lời ông Phúc như vọng lại trong cách Quân trả lời.
+Cách trả lời ấy làm Quỳnh nhớ ông Phúc.
 
-Quỳnh nhìn qua cửa sổ.
-
-Ngoài sân, mùa khô đã tới. Cây cối đứng im dưới nắng cuối năm.
-
-Đúng lúc đó đồng hồ điện tử trên tường thư viện nhảy số.
+Nó nhìn qua cửa kính. Mùa khô đã tới, nắng cuối năm trải trên sân trường rất sáng. Đồng hồ điện tử treo cuối hành lang chuyển số đúng lúc ấy.
 
 15:07.
 
-Không phải 3 giờ 07 sáng.
+Không phải ba giờ bảy phút sáng. Chỉ là một giờ rất bình thường trong ngày.
 
-Chỉ là một giờ rất bình thường trong ngày.
+Quỳnh nhìn mấy con số một lúc rồi quay đi.
 
-Quỳnh nhìn nó một lúc rồi quay đi.
+Lần này không có điện thoại reo, không có tiếng trẻ con khóc, không có bóng người phản trong cửa kính.
 
-Lần này không có điện thoại reo.
-
-Không có tiếng trẻ con khóc.
-
-Không có bóng người sau cửa kính.
-
-Chỉ có một cảm giác rất nhỏ, rất khó gọi tên, rằng có những câu chuyện dù đã tìm được hung thủ vẫn chưa chắc đã kết thúc.
+Chỉ có một cảm giác nhỏ và dai dẳng rằng có những câu chuyện, ngay cả sau khi người ta đã tìm được hung thủ, vẫn chưa chắc đã thật sự kết thúc.
