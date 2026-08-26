@@ -1,760 +1,462 @@
 Tôi không đi Hồng Ngài ngay.
 
-Đây là câu cần ghi rõ để bảo vệ danh dự trí tuệ của tôi.
+Câu này cần được ghi rõ, không chỉ để cứu chút danh dự trí tuệ còn lại của tôi mà còn vì sự thật là sau bức ảnh A Hù, mọi người xung quanh đều nhất trí rằng nếu tôi tự xách ba lô lên Bắc Yên thì đó không còn gọi là can đảm nữa.
 
-Sau tin nhắn về A Hù, Khải tịch thu quyền “tự quyết định ngu” của tôi trong gần ba tháng.
+Khải là người nói thẳng nhất.
 
-Chúng tôi không ngồi yên.
+— Cậu chưa biết A Hù là ai, chưa biết A Mã là ai, chưa biết H-49 là vật gì. Địa điểm cũng chỉ lấy từ một catalog của mạng lưới chúng tôi đang điều tra. Cậu đi bây giờ thì cậu không phải mồi. Cậu là quà giao tận nơi.
 
-Tôi tiếp tục viết Ma Kí Sự, làm vài hồ sơ nhỏ hơn không liên quan trực tiếp tới Chợ Âm. Khải và người của anh lần theo tài khoản, số điện thoại rác, hợp đồng vận chuyển, các mã hàng. Chị Linh rà lại archive Âm Dương. Sếp Hòa cho số hóa toàn bộ hồ sơ cũ của Bình và Duy.
+Tôi ngồi bên kia bàn, im vài giây.
 
-Không ai tìm được người đứng sau ba bích.
+— Anh nói hơi đau.
 
-Không ai giải thích được cassette.
+— Tốt. Nhớ lâu.
 
-Điều kỳ lạ nhất là sau đêm nó nói “đừng đi Hồng Ngài”, cuộn băng im hẳn.
+Vậy là gần ba tháng sau đó, chúng tôi không đi đâu cả nhưng cũng không ngồi yên. Tôi tiếp tục làm Ma Kí Sự, chủ yếu nhận những hồ sơ nhỏ không liên quan trực tiếp tới Chợ Âm. Khải và người của anh lần theo tài khoản trung gian, thuê bao rác, công ty vận chuyển và các mã giao dịch lộ từ Tân Phúc. Chị Linh cùng sếp Hòa lôi toàn bộ archive của Bình và Duy lên số hóa lại, lần này không để thêm một hộp nào ngủ mười năm dưới kho chỉ vì người trước nghĩ nó là chuyện mê tín.
 
-Tôi nghe tới mòn cả tai.
+Không ai tìm được người đứng sau Ba Bích.
 
-Không thêm một câu.
+Cassette cũng im hẳn sau câu cảnh báo Hồng Ngài. Tôi đã thử nghe lại nhiều lần, đổi máy, đổi tai nghe, thậm chí nhờ kỹ thuật số hóa cả hai mặt. Không có thêm chữ nào, không có lớp giọng mới nào được kéo ra.
 
-Đến tháng 5 năm 2019, H-49 xuất hiện trở lại.
+Đến đầu tháng Năm năm 2019, H-49 xuất hiện trở lại trên một kênh trung gian mà phía Khải đang theo dõi.
 
-Một tài khoản trung gian của Chợ Âm đăng yêu cầu:
+Dòng đăng rất ngắn:
 
-“Cần người đánh giá mẫu thực địa. Ưu tiên người viết hồ sơ tâm linh.”
+**“Cần người đánh giá mẫu thực địa. Ưu tiên người có kinh nghiệm viết hồ sơ tâm linh.”**
 
-Nghe như tuyển dụng dành riêng cho tôi đến mức đáng ngờ.
+Tôi đọc xong rồi nhìn Khải.
 
-Khải cũng nghĩ vậy.
+Anh cũng đang nhìn tôi.
 
-— Bẫy. — anh nói.
+— Bẫy — anh nói.
 
 — Em biết.
 
-— Biết mà vẫn muốn nhận?
+— Tôi nói trước để cậu đừng biến việc biết là bẫy thành lý do lao vào.
 
-— Nếu họ muốn kéo em ra thì đây là lần đầu mình biết họ muốn kéo đi đâu.
+— Nhưng lần này mình biết họ muốn kéo em tới đâu.
 
-— Có thể họ muốn cậu chết.
+— Hoặc họ muốn cậu nghĩ mình biết.
 
-— Vậy càng cần biết vì sao.
+— Cũng đúng.
 
-Khải nhìn tôi rất lâu.
+Khải ngả lưng ghế, hai tay khoanh trước ngực. Gần một phút anh không nói gì. Tôi biết lúc ấy anh không cân nhắc chuyện có cho “nhà báo Huy đi săn ma” hay không; anh đang cân nhắc một nguồn tin đã bị đối phương gọi đích danh có thể dùng được đến đâu mà vẫn còn đường đưa về.
 
-— Tôi ghét làm việc với nhà báo.
+Cuối cùng anh hỏi:
 
-— Em cũng quý anh.
+— Nếu đi, cậu chấp nhận làm đúng kế hoạch không?
 
-***
+— Tùy kế hoạch.
 
-Kế hoạch cuối cùng không phải “Huy một mình xách vali lên núi”.
+— Vậy thôi.
 
-Tôi dùng danh nghĩa thật: cộng tác viên Âm Dương điều tra một loạt câu chuyện về dược liệu và tín ngưỡng dân gian ở Bắc Yên.
+— Khoan. Em chấp nhận.
 
-Tòa soạn biết lịch trình.
+Khải nhìn tôi.
 
-Khải biết lịch trình.
+— Tôi chưa nói kế hoạch.
 
-Điện thoại có chia sẻ vị trí.
+— Nhưng em biết nếu trả lời khác anh không cho đi.
 
-Ba khung giờ check-in cố định mỗi ngày.
-
-Một tracker nhỏ nằm trong đế giày.
-
-Một thiết bị khác giấu trong lót ba lô.
-
-Tôi có một file hẹn giờ gửi tự động cho sếp Hòa, chị Linh và Khải nếu quá mười hai tiếng không hủy lệnh.
-
-Trong file có toàn bộ dữ liệu H-49 tôi có.
-
-Tôi còn nghĩ ra mật mã riêng.
-
-Nếu nhắn:
-
-“Ở đây sóng yếu nhưng đồ ăn ngon.”
-
-nghĩa là bình thường.
-
-Nếu nhắn:
-
-“Ở đây sóng khỏe nhưng đồ ăn dở.”
-
-nghĩa là có vấn đề.
-
-Khải đọc xong nói:
-
-— Tại sao không dùng câu ngắn hơn?
-
-— Kẻ xấu đọc tin nhắn “cứu tôi” sẽ nghi.
-
-— Còn “đồ ăn dở” thì không?
-
-— Không ai nghi người Việt chê đồ ăn.
-
-Anh bóp trán.
-
-Tôi cảm giác kế hoạch rất tốt.
+— Ít nhất cũng còn biết suy luận.
 
 ***
 
-Bắc Yên tháng năm khác Mẫu Sơn.
+Tôi đi bằng danh nghĩa thật. Không tên giả, không giấy tờ giả, không đóng vai người mua ngải. Âm Dương đăng ký một tuyến bài về dược liệu, chuyện truyền miệng và những vụ mua bán hàng “tâm linh” ở vùng núi phía Bắc; riêng Hồng Ngài chỉ là một điểm trong lịch trình ghi với tòa soạn.
 
-Núi mở rộng hơn, những sườn dốc nối nhau thành nhiều lớp, đường quanh co men theo triền cao. Có đoạn xe đi xuyên qua mây thấp, rồi bất ngờ nắng mở ra một khoảng thung lũng phía dưới sâu hun hút.
+Khải bắt tôi học thuộc ba khung giờ check-in mỗi ngày, một câu xác nhận bình thường và một câu báo nguy. Điện thoại chia sẻ vị trí. Một tracker nhỏ nằm trong đế giày, cái thứ hai giấu ở lớp lót ba lô. File ghi chú H-49 được đặt trên server tòa soạn với cơ chế hẹn giờ: cứ mười hai tiếng tôi phải nhập mã hủy và đặt lại; nếu không, hệ thống tự gửi bản sao cho sếp Hòa, chị Linh và Khải.
 
-Tôi tới thị trấn trước.
+Tôi đề xuất hai câu check-in:
 
-Không đi thẳng Hồng Ngài.
+**“Ở đây sóng yếu nhưng đồ ăn ngon.”** — bình thường.
 
-Người liên hệ tự xưng là A Hù hẹn ở một quán nước.
+**“Ở đây sóng khỏe nhưng đồ ăn dở.”** — có vấn đề.
 
-Tôi nhận ra hắn ngay từ ảnh.
+Khải đọc xong, nhìn tôi như đang cân nhắc có nên đổi người làm mồi không.
 
-Ngoài đời A Hù khoảng cuối hai mươi hoặc đầu ba mươi, người chắc, da sạm, tóc cắt ngắn. Khuôn mặt không có gì đặc biệt đến mức nếu đi qua ngoài đường tôi sẽ quên sau năm phút.
+— Sao không dùng một câu ngắn hơn?
 
-Điều không khớp với ảnh là cách hắn nhìn.
+— Câu tự nhiên mới khó bị hỏi lại.
 
-Không ngờ nghệch.
+— Còn “đồ ăn dở” nghe tự nhiên lắm à?
 
-Rất tỉnh.
+— Người Việt đi đâu chẳng chê được món gì đó.
 
-Mắt quan sát trước khi miệng cười.
+Anh bóp nhẹ sống mũi.
 
-— Nhà báo Huy?
+— Được. Nhưng nếu có nguy hiểm thật thì đừng cố dí. Gửi đúng câu rồi tìm cách rút.
 
-— Dạ. Anh A Hù?
+— Em hiểu.
 
-Hắn bắt tay.
+— Tôi nhắc lại vì cậu hay nói “em hiểu” trước khi làm ngược.
 
-— Cậu trẻ hơn tôi nghĩ.
+Lần này tôi không cãi.
 
-— Em đẹp trai hơn ảnh nữa đúng không?
+Trước khi đi, sếp Hòa gọi tôi vào phòng. Ông không dặn chuyện nghề, chỉ đẩy một cục sạc dự phòng qua bàn.
 
-Hắn cười.
+— Mang thêm.
 
-— Người ta nói cậu hay đùa. Đúng thật.
+— Em có hai cục rồi.
 
-Tôi hơi khựng.
+— Mang ba.
 
-— Anh đọc bài em?
+— Sếp quan tâm em vậy làm em cảm động.
 
-— Ma Lai. Người Không Có Tên.
+— Tôi không muốn phải tuyển lại người giữa quý.
 
-— Fan à?
+Ông nói bằng giọng cũ, nhưng khi tôi đứng dậy, ông vẫn giữ tay trên tập hồ sơ H-49 lâu hơn bình thường.
 
-— Coi như vậy.
-
-Tôi cười theo.
-
-Nhưng trong đầu ghi một dòng:
-
-“A Hù nghiên cứu mình trước.”
-
-***
-
-A Hù không dẫn tôi vào bản ngay.
-
-Hắn nói đường chiều có sương, sáng mai đi an toàn hơn.
-
-Một lựa chọn hợp lý.
-
-Chúng tôi nói chuyện gần hai tiếng.
-
-Hắn kể cha là người biết chữa rắn cắn, bó xương, làm một số lễ cho người quanh vùng. Không tự gọi thầy pháp. Không khoe ngải.
-
-Tôi hỏi về Huyết Ngải.
-
-Hắn cười.
-
-— Cậu nghe ở đâu?
-
-— Người ta bán thông tin.
-
-— Chợ Âm?
-
-Hắn nói thẳng.
-
-Tôi giả vờ hơi bất ngờ vừa đủ.
-
-— Anh biết?
-
-— Người tìm đồ lạ kiểu gì chẳng nghe.
-
-— Anh bán H-49?
-
-A Hù nhấp trà.
-
-— Tôi chỉ giúp người khác hỏi giá.
-
-— A Mã?
-
-Ánh mắt hắn thay đổi cực nhỏ.
-
-— Cha tôi.
-
-— Ông giữ Huyết Ngải?
-
-— Cậu tới rồi tự coi.
-
-Hắn không trả lời thêm.
-
-Tôi nhắn check-in cho Khải dưới gầm bàn:
-
-“Ở đây sóng yếu nhưng đồ ăn ngon.”
-
-Bình thường.
-
-Ít nhất lúc đó.
-
-***
-
-Sáng hôm sau chúng tôi đi Hồng Ngài.
-
-Tôi không miêu tả người dân ở đây bằng kiểu “bí hiểm, lạc hậu, đầy bùa ngải” vì thực tế phần lớn người tôi gặp chỉ đang sống cuộc sống của họ.
-
-Trẻ con đi học.
-
-Người lớn làm nương, chở đồ, sửa nhà.
-
-Có nhà mở cửa bán nước cho khách đi đường.
-
-Những mái nhà trình tường nằm dọc sườn, phía xa là nương ngô và ruộng bậc thang. Mây sáng phủ thấp rồi tan dần khi nắng lên.
-
-Cái đáng ngờ không phải cả Hồng Ngài.
-
-Là căn nhà A Hù dẫn tôi tới.
-
-Nó nằm tách hơn khỏi cụm nhà chính, cũ, rộng, sân có nhiều kho nhỏ. Trên một số khung cửa dán giấy đã ngả màu.
-
-Một con chó đen nhìn tôi từ dưới hiên.
-
-Không sủa.
-
-Chỉ nhìn.
-
-A Hù gọi:
-
-— Bố!
-
-Một lúc sau, một người đàn ông từ phía sau nhà bước ra.
-
-Tóc dài rối.
-
-Người gầy.
-
-Một mắt trắng đục.
-
-A Mã.
-
-Tôi nhận ra từ bức ảnh.
-
-Ông nhìn tôi.
-
-Không chào.
-
-Ánh mắt dừng ở ngực tôi rất lâu.
-
-Rồi ông nói một câu tôi không hiểu.
-
-A Hù đáp lại bằng tiếng địa phương.
-
-Tôi hỏi:
-
-— Ông nói gì vậy anh?
-
-A Hù cười.
-
-— Bố hỏi cậu đi đường có mệt không.
-
-Tôi gật.
-
-Nhưng A Mã vẫn nhìn ngực tôi.
-
-Một lúc sau ông dùng tiếng Việt rất chậm:
-
-— Hai.
-
-Tôi ngừng.
+— Huy.
 
 — Dạ?
 
-Ông giơ hai ngón tay.
+— Thấy không ổn thì về. Bài bỏ được.
 
-— Hai... mà một.
+Tôi gật.
 
-A Hù lập tức khoác vai cha.
+— Em biết.
 
-— Bố tôi dạo này nói linh tinh. Cậu đừng để ý.
-
-Tôi cười.
-
-— Người già nhà em cũng vậy.
-
-Bên trong đầu:
-
-“Để ý cực mạnh.”
+Lần này tôi thật sự biết.
 
 ***
 
-Ngày đầu không có gì xảy ra.
+Bắc Yên tháng Năm không giống Mẫu Sơn. Mẫu Sơn khiến tôi nhớ tới những đoạn đường hẹp ôm sườn núi và sương lạnh xuống rất nhanh; ở Bắc Yên, núi mở rộng thành nhiều lớp, có chỗ đường vừa chui qua một dải mây thấp đã bất ngờ ló ra thung lũng sâu phía dưới. Nắng sáng mạnh nhưng gió trên cao vẫn lạnh, mùi đất và cây khô theo từng khúc cua tràn vào cửa xe.
 
-Đó mới là điều khiến tôi căng.
+Tôi dừng ở thị trấn trước, không đi thẳng Hồng Ngài. Người liên hệ qua tài khoản trung gian hẹn ở một quán nước nhỏ gần đường chính.
 
-A Hù cho tôi xem cây thuốc bình thường.
+Tôi nhận ra A Hù từ bức ảnh trước khi hắn gọi tên mình.
 
-A Mã gần như không nói.
+Ngoài đời hắn khoảng cuối hai mươi, đầu ba mươi, người chắc, vai rộng, da sạm, tóc cắt gọn. Mặt vuông vừa phải, mũi thẳng, cằm có râu ngắn. Không có nét nào tự thân khiến người khác nhớ lâu; thứ giữ mắt tôi lại là cách hắn quan sát. Mỗi khi có người bước qua cửa quán, mắt hắn liếc trước rồi nét mặt mới tiếp tục câu chuyện, nhanh tới mức nếu không chủ ý nhìn sẽ bỏ qua.
 
-Tôi không thấy Huyết Ngải.
+— Nhà báo Huy?
 
-Không thấy chuông.
+Tôi đứng lên bắt tay.
 
-Không thấy kho bí mật.
+— Dạ. Anh A Hù?
 
-Buổi chiều tôi ra sau nhà chụp ảnh cảnh vật.
+— Cậu trẻ hơn tôi nghĩ.
 
-A Hù cởi áo rửa người cạnh bể nước.
+Tôi cười theo thói quen.
 
-Vết sẹo lộ ra.
+— Em nhận câu đó là khen nha.
 
-Dài từ vùng vai trái xuống lưng.
+Hắn cũng cười.
 
-Không giống vết cây quẹt.
+— Người ta nói cậu hay đùa. Đúng thật.
 
-Tôi từng viết vài bài tai nạn, nhìn đủ vết thương để biết nó giống một vết đâm hoặc rạch sâu cũ hơn.
+Tay tôi vẫn đặt trên cốc nước nhưng đầu óc dừng lại ở câu “người ta nói”.
 
-Cassette:
+— Anh đọc bài em rồi?
 
-“Khi nhìn thấy cái sẹo...”
+— Ma Lai. Người Không Có Tên. Bài nào nổi thì có đọc.
 
-Tôi cầm máy ảnh.
+— Vậy cũng tính là độc giả lâu năm rồi.
 
-Không chụp thẳng.
+— Coi như vậy.
 
-Dùng góc phản chiếu qua cửa kính kho.
+Tôi không hỏi “ai kể về tôi”. Không cần. Chỉ riêng việc A Hù đã đọc hai case liên quan trực tiếp Chợ Âm đủ để ghi vào đầu rằng cuộc gặp này không hề ngẫu nhiên.
 
-Một tấm.
+Hắn không đưa tôi vào Hồng Ngài ngay buổi chiều. Lý do rất hợp lý: đường về cuối ngày thường có sương, sáng đi dễ hơn. Chúng tôi ngồi gần hai tiếng ở quán, nói phần lớn về cây thuốc, người đi thu mua, các vụ khách dưới xuôi tìm đồ lạ. A Hù kể cha mình biết chữa rắn cắn, bó xương và làm vài việc mà người quanh vùng thường nhờ; hắn không gọi A Mã là pháp sư, cũng không chủ động nhắc ngải.
 
-Hai tấm.
+Tôi mới là người đưa H-49 vào.
 
-A Hù quay đầu.
+— Em thấy một mã hàng ghi Huyết Ngải. Người giao dịch để A.H. Có phải anh không?
 
-Tôi chuyển máy sang dãy núi.
+A Hù nhấp trà, không bất ngờ như một người lần đầu nghe tên ấy.
 
-— View đẹp ghê anh.
+— Cậu lấy thông tin ở đâu?
 
-— Ừ.
+— Mua.
 
-Hắn mặc áo.
+— Chợ Âm?
 
-Tôi thấy mắt hắn dừng trên kính một nhịp.
+Hắn nói từ đó rất tự nhiên.
 
-Không biết có nhận ra không.
+Tôi nhún vai.
+
+— Người ta gọi vậy.
+
+— Tôi chỉ giúp hỏi giá vài thứ. Không phải người bán.
+
+— A Mã giữ H-49?
+
+Lần này mắt hắn dừng trên tôi lâu hơn.
+
+— Bố tôi có trồng nhiều cây. Cậu tới rồi xem thứ nào cậu muốn viết.
+
+Không xác nhận, cũng không phủ nhận.
+
+Dưới gầm bàn, tôi gửi check-in cho Khải:
+
+**“Ở đây sóng yếu nhưng đồ ăn ngon.”**
+
+Tin nhắn đi ngay.
+
+Tôi đặt điện thoại xuống, tiếp tục nói chuyện như chưa có gì.
 
 ***
 
-Check-in 17:00.
+Sáng hôm sau chúng tôi mới vào Hồng Ngài.
 
-Tôi nhắn Khải:
+Tôi cần nói rõ một chuyện vì những gì xảy ra sau đó rất dễ khiến người đọc lẫn nơi chốn với con người: phần lớn những người tôi gặp ở Hồng Ngài không biết gì về H-49, cũng chẳng quan tâm Chợ Âm là cái gì. Trẻ con đi học, người lớn chở đồ, làm nương, sửa mái nhà, ngồi uống nước bên đường. Nhà trình tường nằm dọc triền, nương ngô và ruộng bậc thang mở ra phía xa; sương buổi sáng bám ở những đoạn thấp rồi tan dần khi nắng lên.
 
-“Ở đây sóng yếu nhưng đồ ăn ngon.”
+Không có “ngôi làng tà thuật”.
 
-Sau đó gửi ảnh phong cảnh bình thường.
+Chỉ có một căn nhà khiến tôi không thoải mái.
 
-Tracker còn hoạt động.
+Nhà A Hù nằm tách khỏi cụm chính một quãng, sân rộng hơn những nhà quanh đó và có mấy kho nhỏ dựng phía sau. Trên vài khung cửa dán giấy đã cũ, mép ngả vàng. Một con chó đen nằm dưới hiên, thấy người lạ cũng không sủa, chỉ ngẩng đầu nhìn tới khi tôi đi qua.
 
-19:30, cả nhà ăn cơm.
+A Hù gọi về phía sau nhà. Một lúc sau A Mã mới xuất hiện.
 
-A Mã không ngồi cùng.
+Ông già gầy hơn trong ảnh, tóc trắng pha đen để dài và rối ở gáy, một bên vai hơi thấp. Mắt phải đục trắng, mắt còn lại nhìn rất tỉnh. Ông không chào tôi; từ lúc bước ra, ánh mắt cứ dừng ở vùng cổ và ngực tôi như đang nghe một thứ mà tôi không nghe được.
 
-A Hù nói cha thích ăn riêng.
+Ông nói một câu bằng tiếng tôi không hiểu. A Hù đáp ngắn.
 
 Tôi hỏi:
 
-— Nhà còn ai nữa không?
+— Bác nói gì vậy anh?
+
+— Hỏi cậu đi đường có mệt không.
+
+Tôi gật với A Mã.
+
+— Dạ, cháu ổn.
+
+Ông già vẫn không rời mắt. Sau một lúc, ông giơ hai ngón tay lên và nói bằng tiếng Việt chậm, phát âm hơi nặng:
+
+— Hai… mà một.
+
+Tôi không cười được ngay.
+
+A Hù đặt tay lên vai cha.
+
+— Bố tôi dạo này hay nói lung tung. Cậu đừng để ý.
+
+— Dạ.
+
+Tôi đáp vậy, còn trong đầu thì câu ấy đã nằm cạnh “hai mùi máu”, “hai nhịp tim” và “song mạch”.
+
+***
+
+Ngày đầu ở nhà gần như chẳng có gì đáng viết. A Hù đưa tôi xem vài cây thuốc bình thường, nói về người thu mua dưới thị trấn. A Mã quanh quẩn phía sau nhà, khi thì cắt lá, khi thì ngồi im dưới mái. Không Huyết Ngải. Không chuông. Không kho bí mật tự mở vào nửa đêm.
+
+Chính vì thế tôi càng không thả lỏng.
+
+Buổi chiều, khi ra sau nhà chụp cảnh núi và bố cục mấy kho, tôi thấy A Hù cởi áo rửa người cạnh bể nước. Vết sẹo trong ảnh hiện ra rất rõ trên lưng thật: một đường dài từ gần vai trái chạy chéo xuống, mép sẹo rộng hơn ở đoạn đầu, giống hậu quả của một vết thương sâu đã lành từ nhiều năm trước.
+
+Cassette lập tức vang trong đầu tôi:
+
+**“Và khi mày nhìn thấy cái sẹo…”**
+
+Tôi không chụp thẳng. Cửa kính một kho nhỏ phản được lưng hắn, mờ nhưng đủ thấy đường sẹo. Tôi lấy hai tấm rồi chuyển ống kính sang dãy núi đúng lúc A Hù quay lại.
+
+— Cảnh bên này đẹp thật — tôi nói.
+
+— Ừ.
+
+Hắn mặc áo, mắt lướt qua tấm kính kho một nhịp. Tôi không biết hắn có nhận ra góc chụp hay không.
+
+17:00, tôi gửi check-in bình thường và thêm một ảnh phong cảnh. Cả hai tracker vẫn có tín hiệu.
+
+Đến bữa tối, A Mã không ngồi cùng. A Hù nói cha thích ăn riêng. Chúng tôi ăn gần xong thì tôi nghe phía sau nhà có tiếng động rất nhỏ giống giọng phụ nữ, chỉ một câu rồi mất.
+
+— Nhà còn ai khác không anh? — tôi hỏi như tiện miệng.
+
+A Hù vẫn gắp thức ăn.
 
 — Không.
 
-— Tôi nghe tiếng phụ nữ hồi chiều.
+— Hồi nãy em tưởng nghe phụ nữ nói.
 
-Hắn nhìn tôi.
+— Nhà dưới vọng lên. Trên này âm thanh đi xa lắm.
 
-— Hàng xóm.
+Tôi nhìn qua cửa. Nhà gần nhất không sát đến mức tôi thấy câu trả lời thuyết phục, nhưng ép thêm lúc ấy chỉ có tác dụng báo cho hắn biết tôi đang nghe gì.
 
-— Nhà gần nhất xa mà.
+— Chắc vậy — tôi nói rồi ăn tiếp.
 
-— Âm thanh trên núi vọng.
+***
 
-Cũng có thể.
+22:17, tôi vẫn chưa ngủ.
 
-Tôi không ép.
+Phòng khách chỉ có một bóng đèn nhỏ đã tắt từ sớm; ánh sáng ngoài sân lọt qua khe cửa vừa đủ thấy cạnh bàn và ba lô. Tôi đang nằm nghe tiếng gió quệt mái thì dưới sàn vang lên ba tiếng rất khẽ.
 
-Đêm, tôi nằm phòng khách.
+Cộc. Cộc. Cộc.
 
-Không ngủ.
+Tôi mở mắt.
 
-22:17.
+Chúng không giống gỗ co vì lạnh. Nhịp đều, có khoảng nghỉ giữa từng tiếng.
 
-Có tiếng rất nhỏ dưới sàn.
+Tôi ngồi dậy, ghé tai xuống sàn. Một lúc sau có thêm tiếng gõ, rồi thứ gì đó giống giọng người vọng lên, nhỏ tới mức không nghe được chữ. Giọng nữ.
 
-Cộc.
+Tôi bật máy ghi âm trong túi áo rồi ra hành lang. Phòng A Hù đóng. Cửa kho lúa phía cuối nhà khóa ngoài, nhưng khi đứng cạnh đó, tôi nghe rõ hơn tiếng vọng dưới chân. Nền có khoảng rỗng.
 
-Cộc.
+Tôi không phá khóa. Chụp ảnh cửa, ghi vị trí và quay về phòng.
 
-Ba tiếng.
+Tin nhắn báo nguy được gõ sẵn:
 
-Tôi ngồi dậy.
+**“Ở đây sóng khỏe nhưng đồ ăn dở.”**
 
-Nhớ 3:07.
+Tôi bấm gửi.
 
-Nhớ ngăn kéo.
+Biểu tượng quay rất lâu rồi hiện dấu chấm than đỏ.
 
-Nhớ những thứ trong universe này có vẻ rất thích gõ ba cái.
+Một vạch sóng còn lại biến mất.
 
-Tôi ghé tai xuống sàn.
+Tôi thử thiết bị dự phòng. Không có mạng.
 
-Một tiếng nữa.
-
-Cộc.
-
-Rồi giọng người.
-
-Rất khẽ.
-
-Phụ nữ.
-
-Tôi không nghe được chữ.
-
-Tôi bật máy ghi âm trong túi áo.
-
-Mở cửa.
-
-Hành lang tối.
-
-Phòng A Hù đóng.
-
-Tôi đi về phía kho lúa.
-
-Cửa khóa.
-
-Âm thanh dưới đất rõ hơn.
-
-Có khoảng rỗng bên dưới.
-
-Tôi không phá khóa.
-
-Tôi chụp.
-
-Ghi vị trí.
-
-Quay về phòng.
-
-Gửi tin cho Khải:
-
-“Ở đây sóng khỏe nhưng đồ ăn dở.”
-
-Tin nhắn quay vòng.
-
-Không gửi.
-
-Một vạch sóng biến mất.
-
-Rồi mất hẳn.
-
-Tôi lấy thiết bị dự phòng.
-
-Không tín hiệu.
-
-Tracker trong điện thoại báo offline.
-
-Tôi cúi tháo giày kiểm tra tracker phụ.
-
-Không còn.
+Ứng dụng tracker trên điện thoại cũng chuyển offline. Tôi cúi tháo giày, định kiểm tra thiết bị thứ nhất.
 
 Đế giày có một đường rạch rất gọn.
 
-Máu trong người lạnh xuống.
+Tracker biến mất.
 
-Có người đã biết.
-
-Tôi không nghe thấy cửa mở phía sau.
-
-Chỉ thấy mùi.
-
-Mùi rất nhẹ.
-
-Ngọt.
-
-Khác nhang.
-
-Tôi quay lại.
-
-A Hù đứng ở cửa.
+Tôi chưa kịp đứng thẳng thì có tiếng người phía cửa.
 
 — Tìm cái này à?
 
-Hắn giơ tracker nhỏ giữa hai ngón tay.
+A Hù đứng đó, hai ngón tay kẹp thiết bị nhỏ tôi đã giấu trong đế giày.
 
-Tôi nhìn.
+Tôi nhìn tracker rồi nhìn hắn.
 
-Rồi cười.
+— Anh nhặt ở đâu vậy? Em tưởng rớt.
 
-— Anh nhặt ở đâu vậy? Em tưởng mất.
+Hắn không cười.
 
-A Hù không cười.
+— Cậu thôi đi.
 
-— Cậu diễn tệ hơn tôi nghĩ.
+Giọng không lớn, nhưng toàn bộ vẻ thân thiện từ lúc gặp đã biến mất.
 
 Tôi thở ra.
 
 — Vậy khỏi diễn.
 
+A Hù bước vào, khép cửa sau lưng.
+
 — Cậu làm việc cho công an?
 
-— Em làm cho tòa soạn. Công an tự làm việc cho họ.
+— Em làm báo. Công an làm việc của công an.
 
-— Khác gì?
+— Khác gì nhau lúc này?
 
-— Khác lương.
+Tôi không trả lời. Câu “khác lương” đã chạy ngang đầu nhưng lần đầu tiên tôi thấy không cần phải nói mọi thứ mình nghĩ ra.
 
-Tôi không biết vì sao lúc nguy hiểm miệng vẫn tự chạy.
-
-Có thể đó là cơ chế phòng vệ.
-
-A Hù bước vào.
-
-— Cậu biết gì về tôi?
-
-— Tên A Hù. Có ông bố tên A Mã. Có cây Huyết Ngải. Có cái sẹo anh không muốn ai nhìn.
-
-Mắt hắn đổi.
-
-Sai lầm.
-
-Tôi vừa cho hắn biết mình đã thấy sẹo.
-
-— Ai nói về sẹo?
-
-Tôi không trả lời.
-
-A Hù nhìn túi tôi.
-
-— Cuộn băng?
-
-Lần này tôi không giữ được mặt.
-
-Hắn cười.
-
-— Vậy đúng là cậu có.
-
-— Anh biết băng?
-
-— Không. Nhưng người gửi ảnh cho cậu biết.
-
-Tôi hiểu.
-
-Tin nhắn không phải từ cassette.
-
-Có người thứ ba.
-
-— Ai gửi?
-
-— Cậu nghĩ tôi sẽ nói?
-
-— Em thử thôi.
-
-A Hù tiến thêm một bước.
-
-Tôi lùi về phía cửa sổ.
-
-Không phải để nhảy.
-
-Dưới cửa sổ là sân, cao chưa đầy hai mét.
-
-Tôi có thể chạy.
-
-A Hù nhìn ra ý định.
-
-— Cậu chạy thì người dưới kho chết trước.
-
-Tôi dừng.
-
-— Ai ở dưới?
-
-— Không liên quan cậu.
-
-— Phụ nữ?
-
-Hắn không trả lời.
-
-Đủ rồi.
-
-Có người thật bị giữ.
-
-Tôi phải sống để đưa thông tin ra.
-
-File hẹn giờ.
-
-Nếu thiết bị không có mạng, email sẽ không gửi cho tới khi bắt lại sóng.
-
-Nhưng trước khi lên Hồng Ngài tôi đã đặt thêm một bản scheduled từ server của tòa soạn, cần hủy bằng mã mỗi mười hai tiếng.
-
-Họ có thể lấy điện thoại.
-
-Không lấy được server.
-
-Tôi thấy bình tĩnh lại một chút.
-
-A Hù nói:
-
-— Đưa máy ghi âm.
-
-Tôi đưa.
+Hắn chìa tay.
 
 — Điện thoại.
 
-Đưa.
+Tôi đưa.
+
+— Máy ghi âm.
+
+Tôi tháo khỏi túi áo.
 
 — Ba lô.
 
-Đưa.
+Cũng đưa.
 
-Hắn kiểm tra rất kỹ.
+A Hù kiểm từng ngăn rất kỹ, lấy luôn pin dự phòng và thẻ nhớ. Hắn tìm được tracker thứ hai trong lớp lót sau chưa đầy một phút.
 
-Không tìm thấy gì khác.
+— Chuẩn bị kỹ đó.
 
-Vì thứ quan trọng nhất không ở trên người tôi.
+— Cũng chưa đủ.
 
-Tôi hỏi:
+Hắn nhìn tôi, lần đầu có vẻ gần như thật lòng đồng ý.
 
-— Giờ sao?
+— Chưa đủ.
 
-— Ngủ.
+Tôi tựa lưng vào cạnh bàn để giữ khoảng cách.
 
-— Anh nghĩ em ngủ được?
+— Người dưới kho là ai?
 
-— Được.
+Ánh mắt A Hù thay đổi rất nhẹ.
 
-Hắn lấy một miếng vải.
+— Cậu nghe được à?
 
-Tôi chửi thầm.
+— Có phụ nữ ở dưới đó.
 
-Mùi ngọt lúc nãy từ đó.
+— Không liên quan cậu.
 
-Tôi lùi.
+— Nếu anh đang giữ người trái ý muốn thì liên quan rồi.
 
-Phía sau có người giữ vai.
+Hắn cười rất ngắn, không có chút vui nào.
+
+— Cậu đang ở nhà tôi, mất sóng, không thiết bị. Cậu định làm gì?
+
+Tôi cũng đã hỏi mình câu đó từ lúc thấy đường rạch ở đế giày.
+
+Có một thứ hắn chưa lấy được: dead-man switch trên server. Trước khi rời thị trấn, tôi đã reset bộ đếm. Nếu quá mười hai tiếng không nhập mã, file sẽ tự gửi từ máy chủ tòa soạn. Tín hiệu ở đây có bị chặn cũng không ảnh hưởng.
+
+Điều kiện duy nhất là tôi phải sống đủ lâu để thông tin trong file còn có ích.
+
+— Em chưa biết — tôi nói.
+
+A Hù nhìn tôi vài giây rồi rút từ túi một miếng vải gấp nhỏ. Mùi ngọt tôi từng thoáng ngửi ngoài hành lang lập tức rõ hơn.
+
+Tôi lùi lại.
+
+Phía sau có một bàn tay giữ lấy cánh tay.
 
 A Mã.
 
-Tôi không nghe ông tới.
-
-Ông giữ rất yếu.
-
-Tôi hoàn toàn có thể giật ra.
-
-Nhưng ông ghé sát tai tôi, nói cực nhỏ:
+Ông già tới gần đến mức tôi không nghe thấy bước chân. Lực tay không mạnh; nếu giật, tôi có thể thoát. Tôi vừa xoay vai thì ông ghé sát, môi gần như không động:
 
 — Đừng.
 
-Tiếng Việt rõ ràng.
-
 Tôi đứng khựng.
 
-A Mã nhìn tôi.
+Mắt đục của ông nhìn lệch sang bên, nhưng con mắt còn lại hoàn toàn tỉnh.
 
-Con mắt còn lại tỉnh táo hơn mọi lúc trong ngày.
+Ông thì thầm thêm, rất chậm:
 
-Ông thì thầm:
+— Muốn sống… giả ngu.
 
-— Muốn sống... giả ngu.
+Ngay sau đó, nét mặt lại chùng xuống như ông chưa từng nói gì.
 
-Rồi khuôn mặt lại trở về vẻ đờ đẫn.
+A Hù không phản ứng. Có lẽ hắn không nghe thấy.
 
-A Hù không nghe thấy.
+Tôi nhìn miếng vải trong tay hắn và đổi ý.
 
-Miếng vải áp lên mặt tôi.
+Khi nó áp lên mũi miệng, tôi nín thở, giãy đủ để giống phản xạ rồi chậm dần. Trong đầu đếm từng nhịp. Mùi hóa chất vẫn lọt vào một ít qua cạnh vải, làm đầu nhẹ đi thật, nhưng tôi còn ý thức khi hai người nhấc mình khỏi sàn.
 
-Tôi nín thở.
+Qua cửa.
 
-Giả giãy yếu dần.
+Xuống sân.
 
-Đếm trong đầu.
+Tiếng chốt gỗ bật.
 
-Một.
+Một luồng khí lạnh và ẩm từ dưới đất tràn lên.
 
-Hai.
+Họ khiêng tôi xuống bậc thang hẹp.
 
-Ba.
+Tôi hé mắt vừa đủ qua hàng mi. Ánh đèn vàng đỏ mờ. Hai bên lối đi là những luống cây thấp, lá sẫm, mùi tanh ngọt nặng hơn trên mặt đất. Tôi không biết đó có phải thứ catalog gọi là Huyết Ngải hay không; lúc ấy tôi chỉ biết đây không phải vườn thuốc A Hù đã cho xem ban ngày.
 
-Đến mười tám tôi mới thả người.
+Xa hơn có một buồng nhỏ chắn bằng cửa sắt.
 
-Họ khiêng tôi đi.
+Bên trong là một cô gái bị trói. Tóc phủ gần hết mặt, người gầy đến mức dưới lớp áo chỉ thấy hai vai nhô lên. Tôi không nhìn được rõ hơn trước khi đầu mình bị xoay sang bên.
 
-Qua sân.
+Có một giọng nữ khác ở đâu đó hỏi:
 
-Mở kho.
-
-Có tiếng chốt gỗ.
-
-Đi xuống.
-
-Không khí lạnh hơn.
-
-Mùi đất ẩm.
-
-Mùi cây tanh ngọt.
-
-Tôi hé mắt một khe.
-
-Ánh đèn dầu đỏ mờ.
-
-Những luống cây thấp có hoa màu sẫm mọc hai bên.
-
-Huyết Ngải.
-
-Xa hơn là một căn buồng.
-
-Trong đó có người bị trói.
-
-Một cô gái.
-
-Tóc che mặt.
-
-Tôi không thấy rõ.
-
-A Hù nói:
-
-— Để nó dưới nữa. Thằng này chưa được chết.
-
-Một giọng nữ từ phía sau hỏi:
-
-— Vì sao?
-
-Tôi chưa từng nghe giọng đó.
+— Đưa nó xuống đây làm gì?
 
 A Hù đáp:
 
-— Nó có thứ A Mã tìm cả đời.
+— Thằng này chưa được chết.
 
-— Cái gì?
+— Vì sao?
 
-Hắn cúi xuống.
+Hắn đặt hai ngón tay lên cổ tôi.
 
-Đặt hai ngón tay lên cổ tôi.
+Tôi cố giữ nhịp thở chậm và đều.
 
-Tôi cố giữ nhịp thở chậm.
+Một lúc, hắn nói:
 
-— Huyền mạch.
+— Huyền mạch… không.
 
-Hắn im vài giây.
-
-— Không.
-
-Ngón tay di chuyển.
+Hai ngón tay dịch sang vị trí khác. Hắn im lâu hơn.
 
 — Hai mạch.
 
-A Mã phía sau phát ra tiếng cười rất nhỏ.
+Phía sau, A Mã bật ra một tiếng cười rất nhỏ.
 
 A Hù quay lại.
 
@@ -762,60 +464,36 @@ A Hù quay lại.
 
 Ông già không đáp.
 
-Tôi bị kéo xuống sâu hơn.
-
-Trước khi cánh cửa sắt đóng, tôi nghe A Mã nói một câu gần như không thành tiếng:
+Họ kéo tôi sâu hơn vào trong. Trước khi cánh cửa sắt khép lại, tôi nghe giọng A Mã từ phía sau, nhỏ đến mức tôi không chắc câu ấy dành cho ai:
 
 — Nó tới rồi.
 
+Cửa đóng.
+
+Tôi nằm trên nền đất, mắt vẫn nhắm, đầu bắt đầu nặng thật vì thứ thuốc đã hít phải.
+
+Tôi không biết điện thoại của mình đang ở đâu. Không biết file trên server còn bao nhiêu giờ. Không biết Khải có nhận ra mất tín hiệu là do khu vực hay do người. Tôi chỉ biết mình đã vào đúng nơi được cảnh báo đừng tới, và lần đầu tiên từ khi viết Ma Kí Sự, tôi không còn ở vị trí người đi tìm câu chuyện nữa.
+
+Tôi nằm bên trong nó.
+
 ***
 
-Mười hai tiếng sau, tại Hà Nội, server Âm Dương tự động gửi một email.
+### Ghi chú của Ban biên tập Âm Dương
 
-Người nhận: sếp Hòa, Linh, Nguyễn Đức Khải.
+Phần trên là đoạn cuối cùng trong bản thảo Ma Kí Sự mà Trương An Huy đồng bộ lên server trước khi mất liên lạc tại Bắc Yên vào tháng 5/2019. Những dòng dưới đây được bổ sung từ log hệ thống và hồ sơ nội bộ của tòa soạn; chúng không phải lời kể của Huy.
 
-Tiêu đề:
+Mười hai giờ sau lần reset cuối cùng, cơ chế hẹn giờ của Huy không nhận được mã hủy. Email được gửi tự động tới ba người: Nguyễn Đức Khải, trưởng ban Linh và sếp Hòa. File đính kèm chứa ảnh A Hù, A Mã, mã H-49, vị trí check-in cuối cùng, các ghi chú về ngôi nhà và một dòng Huy đã viết trước chuyến đi:
 
-“NẾU ĐỌC ĐƯỢC CÁI NÀY THÌ TÔI ĐANG GẶP VẤN ĐỀ.”
+**“Nếu tôi mất liên lạc ở Hồng Ngài, đừng giả định trước đây là chuyện ma. Hãy giả định có người không muốn tôi quay về.”**
 
-Sếp Hòa về sau bảo ngay cả lúc mất tích tôi cũng viết tiêu đề rất tôi.
+Khải liên hệ lực lượng tại Sơn La ngay sau khi nhận thư. Điểm định vị cuối cùng được rà soát, nhưng khi người tới nơi, căn nhà gắn với thông tin giao dịch đã bị dọn gần như sạch. Không có Huy, không có A Hù hay A Mã, cũng không có dấu vết đủ để kết luận những luống cây dưới lòng đất mà Huy mô tả là gì.
 
-File đính kèm có toàn bộ ghi chú H-49, ảnh A Hù, A Mã, vị trí cuối cùng, lịch check-in.
+Trên một chiếc bàn gỗ còn lại một lá ba bích có vết xước hình bán nguyệt. Mặt sau viết hai chữ:
 
-Dòng cuối cùng tôi viết trước chuyến đi:
+**ĐỪNG TÌM.**
 
-“Nếu tôi mất liên lạc ở Hồng Ngài, đừng giả định đây là chuyện ma. Hãy giả định trước rằng có người không muốn tôi quay về.”
+Không ai ở Âm Dương coi đó là yêu cầu hợp lệ.
 
-Khải đọc xong, gọi Sơn La.
+Ma Kí Sự dừng tại đây.
 
-Một chuyên án tìm người và rà soát mạng lưới bắt đầu.
-
-Nhưng khi lực lượng tới vị trí tracker cuối cùng, căn nhà được chỉ dẫn qua tài khoản giao dịch đã trống.
-
-Không có A Hù.
-
-Không có A Mã.
-
-Không có Huyết Ngải.
-
-Không có tôi.
-
-Chỉ còn một vật trên bàn gỗ.
-
-Một lá ba bích.
-
-Góc dưới bên phải có vết xước hình bán nguyệt.
-
-Mặt sau viết:
-
-“ĐỪNG TÌM.”
-
-Khải không nghe.
-
-Đó là lý do bốn tháng sau, khi Quỳnh nhận được một lá thư mời cưới tới Hồng Ngài...
-
-có hai người tên Thi và Trung được giao đi cùng cô.
-
-Còn tôi lúc ấy vẫn ở dưới lòng đất.
-
-Và Ma Kí Sự của tôi tạm dừng ở đây.
+Bốn tháng sau, một lá thư mời cưới được gửi tới Quỳnh, cũng dẫn về Hồng Ngài. Lần này, chuyến đi của cô không còn chỉ là chuyện của một tòa soạn.
