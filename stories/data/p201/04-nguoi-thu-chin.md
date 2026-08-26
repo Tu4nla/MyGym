@@ -1,825 +1,475 @@
-Sáng ngày 5 tháng 9, phòng 201 tổ chức một cuộc họp.
+Sáng ngày 5 tháng 9, phòng 201 chẳng ai bảo ai mà dậy sớm hơn thường lệ.
 
-Không ai gọi nó là cuộc họp, tất nhiên.
+Hân là đứa đầu tiên đóng cửa phòng lại. Nó kéo cái ghế nhựa đang chắn lối sang một bên, đặt chiếc điện thoại nắp gập lên cái khăn mặt sạch giữa nền rồi chống hai tay lên hông.
 
-Hân chỉ đóng cửa phòng, kéo ghế nhựa ra giữa lối đi rồi nói:
+— Khoan đi học. Nói với nhau mấy phút đã.
 
-— Ngồi xuống hết. Không ai được đi học trước khi thống nhất mấy chuyện.
+Thi đang cúi nhét vở vào cặp, nghe vậy liền ngẩng lên.
 
-Thi đang nhét vở vào cặp, nghe vậy lập tức buông cặp xuống.
+— Gì nữa? Mới đầu năm mà phòng mình sinh hoạt tổ dữ vậy?
 
-— Có biên bản không trưởng phòng?
+— Mày muốn tối nay lại có đứa mất tích lúc ba giờ sáng thì cứ đi trước.
 
-— Có.
+Thi nhìn Hân, rồi nhìn chiếc điện thoại dưới sàn, lặng lẽ kéo cặp ra khỏi vai.
 
-Hân ném cho nó một quyển vở ô ly.
+— Rồi, nói đi.
 
-— Mày ghi.
+Bảy đứa còn lại ngồi xuống thành một vòng méo mó giữa hai dãy giường. Trời vẫn âm u như mấy hôm trước. Quần áo phơi ngoài khu giặt đã hai ngày mà sờ vào còn lạnh và ẩm, cửa sổ mở hé chỉ đưa vào thứ gió có mùi mưa cũ với lá mục.
 
-Thi cầm quyển vở, mặt méo xệch.
+Hân không lấy giấy bút ngay. Nó nhìn từng đứa một rồi nói:
 
-— Tao đùa mà.
+— Từ giờ có gì lạ thì nói cho nhau biết. Đừng tự đi một mình, đừng giấu đồ, cũng đừng tự ý đụng vô mấy thứ không biết là của ai nữa. Hôm qua tụi mình hên thôi.
 
-— Tao không.
+Đến câu cuối, mắt nó dừng ở Quỳnh lâu hơn một chút.
 
-Mấy đứa còn lại lục tục ngồi xuống. Ánh sáng buổi sáng tràn qua cửa sổ nhưng không làm căn phòng sáng hơn được bao nhiêu. Trời vẫn phủ một lớp mây thấp từ đầu tuần; mấy bộ quần áo phơi ngoài ban công đã hai ngày vẫn còn âm ẩm, sờ vào có cảm giác lạnh như vừa lấy từ đáy chum lên.
+Quỳnh hiểu. Sau chuyện Quyên xuất hiện, Lan đã nói với Hân rằng Quỳnh còn giữ một mảnh ảnh lấy từ hốc tường. Không phải mách lẻo; chỉ là Quỳnh đã giấu cả phòng một thứ đáng lẽ nên nói từ đầu.
 
-Chiếc điện thoại nắp gập nằm giữa nền nhà.
+Nó thở ra, kéo cuốn Văn khỏi cặp.
 
-Hân đặt nó lên một chiếc khăn mặt sạch, như thể đang đặt một thứ gì dễ vỡ hoặc dễ cắn người.
+— Tao có cái này.
 
-— Từ giờ có chuyện gì lạ phải ghi giờ, ghi ai nhìn thấy, ghi ai có mặt. Không tự ý đi đâu một mình. Không giấu nhau.
+Nửa tấm ảnh được đặt cạnh chiếc điện thoại. Trang đứng ở phần còn lại của bức hình, áo trắng, tóc buông ngang vai, mặt cười rất nhẹ. Người đứng cạnh đã bị xé gần hết, chỉ còn một góc vai áo sẫm màu và bàn tay đàn ông đặt phía sau lưng cô.
 
-Nói tới câu cuối, Hân nhìn thẳng Quỳnh.
+Thi chồm tới.
 
-Quỳnh biết nó đang nhắc tới mảnh ảnh.
-
-Hôm qua sau khi Quyên biến mất, Lan đã nói riêng với Hân rằng Quỳnh còn giấu một thứ lấy từ hốc tường. Không tố cáo, chỉ nói đúng sự thật.
-
-Quỳnh không giận.
-
-Nó tự thấy mình cũng đáng bị nhìn như vậy.
-
-— Tao có một nửa tấm ảnh. — Quỳnh nói.
-
-Thi ngẩng phắt đầu.
-
-— Mày giấu thiệt hả?
+— Cái này mày giấu từ hôm ở gốc cây hả?
 
 — Ừ.
 
-— Trời đất, vậy mà tối qua tao còn ôm mày ngủ chung.
+— Trời ơi, Quỳnh. Có cái gì nữa thì khai luôn đi, đừng tối tối mới lôi ra dọa tụi tao.
 
-— Liên quan gì?
+Giọng Thi nghe trách nhiều hơn giỡn. Quỳnh gật đầu.
 
-— Không liên quan nhưng tao muốn thể hiện sự phản bội.
+— Hết rồi. Tao xin lỗi.
 
-— Im cho nó nói. — Hân cắt ngang.
+Lan cầm tấm ảnh lên, nghiêng nó về phía cửa sổ cho sáng hơn.
 
-Quỳnh lấy tấm ảnh trong cuốn Văn ra, đặt cạnh điện thoại.
+— Mày nói bàn tay này giống anh Quân?
 
-Trang đứng trong ảnh, áo trắng, tóc buông ngang vai. Phần người bên cạnh bị xé mất gần hết, chỉ còn một góc vai áo và bàn tay đàn ông đặt phía sau lưng cô.
+— Tao chỉ thấy cách đặt tay giống thôi. Hôm qua tao nhìn ảnh ở nhà rồi tự nghĩ tới ảnh.
 
-Lan cầm lên xem.
+Lan không phản bác ngay. Nó nhìn thêm vài giây rồi trả ảnh lại.
 
-— Hôm qua mày nói giống tay anh Quân?
-
-— Tao thấy giống cách ảnh đặt tay thôi.
-
-— Cách đặt tay không phải dấu vân tay. — Lan nói. — Đừng biến cảm giác thành chứng cứ.
-
-Quỳnh gật đầu.
+— Vậy thì cứ để đó. Giống không có nghĩa là đúng người.
 
 — Tao biết.
 
-Hân nhìn ảnh một lúc rồi hỏi:
+Hân ngồi dựa vào thành giường, hỏi:
 
-— Anh mày học cùng khóa Trang đúng không?
+— Anh Quân học cùng khóa với chị Trang hả?
 
-— Ừ.
+— Ừ. Tao gọi hỏi rồi. Ảnh biết Trang, biết cả phòng này. Ảnh còn dặn tao đừng ra sau ký túc đào bới nữa.
 
-— Mày hỏi ảnh chưa?
+Câu đó làm Mai đang ngồi ôm gối nhíu mày.
 
-— Hỏi rồi. Ảnh biết Trang, biết cả phòng này.
+— Ủa, sao ảnh biết mày đào?
 
-— Ảnh nói gì?
+— Ảnh nói đoán.
 
-Quỳnh kể lại gần như nguyên cuộc gọi, kể cả việc Quân bảo nó đừng đào bới sau ký túc.
+— Nghe cũng… hơi kỳ nha.
 
-Khi nghe đến đó, Trâm đang ngồi dựa đầu giường hơi động mắt.
+Quỳnh không đáp. Khi nó kể lại toàn bộ cuộc gọi, Trâm đang ngồi sát thành giường phía trên bỗng khựng tay lúc nghe đến đoạn Quân nhắc khu vườn sau ký túc. Chỉ một chút thôi, nhưng cả Quỳnh lẫn Lan đều nhìn thấy.
 
-Lan nhìn thấy.
+Không ai hỏi ngay.
 
-Quỳnh cũng nhìn thấy.
+Hân chuyển sang chiếc điện thoại.
 
-Nhưng không ai hỏi.
+Lan đã tháo pin từ sáng sớm để xem model và SIM. Nó đặt cục pin phồng nhẹ lên khăn, chỉ vào hàng chữ in nhỏ trên tem máy.
 
-Hân lấy cây bút từ tay Thi, tự ghi vài dòng vào vở.
+— Pin kiểu này mà bảo tự lên nguồn thì tao thấy vô lý. SIM cũng không nhận trên máy tao. Nhưng tao không biết người ta có làm cách nào để cho màn hình hiện số giả hay phát tiếng chuông từ chỗ khác không.
 
-— Còn cái điện thoại.
+Dung chống cằm.
 
-Lan đã kiểm tra từ sáng.
+— Tóm lại là vẫn có thể có người làm?
 
-Nó tháo nắp sau, lấy pin ra rồi chỉ cho cả đám xem miếng tem bạc bên trong khoang máy. Trên đó có dãy số model, số seri, một hàng chữ tiếng Anh và một ngày sản xuất in nhỏ đến mức phải nheo mắt mới đọc được.
+— Có thể. Còn chuyện cái máy tự nhiên nằm trong túi Quỳnh thì tao chịu.
 
-— Có gì không? — Mai hỏi.
+Thi nhìn cái điện thoại một lúc rồi rùng mình.
 
-— Tao chưa biết. — Lan nói. — Nhưng pin phồng, tiếp xúc bị oxy hóa. Máy này nếu là bình thường thì không nên tự sáng, càng không nên nhận cuộc gọi.
+— Nói thật nha, tao thà có đứa nào đó rảnh quá đi hù mình còn hơn.
 
-— Có SIM mà. — Dung chỉ.
+— Nếu là người thì cũng chưa chắc đỡ hơn đâu — Hân nói. — Tối qua có người đứng ngoài hành lang. Với lại người ở sau vườn hôm trước chưa biết là ai.
 
-Trong khe SIM là một miếng nhựa cũ màu xanh đã tróc chữ.
+Lan gật nhẹ.
 
-Lan lấy điện thoại của mình ra.
+— Cứ coi như mình chưa loại được cái gì hết. Đừng thấy một chuyện lạ là đổ hết cho ma, mà cũng đừng thấy có người là nghĩ ma không có.
 
-— Tao thử rồi. Máy tao báo SIM không hợp lệ.
+Căn phòng im đi một lúc. Câu ấy chẳng làm ai yên tâm hơn, nhưng ít nhất nó nghe đúng với những gì cả nhóm đã trải qua.
 
-Thi khoanh hai tay trước ngực.
+Hân kéo cái đồng hồ báo thức lại gần.
 
-— Kết luận: ma dùng thuê bao trả sau.
+— Thôi, sắp trễ rồi. Tối nay khóa cửa đàng hoàng. Có ai dậy đi đâu thì gọi một đứa đi cùng.
 
-Không ai cười.
+Thi đứng lên, đeo cặp.
 
-Thi tự thu nụ cười lại.
+— Tao đi toilet cũng phải xin người hộ tống hả?
 
-— Rồi, xin lỗi.
+— Mày sợ thì gọi tao.
 
-Hân nói:
+— Tao hỏi cho biết vậy thôi, chứ tao không muốn mày đứng ngoài nghe.
 
-— Tao không biết có ma thật hay không. Nhưng tối qua có người đứng ngoài hành lang. Quỳnh nói nó nghe tiếng bước chân sau khi cuộc gọi tắt. Từ giờ coi như có cả hai khả năng: một, có cái gì đó mình không hiểu; hai, có người đang chơi tụi mình.
-
-— Hoặc cả hai. — Lan nói.
-
-Căn phòng yên một nhịp.
-
-Câu đó nghe tệ hơn cả hai khả năng riêng lẻ.
+Mai phì cười. Không khí căng từ nãy cuối cùng cũng nhả ra được một chút.
 
 ***
 
 Tiết đầu là Văn.
 
-Cô giáo giảng về thơ mới. Ngoài cửa sổ, mưa bụi giăng nghiêng qua hàng cây, những mái ngói đỏ phía dãy thực hành loang thành từng mảng sẫm. Quỳnh chép được ba dòng rồi bỏ bút xuống.
-
-Nó không tập trung nổi.
-
-Trong đầu cứ lặp lại hai từ ở đầu dây tối qua.
+Cô giáo giảng về thơ mới, giọng đều đều hòa với tiếng mưa bụi quệt vào cửa kính. Quỳnh chép được vài dòng rồi để đầu bút đứng im trên trang vở. Hai chữ ở đầu dây tối qua cứ trở lại trong đầu nó.
 
 Không phải.
 
-Không phải cái gì?
+Quyên muốn nói không phải ai? Không phải Quân? Không phải Trang? Hay không phải thứ mà cả phòng đang nghĩ tới?
 
-Không phải Trang?
+Quỳnh quay sang bàn bên. Trâm ngồi gần cửa sổ, lưng thẳng nhưng từ sáng tới giờ hầu như không nói. Điện thoại một đứa phía trên rung trong cặp, vai Trâm lập tức căng lên rồi mới thả xuống khi nhận ra không phải máy mình.
 
-Không phải Quân?
+Khoảng giữa tiết, nó cúi xuống ngăn bàn. Ánh sáng màn hình hắt một vệt xanh nhạt lên cằm.
 
-Không phải ma?
+Trâm đọc tin nhắn rất nhanh, ngón cái bấm xóa gần như ngay sau đó. Khi ngẩng lên, nó không còn vẻ mệt mỏi của người mất ngủ nữa. Mắt nhìn thẳng ra cửa sổ nhưng quai hàm cứng lại, bàn tay đặt trên đùi khép chặt đến trắng đầu ngón.
 
-Hay không phải người mà chúng đang nghĩ?
+Lúc ấy Quỳnh mới chắc một chuyện.
 
-Quỳnh quay sang Trâm.
+Trâm đang sợ.
 
-Trâm ngồi bàn bên, sát cửa sổ. Từ sáng tới giờ nó ít nói hơn thường ngày. Mỗi lần điện thoại ai rung là vai nó khẽ căng lên.
+Nhưng không phải kiểu sợ quạt trần, số 03:07 hay một cô gái không có hình trong gương.
 
-Khoảng giữa tiết, Trâm cúi xuống ngăn bàn.
-
-Ánh sáng màn hình hắt lên cằm.
-
-Một tin nhắn.
-
-Nó đọc rất nhanh rồi xóa.
-
-Quỳnh không nhìn được nội dung.
-
-Nhưng sau khi xóa xong, Trâm ngẩng đầu lên, mắt nhìn thẳng ra ngoài trời.
-
-Khuôn mặt nó không còn xanh.
-
-Nó đang sợ.
-
-Đó là lần đầu tiên Quỳnh chắc chắn.
-
-Không phải sợ ma.
-
-Là kiểu sợ của một người vừa nhận được tin từ một người khác.
+Nó đang sợ một người nào đó vừa nhắn cho mình.
 
 ***
 
-Tối hôm đó, Hân thực hiện đúng kế hoạch.
+Tối hôm đó Hân kiểm cửa kỹ hơn bình thường. Nó kéo chốt, thử lại một lần, rồi kẹp một mẩu giấy nhỏ giữa cánh cửa với khung.
 
-Mười giờ khóa cửa.
+Thi đứng đánh răng nhìn sang.
 
-Mười giờ mười lăm kiểm tra cửa sổ.
+— Cái giấy đó để làm gì?
 
-Mười giờ hai mươi đặt một mẩu giấy nhỏ kẹp giữa cánh cửa và khung, nếu có người mở cửa từ trong hay ngoài giấy sẽ rơi xuống.
+— Ai mở cửa là nó rớt. Sáng coi còn không.
 
-Thi nhìn nó làm, nhịn một lúc rồi hỏi:
+— Mày làm tao thấy phòng mình giống chỗ giữ tang vật quá.
 
-— Mày định thi công an hả?
+Hân nhún vai.
 
-— Tao định ngủ yên.
+— Còn hơn sáng dậy thiếu một đứa.
 
-— Cái đó khó hơn thi công an đó.
+Không ai nói nữa.
 
-Hân mặc kệ.
+Khoảng mười giờ rưỡi, đèn tắt. Quỳnh để điện thoại dưới gối và đặt báo rung lúc 2 giờ 50. Nó không nói với ai, một phần vì ngại bị hỏi mình định làm gì, phần còn lại vì chính nó cũng không biết. Có lẽ sau ba đêm liên tiếp bị kéo dậy lúc 03:07, Quỳnh chỉ muốn một lần được thức trước cái giờ ấy.
 
-Lan ghi vào cuốn vở:
+Ký túc xá lắng dần. Những phòng đầu hành lang còn rì rầm nói chuyện tới gần nửa đêm, sau đó chỉ còn tiếng nước trong ống thoát, tiếng chân ai đi vệ sinh rồi tiếng cửa khép, cuối cùng là côn trùng rúc dưới những bụi cây ngoài sân.
 
-22:20 — cửa khóa, giấy niêm còn nguyên.
-
-Không ai gọi nó là niêm phong, nhưng từ ấy tự nhiên trở thành cách gọi chung.
-
-Quỳnh nằm xuống.
-
-Nó đặt điện thoại của mình dưới gối, bật báo rung lúc 2 giờ 50.
-
-Không nói với ai.
-
-Nó cũng không biết mình định làm gì nếu 3 giờ 07 lại xảy ra chuyện.
-
-Có lẽ chỉ là muốn thức trước nó.
-
-Đêm càng về khuya, mưa càng nhỏ.
-
-Ký túc xá lắng dần. Những phòng đầu hành lang còn tiếng nói chuyện tới gần mười hai giờ, sau đó từng âm thanh tắt đi. Khoảng một giờ, chỉ còn tiếng nước nhỏ trong ống thoát và tiếng côn trùng rúc dưới bụi cây ngoài sân.
-
-Quỳnh không ngủ sâu.
-
-Nó mơ lẫn lộn. Có lúc tưởng nghe ai kéo ghế. Có lúc tưởng Trâm gọi tên mình.
-
-Điện thoại dưới gối rung.
+Quỳnh chợp mắt được một lúc thì điện thoại dưới gối rung.
 
 02:50.
 
-Quỳnh mở mắt.
-
-Căn phòng tối lờ mờ. Ánh đèn nhà vệ sinh vẫn hắt một vệt vàng lên sàn.
-
-Nó nằm yên.
-
-Một phút.
-
-Hai phút.
-
-Không có gì.
+Nó mở mắt, nằm yên vài giây để quen với bóng tối. Ánh đèn nhà vệ sinh hắt qua khe cửa thành một vệt vàng nhạt trên nền. Không có tiếng nước. Quạt trần vẫn đứng im.
 
 Quỳnh nghiêng đầu nhìn lên giường trên.
 
-Trống.
+Chiếc chăn của Trâm bị hất sang một bên.
 
-Nó ngồi bật dậy.
+Không có người.
 
-Chiếc chăn của Trâm bị gấp sang một bên.
+Cơn buồn ngủ biến mất ngay lập tức. Quỳnh ngồi dậy, nhìn về phía cửa. Mẩu giấy Hân kẹp tối qua đã rơi xuống nền, nằm cách chân cửa gần nửa mét.
 
-Quỳnh nhìn cửa.
+Nó vừa đặt chân xuống sàn thì từ giường đối diện có tiếng Lan thì thào:
 
-Mẩu giấy Hân kẹp tối qua không còn ở khe.
+— Mày làm gì đó?
 
-Nó nằm dưới nền, cách cửa gần nửa mét.
+Lan đã ngồi dậy từ lúc nào, tóc xõa ngang vai, mắt mở tỉnh táo.
 
-Quỳnh xuống giường không gây tiếng động.
+Quỳnh chỉ lên giường Trâm.
 
-Vừa chạm tay vào chốt, một giọng rất khẽ phía sau vang lên:
+— Nó không có ở đây.
 
-— Mày đi đâu?
+Lan nhìn theo, rồi nhìn mẩu giấy dưới cửa.
 
-Quỳnh quay lại.
+— Đợi tao mặc áo.
 
-Lan đang ngồi trên giường, tóc xõa, mắt tỉnh queo.
+— Đừng gọi hết. Lỡ nó chỉ đi đâu gần đây rồi mình làm ầm lên…
 
-— Trâm mất rồi.
+— Ừ. Hai đứa đi coi trước.
 
-Lan nhìn lên tầng trên.
+Lan khoác áo ngoài, nhét điện thoại vào túi. Cả hai bước ra hành lang, khép cửa lại thật nhẹ.
 
-Chỉ mất hai giây để nó hiểu.
+Bóng đèn giữa dãy đã hỏng từ mấy hôm trước, khiến đoạn cầu thang phía cuối chìm trong một khoảng tối dày hơn. Quỳnh đứng nghe. Ở tầng dưới có tiếng cánh cửa sắt phía sau ký túc khẽ va vào khung.
 
-— Đợi tao.
-
-— Đừng gọi cả phòng.
-
-— Tao biết.
-
-Lan khoác áo, nhét điện thoại vào túi quần.
-
-Hai đứa bước ra hành lang.
-
-Mẩu giấy niêm bị đạp nhăn ở gần chân cửa.
-
-Đầu hành lang tối. Bóng đèn số ba hôm trước đã chập chờn, tối nay tắt hẳn. Gió lùa qua cửa sổ cuối dãy mang theo hơi lạnh và mùi đất ẩm.
-
-Không thấy Trâm.
-
-Quỳnh nhìn cầu thang.
-
-Dưới tầng một có tiếng cửa sắt khẽ kêu.
-
-Hai đứa đi xuống.
+Hai đứa nhìn nhau rồi đi xuống.
 
 ***
 
-Cửa phụ phía sau ký túc không khóa hẳn.
+Cửa phụ sau ký túc không đóng hẳn. Một viên gạch nhỏ được chèn ở chân, vừa đủ để cánh cửa không ăn vào ổ khóa.
 
-Một viên gạch nhỏ được chèn ở chân cửa.
+Lan cúi xuống nhìn viên gạch rồi nói rất khẽ:
 
-Lan cúi xuống nhìn.
+— Có người chèn sẵn.
 
-— Không phải tình cờ.
+Ngoài sân, mưa bụi vẫn bay. Hai đứa không bật đèn pin ngay vì sợ lộ, chỉ men theo con đường xi măng dẫn ra khu vườn. Mắt đã quen tối nên sau vài chục mét, Quỳnh nhìn thấy Trâm ở phía trước.
 
-Quỳnh gật.
+Nó mặc áo khoác đen, bước rất nhanh, hoàn toàn khác dáng lơ ngơ ở gốc cây hôm trước. Không cần ai dắt, cũng không hề do dự ở các lối rẽ.
 
-Cả hai không bật đèn pin ngay. Ánh trăng bị mây che gần hết nhưng mắt đã quen bóng tối, đủ thấy con đường lát xi măng dẫn ra khu vườn sau.
+Quỳnh định gọi thì Lan giữ cổ tay lại.
 
-Trâm ở phía trước.
+— Khoan.
 
-Cách chúng gần bốn mươi mét.
+Dưới gốc chôm chôm có một người khác.
 
-Nó mặc áo khoác đen, đi rất nhanh, hoàn toàn khác dáng lờ đờ ở gốc cây hôm trước.
+Người đó mặc áo mưa màu sẫm, mũ trùm kín đầu. Không có gì giống bóng ma trong lời đồn; chỉ là một người sống đứng giữa khu vườn lúc gần ba giờ sáng, và chính điều đó làm Quỳnh thấy lạnh hơn.
 
-Quỳnh và Lan giữ khoảng cách.
+Trâm dừng cách người kia chừng một sải tay. Hai người nói gì đó nhưng gió thổi ngược, chỉ đưa về vài tiếng rời rạc. Trâm lắc đầu mấy lần. Người kia đưa tay giữ vai nó, Trâm lập tức gạt ra.
 
-Đến đoạn qua hàng chuối, Lan kéo Quỳnh dừng lại.
+— Đừng có… — giọng Trâm lọt tới rất khẽ.
 
-— Có người khác.
+Người mặc áo mưa nói thêm câu gì đó. Lần này Quỳnh chỉ nghe được một chữ “anh”.
 
-Quỳnh nhìn theo.
+Lan kéo Quỳnh lùi vào sau bụi dâm bụt.
 
-Bên gốc chôm chôm, một bóng người đứng trong mưa bụi.
+— Đứng đây đã. Ra giờ không biết người đó là ai đâu.
 
-Không mặc áo trắng.
+Quỳnh gật. Tim nó đập nhanh, nhưng đầu óc lại tỉnh đến kỳ lạ. Những gì đang xảy ra trước mặt có thể quay lại bằng camera, có thể để lại dấu giày, có thể có tên người. Nỗi sợ vì vậy trở nên cụ thể hơn rất nhiều.
 
-Không tóc dài.
+Người mặc áo mưa lấy từ túi ra một vật nhỏ, chìa cho Trâm. Nó không nhận. Hai người giằng co bằng lời thêm một lúc rồi Trâm bất chợt quay mặt về phía ký túc. Quỳnh và Lan cùng cúi thấp xuống.
 
-Chỉ là một chiếc áo mưa sẫm màu, mũ trùm kín đầu.
+Khi nhìn lại, người kia đã lùi vào vùng tối phía sau thân cây.
 
-Người đó quay lưng về phía hai đứa.
+Trâm một mình đi tới chân bức tường cũ rồi quỳ xuống. Nó bắt đầu dùng tay bới đất.
 
-Trâm bước tới.
+Lần này không có đôi mắt trắng dã hay giọng nói khàn lạ. Trâm tỉnh táo, biết rõ mình đang đào ở đâu, thỉnh thoảng còn dừng để sờ dọc chân tường như tìm một điểm đã được đánh dấu trước.
 
-Hai người nói gì đó rất nhỏ.
+Quỳnh nhìn giờ trên điện thoại.
 
-Gió thổi ngược nên Quỳnh không nghe được câu nào.
+03:05.
 
-Chỉ thấy Trâm lắc đầu liên tục.
+— Nó đang tìm cái gì vậy? — Quỳnh hỏi nhỏ.
 
-Người kia đưa tay giữ vai nó.
-
-Trâm gạt ra.
-
-Một cử động rất bình thường.
-
-Rất người.
-
-Quỳnh cảm thấy nỗi sợ trong mình đổi hình dạng.
-
-Ma khiến người ta sợ vì không hiểu.
-
-Một người sống đứng giữa khu vườn lúc gần ba giờ sáng lại đáng sợ theo cách khác: bởi nó có mục đích.
-
-Lan ghé sát tai Quỳnh.
-
-— Đừng ra. Xem tiếp.
-
-Quỳnh gật.
-
-Người mặc áo mưa lấy từ túi ra một vật nhỏ, đưa cho Trâm.
-
-Trâm không nhận.
-
-Người đó nói gì đó.
-
-Lần này giọng cao hơn.
-
-Quỳnh chỉ nghe được một chữ:
-
-— ...anh...
-
-Trâm bất ngờ quay mặt về phía ký túc.
-
-Quỳnh và Lan cùng cúi thấp xuống sau bụi dâm bụt.
-
-Khi nhìn lại, người mặc áo mưa đã lùi vào phía sau thân cây.
-
-Trâm đứng một mình.
-
-Nó chậm rãi bước tới chân tường cũ.
-
-Rồi quỳ xuống.
-
-Hai tay bắt đầu đào đất.
-
-— Nó làm gì vậy? — Quỳnh thì thào.
-
-Lan không trả lời.
-
-Đồng hồ trên màn hình điện thoại Quỳnh chuyển 03:05.
-
-Trâm đào nhanh hơn.
-
-Móng tay cào đất ướt, bùn bám kín ngón. Nó không giống người bị nhập. Cũng không giống người mất ý thức.
-
-Nó biết chính xác mình đang tìm gì.
-
-Quỳnh vừa định bước ra thì phía sau có tiếng cành cây gãy.
-
-Cả hai quay phắt lại.
+Lan chưa kịp đáp thì ngay sau lưng có tiếng cành khô gãy.
 
 Một bàn tay chụp lấy vai Quỳnh.
 
-Quỳnh suýt hét.
+Nó giật bắn, miệng vừa mở đã bị người kia vội bịt lại.
 
-Người kia bịt miệng nó trước.
+— Suỵt. Anh đây.
 
-— Im. Anh đây.
-
-Quỳnh nhận ra giọng.
+Quỳnh nhận ra giọng trước khi nhận ra khuôn mặt.
 
 — Anh Quân?!
 
-Quân thả tay.
+Quân buông tay, thở còn gấp. Anh mặc áo khoác xám, tóc ướt mưa, một bên ống quần dính bùn như vừa chạy tắt qua bãi đất phía sau.
 
-Anh mặc áo khoác xám, tóc ướt, thở còn gấp như vừa chạy từ cổng sau vào.
+Lan soi màn hình điện thoại lên mặt anh.
 
-Lan giơ điện thoại lên, ánh sáng màn hình soi nửa khuôn mặt anh.
+— Sao anh ở đây?
 
-— Anh làm gì ở đây?
+Quân nhìn hai đứa, rõ ràng cũng muốn hỏi đúng câu đó.
 
-— Câu đó anh hỏi tụi em mới đúng.
+— Lát nói. Trâm đâu?
 
-Quỳnh chưa kịp đáp thì từ phía cây có tiếng Trâm hét.
+Một tiếng kêu nghẹn bật ra từ phía cây.
 
-Không lớn.
+Cả ba quay lại.
 
-Chỉ một tiếng bật ra như bị ai bóp cổ.
+Người mặc áo mưa đã trở ra, đứng ngay sau Trâm, một cánh tay quàng ngang cổ nó. Quân lao khỏi chỗ nấp gần như cùng lúc.
 
-Ba người cùng quay lại.
+— Ê! Bỏ nó ra!
 
-Trâm đang đứng.
+Người kia buông Trâm và chạy về phía bức tường sau trường. Quân đuổi theo được vài bước thì Lan hét:
 
-Người mặc áo mưa đã xuất hiện phía sau nó.
+— Anh Quân, thôi! Đừng đuổi! Không biết nó có cầm gì đâu!
 
-Một cánh tay vòng qua cổ Trâm.
+Quân khựng lại. Chỉ một thoáng thôi, đủ để người kia trèo qua chỗ hàng kẽm thấp và biến mất sang phía bên kia. Anh chửi thề, quay lại khi thấy Trâm đang quỳ sụp dưới đất.
 
-Quân lao ra trước.
-
-— Ê!
-
-Bóng người buông Trâm, chạy về phía bức tường sau trường.
-
-Lan giữ tay Quỳnh.
-
-— Đừng đuổi!
-
-— Nhưng—
-
-— Tối, mưa, không biết nó có gì trong người. Gọi bảo vệ.
-
-Lan nói rất nhanh, rất tỉnh.
-
-Quân cũng dừng lại sau vài bước.
-
-Anh rõ ràng muốn đuổi, nhưng nhìn Trâm đang quỳ sụp dưới đất rồi quay lại.
-
-— Gọi người đi.
+— Gọi bảo vệ đi — anh nói, vừa cúi xuống đỡ vai nó. — Với gọi Hân ra đây.
 
 Quỳnh bấm số Hân.
 
-03:07.
+Màn hình hiện 03:07 đúng lúc trong túi áo khoác của nó vang lên một tiếng rung.
 
-Đúng lúc cuộc gọi kết nối, chiếc điện thoại cũ trong túi áo Quỳnh rung lên.
+Quỳnh đông cứng.
 
-Quỳnh chết lặng.
+Nó nhớ rất rõ chiếc điện thoại nắp gập vẫn nằm trong vali khóa số ở phòng 201.
 
-Nó đã mang chiếc máy theo từ lúc nào?
+Thế nhưng khi thò tay vào túi, các ngón tay lại chạm phải lớp kim loại lạnh ngắt quen thuộc.
 
-Không.
+Chiếc điện thoại cũ nằm ở đó.
 
-Nó nhớ rất rõ.
-
-Tối nay chiếc điện thoại cũ vẫn nằm trong vali, dưới khóa số.
-
-Quỳnh thò tay vào túi.
-
-Các ngón tay chạm phải một vật lạnh bằng kim loại.
-
-Nó kéo ra.
-
-Chiếc điện thoại nắp gập.
-
-Màn hình sáng.
+Màn hình ngoài đang sáng.
 
 0888 888 888.
 
-Quỳnh nhìn Lan.
+Lan nhìn thấy trước khi Quỳnh kịp nói gì. Mặt nó tái hẳn.
 
-Lan nhìn chiếc máy.
-
-Mặt nó mất sạch màu.
-
-— Cái này... lúc nãy mày có cầm theo không?
+— Lúc đi mày có cầm theo không?
 
 — Không.
 
-Chuông reo ba lần.
+Chuông chỉ reo ba lần rồi tắt. Cả ba không ai chạm nút nhận.
 
-Rồi tắt.
+Ở dưới đất, Trâm bất ngờ bật khóc.
 
-Không ai chạm vào nút nhận.
+— Em xin lỗi…
 
-Ở chân tường, Trâm bỗng khóc nấc lên.
+Quân quay sang, đặt hai tay lên vai nó.
 
-— Em xin lỗi...
+— Trâm, nhìn anh nè. Người vừa rồi là ai?
 
-Quân cúi xuống.
+Trâm ngước lên. Mặt nó lem bùn, nước mưa chảy dọc tóc xuống má. Ánh mắt lúc nhìn Quân hoang mang đến mức khó giả.
 
-— Trâm. Em nhìn anh. Người kia là ai?
+— Anh Quân?
 
-Trâm ngẩng lên.
+— Ừ. Em ra đây với ai? Người đó là ai?
 
-Khuôn mặt nó ướt mưa, bùn dính trên má.
+Trâm nhìn quanh như mới nhận ra mình đang ở đâu. Rồi nó nhìn hai bàn tay dính đầy đất của chính mình.
 
-Nó nhìn Quân như lần đầu thấy anh.
+— Em… không biết. Em nhớ em nằm trong phòng. Sau đó… em không nhớ nữa.
 
-— Anh... Quân?
+Lan nhìn Quỳnh.
 
-— Ừ. Ai vừa giữ em?
+Cả hai đều im.
 
-Trâm quay về phía bức tường.
-
-— Em không biết.
-
-— Em ra đây làm gì?
-
-— Em...
-
-Nó nhìn hai bàn tay đầy bùn của mình.
-
-Một thoáng hoảng loạn thật sự hiện lên trong mắt.
-
-— Em không nhớ.
-
-Lan không nói gì.
-
-Quỳnh cũng không.
-
-Cả hai vừa tận mắt thấy Trâm nói chuyện với người kia trước khi đào.
-
-Nếu Trâm nói dối, nó nói rất giỏi.
-
-Nếu Trâm thật sự không nhớ, chuyện còn tệ hơn.
+Chúng vừa tận mắt thấy Trâm đi thẳng ra đây, nói chuyện với người mặc áo mưa, từ chối một món đồ rồi tự mình đào đất. Nếu nó nói dối, nó đang nói cực kỳ giỏi. Nếu nó không nói dối, chuyện lại càng khó hiểu hơn.
 
 ***
 
-Hân, Thi và chú bảo vệ chạy ra sau chưa đầy năm phút.
+Hân, Thi và chú bảo vệ chạy ra sau chưa đầy năm phút. Người mặc áo mưa đã biến mất, nhưng chỗ hàng kẽm phía sau bị kéo cong và bùn phía ngoài có dấu giày dẫm vào. Mưa làm mép dấu nhòe gần hết.
 
-Người mặc áo mưa đã biến mất.
+Chú bảo vệ soi đèn một lượt rồi nói:
 
-Chú bảo vệ soi đèn dọc bức tường, phát hiện một chỗ dây kẽm phía sau bị kéo cong. Có dấu giày trên bùn nhưng trời mưa làm mép dấu nhòe hết.
+— Người này từ ngoài leo vô. Chỗ này mai phải buộc lại. Tối nay chắc phải báo trực cổng coi có ai thấy gì không.
 
-— Có người leo tường. — chú nói. — Không phải từ trong trường đi ra. Dấu ngoài kia dẫm vào trước.
+Hân vẫn còn thở gấp.
 
-Hân hỏi:
+— Chú báo cô quản sinh giúp tụi con luôn được không chú? Với chỗ này có camera không?
 
-— Chú báo cô quản sinh được không chú?
+— Sau vườn không có. Cổng chính có, nhưng người leo tường thì chưa chắc dính máy.
 
-— Báo chứ. Sáng mai phải kiểm tra camera cổng với hỏi trực đêm.
+Trong lúc họ nói, Lan cúi xuống chỗ Trâm vừa đào. Đất mới bới thành một hố nông, ở giữa lộ ra một góc kim loại gỉ.
 
-— Khu này có camera không chú?
+— Có cái gì ở đây.
 
-— Sau ký túc thì không. Cổng chính có.
+Quân rọi đèn xuống. Đó là một hộp thiếc nhỏ, loại cũ người ta hay dùng đựng bánh quy, mép nắp đã gỉ nâu.
 
-Thi chửi thề rất nhỏ.
+Thi theo phản xạ cúi tới.
 
-Chú bảo vệ quay sang.
+— Mở ra coi—
 
-— Em nói gì?
+— Khoan — Hân giữ vai nó lại. — Đừng đụng nữa. Lần trước mình nạy cái hốc tường là đủ rồi. Nếu cái này dính tới vụ cũ thì để người ta coi trước.
 
-— Em nói... trời mưa ghê chú.
+Chú bảo vệ gật đầu.
 
-Trong lúc mọi người nói chuyện, Lan ngồi xuống chỗ Trâm vừa đào.
+— Đúng. Để yên vậy đi.
 
-Đất đã bị bới thành một hố nông.
+Quỳnh đứng nhìn chiếc hộp, tò mò đến mức muốn tự tay kéo nó lên ngay. Nhưng sau chiếc điện thoại, bức ảnh và những lời ông Phúc dặn, nó hiểu việc biết chậm thêm một chút vẫn tốt hơn làm mất thứ có thể chứng minh điều gì đó.
 
-Có một góc kim loại lộ ra.
+Cô quản sinh cùng một cán bộ trực trường xuống sau đó. Họ chụp vị trí hộp, đánh dấu chỗ đất rồi mới đeo găng nhấc lên. Khi được hỏi chuyện gì xảy ra, Hân kể đúng phần có thể kể rõ: Trâm rời phòng, cả nhóm đi tìm, thấy một người lạ trong vườn, người đó chạy qua tường và chỗ đất bị đào lộ ra chiếc hộp.
 
-— Ở đây có cái gì.
+Không ai nói Trâm bị nhập.
 
-Quân chiếu đèn xuống.
-
-Một chiếc hộp thiếc nhỏ, loại ngày trước người ta hay đựng bánh quy.
-
-Nắp gỉ quanh mép.
-
-Hân nói ngay:
-
-— Không mở ở đây.
-
-— Tại sao? — Thi hỏi.
-
-— Vì nếu là đồ liên quan vụ cũ thì đừng có tám đứa sờ tay vô rồi sáng mai kể công an nghe là tụi mình đã phá sạch dấu.
-
-Chú bảo vệ nhìn Hân hơi bất ngờ.
-
-— Em nói đúng đó. Để nguyên.
-
-Quỳnh nhìn chiếc hộp.
-
-Nó muốn mở đến mức đầu ngón tay ngứa ran.
-
-Nhưng Hân đúng.
-
-Chúng đứng chờ cô quản sinh và một cán bộ trực trường xuống. Chiếc hộp được chụp ảnh tại chỗ, sau đó mới dùng găng tay nhấc lên, đặt vào một túi nilon sạch.
-
-Khi cô quản sinh hỏi ai phát hiện, cả nhóm nhìn nhau.
-
-Không ai kể chuyện Trâm bị nhập.
-
-Hân chỉ nói:
-
-— Tụi em thấy bạn đi ra ngoài nên đi theo. Có người lạ trong vườn. Lúc người đó chạy thì tụi em thấy chỗ đất bị đào.
-
-Đó là sự thật.
-
-Chỉ không phải toàn bộ sự thật.
+Không ai cần phải nói dối.
 
 ***
 
-Gần bốn giờ, mọi người mới quay lại phòng 201.
+Gần bốn giờ, mọi người mới quay lại dãy phòng. Trâm được cô quản sinh đưa sang phòng y tế nằm tạm. Quân đứng ngoài hành lang, hai tay chống lan can, nhìn mưa lất phất ngoài sân.
 
-Trâm được đưa sang phòng y tế ngủ tạm vì cô quản sinh không muốn nó ở lại một mình. Quân đứng ngoài hành lang, hai tay chống lan can, nhìn mưa.
+Quỳnh đi ra đứng cạnh anh.
 
-Quỳnh bước ra.
+— Anh chưa nói sao anh ở đó.
 
-— Anh.
+Quân lấy điện thoại từ túi áo, mở một tin nhắn rồi đưa cho nó.
 
-Quân không quay lại.
-
-— Cái ảnh đâu?
-
-Quỳnh im.
-
-Anh quay sang.
-
-— Anh biết em có nó.
-
-— Sao anh biết?
-
-— Vì người nhắn tin cho anh nói.
-
-Quân lấy điện thoại ra.
-
-Một tin nhắn đến lúc 2 giờ 11.
-
-Không lưu tên.
-
-Người gửi: 0888 888 888.
-
-Nội dung chỉ có một dòng:
+Tin đến lúc 2 giờ 11 từ số 0888 888 888.
 
 “03:07. Cây chôm chôm. Muốn em gái mày sống thì tới.”
 
-Quỳnh đọc xong, cổ họng khô lại.
+Quỳnh đọc xong thấy cổ họng khô lại.
 
-— Số này...
+— Sao nó có số anh?
 
-— Anh biết. — Quân nói. — Tối qua em gọi kể số điện thoại, anh đã nhớ.
+— Anh còn muốn biết hơn em.
 
-— Em đâu có kể số.
+— Anh biết số này từ đâu? Em có kể anh đâu.
 
-Quân nhìn nó.
+Quân định đáp, rồi dừng hẳn. Anh nhìn lại màn hình, vẻ mặt thay đổi.
 
-Một giây.
+— Hôm qua em không đọc số cho anh thật à?
 
-Hai giây.
+— Không. Em chỉ kể cái điện thoại gọi lúc ba giờ bảy.
 
-— Không kể?
+Gió lùa dọc hành lang. Quân im lặng rất lâu. Lần đầu tiên Quỳnh thấy anh thực sự mất chỗ bấu víu, không phải vì bị nghi hay vì chuyện cũ của Trang, mà vì ngay chính anh cũng không giải thích nổi thứ đang nằm trong tay mình.
 
-— Không.
+Anh khóa màn hình.
 
-Gió ngoài hành lang thổi mạnh hơn.
+— Cái ảnh em lấy ở hốc tường đâu?
 
-Quân nhìn lại màn hình điện thoại.
-
-Lần đầu tiên từ lúc xuất hiện, Quỳnh thấy anh thực sự sợ.
-
-Không phải sợ cho mình.
-
-Là sợ vì có một điều anh không thể giải thích.
-
-— Cho anh xem tấm ảnh.
-
-Quỳnh lấy từ túi áo trong ra.
-
-Quân chỉ nhìn một lần.
-
-Không cần soi.
-
-Không cần đoán.
+Quỳnh rút nửa tấm ảnh khỏi túi áo trong. Quân chỉ nhìn một lần.
 
 — Là anh.
 
-Quỳnh cảm giác ngực mình thắt lại dù đã chuẩn bị trước câu trả lời.
+Dù đã đoán từ trước, Quỳnh vẫn thấy ngực mình siết lại.
 
 Quân tựa lưng vào lan can.
 
-— Ảnh chụp mùa hè năm lớp mười một. Ở hồ sau trường. Trang nhờ một đứa bạn chụp.
+— Ảnh chụp hè năm lớp mười một. Ở hồ sau trường. Trang nhờ bạn chụp.
 
-— Hai người yêu nhau?
+— Hai người từng quen nhau đúng không?
 
 — Ừ.
 
-— Sao anh nói chỉ là bạn cũ?
+— Vậy hôm qua sao anh nói “bạn cũ”?
 
-Quân cười rất nhạt.
+Quân quay sang nhìn em gái.
 
-— Vì ba giờ chiều em gọi anh giữa xưởng rồi hỏi một người chết cách đây năm năm có thai với ai. Anh không nghĩ đó là lúc thích hợp để kể chuyện tình cũ.
+— Vì em gọi cho anh giữa xưởng rồi hỏi thẳng một người chết năm năm trước có thai với ai. Anh chưa kịp hiểu em đang vướng chuyện gì nữa. Anh nói “bạn cũ” cho nhanh, chứ anh đâu có định giấu luôn.
 
-— Anh với chị ấy chia tay lúc nào?
+Câu trả lời nghe vừa bực vừa mệt, đúng giọng Quân hơn những lời giải thích vòng vo Quỳnh đã tưởng tượng trong đầu.
+
+— Hai người chia tay khi nào?
 
 — Cuối tháng sáu năm 2007.
 
-— Tại sao?
+— Vì sao?
 
 Quân im một lúc.
 
-— Không phải chuyện của em.
+— Hồi đó Trang thân với một người khác. Anh ghen, tụi anh cãi nhau rồi chia tay. Chuyện cụ thể… anh không muốn kể hết, được không?
 
-Quỳnh nhìn thẳng anh.
+Quỳnh định nói không, nhưng nhìn vẻ mặt anh thì đổi ý.
 
-— Bây giờ có người đang nhắn tin dọa giết em bằng số điện thoại liên quan tới chị ấy. Nó thành chuyện của em rồi.
+— Em chỉ cần biết cái nào liên quan vụ này thôi.
 
-Quân quay mặt đi.
+Quân gật.
 
-Hàm anh siết lại.
+— Anh không biết ai làm Trang có thai. Không phải anh. Tụi anh chưa từng tới mức đó. Sau khi tìm thấy xác anh mới biết cô ấy có thai, giống tất cả mọi người.
 
-— Trang có người khác.
+Quỳnh cúi nhìn lan can ướt.
 
-— Ai?
+— Đêm chị Trang mất, anh ở đâu?
 
-— Anh không biết chắc.
+— Tối đó anh ở nhà Tùng tới khoảng một rưỡi. Sau đó đạp xe về. Ba mẹ ngủ hết nên từ lúc đó tới sáng không ai xác nhận anh ở nhà. Hồi đó công an cũng hỏi đúng chuyện này.
 
-— Anh đoán ai?
-
-— Quỳnh.
-
-— Em đang hỏi anh.
-
-— Và anh đang nói anh không biết chắc.
-
-Giọng Quân hơi gắt lên, nhưng anh dừng ngay, đưa tay vuốt mặt.
-
-— Xin lỗi.
-
-Mưa rơi thành một màn mỏng ngoài sân.
-
-Quân nói nhỏ hơn:
-
-— Hồi đó anh ghen. Anh đã nghĩ đủ thứ. Nhưng nghĩ không phải biết. Sau khi Trang chết, công an hỏi anh tất cả. Anh khai hết những gì anh biết.
-
-— Anh có biết chị ấy mang thai không?
-
-— Sau khi tìm thấy xác mới biết.
-
-— Có thể là con anh không?
-
-Quân nhìn em gái rất lâu.
-
-— Không.
-
-Câu trả lời lần này không nhanh.
-
-Không né tránh.
-
-— Tụi anh chưa từng đi tới mức đó.
-
-Quỳnh thấy mặt nóng lên vì ngượng, nhưng vẫn hỏi tiếp:
-
-— Đêm Trang chết anh ở đâu?
-
-Quân cúi nhìn sàn.
-
-— Ở nhà thằng Tùng.
-
-Tên đó rơi vào giữa hai người nhẹ như một giọt nước.
-
-Quỳnh chưa biết vài ngày sau nó sẽ trở thành cái tên khiến mọi thứ đổi hướng.
-
-Lúc này nó chỉ hỏi:
-
-— Tùng nào?
+— Tùng là ai?
 
 — Nguyễn Hoàng Thanh Tùng. Bạn thân anh hồi cấp ba.
 
-Quân nhìn về phía cuối hành lang.
+Quân ngừng một chút rồi nói thêm:
 
-— Nó là một trong những người cuối cùng còn gặp cả anh lẫn Trang trước khi mọi chuyện xảy ra.
+— Nó là một trong số ít người biết khá rõ chuyện của anh với Trang.
+
+Tên Tùng lúc ấy vẫn chỉ là một cái tên mới đối với Quỳnh. Nó chưa biết vài ngày nữa, mọi thứ trong căn phòng 201 sẽ bắt đầu xoay quanh người đó.
 
 ***
 
-Sáu giờ sáng, khi trời bắt đầu nhạt màu, cán bộ trường mang chiếc hộp thiếc trở lại phòng quản sinh.
+Sáu giờ sáng, trời vừa chuyển màu xám nhạt, Hân, Lan và Quỳnh được gọi xuống phòng quản sinh. Chiếc hộp thiếc đã được giữ nguyên ở đó, chờ người có trách nhiệm tới kiểm tra.
 
-Không có công an tới ngay trong đêm vì chiếc hộp chưa được xác định liên quan vụ án cũ; trường chỉ lập biên bản, giữ người phát hiện và báo đầu mối công an phường vào buổi sáng.
-
-Quỳnh, Hân và Lan được gọi xuống làm việc.
-
-Chiếc hộp được mở trước mặt họ.
-
-Bên trong không có xương.
-
-Không có tóc.
-
-Không có thứ gì kinh khủng như Thi đã tưởng tượng suốt từ lúc trở về.
+Khi nắp hộp được mở, bên trong không có thứ gì giống những hình ảnh Thi đã tự dọa mình suốt mấy tiếng trước.
 
 Chỉ có một cuốn sổ bìa nâu, mép giấy ố vàng.
 
-Ở trang đầu tiên, bằng nét mực xanh đã nhạt, có một cái tên:
+Trang đầu tiên viết bằng mực xanh đã nhạt:
 
 Lê Thị Yến Trang.
 
-Dưới cái tên là một dòng nhỏ hơn:
+Bên dưới là dòng nhỏ hơn:
 
 12A2 — 2007.
 
-Quỳnh nhìn cuốn sổ.
+Quỳnh đứng nhìn cuốn sổ rất lâu. Trong túi áo, chiếc điện thoại nắp gập đã trở lại lạnh ngắt, tối đen như một món đồ chết từ nhiều năm trước.
 
-Trong túi áo nó, chiếc điện thoại nắp gập lạnh ngắt.
-
-Và ở đâu đó ngoài cổng trường, một người vừa bước lên chuyến xe buýt đầu tiên của buổi sáng, cởi chiếc áo mưa sẫm màu, gấp nó thật gọn rồi nhét xuống đáy túi.
+Ngoài cổng trường, chuyến xe buýt đầu ngày vừa rời bến. Trên một hàng ghế gần cuối, một người cởi chiếc áo mưa sẫm màu, gấp nó lại thật gọn rồi nhét xuống đáy túi.
