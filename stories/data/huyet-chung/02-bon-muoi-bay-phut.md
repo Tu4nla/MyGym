@@ -1,24 +1,26 @@
-Thi tới quán bún chả trước khi Trung ăn hết phần thịt thứ hai.
+Thi tới quán bún chả khi bình trà trên bàn Trung vẫn còn nguyên.
 
-Hắn nhìn cô kéo ghế đối diện, rồi nhìn túi hồ sơ trên tay cô.
+Cô kéo ghế đối diện, đặt túi hồ sơ xuống sát chân rồi nhìn bát nước chấm trước mặt hắn.
 
-— Tao có nên gọi thêm một suất cho không khí bớt căng không?
+— Không ăn nữa à?
+
+— Đang chờ xem mày định làm tao mất ngon bằng chuyện gì.
 
 — Cứ ăn đi.
 
-Trung đặt đũa xuống.
+Trung cầm đũa lên được nửa đường rồi lại đặt xuống.
 
-— Vậy là không phải chuyện nhỏ.
+— Câu đó còn đáng sợ hơn.
 
-Thi không vòng vo. Cô hỏi hắn nhớ gì về sáng 24 tháng 9, sau khi Tùng chết và đội khám nghiệm bắt đầu làm việc ở tầng hầm nhà Pá Tra.
+Thi không cười. Cô hỏi thẳng hắn nhớ gì về sáng 24 tháng 9, sau khi Tùng chết và đội khám nghiệm bắt đầu làm việc ở tầng hầm nhà Pá Tra.
 
-Trung nhíu mày, mất vài giây mới kéo được ký ức về đúng chỗ.
+Trung nhíu mày. Mất vài giây hắn mới kéo được ký ức về đúng buổi sáng ấy: mùi đất ẩm trong hầm, cây đỏ đã bị cắt, tiếng người gọi túi niêm phong, Thi cằn nhằn ai đó vì bước quá gần rãnh dẫn.
 
-— Tao xuống hầm hai lần. Lần đầu đứng ngoài nhiều hơn vì mùi khó chịu. Lần sau Minh bảo thiếu túi niêm phong, tao mang xuống cho mày. Có một ông chụp ảnh ở luống bên phải. Mày đang cãi ai đó vụ không được dẫm qua rãnh.
+— Tao xuống hai lần. Lần đầu đứng ngoài nhiều hơn vì mùi khó chịu. Lần sau Minh bảo thiếu túi, tao mang xuống cho mày. Ông chụp ảnh đứng bên phải. Mày đang cãi vụ không được giẫm qua rãnh.
 
 — Sau đó?
 
-— Tao đưa túi. Đi vòng qua chỗ mấy cây bị cắt. Rồi lên.
+— Đưa túi. Đi vòng qua mấy luống. Rồi lên.
 
 — Có nhặt gì không?
 
@@ -26,37 +28,39 @@ Trung nhìn cô.
 
 — Không nhớ.
 
-Thi không sửa câu đó thành “không”.
+Thi giữ nguyên câu trả lời ấy.
 
-— Có thấy một chiếc lọ thủy tinh nắp đen không?
+— Có nhớ thấy một chiếc lọ thủy tinh nhỏ, nắp đen không?
 
-Hắn nghĩ lâu hơn.
+Hắn cúi mắt xuống bàn, cố tìm hình ảnh trong đầu. Không có gì ngoài những mảng rời: găng tay, túi nilon, chân người, một luống cây đã bị cắt sát gốc.
 
 — Không nhớ thấy.
 
 — Mày chắc?
 
-— Nếu mày hỏi “tao có ký ức về nó không” thì không. Còn bốn tháng rồi, tao không dám thề một vật bé bằng ngón tay chưa từng nằm trong tầm mắt.
+Trung ngẩng lên.
 
-Câu trả lời làm Thi bớt khó chịu hơn một câu phủ nhận tuyệt đối.
+— Nếu mày hỏi tao có ký ức về nó không thì không. Còn nếu hỏi một vật bé bằng ngón tay có từng nằm trong tầm mắt tao bốn tháng trước không thì tao không dám thề.
+
+Câu trả lời làm nét mặt Thi bớt căng rất nhẹ.
+
+Trung thấy được.
 
 — Sao tự nhiên hỏi cái lọ?
 
-— Nó có trong ảnh hiện trường nhưng không có trong danh sách thu giữ.
+— Nó có trong ảnh hiện trường rồi biến khỏi loạt ảnh trước khi đánh số vật chứng.
 
-Trung không đùa nữa.
+Hắn không nói gì.
 
-— Mất lúc nào?
+— Tao có ở đó trong khoảng ấy?
 
-— Chưa nói được.
-
-— Có tao trong nhóm người ở đó?
-
-Thi nhìn hắn một nhịp rồi gật.
+Thi gật.
 
 — Có.
 
-Trung dựa lưng ghế. Quán vẫn ồn, nhân viên đi qua đặt thêm rau sống lên bàn bên cạnh, một đứa trẻ ở cuối phòng đang khóc vì làm rơi thìa. Những âm thanh rất bình thường khiến câu chuyện giữa hai người nghe càng khó chịu.
+Quán vẫn ồn như cũ. Một đứa trẻ ở bàn cuối làm rơi thìa rồi khóc. Nhân viên đi ngang đặt thêm rau lên bàn bên cạnh. Mùi thịt nướng, nước mắm và than nóng làm câu chuyện giữa họ nghe càng không thuộc về nơi này.
+
+Trung cầm đũa, xoay một vòng trong tay rồi đặt xuống.
 
 — Mày nghĩ tao lấy?
 
@@ -66,11 +70,21 @@ Trung dựa lưng ghế. Quán vẫn ồn, nhân viên đi qua đặt thêm rau 
 
 — Ừ.
 
-Trung nhặt lại đũa nhưng không ăn ngay.
+— Còn mày?
 
-— Được. Tao sẽ không xóa gì trong điện thoại. Cần xem lịch sử vị trí, ảnh, tin nhắn gì thì làm đúng thủ tục rồi tao hợp tác.
+Thi nhìn thẳng hắn.
 
-Thi gật.
+— Tao cũng chưa biết.
+
+Câu đó đau hơn Trung chờ đợi.
+
+Không phải vì hắn muốn Thi bênh mình. Ở Hồng Ngài, chính hắn từng bảo nếu có ngày có bằng chứng hắn nguy hiểm thì đừng để tình cảm làm người khác mù. Hắn chỉ không nghĩ lúc lời đó thành thật, cảm giác sẽ giống một bàn tay lạnh đặt ngay giữa ngực như vậy.
+
+Trung gật.
+
+— Được. Điện thoại, lịch sử vị trí, tin nhắn, ảnh... cần gì thì làm đúng thủ tục rồi lấy. Tao không xóa gì.
+
+Thi gật theo.
 
 — Tối nay đừng đi đâu một mình nếu không cần.
 
@@ -78,103 +92,151 @@ Thi gật.
 
 — Cả hai đều tốt hơn biến mất.
 
-Trung cười rất nhẹ.
+Trung cười được một chút.
 
-— Nghe hợp lý.
+— Nghe cũng hợp lý.
 
-Đó là lần cuối Thi nói chuyện với hắn trước khi camera chung cư ghi Trung rời căn hộ lúc 02 giờ 13 sáng.
+Thi đứng lên. Trước khi đi, cô nhìn bình trà còn nguyên.
+
+— Sao không uống?
+
+Trung nhìn theo mắt cô.
+
+— Không khát.
+
+Hai đứa đều biết hắn đang nói dối.
+
+Không ai vạch ra.
 
 ***
 
-07 giờ 12 hôm sau, Thi gọi lần thứ sáu.
+07 giờ 12 sáng hôm sau, Thi gọi lần thứ sáu.
 
 Không bắt máy.
 
-Trung đã đồng ý nhắn một câu trước bảy giờ nếu đêm không có gì bất thường. Tin nhắn không tới. Nhân viên bảo vệ tòa nhà lại vừa gọi báo camera hành lang cho thấy hắn ra khỏi nhà lúc hơn hai giờ rồi trở về gần ba giờ.
+Trung đã đồng ý trước bảy giờ sẽ nhắn một câu nếu đêm không có gì bất thường. Tin nhắn không tới. Gần như cùng lúc, nhân viên bảo vệ chung cư báo camera hành lang ghi một người giống hắn rời căn hộ lúc 02 giờ 13 rồi quay về lúc 03 giờ.
 
-07 giờ 14, Thi đứng trước cửa căn hộ cùng quản lý ca sáng và một cán bộ đi theo. Điện thoại Trung vẫn đổ chuông bên trong.
+07 giờ 14, Thi đứng trước cửa nhà Trung cùng quản lý ca sáng và một cán bộ đi theo. Điện thoại hắn vẫn đổ chuông bên trong.
 
-— Camera chú thấy rõ là anh ấy à? — Thi hỏi người bảo vệ.
+— Camera chú thấy rõ mặt không? — Thi hỏi người bảo vệ.
 
-— Dáng thì đúng cậu Trung. Mặt không rõ lắm. Tôi xem lại vì đêm qua cậu ấy đi cầu thang bộ chứ không đi thang máy.
+— Không rõ. Dáng thì giống cậu Trung. Tôi để ý vì đêm qua người đó đi cầu thang bộ chứ không dùng thang máy.
 
 — Chú có gặp trực tiếp không?
 
 — Không. Lúc đó tôi xuống phòng kỹ thuật kiểm tra bơm.
 
-Thi bấm chuông thêm lần nữa, gọi tên Trung qua cửa. Vẫn không có phản ứng.
+Thi gọi tên Trung qua cửa thêm hai lần. Vẫn im.
 
-Việc mở bằng chìa khẩn cấp được quản lý tòa nhà đồng ý sau khi Thi giải thích đây là kiểm tra an toàn đối với người đang được bảo vệ và đã mất liên lạc bất thường. Cô ghi lại thời điểm mở cửa bằng điện thoại trước khi bước vào.
+Quản lý tòa nhà đồng ý dùng chìa khẩn cấp sau khi Thi giải thích đây là kiểm tra an toàn đối với một người đang được bảo vệ và đã mất liên lạc bất thường. Cô ghi thời điểm mở cửa bằng điện thoại trước khi bước vào.
+
+Căn hộ không có dấu xáo trộn rõ ràng.
 
 Trung nằm trên giường.
 
 Ngủ thật.
 
-Một chân thò khỏi chăn, tóc rối, điện thoại nằm trên sạc. Đồng hồ thông minh vẫn ở cổ tay trái.
+Một chân thò khỏi chăn, tóc rối, điện thoại cắm sạc bên cạnh. Đồng hồ thông minh vẫn ở cổ tay trái.
 
-Thi đứng ở cửa phòng ngủ vài giây, cảm giác nhẹ nhõm tới trước rồi cơn giận mới theo sau.
+Cảm giác nhẹ nhõm tới trước, cơn giận của Thi theo sau ngay sau đó.
 
 — Trung.
 
-Hắn không dậy.
+Không phản ứng.
 
-— Trung!
+Cô gọi lần nữa lớn hơn.
 
-Lần này Trung bật ngồi, mắt còn không mở hết.
+Trung bật ngồi, mắt chưa mở hết.
 
 — Gì vậy?
 
-— Mày đi đâu lúc hai giờ mười ba?
+— Mày đi đâu lúc 02:13?
 
-Hắn nhìn Thi, rồi nhìn cán bộ đứng ngoài cửa phòng.
+Hắn nhìn Thi, nhìn cán bộ ngoài cửa phòng rồi nhìn đồng hồ trên tay như thể còn chưa hiểu câu hỏi.
 
 — Tao ngủ.
 
-— Camera ghi một người từ nhà mày đi ra lúc 02:13, quay lại 03:00.
+— Camera ghi một người từ nhà mày đi ra lúc 02:13. 03:00 quay lại.
 
-Trung im vài giây như đang chờ đầu óc tỉnh hẳn.
+Trung ngồi yên thêm vài giây để đầu óc tỉnh hẳn.
 
 — Tao không nhớ ra ngoài.
 
 — Mở dữ liệu đồng hồ.
 
-Hắn làm ngay. Ứng dụng ghi bắt đầu ngủ lúc 22:38, thức lúc 07:09. Nhịp tim và chuyển động suốt đêm phù hợp với một giấc ngủ tương đối liền, không có khoảng vận động kéo dài bốn mươi bảy phút.
+Hắn làm ngay. Ứng dụng ghi bắt đầu ngủ lúc 22:38, thức lúc 07:09. Nhịp tim và chuyển động suốt đêm trông giống một giấc ngủ tương đối liền, không có khoảng hoạt động kéo dài bốn mươi bảy phút.
 
-Thi không giật đồng hồ khỏi tay hắn. Cô chỉ hỏi:
+Thi hỏi:
 
-— Mày có tháo nó ra không?
+— Mày có tháo đồng hồ ra không?
 
-— Không nhớ tháo. Bình thường tao ngủ vẫn đeo.
+— Không nhớ tháo. Bình thường ngủ tao vẫn đeo.
 
-— Có thiết bị khác đồng bộ vào tài khoản?
+— Có thiết bị khác đăng nhập tài khoản?
 
 — Không.
 
-Trung nhìn biểu đồ trên màn hình, lần đầu sắc mặt thực sự thay đổi.
+Trung nhìn biểu đồ thêm một lúc.
 
 — Nếu camera đúng thì cái này sai.
 
-— Hoặc ngược lại. Hoặc cả hai thiếu một thứ mình chưa biết.
+— Hoặc camera thiếu một phần. Hoặc đồng hồ thiếu một phần. Hoặc cả hai đang kể đúng những thứ khác nhau.
 
-Hắn gật, rồi tự đứng dậy đi kiểm tra phòng. Không phải kiểu lục tung như người hoảng loạn; Trung đi rất chậm, bắt đầu từ những thứ hắn biết mình thường dùng.
+— Nghe đỡ đáng sợ ghê.
 
-Giày đủ ở kệ. Áo khoác đen treo cạnh cửa. Gấu áo khô và không có bùn rõ ràng. Ví vẫn trong ngăn kéo. Xe ô tô và xe máy đều còn chìa. Cửa sổ khóa trong. Ban công tầng mười hai không có dấu gì dễ nhìn cho thấy có người trèo qua.
+Thi nhìn hắn.
 
-Trung quay lại chỗ khóa cửa điện tử.
+— Tao không định làm mày đỡ sợ bằng một đáp án giả.
 
-— Mã cửa đổi hồi tháng trước.
+Trung gật. Hắn xuống giường, đi kiểm tra căn hộ mà không ai bảo.
+
+Đầu tiên là giày.
+
+Đủ ở kệ. Đôi hắn hay mang ban đêm nằm đúng chỗ, đế khô.
+
+Áo khoác đen treo cạnh cửa. Gấu áo không có bùn hay nước mưa rõ ràng. Ví ở ngăn kéo. Chìa ô tô và xe máy đều còn. Cửa sổ khóa trong. Ban công tầng mười hai không có dấu nào dễ thấy cho thấy người từng trèo qua.
+
+Trung quay sang khóa cửa điện tử.
+
+— Mã này tao đổi tháng trước.
 
 — Ai biết?
 
-— Tao. Không gửi ai.
+— Tao.
 
-— Đừng đổi ngay. Để kỹ thuật lấy log trước.
+— Không gửi Thi? Quân? Ai khác?
 
-Hắn đưa tay ra định bấm rồi dừng lại giữa chừng.
+— Không.
+
+Hắn đưa tay định mở phần cài đặt rồi dừng giữa chừng.
+
+— Đừng đổi. — Thi nói. — Để kỹ thuật lấy log trước.
 
 — Ừ.
 
-Thi thấy động tác đó và hiểu chuyện đã bắt đầu chạm tới Trung ở nơi khó chịu nhất. Không phải hắn sợ có người giả mình. Hắn đang sợ chính thói quen của mình không còn là thứ có thể tin tuyệt đối.
+Bàn tay Trung vẫn treo trên màn hình thêm một nhịp rồi mới hạ xuống.
+
+Thi nhìn thấy rõ khoảnh khắc ấy. Không phải hắn đang sợ có người giả mình. Cái đáng sợ hơn là hắn bắt đầu nghi cả những việc mình vẫn coi là chắc chắn: mình đã khóa cửa chưa, mình có đưa mã cho ai không, mình có tháo đồng hồ mà quên không.
+
+Trung quay ra phòng khách.
+
+— Cho tao giấy.
+
+— Làm gì?
+
+— Viết những thứ tao nhớ trước khi xem camera. Không muốn lát nữa nhìn video xong lại tưởng mình vốn đã nhớ như thế.
+
+Thi lấy sổ nhỏ trong túi đưa hắn.
+
+Trung viết: **ngủ trước 23h; đồng hồ còn trên tay; không nhớ ra ngoài; xe không đi; không nhớ mở cửa; không nhớ lấy áo.**
+
+Hắn đọc lại một lần rồi ký tên ở dưới như thể đang lập biên bản cho chính mình.
+
+— Xong.
+
+Thi không cười.
+
+— Giữ trang đó.
 
 ***
 
@@ -182,57 +244,89 @@ Phòng bảo vệ tua lại đoạn 02:13.
 
 Cửa căn hộ mở. Một người đàn ông mặc áo tối màu bước ra hành lang.
 
-Không thấy rõ mặt, nhưng chiều cao, vai và cách đặt chân rất giống Trung. Khi tới gần cửa cầu thang, người đó đưa tay trái xoa sau gáy hai lần.
+Không thấy rõ mặt. Nhưng chiều cao, vai, nhịp bước rất giống Trung. Khi gần tới cửa cầu thang, người đó đưa tay trái lên xoa sau gáy hai lần.
 
-Trung ngồi sát màn hình.
+Trung nghiêng người sát màn hình.
 
 — Tao hay làm vậy.
 
-Thi không trả lời.
+Thi đứng bên cạnh, không trả lời.
 
-Camera cầu thang mất tín hiệu từ 02:11 tới 03:04. Bảo vệ nói tháng đó chưa từng ghi nhận lỗi tương tự. Camera sảnh chính không thấy người đi qua; lối cầu thang có thể xuống một cửa kỹ thuật phía sau, còn camera ngoài trời đúng đêm mưa nên gần nửa khung hình bị nước che.
+Camera cầu thang mất tín hiệu từ 02:11 tới 03:04. Bảo vệ nói tháng đó chưa từng ghi nhận lỗi tương tự. Camera sảnh chính không thấy người đi qua. Lối cầu thang có thể xuống một cửa kỹ thuật phía sau; camera ngoài trời đêm đó lại bị mưa che gần nửa khung.
 
-03 giờ đúng, người mặc áo tối trở lại từ cầu thang. Hắn đứng trước cửa căn hộ, cánh tay che phần bàn phím nhưng các ngón tay có chuyển động nhập mã. Cửa mở.
+03:00, người mặc áo tối trở lại từ cầu thang. Hắn đứng trước cửa căn hộ, cánh tay che phần bàn phím nhưng các ngón có chuyển động nhập mã. Khóa mở.
 
-Trung cúi gần màn hình hơn.
+Trung nhìn chăm chăm.
 
 — Nó biết mã.
 
-— Hoặc mày biết. — Thi nói.
+Thi nói rất nhẹ:
 
-Hắn quay sang, rồi gật.
+— Hoặc mày biết.
+
+Hắn quay sang cô.
+
+Không phản ứng giận dữ. Chỉ gật.
 
 — Ừ. Hoặc tao.
 
-Câu đó được nói rất bình tĩnh, nhưng Thi nhận ra Trung không còn tự động dùng câu đùa để đẩy nỗi sợ ra xa nữa.
+Sau đó Trung xin xem lại đoạn người kia đi từ cửa nhà tới cầu thang. Một lần. Hai lần. Rồi năm lần.
 
-Xe của hắn vẫn nằm nguyên trong hầm suốt đêm.
+— Mày tìm gì? — Thi hỏi.
 
-— Cho tao xem bản sao sau khi bên kỹ thuật giữ bản gốc được không? — Trung hỏi.
+— Chỗ nó không giống tao.
 
-— Khi Khải cho phép.
+— Thấy chưa?
 
-— Tao muốn tự xem cách nó đi.
+— Chưa.
+
+Hắn tua chậm ở một bước chân phải.
+
+— Tao đi hơi chếch mũi chân phải ra ngoài vì cái cổ chân cũ.
+
+Người trên camera cũng vậy.
+
+Trung tua tiếp tới động tác xoa gáy.
+
+— Tao hay xoa hai cái đúng kiểu này khi căng.
+
+Người trên camera cũng làm hai lần.
+
+Thi định nói một người theo dõi đủ lâu có thể bắt chước. Cô không nói ngay, vì biết câu đó chỉ là một khả năng, không phải thuốc an thần.
+
+Trung tắt đoạn video.
+
+— Tao không tìm được.
+
+— Không tìm được bây giờ không có nghĩa không có.
 
 — Tao biết.
 
-— Không phải để chứng minh vô tội.
+Hắn nhìn hình dừng của chính dáng người mình trước cửa cầu thang.
 
-Thi nhìn hắn.
+— Nhưng nếu là tao thật thì sao?
 
-— Vậy để làm gì?
+Thi không né.
 
-Trung chỉ vào hình người đang đứng trước cửa nhà mình.
+— Thì mình tìm xem bốn mươi bảy phút đó mày đã làm gì.
 
-— Xem nó có chỗ nào không giống tao.
+— Còn nếu không phải?
+
+— Thì tìm thằng nào biết mày tới mức này.
+
+Lần đầu từ sáng, Trung thở ra được một hơi dài.
+
+Không phải vì hai khả năng đều dễ chịu.
+
+Mà vì Thi vẫn nói **mình**.
 
 ***
 
-Khải tới lúc 09 giờ 35. Anh không bắt đầu bằng video. Trước tiên anh hỏi quản lý hệ thống ai có quyền truy cập đầu ghi, mật khẩu đổi lần cuối khi nào, có kết nối từ xa hay không và camera cầu thang mất tín hiệu từ thiết bị hay từ phần lưu trữ. Ổ dữ liệu được sao lưu nguyên trạng, log được giữ lại trước khi bất kỳ ai thử khởi động lại hệ thống.
+Khải tới lúc 09 giờ 35. Anh không bắt đầu bằng hình người giống Trung. Trước tiên anh hỏi hệ thống camera: ai có quyền truy cập, mật khẩu đổi khi nào, có kết nối từ xa không, mất tín hiệu cầu thang là ở camera hay file lưu. Ổ dữ liệu được sao lưu nguyên trạng; log được giữ trước khi ai khởi động lại thiết bị.
 
-Sau đó Khải mới xem người đàn ông ra vào căn hộ.
+Sau đó Khải mới xem video.
 
-— Có ba nhóm khả năng đủ để làm việc trước mắt. — anh nói. — Một người rất giống Trung và biết mã cửa. Dữ liệu hình ảnh hoặc thiết bị bị can thiệp. Hoặc Trung thật sự ra ngoài nhưng không nhớ.
+— Trước mắt có ba nhóm khả năng. Một người rất giống Trung và biết mã cửa. Dữ liệu hoặc thiết bị bị can thiệp. Hoặc Trung thật sự ra ngoài nhưng không nhớ.
 
 Trung khoanh tay.
 
@@ -242,15 +336,13 @@ Trung khoanh tay.
 
 — Tốt.
 
-Mười phút sau, điện thoại Khải rung. Anh nghe chưa tới nửa phút rồi ghi địa chỉ vào sổ.
+Điện thoại Khải rung mười phút sau. Anh nghe chưa tới nửa phút rồi ghi một địa chỉ.
 
-— Có thêm một người chết.
+— Có thêm người chết.
 
-Thi đứng lên.
+Nạn nhân tên Vũ Mạnh Cường, ba mươi tám tuổi. Thời gian tử vong sơ bộ khoảng hai rưỡi tới ba giờ sáng.
 
-Nạn nhân tên Vũ Mạnh Cường, ba mươi tám tuổi. Thời gian tử vong sơ bộ nằm trong khoảng hai rưỡi tới ba giờ sáng.
-
-Trung nhìn đồng hồ trên màn hình camera: 02:13. 03:00.
+Trung nhìn đồng hồ trên màn hình: 02:13. 03:00.
 
 Bốn mươi bảy phút.
 
@@ -258,59 +350,59 @@ Bốn mươi bảy phút.
 
 Thi nhập địa chỉ.
 
-— Khoảng mười bốn cây số.
+— Khoảng mười bốn cây.
 
 — Xe tao không đi.
 
 Khải đóng sổ.
 
-— Hà Nội không thiếu phương tiện khác.
+— Hà Nội không thiếu cách di chuyển khác.
 
 Trung không cãi.
 
 ***
 
-Cường được tìm thấy trong kho phía sau một cơ sở giết mổ đã bỏ thuê từ tháng trước. Điện thoại cho thấy hắn liên lạc thường xuyên với Phạm Quốc Hưng — người chết đầu tiên.
+Cường được tìm thấy trong kho phía sau một cơ sở giết mổ đã bỏ thuê. Điện thoại cho thấy hắn liên lạc thường xuyên với Phạm Quốc Hưng.
 
-Cường nằm cạnh rãnh thoát nước. Không bị lột da mặt, cũng không có vết cháy ở lòng bàn tay. Thương tích nổi bật nằm ở cổ: hai cung dấu ép sâu gần khí quản, mô bị xé và lượng máu tại chỗ ít hơn mức nhìn bề ngoài người ta dễ hình dung.
+Trung không được vào trong. Hắn ngồi ở xe đơn vị ngoài hàng rào với một cán bộ khác. Quyết định đó khiến Thi khó chịu, nhưng cô không phản đối. Nếu Trung có thể là mục tiêu hoặc người liên quan, để hắn bước vào một hiện trường mới chỉ vì hắn thuộc nhóm cũ là sai từ cả hai phía.
 
-Trung không được vào hiện trường. Hắn ngồi trong xe của đơn vị ngoài hàng rào cùng một cán bộ khác. Quyết định đó làm Thi khó chịu nhưng cô không phản đối.
+Bác sĩ pháp y Thành xem ảnh phần cổ rồi nói:
 
-Bác sĩ pháp y Thành xem ảnh phóng lớn rồi nói:
-
-— Hình cung răng gần người trưởng thành hơn động vật, nhưng mô rách nhiều nên chưa so được chính xác. Đừng gọi là “người cắn” trước khi có mẫu.
+— Có hai cung dấu ép sâu gần khí quản. Hình chung gần dấu răng người trưởng thành hơn động vật, nhưng mô rách nhiều, chưa so chính xác được. Đừng gọi là “người cắn” trước khi có mẫu.
 
 — Máu mất nhiều không anh?
 
-— Chưa ước lượng. Cần khám nghiệm đầy đủ.
+— Chưa ước lượng. Khám nghiệm đầy đủ mới nói.
 
-Các đầu ngón tay nạn nhân có đất bẩn và vụn sơn xanh, phù hợp với việc đã giằng co ở đâu đó trong kho.
+Đầu ngón tay Cường có đất và vụn sơn xanh, phù hợp với giằng co ở đâu đó trong kho.
 
-Camera một nhà xưởng phía ngoài ghi lúc 02:31 có taxi dừng ở đầu đường. Một người mặc áo đen xuống xe, đi bộ vào khu kho lúc 02:33. Mặt bị khẩu trang che, hình xa và nhiễu.
+Camera một xưởng bên ngoài ghi lúc 02:31 có taxi dừng ở đầu đường. Một người mặc áo đen xuống xe, đi vào khu kho lúc 02:33. Mặt bị khẩu trang che, hình xa.
 
-Thi không cần ai nói cho mình thấy điểm giống. Vai ngang. Chiều cao gần Trung. Mũi chân phải khi bước hơi chếch ra ngoài — hậu quả của chấn thương cũ mà Thi đã thấy hắn đi như vậy nhiều năm.
+Thi nhìn một lần rồi thu nhỏ ngay.
 
-Khải chỉ hỏi:
-
-— Biển số taxi lấy được không?
-
-— Đang lọc khung tốt nhất.
-
-— Giữ nguyên file nguồn.
-
-Thi phóng hình lên thêm một lần rồi tự tắt.
+Vai ngang. Chiều cao gần Trung. Mũi chân phải lúc bước hơi chếch ra ngoài.
 
 Giống không phải nhận dạng.
 
-Ít nhất cô còn giữ được câu đó.
+Cô nhắc câu đó trong đầu trước khi cảm xúc kịp chen vào.
+
+Khải chỉ hỏi:
+
+— Biển số taxi?
+
+— Đang lọc khung.
+
+— Giữ file nguồn.
+
+Không ai gọi Trung vào xem ngay.
 
 ***
 
-Đến chiều, kỹ thuật chưa thấy dấu chỉnh sửa trực tiếp trên file camera chung cư sau khi ghi. Log cũng không có phiên truy cập từ xa bất thường, dù điều đó chưa loại được can thiệp ở thiết bị hay việc dùng một người giống Trung.
+Đến chiều, kỹ thuật chưa thấy dấu chỉnh sửa trực tiếp trên file camera chung cư sau khi ghi. Log không có phiên truy cập từ xa bất thường, dù chưa loại được can thiệp tại thiết bị hoặc việc một người thật đi qua.
 
 Khóa cửa ghi nhận mã đúng lúc 03:00. Đồng hồ của Trung vẫn ghi một đêm ngủ tương đối bình thường.
 
-Thi đặt hai tập dữ liệu cạnh nhau.
+Thi đặt hai nguồn dữ liệu cạnh nhau.
 
 Một nguồn nói Trung nằm trên giường.
 
@@ -318,15 +410,15 @@ Một nguồn nói một người gần như là hắn bước khỏi nhà.
 
 Khải hỏi:
 
-— Nếu bỏ Hồng Ngài ra khỏi đầu, cô ưu tiên kiểm gì?
+— Nếu bỏ Hồng Ngài ra khỏi đầu, cô kiểm gì trước?
 
 — Người giả Trung. Mã cửa bị lộ. Camera cầu thang bị can thiệp. Taxi tới hiện trường.
 
 — Làm được không?
 
-— Có.
+— Được.
 
-— Tốn công không?
+— Tốn công?
 
 — Rất.
 
@@ -336,17 +428,19 @@ Thi nhìn anh.
 
 — Còn khả năng chính Trung đi?
 
-— Vẫn giữ. Nhưng đừng để nó nuốt hết những khả năng còn lại chỉ vì đáng sợ hơn.
+— Giữ nguyên. Nhưng đừng để nó nuốt hết các khả năng khác chỉ vì nó làm mình sợ hơn.
 
 Điện thoại Thi rung.
 
-Trung nhắn: **Cho tao xem ảnh vết cắn. Tao nghĩ tao từng thấy kiểu này.**
+Tin nhắn của Trung:
 
-Thi gọi lại ngay.
+**Cho tao xem ảnh vết cắn. Tao nghĩ tao từng thấy kiểu này.**
+
+Thi gọi lại.
 
 — Ở đâu?
 
-Hắn im rất lâu trước khi trả lời.
+Đầu dây im lâu.
 
 — Con gà ở Hồng Ngài.
 
@@ -358,26 +452,40 @@ Hắn im rất lâu trước khi trả lời.
 
 — Không. Tao vừa tìm trong điện thoại.
 
+Thi đứng dậy.
+
 — Ảnh ai chụp?
 
 — Không biết.
 
-Thi đứng dậy.
-
-— Gửi nguyên file, đừng chỉnh, đừng chụp màn hình.
+— Gửi nguyên file. Đừng crop, đừng chụp màn hình.
 
 — Rồi.
 
-Một nhịp im nữa.
+Một khoảng lặng nữa.
 
 — Thi.
 
 — Gì?
 
-Giọng Trung nhỏ hẳn.
+Giọng Trung nhỏ hơn hẳn.
 
-— Metadata ghi ảnh được tạo lúc 03:04 sáng hôm đó.
+— Metadata ghi ảnh tạo lúc 03:04 sáng hôm đó.
 
-Thi nhớ rất rõ khoảng thời gian ấy.
+Thi nhớ thời điểm ấy.
 
-Đó là lúc Trung đang bất tỉnh sau cơn ở chuồng gà.
+Trung đang bất tỉnh sau cơn ở chuồng gà.
+
+Cô không nói ngay.
+
+Ở đầu dây, Trung cũng im.
+
+Rồi hắn hỏi một câu rất khẽ:
+
+— Nếu ảnh ở trong máy tao mà tao không chụp, mày nghĩ ai cầm điện thoại?
+
+Thi nhìn hai màn hình trước mặt: một cái ghi hắn ngủ, một cái ghi hắn đi.
+
+— Tao chưa biết.
+
+Lần này Trung không đòi thêm một câu trả lời dễ chịu hơn.
