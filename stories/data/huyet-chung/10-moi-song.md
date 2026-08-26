@@ -1,30 +1,24 @@
 # Chương 10 — Mồi sống
 
-Khải không thích kế hoạch dùng Trung làm mồi.
+Khải không thích kế hoạch dùng Trung làm mồi. Vì vậy anh bắt cả đội viết nó như thể đang chuẩn bị cho một người mà không ai trong phòng quen biết.
 
-Đó là lý do anh duyệt nó.
+Mục tiêu gì. Ngưỡng dừng nào. Ai có quyền dừng. Nếu mất liên lạc thì bao nhiêu giây. Nếu Trung báo không tin được giác quan của mình thì xử lý ra sao. Nếu đối phương đổi tuyến. Nếu có người dân. Nếu có cháy, khói, chất lạ hoặc thương tích.
 
-Thi đọc biên bản xong hỏi:
+Thi đọc hết biên bản rồi hỏi:
 
-— Logic gì vậy anh?
+— Anh không thích mà vẫn duyệt?
 
-Khải đáp:
+— Kế hoạch tốt không phải kế hoạch tôi thích. Là kế hoạch có mục tiêu đủ hẹp và đường rút đủ sớm.
 
-— Kế hoạch tốt không phải kế hoạch tôi thích. Là kế hoạch có mục tiêu rõ, ngưỡng dừng rõ và phương án cứu người đủ sớm.
-
-— Và nếu mục tiêu chính là người mình đang bảo vệ?
-
-— Càng phải viết ngưỡng dừng kỹ hơn.
-
-Trung ngồi đối diện.
+Trung ngồi đối diện, tay cầm cây bút nhưng chưa ký.
 
 — Em có quyền đổi ý tới lúc nào?
 
-— Tới bất kỳ lúc nào trước khi tiếp xúc. Sau khi tiếp xúc, nếu muốn dừng thì dùng mật mã.
+— Tới trước khi tiếp xúc. Sau khi tiếp xúc, cậu vẫn có quyền dừng bằng mật mã hoặc nút báo động.
 
-— Mật mã gì?
+— Mật mã?
 
-Thi:
+Thi nói:
 
 — “Tao nhớ mẹ.”
 
@@ -34,105 +28,75 @@ Trung quay sang.
 
 — Vì vậy mới tốt.
 
-Khải:
+Khải lắc đầu.
 
-— Không. Mật mã là “đường này tắc”. Cụm đủ bình thường trong di chuyển, không gây chú ý.
+— Không. “Đường này tắc.” Đủ bình thường để nói khi di chuyển mà không làm đối phương cảnh giác.
 
-Trung nhìn Thi.
+Trung chỉ Thi.
 
 — Thấy chưa. Người ta làm chuyên nghiệp.
 
-Thi:
+— Chuyên nghiệp nên mới không cho mày chọn câu ngu.
 
-— Chuyên nghiệp nên mới không cho mày tự chọn.
+Khải đẩy biên bản lại.
+
+— Đọc lần nữa rồi mới ký.
+
+Trung đọc thật.
 
 ***
 
-Nguồn rò được dựng có chủ đích.
+Nguồn rò được dựng bằng ba lịch di chuyển giả cho một “nhân chứng bảo vệ”, mỗi lịch chỉ hiện với một nhóm quyền truy cập khác nhau.
 
-Một lịch di chuyển giả của Trung xuất hiện trong hệ thống mà chỉ một nhóm giới hạn có thể nhìn.
+Phiên bản A đi qua cầu Chương Dương.
 
-Không có địa chỉ thật.
+B qua Vĩnh Tuy.
 
-Chỉ một tuyến chuyển “nhân chứng bảo vệ” từ đơn vị sang cơ sở khác vào 23 giờ 30.
+C qua Nhật Tân.
 
-Khải tạo ba phiên bản khác nhau cho ba nhóm người có quyền truy cập.
+Không lịch nào là tuyến thật của Trung.
 
-Phiên bản A: qua cầu Chương Dương.
-
-B: qua Vĩnh Tuy.
-
-C: qua Nhật Tân.
-
-Nếu Chợ Âm xuất hiện đúng tuyến nào, họ sẽ biết rò từ nhóm nào.
-
-Thi nhìn bảng.
+Thi nhìn bảng phân quyền.
 
 — Canary trap.
 
 Khải gật.
 
-— Không cần gọi tên Tây.
+— Gọi gì cũng được. Quan trọng là nếu thông tin C chạy ra ngoài, chúng ta biết vòng cần kiểm trước.
 
-Huy ngồi phía cuối, được mời với tư cách nguồn liên quan Chợ Âm chứ không tham gia vận hành.
+Huy ngồi cuối phòng với tư cách nguồn về Chợ Âm, không nằm trong đội vận hành.
 
-— Em thích tên chim hoàng yến hơn.
+— “Chim hoàng yến” nghe thơ hơn.
 
-Không ai trả lời.
+Không ai đáp. Huy tự lấy cà phê uống.
 
-***
+Tuyến thật dùng xe dân sự, đổi tài xế một lần và không bật định vị cá nhân. Một xe mồi có người đủ giống Trung chạy tuyến C.
 
-Tuyến thật không nằm trong ba bản.
+23 giờ 41, xe mồi qua Nhật Tân.
 
-Trung được đưa bằng xe dân sự, thay tài xế giữa đường, không bật định vị cá nhân.
+23 giờ 44, một xe bảy chỗ trắng bám sau.
 
-Nhưng để đối phương “nhìn thấy”, một xe khác mang hình ảnh đủ giống hắn chạy theo tuyến C.
+23 giờ 47, số burner được kiểm soát của Trung nhận tin:
 
-23 giờ 41.
+**Đừng để họ đưa mày đi.**
 
-Xe mồi qua Nhật Tân.
+Khải nhìn đồng hồ rồi khoanh nhóm C trên bảng.
 
-Một xe bảy chỗ màu trắng bám sau.
+— Thu hẹp được vòng rò. Chưa kết luận người nào.
 
-23 giờ 44.
-
-Xe thứ hai nhập tuyến.
-
-23 giờ 47.
-
-Một tài khoản trong mạng Chợ Âm gửi tin vào số burner của Trung:
-
-“Đừng để họ đưa mày đi.”
-
-Khải nhìn đồng hồ.
-
-— Rò từ nhóm C.
-
-Một cán bộ ghi ngay danh sách quyền truy cập.
-
-Không ai bị kết tội lúc đó.
-
-Nhưng vòng nghi thu nhỏ.
+Không ai nói “nội gián”. Một tài khoản bị lộ, một token bị đánh cắp hoặc một người nhìn được màn hình cũng đủ tạo cùng kết quả.
 
 ***
 
-Điều không nằm trong kế hoạch xảy ra 23 giờ 52.
+Điều không nằm trong kế hoạch xảy ra lúc 23 giờ 52.
 
-Xe thật của Trung, cách tuyến mồi hơn sáu kilomet, bắt đầu có mùi khét.
-
-Tài xế nói:
-
-— Có vấn đề điện.
+Xe thật của Trung, cách tuyến mồi hơn sáu kilomet, bắt đầu có mùi khét. Tài xế báo hệ điện bất thường. Đèn bảng điều khiển chớp hai lần rồi ổn lại.
 
 Khải nghe qua đường truyền.
 
-— Không dừng tại chỗ trống. Tiếp tục tới điểm sáng gần nhất nếu xe còn an toàn.
+— Nếu xe còn an toàn, tiếp tục tới Alpha-2. Không dừng ở đoạn tối.
 
-Đèn bảng điều khiển nhấp nháy.
-
-Trung ngồi ghế sau.
-
-Thi cạnh hắn.
+Trung ngồi ghế sau cạnh Thi.
 
 — Không phải ngẫu nhiên đâu nhỉ?
 
@@ -140,395 +104,225 @@ Thi cạnh hắn.
 
 — Tao biết mày sẽ nói vậy.
 
-Mười giây sau, điều hòa phụt ra một luồng mùi ngọt.
+Mười giây sau, điều hòa phụt ra một luồng mùi ngọt lạ.
 
 Thi nhận ra trước.
 
-— Khẩu trang!
+— Mặt nạ.
 
-Cả hai đeo mặt nạ lọc nhỏ đã mang theo từ sau Hồng Ngài.
+Cả hai đeo loại lọc nhỏ được đưa vào bộ an toàn sau Hồng Ngài. Tài xế hạ kính và tắt điều hòa.
 
-Tài xế mở cửa kính.
+Khải lập tức ra lệnh:
 
-Xe vẫn chạy.
+— Dừng kế hoạch mồi. Ưu tiên đưa Trung ra khỏi xe tại Alpha-2.
 
-Khải:
+Không ai tranh luận. Đó chính là ngưỡng dừng đã viết trước.
 
-— Dừng kế hoạch. Đưa Trung ra khỏi xe tại điểm Alpha-2.
+Alpha-2 là một cây xăng sáng, có camera, nhân viên trực và đường ra hai hướng. Xe vừa rẽ vào thì một xe máy cắt ngang đầu, buộc tài xế phanh gấp nhưng không va chạm.
 
-Đó là ngưỡng dừng đã viết.
+Từ phía sau, chiếc bảy chỗ trắng xuất hiện.
 
-Không ai tranh luận.
+Thi nhìn gương chiếu hậu.
 
-***
+— Xe tuyến mồi.
 
-Alpha-2 là một cây xăng sáng, có camera và người.
+— Nghĩa là tụi nó tìm được xe thật sau khi bám xe giả. — Trung nói.
 
-Xe vừa rẽ vào thì một xe máy lao ngang chắn đầu.
+— Hoặc đã biết từ trước.
 
-Không va.
-
-Chỉ buộc tài xế phanh.
-
-Hai người từ phía sau xe bảy chỗ trắng xuất hiện.
-
-Không phải tuyến mồi.
-
-Họ đã biết xe thật.
-
-Thông tin bị lộ sâu hơn Khải nghĩ.
-
-Một người ném vật gì xuống đất.
-
-Khói trắng bung.
+Hai người đội mũ bảo hiểm kín mặt xuống xe. Một người ném vật nhỏ xuống nền bê tông. Khói trắng bung ra thấp, chưa đầy vài mét.
 
 Thi kéo Trung xuống sàn xe.
 
-— Ở đây!
+— Ở đây.
 
-Tổ hộ tống nổ đèn cảnh báo, quát lệnh.
+Tổ hộ tống bật đèn cảnh báo, quát lệnh dừng. Hai đối tượng chạy tách: một lao về dãy kho sau cây xăng, một phóng xe máy ra đường lớn.
 
-Hai đối tượng chạy.
+Trong lúc ấy Trung nghe tiếng gọi đầu tiên.
 
-Một về dãy nhà kho phía sau cây xăng.
+Không qua tai nghe.
 
-Một phóng xe máy.
-
-Trung nghe tiếng trong tai.
-
-Không phải radio.
-
-Một giọng đàn ông:
-
-— **Theo nó.**
-
-Hắn giữ nguyên.
-
-Giọng thứ hai:
-
-— **Nó biết lọ ở đâu.**
-
-Trung cắn răng.
-
-Thi nhìn.
-
-— Mày nghe gì?
-
-— Có người bảo tao chạy theo.
-
-— Đừng.
-
-— Tao biết.
-
-Giọng thứ ba, rất giống chính Trung:
-
-— **Mày muốn biết mà.**
-
-Hắn nhắm mắt.
-
-— Tao biết.
-
-Thi nắm cổ áo kéo hắn sát lại.
-
-— Nhìn tao.
-
-Trung mở mắt.
-
-— Tao đang nhìn.
-
-— Mày đứng đây.
-
-— Ừ.
-
-Một tiếng nổ nhỏ vang từ xe.
-
-Hệ điện chập.
-
-Đèn cây xăng tắt một dãy.
-
-Trong kho phía sau có bóng người chạy.
-
-Radio Khải:
-
-— Không truy sâu. Bảo vệ mục tiêu trước.
-
-Đúng kế hoạch.
-
-Nhưng Trung đột nhiên nhìn sang kho.
-
-Mặt thay đổi.
-
-— Có Thi ở đó.
-
-Thi ngay trước mặt hắn.
-
-— Tao ở đây.
-
-— Tao biết.
-
-— Vậy cái kia là gì?
-
-Trung nhìn một bóng nữ mặc áo đen đứng trong cửa kho, khuôn mặt giống Thi đến từng nét.
-
-Nó giơ tay.
-
-Gọi hắn.
+Giọng một người đàn ông, xa mà lại sát tai:
 
 — Trung.
 
-Thi thật tát hắn một cái.
+Hắn không nhận ra chắc chắn là ai.
 
-Không mạnh.
+Giọng khác chen vào, nữ, như Như hoặc một ký ức về Như:
 
-Đủ đau.
+— Đi.
+
+Trung nắm chặt mép ghế.
+
+Thi nhìn ngay.
+
+— Mày nghe gì?
+
+— Có giọng bảo tao đi theo.
+
+— Mày muốn đi không?
+
+Trung thành thật:
+
+— Có.
+
+— Vậy ngồi yên.
+
+— Ừ.
+
+Trong cửa kho phía sau, một bóng nữ mặc áo đen xuất hiện. Chỉ một khoảnh khắc, khuôn mặt giống Thi đến mức Trung quay sang kiểm tra người thật đang ngồi cạnh mình.
+
+Thi thấy động tác đó.
 
 — Tao ở đây.
 
-Hình kia biến.
+— Biết.
 
-Trung thở mạnh.
+— Camera của xe thấy gì?
 
-— Cảm ơn.
+Trung nhìn màn hình phụ. Cửa kho có bóng người nhưng mặt bị tối, không đủ nhận dạng.
 
-— Lần sau tao tát mạnh hơn.
+— Có người thật ở đó. Không biết có phải cái tao thấy không.
+
+— Tốt. Đừng ráp thêm.
+
+Bóng ngoài cửa kho lùi vào trong.
+
+Trung không đi theo.
 
 ***
 
-Tổ truy bắt giữ được người đi xe máy sau bảy phút.
+Tổ truy bắt giữ được người đi xe máy sau bảy phút. Người còn lại lọt vào dãy kho, nơi hóa ra đã có ít nhất ba người khác chờ sẵn.
 
-Người còn lại biến vào khu kho.
+Một phát súng vang lên. Không thuộc lực lượng.
 
-Khải không cho Trung tham gia.
+Rồi hai phát nữa.
 
-Nhưng biến cố thứ hai khiến mọi thứ vỡ.
+Khải khóa vòng ngoài, không cho Trung rời xe. Radio dồn dập tiếng gọi vị trí. Bodycam từ tổ bên trong cho thấy nhiều kệ kim loại, ánh đèn khẩn cấp nhấp nháy và bốn người đang cố rút về lối hậu.
 
-Một tiếng súng trong kho.
+Trung nghe radio. Hắn bắt đầu khó thở.
 
-Không thuộc tổ công an.
+Ở khoảng tối giữa hai khoang kệ, cái bóng đã từng xuất hiện trong inox như đứng đó. Không rõ hình người, không có mặt. Chỉ là một vùng tối khiến mắt hắn cứ muốn hoàn thiện thành cơ thể.
 
-Rồi hai phát.
-
-Khải ra lệnh khóa vòng.
-
-Trung nghe qua radio.
-
-Một phút.
-
-Hai.
-
-Đội vào báo:
-
-— Có nhiều người bên trong. Ít nhất bốn. Một bị thương.
-
-Giọng khác:
-
-— Có lối hậu!
-
-Khải:
-
-— Khóa.
-
-Rồi radio nhiễu.
-
-Chỉ vài giây.
-
-Trung nhìn cửa kho.
-
-Cái bóng thứ bảy đứng đó.
-
-Lần này không trong gương.
-
-Ngay ngoài đời.
-
-Không ai khác phản ứng.
-
-Nó quay lưng đi vào.
-
-Trung nghe năm giọng:
-
-— **Đi.**
-
-Hắn bấm nút báo động trong túi.
-
-Một lần.
-
-Thi nhìn.
-
-— Sao?
-
-— Tao sắp mất kiểm soát.
-
-Đó là điều đúng nhất hắn làm tối đó.
-
-Thi lập tức khóa cổ tay hắn vào vòng bảo vệ mềm trên ghế xe theo phương án đã thống nhất trước.
-
-Trung không chống.
-
-— Xin lỗi.
-
-— Im.
-
-— Tao thấy nó đi vào kho.
-
-— Im.
-
-— Nếu tao giật...
-
-— Tao biết.
-
-Hắn nhắm mắt.
-
-Giọng trong đầu tăng.
-
-Một.
-
-Hai.
-
-Năm.
-
-Rồi giọng thứ sáu.
-
-— **Muốn tụi nó chết không?**
-
-Trung siết răng.
-
-Không trả lời.
-
-— **Muốn không?**
-
-Hắn nghĩ tới những người vừa định bắt mình.
-
-Nghĩ tới Cường.
-
-Hưng.
-
-Những xác.
-
-Thi bị kéo vào.
-
-Một ý nghĩ bật lên rất nhanh, rất người:
-
-**Chết mẹ hết đi.**
-
-Trung mở mắt.
-
-— Không.
-
-Nhưng ý nghĩ đã xảy ra.
-
-***
-
-Trong kho, cùng thời điểm, điện tắt.
-
-Camera body của hai cán bộ vẫn chạy hồng ngoại.
-
-Sau này xem lại, họ thấy một hiện tượng khó giải thích.
-
-Bốn người Chợ Âm đang chạy về lối hậu.
-
-Một người dừng.
-
-Quay đầu.
-
-Nhìn vào khoảng tối trống.
-
-Hắn bắn ba phát.
-
-Không mục tiêu.
-
-Người thứ hai bắt đầu la rằng có ai kéo chân.
-
-Camera không thấy tay.
-
-Người thứ ba tự đâm vào kệ trong lúc chạy lùi.
-
-Người thứ tư quỳ xuống, ôm đầu.
-
-— ĐỪNG CHO NÓ VÀO!
-
-Không ai biết “nó” là gì.
-
-Tổ công an tiếp cận từ hai hướng.
-
-Ra lệnh bỏ vũ khí.
-
-Một người tuân.
-
-Hai người bỏ chạy.
-
-Người cuối cùng giơ súng về phía cán bộ và bị bắn vào vai, không tử vong.
-
-Không có “thảm sát”.
-
-Nhưng khi hiện trường ổn định, một đối tượng chạy sâu phía sau được tìm thấy chết dưới cầu thang kim loại.
-
-Cổ bị bẻ ở góc rất bất thường.
-
-Không camera trực tiếp.
-
-Không dấu tay rõ.
-
-Một tai nạn khi ngã có thể gây.
-
-Cũng có thể không.
-
-***
-
-Khải tới xe Trung trước khi vào kho.
-
-— Cậu ổn?
-
-Trung mở mắt.
-
-— Em nghĩ “chết hết đi”.
+Trung bấm nút báo động trong túi.
 
 Thi quay sang.
 
-Hắn nói tiếp:
+— Sao?
 
-— Ngay trước lúc radio báo bên trong loạn.
+— Tao bắt đầu không chắc cái gì ngoài kia là thật.
 
-Khải không nói “không liên quan”.
+— Được.
 
-Cũng không nói “cậu gây ra”.
+Theo đúng phương án, Thi khóa một vòng bảo vệ mềm vào cổ tay hắn và điểm cố định trên ghế. Không phải còng. Trung đã đồng ý trước.
 
-— Thời điểm?
+Hắn tự đưa tay còn lại ra để cô kiểm.
 
-Trung đưa chính xác tới mức nhớ được.
+— Nếu tao giật thì siết.
 
-Khải ghi.
+— Tao biết.
 
-— Cảm giác gì sau đó?
+— Nếu tao bảo mở...
 
-— Nhẹ.
+— Mật mã hoặc Khải quyết định.
 
-Hắn nhìn hai bàn tay.
+Trung gật rồi nhắm mắt.
 
-— Và đó là phần làm em sợ nhất.
+Năm cái tên chạy qua đầu không thành câu. A Hù. A Mã. Cầm. Sử. Như. Cảm giác nóng ở lòng bàn tay, đau mắt, mùi quế, khói, da mặt bị kéo. Không giọng thứ sáu. Không ai hỏi hắn muốn gì.
+
+Chính vì vậy ý nghĩ xuất hiện sau đó càng làm Trung sợ.
+
+Radio báo một cán bộ bị bắn sượt tay. Người trong kho vẫn chống trả. Thi bị kéo vào cuộc vì một đám người muốn lấy thứ hắn thậm chí không nhớ mình đã cầm.
+
+Trong đầu Trung bật lên, nhanh, thô và rất bình thường:
+
+**Chết mẹ hết đi.**
+
+Hắn mở mắt ngay lập tức.
+
+— Không.
+
+Thi quay sang.
+
+— Gì?
+
+— Tao vừa nghĩ... tụi nó chết hết đi thì tốt.
+
+Cô không bảo hắn thôi nghĩ. Không ai có thể làm vậy.
+
+— Mốc giờ.
+
+Trung nhìn đồng hồ.
+
+— 00:03:17.
+
+Thi đọc lại mốc vào bodycam.
 
 ***
 
-Người bị bắt sống tên Trần Minh Lộc.
+Sau này đối chiếu, khoảng hỗn loạn mạnh nhất trong kho bắt đầu rất gần thời điểm đó.
 
-Khi tỉnh, hắn từ chối khai về Chợ Âm.
+Nhưng không phải mọi thứ cùng xảy ra một giây như phép nhận lệnh.
 
-Nhưng hỏi về Trung thì mặt tái.
+Bodycam cho thấy một người đang chạy bỗng quay đầu, bắn ba phát vào vùng tối không có mục tiêu rõ. Người thứ hai lùi quá nhanh, va kệ rồi ngã. Người thứ ba ôm đầu, hét rằng “nó vào rồi” dù camera không ghi người nào áp sát. Người thứ tư bỏ vũ khí, nằm xuống theo lệnh.
 
-— Nó không phải khách hàng.
+Lực lượng tiếp cận từ hai hướng. Một người bị bắn vào vai sau khi chĩa súng về phía cán bộ, không tử vong.
 
-Điều tra viên:
+Một đối tượng khác chạy sâu về cầu thang kim loại rồi biến khỏi góc bodycam chưa tới nửa phút.
 
-— Ai?
+Khi khu vực được kiểm soát, người đó nằm dưới chân cầu thang. Cổ ở góc bất thường, nhưng hiện trường chưa đủ để biết chết vì cú ngã hay có tác động trước đó.
 
-— Thằng Trung.
+Không camera nào ghi Trung rời xe.
 
-— Vì sao anh săn cậu ấy?
+Không camera nào ghi một “thứ” từ Trung đi vào kho.
 
-— Không phải săn.
+Chỉ có một mốc ý nghĩ và một mốc hỗn loạn gần nhau.
 
-— Vậy?
+Khải đến xe trước khi vào hiện trường.
 
-Lộc nhìn cửa kính một chiều.
+— Cậu ổn không?
+
+Trung nhìn hai cổ tay mình.
+
+— Em nghĩ họ chết hết đi.
+
+— Tôi nghe Thi báo.
+
+— Sau đó bên trong loạn.
+
+— Đúng.
+
+— Anh không định nói chỉ là trùng hợp à?
+
+— Tôi không biết.
+
+Trung nuốt khan.
+
+— Em thấy nhẹ đi một chút khi nghĩ vậy.
+
+Khải nhìn hắn.
+
+— Cảm xúc sau một ý nghĩ không phải bằng chứng gây án.
+
+— Nhưng cũng không đẹp.
+
+— Tôi không điều tra cậu để xem cậu có ý nghĩ đẹp hay không.
+
+Câu đó không làm Trung hết sợ, nhưng cho hắn một điểm để đứng.
+
+***
+
+Người bị bắt sống tên Trần Minh Lộc. Khi tỉnh, hắn gần như không khai về cấu trúc Chợ Âm, nhưng phản ứng rõ khi nghe tên Trung.
+
+Điều tra viên hỏi:
+
+— Vì sao các anh nhắm vào cậu ấy?
+
+Lộc lắc đầu.
+
+— Không phải nhắm.
+
+— Vậy là gì?
 
 — Thu hồi.
 
@@ -536,152 +330,120 @@ Lộc nhìn cửa kính một chiều.
 
 — Hàng.
 
-— Lọ bột?
+— Lọ thủy tinh?
 
 Lộc cười khô.
 
-— Lọ chỉ là vỏ.
+— Lọ là đồ đựng.
 
-— Vậy hàng là gì?
+— “Hàng” là gì?
 
-Lộc nhìn thẳng vào kính như biết có người phía sau.
+Hắn nhìn thẳng vào kính một chiều.
 
-— **Nó.**
+— Thứ đã dính vào vật chủ.
 
-***
+Điều tra viên không dùng chữ “Thần Tướng”.
 
-Lộc khai một câu khác trước khi im hoàn toàn:
+— Ai sở hữu?
 
-— Mấy người nghĩ Tùng luyện xong rồi mới mất à?
+— Người trả tiền.
 
-— Ý anh?
+Đó là câu đầu tiên dẫn tới một giao dịch escrow từ tháng 8/2019, mã H-49. Mô tả được viết bằng ngôn ngữ thương mại lạnh lẽo:
 
-— Nó bán trước.
+**Quyền thu hồi thành phẩm sau hợp nhất nếu chủ luyện không còn khả năng nhận hàng.**
 
-— Bán gì?
+Không có tên Tùng trong dòng mô tả, nhưng chuỗi tài khoản dẫn về nhóm trung gian từng giao dịch với hắn.
 
-— Quyền lấy.
+Quỳnh đọc xong, ngồi yên rất lâu.
 
-Không ai hiểu ngay.
+— Nó bán quyền sở hữu một thứ còn chưa tồn tại.
 
-Sau khi đối chiếu dữ liệu tài chính, Khải tìm thấy một giao dịch escrow trên mạng Chợ Âm từ tháng 8/2019.
+Huy nói:
 
-Mã hàng H-49.
+— Với Tùng thì hợp tính.
 
-Mô tả:
-
-“Thành phẩm sau hợp nhất. Người mua có quyền thu hồi vật chứa nếu chủ luyện chết.”
-
-Tùng đã **bán tương lai của thứ chưa ra đời**.
-
-Quỳnh đọc dòng đó, thấy lạnh.
-
-Ngay cả với ngải, Tùng cũng nghĩ bằng sở hữu.
+Không ai phản đối.
 
 ***
 
-Nguồn rò tuyến C được truy ra một tài khoản nội bộ.
+Canary trap cũng cho kết quả, nhưng không đẹp như một nội gián bị bắt tại chỗ. Dữ liệu tuyến C bị truy cập qua tài khoản của một cán bộ hành chính tên Dũng, trong lúc camera và gia đình xác nhận anh ta đang ở nhà.
 
-Không phải Khải.
+Token đăng nhập còn hiệu lực đã bị dùng từ một máy khác.
 
-Không Thi.
+Kỹ thuật lần tiếp qua nhiều lớp. Một địa chỉ mạng trung gian từng xuất hiện cùng cụm Wi-Fi của khách sạn Somchai đang ở.
 
-Không Trung.
+Khải không nói với Lan ngay.
 
-Một cán bộ hành chính tên Dũng, làm công tác lịch phương tiện.
+Anh yêu cầu xác minh xem đó là NAT chung, khách cùng tầng, VPN hay thiết bị cụ thể.
 
-Tài khoản của anh ta bị đăng nhập từ máy khác bằng token còn hiệu lực.
-
-Dũng chứng minh mình ở nhà lúc đó.
-
-Camera và người thân xác nhận.
-
-Không kết thúc ở “có nội gián”.
-
-Có thể là xâm nhập hệ thống.
-
-Kỹ thuật tiếp tục.
-
-Nhưng trong lịch sử token có một địa chỉ mạng từng xuất hiện ở khách sạn Somchai đang ở.
-
-Khải nhìn dữ liệu.
-
-Không nói với Lan ngay.
-
-Anh cho xác minh trước.
+Nghi ngờ không phải bằng chứng chỉ vì nó khó chịu.
 
 ***
 
-Tối muộn, Trung được tháo vòng bảo vệ.
-
-Thi xoa chỗ cổ tay hắn đỏ.
+Đêm muộn, Trung được tháo vòng bảo vệ. Thi kiểm chỗ da đỏ quanh cổ tay.
 
 — Đau không?
 
-— Một chút.
-
-— Tao siết quá à?
-
-— Không.
+— Không đáng kể.
 
 — Nói thật.
 
-— Thật.
+— Hơi rát.
 
-Thi không nhìn hắn.
+Thi nới cổ tay áo hắn xuống.
 
-— Cái ý nghĩ đó...
+Trung nhìn cô.
+
+— Cái ý nghĩ hồi nãy...
 
 — Ừ.
 
-— Ai cũng từng nghĩ.
+— Mày có sợ tao không?
 
-Trung cười rất nhẹ.
+Thi mất vài giây mới trả lời.
 
-— Vấn đề là ý nghĩ của người khác không trùng với lúc người ta chết.
+— Có.
 
-Thi không có câu trả lời.
+Hắn gật như đã chuẩn bị cho câu đó.
 
-Trung nói:
+— Nhưng tao sợ cái đang xảy ra với mày nhiều hơn là sợ một câu mày nghĩ lúc tức. — Thi nói tiếp. — Hai cái khác nhau.
 
-— Nếu thứ đó làm theo thứ tao muốn thì sao?
+Trung nhìn xuống sàn.
 
-— Thì mình học cách ngăn nó.
+— Nếu sau này chứng minh thật sự thứ đó dùng ý nghĩ của tao thì sao?
 
-— Nếu không ngăn được?
+— Thì mình tìm cách giảm cơ hội cho nó dùng.
 
-Thi nhìn hắn.
+— Nếu không giảm được?
 
-— Thì tao vẫn ngăn mày trước khi ngăn nó.
+Thi nhìn thẳng hắn.
 
-Trung bật cười.
+— Thì tao sẽ giúp khóa mày trước khi để ai tự quyết giết mày.
 
-— Nghe lãng mạn dữ.
+Trung bật cười khô.
+
+— Lãng mạn dữ.
 
 — Mày muốn câu sến hơn không?
 
 — Có.
 
-Thi đấm nhẹ vai.
+Thi đấm nhẹ vai hắn.
 
 — Sống đi rồi tính.
 
+Lần này hắn cười thật hơn một chút.
+
 ***
 
-Ở khách sạn, Somchai nhận một tin nhắn trên chiếc điện thoại phụ.
+Ở khách sạn, Somchai nhận một tin nhắn trên chiếc điện thoại phụ:
 
-“Thử nghiệm phản ứng thành công.”
+**Mục tiêu phản ứng trong vụ tấn công. Chưa tiếp cận.**
 
-Ông nhìn rất lâu.
+Ông nhìn màn hình rất lâu.
 
-Không trả lời.
+Tin nhắn không đủ để biết người gửi đã làm gì ngoài quan sát.
 
-Sau đó mở cửa sổ, tháo SIM, bẻ đôi.
+Somchai không trả lời ngay. Ông chụp lại màn hình bằng điện thoại chính rồi tắt máy phụ.
 
-Nhưng trước khi ném, ông chụp lại màn hình bằng một máy khác.
-
-Một hành động có thể hiểu theo hai cách.
-
-Xóa dấu.
-
-Hoặc giữ bằng chứng.
+Nhưng khi đặt nó xuống bàn, tay ông run rất nhẹ.
