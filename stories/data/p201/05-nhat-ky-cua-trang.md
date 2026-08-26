@@ -1,815 +1,481 @@
-Tám giờ mười hai phút sáng, hai cán bộ công an tới trường.
+Tám giờ hơn, hai cán bộ công an tới trường.
 
-Một người còn trẻ, mặc quân phục, mang theo túi hồ sơ đen. Người còn lại lớn tuổi hơn, áo sơ mi xám bỏ trong quần, tóc hai bên thái dương đã bạc. Ông không mặc sắc phục nhưng cô quản sinh gọi là anh Phúc và nói rất nhỏ với hiệu phó rằng ông từng tham gia hồ sơ năm 2007.
+Một người còn trẻ, mặc quân phục và mang theo túi hồ sơ đen. Người còn lại lớn tuổi hơn, mặc sơ mi xám, tóc hai bên thái dương đã bạc. Cô quản sinh gọi ông là anh Phúc, rồi ghé sang hiệu phó nói nhỏ rằng ông từng tham gia hồ sơ năm 2007.
 
-Chỉ một câu đó đủ làm căn phòng quản sinh thay đổi không khí.
+Chỉ một câu ấy đủ làm không khí trong phòng quản sinh đổi hẳn.
 
-Từ chuyện một nhóm học sinh bắt gặp người lạ sau ký túc, nó trở thành một việc khác.
+Quỳnh ngồi sát tường cùng Hân, Lan và Quân. Trâm vẫn nằm bên phòng y tế vì cô quản sinh chưa cho xuống. Thi, Mai, Hương và Dung bị đuổi lên lớp vì không trực tiếp nhìn thấy những gì xảy ra ngoài vườn, khiến Thi đi được nửa cửa còn quay lại dặn:
 
-Quỳnh ngồi cùng Hân, Lan và Quân ở hàng ghế sát tường. Trâm vẫn ở phòng y tế, cô quản sinh chưa cho xuống. Thi, Mai, Hương, Dung bị đuổi lên lớp vì “không liên quan trực tiếp”, khiến Thi bực đến mức trước khi đi còn ghé tai Quỳnh thì thào:
+— Có gì lát kể tao nghe hết nha. Đừng có về nói “không có gì đâu” là tao điên đó.
 
-— Có gì hot nhớ kể tao bản full, đừng cắt quảng cáo.
+Hân kéo nó ra ngoài.
 
-Hân đẩy nó ra cửa.
+Trên bàn là chiếc hộp thiếc, cuốn sổ bìa nâu và chiếc điện thoại nắp gập đã được đặt trong túi trong suốt. Lần này Quỳnh tự giao chiếc điện thoại ra. Nó không thích cảm giác buông thứ đã theo mình mấy đêm, nhưng sau tất cả những gì xảy ra, giữ lại chỉ vì tò mò nghe càng lúc càng vô lý.
 
-Chiếc hộp thiếc đặt giữa bàn.
+Cán bộ trẻ hỏi lại quá trình tìm thấy máy, từ hốc tường tới lần nó xuất hiện trong túi áo Quỳnh. Anh hỏi ngắn, chờ Quỳnh kể hết rồi mới ghi. Không cười, cũng không tỏ vẻ tin hay không tin. Chính thái độ ấy làm Quỳnh dễ nói hơn.
 
-Cuốn sổ bìa nâu ở bên trong.
+Ông Phúc cầm chiếc máy lên qua lớp túi nhựa, nghiêng nó dưới ánh sáng.
 
-Và chiếc điện thoại nắp gập, lần này nằm trong một túi nilon trong suốt.
-
-Quỳnh đã giao nó ra.
-
-Nó không thích cảm giác buông thứ đã theo mình suốt ba đêm, nhưng càng không thích ý nghĩ cố giấu một vật có thể liên quan tới vụ giết người.
-
-Anh công an trẻ hỏi:
-
-— Em nói máy này ban đầu nằm trong hốc tường?
-
-— Dạ.
-
-— Tối qua lại xuất hiện trong túi áo em dù em khẳng định trước đó đã cất trong vali?
-
-— Dạ.
-
-Anh nhìn Quỳnh vài giây.
-
-Không cười.
-
-Không tỏ vẻ tin hay không tin.
-
-Chỉ ghi.
-
-Quỳnh thích cách đó hơn những người lớn vừa nghe chuyện lạ đã lập tức bảo trẻ con tưởng tượng.
-
-Ông Phúc cầm chiếc điện thoại lên qua túi nilon, nghiêng dưới ánh sáng cửa sổ.
-
-— Ai tháo pin máy này rồi?
+— Ai tháo pin rồi?
 
 Lan giơ tay.
 
-— Cháu. Cháu muốn kiểm tra pin với SIM.
+— Cháu tháo. Cháu muốn coi pin với SIM.
 
-— Có chụp lại trước khi tháo không?
+— Trước lúc tháo có chụp hình lại không?
 
 Lan lắc đầu.
 
-— Không ạ.
+— Dạ không.
 
-— Lần sau nếu gặp đồ không rõ nguồn, tốt nhất đừng tháo. Chụp vị trí trước.
+Ông Phúc gật rất nhẹ.
+
+— Lần sau gặp đồ không rõ của ai thì khoan tháo. Chụp nguyên vị trí trước đã, rồi tính tiếp.
 
 — Dạ.
 
-Ông không mắng thêm.
-
-Lan gật đầu, ghi nhớ thật.
-
-Quỳnh thấy điều đó qua cách nó ngồi thẳng hơn.
-
-Ông Phúc nhìn tem máy.
-
-Lông mày hơi nhíu.
+Không bị mắng, Lan lại càng có vẻ nhớ kỹ hơn. Nó ngồi thẳng lên, nhìn theo khi ông Phúc đọc hàng chữ nhỏ trên tem máy.
 
 — MFG 08/2008.
 
 Quỳnh ngẩng lên.
 
-— Là sao chú?
+— Nghĩa là gì chú?
 
-— Ngày sản xuất. Tháng tám năm 2008.
+— Tháng tám năm 2008 sản xuất.
 
-Căn phòng im đi.
-
-Quỳnh cảm thấy một mảnh gì đó trong đầu vừa khớp vào đúng chỗ.
+Cả phòng im một nhịp.
 
 Trang chết tháng chín năm 2007.
 
-Chiếc điện thoại không thể là của Trang.
+Hân là người nói ra đầu tiên:
 
-Không thể được chôn cùng những vật của cô từ trước khi cô chết.
+— Vậy cái điện thoại không thể là đồ của chị Trang để lại từ lúc đó.
 
-Hân nói trước:
+— Đúng. Ít nhất thì không thể nằm trong hốc từ trước tháng tám 2008 — ông Phúc nói. — Còn nó được bỏ vào lúc nào thì phải kiểm tra thêm.
 
-— Vậy có người bỏ nó vào sau này.
+Quỳnh và Lan nhìn nhau. Hốc tường khô, mép gạch ít rêu, đất quanh gói nilon sạch hơn những chỗ khác. Những thứ hôm trước mới chỉ khiến hai đứa nghi ngờ, bây giờ bắt đầu có một mốc thời gian cụ thể để bám vào.
 
-— Ít nhất là sau tháng tám 2008. — ông Phúc sửa. — Còn sau bao lâu thì chưa biết.
+Ông Phúc chuyển sang cuốn sổ. Ông đeo găng rồi mới lật từng trang. Quỳnh chỉ nhìn được từ xa: chữ nhỏ, nghiêng nhẹ, mực xanh đã nhạt. Sau vài trang đầu, vẻ mặt ông thay đổi rất ít nhưng đủ để Quỳnh nhận ra.
 
-Lan nhìn Quỳnh.
+— Quân, lát cậu ở lại nói chuyện riêng với tôi một chút.
 
-Hai đứa đều nghĩ cùng một chuyện.
-
-Hốc tường khô.
-
-Mép gạch ít rêu.
-
-Có người đã mở nó tương đối gần đây.
-
-Những thứ đó không còn là cảm giác nữa.
-
-Ông Phúc quay sang cuốn sổ.
-
-— Cái này mới cần xác minh.
-
-Ông đeo găng, mở trang đầu.
-
-Không ai được phép chạm.
-
-Quỳnh chỉ nhìn được những dòng ở xa, chữ nhỏ, nghiêng nhẹ sang phải.
-
-Ông lật khoảng mười trang rồi dừng.
-
-Ánh mắt thay đổi.
-
-— Quân.
-
-Quân ngồi thẳng.
-
-— Dạ.
-
-— Cậu ở lại làm việc riêng với tôi.
-
-Quỳnh quay sang anh.
-
-Quân không hỏi tại sao.
-
-Anh chỉ thở ra, rất chậm.
-
-Như thể đã đoán được trong cuốn sổ viết gì.
+Quân không hỏi lý do. Anh chỉ thở ra, đưa tay vuốt mặt như thể đã đoán được trong sổ có thứ gì liên quan tới mình.
 
 ***
 
 Gần mười giờ Quân mới ra khỏi phòng quản sinh.
 
-Mưa đã ngừng. Sân trường sáng lên một chút, nhưng mây vẫn phủ kín trời. Nước từ mái hiên nhỏ xuống thành từng giọt đều đặn.
-
-Quỳnh đứng chờ dưới gốc phượng.
+Mưa đã tạnh nhưng sân trường còn ướt, nước từ mái hiên nhỏ đều xuống nền. Quỳnh chờ dưới gốc phượng, vừa thấy anh đã bước tới.
 
 — Họ hỏi gì anh?
 
 Quân đi ngang qua nó.
 
-— Đi ăn sáng đã.
+— Đi ăn cái đã.
 
 — Em ăn rồi.
 
-— Anh chưa.
+— Anh chưa. Anh đói từ tối qua tới giờ rồi, cho anh nuốt cái gì vô bụng rồi hỏi tiếp được không?
 
-— Anh đừng né.
+Giọng anh mệt chứ không phải né tránh. Quỳnh im một lúc rồi đi theo.
 
-Quân dừng.
+Hai anh em sang quán bánh canh đối diện cổng trường. Quán thấp, mái tôn giữ hơi nóng dù ngoài trời vừa mưa. Bà chủ đứng sau nồi nước dùng, vừa bỏ hành vừa quay sang mắng đứa cháu đang dí điện thoại sát mặt. Một chiếc radio cũ phát tin buổi sáng, tiếng rè chen vào tiếng xe máy ngoài đường.
 
-Mắt anh thâm vì gần như thức trắng.
-
-— Anh đang đói và đang rất khó chịu. Nếu em muốn anh trả lời tử tế thì để anh ăn trước.
-
-Quỳnh im.
-
-Anh nói có lý.
-
-Hai anh em đi ra quán bánh canh đối diện cổng trường. Quán chỉ có bốn bộ bàn ghế inox, mái tôn thấp, bên trong nóng và thơm mùi hành phi. Bà chủ vừa múc nước dùng vừa mắng đứa cháu đang nghịch điện thoại. Một chiếc radio nhỏ trên kệ phát bản tin buổi sáng, chen giữa tiếng xe máy ngoài đường.
-
-Quân ăn hết gần nửa tô mới nói:
+Quân ăn gần nửa tô mới đặt đũa xuống.
 
 — Cuốn đó giống nhật ký của Trang.
 
-Quỳnh đặt đũa xuống.
+Quỳnh ngồi thẳng lại.
 
 — Giống là sao?
 
-— Có chuyện đúng. Có tên người đúng. Có mấy việc chỉ người thân tụi anh hồi đó mới biết.
+— Có mấy chuyện đúng. Tên người đúng. Có việc hồi đó chỉ nhóm thân mới biết.
 
-— Có nhắc anh?
+— Có nhắc anh không?
 
-Quân cười không vui.
+Quân cười nhạt.
 
-— Rất nhiều.
+— Nhiều.
 
-— Viết gì?
+Bà chủ vừa đi ngang qua đặt thêm chén ớt, anh đợi bà quay lưng rồi mới nói tiếp.
 
-Anh không trả lời ngay.
-
-Bà chủ bê thêm chén ớt qua, Quân đợi bà đi rồi mới nói:
-
-— Ngày 20 tháng 8, Trang viết phát hiện có thai.
-
-Quỳnh nghe nhưng không chen.
-
-— Ngày 27 tháng 8 có đoạn nói “Q” muốn Trang bỏ đứa bé. Không ghi đầy đủ tên. Chỉ chữ Q.
-
-— Q có thể là Quân.
-
-— Ừ.
-
-— Còn gì nữa?
-
-— Ngày 14 tháng 9 ghi sáng hôm sau sẽ gặp Q ở cây chôm chôm. Khoảng ba giờ.
-
-Quỳnh thấy bàn tay mình lạnh đi.
-
-— Vậy là nó đang chỉ vào anh.
-
-— Rất rõ.
-
-— Anh có từng ép chị Trang bỏ thai không?
-
-Quân nhìn thẳng em gái.
-
-— Không.
-
-— Có hẹn chị ấy ở gốc cây không?
-
-— Không.
-
-— Anh biết chữ Q là ai khác không?
-
-— Không chắc.
-
-Quỳnh tức.
-
-— Lại “không chắc”.
-
-Quân đặt đũa xuống.
-
-— Em muốn anh chỉ đại một người để em yên tâm à? Anh không làm vậy.
-
-Quỳnh im.
-
-Quân hạ giọng.
-
-— Năm năm trước anh đã phạm đúng cái lỗi đó. Anh ghen, anh nhìn ai gần Trang cũng thấy có vấn đề. Sau khi cô ấy chết, anh mất một thời gian rất lâu mới hiểu nghi ngờ không phải bằng chứng.
-
-Lan mà ở đây chắc sẽ thích câu đó.
-
-Quỳnh dựa lưng vào ghế.
-
-— Đêm chị Trang chết anh ở nhà Tùng?
-
-— Ừ.
-
-— Từ mấy giờ tới mấy giờ?
-
-Quân nhíu mày nhớ.
-
-— Tối 14 anh qua nhà nó làm bài với chơi game. Khoảng một giờ rưỡi anh về. Nhà hai đứa cách nhau chừng mười phút xe đạp.
-
-— Vậy ba giờ anh vẫn có thể tới trường.
-
-— Có.
-
-Quân trả lời thẳng.
-
-Quỳnh không ngờ.
-
-— Công an hồi đó cũng hỏi vậy. Không ai có thể chứng minh từ một giờ rưỡi tới sáng anh ở đâu, vì ba mẹ ngủ rồi. Anh thành nghi phạm một thời gian.
-
-— Tùng xác nhận anh ở nhà nó đến một rưỡi?
-
-— Ừ.
-
-— Anh với Tùng còn chơi không?
-
-Quân lấy điện thoại.
-
-— Nó đang trên đường qua đây.
+— Có đoạn ghi ngày 20 tháng 8 Trang biết mình có thai. Ngày 27 viết có người tên bắt đầu bằng chữ Q bảo bỏ đứa bé. Ngày 14 tháng 9 lại ghi sáng hôm sau sẽ gặp Q ở cây chôm chôm, khoảng ba giờ.
 
 Quỳnh nhìn anh.
 
-— Anh gọi?
+— Nghe là đang chỉ anh rồi.
 
-— Ừ. Vì anh không thích chuyện em đang lao vào một vụ giết người năm năm trước chỉ với một tấm ảnh và mấy giấc mơ. Tùng học tâm lý tội phạm. Nó cũng biết hồ sơ này từ đầu. Anh muốn có thêm một người tỉnh táo.
+— Ừ.
 
-Quỳnh nghĩ thầm người tỉnh táo nhất có khi đang ngồi trong phòng 201 tên Lan.
+— Anh có từng bảo chị ấy bỏ thai không?
 
-Nhưng nó không nói.
+— Không.
+
+— Có hẹn chị ấy ra cây đó không?
+
+— Không.
+
+— Còn chữ Q? Ngoài anh ra anh có nghĩ tới ai không?
+
+Quân nhíu mày, không trả lời ngay.
+
+— Có người anh từng nghi. Nhưng anh không chắc.
+
+Quỳnh bực lên.
+
+— Lại “không chắc”.
+
+Quân đặt đũa xuống, nhìn thẳng em gái.
+
+— Chứ em muốn anh chỉ đại một người à? Hồi đó anh ghen tới mức ai nói chuyện với Trang nhiều một chút anh cũng để ý. Sau này nghĩ lại mới thấy mình ngu. Anh không muốn năm năm sau lại đem cái ngu đó kể cho em như sự thật.
+
+Quỳnh im.
+
+Cách nói không trơn tru, nhưng lại làm nó dịu xuống. Quân đang cố nói điều mình tin chứ không phải cố thắng nó.
+
+— Đêm chị Trang chết anh ở nhà Tùng tới mấy giờ?
+
+— Khoảng một rưỡi anh mới về. Tối đó tụi anh làm bài rồi chơi game. Nhà nó cách nhà anh chừng mười phút xe đạp.
+
+— Vậy ba giờ anh vẫn có thể quay lại trường.
+
+Quân gật.
+
+— Được. Hồi đó công an cũng hỏi vậy. Ba mẹ ngủ rồi nên từ lúc anh về tới sáng không ai xác nhận anh ở nhà hết. Có thời gian anh bị nghi cũng vì chỗ đó.
+
+— Tùng xác nhận anh ở nhà nó tới một rưỡi?
+
+— Ừ.
+
+— Giờ anh còn chơi với ảnh không?
+
+Quân lấy điện thoại ra nhìn giờ.
+
+— Nó đang qua đây.
+
+Quỳnh ngẩng phắt lên.
+
+— Anh gọi nó hả?
+
+— Ừ. Anh muốn hỏi lại mấy chuyện cũ. Với nó học ngành liên quan tâm lý tội phạm, biết cách đọc hồ sơ hơn anh. Nhưng em đừng vì vậy mà coi lời nó là đúng hết nha. Anh gọi để có thêm người nhớ chuyện năm đó thôi.
+
+Câu cuối làm Quỳnh thấy dễ chịu hơn. Ít nhất Quân không mang tới một “chuyên gia” để bắt nó im.
 
 ***
 
-Tùng tới lúc gần mười một giờ.
+Tùng đến gần mười một giờ.
 
-Ấn tượng đầu tiên của Quỳnh là hắn không giống một người học “tâm lý tội phạm” như trong tưởng tượng của nó.
+Quỳnh từng nghĩ người học tâm lý tội phạm chắc phải có gì đó rất nghiêm: kính, sơ mi, nói chuyện khó gần. Tùng thì hoàn toàn không giống tưởng tượng ấy. Hắn mặc áo thun xám, quần jean, đôi giày vải bạc mũi, người cao vừa và hơi gầy. Tóc cắt ngắn, khuôn mặt không nổi bật nhưng dễ nhìn; lúc nói chuyện hắn thường nhìn thẳng vào người đối diện, khóe miệng hơi cong như đang giữ sẵn một nụ cười.
 
-Không kính đen.
+Tùng dựng xe trước quán, nhìn Quân rồi nhìn Quỳnh.
 
-Không áo sơ mi đóng thùng nghiêm nghị.
+— Đây là Quỳnh hả?
 
-Tùng mặc áo thun xám, quần jean, đi đôi giày vải đã bạc mũi. Người cao vừa, hơi gầy, tóc cắt ngắn. Khuôn mặt không đẹp kiểu khiến người khác phải nhìn lại, nhưng dễ tạo thiện cảm vì đôi mắt lúc nói chuyện luôn nhìn thẳng và miệng thường có nét cười rất nhẹ.
+— Dạ.
 
-Hắn dựng xe trước quán, nhìn Quân rồi nhìn Quỳnh.
+Hắn ngồi xuống, cười.
 
-— Đây là bé Quỳnh hả?
-
-Quỳnh cau mày.
-
-— Em không bé.
-
-Tùng cười.
-
-— Anh Quân em kể hồi nhỏ em cắn nó chảy máu vì giành đùi gà.
+— Quân hồi xưa kể em dữ lắm. Hình như có lần giành đồ ăn cắn nó chảy máu phải không?
 
 Quỳnh quay sang anh trai.
 
-— Anh đi kể cái gì vậy?
+— Anh còn đi kể cái đó nữa hả?
 
-Quân tiếp tục ăn như không nghe.
+Quân cúi ăn tiếp.
 
-Không khí bớt căng được vài giây.
+— Nó hỏi thì anh kể.
 
-Tùng kéo ghế ngồi.
+— Anh hết chuyện rồi hả?
 
-— Anh nghe Quân nói phòng 201 mở lại rồi.
+Tùng bật cười. Không khí trên bàn nhẹ đi được một chút rồi hắn mới hỏi:
 
-Quỳnh nhìn hắn.
+— Quân nói phòng 201 mở lại rồi phải không?
 
-— Anh biết phòng đó?
+— Anh biết phòng đó hả?
 
-— Cả khóa anh hồi đó ai chẳng biết. Sau vụ Trang rồi Hoa, đồn đủ thứ.
+— Hồi tụi anh học ở đây ai mà không biết. Sau vụ Trang với Hoa, cả trường đồn tùm lum.
 
-— Anh thân với Trang không?
+— Anh thân với chị Trang không?
 
-Tùng hơi khựng.
+Tùng hơi ngừng lại, chỉ trong một nhịp nhỏ.
 
-Rất nhẹ.
+— Cũng biết nhau. Quân quen Trang, anh chơi thân với Quân nên gặp nhiều.
 
-— Cùng lớp học thêm mấy môn. Quân yêu Trang, anh chơi với Quân, nên cũng nói chuyện.
+Quỳnh cân nhắc một chút rồi hỏi thẳng:
 
-— Chị Trang có từng thích anh không?
+— Hồi đó anh có thích chị Trang không?
 
-Quân ngẩng lên.
+Quân đặt đũa xuống.
 
 — Quỳnh.
 
-Tùng giơ tay.
+Tùng khoát tay.
 
-— Không sao.
+— Không sao. Hỏi cũng bình thường.
 
-Hắn nhìn Quỳnh, không né.
+Hắn nhìn Quỳnh.
 
-— Theo anh biết thì không.
+— Có quý. Còn kiểu yêu đương thì… theo anh hồi đó là không. Ít nhất anh không nhớ mình từng nói gì với Trang như vậy.
 
-“theo anh biết”.
-
-Một câu rất cẩn thận.
-
-Quỳnh hỏi tiếp:
+Câu trả lời đủ mơ hồ để Quỳnh chú ý, nhưng chưa có gì để bắt bẻ.
 
 — Anh biết chị ấy có thai trước khi chết không?
 
 Tùng lắc đầu.
 
-— Không. Sau khi khám nghiệm mới biết.
+— Không. Sau khi tìm thấy xác mới biết.
 
-Giống Quân.
-
-— Anh có biết ai là cha đứa bé không?
+— Anh có biết cha đứa bé là ai không?
 
 — Không.
 
-— Cuốn nhật ký vừa tìm thấy viết chữ Q.
+Quỳnh nhìn Quân rồi nói:
 
-Lần này Tùng không giật mình.
+— Cuốn sổ mới tìm thấy có nhắc chữ Q.
 
-Hắn chỉ nhìn sang Quân.
+Tùng không giật mình. Hắn chỉ hơi nhíu mày.
 
 — Công an cho tụi em đọc rồi à?
 
-— Không. Họ hỏi anh Quân vì trong đó nhắc ảnh. — Quỳnh nói.
+— Không. Họ hỏi anh Quân vì trong đó có chuyện liên quan ảnh.
 
-Tùng gật.
+Tùng gật đầu.
 
-— Nếu là nhật ký thật thì phải giám định chữ trước. Đừng vội tin nội dung chỉ vì nó được chôn dưới đất.
+— Vậy trước hết phải coi cuốn đó có thật của Trang không đã. Đào được dưới đất không có nghĩa là tất cả chữ bên trong đều được viết từ năm 2007.
 
-Lan chưa gặp Tùng nhưng nếu nghe câu này có lẽ sẽ đồng ý.
+Cách nói ấy hợp lý tới mức Quỳnh gần như lập tức đồng ý.
 
-Quỳnh cũng vậy.
+— Điện thoại trong hốc được sản xuất năm 2008 — nó nói.
 
-Chính vì hợp lý nên nó càng để ý.
+Tùng nhìn xuống mặt bàn một thoáng rồi đáp:
 
-— Tại sao anh nghĩ có thể không thật?
+— Vậy càng có lý do nghi người ta bỏ đồ vào sau này.
 
-Tùng dựa lưng vào ghế.
-
-— Vì đồ vật xuất hiện sau năm năm, đúng lúc phòng mở lại. Ai cũng nên nghi.
-
-— Điện thoại trong hốc được sản xuất năm 2008.
-
-Một khoảng im rất nhỏ.
-
-Tùng đưa mắt xuống bàn.
-
-— Vậy càng rõ có người đặt vào sau.
-
-Không có gì bất thường trong câu trả lời.
-
-Chỉ là Quỳnh chợt nhớ:
-
-Nó chưa nói điện thoại nằm cùng nhật ký.
-
-Nó chỉ nói “điện thoại trong hốc”.
-
-Có thể Quân đã kể cho Tùng trên đường.
-
-Hoàn toàn có thể.
-
-Quỳnh ghi điều đó vào đầu nhưng không biến nó thành kết luận.
+Không có gì bất thường. Quân có thể đã kể hết chuyện chiếc điện thoại cho Tùng trước khi hắn tới. Nhưng Quỳnh vẫn ghi nhớ phản ứng ấy, chỉ vì từ mấy ngày nay nó bắt đầu học được rằng những chi tiết nhỏ nên để lại trong đầu trước khi quyết định chúng có nghĩa gì.
 
 ***
 
-Buổi trưa Quân đưa Quỳnh về phòng trọ của anh.
+Buổi trưa Quân đưa Quỳnh về phòng trọ. Anh thuê một căn gác nhỏ trên tiệm sửa khóa, cách trường vài cây số. Căn phòng vừa là chỗ ngủ vừa là góc làm bài; trên tường ghim đầy bản phác, mảnh vải, dây đo. Một chiếc máy may gia đình đặt sát cửa sổ, cạnh đó là mannequin nữ bằng nhựa mặc dở một chiếc áo mẫu.
 
-Anh thuê một căn gác nhỏ phía trên tiệm sửa khóa cách trường gần ba cây số. Phòng vừa là chỗ ngủ vừa là chỗ làm bài. Trên tường treo đầy giấy mẫu, vải ghim bằng kim, vài bản phác áo dài và váy dạ hội. Một chiếc máy may gia đình đặt cạnh cửa sổ. Góc trong cùng có mannequin nữ bằng nhựa màu da, phần khớp tay có thể xoay.
+Quỳnh đứng nhìn mấy bản phác treo kín một mảng tường.
 
-Quỳnh đứng trước nó.
+— Nhìn phòng anh y như cái xưởng nhỏ thiệt.
 
-— Anh học thời trang thật hả?
+Quân liếc nó.
 
-Quân nhìn nó như muốn ném cuộn chỉ vào đầu.
+— Chứ em tưởng anh nói học thời trang cho sang miệng hả?
 
-— Em tưởng năm năm nay anh nói dối nghề nghiệp luôn à?
+— Em có nói gì đâu.
 
-— Em hỏi vậy thôi.
+— Mặt em nói.
 
-— Hỏi ngu.
+— Anh tự suy diễn.
 
-— Anh mới ngu.
+Hai anh em cãi nhau vài câu rất vô nghĩa rồi tự nhiên Quỳnh thấy dễ thở hơn. Quân của nó vẫn là người bực thì nói bực, bị chọc thì chọc lại, có thể giấu một chuyện tình cũ nhưng không vì thế mà mọi thứ về anh đều trở thành đáng ngờ.
 
-Hai anh em cãi nhau được đúng ba câu thì Quỳnh tự nhiên thấy nhẹ đi.
+Tùng ngồi dưới sàn lật mấy bản phác. Hắn rõ ràng quen căn phòng này, tự mở tủ lạnh lấy nước rồi mới hỏi:
 
-Đây là Quân nó biết.
+— Uống không?
 
-Một người có thể giấu chuyện tình cũ.
+Quân ném cho hắn cái ly nhựa.
 
-Một người có thể từng ghen.
+— Lấy rồi mới hỏi.
 
-Nhưng không phải cứ có bí mật là giết người.
+— Hỏi cho có phép lịch sự thôi.
 
-Tùng ngồi dưới sàn xem bản phác của Quân. Hắn khá quen căn phòng, tự mở tủ lạnh lấy nước mà không hỏi.
+Đầu giờ chiều Tùng có tiết nên đứng dậy đi trước. Trước khi xuống cầu thang, hắn quay lại nói với Quỳnh:
 
-— Chiều anh có tiết. — Tùng nói. — Hai anh em ở đây đấu tố tiếp nha.
+— Có thấy người lạ quanh ký túc thì đừng tự đi theo nữa nha. Hôm qua may là có mấy người. Người ta đã trèo tường vào được thì chưa biết họ muốn làm gì đâu.
 
-Quân ném cho hắn chai nước.
+— Nếu không phải người thì sao?
 
-— Cút.
+Tùng nhìn nó vài giây, rồi cười.
 
-Tùng bắt được, cười.
+— Vậy thì anh chịu. Nhưng ít nhất người thì mình còn biết đường tránh trước.
 
-Trước khi đi, hắn quay lại Quỳnh.
+Không phải câu nói dí dỏm, cũng chẳng thần bí. Chính vì vậy Quỳnh lại nhớ lâu hơn.
 
-— Có chuyện gì liên quan người lạ vào ký túc, đừng tự bắt. Báo bảo vệ hoặc công an. Người giả ma không có nghĩa là vô hại.
+Một lúc sau Quân xuống tiệm photo in bản mẫu, để Quỳnh ở lại trên gác. Nó lật cuốn album anh vừa lấy ra cho xem.
 
-— Còn ma thật?
+Có ảnh lớp năm 2007. Quân hồi đó gầy hơn, tóc dài tới tai; Trang đứng cách anh hai người. Tùng ở hàng sau, mặt còn non, cười rộng hơn bây giờ nhiều.
 
-Tùng nhún vai.
+Một tấm khác chụp nhóm sáu người ở hồ sau trường. Trang đứng sát Quân, Tùng ngồi xổm phía trước. Mặt sau viết bằng bút bi: “26/5/2007 — hết lớp 11 rồi tụi điên ơi.”
 
-— Nếu gặp thì hỏi nó có thẻ sinh viên không.
+Quỳnh chụp lại tấm ảnh. Nó vừa đặt album xuống thì phía phòng tắm vang lên tiếng nước.
 
-Quỳnh bật cười dù không muốn.
+Rào rào, đều như vòi sen được mở nửa chừng.
 
-Tùng đi.
+Nó ngẩng lên.
 
-Một giờ sau, Quân xuống tiệm photo dưới phố để in bản mẫu.
-
-Quỳnh ở lại một mình.
-
-Nó ngồi bên bàn, lật cuốn album cũ Quân lấy cho xem.
-
-Có ảnh lớp năm 2007.
-
-Quân thời cấp ba gầy hơn bây giờ, tóc dài tới tai. Trang đứng cách anh hai người. Tùng ở hàng sau, mặt non choẹt, miệng cười rất rộng.
-
-Có một tấm khác chụp nhóm sáu người ở hồ sau trường.
-
-Trang đứng cạnh Quân.
-
-Tùng ngồi xổm phía trước.
-
-Một cô gái Quỳnh không biết khoác vai Trang.
-
-Mặt sau ghi bút bi:
-
-“26/5/2007 — hết lớp 11 rồi tụi điên ơi.”
-
-Quỳnh nhìn nét chữ.
-
-Không biết của ai.
-
-Nó chụp lại bằng điện thoại.
-
-Phía trong phòng tắm bỗng có tiếng nước chảy.
-
-Quỳnh ngẩng lên.
-
-Quân đã đi.
-
-Phòng chỉ còn nó.
-
-Tiếng nước tiếp tục.
-
-Rào rào.
-
-Không mạnh, giống vòi sen mở khoảng nửa.
-
-Quỳnh đứng dậy.
+Quân đã xuống dưới. Căn gác chỉ còn một mình nó.
 
 — Anh Quân?
 
-Không ai trả lời.
+Không ai đáp.
 
-Nó đi tới cửa phòng tắm.
+Quỳnh gọi điện. Máy Quân đổ chuông rất lâu nhưng không bắt. Nó bước ra cửa chính, kiểm tra chốt vẫn cài từ bên trong. Cửa sổ có song sắt. Cả căn gác chỉ có một lối lên.
 
-Cửa khép.
+Khi Quỳnh quay lại, tiếng nước đã tắt.
 
-Dưới khe cửa có nước chảy ra.
+Một đường nước mỏng đang bò ra từ khe cửa phòng tắm.
 
-Một đường rất mỏng.
-
-Quỳnh nhìn xuống chân mình.
-
-Tim bắt đầu đập nhanh.
-
-Nó gọi Quân.
-
-Điện thoại anh đổ chuông ngoài đường, không ai bắt.
-
-Quỳnh không mở cửa ngay.
-
-Nó đi ra cửa chính trước.
-
-Chốt vẫn cài từ bên trong.
-
-Cửa sổ có song sắt.
-
-Gác chỉ có một lối lên.
-
-Nó quay lại.
-
-Tiếng nước tắt.
-
-Căn phòng im.
-
-Quỳnh đứng trước cửa phòng tắm.
+Nó đứng cách cửa hai bước, không mở ngay. Tay tìm lấy cây kéo cắt vải trên bàn rồi mới tiến tới.
 
 — Ai ở trong đó?
 
-Không tiếng trả lời.
+Không trả lời.
 
-Nó lùi một bước, cầm cây kéo cắt vải trên bàn.
+Quỳnh dùng đầu kéo đẩy cửa.
 
-Rồi dùng đầu kéo đẩy cửa.
+Cánh cửa mở chậm, mùi ẩm lạnh tràn ra.
 
-Cánh cửa mở chậm.
+Chiếc mannequin vốn đứng cạnh cửa sổ đang ở trong phòng tắm.
 
-Mùi ẩm xộc ra.
+Nó quay mặt thẳng ra ngoài. Trên đầu là bộ tóc giả đen dài ướt sũng, còn thân nhựa được mặc chiếc sơ mi trắng Quân dùng thử mẫu. Nước từ tóc nhỏ xuống gương mặt vô hồn thành những đường như nước mắt.
 
-Chiếc mannequin đứng trong phòng tắm.
+Quỳnh lùi lại. Tay run, nhưng sau một nhịp nó vẫn giơ điện thoại lên chụp ba tấm rồi gọi Quân lần nữa.
 
-Nó quay mặt về phía Quỳnh.
+Anh vừa bắt máy, Quỳnh chỉ nói:
 
-Trên đầu đội bộ tóc giả đen dài ướt sũng.
+— Anh về đi. Có người vào phòng anh rồi.
 
-Áo sơ mi trắng của Quân dùng để thử mẫu dính sát thân nhựa.
-
-Nước từ tóc nhỏ xuống trán, xuống đôi mắt vô hồn, chảy thành đường trên hai má như nước mắt.
-
-Quỳnh không hét.
-
-Nó lùi ra ngoài.
-
-Tay run nhưng vẫn giơ điện thoại chụp ba tấm.
-
-Sau đó gọi Quân lần nữa.
-
-— Về ngay.
-
-Giọng nó làm Quân không hỏi gì.
+Giọng nó làm Quân không hỏi thêm.
 
 ***
 
-Quân về sau bảy phút.
+Quân về sau vài phút. Anh nhìn mannequin trong phòng tắm nhưng không chạm vào. Việc đầu tiên là kiểm cửa, ổ khóa, cửa sổ và ô thông gió. Sau đó anh cúi xuống bản lề cửa chính, lấy đầu ngón tay kéo ra một sợi chỉ đỏ rất mảnh đã bị đứt.
 
-Anh nhìn mannequin trong phòng tắm, không đụng vào.
+Quỳnh nhìn.
 
-Việc đầu tiên anh làm không phải hỏi ma quỷ.
+— Cái gì vậy?
 
-Anh kiểm tra cửa.
+— Sáng nay anh kẹp thử ở đây. Mấy hôm trước có vài món đồ trong phòng bị lệch chỗ, anh không chắc có ai vào hay mình nhớ nhầm.
 
-Ổ khóa không hỏng.
+— Sao anh không nói?
 
-Chốt trong vẫn cài.
+Quân ngước lên.
 
-Cửa sổ phòng tắm là ô thông gió nhỏ cao gần hai mét, có ba thanh sắt cố định.
+— Chưa chắc thì anh nói làm gì, để em lại nghĩ thêm.
 
-Sau đó Quân cúi xuống mép cửa chính.
+Cũng là kiểu trả lời “chưa chắc” từng làm Quỳnh bực lúc sáng. Nhưng đứng trước sợi chỉ đã đứt, nó bắt đầu hiểu sự khác nhau giữa giữ lại một nghi ngờ và giấu một sự thật.
 
-Một sợi chỉ đỏ rất mảnh mắc ở bản lề.
+Quân chụp lại ổ khóa, vệt nước và sợi chỉ. Chủ tiệm dưới nhà có chìa dự phòng nhưng khẳng định cả buổi không lên, chìa vẫn treo trong tủ. Một người thợ nhớ khoảng mười hai rưỡi có thấy một cô gái nhỏ người, đội nón và mặc áo khoác đi lên cầu thang. Ông tưởng bạn Quân nên không để ý lúc nào người đó đi xuống.
 
-Nó đã đứt.
+Quân hỏi lại mấy lần rồi gọi công an phường báo có người đột nhập.
 
-Quỳnh hỏi:
-
-— Gì vậy?
-
-— Sáng nay anh kẹp thử lúc đi khỏi phòng. Mấy hôm nay đồ trong phòng hơi lệch vị trí.
-
-— Anh nghi có người vào từ trước?
-
-— Ừ.
-
-— Sao không nói?
-
-Quân nhìn nó.
-
-— Vì anh chưa chắc.
-
-Cùng một câu Quỳnh vừa khó chịu sáng nay.
-
-Bây giờ nghe lại, nó hiểu hơn.
-
-Quân lấy điện thoại chụp ổ khóa, sợi chỉ, vũng nước.
-
-— Chủ tiệm dưới nhà có chìa dự phòng. Anh hỏi chú ấy trước.
-
-Chú chủ tiệm khẳng định cả buổi không lên, chìa vẫn treo trong tủ khóa. Một người thợ nói khoảng mười hai giờ rưỡi có thấy một cô gái mặc áo khoác đi lên cầu thang nhưng tưởng bạn Quân.
-
-— Mặt sao? — Quân hỏi.
-
-— Đội nón, chú không nhìn. Người nhỏ nhỏ.
-
-— Đi xuống lúc nào?
-
-— Không để ý.
-
-Quân gọi cho chủ nhà.
-
-Rồi gọi công an phường báo có người đột nhập.
-
-Không ai trong hai anh em nói chữ “ma”.
+Hai anh em không cần nhắc chữ “ma”.
 
 ***
 
-Chiều, Quỳnh quay lại trường.
+Chiều về trường, Quỳnh kể toàn bộ cho Lan ở hành lang sau lớp học.
 
-Lan đang chờ ở hành lang.
-
-Quỳnh kể toàn bộ chuyện mannequin.
-
-Lan nghe xong hỏi câu đầu tiên:
+Lan nghe xong, câu đầu tiên là:
 
 — Anh Quân có tự dựng được không?
 
-Quỳnh khó chịu.
+Quỳnh cau mày.
 
-— Có thể.
+— Được. Nếu ảnh muốn thì ảnh biết hết đồ trong phòng.
 
-— Tốt. Mày vẫn còn biết nói “có thể”.
+— Ừ. Tao hỏi vậy thôi, chứ chưa nói ảnh làm.
 
-— Nhưng nếu ảnh dựng thì báo công an làm gì?
+— Ảnh còn tự báo công an.
 
-— Người ta có thể báo để tự tạo alibi. Tao không nói ảnh làm. Tao chỉ không loại vì thích ảnh.
+— Thì đó là điểm khiến tao bớt nghi. Nhưng chưa đủ để xóa luôn.
 
-Quỳnh dựa vào lan can.
+Quỳnh dựa lưng vào lan can, thở dài.
 
-— Mệt ghê.
+— Mệt thiệt.
 
-Lan cười rất nhẹ.
+Lan đưa chai nước cho nó.
 
-— Điều tra cái gì cũng mệt. Tin ma còn khỏe hơn, tại khỏi phải chứng minh.
+— Mệt thì nghỉ chút. Đừng vì mệt mà chọn đại một người cho xong.
 
-Quỳnh lấy điện thoại, mở ảnh mannequin.
+Câu ấy nghe rất Lan: không hoa mỹ, cũng không cố tỏ ra lạnh lùng.
 
-Lan phóng to bộ tóc giả.
+Quỳnh mở điện thoại, cho bạn xem ảnh mannequin. Lan phóng to bộ tóc giả rồi hỏi:
 
-— Tóc này của anh Quân hả?
+— Tóc này có sẵn trong phòng không?
 
-— Ảnh nói không. Mannequin có mấy bộ tóc nhưng không có bộ dài kiểu này.
+— Quân nói không. Áo thì của ảnh.
 
-— Áo?
+— Vậy người vào ít nhất biết lấy đồ ở đâu.
 
-— Của ảnh.
+Quỳnh chuyển sang tấm ảnh lớp cũ.
 
-— Nghĩa là người vào biết chỗ đồ.
+— Đây là Tùng.
 
-— Hoặc từng ở phòng.
+Lan nhìn người ở hàng sau một lúc.
+
+— Nhìn bình thường ha.
 
 — Ừ.
 
-Lan chuyển qua tấm ảnh lớp cũ Quỳnh chụp.
+— Mà thôi, bình thường hay không cũng chẳng nói được gì.
 
-Nó nhìn rất lâu.
+Quỳnh cất máy.
 
-— Tùng là thằng nào?
-
-Quỳnh chỉ.
-
-— Hàng sau, thứ ba từ trái.
-
-— Trông bình thường.
-
-— Người xấu có mọc sừng đâu.
-
-Lan trả điện thoại.
-
-— Tao chưa nói nó xấu.
-
-Quỳnh nhìn bạn.
-
-— Tao cũng chưa.
-
-Hai đứa cùng im.
+— Tao biết.
 
 ***
 
-Tối đó phòng 201 không có hiện tượng gì.
+Tối hôm đó phòng 201 yên đến lạ.
 
-Không chuông điện thoại.
+Không chuông điện thoại. Không nước chảy. Không cánh quạt tự dịch. Sự bình thường ấy đáng lẽ phải khiến Quỳnh dễ ngủ, nhưng sau mấy ngày liên tiếp chờ một chuyện gì đó xảy ra, nó lại nằm nghe mọi tiếng động nhỏ trong phòng rõ hơn.
 
-Không nước chảy.
+Khoảng mười một giờ, cô quản sinh gõ cửa. Ông Phúc đứng phía sau.
 
-Không quạt tự quay.
+— Quỳnh, Lan, Hân xuống dưới với chú chút.
 
-Sự yên tĩnh lại khiến Quỳnh khó ngủ hơn.
+Ở phòng quản sinh, ông trả lại nửa tấm ảnh vì nó không nằm trong chiếc hộp thiếc và hiện chưa được xác định là vật chứng của hồ sơ cũ. Chiếc điện thoại cùng cuốn sổ thì vẫn được giữ để kiểm tra.
 
-Khoảng mười một giờ, cô quản sinh gõ cửa.
+Trước khi ba đứa đi, ông Phúc gọi Quỳnh lại.
 
-Bà đứng ngoài, phía sau là ông Phúc.
-
-— Quỳnh, Lan, Hân xuống dưới một chút.
-
-Ba đứa nhìn nhau.
-
-Ở phòng quản sinh, ông Phúc trả lại mảnh ảnh cho Quỳnh vì xác định không phải vật thu được trong hộp thiếc và Quỳnh là người đang giữ từ trước. Điện thoại cùng nhật ký thì công an mang đi xác minh.
-
-Trước khi chúng rời phòng, ông gọi Quỳnh lại.
-
-— Cháu có nhớ cái tem ngày sản xuất lúc sáng không?
+— Cháu còn nhớ ngày sản xuất trên máy không?
 
 — Dạ, tháng tám 2008.
 
-— Tốt. Nhớ một chuyện nữa. Số gọi tới máy đó, 0888 888 888, hiện tại không phải số thuê bao di động được cấp bình thường.
+— Ừ. Có thêm chuyện này. Dãy số 0888 888 888 mà cháu nhìn thấy hiện không phải một số thuê bao di động được cấp bình thường.
 
-Quỳnh thấy sống lưng lạnh đi.
+Quỳnh lạnh sống lưng.
 
-— Vậy tại sao nó gọi được?
+— Vậy tối đó cháu nghe gì?
 
-Ông Phúc nhìn nó.
+— Chú không nói cháu không nghe. Nhưng chuyện màn hình hiện một dãy số với chuyện có cuộc gọi thật đi qua mạng là hai việc khác nhau. Có thể máy bị sửa, có thể âm thanh phát từ thiết bị khác. Bên kỹ thuật đang coi.
 
-— Chú chưa nói nó gọi được.
+— Còn chuyện cái máy tự nhiên nằm trong túi cháu?
 
-— Cháu nghe.
+Ông Phúc nhìn nó một lúc rồi lắc đầu.
 
-— Chú biết cháu nghe.
+— Cái đó hiện giờ chú không giải thích được.
 
-Ông nói rất bình tĩnh.
+Ông nói thẳng, không cười, không bảo Quỳnh nhớ nhầm. Chính vì vậy câu trả lời lại khiến nó bình tĩnh hơn.
 
-— Nhưng từ góc độ kỹ thuật, một màn hình hiện chuỗi số không chứng minh có cuộc gọi đi qua mạng. Có thể máy đã bị can thiệp. Có thể có thiết bị khác phát âm thanh. Chú đang cho kiểm tra.
+— Nếu thật sự có người đang dọa tụi cháu thì họ rất muốn tụi cháu hoảng tới mức nghĩ cái gì cũng là do một thứ duy nhất làm — ông nói. — Cứ sợ cũng được, nhưng thấy gì thì nhớ đúng cái đó thôi. Phần nào chưa biết thì để nguyên là chưa biết.
 
-— Còn chuyện nó xuất hiện trong túi cháu?
+Ra khỏi phòng, Lan đi được vài bước mới nói:
 
-— Cái đó chú không có lời giải.
+— Chú Phúc nói cái tao muốn nói mà nghe dễ chịu hơn tao ha.
 
-Ông không cười.
+Hân liếc nó.
 
-Không bảo Quỳnh nhớ nhầm.
+— Vì chú ấy không có cái mặt “tao nói rồi mà”.
 
-Chính câu trả lời thẳng ấy khiến Quỳnh tin ông hơn.
+Lan chạm tay lên má thật như muốn kiểm tra. Quỳnh bật cười, lần đầu tiên sau mấy ngày cười mà không phải cố.
 
-Ông Phúc gõ ngón tay lên tập hồ sơ.
-
-— Nếu có người muốn dọa các cháu, mục tiêu đầu tiên của họ là làm các cháu thôi suy nghĩ. Sợ thì vẫn được. Nhưng đừng để sợ thay mình kết luận.
-
-Quỳnh gật.
-
-Ra khỏi phòng, Lan thì thầm:
-
-— Chú này nói giống tao.
-
-Hân đáp:
-
-— Khác. Chú ấy nói không khó ưa bằng mày.
-
-Lần đầu tiên sau hai ngày, Quỳnh cười thật.
-
-Nhưng nụ cười chỉ kéo dài đến khi nó quay lại phòng 201.
+Nụ cười tắt khi ba đứa mở cửa phòng 201.
 
 Trên giường Quỳnh có một phong bì trắng.
 
-Không tem.
-
-Không tên người gửi.
-
-Chỉ viết một dòng bằng mực xanh:
+Không tem, không tên người gửi. Chỉ có một dòng mực xanh ở mặt trước:
 
 “Muốn biết nhật ký thật hay giả, hỏi người đã viết nó.”
 
-Hân lập tức nhìn cửa.
+Hân đứng nguyên ở cửa, nhìn mẩu giấy niêm vẫn còn kẹp đúng chỗ. Cửa sổ khóa. Bảy đứa trong phòng đều nói không ai thấy ai đặt phong bì lên giường.
 
-Mẩu giấy niêm vẫn nguyên.
+Trâm đứng cạnh tủ, mặt trắng bệch.
 
-Cửa sổ khóa.
+Quỳnh không chạm vào phong bì.
 
-Bảy đứa trong phòng đều khẳng định không ai đặt phong bì lên giường.
-
-Trâm đứng ở góc tủ, mặt trắng hơn mọi người.
-
-Quỳnh không mở.
-
-Nó gọi ông Phúc quay lại.
+Nó quay người đi xuống gọi ông Phúc trở lại.
