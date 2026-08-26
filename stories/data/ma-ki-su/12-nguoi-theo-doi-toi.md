@@ -1,533 +1,485 @@
-Thứ Hai tôi quay lại tòa soạn với một quyết tâm mới: sống lành mạnh, ngủ đủ, hạn chế cà phê và tuyệt đối không nghe lời những đồ vật biết viết.
+Thứ Hai tôi quay lại tòa soạn với một quyết tâm rất nghiêm túc: ngủ đủ, bớt cà phê, không nghe lại cassette khi chỉ có một mình và tuyệt đối không làm theo những lời nhắn tự xuất hiện bằng chữ của tôi.
 
-Quyết tâm tồn tại tới 09:30.
+Quyết tâm ấy sống được tới chín giờ rưỡi sáng.
 
-Lúc đó tôi đã uống cốc cà phê thứ hai và đang mở lại cassette.
+Lúc sếp Hòa đi ngang bàn, tôi đã uống cốc cà phê thứ hai và đang cắm tai nghe, tua lại đúng đoạn cuối của cuộn băng.
 
-Con người nói chung yếu đuối trước thói quen.
+Ông đứng sau lưng tôi một lúc mà tôi không biết. Đến khi một bàn tay thò qua vai rút phích tai nghe, tôi mới giật mình quay lại.
 
-Sếp Hòa đứng sau lưng tôi.
+— Hôm thứ Bảy ai nói từ giờ không tự nghe nữa?
 
-— Tôi tưởng cậu nói dừng nghe.
+— Em chỉ kiểm tra lại một chỗ.
 
-— Em chỉ kiểm tra đầu băng.
+— Kiểm tra mấy lần rồi?
 
-— Cậu đã nghe mấy lần?
-
-— Không quan trọng.
-
-— Bao nhiêu?
+Tôi cân nhắc xem nói dối có ích gì không.
 
 — Bốn.
 
-— Huy.
+Sếp Hòa không nói gì.
 
-— Năm nếu tính lần tua.
+— Năm nếu tính lần em tua đầu băng — tôi tự sửa.
 
-Ông giật máy ghi âm khỏi tay tôi.
+Ông chìa tay.
 
-— Từ giờ cái này ở chỗ tôi.
+— Đưa đây.
 
-— Sếp giữ rồi đêm nó tự ra bàn em thì sao?
+— Sếp giữ rồi đêm nó tự chui ra bàn em thì sao?
 
-— Thì tôi xin lỗi cái két.
+— Khi nào nó tự chui được thì tôi xin lỗi nó. Còn bây giờ cậu đưa đây.
 
-Tôi nhìn ông.
+Tôi miễn cưỡng giao máy ghi âm. Ông cầm đi được hai bước rồi quay lại, đặt xuống bàn tôi một xấp photocopy dày chừng hơn hai chục trang.
 
-— Sếp bắt đầu biết đùa rồi đó.
+— Nhật ký của Duy. Tôi lọc những đoạn liên quan ba bích, băng cassette và các vụ cậu đang gặp.
 
-— Tôi đang cáu.
+Cơn buồn ngủ biến mất gần hết.
 
-— Càng tiến bộ.
+Nét chữ của Lê Khánh Duy nhỏ và đều, khác hẳn kiểu chữ hơi ngả về bên phải của tôi. Những trang đầu chỉ là ghi chú công việc, địa chỉ, tên người, chi phí di chuyển. Tới giữa tháng Sáu năm 2006, giọng viết thay đổi.
 
-Sếp Hòa đặt xuống bàn tôi một tập photocopy.
+Ngày 14/6:
 
-— Nhật ký của Duy.
-
-Tôi ngồi thẳng.
-
-— Đọc được hết?
-
-— Phần còn lại trong kho. Tôi copy những đoạn liên quan băng và ba bích.
-
-Tôi lật.
-
-Nét chữ của Lê Khánh Duy nhỏ, đều, rất khác tôi.
-
-Ngày 14/6/2006:
-
-“Lại thấy lá ba bích trong túi áo dù đã đốt.”
+**“Lại thấy lá ba bích trong túi áo dù đã đốt.”**
 
 Ngày 17/6:
 
-“Băng không đoán tương lai. Nó chọn một tương lai rồi làm người nghe tin đó là tương lai duy nhất.”
+**“Băng không đoán tương lai. Nó chọn một tương lai rồi làm người nghe tin đó là tương lai duy nhất.”**
 
-Tôi dừng.
+Tôi đọc câu ấy hai lần.
 
-Đọc lại.
+Sếp Hòa ngồi xuống ghế bên kia bàn, không giục.
 
-Sếp hỏi:
+— Câu này khác với những gì mình vừa trải qua — tôi nói.
 
-— Thấy gì?
+— Khác thế nào?
 
-— Câu này khác với những gì mình nghĩ.
+— Nếu Duy đúng thì băng không nhất thiết “biết trước”. Nó có thể khiến người nghe chú ý, né, hoặc vô tình đẩy mọi thứ về một hướng.
+
+— Hoặc Duy nghĩ vậy.
 
 — Ừ.
 
-Ngày 20/6:
-
-“Không nghe được giọng thật của thứ đó. Nó dùng giọng người nghe tin nhất.”
-
-Ngày 22/6:
-
-“Tôi nghe giọng mình. Bình nghe giọng vợ. Cậu kỹ thuật nghe giọng mẹ đã chết.”
-
-Tôi nổi da gà.
-
-— Bình là ai?
-
-— Có thể Phạm Quốc Bình. Người mất tích hai mươi năm trước.
-
-— Hai người từng gặp nhau?
-
-— Duy vào tòa soạn sau Bình nhiều năm. Có thể đọc hồ sơ.
+Sếp Hòa gật rất nhẹ. Ông không còn sốt ruột tìm một đáp án cho mọi thứ như những tuần đầu nữa; có lẽ tôi không phải người duy nhất bị mấy vụ này dạy cho tính kiên nhẫn.
 
 Tôi lật tiếp.
 
-Một trang gần cuối chỉ có ba dòng:
+Ngày 20/6:
 
-“Chợ Âm không bán ma.
+**“Không nghe được giọng thật của thứ đó. Nó dùng giọng người nghe tin nhất.”**
 
-Nó bán thứ người mua tin ma có thể làm.
+Hai ngày sau:
 
-Đừng nhầm hai chuyện đó.”
+**“Tôi nghe giọng mình. Bình nghe giọng vợ. Cậu kỹ thuật nghe giọng mẹ đã chết.”**
 
-Tôi dựa lưng ghế.
+Tôi ngẩng lên.
 
-— Ông này cũng gặp Chợ Âm.
+— “Bình” có thể là Phạm Quốc Bình?
 
-— Có vẻ vậy.
+— Tôi cũng nghĩ vậy. Nhưng Duy vào tòa soạn sau Bình nhiều năm. Có thể cậu ta chỉ đọc hồ sơ cũ rồi ghi lại.
 
-— Tại sao tòa soạn không điều tra tiếp?
+Không đủ để nối hai người. Nhưng cái tên ấy vẫn khiến tôi nhớ tới ba bích đã xuất hiện trong những hồ sơ cách nhau hàng chục năm.
 
-Sếp Hòa im.
+Gần cuối tập photocopy có một trang chỉ viết ba câu:
 
-— Duy nghỉ. Bình mất. Những người còn lại nghĩ hai người bị ám ảnh nghề nghiệp. Lúc đó Âm Dương cũng không phải tòa soạn lớn. Hồ sơ bị xếp kho.
+**“Chợ Âm không bán ma. Nó bán thứ người mua tin ma có thể làm. Đừng nhầm hai chuyện đó.”**
 
-— Còn sếp?
+Tôi dựa lưng vào ghế.
 
-— Tôi vào sau.
+— Vậy Duy cũng từng chạm vào Chợ Âm.
 
-— Anh có tin họ không?
+— Có vẻ thế.
 
-— Trước đây không.
+— Sao hồi đó tòa soạn không theo tiếp?
 
-— Giờ?
+Sếp Hòa chống hai tay lên đầu gối, nhìn ra ngoài dãy bàn đang ồn tiếng bàn phím và điện thoại.
+
+— Duy nghỉ. Bình mất tích từ trước đó. Những người còn lại xem phần lớn ghi chép này là hậu quả của việc đi hiện trường quá nhiều rồi ám ảnh. Âm Dương lúc ấy nhỏ, nhân sự ít, hồ sơ bị đẩy xuống kho. Tôi vào sau nên cũng chỉ biết bản tóm tắt.
+
+— Anh có từng tin Duy không?
 
 Ông nhìn tôi.
 
-— Giờ tôi tin cậu nên cẩn thận.
+— Trước đây thì không.
 
-Đây có lẽ là câu gần tình cảm nhất sếp từng nói với tôi.
+— Còn bây giờ?
 
-Tôi đang định cảm động thì ông thêm:
+— Bây giờ tôi tin cậu cần bớt tự đi một mình.
 
-— Vì tuyển cộng tác viên mới rất phiền.
+Tôi định cười, nhưng ông nói với vẻ nghiêm túc nên tôi chỉ gật.
 
-Ừ. Tôi biết mà.
+— Em biết.
 
-***
+— Biết mà làm được mới đáng nói.
 
-Trưa hôm đó tôi phát hiện mình bị theo dõi.
-
-Không phải nhờ giác quan thứ sáu.
-
-Nhờ anh Quang.
-
-Nó kéo ghế lại gần.
-
-— Ê Huy.
-
-— Gì?
-
-— Thằng áo xám quán đối diện nhìn mày ba ngày rồi.
-
-— Mày biết sao ba ngày?
-
-— Tao ăn trưa ở đó ba ngày.
-
-— Sao không nói sớm?
-
-— Tao tưởng chủ nợ.
-
-Tôi nhìn qua cửa sổ.
-
-Quán cà phê bên kia đường có một người đàn ông ngồi gần cửa kính. Khoảng hơn ba mươi, tóc cắt ngắn, áo sơ mi xám, trước mặt là cốc trà gần như chưa uống.
-
-Anh ta không nhìn lên.
-
-Tôi đứng dậy.
-
-Quang hỏi:
-
-— Đi đâu?
-
-— Hỏi.
-
-— Mày cứ vậy đi thẳng qua luôn hả?
-
-— Chứ bắt taxi vòng quanh theo dõi ngược à?
-
-— Người ta có thể nguy hiểm.
-
-Tôi suy nghĩ.
-
-— Đi cùng.
-
-— Tao có việc.
-
-— Tình bạn đâu?
-
-— Ở nhà với người không bị theo dõi.
-
-Câu này nghe quen.
-
-Tôi đi một mình.
+Cái này tôi không phản biện được.
 
 ***
 
-Người áo xám ngẩng lên khi tôi kéo ghế đối diện.
+Trưa hôm đó, Quang phát hiện tôi bị theo dõi.
 
-— Anh nhìn em mấy ngày rồi. — tôi nói.
+Nó kéo ghế sang sát bàn tôi, vẫn cầm hộp cơm ăn dở.
 
-— Cậu cũng tự tin nhỉ.
+— Huy, đừng quay đầu liền. Quán bên kia có ông áo xám ngồi nhìn qua đây mấy bữa rồi.
 
-— Em đẹp trai nhưng không nghĩ anh thuộc nhóm đối tượng hâm mộ.
+Tôi vẫn nhìn màn hình.
 
-Anh ta nhìn tôi ba giây.
+— Mấy bữa là mấy?
 
-— Cậu nói chuyện ngoài đời cũng vậy thật à?
+— Ba ngày tao ăn trưa ở đó, thấy ba ngày.
 
-— Anh đọc bài em?
+— Sao giờ mới nói?
 
-— Đủ.
+— Tao tưởng chủ nợ của mày.
 
-— Vậy anh là ai?
+— Tao có vay ai đâu.
 
-Anh lấy ví.
+Quang nhún vai.
 
-Đặt một thẻ ngành lên bàn vừa đủ tôi nhìn.
+— Nhìn cách mày sống tao thấy khả năng đó cao.
 
-Nguyễn Đức Khải.
+Tôi liếc qua lớp kính cửa sổ. Quán cà phê bên kia đường đông hơn giờ sáng, nhưng người Quang nói tới khá dễ nhận: nam, ngoài ba mươi, tóc ngắn, áo sơ mi xám, ngồi gần cửa kính với một cốc trà gần như chưa uống. Anh ta không nhìn thẳng về phía tòa soạn; thi thoảng chỉ ngẩng lên rồi lại cúi xuống điện thoại.
 
-Cơ quan điều tra.
+— Tao qua hỏi — tôi nói.
 
-Tôi nhìn anh.
+Quang đặt đũa xuống.
+
+— Mày không nghĩ nên báo ai trước à?
+
+Tôi nhìn nó.
+
+— Đi cùng tao.
+
+— Tao đang ăn.
+
+— Tình bạn của mày đáng một hộp cơm thôi hả?
+
+— Không. Nhưng nếu ông kia có dao thì tao muốn ăn xong trước.
+
+Tôi nhắn cho sếp Hòa một câu ngắn: **“Em qua quán đối diện nói chuyện với người đang theo dõi em. Quang biết.”** Sau đó mới đứng dậy.
+
+Quang nhìn màn hình điện thoại tôi rồi gật.
+
+— Đỡ ngu hơn trước rồi đó.
+
+— Cảm ơn.
+
+— Tao không khen.
+
+***
+
+Người áo xám ngẩng lên ngay khi tôi kéo ghế ngồi đối diện. Ở gần mới thấy anh ta lớn tuổi hơn tôi đoán từ xa, có vài sợi bạc rất mảnh ở hai bên thái dương, gương mặt không lạnh nhưng gần như không có cử chỉ thừa.
+
+— Anh nhìn em mấy ngày rồi — tôi nói.
+
+Anh ta nhấc mắt khỏi cốc trà.
+
+— Cậu chắc là tôi nhìn cậu?
+
+— Nếu không thì em xin lỗi vì tự tin quá.
+
+Khóe miệng anh động nhẹ, không rõ có phải cười không.
+
+— Cậu nói ngoài đời cũng vậy thật à?
+
+— Anh đọc bài em rồi?
+
+Anh không trả lời, chỉ mở ví, đặt một thẻ ngành trên bàn vừa đủ để tôi đọc.
+
+**Nguyễn Đức Khải.**
+
+Tên đơn vị phía dưới khiến tôi ngồi thẳng hơn.
 
 — Công an theo dõi em?
 
 — Quan sát.
 
-— Hai từ khác nhau nhiều không?
+— Nghe nhẹ nhàng hơn hẳn.
 
-— Trên giấy tờ thì có.
+— Trên giấy tờ cũng khác.
 
-Tôi bắt đầu thích cách nói chuyện này.
+Tôi nhìn anh thêm vài giây. Không thấy lý do phải tiếp tục diễn.
 
-— Vì Vượng?
+— Vì Vượng hay Tân Phúc?
 
-— Vượng. Tân Phúc. Và một số giao dịch trước đó.
+— Cả hai. Và một số giao dịch có trước hai vụ đó.
 
 — Chợ Âm?
 
-Anh Khải không xác nhận ngay.
+Khải không gật cũng không lắc. Anh xoay cốc trà một chút rồi mới nói:
 
-— Chúng tôi theo một mạng lưới mua bán đồ cổ không rõ nguồn, mẫu sinh học, thuốc độc, tài sản của người chết, giấy tờ giả và một số dịch vụ khó giải thích.
+— Chúng tôi theo một mạng lưới có giao dịch đồ cổ không rõ nguồn, mẫu sinh học, thuốc độc, tài sản của người chết, giấy tờ giả. Có vài nhánh dùng những cái tên nghe rất… huyền bí cho hàng hóa và dịch vụ.
 
-— Dịch vụ xóa người khỏi ký ức?
+— “Vô danh” chẳng hạn?
 
-— Tôi nói “khó giải thích”.
+Mắt anh dừng trên tôi lâu hơn một nhịp.
 
-— Anh né giỏi.
-
-— Nghề tôi vậy.
-
-Tôi cười.
-
-— Anh biết em gặp Vượng trước khi đọc bài?
-
-— Biết sau khi địa phương gửi thông tin.
-
-— Tân Phúc?
-
-— Trước khi cậu tới hai ngày chúng tôi đã theo một dòng tiền liên quan công ty thuê kho.
-
-Tôi ngồi thẳng hơn.
-
-— Vậy sao không ập vào sớm?
-
-— Chưa đủ căn cứ, chưa xác định người bị giữ. Khi Khôi gọi và có thêm thông tin, điều kiện thay đổi.
-
-— Anh Tuấn là người của anh?
-
-— Phối hợp.
-
-Tôi nghĩ lại.
-
-Hóa ra trong lúc tôi tưởng mình đang tự kéo một sợi chỉ, phía khác đã có người lần theo nó bằng tài khoản ngân hàng, hợp đồng thuê kho và điện thoại.
-
-Thực tế hơn nhiều.
-
-Và cũng đáng sợ hơn.
-
-— Anh theo em vì nghĩ em thuộc Chợ Âm?
-
-— Ban đầu có ba khả năng.
-
-— Một?
-
-— Cậu là người của họ.
-
-— Hai?
-
-— Cậu là khách hàng.
-
-— Ba?
-
-— Cậu là thằng xui nhất Hà Nội.
-
-Tôi nhìn anh.
-
-— Kết luận?
-
-— Khả năng ba đang dẫn.
-
-Tôi bị xúc phạm nhưng khó phản bác.
-
-***
-
-Tôi kể cho Khải về Vượng gọi “dị huyết”, Khôi thấy danh mục “vô danh”, cuốn sổ, đồng xu.
-
-Không kể hết cassette ngay.
-
-Anh nghe, ghi rất ít.
-
-— Đồng xu đâu?
-
-— Tòa soạn.
-
-— Tôi muốn kiểm tra.
-
-— Được.
-
-— Băng cassette?
-
-Tôi khựng.
-
-— Sao anh biết?
-
-— Cậu vừa nhìn túi áo khi tôi hỏi còn vật gì khác.
-
-Tôi nhìn anh.
-
-— Anh làm nghề này khó chịu ghê.
-
-— Cảm ơn.
-
-Tôi kể.
-
-Không giấu nữa.
-
-Khải nghe xong không hỏi “ma thật à”.
-
-Anh hỏi:
-
-— Ai có thể tiếp cận két?
-
-— Sếp, hành chính, kỹ thuật theo quyền.
-
-— Camera?
-
-— Có.
-
-— File gốc?
-
-— Có.
-
-— Băng đã gửi giám định âm thanh?
-
-— Mới kiểm tra dân sự sơ bộ.
-
-— Tôi lấy bản sao, không lấy vật gốc nếu tòa soạn chưa đồng ý.
-
-Tôi gật.
-
-— Anh tin dự đoán không?
-
-— Tôi tin thông tin rò rỉ có thể khiến tai nạn trông như dự đoán.
-
-— Còn chuyện thai đôi mẹ em vừa kể mà chữ tự xuất hiện trong két?
-
-— Ai biết chuyện?
-
-Tôi kể.
-
-Anh nói:
-
-— Ít nhất bốn người.
-
-— Không ai ở tòa soạn.
-
-— Chúng tôi sẽ kiểm tra khả năng truyền thông tin trước khi kiểm tra linh hồn.
-
-Tôi cười.
-
-— Em thích câu đó.
-
-— Đừng trích tôi.
-
-***
-
-Chiều, Khải tới Âm Dương.
-
-Sếp Hòa không thích việc công an ngồi trong phòng mình nhưng vẫn hợp tác.
-
-Bản log két không có lần mở trái phép.
-
-Camera không thấy người lạ.
-
-Đồng xu được chụp, cân, đo. Khải không nhận ra ký hiệu.
-
-Cassette được sao dữ liệu.
-
-Khi nghe câu “mày vẫn nghĩ tao là mày”, Khải chỉ hỏi:
-
-— Giọng đúng cậu?
-
-— Em nghe là đúng.
-
-— Người thân?
-
-— Quang nghe cũng nói đúng.
-
-— Có mẫu giọng công khai của cậu trên mạng?
-
-Tôi nghĩ.
-
-— Video Facebook, mấy clip tòa soạn.
-
-— Vậy giả giọng không loại được.
-
-Tôi gật.
-
-Lại một “có thể”.
-
-Tôi thích anh vì anh không làm nỗi sợ của tôi lớn hơn chỉ để tỏ ra bí hiểm.
-
-Trước khi về, Khải nói:
-
-— Nếu Chợ Âm liên hệ, đừng tự đi.
-
-— Em chưa có contact.
-
-— Cậu sẽ có.
-
-— Sao chắc?
-
-— Vượng và Tân Phúc đều thất bại sau khi cậu xuất hiện. Nếu mạng lưới đủ chặt, họ sẽ muốn biết cậu là ai.
-
-Tôi nhìn lá ba bích.
-
-— Có vẻ có người biết rồi.
-
-Khải nhìn theo.
-
-— Lá bài này tôi mang đi kiểm tra được không?
-
-Tôi do dự.
-
-Rồi đưa.
-
-Anh bỏ vào túi bằng chứng.
-
-— Ít nhất tối nay nó không nằm cạnh giường cậu.
-
-— Nếu sáng mai nó quay lại bàn em thì sao?
-
-Khải nhìn tôi.
-
-— Lúc đó gọi tôi trước khi viết bài.
-
-***
-
-Sáng hôm sau, ba bích không quay lại.
-
-Tôi thấy nhẹ nhõm.
-
-Tới 10:06, Khải gọi.
-
-Giọng anh khác hẳn hôm qua.
-
-— Huy. Lá bài biến mất.
-
-Tôi đứng yên.
-
-— Ở đâu?
-
-— Phòng lưu vật chứng tạm. Túi còn niêm. Không rách.
-
-— Camera?
-
-— Đang kiểm tra.
-
-— Anh nói túi còn niêm mà bài mất?
+— Cậu biết từ Khôi?
 
 — Ừ.
 
-Tôi nhìn ngăn kéo bàn.
+— Vậy nói tiếp đi.
 
-Không muốn mở.
+Tôi không thích bị biến thành người khai thông tin trong cuộc gặp do chính mình chủ động sang hỏi, nhưng cũng hiểu Khải chưa có lý do phải mở hồ sơ cho một cộng tác viên báo chí.
 
-Khải nói:
+— Trước hết cho em hỏi. Anh đã biết Tân Phúc trước khi tụi em tới đó chưa?
+
+— Biết công ty thuê kho. Chưa biết có người bị giữ bên trong.
+
+— Sao không vào sớm?
+
+— Vì nghi ngờ một dòng tiền và có căn cứ khám một địa điểm là hai chuyện khác nhau. Khi Khôi gọi, địa phương có thêm thông tin trạm phát sóng và nhân chứng, điều kiện thay đổi.
+
+— Anh Tuấn làm cùng anh?
+
+— Phối hợp địa phương.
+
+Tôi nghĩ tới đêm cả nhóm ngồi khoanh bản đồ, trong lúc ở một hướng khác có người lần theo tài khoản ngân hàng, công ty trung gian và thuê bao rác. Cảm giác hơi khó chịu, như vừa nhận ra mình không phải nhân vật chính duy nhất trong vụ mình đang viết.
+
+Khải nhìn tôi.
+
+— Tôi theo cậu vì ban đầu có ba khả năng.
+
+— Em đoán một là em thuộc Chợ Âm.
+
+— Đúng.
+
+— Hai là khách hàng.
+
+— Đúng.
+
+— Ba là gì?
+
+Anh nhấp một ngụm trà đã nguội.
+
+— Cậu vô tình đi qua đúng quá nhiều điểm của họ.
+
+— Nghe đỡ xúc phạm hơn “thằng xui nhất Hà Nội”.
+
+Khải nhìn tôi.
+
+— Tôi chưa nói câu đó.
+
+Tôi im hai giây rồi bật cười.
+
+— Nhưng anh nghĩ.
+
+— Có lúc.
+
+Ít nhất cách nói này nghe giống một người thật hơn là một điều tra viên được tác giả giao nhiệm vụ làm “người tỉnh táo”.
+
+***
+
+Tôi kể cho Khải từ đồng xu chỉ đen ở Mẫu Sơn, mã M-03 trong sổ Vượng, tới V-11 và ba danh mục Khôi nhìn thấy trên máy của Vĩ. Anh không chen ngang nhiều, chỉ thỉnh thoảng hỏi ngày, ai có mặt, vật nào còn giữ.
+
+Khi tôi nhắc tới đồng xu, anh hỏi:
+
+— Ở đâu?
+
+— Tòa soạn. Đựng túi riêng.
+
+— Cho tôi xem được không?
+
+— Được.
+
+Anh ghi một dòng rồi hỏi tiếp:
+
+— Còn thứ nào khác cậu chưa nói?
+
+Tôi bất giác liếc xuống túi áo, nơi thường để máy ghi âm.
+
+Khải nhìn theo.
+
+— Có băng cassette?
+
+Tôi thở ra.
+
+— Anh làm nghề này khó chịu thật.
+
+— Cậu vừa tự chỉ.
+
+Thế là tôi kể nốt.
+
+Ba bích. Giọng của tôi trên băng. Những mốc giờ. Câu “mày vẫn nghĩ tao là mày”. Hồ sơ song thai. Nhãn băng đổi trong két.
+
+Khải nghe hết mà không hỏi “cậu có tin ma không?”. Câu đầu tiên của anh là:
+
+— Ai có quyền mở két?
+
+— Sếp Hòa. Một số người hành chính, kỹ thuật theo phân quyền.
+
+— Có camera?
+
+— Hành lang có.
+
+— Log điện tử lưu ở đâu?
+
+— Server nội bộ.
+
+— Băng đã giám định chính thức chưa?
+
+— Mới nhờ một người làm âm thanh kiểm sơ bộ.
+
+Anh gật.
+
+— Tôi cần bản sao dữ liệu. Vật gốc vẫn để tòa soạn giữ nếu bên cậu chưa muốn bàn giao.
+
+Tôi nhìn anh.
+
+— Anh nghĩ mấy dự đoán là do có người sắp xếp?
+
+— Tôi nghĩ đó là một hướng phải loại. Nếu ai đó biết lịch làm việc, vị trí đồ vật, có quyền truy cập tòa nhà hoặc nghe được trao đổi của cậu thì “dự đoán” có thể là một màn dàn dựng rất đắt công.
+
+— Còn chuyện mẹ em kể song thai ở quê, vài tiếng sau nhãn trong két xuất hiện câu “hai nhịp tim, một cái tên”?
+
+— Cậu kể chuyện đó cho ai?
+
+Tôi đếm.
+
+— Mẹ, ba nghe một phần, Quang. Có thể điện thoại ghi âm vì em gọi sếp trước đó.
+
+— Vậy trước mắt tôi có thông tin tồn tại ngoài đầu cậu. Chưa cần nhảy tới linh hồn.
+
+Tôi cười nhẹ.
+
+— Em thích cách anh nói.
+
+— Đừng đưa lên bài.
+
+— Em chưa nói là sẽ trích.
+
+— Mặt cậu nói.
+
+Có lẽ sau này tôi hợp với Khải một phần vì anh không phủ nhận nỗi sợ của người khác nhưng cũng không nuôi nó hộ họ.
+
+***
+
+Chiều cùng ngày Khải tới Âm Dương. Sếp Hòa không vui khi phải mở log két và hệ thống camera cho người ngoài, nhưng sau khi xem thẻ ngành và nghe tôi kể ngắn gọn thì vẫn hợp tác.
+
+Log không có lần mở trái phép. Camera hành lang cũng không ghi người lạ vào phòng sếp trong khoảng thời gian chúng tôi cần kiểm. Điều đó chưa chứng minh không ai can thiệp hệ thống; nó chỉ khiến giả thuyết “một người bình thường đi vào, mở két rồi viết lên băng” khó hơn.
+
+Đồng xu được chụp nhiều góc, đo kích thước, cân và ghi nhận mùi kim loại. Khải không nhận ra ký hiệu hay nguồn gốc. Cassette được số hóa thêm một bản. Khi nghe tới câu **“nghĩa là mày vẫn nghĩ tao là mày”**, anh chỉ tháo tai nghe và hỏi:
+
+— Người quen cậu nghe có nhận là giọng cậu không?
+
+— Quang nhận. Sếp Hòa cũng vậy.
+
+— Trên mạng có mẫu giọng cậu không?
+
+Tôi nghĩ tới những clip tòa soạn từng đăng và mấy video Facebook cũ.
+
+— Có kha khá.
+
+— Vậy giả giọng vẫn là khả năng.
+
+— Em biết.
+
+Tôi bắt đầu thấy mình nói “em biết” nhiều hơn trước. Không phải vì hiểu thêm bao nhiêu, mà vì bớt muốn chọn đáp án cho nhanh.
+
+Trước khi về, Khải đứng cạnh bàn tôi, nhìn lá ba bích đặt trong túi zip.
+
+— Nếu bên mạng lưới đó liên hệ, đừng tự đi gặp.
+
+— Em chưa có cách liên hệ họ.
+
+— Sau Vượng và Tân Phúc, nếu họ để ý luồng tin tức thì tên cậu đã đủ nổi trong mấy vụ này. Có người sẽ tìm cậu trước.
+
+Tôi chỉ lá bài.
+
+— Có vẻ có người tìm rồi.
+
+Khải nhìn nó một lúc.
+
+— Cho tôi mang lá này đi kiểm tra tạm được không?
+
+Tôi do dự. Không phải vì quý một lá bài vài nghìn đồng, mà vì sau từng ấy chuyện, đưa nó khỏi tầm mắt tạo cảm giác giống tự bỏ một cái chuông báo cháy đang reo.
+
+Cuối cùng tôi vẫn đưa.
+
+Khải cho vào túi niêm phong ngay trước mặt tôi, ghi giờ và ký mép.
+
+— Ít nhất tối nay cậu ngủ không phải nhìn nó.
+
+— Nếu sáng mai nó quay lại thì sao?
+
+Anh nhét túi vào cặp.
+
+— Gọi tôi trước. Đừng đăng status.
+
+— Em có đăng đâu.
+
+— Tôi đề phòng.
+
+***
+
+Sáng hôm sau tôi thức dậy, việc đầu tiên là nhìn bàn làm việc trong phòng trọ.
+
+Không có ba bích.
+
+Tới tòa soạn, tôi còn mở ngăn kéo kiểm thêm một lần. Đồng xu chỉ đen vẫn nằm trong túi, chỗ cạnh nó trống.
+
+Tôi thở phào hơi sớm.
+
+10:06, Khải gọi.
+
+— Huy, cậu đang ở tòa soạn?
+
+Giọng anh thấp hơn hôm trước.
+
+— Dạ. Có chuyện gì?
+
+— Lá bài không còn trong túi niêm phong.
+
+Tôi đứng bật khỏi ghế.
+
+— Túi bị rách à?
+
+— Không. Mép niêm vẫn nguyên. Tôi đang cho giữ hiện trạng và trích camera.
+
+Một cảm giác lạnh chạy từ gáy xuống lưng.
+
+Khải nói tiếp:
 
 — Cậu kiểm tra chỗ cậu đi.
 
-Tôi kéo ngăn.
+Tôi quay sang ngăn kéo.
 
-Ba bích nằm trên đồng xu.
+Quang ở bàn bên nhìn tôi nhưng không hỏi.
 
-Túi bằng chứng của Khải không có.
+Tôi kéo ngăn ra.
 
-Lá bài trần.
+Ba bích nằm ngay trên túi đồng xu, không có túi niêm của Khải, mặt bài ngửa lên.
 
-Trên mặt có thêm chữ.
+Vết xước bán nguyệt vẫn ở góc.
 
-“19:30. QUÁN 37. ĐI MỘT MÌNH.”
+Bên dưới biểu tượng bích là một dòng chữ mới bằng mực xanh:
 
-Tôi đọc cho Khải.
+**19:30. QUÁN 37. ĐI MỘT MÌNH.**
 
-Anh im vài giây.
+Tôi đọc cho Khải nghe.
 
-— Cậu sẽ không đi một mình.
+Đầu dây im vài giây.
 
-— Nó viết vậy.
+— Cậu không đi một mình.
 
-— Tôi không nhận lệnh từ bài Tây.
+— Em cũng không định nghe nguyên văn một lá bài.
 
-— Em cũng không.
+— Nhưng cậu vẫn sẽ tới.
 
-— Tốt.
+Tôi nhìn đồng hồ.
 
-— Nhưng em sẽ đi.
+— Ừ.
 
-— Tôi biết.
+— Được. Cậu tới như bình thường, không cần biết người của tôi ở đâu. Nếu đối phương kiểm tra, càng ít thứ cậu phải diễn càng tốt.
 
-— Anh không cản?
+— Anh không cản à?
 
-— Không.
+— Nếu tôi cấm, cậu vẫn tìm cách đi. Ít nhất lần này chúng ta làm cho đỡ ngu.
 
-Giọng Khải rất bình tĩnh.
+Tôi nhìn lá ba bích trên bàn.
 
-— Tôi chỉ đảm bảo khi cậu ngu thì có người đứng đủ gần để kéo cậu ra.
+Lần đầu tiên sau nhiều tuần, câu đùa bật lên tới miệng rồi tôi nuốt xuống.
 
-Tôi bắt đầu hiểu vì sao về sau người ta để anh chỉ huy người khác.
+Ai đó — người, mạng lưới, hay thứ gì khác — vừa lấy một vật khỏi túi niêm của công an rồi đặt nó vào ngăn bàn tôi giữa ban ngày.
+
+19:30 còn hơn chín tiếng.
+
+Tôi không thấy buồn cười nữa.
