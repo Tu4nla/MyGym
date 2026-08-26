@@ -16,11 +16,15 @@ Bức số 18 trong bộ ảnh hiện trường tầng hầm nhà Pá Tra.
 
 Ở góc phải dưới khung hình, sát một rễ cây đỏ nâu trồi khỏi nền đất, chiếc lọ nằm nghiêng. Nắp màu đen. Một vệt bột trắng dính bên thành.
 
+06 giờ 44.
+
 Bức số 19 chụp gần hơn.
 
 Lọ vẫn còn.
 
-Bức số 20, lúc 06 giờ 47.
+06 giờ 47.
+
+Bức số 20.
 
 Không còn.
 
@@ -52,11 +56,11 @@ Thi không giật mình.
 
 Nó đã nghe tiếng bước chân từ ngoài cửa.
 
-Thượng tá Nguyễn Đức Khải đặt cốc cà phê xuống bàn bên cạnh, kéo ghế.
+Thiếu tá Nguyễn Đức Khải đặt cốc cà phê xuống bàn bên cạnh, kéo ghế.
 
-Ông hơn năm mươi, tóc cắt ngắn đã lẫn bạc ở hai bên thái dương. Trong bốn tháng làm việc với vụ Hồng Ngài, Thi chưa từng nghe ông dùng từ “ma”, “ngải” hay “tà thuật” trong bất kỳ biên bản nào.
+Anh mới gần bốn mươi, tóc cắt ngắn, hai bên thái dương đã có vài sợi bạc khiến gương mặt thường bị đoán già hơn tuổi. Trong những tháng làm việc với vụ Hồng Ngài, Thi chưa từng nghe Khải dùng từ “ma”, “ngải” hay “tà thuật” trong bất kỳ biên bản nào.
 
-Ông gọi mọi thứ bằng tên mà pháp luật có thể ghi được.
+Anh gọi mọi thứ bằng tên mà pháp luật có thể ghi được.
 
 Chất chưa xác định.
 
@@ -72,13 +76,13 @@ Xâm phạm thi thể.
 
 Tàng trữ vật liệu nổ.
 
-Thi từng hỏi ông có tin những gì nhóm nó kể không.
+Thi từng hỏi anh có tin những gì nhóm nó kể không.
 
 Khải đáp:
 
 “Tin hay không không thay đổi được việc có người chết.”
 
-Bây giờ ông nhìn bức ảnh trên màn hình.
+Bây giờ anh nhìn bức ảnh trên màn hình.
 
 — Cái lọ?
 
@@ -94,73 +98,69 @@ Khải nhấp cà phê.
 
 — Vì khi tổ khám nghiệm bắt đầu đánh số vật chứng lúc 07 giờ 10 thì nó đã không còn ở đó.
 
-— Ai vào hiện trường từ 06:42 tới 06:47?
+— Ai thực sự ở trong hầm từ 06:42 tới 06:47?
 
 — Cô hỏi như thể tôi chưa hỏi.
 
 — Em muốn danh sách.
 
-Khải nhìn Thi một lúc.
+Khải kéo một tờ log ra khỏi tập hồ sơ.
 
-— Quân.
+— Người chụp ảnh hiện trường. Hai cán bộ kỹ thuật thay nhau vào luống. Minh đứng gần cửa. Cô xuống để chỉ vị trí một số vật đã thấy đêm trước.
 
-— Anh Quân ở ngoài cửa hầm lúc đó.
-
-— Lan.
-
-— Bất tỉnh trên cáng.
-
-— Quỳnh.
-
-— Đi cùng y tế.
-
-— Huy.
-
-— Được đưa ra ngoài trước.
-
-Khải gật.
-
-— Còn cô.
-
-Thi không đổi mặt.
+Thi nhìn dòng cuối.
 
 — Và Trung.
 
-Khải không nói tiếp.
+— Xuống sau cô khoảng một phút. Mang thêm túi niêm phong.
 
-Thi tự nói tên đó.
+Thi không đổi mặt.
+
+Lan lúc đó còn ở trạm y tế dã chiến sau khi được tìm thấy trong rừng. Quỳnh đang làm việc với tổ y tế và lấy lời khai bổ sung cùng Trâm. Quân ở khu kiểm soát bên ngoài. Huy đã được đưa khỏi tầng hầm từ trước để kiểm tra sức khỏe.
+
+Những người đó không thể cúi xuống nhặt chiếc lọ trong năm phút ấy.
+
+Nhưng năm người có mặt bên trong thì có thể.
+
+Thi tựa lưng ghế.
 
 Trong đầu nó hiện cảnh buổi sáng hôm ấy.
 
-Mưa đã ngừng. Không khí trong hầm tanh đến khó chịu. Tùng nằm giữa những thân cây đỏ quấn thành từng búi, cơ thể bị xé rách ở nhiều chỗ. Trung là một trong những người quay xuống kiểm tra sau cùng vì hỗ trợ đưa Trâm ra ngoài.
+Mưa đã ngừng. Không khí trong hầm tanh đến khó chịu. Tùng nằm giữa những thân cây đỏ đã bị cắt khỏi cơ thể. Trung là một trong những người quay xuống sau cùng vì lúc đó hắn còn khỏe, lại biết vị trí các lối và đã hỗ trợ vận chuyển túi niêm phong.
 
-Thi nhớ hắn đứng gần xác.
+Thi nhớ hắn đứng gần luống bên phải.
 
-Nhưng nó không nhớ hắn cúi xuống.
+Nó không nhớ hắn cúi xuống.
+
+Nhưng trí nhớ bốn tháng sau không phải camera.
 
 — Camera? — Thi hỏi.
 
-— Không.
+— Góc hầm đó không có camera cố định. Đội khám nghiệm chỉ có ảnh tĩnh và camera ngoài lối vào.
 
 — Ảnh khác?
 
-— Không có góc đó.
+— Không có góc đủ thấy tay người lấy.
+
+— Log ra vào?
+
+— Có. Không nói được ai nhặt vật nhỏ trong túi áo.
 
 — Dấu tay?
 
 — Chúng ta không có cái lọ để lấy dấu.
 
-Thi dựa lưng ghế.
+Thi nhìn lại ba bức ảnh.
 
 — Sao anh không nói với em?
 
-— Vì mất một vật chưa từng được thu giữ không phải bằng chứng Trung lấy nó.
+— Vì mất một vật chưa từng được đánh số thu giữ không phải bằng chứng Trung lấy nó.
 
 — Nhưng anh nghi.
 
 — Tôi nghi tất cả những người có cơ hội.
 
-Thi nhìn ông.
+Thi nhìn anh.
 
 — Kể cả em?
 
@@ -168,7 +168,7 @@ Thi nhìn ông.
 
 Thi bật cười nhạt.
 
-Đó là lý do nó thích làm việc với Khải dù nhiều lúc muốn đập cốc cà phê của ông.
+Đó là lý do nó thích làm việc với Khải dù nhiều lúc muốn đập cốc cà phê của anh.
 
 — Có mẫu bột nào cùng loại trong những thứ đã thu không?
 
@@ -202,7 +202,7 @@ Thi cảm thấy bụng lạnh đi.
 
 Một hình ảnh khác hiện lên.
 
-Xác thầy mo ở nghĩa địa Hồng Ngài.
+Xác người làm lễ ở nghĩa địa Hồng Ngài.
 
 Lòng bàn tay cháy đen.
 
@@ -250,7 +250,7 @@ Không chữ ký.
 
 Khải không đáp.
 
-Thi đã biết câu trả lời.
+Thi đã biết câu trả lời mà cả hai đều không được phép biến thành kết luận khi chưa có chứng cứ.
 
 ***
 
@@ -258,274 +258,66 @@ Trung đang ăn bún chả khi Thi gọi.
 
 — Alo, tình yêu của đời tao gọi giờ này có phải nhớ...
 
-— Tối 24/9, trong hầm nhà Pá Tra, mày có nhặt cái lọ nào không?
+— Mày đang đâu?
 
-Đầu dây im.
+Giọng Thi làm hắn ngừng đùa.
 
-Tiếng quán ăn vẫn ồn phía sau.
+— Quán gần cơ quan. Có chuyện gì?
 
-Một tiếng bát đũa va nhau.
+— Ngồi yên đó. Tao tới.
 
-— Lọ gì?
-
-— Thủy tinh. Nắp đen. Bột trắng.
-
-— Không nhớ.
-
-Thi nhìn đồng hồ trên tường.
-
-— Tao không hỏi mày nhớ không. Tao hỏi mày có nhặt không.
-
-— Không.
-
-Câu trả lời tới sau đúng một nhịp thở.
-
-Thi nhắm mắt.
-
-— Mày đang ở đâu?
-
-— Ăn tối.
-
-— Gửi vị trí.
-
-— Gì căng vậy?
-
-— Gửi.
-
-— Rồi rồi.
-
-Điện thoại rung, vị trí tới.
-
-Thi đứng dậy.
-
-Khải hỏi:
-
-— Cô tin cậu ấy không?
-
-Thi cầm áo khoác.
-
-— Tin.
-
-— Vậy sao đi gặp?
-
-Thi nhìn ông.
-
-— Vì người có não vẫn kiểm tra cả điều mình tin.
-
-***
-
-Quán bún chả nằm trong con ngõ nhỏ, bàn inox kê sát nhau. Trung ngồi cuối quán, trước mặt còn nửa đĩa thịt nướng. Hắn mặc hoodie xám, tóc chưa vuốt, trông chẳng giống điều tra viên mà giống sinh viên vừa trốn tiết.
-
-Thi kéo ghế.
-
-— Ăn không? — Trung hỏi.
-
-— Không.
-
-— Mặt mày vậy là có chuyện.
-
-Thi đặt ảnh chiếc lọ lên bàn.
-
-Trung nhìn.
-
-Không chạm.
-
-— Có thấy quen không?
-
-— Hiện trường Hồng Ngài?
-
-— Ừ.
-
-— Chắc tao có thấy. Lúc đó đồ đạc tùm lum.
-
-— Mày vừa nói qua điện thoại không nhớ.
-
-Trung ngẩng lên.
-
-— “Không nhớ” với “chắc có thấy” không mâu thuẫn. Ảnh đưa trước mặt thì tao nhận bối cảnh.
-
-Thi không phủ nhận.
-
-Hắn nói đúng.
-
-— Nó biến mất trong năm phút. Mày có mặt gần đó.
-
-— Và mày nghĩ tao lấy?
-
-— Tao hỏi.
-
-Trung dựa lưng ghế.
-
-Gương mặt mất vẻ đùa.
-
-— Không.
-
-— Chắc?
-
-— Chắc.
-
-Thi nhìn mắt hắn.
-
-Trung không né.
-
-— Có vụ mới. — nó nói.
-
-— Liên quan?
-
-Thi cho hắn xem ảnh nạn nhân.
-
-Trung nhìn lâu.
-
-— Da mặt.
-
-— Ừ.
-
-— Lòng bàn tay.
-
-— Ừ.
-
-— Giống hai người ở Hồng Ngài.
-
-— Ừ.
-
-Hắn im.
-
-Sau đó hỏi câu đầu tiên của một điều tra viên chứ không phải của người bị nghi:
-
-— Nạn nhân liên hệ gì với Tùng?
-
-— Chưa biết. Có dính đường dây đồ cổ.
-
-— Chợ Âm.
-
-— Khải ghét tên đó.
-
-— Ổng ghét thì người ta vẫn gọi.
-
-Trung cầm đũa, nhưng không ăn nữa.
-
-— Tao muốn vào vụ.
-
-— Không.
-
-— Tại sao?
-
-— Vì mày là người có cơ hội lấy vật chứng.
-
-Trung nhìn nó.
-
-Hai đứa im vài giây.
-
-Rồi hắn cười rất nhẹ.
-
-— Ờ. Hợp lý.
-
-Thi đã chuẩn bị cho hắn giận.
-
-Câu trả lời bình tĩnh đó làm nó khó chịu hơn.
-
-— Mày không phản ứng gì à?
-
-— Phản ứng kiểu gì? Đập bàn nói “mày không tin tao” cho giống phim?
-
-Trung gắp miếng chả cuối cùng.
-
-— Nếu tao là mày, tao cũng tạm cho tao ra ngoài.
+— Đáng sợ vậy?
 
 — Trung.
 
-— Nhưng tao nói thật. Tao không lấy.
+— Rồi. Không đi đâu.
 
-Hắn nhìn Thi.
+Thi tắt máy.
 
-— Và tao muốn biết thằng nào đang dựng mấy cái chết này giống Hồng Ngài.
+Khải hỏi:
+
+— Cô định hỏi thẳng?
+
+— Nếu là nghi phạm chính thức thì không. Nhưng hiện tại Trung là người trong đội và là một trong năm người có cơ hội. Em muốn nghe nó kể trước khi cho nó xem ảnh.
+
+Khải gật.
+
+— Đừng cho nó biết chúng ta đã thu hẹp khung thời gian tới năm phút.
 
 Thi đứng lên.
 
-— Về nhà đi. Tối nay đừng đi đâu.
+— Em biết.
 
-— Mày định quản thúc tao bằng mồm?
-
-— Tao đang nhờ.
-
-Trung thở dài.
-
-— Rồi.
-
-Thi đi ra cửa.
-
-Phía sau, Trung gọi:
+Khải gọi khi nó tới cửa.
 
 — Thi.
 
 Nó quay lại.
 
-— Gì?
+— Nếu Trung thật sự lấy, cô muốn câu trả lời nào?
 
-Trung nhìn nó như định nói gì đó.
+Thi im vài giây.
 
-Cuối cùng chỉ hỏi:
+— Câu thật.
 
-— Tối Hồng Ngài... mày có nhớ tao đã uống gì trước khi phát bệnh không?
+— Tốt.
 
-Thi cau mày.
+— Còn anh?
 
-— Tự nhiên hỏi?
+Khải nhìn ba bức ảnh trên màn hình.
 
-— Mấy hôm nay tao cứ mơ thấy một cái ấm trà.
+— Tôi muốn biết tại sao bốn tháng trước không ai trong năm người nhớ đã thấy bàn tay đó.
 
-— Cái ấm lạnh?
+Thi không trả lời.
 
-— Ừ.
+Nó đi ra.
 
-— Mày uống trà trong đó.
+Trên màn hình, bức số 19 vẫn mở.
 
-Trung nhìn xuống bàn.
+Chiếc lọ thủy tinh nằm nghiêng dưới rễ cây.
 
-— Tao biết.
+Một vật rất nhỏ.
 
-— Vậy hỏi làm gì?
+Nhỏ đến mức có thể bỏ vào túi mà không ai chú ý.
 
-Hắn ngẩng lên.
-
-— Vì trong mơ, tao không phải người cầm chén.
-
-Thi đứng yên.
-
-— Là ai?
-
-Trung lắc đầu.
-
-— Không thấy mặt.
-
-***
-
-Đêm đó, Trung về căn hộ lúc 22 giờ 18.
-
-Camera hành lang ghi rõ.
-
-22 giờ 19, hắn khóa cửa.
-
-22 giờ 36, đèn phòng ngủ tắt.
-
-02 giờ 13 sáng, cửa căn hộ mở.
-
-Một người đàn ông mặc áo khoác đen bước ra.
-
-Dáng người giống Trung.
-
-Chiều cao giống Trung.
-
-Khuôn mặt bị mũ và khẩu trang che gần hết.
-
-Người đó đứng trước camera đúng ba giây.
-
-Ngẩng đầu.
-
-Đôi mắt phản ánh đèn hành lang thành một màu đỏ rất nhạt.
-
-Rồi đi khỏi khung hình.
-
-Trung ngủ trên giường.
-
-Ít nhất sáng hôm sau hắn tin như vậy.
+Nhỏ đến mức bốn tháng sau mới khiến cả một vụ án mở lại.
