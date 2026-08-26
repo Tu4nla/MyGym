@@ -1,214 +1,126 @@
 Thi là người đầu tiên trèo qua cửa sổ.
 
-Cô không nhảy thẳng xuống sân mà ngồi lên bậu, soi đèn pin kiểm tra khoảng đất phía dưới rồi mới hạ người. Độ cao chưa tới hai mét, nhưng đất ẩm và dốc về phía chuồng gia súc.
+Cô không nhảy xuống ngay. Một chân chống lên bậu, tay kia rọi đèn pin xuống khoảng đất phía dưới để nhìn độ dốc và những viên đá lẫn trong bùn. Sân sau thấp hơn nền phòng gần hai mét; mưa mấy hôm trước làm đất nhão, trượt chân lúc này chỉ tổ thêm một người cần cấp cứu.
 
 — Trung!
 
-Không tiếng trả lời.
+Không có tiếng trả lời.
 
-Quỳnh định theo thì Thi ngẩng lên:
+Quỳnh đã xỏ dép, định theo ra thì Thi ngẩng lên.
 
 — Mày ở trên.
 
-— Tao đi.
+— Tao đi được.
 
-— Quỳnh.
+— Chân mày hôm qua vừa bị sưng. Ở đây nhìn cửa với hành lang cho tao.
 
-Giọng Thi không lớn.
+Giọng Thi không lớn, nhưng Quỳnh nhận ra ngay cái cách nó nói khi không còn là bạn cùng phòng cũ nữa. Không có khoảng trống để đôi co.
 
-Nhưng lần này là giọng làm việc.
+Lan đã buộc tóc lên sau gáy.
 
-Quỳnh dừng.
+— Tao xuống với mày.
 
-Lan nói:
-
-— Tao xuống với nó.
-
-Thi suy nghĩ đúng một nhịp rồi gật.
+Thi nhìn nó một nhịp rồi gật.
 
 — Đi sau tao. Không tách.
 
-A Hù cầm đèn dầu, vòng ra bằng cửa chính. Trâm đứng ở hành lang, hai tay nắm mép áo ngủ.
+A Hù vòng ra bằng cửa chính, trên tay cầm đèn dầu. “Trâm” đứng lại ở hành lang, hai tay nắm mép áo ngủ như một người vừa bị dựng dậy giữa đêm mà chưa hiểu chuyện gì.
 
 — Có khi anh Trung mộng du thôi.
 
-Quỳnh nhìn cô.
+Quỳnh quay sang nhìn cô.
 
-— Mày có hay thấy khách nhà mày mộng du qua cửa sổ không?
+— Mộng du mà chốt cửa trong rồi leo cửa sổ ra à?
 
-Trâm không đáp.
+“Trâm” im. Câu vừa rồi có thể chỉ là một cách tự trấn an. Quỳnh không muốn biến mọi lời cô nói thành bằng chứng chỉ vì mình đã bắt đầu nghi.
 
-***
+Ngoài sân, ánh đèn pin của Thi quét qua một vệt bùn kéo từ chân tường về phía chuồng gà.
 
-Vệt bùn dưới cửa sổ kéo về phía chuồng gà.
+Dấu chân trần hiện ra từng quãng. Có chỗ bàn chân đặt gần như bình thường, có chỗ khoảng cách giữa hai dấu dài bất thường như người đang chạy mà không biết mình chạy. Ở mép một dấu gót có một vệt đỏ mỏng, bị nước đất kéo nhòe ra.
 
-Thi không cần nhìn lâu cũng thấy.
-
-Dấu chân trần.
-
-Có chỗ bước bình thường.
-
-Có chỗ khoảng cách giữa hai dấu dài bất thường, như người chạy.
-
-Sương phủ mặt sân thành một lớp trắng thấp. Ánh đèn pin chỉ cắt được từng khoảng ngắn. Tiếng côn trùng phía bờ rào ngừng hẳn khi họ đi qua.
-
-Lan cúi nhìn một dấu chân.
+Lan khom xuống.
 
 — Máu.
 
-Ở rìa gót có một vệt đỏ.
+Thi đeo găng rồi chạm rất nhẹ vào đất.
 
-Thi quỳ xuống.
+— Ít thôi. Có thể từ chân nó bị xước.
 
-Chạm đầu ngón tay đeo găng vào đất.
+Từ phía chuồng gà bỗng bật lên một tiếng cánh đập loạn. Một con gà trống kêu ré, âm thanh xé qua lớp sương mỏng phủ mặt sân.
 
-— Không nhiều.
+Thi chạy trước.
 
-Từ phía chuồng gà vang lên tiếng cánh đập loạn.
-
-Phành phạch.
-
-Một con gà trống kêu ré lên.
-
-Thi bật chạy.
-
-Lan theo sát.
-
-A Hù ở phía sau.
-
-Cửa chuồng mở hé.
-
-Thi dùng chân đẩy.
-
-Ánh đèn quét vào.
+Cửa chuồng chỉ khép hờ. Cô dùng mũi giày đẩy ra, rọi đèn vào trong rồi dừng lại ngay ở ngưỡng.
 
 Trung đang quỳ giữa nền rơm.
 
-Không mặc áo khoác.
-
-Chỉ còn áo thun đen ướt mồ hôi dính vào lưng. Hai bàn chân trầy xước. Một con gà trống bị hắn giữ chặt dưới đầu gối, cánh đập dữ dội.
-
-Mặt Trung cúi sát cổ nó.
+Hắn không mặc áo khoác, chỉ còn chiếc áo thun đen ướt mồ hôi dính vào lưng. Hai bàn chân trầy đỏ. Một con gà trống bị giữ chặt dưới đầu gối, cánh đập liên tục vào nền. Mặt Trung cúi sát phần cổ con vật.
 
 — Trung.
 
-Thi gọi.
-
-Hắn không phản ứng.
-
-— Trung!
-
-Đầu hắn giật lên.
-
-Ánh đèn pin chiếu thẳng vào mặt.
-
-Quỳnh đứng trên hành lang vẫn nhìn thấy từ xa một khoảnh khắc rất ngắn: hai mắt Trung đỏ ngầu, môi dính máu.
-
-Thi đứng yên.
-
-Không rút súng.
-
-— Nhìn tao.
-
-Trung thở dốc.
-
-Cơ hàm co giật.
-
-Con gà dưới tay vẫn vùng.
-
-— Mày đang giữ con gà. Buông ra.
+Thi gọi một lần.
 
 Không phản ứng.
 
-— Trần Đức Trung. Nghe tao không?
+— Trung, nhìn tao.
 
-Tên đầy đủ dường như chạm được vào đâu đó.
+Đầu hắn giật lên.
 
-Mắt hắn chuyển về Thi.
+Ánh đèn pin chạm vào gương mặt khiến Quỳnh, dù còn đứng ở hành lang cách đó một khoảng, vẫn nhìn thấy hai mắt đỏ ngầu và vệt máu quanh môi.
+
+Thi không rút súng. Cô cũng không bước thẳng vào tầm tay hắn.
+
+— Mày đang giữ con gà. Buông nó ra trước.
+
+Trung thở rất mạnh. Cơ hàm co giật như đang cố nuốt thứ gì đó.
+
+— Trần Đức Trung.
+
+Tên đầy đủ làm mắt hắn chuyển về phía Thi.
 
 — ...Thi?
 
-— Ừ. Tao đây.
+— Ừ. Tao đây. Buông con gà ra.
 
-— Tao...
+Hắn cúi nhìn xuống như lần đầu nhận ra dưới đầu gối mình có thứ đang sống. Con gà vùng mạnh thêm một lần. Trung giật tay ra, con vật lập tức lao về góc chuồng, vừa chạy vừa đập cánh.
 
-Hắn nhìn xuống.
+— Tao... làm gì vậy?
 
-Thấy con gà.
+Thi tiến thêm nửa bước.
 
-Thấy máu trên tay.
+— Chưa biết. Mày ngồi yên trước đã.
 
-Khuôn mặt biến đổi.
+Trung đưa tay lên miệng. Khi nhìn thấy lớp đỏ trên đầu ngón, mặt hắn trắng hẳn.
 
-— Cái đéo gì...
+— Máu đâu ra?
 
-Con gà vùng mạnh.
+Lan đã vòng sang mép chuồng, rọi đèn vào cổ con gà. Có một vết rách nhỏ dưới lớp lông, không đủ rõ để biết do răng, móng hay va vào vật sắc.
 
-Trung buông.
+— Có thể từ nó. — Lan nói. — Nhưng chưa biết mày làm bằng cách nào.
 
-Nó lao vào góc chuồng, kêu loạn.
+Trung nhìn con vật thêm đúng một giây rồi quay sang nôn xuống nền rơm.
 
-Thi tiến một bước.
+Thi bước vào giữ vai hắn.
 
-— Ngồi yên.
+Lúc ấy A Mã xuất hiện ở phía sau chuồng.
 
-— Tao làm gì vậy?
+Không ai nghe tiếng chân ông. Chỉ tới khi A Hù quay lại, ánh đèn dầu lia sang mới thấy ông già đứng giữa sương, tay cầm một đoạn gậy ngắn. Tóc bạc bết ẩm vào trán. Một con mắt đục trắng; con còn lại tỉnh đến mức không giống vẻ lơ mơ ở bữa cơm tối.
 
-— Chưa biết.
+— Bố! — A Hù gắt. — Về nhà đi.
 
-— Máu ở đâu?
+A Mã không nhìn con trai. Ông nhìn Trung, lẩm bẩm như nói với chính mình:
 
-Trung đưa tay lên miệng.
+— Chọn nhầm rồi.
 
-Nhìn lớp đỏ trên đầu ngón.
-
-Mặt trắng bệch.
-
-— Tao cắn nó à?
-
-Lan cúi nhìn cổ con gà.
-
-Có một vết rách nhỏ.
-
-Chưa đủ để kết luận bằng gì.
-
-— Có thể. — cô nói.
-
-Trung nôn ngay tại chỗ.
-
-Thi giữ vai hắn.
-
-Đúng lúc ấy A Mã xuất hiện phía cửa sau chuồng.
-
-Không ai thấy ông tới.
-
-Ông cầm một cây gậy ngắn.
-
-A Hù quát:
-
-— Bố! Đi về!
-
-A Mã không nhìn con.
-
-Chỉ nhìn Trung.
-
-Miệng ông lẩm bẩm:
-
-— Chọn nhầm.
-
-Lan quay lại.
+Lan quay hẳn lại.
 
 — Ông nói gì?
 
-A Mã bước tới.
+A Mã bước tới hai bước. Thi lập tức đứng chắn trước Trung.
 
-Thi chắn trước Trung.
+— Bác đứng đó thôi.
 
-— Bác đứng lại.
-
-Ông dừng.
-
-Chỉ vào gáy Trung.
+Ông già dừng thật. Không chống đối. Chỉ giơ một ngón tay, chỉ vào phần gáy Trung rồi gõ lên chính cổ mình hai cái.
 
 — Nó bò.
 
@@ -216,778 +128,552 @@ Trung cứng người.
 
 — Cái gì bò?
 
-— Trong này.
+— Trong da.
 
-A Mã gõ hai ngón tay lên chính cổ mình.
+Hắn đưa tay sờ sau gáy, rồi đột ngột nhìn Thi.
 
-Trung đưa tay ra sau gáy.
+— Tao... có cảm giác thật.
 
-Mặt hắn đổi.
+— Đừng cào.
 
-— Thi.
+Thi kéo cổ áo hắn xuống. Dưới ánh đèn pin, ban đầu chỉ thấy da đỏ vì mồ hôi. Rồi một đường mảnh màu đỏ sẫm hiện từ vùng vai lên cổ, không giống mạch máu nổi bình thường. Nó nhúc nhích rất chậm dưới da, như một sợi chỉ bị kéo từ bên trong.
 
-— Gì?
+Lan lùi nửa bước.
 
-— Tao cảm giác... có cái gì dưới da.
+A Mã lao tới.
 
-Thi kéo cổ áo hắn xuống.
-
-Ánh đèn chiếu vào gáy.
-
-Không có vật gì.
-
-Nhưng dưới da, một đường mạch mảnh màu đỏ đang chạy từ vai lên cổ.
-
-Không theo hướng mạch máu bình thường.
-
-Nó di chuyển.
-
-Quỳnh từ hiên thấy Lan lùi nửa bước.
-
-A Mã bất ngờ lao tới.
-
-Thi phản xạ giữ tay ông.
-
-Ông già nhanh hơn vẻ ngoài.
-
-Đầu gậy gõ đúng vào một điểm dưới gáy Trung.
+Thi phản xạ chặn cổ tay ông, nhưng ông không đánh cô. Đầu gậy chỉ gõ rất nhanh vào điểm dưới chân tóc Trung.
 
 Cộc.
 
-Trung mềm người ngay.
+Trung mềm người ngay lập tức.
 
-Thi chụp lấy.
+Thi chụp lấy hắn trước khi đầu đập xuống đất.
 
-— ÔNG LÀM GÌ VẬY?
+— Bác làm cái gì vậy?
 
-A Mã không chống cự.
+A Mã để Thi giữ tay mình, nét mặt không đổi.
 
 — Cho nó ngủ.
 
-— Bác đánh vào cổ người ta!
+— Bác vừa đánh vào cổ người ta.
 
-— Không đánh... nó sẽ uống nữa.
+— Không ngủ... nó còn uống.
 
-Lan nhìn ông.
+Lan hỏi:
 
 — Uống gì?
 
-A Mã quay sang.
-
-Con mắt còn lại rất tỉnh.
+Con mắt còn lại của A Mã chuyển sang cô.
 
 — Máu.
 
-A Hù kéo cha ra.
+A Hù kéo cha lùi lại, lần này mạnh đến mức gót ông già trượt trên đất.
 
-— Đủ rồi!
+— Đủ rồi. Bố tôi lúc tỉnh lúc mê, mọi người đừng nghe.
 
-Hắn nói với Thi:
+Thi không tranh cãi. Cô đang kiểm tra mạch, nhịp thở và đồng tử Trung. Mạch nhanh nhưng đều, thở bình thường. Sau chưa đầy một phút, đường đỏ dưới da hắn đã đứng yên.
 
-— Bố tôi lên cơn. Để tôi đưa ông vào.
+Quỳnh nhìn tất cả từ hành lang và nhận ra điều đáng sợ nhất không phải là câu “uống máu”.
 
-Thi không trả lời.
-
-Cô đang kiểm tra mạch Trung.
-
-Đều.
-
-Hơi nhanh.
-
-Thở bình thường.
-
-Đường đỏ dưới da đã dừng.
+Là việc A Mã biết phải nhìn vào đâu trước tất cả bọn họ.
 
 ***
 
 Không ai quay lại ngủ.
 
-Ba giờ sáng, Trung nằm trên giường phòng khách, cổ chườm lạnh. Thi ngồi bên cạnh, cứ mười lăm phút lại kiểm tra phản xạ đồng tử và nhịp thở. Cô đã gọi được một cuộc ngắn cho người nào đó khi điện thoại bắt được hai vạch sóng gần cửa sổ, chỉ nói:
+Ba giờ sáng, Trung được đặt nằm ở phòng khách, cổ chườm lạnh. Thi ngồi cạnh, mười lăm phút lại kiểm tra phản ứng và nhịp thở. Một lúc điện thoại bắt được hai vạch sóng cạnh cửa sổ, cô gọi đi một cuộc rất ngắn.
 
-— Có tình huống y tế. Sáng đưa xuống trạm.
+— Có tình huống y tế. Sáng tôi đưa người xuống trạm. Chuẩn bị giúp tôi một đầu mối bác sĩ với lấy mẫu cơ bản.
 
-Không kể chuyện gà.
+Người ở đầu kia nói gì đó.
 
-Không kể A Mã.
+— Chưa có dấu hiệu nguy hiểm tức thì. Tôi cập nhật sau.
 
-Lan ngồi ở bàn, trước mặt là túi zip nhỏ đựng sợi rễ đỏ lấy từ chén vỡ.
+Cô không kể chuyện con gà qua điện thoại trong căn nhà này. Cũng không nói về A Mã. Không phải vì những chi tiết đó không quan trọng, mà vì lúc này thứ cần trước tiên là cơ thể Trung được kiểm tra bằng những cách bình thường nhất.
 
-Nó đã ngừng co.
+Lan ngồi ở bàn, trước mặt là túi zip nhỏ đựng sợi rễ đỏ nhặt từ chiếc chén vỡ. Từ khi ra khỏi phòng Trung, nó không còn co nữa. Dưới bóng đèn vàng, thứ đó trông chẳng khác gì một đoạn rễ cây bị ngâm nước.
 
-Dưới đèn, thứ đó trông đúng như một sợi rễ cây rất bình thường.
+Quỳnh kéo ghế lại.
 
-Quỳnh hỏi:
+— Có loại rễ nào gặp nóng rồi co vậy không?
 
-— Có thể gặp nóng nên co không?
+— Có.
 
-— Có thể.
+— Trà gây mê, gây ảo giác?
 
-— Trà có chất gây ảo giác?
+— Cũng có.
 
-— Có thể.
+— Mộng du rồi cắn gà?
 
-— Trung mộng du?
+Lan ngẩng lên.
 
-— Có thể.
+— Từng thứ riêng lẻ đều có thể có lời giải. Cái tao chưa giải được là vì sao A Mã nhìn Trung một cái đã biết nó ở gáy.
 
-Quỳnh nhìn Lan.
+Thi từ bên giường nói sang:
 
-— Mày nói cái gì cũng có thể.
+— Và gõ đúng chỗ khiến Trung bất tỉnh trong vài giây mà hiện giờ chưa thấy chấn thương rõ. Cái đó không phải kỹ năng tao muốn ai tự thử ở nhà.
 
-— Vì hiện tại cái gì cũng chưa loại được.
+A Hù ngồi cạnh bếp từ lúc đưa cha vào phòng tới giờ. Hắn gần như không nói. “Trâm” thì lấy khăn, pha nước đường, hỏi Thi cần thêm chăn hay nước nóng không. Mọi động tác rất chu đáo.
 
-Lan dùng nhíp lật sợi rễ.
-
-— Tao chỉ chắc một chuyện: A Mã biết Trung bị gì trước khi tụi mình biết.
-
-Thi nói từ giường:
-
-— Và ổng đánh đúng một điểm làm Trung ngất mà không gây chấn thương rõ.
-
-Quỳnh nhìn A Hù đang ngồi cạnh bếp.
-
-Hắn từ lúc đưa A Mã vào phòng riêng tới giờ gần như không nói.
-
-Trâm thì cứ pha nước đường, lau trán Trung, hỏi có cần gì không.
-
-Rất chu đáo.
-
-Quỳnh nhìn tay cô.
+Quỳnh nhìn bàn tay cô khi rót nước.
 
 Không run.
 
-Một người vừa thấy bạn cũ hóa điên cắn gà giữa đêm thường sẽ run ít nhất một lúc.
+Ý nghĩ đầu tiên là: một người vừa thấy bạn cũ quỳ cắn gà giữa đêm sao lại bình tĩnh đến vậy?
 
-Có thể Trâm đã trải qua quá nhiều chuyện để còn phản ứng như người bình thường.
+Ý nghĩ thứ hai tới ngay sau đó: sau những gì Trâm từng trải qua năm mười bảy tuổi, ai có quyền quyết định cô phải run thế nào mới gọi là phản ứng “đúng”?
 
-Hoặc có thể cô đã biết sẽ xảy ra.
+Quỳnh tự giữ cả hai khả năng lại.
 
-Quỳnh lại cất chi tiết vào đầu.
-
-Không gắn tên.
+Nó đã từng học một bài quá đắt về việc chọn đáp án trước rồi ép con người vào đó.
 
 ***
 
 Sáu giờ mười, Trung tỉnh.
 
-Việc đầu tiên hắn làm là hỏi:
+Hắn mở mắt, nhìn trần nhà một lúc rồi quay sang Thi.
 
-— Tao có cắn Thi không?
+— Tao có cắn mày không?
 
-Thi nhìn hắn.
+Thi đang kiểm tra đồng hồ.
 
 — Chưa.
 
-— Vậy tốt.
+— Vậy còn cứu được danh dự.
 
-— Tốt cái đầu mày.
+— Mày vừa nằm chuồng gà ba tiếng trước. Danh dự nghỉ thêm đi.
 
-Trung nhăn mặt vì đau gáy.
+Trung nhăn mặt, đưa tay lên gáy.
 
-— Tao nhớ uống trà. Về phòng. Sau đó nóng. Kiểu sốt nhưng người lại lạnh. Tao mơ có ai lấy ngón tay kéo từ ngực lên cổ.
+— Đau vãi.
+
+— Nhớ gì?
+
+Hắn im một lúc để nghĩ thật, không cố pha trò nữa.
+
+— Uống trà. Về phòng. Sau đó nóng. Không phải kiểu sốt bình thường... trong người nóng mà da lạnh. Tao nằm xuống, có cảm giác ai kéo một ngón tay từ giữa ngực lên cổ.
 
 Lan hỏi:
 
-— Nhớ ra ngoài bằng cửa sổ không?
+— Nhớ mở cửa sổ không?
 
 — Không.
 
-— Nhớ con gà?
+— Chuồng gà?
 
-Trung im.
+Mặt Trung chùng xuống.
 
-— Một đoạn. Tao thấy nó đập cánh. Tao nghe tim nó.
+— Một đoạn. Tao nhớ tiếng cánh. Rồi nghe tim nó.
+
+Thi hơi nghiêng đầu.
 
 — Nghe bằng tai?
 
-— Không biết.
+— Tao không biết.
 
-Hắn cau mày.
+Hắn nhìn bàn tay mình.
 
-— Tao biết nó ở đâu trước khi nhìn thấy.
+— Tao biết con gà ở đâu trước khi nhìn thấy. Với lại... tao khát.
 
-Thi hỏi:
+Không ai hỏi khát gì. Trung tự nói tiếp, giọng thấp đi.
 
-— Có cảm giác muốn uống máu?
+— Không phải nước.
 
-Trung nhăn mặt.
+Căn phòng im hẳn.
 
-— Mày hỏi nhẹ nhàng ghê.
-
-— Trả lời.
-
-— Có.
-
-Không ai cười.
-
-Trung nhìn từng người.
-
-— Tao không bị điên.
+— Tao biết nghe rất bệnh. — hắn nói. — Nhưng lúc đó tao muốn máu.
 
 Thi đáp ngay:
 
-— Không ai nói mày điên.
+— Biết nó bất thường là tốt. Không ai ở đây bảo mày điên.
 
-— Mặt Quỳnh đang nói.
+Trung nhìn Quỳnh.
 
-— Mặt tao đang nói tao thiếu ngủ.
+— Mặt Quỳnh hơi có.
 
-Trung thở ra.
+— Mặt tao ba giờ chưa ngủ, mày đừng cá nhân hóa.
 
-— Tao muốn xuống trạm y tế.
+Hắn bật ra một tiếng cười nhỏ rồi thôi.
 
-Thi gật.
+— Tao muốn đi khám.
 
-— Đúng ý tao.
+— Tao cũng định kéo mày đi dù mày không muốn.
 
-A Hù nghe vậy nói:
+A Hù nghe vậy đứng dậy.
 
-— Đường sáng đi được. Tôi dẫn.
+— Đường sáng đi được. Tôi dẫn xuống.
 
-Thi nhìn hắn.
+Thi lắc đầu.
 
-— Không cần. Tụi tôi có xe.
+— Cảm ơn. Tụi tôi tự xuống được.
 
-— Xe ở dưới xa.
+— Xe để dưới khá xa.
 
-— Đi bộ được.
+— Đi chậm là được.
 
-Cách Thi từ chối không để lại khoảng thương lượng.
-
-Trung chống tay ngồi dậy.
-
-— Tao đi được.
-
-Lan giữ vai.
-
-— Khoan.
-
-Nó nhìn cổ hắn.
-
-Đường đỏ dưới da đã biến mất.
-
-Không để lại dấu.
+Cách từ chối rất bình thường, không thách thức, nhưng đóng hẳn mọi khoảng thương lượng. Trung chống tay ngồi lên. Lan kiểm tra lại vùng gáy; đường đỏ đã biến mất hoàn toàn, không để lại một vệt nào.
 
 ***
 
-Trạm y tế nhỏ nằm gần khu dân cư chính.
+Trạm y tế nằm gần cụm dân cư chính, nhỏ nhưng sạch. Một quạt trần quay chậm trên phòng khám, cạnh cửa có tờ áp phích hướng dẫn xử lý rắn cắn đã bạc màu ở mép.
 
-Trung được khám như một bệnh nhân bình thường.
+Trung được đối xử đúng như một bệnh nhân có cơn rối loạn ý thức chưa rõ nguyên nhân. Huyết áp hơi cao, nhiệt độ 37,8. Vết trầy ở chân được rửa và sát trùng. Bác sĩ hỏi tiền sử động kinh, rối loạn giấc ngủ, sử dụng rượu, thuốc hoặc chất kích thích. Trung trả lời hết, kể cả việc tối qua có uống một ít rượu ngô và một loại trà lá không biết thành phần.
 
-Huyết áp hơi cao.
+Thi còn mang theo phần trà sót trong chén và sợi rễ trong túi zip, nhưng không đưa ra như một “vật ma”. Cô chỉ nói:
 
-Nhiệt độ 37,8.
+— Đây là thứ bệnh nhân đã dùng trước khi có triệu chứng. Nếu tuyến mình không xét nghiệm được thì nhờ giữ mẫu giúp, tụi em sẽ chuyển đi.
 
-Vết chân được rửa, sát trùng. Bác sĩ hỏi tiền sử động kinh, rối loạn giấc ngủ, sử dụng rượu hoặc chất kích thích. Trung trả lời hết, kể cả việc uống rượu một ngụm và trà lá không rõ loại.
+Bác sĩ đồng ý, dặn nếu tái diễn mất ý thức, sốt tăng, co giật, nôn nhiều hoặc có thay đổi hành vi thì phải chuyển tuyến ngay. Một số xét nghiệm cơ bản được lấy; không ai hứa sẽ giải thích được mọi thứ trong buổi sáng.
 
-Không ai kể “có sợi đỏ bò dưới da”.
+Trung ngồi ngoài hiên sau đó, hai bàn chân quấn băng, cầm chai nước đóng nắp mà Thi vừa tự mua ở quầy.
 
-Không phải vì muốn giấu bác sĩ.
+— Tao được chăm như VIP.
 
-Mà vì Thi muốn bắt đầu từ những thứ có thể xét nghiệm được.
+— VIP nào cũng gây án với gà hả?
 
-Bác sĩ đề nghị nếu sốt tăng hoặc tái diễn rối loạn ý thức thì xuống trung tâm y tế tuyến dưới có điều kiện xét nghiệm tốt hơn.
+— Tao vẫn chưa nhận tội.
 
-Thi lấy mẫu nước tiểu nhanh và yêu cầu giữ lại phần máu nếu có lấy xét nghiệm cơ bản.
+Thi nhìn hắn vài giây rồi nói thẳng:
 
-Trung ngồi ngoài hiên, chân quấn băng, uống nước đóng chai do chính tay Thi mua.
+— Tao đang lo cho mày.
 
-— Tao được chăm như VIP. — hắn nói.
+Trung im.
 
-— Vì VIP thường ngu giống mày.
-
-— Mày lo cho tao thì cứ nói.
-
-Thi nhìn thẳng.
-
-— Tao đang lo.
-
-Trung im luôn.
-
-Quỳnh ngồi cách đó mấy ghế, nhìn thấy và quay mặt đi.
-
-Không phải vì tế nhị.
-
-Chỉ là nó bắt đầu hiểu vì sao Trung nói nhiều đến vậy.
-
-Có những người dùng tiếng cười để tránh phải đứng yên trước một câu thật.
+Câu đáp lại biến mất khỏi mặt hắn nhanh đến mức Quỳnh suýt bật cười. Nó quay ra đường, giả vờ nhìn người qua lại. Có lẽ Trung nói nhiều không hẳn vì hắn luôn có chuyện để nói. Có những người chỉ cần khoảng im lặng dài hơn vài giây là bắt đầu nghe thấy thứ mình không muốn nghe.
 
 ***
 
-Trung được yêu cầu nghỉ một ngày.
+Bác sĩ yêu cầu Trung nghỉ và hạn chế đi bộ trong ngày. Thi quyết định chưa quay thẳng về nhà Pá Tra.
 
-Thi quyết định không quay thẳng về nhà Pá Tra.
-
-— Tao cần mua thêm nước, đồ ăn đóng gói với ít thuốc. — cô nói. — Trung ngồi ở quán nước. Không tự đi đâu.
+— Mua nước đóng chai, đồ ăn gói sẵn, thuốc sát trùng với ít pin. — cô nói. — Trung ngồi ở quán trước chợ. Không tự đi đâu.
 
 — Rõ, mẹ.
 
-— Gọi lần nữa tao cho mày nằm trạm luôn.
+Thi quay lại.
 
-Chợ buổi sáng không lớn nhưng đông hơn Quỳnh tưởng. Rau, thịt, đồ gia dụng, quần áo, thuốc lá, dụng cụ làm nương bày thành từng dãy. Người mua bán nói nhiều thứ tiếng khác nhau. Mùi đồ nướng, khói bếp và đất ẩm trộn vào nhau.
+— Gọi lần nữa tao nhờ bác sĩ giữ mày lại thật.
 
-Không có gì “ma mị”.
+— Rõ, đồng chí.
 
-Chỉ là một buổi chợ vùng cao bình thường.
+— Cũng không.
 
-Điều đó khiến Quỳnh nhẹ người.
+Chợ buổi sáng đông hơn Quỳnh tưởng. Rau, thịt, quần áo, dụng cụ làm nương và những bó cây thuốc khô chen nhau dưới các mái bạt. Mùi đồ nướng, khói bếp và đất ẩm quyện trong gió. Người mua bán nói lẫn nhiều thứ tiếng; trẻ con chạy qua chân người lớn, một người đàn ông ngồi sửa xích xe ngay cạnh quầy bánh.
 
-Lan tách khỏi Quỳnh đúng ba mét để xem một hàng bán cây thuốc khô.
+Không có gì trong cảnh ấy gợi tới “Chợ Âm”, ngải hay một căn nhà đang khiến cả nhóm mất ngủ.
 
-Thi đang gọi điện ở vị trí có sóng mạnh hơn, vẫn nằm trong tầm mắt.
+Quỳnh thấy nhẹ người vì điều đó.
 
-Một bà lão ngồi cuối dãy nhìn Lan từ lúc nào.
+Lan dừng ở cuối một dãy cây thuốc. Quầy hàng chỉ là tấm chiếu thấp, trên có vài túi lá, mấy chiếc bát cũ và một chuỗi đồng tiền cổ buộc dây. Người bán là một bà lão tóc bạc cuộn sau gáy, mắt nhỏ nhưng rất sáng.
 
-Bà mặc áo nâu sẫm, tóc bạc cuộn sau gáy. Trước mặt không có nhiều hàng: vài túi lá khô, chuỗi hạt, hai cái bát gốm, một xấp giấy cũ và năm đồng tiền cổ buộc dây.
+Bà nhìn Lan lâu hơn một khách bình thường, rồi hỏi:
 
-Lan đi ngang.
+— Somchai còn bắt học trò đeo cái nút dây xấu vậy hả?
 
-Bà nói:
-
-— Học trò thằng Somchai mà đi qua không chào à?
-
-Lan đứng khựng.
-
-Quỳnh thấy rõ mặt nó thay đổi.
+Lan khựng lại, cúi nhìn nút dây nâu nhỏ buộc ở cổ tay — thứ thầy cô từng bắt nó tập buộc từ hồi mới học.
 
 — Bà biết thầy cháu?
 
-Bà lão nhếch miệng.
+Bà lão hừ một tiếng.
 
 — Nó còn sống không?
 
-— Còn.
+— Còn ạ.
 
-— Vậy tốt. Nó nợ tao tiền.
+— Tốt. Nó còn nợ tao một bữa rượu.
 
-Quỳnh suýt bật cười.
+Quỳnh đứng cạnh, lần đầu thấy Lan hơi mất thế chủ động.
 
-Lan ngồi xuống.
+— Bà là ai ạ?
 
-— Bà là ai?
+— Mày về hỏi nó. Nếu nó còn nhớ thì tự kể.
 
-— Nếu nó chưa kể thì tao không việc gì kể thay.
+Lan ngồi xuống mép chiếu.
 
-Bà cầm năm đồng tiền, tháo dây.
+— Cháu có một người bạn uống phải thứ không rõ. Sau đó nóng lạnh, mất ý thức, có hành vi rất lạ. Cháu không hỏi bà chữa. Chỉ muốn biết bà từng gặp thứ nào giống vậy chưa.
 
-— Đưa tay.
+Bà lão thôi cười.
 
-Lan không đưa.
+— Mày mang mẫu không?
 
-— Cháu không xem bói.
+Lan lấy ảnh sợi rễ trên điện thoại, không đưa túi thật ra giữa chợ. Bà phóng ảnh, nhìn khá lâu rồi trả máy.
 
-— Tao cũng không bói.
+— Chưa đủ để gọi tên. Có mấy thứ rễ gặp nước nóng nó cũng cuộn như vậy. Nhưng nếu người đã thèm máu thì đừng cho nó ăn uống linh tinh nữa.
 
-— Vậy làm gì?
+Lan hỏi:
 
-— Xem mày có ngu như thầy mày không.
+— Vì sao?
 
-Quỳnh đứng cạnh nghĩ người này nói chuyện khá hợp với Lan.
+— Vì tao không biết cái gì trong người nó, nên đừng thử thêm. Học huyền môn mà quên cái đơn giản nhất à?
 
-Bà lão tung sáu lần ba đồng tiền lên chiếc đĩa gỗ nhỏ, ghi các vạch liền đứt trên giấy.
+Lan gật, nhận mắng không cãi.
 
-Lan nhìn kết quả.
+Bà nhìn nó thêm một lúc rồi kéo chiếc đĩa gỗ lại.
 
-Mặt nghiêm dần.
+— Muốn hỏi quẻ không?
+
+— Cháu không dùng quẻ để chẩn bệnh.
+
+— Tốt. Tao cũng không chẩn bệnh bằng quẻ. Tao hỏi chuyện cái thế quanh mày thôi.
+
+Bà lấy ba đồng tiền trong chuỗi, tung sáu lượt, mỗi lượt đều ghi một vạch lên mảnh giấy. Không có động tác khoa trương. Hai người phụ nữ bên cạnh vẫn mặc cả giá thịt; một đứa trẻ vừa chạy vừa cầm bánh đi ngang, suýt đá vào mép chiếu.
+
+Lan nhìn sáu hào hiện ra, nét mặt chậm rãi nghiêm lại.
 
 — Sơn Địa Bác.
 
-Bà lão gật.
-
-— Biết đọc thì đỡ mất công.
+— Còn nhớ là tốt.
 
 Quỳnh hỏi:
 
 — Nghĩa là gì?
 
-Lan đáp:
+Lan trả lời:
 
-— Bác là bóc, lột. Một thứ đang rời khỏi cái vỏ của nó. Quẻ xấu nếu hỏi về nơi ở hoặc người bên cạnh.
+— “Bác” là bóc, lột, một cấu trúc đang mất dần phần giữ nó đứng. Nếu hỏi về một nơi hoặc quan hệ thì không phải quẻ dễ chịu.
 
-Bà lão nhìn Quỳnh.
+Bà lão chêm vào:
 
-— Con bé này mới là đứa biết hỏi.
+— Nhưng đừng nghe tới chữ “lột” rồi chạy về chỉ mặt ai đó bảo người ta mang da giả. Quẻ không cấp căn cước.
 
-— Bà đang nói ai?
+Quỳnh bật cười khẽ.
 
-— Tao không biết.
+— Cháu cũng đang cần nghe câu đó.
 
-— Bà vừa gieo quẻ mà.
+Bà thu ba đồng tiền lại. Một đồng trượt khỏi tay, lăn ra mép chiếu. Quỳnh cúi xuống nhặt theo phản xạ. Nó rất cũ, lỗ vuông ở giữa, một mặt có vết xước chéo sâu.
 
-— Quẻ không đưa tên với căn cước cho mày.
+— Để đó cũng được. — bà nói.
 
-Bà thu tiền lại.
+Quỳnh đặt lại, không có màn “đồng tiền nhận người” nào cả. Chỉ khi bà xâu lại chuỗi, Lan mới để ý năm đồng tiền có dấu mòn khác nhau như đã được dùng rất lâu.
 
-Một đồng rơi xuống mép chiếu.
+Trước khi họ đứng dậy, bà lão mở chiếc hộp gỗ nhỏ dưới chiếu, lấy ra một sợi dây bạc. Cuối dây là mảnh đá đỏ đục được bọc bằng khung kim loại trắng.
 
-Quỳnh cúi nhặt giúp.
+— Cái này Somchai biết. Thầy mày gọi là Thần Hựu cho sang mồm, tao gọi là cục đá phiền phức.
 
-Đồng tiền rất cũ, lỗ vuông giữa, một mặt có vết xước chéo sâu.
+Lan không đưa tay nhận.
 
-Bà giật lại hơi nhanh.
+— Bà cho cháu làm gì?
 
-— Đừng cầm.
+— Cho mượn. Nó không cứu mạng, không báo tương lai. Người nhạy mạch đeo thì có lúc cảm được khi bị kéo vào ký ức hoặc khí của thứ khác. Nóng lạnh chỉ là phản ứng của người đeo, đừng biến nó thành máy đo ma.
 
-Quỳnh rút tay.
+— Bao giờ cháu trả?
 
-— Xin lỗi.
+Bà lão nhìn Lan, lần này nụ cười bớt châm chọc.
 
-Bà nhìn tay nó rồi dịu lại.
+— Lúc xuống núi, nếu tao còn ở đây thì ghé. Không thì gửi cho Somchai, bảo nó tự trả nợ luôn.
 
-— Không phải sợ mày lấy. Nó nhận người.
+Lan nhận sợi dây bằng hai tay.
 
-Thi từ xa đã kết thúc cuộc gọi, đang nhìn sang.
+— Cháu cảm ơn.
 
-Bà lão mở cổ áo, tháo một sợi dây bạc mảnh.
+Bà gật, rồi mắt bỗng chuyển qua vai hai đứa. Một người đàn ông áo tối đang đi ra khỏi chợ, dáng cao vừa, vai trái hơi giữ cao hơn khi bước.
 
-Cuối dây là một mảnh đá đỏ đục được bọc trong khung kim loại trắng, nhỏ bằng đầu ngón tay cái.
+Quỳnh chỉ kịp nhìn nghiêng phần gáy.
 
-Bà đưa cho Lan.
+Nó bước theo hai bước rồi dừng lại.
 
-Lan không nhận.
+Không thấy mặt.
 
-— Cháu không thể lấy đồ của bà.
-
-— Tao cho mượn.
-
-— Để làm gì?
-
-— Khi mày nghe tiếng người chết, đừng tin câu đầu tiên.
-
-Lan im.
-
-Bà tiếp:
-
-— Nếu thứ này nóng lên thì tránh. Nếu lạnh đi thì chạy. Nếu không có gì thì dùng đầu.
-
-— Nó là gì?
-
-— Thần Hựu.
-
-Bà cười.
-
-— Tên nghe sang thôi. Đừng tưởng đeo vào là bất tử.
-
-Lan nhận.
-
-— Bao giờ trả?
-
-Bà nhìn qua vai Lan.
-
-Ánh mắt dừng ở đâu đó sau đám người.
-
-Mặt biến sắc.
-
-— Nếu tao còn sống thì trả.
-
-Lan quay lại.
-
-Quỳnh cũng quay.
-
-Chỉ thấy một người đàn ông mặc áo khoác đen đang đi ra khỏi chợ.
-
-Dáng cao vừa.
-
-Đi hơi lệch vai trái.
-
-Quỳnh bước theo phản xạ.
-
-Người đó biến sau dãy hàng.
-
-Khi Quỳnh vòng tới, không thấy nữa.
+Không đủ để gọi tên.
 
 ***
 
-Thi không thích chuyện sợi dây.
+Thi không thích việc Lan nhận đồ từ người lạ, nhưng phản ứng thực tế hơn một trận cãi.
 
-— Bà đó là ai?
+— Khi về phải chụp lại, ghi nguồn, đừng bôi hay ngâm cái gì lên da. Nếu thấy chóng mặt thì tháo ra.
 
-Lan đáp:
+Lan gật.
 
-— Không biết tên.
+— Biết rồi.
 
-— Biết thầy mày?
+Trung ngồi ở quán nước, ngậm ống hút, nhìn mảnh đá.
 
-— Có vẻ.
+— Đẹp đó. Có bản cho người bình thường không?
 
-— Và mày nhận đồ từ người không biết tên?
+— Mày hôm nay tạm thời không được tự nhận bình thường. — Thi đáp.
 
-— Mày vừa mua xúc xích từ cô không biết tên.
+Quỳnh đặt túi bánh mì xuống bàn.
 
-— Xúc xích không tuyên bố cứu tao khỏi người chết.
-
-Trung ngồi ở quán nước, ngậm ống hút, chen vào:
-
-— Tùy chất lượng xúc xích.
-
-Thi nhìn hắn.
-
-— Mày còn nói được là khỏe rồi.
-
-Quỳnh đặt một túi bánh mì lên bàn.
-
-— Người vừa đi khỏi chợ giống A Hù.
+— Tao vừa thấy một người giống A Hù đi khỏi chợ.
 
 Thi quay sang ngay.
 
-— Chắc không?
+— Thấy mặt không?
 
-— Không thấy mặt. Dáng giống.
+— Không. Dáng, chiều cao và vai giống. Tao không chắc.
 
-— Vai?
+— Tốt. Vậy ghi là “giống”.
 
-Quỳnh hơi bất ngờ.
+Trung lấy điện thoại ra.
 
-— Mày cũng để ý?
+— Tao có mấy ảnh hắn từ hôm qua. Lát đối chiếu quần áo với dáng đi được, nhưng vẫn không phải nhận dạng chắc.
 
-— Hắn thuận tay phải nhưng vai trái giữ cao hơn. Có thể do chấn thương cũ.
-
-Trung hạ cốc.
-
-— Tao chụp được hắn hồi tối lúc xách chậu. Để về zoom.
-
-Quỳnh nhìn hai người.
-
-Đây là khác biệt giữa điều tra và tò mò.
-
-Nó có thể nhớ một chi tiết.
-
-Họ biến chi tiết thành thứ có thể đối chiếu.
+Quỳnh gật. Nó thích cách họ biến một cảm giác thành thứ có giới hạn rõ: nhìn thấy gì thì giữ đúng từng ấy.
 
 ***
 
-Đến gần trưa, cả nhóm quay lại nhà Pá Tra.
+Gần trưa họ quay lại nhà Pá Tra.
 
-A Hù đang chẻ củi trước sân.
+A Hù đang chẻ củi trước sân. Áo hắn khô, tóc cũng khô. Giày có một lớp bùn vàng nhạt ở rãnh đế, khác đất đỏ quanh nhà nhưng vùng núi này có quá nhiều loại đất để lấy đó làm kết luận.
 
-Áo hắn khô.
+Thi nhìn một lần rồi thôi.
 
-Giày có một lớp bùn mới màu vàng nhạt, khác đất đỏ quanh nhà.
-
-Thi nhìn.
-
-Không hỏi.
-
-Trâm chạy ra khi thấy chân Trung băng.
+“Trâm” chạy ra khi thấy chân Trung quấn băng.
 
 — Sao rồi?
 
-— Bác sĩ bảo đẹp trai quá tải. — Trung đáp.
+— Bác sĩ bảo chưa chết được.
 
-— Bảo thần kinh mày quá tải thì đúng hơn. — Thi nói.
+— Anh nói chuyện nghe xui quá.
+
+— Anh cũng thấy vậy, nhưng bác sĩ không chịu đổi kết luận.
+
+Thi đẩy túi nước vào tay hắn.
+
+— Cầm đi.
 
 A Hù hỏi:
 
-— Có sao không?
+— Có nghiêm trọng không?
 
-— Chưa biết. — Thi trả lời. — Mẫu trà tối qua còn không?
+— Chưa biết. — Thi đáp. — Mẫu trà tối qua còn không anh?
 
-Không khí dừng rất nhẹ.
-
-A Hù tiếp tục chẻ củi.
+Rìu trên tay hắn dừng đúng một nhịp rồi chém xuống khúc củi.
 
 — Đổ rồi.
 
 — Lá trà?
 
-— Bố tôi hái. Không biết loại.
+— Bố tôi hái. Tôi không biết tên.
 
-Lan nhìn hắn.
+Lan hỏi:
 
-— Bố anh đâu?
+— Bác đâu rồi? Tôi muốn hỏi loại lá.
 
-— Ngủ.
+— Đang ngủ. Lúc tỉnh thì hỏi.
 
-— Tôi muốn hỏi ông về loại lá.
-
-— Lúc tỉnh thì hỏi.
-
-Không hẳn từ chối.
-
-Nhưng cũng không tạo điều kiện.
+Không hẳn từ chối. Nhưng cũng không mở đường cho họ gặp.
 
 ***
 
 Hai giờ chiều, điện thoại Thi rung.
 
-Một tin nhắn.
-
-Cô đọc xong, mặt mất hẳn biểu cảm.
-
-Trung nhìn thấy.
+Cô đọc tin nhắn một lần, rồi đọc lại. Trung thấy nét mặt cô đổi nên ngồi thẳng lên.
 
 — Gì vậy?
 
-Thi đưa màn hình cho hắn.
+Thi không nói ngay. Cô nhìn cửa gian chính, chắc chắn A Hù và “Trâm” đều không ở gần rồi mới hạ giọng.
 
-Quỳnh không thấy nội dung.
+— Bà ở chợ lúc sáng chết rồi.
 
-Chỉ thấy Trung ngồi thẳng lên.
-
-— Khi nào?
-
-— Khoảng một tiếng trước.
-
-Lan hỏi:
-
-— Chuyện gì?
-
-Thi nhìn cửa.
-
-Rồi nói nhỏ:
-
-— Bà lão ở chợ chết rồi.
-
-Lan đứng bật dậy.
+Lan đứng bật dậy đến mức ghế va vào tường.
 
 — Cái gì?
 
-— Người ta phát hiện trong căn phòng phía sau quầy. Có dấu hiệu bị tấn công.
+— Người ta phát hiện ở căn phòng sau quầy. Có dấu hiệu bị tấn công. Bên địa phương đang giữ hiện trường.
 
-— Ai báo cho mày?
+Lan nắm sợi dây vừa đeo ở cổ.
 
-— Đồng nghiệp.
+— Tao phải xuống.
 
-— Đồng nghiệp nào?
+— Không được.
 
-Thi nhìn Lan.
+— Thi, bà ấy vừa nói chuyện với tao chưa đầy ba tiếng.
 
-— Từ lúc lên đây có người phối hợp gần tụi tao. Tao chưa nói vì nhiệm vụ.
+— Tao biết. Và chính vì mày vừa nói chuyện với bà ấy nên mày càng không được tự chạy vào hiện trường. Người bên ngoài đã biết mối liên hệ và sẽ lấy lời khai khi phù hợp.
 
-Lan nắm sợi dây trên cổ.
-
-Mảnh đá đỏ vẫn bình thường.
-
-— Tao phải xuống đó.
-
-— Không.
-
-— Thi.
-
-— Hiện trường đang được xử lý. Mày xuất hiện chỉ làm lộ việc mình có liên quan.
-
-— Bà ấy cho tao cái này chưa đầy ba tiếng trước.
-
-— Tao biết.
-
-Thi hạ giọng.
-
-— Chính vì vậy mày càng không được chạy xuống ngay.
-
-Lan đứng im.
-
-Cơn tức hiện rõ trong mắt nhưng nó không cãi nữa.
+Lan thở mạnh qua mũi. Cơn tức hiện rõ nhưng nó không cố lao đi.
 
 Quỳnh hỏi:
 
-— Mất gì không?
+— Có mất gì không?
 
-Thi nhìn Trung.
+Thi nhìn tin nhắn tiếp theo.
 
-Trung đọc tiếp tin nhắn.
+— Tiền, hàng, điện thoại vẫn còn. Chuỗi đồng tiền bà ấy dùng lúc sáng chỉ còn bốn.
 
-— Túi tiền còn. Hàng còn. Chuỗi đồng tiền... chỉ còn bốn.
+Lan ngồi xuống chậm hơn lúc đứng dậy.
 
-Quỳnh nhớ đồng tiền có vết xước chéo mình đã cầm.
+Quỳnh nhớ đồng có vết xước chéo mình vừa đặt lại trên chiếu.
 
 Năm đồng.
 
 Một đồng mất.
 
+Không ai nói “A Hù”.
+
+Chưa ai có quyền nói.
+
 ***
 
-Chiều xuống rất chậm.
+Chiều xuống chậm. Mây tách ra ở phía tây, một dải nắng muộn rơi vào sân rồi bò dần lên bậc cửa.
 
-Mây tan bớt, một dải nắng muộn chiếu vào sân. A Hù vẫn ở nhà suốt từ lúc nhóm về, ít nhất theo những gì họ thấy.
+A Hù ở nhà từ lúc nhóm quay lại, ít nhất theo những gì họ nhìn thấy. Điều đó không chứng minh hắn không ở chợ buổi sáng. Cũng không chứng minh hắn đã ở đó.
 
-Điều đó không chứng minh hắn không ở chợ lúc sáng.
-
-Cũng không chứng minh hắn có.
-
-Quỳnh ra giếng rửa tay.
-
-A Hù đang cúi buộc lại dây giày cạnh bậc cửa.
-
-Một vật nhỏ rơi khỏi túi áo hắn.
+Quỳnh ra giếng rửa tay. A Hù ngồi ở bậc cửa buộc lại dây giày. Khi hắn đứng lên, một vật nhỏ rơi từ túi áo khoác xuống nền đá.
 
 Keng.
 
-Lăn trên nền đá.
+Nó lăn một vòng rồi dừng gần chân Quỳnh.
 
-A Hù chụp lại rất nhanh.
+Đồng tiền cổ. Lỗ vuông. Trên một mặt có vết xước chéo.
 
-Nhưng Quỳnh đã thấy.
+A Hù cúi nhặt nhanh hơn mức cần thiết.
 
-Đồng tiền cổ.
+Ánh mắt hai người gặp nhau.
 
-Lỗ vuông.
+— Tiền cũ của bố tôi. — hắn nói, giọng bình thường. — Ông hay nhét lung tung.
 
-Một vết xước chéo trên mặt.
+Quỳnh chỉ gật.
 
-A Hù nhìn Quỳnh.
+— Ừ, nhìn lạ thật.
 
-Quỳnh nhìn hắn.
+Nó không hỏi mua ở đâu, không nói bà lão đã chết, càng không thử giật lấy để “đối chiếu”. Một vật giống vật mất ở hiện trường là lý do để báo người đang xử lý hiện trường, không phải lý do để tự biến mình thành cảnh sát.
 
-Hai người cùng hiểu người kia đã thấy.
+Vào phòng, Quỳnh đóng cửa rồi nói nhỏ:
 
-Hắn cười trước.
+— Tao vừa thấy một đồng giống đồng bị thiếu. Trong túi A Hù.
 
-— Tiền cũ. Bố tôi hay giữ.
+Thi hỏi ngay:
 
-Quỳnh gật.
+— Mày chạm không?
 
-— Đẹp.
+— Không.
 
-Không hỏi thêm.
+— Thấy rõ vết xước?
 
-A Hù cất vào túi.
+— Rõ.
 
-Quỳnh quay đi.
+Trung mở ảnh chụp chuỗi tiền hồi sáng. Quỳnh chỉ đúng đồng mình nhớ. Vết xước trên ảnh và thứ vừa thấy nằm ở vị trí tương tự, nhưng độ phân giải không đủ để khẳng định là cùng một vật.
 
-Tim đập nhanh nhưng bước chân vẫn đều.
+Thi gửi thông tin đi, ghi đúng: **“vật nghi tương tự, chưa thu giữ, chưa đối chiếu trực tiếp.”**
 
-Một đồng tiền giống nhau chưa phải duy nhất trên đời.
+Lan ngồi cạnh cửa sổ, tay giữ mảnh Thần Hựu. Một lúc sau, sắc mặt nó đổi.
 
-Nhưng nếu nó là đồng mất từ hiện trường cái chết của bà lão...
+— Lạnh.
 
-thì họ không còn ở trong một căn nhà chỉ “kỳ lạ” nữa.
+Thi quay lại.
 
-Họ có thể đang ở chung mái với một người vừa giết người vài giờ trước.
+— Mức nào?
 
-Từ cửa sổ phòng, Lan nhìn Quỳnh đi vào.
-
-Quỳnh chỉ nói một câu:
-
-— Tao thấy đồng tiền.
-
-Lan không hỏi đồng nào.
-
-Nó hiểu ngay.
-
-Sợi Thần Hựu trên cổ bỗng lạnh đi.
-
-Rất nhanh.
-
-Lạnh như một giọt nước đá vừa chạy dọc xương ức.
-
-Lan chụp lấy.
+— Rõ. Không phải do gió.
 
 Cùng lúc, từ phía gác kho lúa vang lên một tiếng động nặng.
 
 Rầm.
 
-Như có thứ gì đó vừa ngã xuống sàn.
+Không phải tiếng cào mơ hồ như trước. Lần này nghe như một vật có trọng lượng vừa đổ xuống sàn gỗ.
 
-Rồi một tiếng cào.
+Con chó đen dưới hiên bật dậy, gầm về phía kho.
 
-Chậm.
+A Hù từ sân quay phắt lại.
 
-Kéo dài từ bên trong.
+A Mã đứng ở cửa gian sau.
 
-Thi đứng dậy.
+Ông già nhìn gác kho, rồi nhìn Thi.
 
-Trung cũng đứng.
+Trong mắt ông có một khoảnh khắc tỉnh táo rất ngắn.
 
-A Hù ở ngoài sân nhìn về phía kho.
+Ông nói:
 
-Không hề tỏ vẻ ngạc nhiên.
+— Muộn rồi.

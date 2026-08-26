@@ -1,715 +1,443 @@
-A Hù là người lên tiếng trước.
+A Hù là người phá sự im lặng sau tiếng động trên gác.
 
-— Chuột.
+— Chuột thôi.
 
-Hắn đứng dưới sân, ngẩng nhìn gác kho lúa.
+Hắn đứng dưới sân, ngẩng nhìn về phía kho lúa. Giọng bình thản, hơi bất lực theo kiểu một người đã quen nhà cũ đêm nào cũng có tiếng động.
 
-Một lời giải rất bình thường.
+Nếu không có con chó đen đang gầm về phía ấy và vẻ mặt A Mã, Quỳnh có lẽ đã dễ tin hơn.
 
-Nếu không tính chuyện tiếng cào vừa rồi dài đến gần năm giây và nghe giống móng tay kéo trên ván hơn là chân chuột.
+Thi bước ra hiên.
 
-Thi hỏi:
+— Kho trên đó để gì anh?
 
-— Kho có gì?
+— Ngô, thóc, ít dụng cụ cũ.
 
-— Ngô. Thóc. Dụng cụ.
+— Có ai lên đó không?
 
-— Lên coi được không?
+— Không.
 
-A Hù cười.
+A Mã vẫn đứng ở cửa gian sau. Ông nhìn con trai rồi nhìn Thi, môi động nhưng không ra tiếng. A Hù quay sang, giọng cứng hơn:
 
-— Có gì đâu mà coi. Cầu thang cũ, tối nguy hiểm. Mai tôi bắt chuột.
+— Bố vào ngủ đi.
 
-Hắn nói nhẹ nhàng.
+Ông già không nghe. Ông giơ tay chỉ lên gác một lần rồi lặp lại câu vừa nói:
 
-Không hề từ chối bằng thái độ.
+— Muộn rồi.
 
-Nhưng cơ thể đã đứng đúng giữa Thi và cửa kho.
+— Bố tôi mấy hôm nay không ngủ được, lúc tỉnh lúc mê. — A Hù nói. — Mọi người đừng để ý.
 
-Trung nhìn một cái là hiểu.
+Thi không cố bước qua hắn. Cô chỉ hỏi:
 
-Hắn ngáp.
+— Nếu có tiếng nữa thì anh cho tụi tôi kiểm tra nhé. Có người bên trong thì nguy hiểm.
 
-— Thôi. Tôi đang đau chân, leo lên đó té chết lại phiền chủ nhà.
+— Không có người.
 
-Thi quay sang:
+— Vậy sáng mai kiểm tra cũng nhanh thôi.
 
-— Vào nghỉ.
+A Hù cười nhẹ.
 
-Cả nhóm đi thật.
+— Ừ. Mai tôi coi.
 
-Quỳnh là người cuối cùng qua cửa.
+Không ai tranh luận thêm. Nhưng khi hắn quay vào nhà, Quỳnh để ý hắn vẫn đứng ở vị trí vừa đủ chắn lối lên gác cho tới khi tất cả vào phòng.
 
-Nó nhìn lại.
+Thi ghi lại giờ xảy ra tiếng động, vị trí và câu trả lời của A Hù. Trung gửi ảnh đồng tiền Quỳnh nhìn thấy cho đầu mối đang xử lý vụ bà lão, kèm đúng một dòng: **“Vật nghi tương tự đồng tiền bị thiếu. Chưa thu giữ, chưa xác định cùng vật.”**
 
-A Hù vẫn đứng dưới sân.
+Quỳnh nhìn câu chữ rồi hỏi:
 
-Không nhìn họ.
+— Làm nghề tụi mày lúc nào cũng phải viết kiểu dè vậy hả?
 
-Nhìn gác kho.
+— Không phải dè. — Thi cất điện thoại. — Chưa biết thì ghi chưa biết.
 
-***
+Lan ngồi cạnh cửa sổ, tay giữ sợi Thần Hựu.
 
-Trong phòng, Trung mở ảnh vừa chụp dưới bàn ăn.
-
-Không ai thấy hắn chụp lúc nào.
-
-Bức đầu là A Hù cúi buộc giày.
-
-Bức thứ hai bắt được đồng tiền ngay trước khi hắn nhặt lên.
-
-Zoom lớn.
-
-Vết xước chéo hiện đủ rõ.
-
-Thi gửi file qua một ứng dụng nội bộ khi điện thoại bắt được sóng.
-
-Không kèm kết luận.
-
-Chỉ ghi:
-
-“Vật giống đồng tiền bị thiếu tại hiện trường tử vong sáng nay. Chưa xác minh cùng vật.”
-
-Quỳnh hỏi:
-
-— Sao không ghi thẳng là của bà ấy?
-
-— Vì tao không biết.
-
-— Nhìn giống mà.
-
-— Giống không phải cùng.
-
-Thi cất điện thoại.
-
-— Nếu sau này ra tòa, “tôi thấy giống” không thay được đối chiếu vật lý.
-
-Lan ngồi cạnh cửa sổ, sợi Thần Hựu đã trở lại nhiệt độ bình thường.
-
-— Nó lạnh đúng lúc có tiếng trên kho.
+— Lúc tiếng trên kho vang lên, cái này lạnh rõ.
 
 Thi gật.
 
-— Tao ghi nhận.
+— Tao tin mày cảm thấy nó lạnh.
 
-— Mày tin?
+— Còn vì sao?
 
-— Tao tin mày cảm thấy nó lạnh. Còn vì sao lạnh thì chưa biết.
+— Chưa biết.
 
-Lan nhìn Thi một lúc rồi cười rất nhẹ.
+Lan thở ra, cười rất khẽ.
 
-— Tao thích câu đó.
+— Câu này nghe khó chịu mà an toàn ghê.
 
-Quỳnh thì không cười.
+Quỳnh không cười. Nó đang có quá nhiều chi tiết cùng kéo về A Hù: dáng người ở chợ, đồng tiền, cách hắn nhìn A Mã, bùn trên giày. Nhưng từng thứ một vẫn có lời giải khác.
 
-Nó đang nhớ tới A Hù ngoài chợ.
-
-Vai trái.
-
-Bước chân.
-
-Đồng tiền.
-
-Và người tài xế trong mơ.
-
-Bốn thứ riêng lẻ vẫn không đủ ghép thành một người.
-
-Nhưng Quỳnh bắt đầu thấy chúng tự tìm đường về gần nhau.
+Nó tự nhắc mình điều đó trước khi ngủ.
 
 ***
 
-Mười phút sau, điện thoại Thi rung.
+Sáng hôm sau, A Hù dẫn cả nhóm ra sườn nương phía sau xem nơi dự định bày bàn ngày 19. Thi ban đầu không muốn đi, Quỳnh lại thấy đây là cách nhìn địa hình quanh nhà mà không phải lén lút. Cuối cùng tất cả đi cùng nhau.
 
-Khải trả lời.
+Đường sau nhà xuyên qua một đoạn cây thấp rồi mở ra nương ngô đã thu gần hết. Mây còn mắc trên sườn đối diện; từng mảng nắng lọt qua, trôi chậm trên mặt đất. Xa hơn là rừng, nhưng không phải một bức tường cây bất khả xâm phạm. Vẫn có lối người đi, dấu dao trên thân cây và những khoảng được phát để lấy củi.
 
-Thi đọc trong im lặng.
+A Hù chỉ một khoảnh đất khá bằng.
 
-Trung đứng phía sau cũng nhìn.
-
-— Sao? — Lan hỏi.
-
-Thi nói:
-
-— Bên dưới đang đối chiếu ảnh đồng tiền. Đồng nghiệp ở hiện trường xác nhận chuỗi của bà lão thiếu đúng một đồng có vết xước tương tự. Chưa được cầm trực tiếp nên vẫn chưa kết luận.
-
-— Và? — Quỳnh hỏi.
-
-— Họ đang đưa thêm người lên Bắc Yên.
-
-— Bao lâu?
-
-— Không nói chính xác.
-
-Trung bổ sung:
-
-— Phối hợp liên tỉnh với địa hình này không phải gọi Grab. Chưa kể nếu Huy còn ở đây, đập cửa vào ngu có thể giết con tin trước khi tìm thấy.
-
-Thi nhìn Quỳnh.
-
-— Từ giờ mục tiêu không phải “phá án trước”. Là xác định ai đang bị giữ, ở đâu, và rời khỏi đây đủ người.
-
-Quỳnh gật.
-
-Nó không thích chờ.
-
-Nhưng lần này chờ không phải thụ động.
-
-Là không làm điều ngu chỉ để cảm thấy mình đang hành động.
-
-***
-
-Chiều hôm đó A Hù đề nghị dẫn mọi người ra một sườn nương phía sau xem nơi sẽ dựng bữa cơm cưới ngày 19.
-
-Thi định từ chối.
-
-Quỳnh lại đồng ý.
-
-Không phải vì muốn đi chơi.
-
-Nó muốn nhìn địa hình quanh nhà.
-
-Trung hiểu ngay, cầm theo chai nước và bộ sơ cứu.
-
-Lan mang máy ảnh nhỏ.
-
-Trâm đi cùng.
-
-Đường vòng ra sau nhà dốc nhẹ, xuyên qua một đoạn cây thấp rồi mở ra nương ngô đã thu gần hết. Xa hơn là rừng. Mây chiều kéo thành từng mảng trên sườn đối diện, ánh nắng lọt qua tạo những vùng sáng tối chuyển chậm như mặt nước.
-
-A Hù chỉ một khoảng đất khá bằng.
-
-— Sáng 19 làm lễ nhỏ trong nhà. Trưa ăn ở đây nếu trời không mưa.
+— Nếu trời không mưa thì trưa 19 ăn ở đây. Trong nhà làm lễ nhỏ thôi.
 
 Thi hỏi:
 
-— Khách đâu?
+— Khách đông không?
 
-— Người nhà với mấy hộ quen.
+— Người nhà với vài hộ quen.
 
-— Hôm nay 17 rồi mà chưa thấy ai chuẩn bị.
+“Trâm” đứng cạnh hắn, nói thêm:
 
-Trâm đáp thay:
-
-— Ở đây làm nhanh lắm. Với lại nhà A Hù không muốn rình rang.
+— Nhà A Hù không thích làm rình rang.
 
 Quỳnh nhìn cô.
 
-— Bố mẹ mày?
+— Người nhà mày có ai lên không?
 
-Trâm quay mặt ra nương.
+“Trâm” im một chút rồi lắc đầu.
 
-— Không còn.
+— Không còn ai gần nữa.
 
-Giọng xuống hẳn.
+Giọng cô trầm xuống rất tự nhiên. Quỳnh không hỏi tiếp. Một người có thể mang danh tính giả mà vẫn có nỗi buồn thật của chính mình; cảm xúc không phải giấy tờ tùy thân.
 
-Quỳnh không hỏi tiếp trước mặt mọi người.
+Trên đường về, Quỳnh cố ý đi chậm lại cạnh “Trâm”. Nó đã nghĩ về phép thử này từ đêm trước.
 
-Cảm xúc ấy có vẻ thật.
+— Mày nhớ hồi P201 tụi mình trốn Hân xuống căn tin sau giới nghiêm không?
 
-Hoặc người trước mặt diễn rất giỏi.
+“Trâm” bật cười ngay.
 
-***
+— Nhớ chứ. Bị cô quản sinh bắt ở cầu thang.
 
-Trên đường về, Quỳnh cố tình đi chậm lại cùng Trâm.
+Quỳnh cũng cười.
 
-— Mày còn nhớ hồi P201 tụi mình từng trốn Hân xuống căn tin sau giờ giới nghiêm không?
-
-Trâm bật cười.
-
-— Nhớ chứ.
-
-— Bị cô quản sinh bắt ngay cầu thang.
-
-— Ừ.
-
-Quỳnh nhìn cô.
+— Ừ. Nghĩ lại ngu thật.
 
 Chuyện đó chưa từng xảy ra.
 
-Hân mới là người nghiêm nhất phòng, không có chuyện nó cùng Quỳnh trốn xuống căn tin. Một lần Quỳnh và Thi lén đi mua mì, Hân còn đứng cửa chửi hai đứa gần mười phút.
+Có một lần Quỳnh và Thi lén xuống mua mì, Hân đứng trước cửa phòng mắng hai đứa gần mười phút. Trâm không có mặt. Quỳnh vừa trộn hai ký ức thành một câu, cố tình để một cái bẫy rất nhỏ xem người trước mặt có sửa mình hay không.
 
-Trâm vừa nhận một ký ức giả quá nhanh.
+Cô không sửa.
 
-Quỳnh không đổi nét mặt.
+Đây là dấu hiệu đầu tiên do chính Quỳnh tạo ra bằng một phép thử có kiểm soát. Không phải giấc mơ. Không phải trực giác. Không phải cái cách một người cười trễ nửa nhịp.
 
-— Hồi đó ngu thật.
+Nó vẫn chưa đủ để kết luận.
 
-— Giờ cũng vậy thôi.
-
-Trâm nói tự nhiên.
-
-Quỳnh cười theo.
-
-Trong đầu, một dấu chấm đỏ vừa hiện cạnh tên cô.
-
-Không đủ để kết luận.
-
-Nhưng là dấu chấm đầu tiên do chính Quỳnh tạo ra, không phải giấc mơ hay trực giác.
+Nhưng sự nghi ngờ của Quỳnh từ đây đã có xương.
 
 ***
 
-Tai nạn xảy ra gần bờ rào.
+Tai nạn xảy ra khi họ chỉ còn cách nhà chưa tới hai trăm mét.
 
-Quỳnh bước qua một thân cây đổ, chân phải chạm vào đám lá khô.
+Quỳnh bước qua một thân cây đổ, chân phải chạm vào đám lá khô. Một vệt xanh vụt lên nhanh tới mức nó chỉ kịp thấy chuyển động trước khi đau nhói ở cổ chân.
 
-Một thứ màu xanh vụt lên.
+— Đứng yên!
 
-Đau nhói ở cổ chân.
+A Hù quát trước cả Thi.
 
-Nó giật lại.
+Hắn lao tới nhưng không bóp vết cắn, không rạch da, không buộc garô. Hắn đỡ Quỳnh ngồi xuống, tháo giày thật nhẹ rồi lấy bút đánh dấu mép vùng sưng và nhìn đồng hồ.
 
-Con rắn lao vào bụi.
+— Mấy giờ?
 
-— Đứng yên! — A Hù quát.
+Trung nhìn điện thoại.
 
-Quỳnh chưa kịp nhìn vết cắn thì hắn đã tới.
+— Mười một giờ mười bảy.
 
-Không hoảng.
+— Ghi lại. Thi gọi xe xuống gần nhất. Đừng để cô ấy tự đi. Trung lấy nẹp mềm trong túi sơ cứu.
 
-Không dùng tay bóp vết.
-
-Không cắt.
-
-Hắn giữ Quỳnh ngồi xuống, tháo giày thật nhẹ, đánh dấu mép sưng bằng bút, kiểm tra đồng hồ.
-
-— Đừng đi nữa. Thi, gọi xe xuống gần nhất có thể. Trung, lấy nẹp mềm trong túi.
-
-Trung lập tức làm theo.
-
-Thi hỏi:
+Thi vừa làm vừa hỏi:
 
 — Anh nhìn rõ loại rắn không?
 
-— Có thể rắn lục. Không chắc. Không được buộc garô.
+— Thoáng thôi. Có thể rắn lục, tôi không chắc. Đừng ai cố bắt.
 
-Cách hắn trả lời rất khác một người “học lỏm cha chữa rắn”.
+Cách hắn xử lý chính xác tới mức Quỳnh, dù đang đau, vẫn nhận ra.
 
-Quỳnh đang đau vẫn để ý.
+Thi cũng nhận ra.
 
-A Hù nói tiếp:
+— Anh từng sơ cứu nhiều lần rồi?
 
-— Giữ chân thấp, hạn chế vận động. Xuống trạm trước. Nếu sưng lan nhanh thì đi tiếp tuyến lớn.
+A Hù giữ chân Quỳnh yên.
 
-Thi nhìn hắn.
+— Bố tôi chữa rắn cắn cho người quanh đây. Tôi nhìn từ nhỏ.
 
-— Anh từng làm việc này bao nhiêu lần?
+— Học từ bác ấy?
 
-A Hù không ngẩng lên.
+— Ừ.
 
-— Xem bố làm.
+Không có gì vô lý trong câu trả lời. Một người sống ở vùng có rắn, lại có cha thường xử lý những ca như vậy, hoàn toàn có thể thuộc quy trình.
 
-— Xem thôi mà nhớ quy trình tốt vậy?
+May cho Quỳnh, sau gần ba giờ theo dõi ở trạm y tế, vết sưng vẫn chỉ quanh cổ chân, không có dấu hiệu toàn thân. Bác sĩ không xác định loài vì không ai chụp được con rắn; ông dặn phải chuyển tuyến ngay nếu đau tăng, chảy máu bất thường, nôn, khó thở hoặc sưng lan.
 
-Hắn cười.
+Không ai đắp lá. Không ai hút nọc. Không ai lấy chuyện A Mã “biết chữa” để thay cho y tế.
 
-— Ở núi không biết thì chết.
+Quỳnh thấy biết ơn vì ít nhất có một việc trong mấy ngày này cơ thể nó vẫn được đối xử như cơ thể người bình thường.
 
-Câu trả lời có lý.
-
-Nhưng bàn tay hắn khi kiểm tra vết cắn không hề run.
-
-***
-
-May cho Quỳnh, vết cắn được đánh giá là mức nhẹ, chưa có dấu hiệu toàn thân. Trạm y tế theo dõi gần ba giờ. Sưng chỉ quanh cổ chân. Bác sĩ không xác định được loài vì không ai chụp ảnh, dặn phải theo dõi tiếp và chuyển tuyến ngay nếu có dấu hiệu bất thường.
-
-Không ai dùng “thuốc thần”.
-
-Không ai làm lễ.
-
-Quỳnh thấy biết ơn vì ít nhất cơ thể mình được đối xử như cơ thể người bình thường.
-
-A Hù ngồi ngoài hành lang suốt lúc khám.
-
-Khi bác sĩ hỏi hắn có phải người nhà không, hắn nói:
+A Hù ngồi ngoài hành lang gần suốt thời gian khám. Khi bác sĩ hỏi có phải người nhà không, hắn đáp:
 
 — Bạn của vợ sắp cưới.
 
-Nghe khá kỳ.
+Nghe hơi vòng, nhưng đúng.
 
-Nhưng đúng.
+Trên đường về, Thi đi ngang Quỳnh.
 
-Trên đường về, Thi đi cạnh Quỳnh.
+— Mày đang nghĩ chuyện hắn sơ cứu đúng không?
 
-— Mày thấy chưa?
+— Ừ.
 
-— Gì?
+— Ghi là kỹ năng. Đừng ghi thành tội.
 
-— A Hù biết sơ cứu đúng.
-
-— Tao thấy.
-
-— Không phải chứng cứ phạm tội.
+Quỳnh nhìn nó.
 
 — Tao biết.
 
-— Tao nhắc để mày đừng biến người giỏi thành người đáng nghi chỉ vì mình đang nghi hắn.
+— Tao nhắc vì mày đang nghi hắn. Nghi ai rồi rất dễ biến cả việc người đó làm đúng thành bằng chứng người đó đáng sợ.
 
-Quỳnh nhìn Thi.
-
-— Mày nghĩ tao làm vậy?
-
-— Tao nghĩ mày đang gần làm vậy.
-
-Quỳnh im.
-
-Thi nói đúng.
-
-Nó ghi lại chi tiết.
-
-Không gắn tội.
-
-***
-
-Tối 17 tháng 9, A Hù rửa người ở bể nước sau nhà.
-
-Quỳnh không cố nhìn.
-
-Trung thì có.
-
-Hắn đang phơi đôi giày ướt cạnh hiên, vô tình đứng đúng góc.
-
-A Hù cởi áo.
-
-Vết sẹo trên lưng lộ ra.
-
-Dài từ sau vai trái xuống xương bả.
-
-Không thẳng hoàn toàn. Mép sẹo kéo lõm da, cũ nhiều năm.
-
-Trung đứng im hai giây.
-
-Rồi quay đi.
-
-Thi ngồi trong phòng nhìn hắn.
-
-— Thấy gì?
-
-— Sẹo.
-
-— Kiểu gì?
-
-— Vết xuyên/đâm cũ, đoán thôi. Không giống cây quẹt.
-
-Quỳnh nghe thấy từ giường.
-
-Tim đập mạnh.
-
-P201.
-
-Trâm đã từng đâm Tùng từ phía sau.
-
-Không ai ngoài những người trong vụ và hồ sơ điều tra biết chính xác vị trí.
-
-Quỳnh hỏi:
-
-— Vai trái?
-
-Trung nhìn nó.
+Quỳnh đi thêm vài bước mới gật.
 
 — Ừ.
 
-Thi hỏi:
+Nó không thích bị nhắc, nhưng Thi nói đúng.
 
-— Vì sao?
+***
 
-Quỳnh kể.
+Tối 17 tháng 9, Trung nhìn thấy vết sẹo.
 
-Không thêm thắt.
+Hắn đang treo đôi giày ướt cạnh hiên thì A Hù ra bể nước phía sau rửa người. Áo vừa kéo qua đầu, một đường sẹo cũ lộ rõ từ vùng sau vai trái xuống sát xương bả. Mép sẹo kéo lõm da, không thẳng hoàn toàn, nhìn giống vết thương sâu đã lành nhiều năm hơn là một vết xước ngoài da.
 
-Không nói “A Hù là Tùng”.
+Trung quay vào phòng trước khi bị phát hiện.
 
-Chỉ kể rằng năm 2012 Trâm đâm Tùng từ sau lưng, vùng gần vai trái.
+— Có sẹo. — hắn nói nhỏ.
 
-Thi không phản ứng ngay.
+Thi ngẩng lên.
 
-— Hồ sơ có ảnh thương tích.
+— Ở đâu?
 
-Cô lấy điện thoại.
+— Sau vai trái. Dài. Tao không đủ chuyên môn nói do dao hay gì, nhưng không giống cây quẹt.
 
-Không có sóng.
+Quỳnh đang ngồi trên giường, chân kê cao. Ký ức P201 bật lên quá nhanh khiến tim nó đập mạnh.
+
+— Trâm từng đâm Tùng từ phía sau.
+
+Cả phòng quay sang.
+
+Quỳnh kể đúng phần mình nhớ: năm 2012, trong lúc đối đầu, Trâm dùng vật sắc đâm Tùng từ phía sau, vùng gần vai trái. Nó không nói “A Hù là Tùng”.
+
+Thi chỉ hỏi:
+
+— Hồ sơ cũ có ảnh thương tích không?
+
+— Chắc có trong hồ sơ y tế.
 
 — Khi bắt được mạng tao nhờ Khải tra.
 
-Lan nói:
+Lan hỏi:
 
-— Nếu khớp thì sao?
+— Nếu vị trí khớp?
 
-Thi đáp:
+— Thì thêm một lý do để xác minh danh tính. Vết sẹo không phải vân tay.
 
-— Thì có một câu hỏi rất lớn cần trả lời.
+Quỳnh nhớ Lan từng nói một câu gần như vậy bảy năm trước. Cảm giác vòng tròn khép lại khiến nó lạnh hơn là buồn cười.
 
 ***
 
-Khoảng tám giờ, A Hù mang một nải chuối vào.
+Khoảng tám giờ, A Hù mang vào một nải chuối.
 
-— Chuối nhà. Ăn đi.
+— Chuối nhà. Ai đói ăn đi.
 
-Hắn đặt giữa bàn.
+Trung vừa đưa tay thì Thi gõ nhẹ mu bàn tay hắn.
 
-Trung vừa đưa tay thì Thi gõ mu bàn tay.
+— Quên lời bác sĩ rồi?
 
-— Quên lời tao?
+— Tôi định nhìn chủ nhà ăn trước.
 
-— Tôi nhìn chủ nhà ăn trước.
+A Hù nghe thấy, bật cười rồi bẻ một quả ăn ngay. Trung nhìn Thi như vừa thắng được một vụ kiện nhỏ.
 
-A Hù cười, bẻ một quả, bóc ăn ngay.
-
-Trung nhìn Thi kiểu chiến thắng.
-
-— Thấy chưa?
-
-Thi vẫn không lấy.
-
-Lan thì nhìn nải chuối rất lâu.
-
-Mảnh Thần Hựu trên cổ ấm lên.
-
-Không nóng.
-
-Chỉ ấm rõ.
-
-A Hù bẻ một quả khác đưa riêng cho Lan.
+Lan không lấy. Khi A Hù bẻ quả thứ hai đưa riêng cho nó, Lan chỉ ngửi rất nhẹ. Mùi chuối chín rõ, nhưng bên dưới có một lớp ngai ngái gần giống mùi trà tối trước.
 
 — Cô ăn đi. Ngọt lắm.
 
-Lan nhận.
+Lan nhận nhưng không bóc.
 
-Quỳnh thấy tay nó dừng ở cuống.
+— Để lát. Vừa ăn tối xong no quá.
 
-Mùi rất nhẹ bay ra khi vỏ tách.
+A Hù nhìn nó thêm một nhịp rồi thôi.
 
-Ngọt.
+Vào phòng, Lan bỏ riêng quả chuối vào túi sạch.
 
-Nhưng bên dưới là mùi ngai ngái giống trà tối qua.
+— Mùi giống trà.
 
-Lan cắn một miếng nhỏ.
+Thi gật.
 
-A Hù nhìn nó ăn.
-
-Không nhìn ai khác.
-
-Một lát sau Lan đỏ mặt.
-
-Trung huýt sáo.
-
-Thi đạp vào chân hắn lần thứ ba trong ngày.
-
-A Hù cười.
-
-Lan cúi mặt như ngượng.
-
-Chỉ Quỳnh ngồi gần mới thấy dưới bàn, tay Lan đang cầm một miếng ớt đỏ nhỏ vừa lấy từ đĩa thức ăn.
-
-Nó đã cắn ớt trước.
-
-Quỳnh hiểu.
-
-Lan đang diễn.
-
-***
-
-Đêm đó, khi mọi người đã vào phòng, Lan nhổ phần chuối còn trong miệng vào túi zip.
-
-— Ngải? — Quỳnh hỏi.
-
-— Chưa biết.
-
-— Mày vừa ăn thật.
-
-— Cắn, không nuốt. Với tao ngửi thấy mùi giống loại nhựa thầy từng cho xem. Có thể gây nóng mặt, tim nhanh.
-
-— Sao cắn ớt?
-
-Lan nhìn Quỳnh.
-
-— Để hắn nghĩ thứ trong chuối có tác dụng.
-
-Thi nói:
-
-— Mày không được tự thử chất lạ lần nữa.
-
-— Tao cần hắn tin.
-
-— Không bằng cách tự đầu độc mình.
-
-Lan im.
-
-Thi nói đúng.
-
-Một lúc sau Lan gật.
+— Giữ mẫu. Không ai thử.
 
 — Ừ.
 
-Không cãi.
+Trung thở dài.
 
-Quỳnh nhận ra cả ba người đều đang phải tự sửa một kiểu ngu khác nhau.
+— Từ ngày lên đây đời tôi mất hết quyền tự do ăn uống.
 
-Nó thích điều đó hơn những người lúc nào cũng đúng.
+— Mày uống nhầm một lần đủ cả nhóm mất ngủ rồi. — Thi nói. — Chịu khó.
+
+Hắn không cãi.
 
 ***
 
-Hai giờ mười hai sáng.
+Hai giờ mười hai sáng, điện thoại Trung rung ba nhịp ngắn. Hắn đọc tin rồi gõ cửa phòng ba người.
 
-Trung gõ cửa ba tiếng.
+— Khải gửi hồ sơ.
 
-Thi mở ngay.
+Ảnh y tế năm 2012 hiện trên màn hình. Vùng sau vai trái của Tùng có một vết thương do vật sắc, vị trí tương ứng rất gần đường sẹo Trung vừa nhìn thấy trên A Hù.
 
-Hắn đã thay đồ tối màu, mặt hoàn toàn tỉnh.
+Quỳnh xem ảnh một lúc lâu.
 
-— Khải nhắn rồi.
+Thi phóng phần chú thích.
 
-Thi bước ra hành lang.
+— Khớp vùng. Chưa đủ định danh.
 
-Quỳnh và Lan theo.
+Trung kéo xuống phần sau của tin nhắn.
 
-Trung mở ảnh hồ sơ trên điện thoại.
-
-Một ảnh y tế năm 2012.
-
-Lưng Tùng.
-
-Vết thương do vật sắc ở vùng sau vai trái.
-
-Đường sẹo dự kiến được bác sĩ đánh dấu trong báo cáo.
-
-Quỳnh nhìn ảnh.
-
-Rồi nhìn hướng phòng A Hù.
-
-Khớp vị trí.
-
-Không đủ để định danh.
-
-Nhưng xác suất trùng hợp vừa giảm mạnh.
-
-Trung nói:
-
-— Còn chuyện hay hơn.
-
-— Gì? — Thi hỏi.
-
-— Khải tra hồ sơ cư trú theo thông tin A Hù. Có một người tên tương ứng từng sống cùng A Mã nhiều nơi. Nhưng hai năm nay gần như không có giao dịch hành chính mới, không khám bệnh, không ký giấy tờ, không ảnh cập nhật.
+— Thông tin A Hù trong hồ sơ cư trú là người có thật, từng sống cùng A Mã ở vài nơi. Nhưng gần hai năm nay không có ảnh cập nhật, gần như không có giao dịch hành chính hay khám chữa bệnh đứng tên.
 
 Quỳnh hỏi:
 
-— Người thật biến mất hai năm trước?
+— Người thật có thể đã biến mất từ hai năm trước?
 
-— Có thể.
+— Có thể. — Thi đáp. — Cũng có thể sống ngoài hệ thống. Nhưng giả thuyết giả danh đáng để giữ lại.
 
-Thi nhìn về kho.
+Ngoài hành lang có một tiếng dép kéo rất nhẹ.
 
-Tiếng cào ban chiều.
+Mọi người im.
 
-Cái gác bị cấm lên.
+A Mã đứng trước cửa.
 
-Đồng tiền.
+Ông mặc áo chàm cũ, trong tay là một chùm chìa khóa nhỏ. Không ai biết ông đã đứng đó bao lâu. Gương mặt khác hẳn vẻ lơ mơ ban ngày; con mắt còn nhìn được rất tỉnh.
 
-Vết sẹo.
+Thi bước ra.
 
-— Đi coi kho. — cô nói.
+— Bác chưa ngủ à?
 
-***
+A Mã đưa ngón trỏ lên môi.
 
-Họ không phá cửa.
+Rồi chỉ về phía kho.
 
-Trung đã quan sát bản lề từ chiều. Cửa kho khóa ngoài, nhưng một cửa thông gió phía sau có chốt gỗ mục. Hắn dùng một miếng kim loại mỏng luồn vào, mất gần ba phút mới nâng được.
+— Trên đó có người.
 
-Quỳnh hỏi rất nhỏ:
+Thi hạ giọng ngay.
 
-— Mày học cái này ở đâu?
+— Người sống hay người chết?
 
-— Công việc.
+A Mã nhắm mắt một thoáng như cố nhớ.
 
-— Công an được dạy mở trộm cửa à?
+— Không biết nữa.
 
-— Được dạy biết người ta mở kiểu gì. Khác nhau về giấy tờ.
+— Bác muốn tụi cháu kiểm tra?
 
-Thi liếc hắn.
+Ông gật.
 
-— Im.
+— Nhà của bác?
 
-Họ vào ba người: Thi, Trung, Lan.
+— Ừ.
 
-Quỳnh bị buộc ở lại vì chân còn đau.
+Câu hỏi nghe khô, nhưng Thi cần biết người đang đưa chìa khóa có thực sự hiểu mình đang làm gì. A Mã trả lời rõ. Ông còn chỉ đúng chìa và làm động tác mở khóa.
 
-Nó ghét quyết định đó.
+Thi nhìn Trung.
 
-Nhưng không cãi.
+— Ghi hình từ đầu. Chỉ ba người: tao, mày, Lan. Quỳnh ở đây vì chân còn sưng. Nếu thấy người sống, ưu tiên cấp cứu. Nếu là thi thể, không chạm ngoài mức cần xác định tình trạng.
 
-Thi để điện thoại mở ghi âm trong túi và nói trước khi đi:
+A Mã tự dẫn họ ra sân.
 
-— Mười phút không ra, mày đánh thức cả nhà. Đừng tự vào.
+Đêm rất yên. Phòng A Hù đã tắt đèn từ hơn một giờ trước. “Trâm” cũng không có động tĩnh. Con chó đen thấy A Mã thì đứng dậy nhưng không sủa.
 
-Quỳnh gật.
+Ông già mở một cửa phụ ở hông kho, nơi ban ngày bị các bao tải che mất. Cánh cửa dẫn thẳng lên cầu thang gác. Trước khi Thi bước vào, A Mã giữ cổ tay cô.
 
-Mười phút dài hơn bình thường rất nhiều khi người ta ngồi chờ trong bóng tối.
+— Nó không biết tao đưa.
 
-Phút thứ sáu, không tiếng động.
+Thi nhìn ông.
 
-Phút thứ tám, có tiếng chân rất nhẹ trên ván gác.
+— A Hù?
 
-Phút thứ chín, Quỳnh nghe Trung chửi thề.
+A Mã không đáp. Sự tỉnh táo trên mặt đã bắt đầu chao đi. Ông chỉ lặp lại:
 
-Rồi im.
+— Nhanh.
 
-Đúng phút thứ mười, cửa thông gió mở.
+Thi không hỏi thêm.
 
-Thi bước ra trước.
+Mùi trên gác không giống mùi xác phân hủy thông thường. Dược liệu khô và khói cũ che gần hết, chỉ còn một lớp tanh ngọt mỏng bám ở cổ họng. Trung rọi đèn qua những bó ngô, mấy thùng gỗ và các tấm vải phủ đồ.
 
-Mặt cô trắng.
+Lan nhìn thấy bàn chân trước.
 
-Trung theo sau.
+Nó dừng lại, giơ tay ra hiệu.
 
-Không còn chút lầy nào.
+Thi bước tới, camera vẫn chạy.
 
-Lan cuối cùng.
+Thi thể nằm sát vách sau, được bọc từ ngực xuống bằng một tấm vải đã ngả màu. Da khô, co lại quanh xương, rõ ràng đã được xử lý hoặc bảo quản bằng cách nào đó. Thi quỳ cách một khoảng, dùng đèn kiểm tra mà không dịch chuyển cơ thể.
 
-Sợi Thần Hựu trên cổ lạnh đến mức da quanh đó nổi gai.
+— Nam. Không có dấu hiệu sống. Không chạm thêm.
 
-Quỳnh đứng dậy.
+Trung đứng phía sau, nuốt khan.
 
-— Có gì?
+Rồi ánh đèn lên tới phần đầu.
 
-Không ai trả lời ngay.
+Hắn chửi rất nhỏ.
 
-Thi lấy điện thoại.
+Lan không nói gì.
 
-Tay cô rất vững dù mặt vẫn trắng.
+Phần da mặt và da đầu đã bị lấy đi.
 
-— Có xác người.
+Không phải phân hủy tự nhiên. Mép mô cũ, đều ở vài đoạn và đã khô từ lâu.
 
-Quỳnh lạnh ngực.
+Thi lập tức đứng dậy.
 
-— Ai?
+— Ra.
 
-— Chưa biết.
+Không ai tranh luận.
 
-Trung nói:
+Họ xuống đúng lối vừa vào. A Mã vẫn chờ dưới chân cầu thang, hai tay run rất nhẹ. Thi khóa lại bằng chính chiếc chìa ông đưa, chụp vị trí chìa và cửa rồi trả chùm khóa cho ông.
 
-— Nam. Khoảng hai mươi mấy lúc chết. Xác bị làm khô hoặc bảo quản kiểu gì đó. Quần áo cũ.
+— Từ giờ bác đừng lên đó, đừng cho ai biết tụi cháu đã vào. Bác hiểu không?
 
-Hắn nuốt khan.
+A Mã nhìn cô. Trong vài giây, Quỳnh thấy từ xa ông hoàn toàn là một người già đang sợ.
 
-— Từ cổ trở lên...
+— Nó lấy mặt con tao.
 
-Trung dừng.
+Lan quay phắt lại.
 
-Lan nói thay:
+Thi giữ tay trước ngực, ra hiệu đừng hỏi dồn.
 
-— Không còn mặt.
+— Con bác là ai?
 
-Quỳnh nhìn về căn nhà nơi A Hù đang ngủ.
+A Mã mở miệng.
 
-Lan tiếp:
+Nhưng nét mặt bỗng trống đi.
 
-— Không phải phân hủy tự nhiên. Da đầu và phần da mặt bị lấy đi.
+Ông nhìn chùm chìa khóa trong tay như không biết nó từ đâu ra.
 
-Thi đã gửi tin nhắn ưu tiên khẩn tới Khải kèm ảnh.
+— Tao... đi ngủ.
 
-Lần này không còn là một chuyến đi kiểm tra người mất tích.
+Ông quay về gian sau.
 
-Có một thi thể trong căn nhà.
+Không ai giữ lại.
 
-Một người đang sống dưới tên của người khác.
+Trong phòng, Thi gửi tin ưu tiên cao cho Khải: thời gian, việc A Mã — người cư trú/chủ nhà — tự nguyện đưa chìa và yêu cầu kiểm tra vì nói có người trên gác, tình trạng thi thể, ảnh chụp tối thiểu đủ xác nhận, vị trí kho. Cô không gửi ảnh vào nhóm thường.
 
-Và chỉ cách họ một bức tường, “A Hù” vừa trở mình trong giấc ngủ.
+Khải trả lời sau vài phút:
+
+**“Đã nhận. Không đối đầu. Ưu tiên người sống. Giữ nguyên hiện trường. Tổ phối hợp đang lên.”**
+
+Dòng cuối:
+
+**“Nếu A Hù chưa biết các cô đã thấy xác, giữ như vậy.”**
+
+Trung đặt điện thoại xuống.
+
+Không còn chút lầy nào trên mặt hắn.
+
+Quỳnh ngồi dựa tường, chân vẫn đau nhưng gần như quên mất. Câu của A Mã cứ nằm trong đầu:
+
+**Nó lấy mặt con tao.**
+
+Một thi thể không mặt đang nằm trên gác.
+
+Một người sống dưới tên A Hù ở dưới nhà.
+
+Và lần đầu tiên, câu hỏi không còn là căn nhà này có chuyện gì kỳ lạ.
+
+Câu hỏi là người chết trên gác từng mang khuôn mặt nào.
