@@ -1,601 +1,387 @@
-Buổi sáng, Quỳnh không kể với ai chuyện cái vòi nước.
+Buổi sáng hôm sau, Quỳnh không kể với ai chuyện cái vòi nước tự mở lúc 03:07, cũng không nhắc câu Trâm nói mê gần sáng.
 
-Nó cũng không kể câu Trâm nói mê.
+Không phải vì nó gan hơn bảy đứa còn lại, càng không phải vì sợ bị cười. Sau một đêm gần như thức trắng, đầu óc Quỳnh tự nhiên sinh ra cả đống lời giải thích dễ chịu: có thể ai đó đi vệ sinh rồi quên khóa vòi; tiếng trẻ con ngoài vườn biết đâu chỉ là mèo kêu; cánh quạt dịch đi vì gió; còn người đang ngủ nói mớ thì có thể nói bất cứ chuyện gì. Nếu tách từng việc ra, chẳng cái nào đủ kỳ quặc để phải gọi tên thành một câu chuyện.
 
-Không phải vì gan. Càng không phải vì sợ bị cười. Chỉ là sau một đêm gần như thức trắng, đầu óc nó bắt đầu tự tìm những lời giải thích dễ chịu nhất: vòi nước có thể do ai đó đi vệ sinh quên khóa; tiếng trẻ con có thể là mèo; cánh quạt dịch đi vì gió; còn Trâm nói mê thì con người lúc ngủ có thể nói bất cứ thứ gì.
+Quỳnh quyết định tạm thời cứ để chúng rời nhau như vậy.
 
-Nếu gom từng chuyện riêng lẻ, cái nào cũng giải thích được.
+Sáu giờ mười lăm, tiếng kẻng lao động từ sân trường dội lên hành lang ký túc. Thi đang ngủ úp mặt vào gối nghe thấy liền kéo chăn trùm kín đầu.
 
-Quỳnh quyết định chưa gom chúng lại.
+— Hôm qua Quốc khánh mà hôm nay đã bắt đi nhổ cỏ, trường mình sống gấp dữ vậy trời.
 
-Sáu giờ mười lăm, tiếng kẻng lao động vang từ sân trường lên hành lang ký túc xá.
+Hân đứng trước gương buộc tóc, chẳng thèm quay lại.
 
-Thi úp mặt vào gối.
+— Hôm qua mới là ngày nghỉ. Hôm nay thứ Hai rồi. Dậy.
 
-— Quốc khánh mà cũng bắt lao động, có còn tình người không vậy trời?
+— Tao mệt lắm.
 
-Hân đang buộc tóc trước gương, không thèm quay lại.
+— Ai cũng mệt.
 
-— Hôm qua nghỉ rồi. Hôm nay thứ Hai. Dậy.
+— Tao mệt hơn.
 
-— Tao đang bệnh.
+Hân cột xong dây thun, quay lại nhìn cái cục chăn trên giường Thi.
 
-— Bệnh gì?
+— Mày còn năm phút. Không dậy tao kéo nguyên cái chăn xuống đất.
 
-— Bệnh không muốn nhổ cỏ.
+Thi ló nửa mặt ra, nhìn Hân một lúc rồi ngồi dậy với vẻ đau khổ như vừa bị cuộc đời phản bội.
 
-— Năm phút nữa mày không xuống tao báo cô quản sinh mày bị liệt toàn thân.
+Buổi sáng làm căn phòng 201 trông bình thường đến mức chuyện đêm qua dễ bị nghi là do trí tưởng tượng. Mai vừa đánh răng vừa giành gương với Dung; Hương gấp chăn thành một khối vuông vức rồi chỉnh lại hai lần cho đều mép; Lan đứng bên cửa sổ xem trời, nhắc cả đám mang nón vì mây dày nhưng lát nữa chưa chắc không nắng. Chỉ có Trâm là hơi xanh mặt. Nó nói nhức đầu, Hân hỏi có cần xuống phòng y tế không thì lắc đầu, bảo chắc hôm qua dọn phòng rồi thức khuya nên thiếu ngủ.
 
-Thi ngồi bật dậy.
-
-Căn phòng buổi sáng có vẻ bình thường đến mức chuyện đêm qua giống một giấc mơ. Mai vừa đánh răng vừa giành gương với Dung. Hương cẩn thận gấp chăn thành hình chữ nhật. Lan đứng ở cửa sổ xem trời, rồi quay vào nhắc cả đám mang nón vì mây thấp nhưng vẫn có thể nắng lên.
-
-Chỉ có Trâm hơi xanh mặt.
-
-Nó nói đau đầu.
-
-Hân hỏi có cần xuống y tế không, Trâm lắc đầu.
-
-— Chắc hôm qua thức khuya thôi.
-
-Quỳnh nhìn nó thêm một lúc.
-
-Móng tay Trâm sạch sẽ, cắt ngắn, sơn lớp bóng trong suốt.
-
-Không hiểu sao Quỳnh lại chú ý chuyện đó.
+Quỳnh ngồi buộc dây giày, ngước lên nhìn Trâm. Ngón cái của nó lại chà qua móng trỏ, rất khẽ, rồi dừng. Móng tay sạch, cắt ngắn và phủ một lớp bóng trong suốt. Không hiểu sao từ đêm qua Quỳnh cứ chú ý đến bàn tay ấy.
 
 ***
 
-Khu vườn sau ký túc xá nữ thực ra không giống một khu vườn.
+Khu đất sau ký túc xá nữ được gọi là vườn, nhưng nhìn chẳng giống vườn bao nhiêu. Có lẽ nhiều năm trước trường từng định trồng một khoảng cây ăn trái, sau đó bỏ mặc cho xoài, chuối, chôm chôm và mấy bụi dâm bụt tự chen nhau lớn. Cỏ mọc cao quá mắt cá, chỗ sát tường còn phủ một lớp rêu xanh đen vì quanh năm ít nắng.
 
-Ngày trước có lẽ người ta từng định làm một khoảng cây ăn trái cho trường, nhưng nhiều năm không chăm nên cây mọc tự do, chen nhau với cỏ dại. Mấy cây xoài già nghiêng cành qua bức tường phía sau. Một hàng chuối mọc sát rãnh thoát nước. Xa hơn là mấy bụi dâm bụt đã cao ngang vai.
+Cây chôm chôm nằm gần góc cuối khu đất. Quỳnh nhận ra ngay dù chưa ai chỉ. Thân cây to, vỏ sần sùi, một vết cháy đen chạy từ cành xuống gần gốc như một đường sẹo cũ. Năm năm đã qua mà phần gỗ bị sét đánh vẫn nứt và thẫm màu hơn xung quanh. Mấy rễ lớn trồi lên khỏi mặt đất, bò ngoằn ngoèo về phía bức tường cũ cách đó vài mét.
 
-Cây chôm chôm nằm gần góc cuối khu đất.
+Người chia khu vực lao động cho học sinh là chú Trung bên cơ sở vật chất. Khi nghe tên, Quỳnh hơi khựng lại. Nếu câu chuyện Như kể đúng, đây chính là người năm 2007 đã ra kiểm tra cây sau mưa và nhìn thấy bàn tay Trang lộ khỏi đất.
 
-Quỳnh nhận ra nó ngay dù chưa ai chỉ.
+Ngoài đời chú chẳng có gì bí hiểm. Chú ngoài bốn mươi, người gầy, da rám nắng, đội cái nón cối đã bạc màu và cứ làm một lúc lại rút khăn từ túi quần ra lau cổ. Thấy mấy đứa lớp bên cạnh chỉ ngắt phần ngọn cỏ rồi ném vào bao, chú chống cuốc cười:
 
-Thân cây to, sần sùi, một bên có vết cháy chạy từ cành xuống gần gốc. Phần gỗ ở đó đen và nứt, dù đã năm năm. Rễ cây nổi khỏi đất thành những đường ngoằn ngoèo. Cách gốc chừng năm mét là bức tường cũ phủ rêu, chân tường có mấy viên gạch xi măng bị nước mưa ăn loang lổ.
+— Nhổ cho chú luôn cái rễ đi mấy cô. Để mai nó mọc lại thì công sáng nay coi như mình tập thể dục không à.
 
-Chú Trung bên cơ sở vật chất đứng chia khu vực.
+Thi vừa mang bao đi ngang qua, tiện miệng hỏi:
 
-Quỳnh thoáng giật mình khi nghe tên chú.
+— Chú ơi, cây chôm chôm kia còn trái không chú?
 
-Chính người đàn ông này là người Như kể đã phát hiện bàn tay Trang sau trận mưa năm 2007.
+Chú Trung quay sang. Nụ cười trên mặt chú biến mất rất nhanh, nhanh tới mức nếu không biết trước câu chuyện có lẽ Quỳnh sẽ chẳng để ý.
 
-Ngoài đời chú không có vẻ gì bí hiểm. Chú khoảng ngoài bốn mươi, người gầy, da rám nắng, đội cái nón cối cũ và cứ năm phút lại lấy khăn lau cổ. Khi có đứa lười, chú chỉ cười:
-
-— Mấy cô nhổ cỏ chứ không phải lựa rau muống ngoài chợ. Nhổ cả rễ giùm chú.
-
-Thi hỏi đùa:
-
-— Chú ơi, cây chôm chôm đó có cho trái không chú?
-
-Nụ cười trên mặt chú Trung tắt đi một nhịp.
-
-— Có. Nhưng mấy năm rồi nhà trường không cho hái.
+— Còn. Nhưng mấy năm nay trường không cho học sinh hái.
 
 — Sao vậy chú?
 
-— Sâu nhiều.
+Chú cúi xuống nhấc cuốc lên.
 
-Chú quay sang chỗ khác ngay.
+— Cây già, sâu nhiều. Với chỗ đó rễ nổi, trượt chân nguy hiểm. Mấy đứa làm phía ngoài thôi.
 
-Lan đang đứng cạnh Quỳnh khẽ nói:
+Chú đi sang nhóm khác trước khi Thi kịp hỏi thêm.
 
-— Ổng nói dối.
+Lan đứng cạnh Quỳnh, tay vẫn nhổ cỏ nhưng mắt nhìn theo bóng chú Trung.
 
-— Sao biết?
+— Ổng né câu hỏi.
 
-— Không biết. Cảm giác.
+Quỳnh bật cười.
 
-— Cảm giác mà nói như chuyên gia tâm lý vậy.
+— Mới sáng ra đã đọc vị người ta rồi hả chuyên gia?
 
-Lan nhún vai.
+— Tao chỉ nói ổng né thôi, có nói ổng giết người đâu.
 
-— Thì tao đang tập làm chuyên gia tâm lý.
+— Nghe cũng ghê lắm rồi.
 
-Năm 2012, Lan mới mười bảy tuổi. Câu ấy lúc đó nghe chỉ như một câu nói chơi.
+Lan nhún vai, kéo một bụi cỏ gấu bật cả rễ lên.
 
-Quỳnh không biết bảy năm sau nó sẽ trở thành sự thật.
+— Sau này tao học tâm lý, mày còn thấy tao ghê dài dài.
 
-Cả nhóm được giao nhổ cỏ dọc bức tường, tránh khu đất sát gốc chôm chôm vì rễ nổi nhiều. Ban đầu mọi thứ bình thường. Thi than nóng. Mai phát hiện một con sâu rồi hét lớn đến mức lớp bên cạnh tưởng có rắn. Hân mắng nhưng chính nó cũng lùi hai bước.
+Năm đó Lan mới mười bảy tuổi. Câu nói nghe chẳng khác gì một lời khoe ngành học tương lai của bất kỳ đứa học sinh cuối cấp nào, nên Quỳnh chỉ cười rồi cúi xuống làm tiếp. Nó không thể biết bảy năm sau Lan thật sự sẽ ngồi trước những con người đáng sợ hơn chú Trung rất nhiều và vẫn giữ nguyên cái thói quen quan sát đến khó chịu ấy.
 
-Khoảng tám giờ bốn mươi, mây trên đầu dày lên.
+Khoảng hơn tám giờ, buổi lao động bắt đầu nhạt dần thành một chuỗi than nóng, chuyền bao cỏ và giành nhau chai nước. Mai đào trúng một con sâu bé bằng ngón út nhưng hét to đến mức mấy đứa lớp bên tưởng có rắn; Hân vừa mắng nó làm quá vừa lùi hẳn ra sau hai bước. Dung cười tới chảy nước mắt, còn Thi tuyên bố nếu trong đất có thêm con thứ hai thì nó chính thức xin chuyển sang nhiệm vụ quét hành lang.
 
-Gió từ phía đồi sau trường thổi vào, mang theo mùi lá ướt và một thứ mùi ngai ngái như nhang đã tắt từ lâu.
+Đến khoảng tám giờ bốn mươi, mây trên đầu dày lên và gió từ phía đồi sau trường bắt đầu thổi vào. Không khí bỗng mát hẳn. Quỳnh đang cúi người kéo một bụi cỏ sát chân tường thì ngửi thấy mùi gì đó ngai ngái, giống nhang đã tắt lâu rồi bị nước làm ẩm trở lại.
 
-Quỳnh đang cúi nhổ một bụi cỏ gấu thì Hương hỏi:
+Hương là người đầu tiên nhận ra thiếu người.
 
-— Trâm đâu rồi?
+— Ủa, Trâm đâu?
 
-Không ai trả lời.
+Câu hỏi khiến cả nhóm cùng ngẩng lên. Chiếc nón Trâm đội lúc nãy nằm úp giữa đám cỏ cách chỗ nó làm vài mét. Xa hơn, Trâm đang đi về phía cây chôm chôm.
 
-Bảy đứa nhìn quanh.
+Ban đầu Quỳnh còn nghĩ nó định nhặt đồ. Nhưng cách Trâm bước khiến cảm giác ấy biến mất rất nhanh. Nó đi chậm, hai tay buông dọc thân, đầu hơi cúi, không hề tránh mấy rễ cây gồ lên trước chân.
 
-Chiếc nón của Trâm nằm úp giữa đám cỏ, cách chỗ nó làm lúc nãy vài mét.
+Hân gọi lớn:
 
-Dung chỉ tay.
+— Trâm! Đi đâu vậy?
 
-— Kìa.
+Không có phản ứng.
 
-Trâm đang đi về phía cây chôm chôm.
+Hân gọi lần nữa, lần này to hơn. Trâm vẫn đi như không nghe thấy.
 
-Nó đi rất chậm.
+Quỳnh quẳng cái cuốc nhỏ xuống đất rồi chạy theo. Mấy đứa kia cũng bỏ việc, nối nhau băng qua cỏ. Khi chỉ còn cách thân chôm chôm vài mét, Trâm bất ngờ đổi hướng sang bức tường cũ, đi thẳng tới một chỗ gần chân tường rồi dừng trước một viên gạch màu hơi khác xung quanh.
 
-Hai tay buông thõng dọc người.
+Nó giơ tay chỉ xuống.
 
-Đầu hơi cúi.
+Quỳnh đến gần nhất.
 
-— Trâm! — Hân gọi.
+— Trâm, mày làm gì vậy?
 
-Không phản ứng.
-
-— Trâm!
-
-Nó vẫn bước.
-
-Quỳnh bỏ cái cuốc nhỏ xuống, chạy theo. Sáu đứa kia cũng đi sau. Khi còn cách cây vài mét, Trâm đột ngột đổi hướng, đi về phía bức tường cũ.
-
-Nó dừng trước một viên gạch gần chân tường.
-
-Rồi giơ tay chỉ xuống.
-
-— Trâm, mày làm gì vậy? — Quỳnh hỏi.
-
-Trâm quay lại.
+Trâm quay đầu lại.
 
 Quỳnh đứng khựng.
 
-Mắt Trâm mở rất lớn. Tròng đen bị kéo lên trên đến mức phần lòng trắng lộ ra nhiều bất thường.
+Mắt nó mở quá lớn, tròng đen dường như bị kéo cao lên khiến phần lòng trắng lộ ra nhiều bất thường. Miệng Trâm cong nhẹ nhưng biểu cảm không giống cười; nó giống một người đang cố bắt chước nụ cười mà không nhớ chính xác phải dùng cơ nào trên mặt.
 
-Miệng nó cong lên.
+— Ở đây…
 
-Không hẳn cười.
+Giọng khàn hơn bình thường, nhỏ đến mức Quỳnh phải bước thêm nửa bước mới nghe rõ.
 
-Cũng không hẳn khóc.
+Hân đứng phía sau hỏi:
 
-— Ở đây...
+— Cái gì ở đây?
 
-Giọng nói khàn hơn bình thường.
+Trâm không nhìn Hân. Ngón tay vẫn chỉ đúng viên gạch dưới chân.
 
-— Cái gì ở đây? — Hân hỏi, vẫn cố giữ giọng bình tĩnh.
+— Ở đây…
 
-Trâm chỉ xuống lần nữa.
+Thi nắm lấy cánh tay Mai. Quỳnh nghe tiếng nó thì thào hỏi “nó bị sao vậy?” nhưng không ai trả lời.
 
-— Ở đây...
+Rồi Trâm nhìn thẳng vào Quỳnh.
 
-Thi bấu cánh tay Mai.
-
-— Nó bị sao vậy?
-
-Trâm bỗng nhìn thẳng Quỳnh.
-
-Nụ cười biến mất.
+Mấy cơ quanh miệng từ từ giãn ra. Nụ cười biến mất hoàn toàn.
 
 — Mày sẽ phải chết.
 
-Quỳnh lạnh sống lưng.
+Cả sống lưng Quỳnh lạnh toát. Nó không lùi mà cố giữ mắt Trâm.
 
-— Trâm.
+— Trâm, nhìn tao nè. Mày nghe tao nói không?
 
-— Mày... sẽ... phải... chết.
+Trâm lùi lại cho tới khi lưng chạm tường. Môi nó mấp máy như muốn nói thêm gì đó, nhưng thay vì lên tiếng, hai bàn tay bỗng chụp lấy cổ mình.
 
-— Trâm, nhìn tao nè.
+Mọi việc sau đó xảy ra quá nhanh. Trâm siết mạnh đến đỏ bừng mặt, người bắt đầu run và co cứng. Hân lao tới trước, Quỳnh cùng Thi bám vào hai cổ tay nó, còn Lan vừa giữ vai vừa liên tục gọi tên. Ba đứa phải dùng gần hết sức mới kéo được các ngón tay Trâm khỏi cổ. Một ít bọt trắng trào ở khóe môi, hơi thở bật ra từng tiếng ngắn và gấp.
 
-Quỳnh tiến một bước.
+— Đừng ghì ngực nó! — Lan quát. — Đỡ đầu thôi. Hân, nghiêng nó qua bên này.
 
-Trâm lùi một bước sát tường.
+Không biết Lan đã đọc ở đâu hay chỉ nhớ từ một buổi học sơ cứu, nhưng giọng nó đủ tỉnh để kéo cả nhóm ra khỏi hoảng loạn. Hân lập tức quỳ xuống đỡ đầu Trâm, Thi buông bớt lực ở cánh tay. Dung chạy về phía chú Trung gọi người lớn.
 
-Hai bàn tay nó bất ngờ chụp lấy cổ mình.
+Đúng lúc ấy, một luồng gió mạnh quét ngang khu vườn. Tán chôm chôm xào xạc dữ dội, lá khô rơi lả tả xuống cỏ. Quỳnh ngẩng lên theo phản xạ và trong một khoảnh khắc ngắn ngủi, nó tưởng mình nhìn thấy sau lưng Trâm có một vệt trắng mỏng lướt qua thân cây, cao ngang vai người, rồi tan vào khoảng tối giữa những tán lá.
 
-— Ê! — Hân lao tới.
+Quỳnh chớp mắt. Chỉ còn thân cây đen và bức tường ẩm.
 
-Trâm siết mạnh. Mặt nó đỏ lên. Người co giật. Một ít bọt trắng trào ra khóe môi.
+Vài giây sau, cơ thể Trâm mềm ra. Mi mắt nó run rồi khép lại.
 
-Cả nhóm hoảng loạn giữ tay nó lại. Trâm khỏe một cách bất thường; ba đứa phải ghì mới kéo được hai bàn tay ra khỏi cổ.
+— Trâm? — Hân vỗ nhẹ má nó. — Nghe tao không? Trâm?
 
-Một luồng gió mạnh thốc ngang khu vườn.
+Không có đáp lời ngay. Chú Trung cùng một giáo viên trực chạy tới, nhìn vết đỏ trên cổ Trâm rồi không hỏi thêm, bảo đưa thẳng xuống phòng y tế.
 
-Lá cây chôm chôm xào xạc dữ dội.
+Trong lúc Hân, Thi và Hương dìu Trâm đi, Quỳnh vẫn đứng ở chân tường. Chỗ ngón tay Trâm vừa chỉ nằm ngay trước mặt. Viên gạch ở đó dựng sát chân tường, màu nhạt hơn một chút và mép phải có một khe rất mảnh.
 
-Quỳnh ngẩng lên.
+Lan chưa đi. Nó đứng sau Quỳnh, thở còn gấp sau lúc giữ Trâm.
 
-Trong đúng một khoảnh khắc, nó tưởng mình nhìn thấy phía sau Trâm có một vệt trắng mỏng như khói lướt qua thân cây rồi tan mất.
+— Mày đang nhìn gì vậy?
 
-Nó chớp mắt.
+— Viên gạch.
 
-Không còn gì.
+— Tao thấy.
 
-Trâm mềm người xuống.
+Quỳnh cúi xuống, lấy đầu cái cuốc nhỏ nạy thử vào khe.
 
-Hân đỡ lấy đầu nó.
-
-— Trâm! Nghe tao không? Trâm!
-
-Mi mắt Trâm run nhẹ.
-
-— Đưa nó xuống y tế. — Lan nói. — Thi với Hân đỡ đi. Dung chạy gọi cô.
-
-Mọi người lập tức làm theo.
-
-Quỳnh vẫn đứng lại.
-
-Nó nhìn viên gạch Trâm vừa chỉ.
-
-Một viên gạch lát đứng ở chân tường, màu hơi khác mấy viên xung quanh. Mép bên phải có một khe mảnh.
-
-Lan nhìn theo mắt nó.
-
-— Mày tính làm gì?
-
-— Coi thử.
+Lan cau mày.
 
 — Quỳnh.
 
-— Nếu không có gì thì thôi.
+— Tao chỉ coi thử nó có lỏng không thôi.
 
-Quỳnh ngồi xổm, dùng đầu cuốc nhỏ nạy vào khe.
+— Câu đó nghe y như mấy đứa trong phim trước khi mở cái hộp không nên mở.
 
-Viên gạch lỏng hơn nó tưởng.
+Quỳnh quay lại nhìn bạn.
 
-Chỉ hai lần cạy đã bật ra.
+— Nếu tao bị gì thì mày đóng lại giùm.
 
-Phía sau là một hốc tối sâu chừng gang tay.
+Lan thở dài, nhưng không ngăn nữa.
 
-Có thứ gì đó bọc nilon đen bên trong.
+Viên gạch lỏng hơn cả hai đứa nghĩ. Quỳnh mới cạy hai lần nó đã bật ra, để lộ một hốc tối sâu chừng gang tay phía sau. Bên trong có một gói nilon đen, buộc khá gọn.
 
-Lan không nói nữa.
+Hai đứa nhìn nhau.
 
-Quỳnh kéo gói đồ ra.
+Lần này Quỳnh không đùa nữa.
 
-Nilon lạnh và ẩm bên ngoài nhưng nút buộc còn khá chắc.
+Nó luồn tay kéo gói đồ ra. Mặt nilon lạnh và hơi ẩm, nhưng lớp buộc vẫn chắc, không mục như thứ đã nằm trong tường nhiều năm. Quỳnh mở lớp ngoài. Bên trong là một chiếc điện thoại nắp gập màu bạc, màn hình nhỏ phía trước trầy xước, và một nửa tấm ảnh cũ bị xé gần như thẳng từ trên xuống.
 
-Nó mở lớp thứ nhất.
-
-Bên trong có một chiếc điện thoại nắp gập cũ màu bạc, màn hình ngoài trầy xước.
-
-Và một nửa tấm ảnh.
-
-Quỳnh cầm tấm ảnh lên.
-
-Phần giấy bị xé gần như thẳng từ trên xuống dưới. Trong nửa còn lại là một cô gái mặc áo trắng, tóc dài, gương mặt rất trẻ. Quỳnh chưa từng gặp cô, nhưng nó biết ngay đó là ai.
+Trong phần ảnh còn lại là một cô gái mặc áo sáng màu, tóc dài, gương mặt rất trẻ. Quỳnh chưa từng gặp nhưng vẫn nhận ra ngay. Nó đã nghe cái tên ấy quá nhiều từ hôm qua.
 
 Trang.
 
-Ở mép bị xé, còn sót lại một phần vai áo màu sẫm của người đứng bên cạnh.
+Ở mép bị xé còn sót một phần vai áo sẫm màu của người đứng cạnh và góc bàn tay đàn ông đặt phía sau lưng cô. Chỉ là vài ngón tay và đoạn cổ tay, không đủ để nhận dạng ai. Vậy mà một cảm giác quen thuộc vẫn đập vào Quỳnh trước khi nó kịp lý giải.
 
-Và một góc bàn tay đàn ông đặt phía sau lưng cô.
+Cách bàn tay ấy đặt hờ sau vai người khác khiến nó nhớ tới một người.
 
-Quỳnh nhìn chằm chằm vào nó.
+Anh Quân.
 
-Một ý nghĩ bật lên quá nhanh khiến tay nó lạnh toát.
+Ý nghĩ đến nhanh tới mức Quỳnh lập tức thấy khó chịu với chính mình. Nó gập tấm ảnh lại, nhét vào túi quần gần như theo phản xạ.
 
-Nó từng nhìn thấy cách đặt tay ấy.
+Lan nhìn thấy.
 
-Không phải người trong ảnh.
+— Còn cái gì vậy?
 
-Chỉ là một thói quen rất quen.
+— Một mảnh ảnh.
 
-— Có gì? — Lan hỏi.
+— Cho tao coi.
 
-Quỳnh giật mình.
+Quỳnh im một giây quá lâu.
 
-Nó gập tấm ảnh lại, nhét vào túi quần nhanh hơn cả lúc kịp suy nghĩ.
+— Để lát đi. Tao muốn nhìn kỹ trước.
 
-— Điện thoại.
+Lan không thích câu trả lời ấy, điều đó hiện rõ ở đôi mắt gần như không chớp của nó. Nhưng cuối cùng nó chỉ nói:
 
-— Tao thấy còn cái gì nữa mà.
+— Được. Nhưng đừng tự nghĩ một mình rồi tự tin luôn cái mình nghĩ là thật.
 
-Quỳnh nhìn Lan.
+Câu nói khiến Quỳnh khựng lại. Nó không đáp, chỉ cầm chiếc điện thoại lên. Máy mở được nắp nhưng màn hình tối đen. Sau năm năm, nếu đây thật sự là đồ của Trang, viên pin bên trong đáng lẽ đã chết từ rất lâu.
 
-Lan cũng nhìn nó.
+Lan ngồi xuống bên cạnh, dùng đầu ngón tay chạm mép hốc tường.
 
-Hai đứa im vài giây.
+— Cái này mới bị mở gần đây.
 
-— Một mảnh giấy thôi. Ướt hết rồi.
+Quỳnh nhìn theo. Chân tường xung quanh ướt sẫm sau trận mưa đêm qua, rêu bám kín những khe gạch khác. Riêng mép viên vừa tháo có phần vữa khá sạch, không có rễ cỏ luồn qua. Gói nilon cũng chỉ ẩm bên ngoài chứ không dính lớp bùn cũ như Quỳnh tưởng.
 
-Lan không hỏi tiếp.
+Điều đó quan trọng hơn chiếc điện thoại.
 
-Nhưng ánh mắt nó nói rõ: tao biết mày đang giấu.
+Nếu gói đồ đã nằm đây từ năm 2007, nó trông không nên như vậy.
 
-Quỳnh cầm chiếc điện thoại lên.
+Nếu mới có người đặt vào, câu hỏi lại càng tệ hơn: ai biết đúng sáng nay Trâm sẽ dẫn họ tới chỗ này?
 
-Nắp máy mở được. Màn hình không sáng.
-
-Pin chắc đã chết từ đời nào.
-
-— Nếu đây thật sự là đồ của Trang thì sao nó nằm trong tường? — Lan hỏi.
-
-— Tao đang nghĩ cái đó.
-
-— Với lại...
-
-Lan cúi nhìn hốc tường.
-
-Quỳnh cũng nhìn theo.
-
-Đất trong hốc gần như khô.
-
-Ngoài trời vừa mưa suốt đêm.
-
-Phần chân tường xung quanh ướt sũng, rêu thẫm màu. Nhưng gói nilon không bị bùn bám nhiều. Mép gạch cũng không có rễ cỏ mọc phủ kín như mấy viên bên cạnh.
-
-Quỳnh không nói ra.
-
-Nó chỉ ghi nhớ.
+Quỳnh đặt viên gạch trở lại gần như cũ, giấu điện thoại trong túi áo rồi cùng Lan chạy xuống phòng y tế.
 
 ***
 
-Phòng y tế nằm ở dãy nhà hành chính, cách ký túc xá gần một trăm mét.
+Khi hai đứa tới nơi, Trâm đã tỉnh. Nó nằm trên chiếc giường sát cửa sổ, mặt nhợt nhưng thở đều. Cô y tế đang đo huyết áp lần hai, vừa làm vừa hỏi sáng có ăn gì không, trước đây từng co giật hay ngất chưa, trong nhà có ai mắc động kinh không.
 
-Khi Quỳnh và Lan tới, Trâm đã tỉnh.
+Hân kể đúng phần có thể kể được:
 
-Nó nằm trên giường, mặt trắng bệch. Cô y tế đo huyết áp, hỏi sáng ăn gì, có tiền sử co giật không. Trâm lắc đầu hết.
+— Tụi em đang nhổ cỏ thì Trâm tự nhiên đi lơ ngơ, gọi không nghe. Sau đó nó bóp cổ nó rồi người cứng lại. Tụi em kéo tay ra, nó mới xỉu.
 
-— Chắc tụt đường huyết với hoảng loạn thôi. — cô nói. — Trên cổ có mấy vết đỏ do tự bóp. Chiều nếu còn chóng mặt thì xuống lại.
+Cô y tế ngẩng lên ngay.
 
-Hân đã thống nhất trước câu chuyện.
+— Sao nãy cô hỏi mấy đứa không nói rõ đoạn co cứng?
 
-— Tụi em đang làm thì có con rắn bò ra, Trâm sợ quá xỉu.
+Thi gãi đầu.
 
-Cô y tế nhìn tám đứa.
+— Tụi em hoảng quá, nói lung tung hết cô.
 
-— Rắn gì?
+Cô không trách nữa. Cô kiểm tra đồng tử, hỏi Trâm biết mình đang ở đâu, hôm nay ngày mấy rồi dặn Hân nếu Trâm nôn, đau đầu tăng, lú lẫn hoặc co giật lại thì báo ngay để đưa xuống bệnh viện, không được chỉ cho nằm nghỉ trong phòng.
 
-Thi đáp ngay:
+— Trên cổ có vết do chính tay em siết. Chuyện này không nên coi nhẹ — cô nói với Trâm. — Cô chưa biết là tụt đường huyết, phản ứng hoảng loạn hay nguyên nhân khác. Trước mắt em nghỉ, uống nước, ăn chút gì. Chiều cô kiểm tra lại.
 
-— Rắn... màu nâu.
+Trâm gật đầu, giọng khàn nhẹ:
 
-Mai thêm:
+— Dạ.
 
-— Dài.
+Ra khỏi phòng y tế, cả nhóm tự nhiên im hơn hẳn lúc đi xuống. Trâm đi giữa Hân và Hương, bảo mình tự đi được nhưng Hân vẫn giữ khuỷu tay nó. Quỳnh chờ đến khi mấy đứa kia đi trước vài bước mới chậm lại ngang Trâm.
 
-Dung:
+— Mày nhớ lúc nãy không?
 
-— Rất dài.
+Trâm quay sang.
 
-Cô y tế nhíu mày.
+— Lúc nào?
 
-— Bao nhiêu?
+— Ở sau vườn. Mày bỏ chỗ làm rồi đi tới cây chôm chôm.
 
-Không đứa nào biết nên bịa tiếp thế nào.
+Trâm nhíu mày thật sự.
 
-Lan cứu cả nhóm:
+— Tao đang nhổ cỏ, sau đó tự nhiên đau đầu dữ lắm. Rồi… hết. Tao tỉnh ra đã thấy cô y tế.
 
-— Tụi em hoảng quá nên không nhìn kỹ cô.
-
-Cô thở dài.
-
-— Lần sau thấy rắn thì tránh xa, đừng bu lại. Mấy em cứ làm như đi xem hội.
-
-Ra khỏi phòng y tế, Thi mới thì thào:
-
-— Tao chưa bao giờ thấy nhóm tám đứa mà nói dối dở đồng đều như vậy.
-
-Không ai cười.
-
-Trâm đi giữa Hân và Hương, bước còn hơi yếu.
-
-Quỳnh chờ tới khi mấy đứa kia đi trước, mới chậm lại ngang Trâm.
-
-— Mày nhớ gì không?
-
-Trâm nhìn nó.
-
-— Nhớ gì?
-
-— Lúc ở gốc cây.
-
-— Tao đang nhổ cỏ. Sau đó... tự nhiên đầu đau lắm. Rồi tao tỉnh ở y tế.
-
-— Không nhớ mày đi tới bức tường?
+— Mày không nhớ bức tường?
 
 — Không.
 
-— Không nhớ nói gì với tao?
+— Không nhớ nói gì với tao luôn?
 
-Mặt Trâm đổi nhẹ.
+Trâm chậm lại rất nhẹ.
 
-Chỉ một thoáng.
-
-Nếu Quỳnh không nhìn thẳng có lẽ đã bỏ qua.
+Chỉ một nhịp. Nhưng Quỳnh thấy.
 
 — Tao nói gì?
 
-Quỳnh không trả lời ngay.
+Quỳnh nhìn xuống hai bàn tay nó. Móng vẫn sạch, chỉ có một vết xước nhỏ mới đỏ lên ở ngón trỏ. Nếu Trâm tự đào hay giấu gói đồ trong hốc tường từ trước, bàn tay này không cho thấy điều đó. Dĩ nhiên, nó vẫn có thể nhờ người khác, hoặc làm từ một thời điểm khác. Quỳnh ghét việc đầu mình đã bắt đầu tự dựng phương án như một người đang săn lời giải.
 
-Nó nhìn hai bàn tay Trâm.
+— Không có gì rõ hết — nó nói. — Mày nói linh tinh thôi.
 
-Móng tay vẫn sạch.
+Trâm thở ra, rất khẽ, như vừa được phép bỏ xuống thứ gì đó.
 
-Chỉ có một vết xước nhỏ ở ngón trỏ, không dính đất.
-
-— Không có gì.
-
-Trâm thở ra rất khẽ.
-
-Quỳnh nghe thấy.
+Quỳnh nghe thấy nhưng không hỏi thêm.
 
 ***
 
-Buổi trưa, cả phòng ăn cơm hộp mua ở căn tin rồi nằm nghỉ.
+Buổi trưa, cả phòng mua cơm hộp ở căn tin rồi kéo rèm nằm nghỉ. Căn phòng đầy tiếng quạt điện, tiếng thìa nhựa va vào hộp xốp và mùi nước mắm pha còn sót lại từ bữa ăn. Sau những gì xảy ra ngoài vườn, sự bình thường ấy có tác dụng kỳ lạ: chỉ cần Mai than miếng thịt mỏng quá hoặc Thi cằn nhằn cái quạt bàn quay mãi không tới chỗ mình, người ta gần như có thể tin buổi sáng chỉ là một cơn choáng của Trâm bị cả nhóm làm lớn chuyện.
 
-Quỳnh đau đầu nên về giường sớm.
+Quỳnh giấu chiếc điện thoại nắp gập xuống đáy vali, dưới mấy quyển vở, còn nửa tấm ảnh được kẹp vào giữa cuốn sách Văn. Nó chưa cho ai khác xem ngoài Lan. Không phải vì không tin bạn bè; Quỳnh chỉ sợ rằng nếu nói cái tên đang hiện trong đầu quá sớm, mọi người sẽ bắt đầu nhìn mọi dữ kiện mới theo đúng hướng đó.
 
-Nó nhét chiếc điện thoại cũ vào đáy vali, dưới mấy quyển vở. Tấm ảnh được kẹp vào giữa cuốn sách Văn.
+Nó nằm nghiêng, mặt quay về bức tường cách chưa tới nửa mét. Đêm qua Quỳnh gần như không ngủ, nên dù đầu còn đầy suy nghĩ, chỉ một lúc sau mắt đã nặng xuống.
 
-Nó chưa cho ai xem.
+Không biết bao lâu trôi qua, Quỳnh mở mắt.
 
-Không phải vì không tin bạn bè. Nó chỉ muốn chắc rằng điều mình nghĩ không phải do quá ám ảnh câu chuyện của Như.
+Ánh trưa trong phòng vẫn mờ mờ sau rèm. Nó nhìn thấy Hân nằm ở giường đối diện, Thi quay lưng vào trong, chiếc quạt trần đứng im. Mọi thứ giống lúc trước khi ngủ, chỉ có một điều không đúng: Quỳnh không cử động được.
 
-Quỳnh nằm nghiêng, mắt nhìn bức tường cách mặt chưa tới nửa mét.
+Nó thử nhấc tay. Không nổi. Muốn gọi Lan nhưng môi không mở được. Càng cố hít sâu, ngực càng có cảm giác bị một vật nặng đè xuống.
 
-Một lúc sau nó ngủ thiếp.
+Ở cuối giường, một bóng người từ từ hiện ra trong vùng tối gần cửa nhà vệ sinh.
 
-Rồi tỉnh.
+Quỳnh không thấy bóng đó bước vào. Nó có cảm giác người ấy vốn đã đứng ở đó từ trước, chỉ tới lúc này mắt mình mới nhận ra: mái tóc dài rũ trước mặt, áo trắng nhạt, hai tay buông sát người. Bóng người dịch lại gần từng chút một trong khi toàn thân Quỳnh vẫn bị ghim xuống giường.
 
-Ít nhất nó nghĩ mình đã tỉnh.
+Nó cố co ngón tay, chỉ một ngón thôi cũng được. Không có gì nhúc nhích.
 
-Mắt mở được.
+Khi bàn tay trắng nhợt của người kia đưa lên ngang mặt, giọng Lan bỗng vang tới như từ rất xa:
 
-Nhưng người không cử động được.
+— Quỳnh. Quỳnh, dậy coi.
 
-Quỳnh nhìn thấy phòng 201 trong ánh trưa mờ mờ. Quạt trần đang đứng. Hân nằm đối diện. Thi quay mặt vào tường.
+Một cơn đau nhói xuất hiện ở bàn tay. Thế giới như bị giật mạnh trở lại vị trí cũ. Quỳnh bật người dậy, hút vào một hơi dài đến đau ngực.
 
-Nó muốn gọi.
+Lan đang ngồi cạnh giường, một tay giữ cổ tay nó, ngón cái bấm mạnh vào khe giữa ngón cái và ngón trỏ. Mấy đứa khác cũng đã thức, quay lại nhìn.
 
-Không phát ra tiếng.
+— Bị bóng đè hả? — Lan hỏi.
 
-Một sức nặng đè lên ngực.
+Quỳnh mất vài giây mới nói được.
 
-Rồi ở cuối giường, có một bóng người đứng lên.
+— Tao… không biết.
 
-Không phải từ cửa.
+Hân đưa chai nước. Quỳnh uống một ngụm rồi nhìn xuống cuối giường. Không có ai, chỉ có đôi dép của mình đặt lệch dưới đất và chiếc khăn tắm vắt ở thành giường.
 
-Nó giống như vốn đã ngồi ở đó từ trước.
+Lan vẫn nhìn nó.
 
-Tóc dài.
+— Mày thấy cái gì?
 
-Áo trắng.
+Quỳnh siết chai nước trong tay.
 
-Khuôn mặt chìm trong bóng tối.
+— Chắc mơ thôi. Tao không nhớ rõ.
 
-Bóng người bước tới.
-
-Quỳnh cố co ngón tay.
-
-Không được.
-
-Càng cố thở, ngực càng nặng.
-
-Một bàn tay lạnh đưa về phía mặt nó.
-
-Bỗng có tiếng Lan vang lên rất xa:
-
-— Quỳnh! Quỳnh!
-
-Một cơn đau nhói ở bàn tay.
-
-Quỳnh bật người dậy, hút mạnh một hơi.
-
-Lan đang ngồi bên giường, một tay giữ cổ tay nó, ngón cái bấm mạnh vào khe giữa ngón cái và ngón trỏ.
-
-— Mày bị bóng đè hả?
-
-Quỳnh thở dốc.
-
-— Tao... không biết.
-
-Mấy đứa còn lại cũng thức, bu lại.
-
-Hân đưa nước.
-
-— Mày giãy không được nhưng mặt đỏ lắm. Lan thấy trước.
-
-Lan hỏi:
-
-— Thấy gì?
-
-Quỳnh uống một ngụm.
-
-Nó nhìn cuối giường.
-
-Trống không.
-
-— Không thấy gì hết.
-
-Lần thứ hai trong ngày, Quỳnh nói dối.
-
-Lan không vạch ra.
+Đó là lần thứ hai trong ngày nó không nói hết sự thật với bạn mình. Lan nhận ra, Quỳnh biết chắc điều đó, nhưng nó không vạch ra trước mặt cả phòng.
 
 ***
 
-Chiều hôm ấy, cả phòng đi họp đầu năm.
+Chiều hôm ấy cả phòng có buổi họp đầu năm. Quỳnh lấy cớ còn đau đầu nên ở lại. Khi tiếng dép và tiếng nói của bảy đứa kia đã mất ở đầu hành lang, nó đóng cửa, kéo rèm bớt sáng rồi lấy nửa tấm ảnh khỏi cuốn sách Văn.
 
-Quỳnh lấy cớ còn đau đầu nên ở lại.
+Trang đứng ở bên trái, gương mặt hơi nghiêng và cười rất nhẹ. Người cạnh cô đã bị xé gần hết, chỉ còn một phần vai áo sẫm màu cùng góc bàn tay đặt sau lưng. Quỳnh mở điện thoại của mình, kéo xuống một bức ảnh chụp Tết năm ngoái. Trong ảnh, nó đứng giữa ba mẹ; phía sau, anh Quân cúi xuống trêu em gái và đặt một tay hờ lên vai nó.
 
-Khi tiếng dép cuối cùng biến mất ở đầu hành lang, nó khóa cửa phòng.
+Quỳnh đặt hai hình cạnh nhau.
 
-Kéo rèm.
+Giống.
 
-Lấy tấm ảnh ra.
+Không phải giống tới mức nhận dạng được người. Chỉ là một dáng đặt tay, cách ngón cái hơi tách khỏi bốn ngón còn lại, góc cổ tay. Một thói quen có thể có ở hàng trăm người. Nếu Quỳnh đưa thứ này cho Lan, chắc chắn Lan sẽ nói nó đang chọn phần giống rồi bỏ qua tất cả phần không biết.
 
-Ánh sáng từ cửa sổ xiên qua mặt giấy cũ.
+Nhưng ý nghĩ đã xuất hiện thì không dễ xóa.
 
-Trang đứng bên trái. Gương mặt hơi nghiêng, cười rất nhẹ. Bàn tay của người đàn ông bị xé mất gần hết, chỉ còn một phần ngón cái và cổ tay.
+Quân hơn Quỳnh năm tuổi. Năm 2007 anh cũng học lớp mười hai ở chính trường này. Trang có thai. Trang chết sau một cuộc hẹn trong đêm. Người đàn ông trong nửa ảnh có thể là Quân.
 
-Quỳnh mở điện thoại của mình.
+Từng dữ kiện riêng lẻ đều có thật. Cách Quỳnh vừa nối chúng lại thì chưa chắc.
 
-Tìm trong thư mục ảnh.
+Nó nhắm mắt, tự nói rất khẽ:
 
-Một bức hình chụp Tết năm ngoái hiện lên: Quỳnh đứng giữa ba và mẹ, phía sau là anh Quân đang cúi xuống trêu nó. Tay Quân đặt lên vai em gái.
+— Chưa biết gì hết.
 
-Cách gập ngón cái.
+Câu nói ấy không xóa được cảm giác nặng trong ngực, nhưng ít nhất chặn nó khỏi đi xa hơn. Quỳnh cất ảnh lại vào sách.
 
-Vị trí cổ tay.
-
-Rất giống.
-
-Quỳnh đặt hai tấm cạnh nhau.
-
-Tim nó đập nhanh.
-
-Nó ghét chính mình vì ý nghĩ đang xuất hiện.
-
-Anh Quân từng học ở đây.
-
-Anh hơn nó năm tuổi.
-
-Năm 2007, anh học lớp mười hai.
-
-Nếu người bên cạnh Trang trong bức ảnh là Quân...
-
-Nếu Trang mang thai...
-
-Nếu cô chết sau cuộc hẹn lúc ba giờ sáng...
-
-Quỳnh nhắm mắt.
-
-— Không.
-
-Nó nói thành tiếng như để tự cắt đứt chuỗi suy luận.
-
-Một bức ảnh bị xé không chứng minh được gì.
-
-Thậm chí phần bàn tay có thể thuộc về bất kỳ ai.
-
-Quỳnh cất ảnh lại.
-
-Ngay lúc ấy, từ đáy vali vang lên một tiếng rất nhỏ.
+Ngay lúc đó, từ đáy vali vang lên một tiếng điện tử rất nhỏ.
 
 Tít.
 
-Quỳnh đứng im.
+Quỳnh ngẩng phắt đầu.
 
-Chiếc điện thoại nắp gập đã nằm chết cứng năm năm.
+Căn phòng vẫn im. Nó nhìn vali vài giây rồi tự thấy mình buồn cười. Chiếc điện thoại nắp gập kia nếu đúng là đồ từ năm 2007 thì pin đã chết từ đời nào; có thể âm thanh vừa rồi từ điện thoại của phòng bên hoặc máy ai đó ngoài hành lang.
 
-Nó chậm rãi kéo vali ra.
+Dù vậy, Quỳnh vẫn kéo vali ra, mở khóa, lật mấy lớp quần áo rồi lấy chiếc máy cũ lên.
 
-Mở khóa.
+Màn hình tối đen.
 
-Lật quần áo.
+Nó bấm thử nút nguồn. Không phản ứng.
 
-Chiếc điện thoại vẫn tối đen.
+Quỳnh bật cười một mình, tiếng cười hơi khô.
 
-Quỳnh cầm lên.
+— Mày hết cứu rồi, Quỳnh ơi.
 
-Không có gì.
+Nó vừa định đặt chiếc máy xuống thì màn hình ngoài bỗng sáng lên.
 
-Nó bật cười một mình, hơi gượng.
+Chỉ đúng một giây.
 
-— Điên rồi.
-
-Rồi màn hình ngoài của chiếc điện thoại sáng lên đúng một giây.
-
-Không hiện số.
-
-Chỉ hiện thời gian:
+Không tên người gọi, không số điện thoại, không biểu tượng pin. Trên nền sáng nhợt chỉ có bốn con số:
 
 03:07.
 
-Dù lúc đó đồng hồ trên điện thoại Quỳnh đang là 16:42.
+Rồi màn hình tắt lại.
+
+Quỳnh đứng yên, chiếc điện thoại cũ lạnh trong lòng bàn tay. Trên máy của nó, giờ hiện tại là 16:42.
