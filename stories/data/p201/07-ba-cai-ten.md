@@ -1,466 +1,318 @@
-Buổi chiều ngày 6 tháng 9, Quỳnh lần đầu tiên nhìn ba cái tên nằm cạnh nhau trên cùng một trang giấy.
+Chiều ngày 6 tháng 9, Quỳnh nhìn thấy ba cái tên nằm gần nhau trong một hoàn cảnh chẳng có gì bí hiểm.
 
-Không phải trong hồ sơ công an.
-
-Không phải trên một bức thư bí mật.
-
-Chỉ là danh sách đăng ký mượn phòng sinh hoạt chung của ký túc xá.
-
-Phòng 203 tổ chức tập văn nghệ cho đêm Trung thu. Như là người đăng ký. Trâm từ 201 ký tên phụ trách mượn loa vì “biết chỉnh âm thanh”. Quỳnh đi cùng Hân xuống trả chìa khóa, đứng chờ ở bàn cô quản sinh và vô tình nhìn thấy.
+Phòng 203 đăng ký mượn phòng sinh hoạt chung để tập văn nghệ Trung thu. Như đứng tên người phụ trách, còn Trâm ký thêm ở dòng mượn loa vì nó biết chỉnh âm thanh. Quỳnh đi với Hân xuống trả chìa khóa, đứng chờ trước bàn cô quản sinh và vô tình đọc được tờ giấy.
 
 Nguyễn Hoàng Bảo Trâm.
 
-Tên đầy đủ của Trâm.
-
-Quỳnh biết tên này từ đầu năm, nhưng chưa bao giờ đặt nó cạnh một cái tên khác.
+Quỳnh biết tên đầy đủ của Trâm từ đầu năm. Chỉ là đến lúc ấy, hai chữ đầu tiên mới va vào một cái tên khác trong đầu nó.
 
 Nguyễn Hoàng Thanh Tùng.
 
-Nó đứng im.
+Nó đứng yên hơi lâu. Hân đi được mấy bước mới quay lại.
 
-Hân đi được vài bước mới quay lại.
+— Gì vậy?
 
-— Sao vậy?
+Quỳnh chỉ vào tờ đăng ký.
 
-Quỳnh chỉ nhìn tờ giấy.
+— Anh trai Trâm tên gì mày biết không?
 
-Không nói ngay.
+Hân nhíu mày nhớ.
 
-Hai chữ “Nguyễn Hoàng” không phải bằng chứng.
+— Không. Tao chỉ nhớ nó nói nhà có hai anh em thôi. Sao?
 
-Có người trùng họ.
+Quỳnh đọc tên Trâm một lần nữa. Hai chữ “Nguyễn Hoàng” có thể chẳng nói lên gì cả; trùng họ, họ kép, họ hàng xa, đủ kiểu. Nhưng sau mấy ngày liên tục bị dẫn qua những chi tiết được đặt đúng chỗ cho mình nhìn thấy, nó không còn muốn bỏ qua trùng hợp, cũng không muốn biến trùng hợp thành kết luận.
 
-Có người dùng họ kép.
+— Tao nghĩ có khi anh nó là Tùng.
 
-Nhưng sau gần một tuần sống với những thứ cố tình được đặt đúng chỗ để mình nhìn thấy, Quỳnh bắt đầu học một thói quen mới: không bỏ qua trùng hợp, cũng không tôn trùng hợp thành sự thật.
+Hân khựng lại.
 
-— Hân. — nó nói. — Mày có biết anh trai Trâm tên gì không?
+— Anh Tùng hôm qua hả?
 
-— Không.
+— Ừ. Nhưng mới là đoán.
 
-— Nó có anh trai đúng không?
+Hân nhìn nó vài giây rồi nói:
 
-Hân nghĩ.
+— Vậy hỏi nó đi.
 
-— Hình như có. Hôm khai thông tin đầu năm nó nói nhà có hai anh em.
+— Hỏi thẳng luôn?
 
-Quỳnh quay lại nhìn tờ đăng ký.
+— Chứ mày tính điều tra gia phả nhà người ta tới bao giờ? Nếu không phải thì xin lỗi rồi thôi. Nếu đúng, ít nhất tụi mình khỏi ngồi đoán.
 
-Hân hiểu chậm hơn một nhịp.
-
-— Khoan.
-
-— Ừ.
-
-— Tùng?
-
-— Chưa biết.
-
-— Hỏi thẳng.
-
-Quỳnh nhìn nó.
-
-— Hỏi thẳng thì nếu đúng, nó biết mình đang nghi.
-
-Hân khoanh tay.
-
-— Và nếu nó vô tội, tụi mình tiếp tục lén điều tra bạn cùng phòng như mấy đứa thần kinh.
-
-Quỳnh không đáp.
-
-Hân nói đúng.
-
-Có những lúc cách thông minh nhất không phải mưu mẹo.
-
-Là hỏi.
+Quỳnh bật cười rất khẽ. Có những lúc người thông minh nhất trong phòng không phải đứa nghĩ ra một cái bẫy, mà là đứa nhắc cả bọn rằng vẫn còn cách hỏi người ta bằng miệng.
 
 ***
 
-Trâm đang ngồi một mình ở cuối hành lang khi Quỳnh tìm thấy.
+Trâm ngồi một mình ở cuối hành lang khi Quỳnh tìm thấy nó. Trời đã âm lại từ lúc ba giờ chiều; gió mang mùi mưa từ phía xa thổi qua dãy phòng. Trâm ngồi trên bệ cửa sổ, một chân co lên, tai nghe cắm một bên nhưng Quỳnh đi tới gần mới nhận ra điện thoại không hề phát nhạc.
 
-Trời về chiều lại âm u. Nắng buổi sáng mất từ lúc ba giờ, gió thổi qua lan can mang theo mùi mưa từ phía xa. Trâm ngồi trên bệ cửa sổ, một chân co lên, tai nghe cắm một bên nhưng không bật nhạc.
+Nó ngồi xuống cách Trâm một khoảng.
 
-Quỳnh ngồi xuống cách nó một khoảng.
+Trâm vẫn nhìn ra sân.
 
-Trâm không nhìn sang.
+— Nếu tới xin lỗi vụ cái hộp thì thôi, tao nghe rồi.
 
-— Nếu tới xin lỗi vụ cái hộp thì khỏi.
+— Tao không tới vì cái hộp.
 
-— Tao không tới xin lỗi.
+— Biết ngay mà.
 
-— Biết ngay.
+Quỳnh không vòng vo nữa.
 
 — Anh trai mày tên Tùng hả?
 
-Trâm quay đầu.
+Trâm quay đầu lại. Không giật mình, không đánh rơi gì, chỉ có một khoảng dừng rất nhỏ trên mặt. Quỳnh thấy rõ nó đang cân nhắc có nên nói dối hay không.
 
-Không có kiểu giật mình kịch tính.
+Trâm tháo tai nghe xuống.
 
-Chỉ có một khoảng trống rất ngắn trên mặt, như người ta đang lựa giữa nói dối và thôi không nói dối nữa.
+— Ai nói mày?
 
-Nó tháo tai nghe.
-
-— Ai nói?
-
-— Không ai. Tao nhìn tên mày rồi nhớ tên ảnh.
+— Không ai. Tao thấy tên đầy đủ của mày ở chỗ đăng ký mượn loa rồi nhớ tới tên anh Tùng.
 
 Trâm cười khô.
 
-— Hai chữ họ mà cũng suy ra.
+— Hai chữ họ mà mày cũng nối được.
 
-— Vậy tao suy sai?
+— Vậy tao nối sai không?
 
-Trâm nhìn ra sân.
-
-Gió thổi tóc nó dính vào má.
+Gió hất một lọn tóc dính lên má Trâm. Nó đưa tay gạt đi, mắt quay lại sân.
 
 — Không.
 
-Quỳnh không nói ngay.
-
-Dù đã đoán, nghe xác nhận vẫn làm bụng nó lạnh xuống.
+Dù đã đoán, Quỳnh vẫn thấy bụng mình lạnh xuống khi nghe câu xác nhận.
 
 — Nguyễn Hoàng Thanh Tùng là anh ruột mày?
 
 — Ừ.
 
-— Tại sao mày giấu?
+Quỳnh im vài giây rồi hỏi:
 
-— Tao có giấu đâu. Tụi mày có hỏi bao giờ?
+— Sao mày không nói từ đầu?
 
-Câu đó đúng một nửa.
+Trâm quay phắt sang.
 
-Quỳnh hỏi:
+— Từ đầu là lúc nào? Có ai hỏi tao đâu.
 
-— Hôm đầu chị Như kể chuyện Trang, mày biết anh mày từng quen chị ấy không?
+— Hôm chị Như kể chuyện Trang. Mày biết anh mày từng chơi thân với anh Quân, biết ảnh từng bị công an hỏi…
 
-— Biết.
+— Thì sao? — Trâm cắt ngang. — Anh tao có làm gì đâu mà tự nhiên tao phải đứng lên nói “à, tiện thể đây là anh ruột tao”?
 
-— Biết anh mày là bạn thân anh Quân?
+Giọng nó cao hơn bình thường. Hai đứa học sinh đi ngang ngoài hành lang nhìn sang rồi lại bước tiếp.
 
-— Biết.
+Quỳnh cố giữ giọng mình không cao theo.
 
-— Biết ảnh từng được công an lấy lời khai?
+— Tao chưa nói ảnh làm gì. Tao chỉ muốn biết tại sao mày cứ né mỗi lần tụi tao nhắc ảnh.
 
-Trâm quay sang.
+— Vì mấy ngày nay tụi mày nhìn tao như tao giấu bom trong giường vậy đó.
 
-— Cái đó thì cả nhà tao biết.
+Trâm đứng dậy. Hai tay nó khoanh trước ngực nhưng ngón cái vẫn vô thức cào lên móng trỏ.
 
-— Vậy lúc nghe tao nói người trong ảnh có thể là anh Quân, tại sao mày không nói anh Tùng cũng ở trong nhóm đó?
+— Tao xỉu ở gốc cây thì tụi mày nghi. Tao ở lại phòng thì cái hộp bị mở, tụi mày cũng nghi. Tao quen chị Như, lại nghi. Giờ biết anh tao là Tùng thì chắc đủ bộ luôn rồi ha?
 
-— Vì anh Tùng có làm gì đâu.
+Quỳnh nghe ra trong đó không chỉ có tức. Trâm đã bị cả phòng quan sát từng cái nhíu mày suốt gần một tuần, mà chính nó lại không thể kể vì sao.
 
-Giọng Trâm cao hơn.
+— Tao xin lỗi vụ đó. Nhưng tao với Lan nhìn thấy mày nói chuyện với người mặc áo mưa ngoài cây. Mày còn nhận tin nhắn trong lớp rồi xóa. Tao không thể coi như không thấy được.
 
-Quỳnh giữ giọng bình thường.
+Mặt Trâm cứng lại.
 
-— Tao chưa nói ảnh làm.
+— Tao nói rồi, đoạn ở ngoài cây tao không nhớ.
 
-— Nhưng mày đang nghĩ.
+— Còn tin nhắn?
 
-— Tao đang hỏi.
+Trâm im.
 
-Trâm đứng dậy.
-
-— Mày nghĩ tao không biết mấy ngày nay tụi mày nhìn tao kiểu gì hả? Tao xỉu ở gốc cây, tao không nhớ. Tao ở lại phòng thì cái hộp bị mở. Tao biết chị Như thì tụi mày nghi. Giờ tới anh tao.
-
-— Mày không nhớ thật chuyện ở gốc cây?
-
-Trâm nhìn nó.
-
-Mắt đỏ lên.
-
-— Không.
-
-— Tao với Lan thấy mày nói chuyện với một người mặc áo mưa.
-
-— Tao đã nói tao không nhớ.
-
-— Nhưng trước đó mày nhận tin nhắn trong lớp rồi xóa.
-
-Lần này Trâm im.
-
-Quỳnh biết mình chạm đúng chỗ.
-
-— Ai nhắn?
+— Ai nhắn mày?
 
 — Không liên quan.
 
-— Có liên quan nếu người đó hẹn mày ra sau ký túc lúc ba giờ sáng.
+— Nếu người đó hẹn mày ra sau ký túc lúc ba giờ sáng thì có liên quan.
 
-Trâm nghiến môi.
+— Tao nói không nhớ mà!
 
-Một giọt mưa đầu tiên rơi xuống lan can.
+Trâm bật lớn giọng. Nó lập tức nhìn quanh rồi hạ xuống, thở gấp hơn.
 
-Rồi thêm một giọt nữa.
+Quỳnh không ép thêm. Một lúc sau chính Trâm quay mặt đi và nói nhỏ:
 
-— Là anh Tùng. — nó nói.
+— Tin nhắn là anh Tùng.
 
-Quỳnh không cử động.
+— Ảnh nhắn gì?
 
-— Anh mày nhắn gì?
+— Hỏi tao mấy hôm nay có ổn không, có ai làm khó không. Vậy thôi.
 
-— Hỏi tao mấy hôm nay có ổn không.
+— Sao mày xóa?
 
-— Tin nhắn đó thôi?
+Trâm cười buồn.
 
-— Ừ.
+— Vì tao biết kiểu gì tụi mày thấy tên ảnh cũng hỏi. Y như bây giờ.
 
-— Vậy sao xóa?
-
-— Vì tao không muốn tụi mày thấy tên ảnh rồi hỏi như bây giờ.
-
-— Anh Tùng có hẹn mày ra cây không?
+— Ảnh có hẹn mày ra cây không?
 
 — Không.
 
-— Người áo mưa là ai?
+— Người áo mưa?
 
-— Tao không biết.
+— Tao thật sự không nhớ đoạn đó.
 
-— Nhưng mày nói chuyện với người đó.
+Quỳnh nhìn nó. Trâm cũng nhìn lại, mắt đỏ nhưng không tránh.
 
-— Tao không nhớ!
+— Mày tin hay không tùy — nó nói. — Tao chỉ nhớ đang nằm trong phòng. Sau đó đầu đau. Rồi tới lúc tỉnh ngoài đó. Còn giữa hai đoạn… không có gì hết.
 
-Trâm quát.
+Quỳnh không biết tin bao nhiêu. Nhưng lần này nó không hỏi tiếp về chuyện đó.
 
-Hai đứa học sinh ở cuối hành lang nhìn lại.
-
-Trâm hạ giọng, hai tay nắm chặt.
-
-— Tao chỉ nhớ đang nằm. Sau đó tỉnh ở ngoài cây. Mày tin hay không tùy.
-
-Nó quay đi.
-
-Quỳnh gọi:
-
-— Trâm.
-
-Trâm dừng.
+Nó chỉ còn một câu.
 
 — Chị Như là gì của anh Tùng?
 
-Vai Trâm cứng lại.
+Vai Trâm khựng lại.
 
-Một giây đó đủ trả lời trước cả miệng.
+Câu trả lời đến sau một hơi thở.
 
 — Bạn gái.
 
-Quỳnh nhắm mắt một thoáng.
-
-Ba cái tên.
-
-Cuối cùng đã nối thành một đường.
+Ba cái tên cuối cùng đã nối với nhau.
 
 ***
 
-Hân nghe xong không nói câu “tao biết ngay”.
+Hân với Lan nghe xong không ai nói “tao biết ngay”. Quỳnh biết ơn chuyện đó.
 
-Lan cũng không.
+Ba đứa ngồi ở góc căn tin sau giờ học. Thi bị sai đi mua nước với lời hứa lát nữa sẽ kể hết, vừa đi vừa quay lại càm ràm:
 
-Đó là điều Quỳnh thích ở hai đứa này.
+— Lúc nào cũng tới đoạn hay là đuổi tao đi.
 
-Ba người ngồi ở căn tin sau giờ học, chọn bàn sát tường để không ai nghe. Thi bị đuổi đi mua ba chai nước với lời hứa “xong sẽ kể”, khiến nó vừa đi vừa lầm bầm phản đối chế độ phân biệt thông tin.
+— Đi mua ba chai thôi, có mất tích đâu — Hân nói.
 
-Quỳnh nói:
+Khi Thi đi đủ xa, Quỳnh mới kể lại cuộc nói chuyện.
 
 — Trâm là em ruột Tùng. Như là bạn gái Tùng.
 
-Hân gõ móng tay xuống bàn.
+Hân tựa khuỷu tay lên bàn.
 
-— Vậy Như không phải một chị khóa trên ngẫu nhiên.
+— Vậy ít nhất chị Như không phải tự nhiên đi ngang rồi thân với phòng mình.
 
-— Không.
+Lan gật.
 
-Lan hỏi:
+— Tùng có thể kể cho chị ấy chuyện P201 từ trước. Nhưng chuyện đó vẫn chưa chứng minh hai người dựng hết mọi thứ.
 
-— Trâm có nói tại sao Như biết phòng 201 từ trước không?
+— Điện thoại chắc chắn có người bỏ vào sau 2008 — Hân nói.
 
-— Không.
+— Ừ, nhưng Quyên trong gương thì sao? Cái thư Quỳnh tỉnh dậy cầm trong tay thì sao? Đừng gom hết chỉ vì mình vừa tìm được một mối nối đẹp.
 
-— Tùng có kể cho Như được. Hoặc Như tự tìm hiểu.
+Quỳnh nhìn chai nước Thi vừa mua về đang đọng hơi trên bàn bên cạnh.
 
-— Và điện thoại giả được đặt sau 2008. — Hân nói. — Tức một phần “vật chứng ma” chắc chắn do người sống làm.
+— Báo chú Phúc hết đi.
 
-Lan lắc đầu.
+Không ai phản đối.
 
-— Điện thoại là giả không có nghĩa mọi thứ là giả.
-
-Quỳnh nhớ Quyên trong gương.
-
-Nhớ lá thư trong tay sau giấc mơ.
-
-— Tao biết.
-
-Hân nhìn hai đứa.
-
-— Giờ báo chú Phúc hết.
-
-Quỳnh gật ngay.
-
-Không ai tranh luận chuyện tự điều tra tiếp.
-
-Đến đây đã có người lạ đột nhập, thư dọa, vật chứng giả, quan hệ bị giấu. Nó vượt quá chuyện tò mò của học sinh.
+Đến lúc này đã có người leo tường vào trường, có thuốc, có đồ giả, có quan hệ bị giấu và một người lạ chạm tới Trâm lúc nửa đêm. Nó không còn là chuyện tám đứa học sinh tự tò mò với nhau nữa.
 
 ***
 
-Ông Phúc nghe ba cái tên rồi lật hồ sơ cũ.
-
-Ông không ngạc nhiên chuyện Trâm là em Tùng.
+Ông Phúc nghe ba cái tên rồi mở lại hồ sơ cũ. Khi Quỳnh nói Trâm là em Tùng, ông chỉ gật.
 
 — Chú biết.
 
-Quỳnh ngẩn ra.
+Quỳnh hơi ngẩn ra.
 
-— Biết sao không nói tụi cháu?
+— Chú biết từ trước hả?
 
-— Vì thông tin gia đình người khác không phải thứ chú phát cho học sinh để các cháu tự điều tra.
+— Biết thông tin gia đình thôi. Nhưng đó không phải thứ chú đem kể cho các cháu để tự nghi bạn mình.
 
-Quỳnh cứng họng.
+Quỳnh nghẹn lời. Nghĩ lại, ông nói đúng.
 
-Ông nói tiếp:
-
-— Nhưng chuyện Như là bạn gái Tùng thì hồ sơ cũ không có. Hồi 2007 Như chưa học ở đây.
+— Còn Như là bạn gái Tùng thì hồ sơ năm 2007 không có — ông nói tiếp. — Khi đó Như chưa học ở trường này.
 
 Lan hỏi:
 
-— Chú có thể điều tra họ không?
+— Giờ mình có đủ để kiểm tra hai người đó kỹ hơn chưa chú?
 
-— Có căn cứ nào thì làm căn cứ đó. Không ai bị coi là phạm tội chỉ vì yêu một người từng bị lấy lời khai năm năm trước.
+— Những gì liên quan chiếc điện thoại, cuốn sổ, người đột nhập thì đang kiểm tra. Còn chuyện yêu ai, là em ai thì tự nó không phải căn cứ buộc người ta phạm tội.
 
-— Còn điện thoại giả?
+— Nhật ký sao rồi chú?
 
-— Đang giám định.
+— Có dấu hiệu bị thêm chữ sau này. Bên kỹ thuật đang so với mẫu chữ Trang còn lưu trong hồ sơ học tập.
 
-— Nhật ký?
+Quỳnh hỏi tới lá thư vàng. Ông Phúc nói giấy và mực có vẻ cũ, nhưng chưa thể kết luận chính xác tuổi chỉ bằng nhìn ngoài. Dấu tay trên đó lẫn quá nhiều vì vật đã qua tay vài người.
 
-Ông Phúc dựa lưng vào ghế.
+Thấy Quỳnh thất vọng, ông nói:
 
-— Có dấu hiệu bị thêm chữ vào sau. Kỹ thuật đang so sánh với mẫu chữ Trang từ hồ sơ học tập cũ.
+— Vụ thật thường vậy đó. Mang mười thứ đi kiểm tra, có khi chín thứ chỉ trả về “chưa đủ”. Không phải cứ tìm được đồ là nó sẽ kể hết câu chuyện cho mình.
 
-Quỳnh hỏi:
+Lan khẽ cười.
 
-— Lá thư em cầm sau khi ngủ?
+— Cháu bắt đầu thích cách chú làm việc rồi đó.
 
-— Giấy cũ. Mực cũng không mới.
+Ông Phúc ngước lên khỏi hồ sơ.
 
-— Bao nhiêu năm?
+— Chú có con gái bằng tuổi cháu. Nghe câu đó tự nhiên chú hơi lo.
 
-— Không xác định chính xác bằng mắt. Phải chờ.
+Hân bật cười. Quỳnh cũng không nhịn được.
 
-— Có dấu tay?
+Ông Phúc để chúng cười một lúc rồi mới trở lại giọng nghiêm túc.
 
-— Nhiều, vì vật được cầm qua. Chưa có kết quả hữu ích.
-
-Quỳnh thất vọng.
-
-Ông Phúc nhìn nó.
-
-— Điều tra thật thường như vậy. Mười thứ đem đi, chín thứ không cho câu trả lời rõ.
-
-— Còn thứ thứ mười?
-
-— Có khi cho câu trả lời sai nếu mình muốn tin quá sớm.
-
-Lan cười.
-
-— Cháu thích chú rồi đó.
-
-Ông Phúc nhìn nó.
-
-— Chú có con gái bằng tuổi cháu. Câu đó làm chú hơi lo.
-
-Hân bật cười thành tiếng.
-
-Ngay cả Quỳnh cũng cười.
-
-Không khí bớt căng được một chút.
-
-Sau đó ông Phúc nghiêm lại.
-
-— Từ tối nay, chú cho người mặc thường phục trực gần khu ký túc vài hôm. Không phải để bắt ma. Để xem có người nào tiếp tục ra vào bất thường. Các cháu tuyệt đối không diễn trò dụ ai ra nữa.
-
-Quỳnh gật.
+— Mấy hôm tới sẽ có người trực quanh khu ký túc, mặc thường phục. Các cháu đừng tìm xem họ là ai, cũng đừng tự bày thêm chuyện để dụ người lạ ra. Có gì thì gọi.
 
 — Dạ.
 
-Nó gật thật.
+Quỳnh gật thật lòng.
 
-Ít nhất lúc đó.
+Ít nhất lúc đó nó nghĩ mình sẽ làm được như vậy.
 
 ***
 
-Tối ngày 7 tháng 9, Trâm không về phòng ăn cơm.
+Tối ngày 7 tháng 9, Trâm không về ăn cơm.
 
-Hương nhắn hai lần không thấy trả lời.
+Ban đầu chẳng ai quá lo. Nó vẫn còn giận cả phòng, có thể sang 203 hoặc đi cùng anh trai. Nhưng Hương nhắn hai lần không thấy trả lời, tới tám giờ Hân gọi thì máy đã tắt.
 
-Đến tám giờ, Hân gọi.
+Mai ngồi xếp sách, vừa nhìn đồng hồ vừa nói:
 
-Máy tắt.
+— Chắc nó đi đâu cho khuây thôi. Mấy bữa nay ai nhìn nó nó cũng bực mà.
 
-Quỳnh bắt đầu đứng ngồi không yên.
+Giọng Mai nghe như đang nói để trấn an chính mình.
 
-— Nó giận tụi mình nên đi đâu thôi. — Mai nói, nhưng giọng không chắc.
-
-Chín giờ, cô quản sinh lên hỏi.
-
-Trâm đã xin phép ra ngoài từ chiều với lý do gặp anh trai, có ký sổ cổng.
-
-Tên người đón:
+Chín giờ, cô quản sinh lên hỏi. Trâm đã xin phép ra ngoài từ chiều, có ký sổ cổng với lý do gặp anh trai. Dòng tên người đón khiến cả phòng im đi.
 
 Nguyễn Hoàng Thanh Tùng.
 
 Quỳnh gọi Quân.
 
-— Anh đang ở đâu?
+— Anh đang đâu?
 
-— Xưởng. Gì?
+— Ở xưởng. Có chuyện gì?
 
-— Trâm đi với Tùng từ chiều, chưa về.
+— Trâm đi với Tùng từ chiều, giờ chưa về. Điện thoại tắt luôn rồi.
 
-Quân im một chút.
+Quân im vài giây.
 
-— Anh gọi nó.
+— Để anh gọi nó.
 
-Năm phút sau Quân gọi lại.
+Năm phút sau anh gọi lại.
 
-— Tùng không bắt máy.
+— Tùng cũng không bắt máy.
 
-— Anh có biết nhà ảnh không?
+— Anh biết nhà ảnh chứ?
 
 — Biết.
 
-— Đừng đi một mình.
+— Đừng tự đi một mình nha anh.
 
-Quân cười khẽ.
+Quân cười rất khẽ ở đầu dây.
 
-— Em bắt đầu biết nói câu đó rồi ha.
+— Giờ biết dặn anh rồi ha.
 
-— Em nghiêm túc.
+— Em nói thiệt đó.
 
-— Anh cũng vậy. Anh báo anh Phúc trước.
+— Anh biết. Anh gọi anh Phúc trước, rồi mới tính.
 
-Quỳnh thấy nhẹ đi vì anh nghĩ giống mình.
+Quỳnh nghe vậy mới thở ra.
 
-Mười giờ mười bảy, Trâm quay lại.
+Mười giờ mười bảy, Trâm tự đi bộ từ cổng vào.
 
-Nó đi bộ từ cổng vào.
-
-Áo không ướt.
-
-Tóc hơi rối.
-
-Một vết bầm nhỏ xuất hiện ở cổ tay trái.
-
-Hân nhìn thấy trước.
+Áo nó khô, tóc chỉ hơi rối, nhưng cổ tay trái có một vết bầm tím mới. Hân nhìn thấy ngay khi Trâm đưa tay đóng cửa.
 
 — Tay mày sao vậy?
 
 Trâm kéo tay áo xuống.
 
-— Va xe.
+— Lúc đi xe va đâu đó thôi.
 
-— Đi với anh Tùng?
+— Đi với anh Tùng hả?
 
 — Ừ.
 
@@ -468,38 +320,24 @@ Trâm kéo tay áo xuống.
 
 — Hết pin.
 
-Thi đang ngồi bó gối trên giường, nhìn từ đầu tới chân Trâm.
+Không ai tin hoàn toàn, nhưng cách cả phòng im lặng làm Trâm càng căng hơn. Thi là đứa duy nhất không hỏi thêm. Nó ngồi trên giường, nhìn Trâm một lúc rồi nói:
 
-— Mày ổn không?
+— Mày có sao không?
 
-Trâm quay sang nó.
+Câu hỏi không có ý điều tra. Mặt Trâm mềm đi một chút.
 
-Có lẽ vì câu hỏi không mang mùi điều tra, mặt Trâm mềm đi một chút.
+— Không sao. Tao mệt thôi.
 
-— Ừ.
+Nó trèo lên giường. Quỳnh để nó yên.
 
-Nó leo lên giường.
+Gần nửa tiếng sau, lúc cả phòng chuẩn bị tắt đèn, một mảnh giấy nhỏ từ tầng trên rơi xuống ngay cạnh gối Quỳnh.
 
-Quỳnh không hỏi thêm.
+Đó là mặt trong của một mảnh bao thuốc lá bị xé, chữ bút chì viết gấp chỉ có bốn từ:
 
-Nửa tiếng sau, khi mọi người chuẩn bị ngủ, một mảnh giấy nhỏ rơi từ giường trên xuống ngay trước mặt Quỳnh.
+**Đừng ăn đồ Như.**
 
-Không phải thư.
+Quỳnh ngẩng lên. Rèm giường Trâm đã kéo kín.
 
-Là một mảnh bao thuốc lá bị xé, mặt trong viết bằng bút chì.
+Nó không biết đó là lời cảnh báo thật hay thêm một lần ai đó muốn dẫn mình nhìn sang một hướng khác. Nhưng sau những gì vừa xảy ra, Quỳnh không còn giữ manh mối một mình nữa.
 
-Chỉ có bốn chữ:
-
-“Đừng ăn đồ Như.”
-
-Quỳnh ngẩng lên.
-
-Rèm giường Trâm đã kéo kín.
-
-Nó không biết mảnh giấy là lời cảnh báo.
-
-Hay một cách khác để dẫn mình đi theo hướng người khác muốn.
-
-Nhưng lần này Quỳnh không giữ riêng.
-
-Nó đưa ngay cho Hân và Lan.
+Nó xuống giường, đưa mảnh giấy cho Hân và Lan ngay trong đêm.
