@@ -1,515 +1,357 @@
 Tôi quay lại.
 
-Đến giờ nghĩ lại tôi vẫn thấy quyết định đó hơi ngu, nhưng là kiểu ngu mà nếu không làm thì chắc cả đời tôi sẽ nhớ mặt ông Tài nằm giữa đường rồi tự hỏi mình đã bỏ một người sống cho thứ gì đó ăn chỉ vì sợ.
+Đến giờ nghĩ lại tôi vẫn thấy đó là một quyết định khá ngu. Nhưng nếu hôm ấy cứ chạy, có lẽ về sau mỗi lần nhớ tới ông Tài tôi sẽ phải tự hỏi mình đã bỏ một người còn sống nằm giữa đường chỉ vì sợ hay chưa.
 
-Tôi không phải anh hùng.
-
-Lúc quay lại, hai chân tôi run thật. Tay cầm đèn pin cũng run. Tôi còn đứng cách chỗ ông Tài gần bốn mươi mét, núp sau một thân cây, rọi ánh sáng xuống đường như thằng ăn trộm soi nhà chủ.
+Tôi không phải anh hùng. Lúc quay trở lại, hai chân tôi run thật, tay cầm đèn pin cũng run. Tôi không dám lao thẳng tới mà vòng vào mép đường, núp sau một thân cây cách chỗ ông Tài gần bốn chục mét rồi rọi ánh sáng qua.
 
 Cái đầu vẫn ở đó.
 
-Nó nằm gần như áp lên mặt ông Tài.
+Nó hạ thấp tới mức tóc gần chạm mặt ông Tài. Chùm nội tạng phía dưới rải trên ngực và bụng ông, bóng ướt dưới ánh đèn. Cái lưỡi dài liếm từ cằm lên khóe miệng, để lại một lớp nhớt mỏng trên da.
 
-Tóc phủ hai bên má. Đám nội tạng bên dưới cổ rải dài trên ngực và bụng lão, bóng ướt dưới ánh đèn. Nó lè lưỡi liếm từ cằm lên môi ông Tài, chậm rãi đến phát ghê. Một lớp nhớt mỏng kéo theo trên da.
+Dạ dày tôi quặn lại, nhưng rồi tôi thấy ngực ông Tài vẫn nhấp nhô.
 
-Tôi muốn nôn.
+Ông còn thở.
 
-Nhưng điều đáng sợ hơn là ông Tài còn thở.
-
-Ngực ông vẫn nhấp nhô.
+Tôi hít sâu, bước khỏi thân cây và hét:
 
 — Này!
 
-Tôi hét.
+Ngay lúc tiếng bật khỏi miệng, tôi đã muốn rút lại.
 
-Cái đầu dừng lại.
+Cái đầu dừng. Nó quay sang tôi chậm đến mức tôi nhìn rõ hai tròng mắt đỏ sẫm dưới lớp lòng trắng đục. Miệng há ra, một thứ dịch đen trào qua môi rồi nhỏ xuống áo ông Tài. Mùi thối theo gió tạt tới, tôi phải quay mặt ho.
 
-Từ từ quay sang tôi.
+Nó bắt đầu nhấc cao hơn.
 
-Tôi lập tức hối hận vì đã gây chú ý.
+Tôi lùi một bước, tay quờ quanh đất tìm thứ gì có thể cầm được dù biết rất rõ một cục đá chắc chẳng giúp gì trước một cái đầu biết bay.
 
-Đôi mắt nó không còn trắng nữa. Dưới luồng đèn, hai tròng mắt đỏ sẫm như có máu tụ phía trong.
+Đúng lúc đó, từ phía sườn dốc bên trái vang lên tiếng người quát:
 
-Miệng nó mở ra.
+— Đứng đó!
 
-Một hỗn hợp đen sệt từ cổ họng trào ra, rơi xuống người ông Tài. Mùi thối theo gió tạt tới làm tôi khụy người ho.
+Một người đàn ông lao từ lối mòn xuống. Ông khoảng năm mươi, người gầy, tóc đã hoa râm, mặc áo chàm sẫm phủ ngoài sơ mi cũ. Trong tay ông là một thanh gỗ dài gần bằng cánh tay, trên thân buộc mấy sợi chỉ đỏ bạc màu.
 
-— Má ơi...
+Điều làm tôi chú ý không phải bộ đồ hay thanh gỗ, mà là ông không xông thẳng vào.
 
-Tôi lùi.
+Ông dừng cách thứ kia chừng ba mét, quan sát nó một nhịp. Sau này nhớ lại, tôi vẫn nghĩ đó là khoảnh khắc đầu tiên khiến mình tin ông Tích biết rõ hơn chúng tôi rất nhiều. Người hoảng thường làm ngay thứ đầu tiên nảy ra trong đầu. Người hiểu tình hình sẽ nhìn trước.
 
-Cái đầu nhấc cao hơn.
+Ông lấy từ túi áo một nắm gạo, rắc thành nửa vòng trên mặt đường rồi mở một bình kim loại nhỏ, đổ ít chất lỏng lên lòng bàn tay và quệt dọc thanh gỗ. Miệng ông đọc rất khẽ một đoạn tôi không nghe rõ.
 
-Tôi đang tính quay lại với kế hoạch chiến thuật “chạy tiếp” thì từ sườn dốc bên trái có tiếng người quát:
+Cái đầu phát ra âm thanh khàn đục rồi lao tới.
 
-— Đứng yên!
+Chùm nội tạng quất nhanh hơn tôi tưởng, quấn vào cánh tay và ngực ông Tích. Ông trượt chân trên nền ướt, ngã nghiêng xuống. Một cái hồ lô nhỏ văng khỏi thắt lưng, lăn tới gần chân tôi.
 
-Một bóng người lao xuống đường.
+— Cái bình! — ông hét. — Mở ra, ngậm một ngụm rồi phun vào mặt nó!
 
-Người đàn ông khoảng năm mươi, gầy, tóc đã hoa râm, mặc áo chàm sẫm bên ngoài sơ mi cũ. Trong tay ông là một thanh gỗ dài chừng cánh tay, không hẳn kiếm, trên thân buộc những sợi chỉ đỏ đã bạc màu.
+Tôi chộp lấy theo phản xạ. Lúc ấy không còn thời gian hỏi trong đó có gì, tôi bật nắp, ngậm một ngụm lớn rồi chạy lại gần.
 
-Ông không lao vào chém như phim.
+Vì hoảng, tôi nuốt mất gần nửa.
 
-Ông dừng cách cái đầu khoảng ba mét.
-
-Quan sát.
-
-Đó là chi tiết đầu tiên khiến tôi nhớ ông Tích về sau.
-
-Người thật sự biết mình đang làm gì thường không vội.
-
-Ông lấy từ túi áo một nắm gạo, rắc thành nửa vòng trên mặt đường trước chân. Sau đó mở một bình nhỏ bằng kim loại, đổ chất lỏng lên bàn tay rồi quệt dọc thanh gỗ.
-
-Miệng ông đọc rất nhỏ một đoạn gì tôi không hiểu.
-
-Cái đầu gầm lên.
-
-Nó lao tới.
-
-Bó ruột phía dưới vọt ra nhanh hơn tôi nghĩ, quấn lấy cánh tay và ngực ông.
-
-Ông Tích mất thăng bằng, trượt chân.
-
-— Cái bình! — ông hét về phía tôi.
-
-Một cái hồ lô nhỏ bị đá lăn trên mặt đường.
-
-Tôi chộp lấy.
-
-— Mở ra! Ngậm một ngụm! Phun vào mặt nó!
-
-Tôi không có thời gian hỏi thành phần, hạn sử dụng hay chứng nhận vệ sinh an toàn thực phẩm.
-
-Tôi bật nút, tu một ngụm.
-
-Vì hoảng quá, tôi uống hơi nhiều.
-
-Một nửa trôi thẳng xuống họng.
-
-Mặn.
-
-Khai.
-
-Ngai ngái.
-
-Não tôi kịp gửi một cảnh báo rất xấu nhưng lúc ấy cái đầu đã quay sang.
+Vị mặn, khai và ngai ngái trôi xuống cổ họng. Não tôi vừa kịp báo động thì cái đầu đã quay sang.
 
 Tôi phun hết phần còn lại.
 
-Phụt!
+Chất lỏng trúng thẳng mặt nó. Tiếng rú bật ra chói đến mức hai tai tôi ù đi. Một lớp khói trắng bốc lên ở chỗ nước bám vào da, cái đầu giật lùi, chùm ruột tuột khỏi người ông Tích.
 
-Chất lỏng bắn trúng mặt nó.
-
-Một tiếng rú chói tai xé không khí.
-
-Khói trắng bốc lên ở nơi nước chạm da. Cái đầu giật lùi, nội tạng tuột khỏi người ông Tích.
-
-Ông lăn sang một bên, chộp một gói vải đỏ dưới thắt lưng, hất thứ bột sẫm màu vào nó.
+Ông lăn sang bên, giật một gói vải nhỏ ở thắt lưng rồi hất thứ bột màu sẫm về phía nó.
 
 — Đi!
 
-Ông quát.
+Tiếng ông lần này không hướng về chúng tôi.
 
-Không phải quát chúng tôi.
+Cái đầu lơ lửng giữa đường. Trong một khoảnh khắc rất ngắn, vẻ hung dữ trên khuôn mặt ấy biến mất. Tôi không biết đó là thật hay do mình nhìn nhầm, nhưng nó giống một người vừa bị gọi đúng tên giữa lúc đang làm chuyện không nên làm.
 
-Quát nó.
+Rồi nó quay phắt, bay mất vào rừng.
 
-Cái đầu lơ lửng giữa đường.
+Ông Tích không đuổi. Ông chỉ đứng nhìn về hướng cây cối rung lên một lúc rồi mới cúi xuống kiểm tra ông Tài.
 
-Trong một giây rất ngắn, tôi thề rằng vẻ mặt kinh dị ấy thay đổi.
+Tôi vẫn cầm cái hồ lô, hỏi:
 
-Không còn đói.
+— Bác không... giữ nó lại hả?
 
-Không còn dữ.
+Ông liếc tôi.
 
-Nó nhìn ông Tích như một đứa trẻ bị cha bắt gặp làm điều sai.
+— Cậu muốn giữ thì chạy theo đi.
 
-Rồi quay đầu bay vụt vào rừng.
+— Dạ thôi. Con hỏi vậy thôi.
 
-Tôi đứng đơ.
+Ông Tích mở mi mắt ông Tài, bắt mạch rồi ấn mạnh vào vùng nhân trung. Chừng nửa phút sau, ông Tài ho sặc, người co lại rồi mở mắt.
 
-Ông Tích không đuổi theo.
+Ông nhìn quanh một vòng, nhận ra tôi thì chộp lấy cánh tay.
 
-Ông chỉ nhìn hướng nó biến mất rất lâu.
+— Nó đâu rồi?
 
-— Chú... không bắt nó hả?
+— Đi rồi. Chú nằm yên chút đi.
 
-Ông quay sang tôi.
+— Tôi tưởng chết rồi chứ.
 
-— Cậu muốn bắt thì đi.
+— Con cũng tưởng.
 
-— Dạ thôi. Con hỏi xã giao.
+Nói tới đó, cái vị còn dính trong miệng chợt quay trở lại rõ đến mức tôi rùng mình. Tôi nhìn cái hồ lô đang cầm.
 
-Ông đến kiểm tra ông Tài. Mở mi mắt, sờ mạch, rồi bấm mạnh huyệt nhân trung. Chừng nửa phút sau ông Tài ho sặc, mở mắt.
+— Bác ơi, trong này là nước gì vậy?
 
-Việc đầu tiên lão làm là nhìn quanh.
+Ông Tích đang nhặt lại đồ, đáp rất bình thường:
 
-Việc thứ hai là ôm lấy tôi.
+— Nước tiểu trẻ con, pha muối với mấy thứ thuốc.
 
-— Còn sống rồi!
+Tôi tưởng mình nghe sai.
 
-— Chú buông con ra, con cũng đang muốn sống.
+— Khoan. Bác nói cái gì?
 
-Khi chắc ông Tài chỉ ngất chứ không bị thương nặng, tôi mới nhớ tới cái vị trong miệng.
+Ông ngẩng lên.
 
-Tôi nhìn cái hồ lô.
+— Nước tiểu trẻ con.
 
-— Bác ơi.
+— Cái con vừa ngậm đó hả?
 
-— Gì?
+— Ừ.
 
-— Nước này là nước gì vậy?
+Tôi im mất vài giây.
 
-Ông Tích đang nhặt mấy hạt gạo trên đường, đáp tỉnh bơ:
-
-— Nước tiểu trẻ con, pha muối và mấy thứ thuốc.
-
-Tôi ngồi xuống ngay tại chỗ.
-
-— Bác nói cái gì?
+Ông Tích nhìn cái hồ lô rồi nhìn mặt tôi.
 
 — Cậu nuốt à?
 
-Tôi nhìn ông.
+— Con nuốt một ít.
 
-Ông nhìn tôi.
+Ông Tài vừa tỉnh cũng bật cười đến ho.
 
-Ông Tài đang yếu cũng bật cười.
+Tôi lôi chai nước lọc khỏi ba lô, súc miệng liên tục. Ông Tích nói phía sau:
 
-Tôi muốn khóc.
+— Không sao đâu, không chết được.
 
-— Con nuốt nửa ngụm.
+Tôi nhổ nước sang bên.
 
-Ông Tích nhún vai.
+— Bác ơi, giờ con chưa lo chuyện chết.
 
-— Không chết đâu.
-
-— Vấn đề không phải chết hay không bác ơi!
-
-Tôi móc chai nước lọc súc miệng ba lần. Nếu lúc đó có Listerine tôi sẽ súc luôn cả linh hồn.
+Đấy là câu cuối cùng tôi còn đủ sức đùa trong gần một tiếng sau đó.
 
 ***
 
-Người đàn ông tên Hoàng Văn Tích.
+Người đàn ông cứu chúng tôi tên Hoàng Văn Tích. Nhà ông nằm ở một cụm dân cư nhỏ phía bên kia sườn núi, nếu trời sáng đi hơn một giờ; đêm ấy sương dày, ông Tài còn choáng nên chúng tôi mất gần gấp đôi.
 
-Ông sống ở một cụm dân cư nhỏ phía bên kia sườn núi, cách chỗ chúng tôi gặp khoảng hơn một giờ đi bộ nếu trời sáng. Đêm, sương dày và ông Tài còn yếu nên mất gần gấp đôi.
+Ông Tích đi đầu soi đường. Tôi với ông Tài theo sau, chiếc vali đã bỏ lại phải nhờ một người quen của ông Tích sáng hôm sau quay ra lấy.
 
-Trên đường, tôi hỏi ông Tích về thứ vừa gặp.
+Đi được một đoạn, tôi mới hỏi:
 
-— Ma Lai thật hả bác?
+— Bác gọi thứ lúc nãy là Ma Lai hả?
 
-Ông đi trước, cầm đèn pin soi đường.
+— Người ta gọi vậy.
 
-— Người ta gọi thế.
+— Bác từng gặp rồi?
 
-— Nghĩa là có thật?
+— Rồi.
 
-— Cậu thấy rồi còn hỏi tôi.
+— Nhiều lần không?
 
-— Con làm báo. Con phải loại khả năng hai chú cháu cùng hít phải nấm gây ảo giác.
+Ông Tích không trả lời ngay.
 
-Ông Tài càu nhàu phía sau:
+— Đủ để biết lúc nó đang đói thì đừng đứng gần.
 
-— Ảo giác mà liếm mặt tôi ướt nhẹp vậy hả?
+Ông Tài sờ cổ, lầm bầm:
 
-Tôi quay lại.
-
-— Chú đừng nhắc chuyện liếm nữa, con đang cố quên.
+— Cái đó giờ tôi biết rồi.
 
 Tôi hỏi tiếp:
 
 — Bác làm thầy cúng à?
 
-Ông Tích im một lúc.
+— Người quanh đây có việc thì gọi. Tôi biết chút gì thì giúp chút đó. Không phải chuyện nào cũng làm được.
 
-— Người quanh đây có việc thì gọi. Không phải cái gì tôi cũng làm được.
+— Sao lúc nãy bác không giết nó?
 
-— Cái vừa nãy bác từng gặp chưa?
+Bước chân ông Tích chậm lại. Ông quay sang nhìn tôi dưới ánh đèn pin.
 
-Bước chân ông chậm lại.
+— Cậu làm báo đúng không?
 
-— Rồi.
+— Dạ.
 
-— Nhiều lần?
+— Vậy nhớ cho kỹ. Thấy một thứ đáng sợ không có nghĩa cậu đã biết nó là gì.
 
-— Đủ để biết không nên chọc nó khi đang đói.
+Cách ông nói làm tôi tự nhiên không muốn đùa nữa.
 
-— Sao bác không giết?
+— Vậy thứ đó là gì?
 
-Ông dừng.
-
-Quay lại nhìn tôi.
-
-Dưới ánh đèn pin hắt từ dưới lên, mặt ông già hơn lúc trên đường.
-
-— Cậu làm báo thì nhớ một chuyện. Thấy một thứ đáng sợ không có nghĩa cậu đã biết nó là gì.
-
-Tôi không đùa nữa.
-
-— Vậy nó là gì?
-
-— Tối nay cậu ngủ được thì sáng hỏi.
+— Tối nay ngủ được thì sáng hỏi tiếp.
 
 Ông quay đi.
 
-Đó là lần thứ hai trong ngày có người vùng này trả lời tôi bằng một câu còn khó chịu hơn câu hỏi.
+Tôi nhìn lưng ông, lần đầu tiên nhận ra mình đã tới đây với tâm thế săn một câu chuyện, trong khi với người sống ở đây, thứ tôi gọi là “case” có thể là chuyện họ phải chịu đựng nhiều năm.
 
 ***
 
-Nhà ông Tích nằm nép vào sườn đất, phía trước có khoảng sân nhỏ lát đá không đều. Một bóng đèn vàng treo dưới mái hiên, ánh sáng yếu nhưng giữa cả vùng tối nhìn nó ấm đến mức tôi suýt cảm động.
+Nhà ông Tích nép sát một sườn đất, phía trước có khoảng sân lát đá không đều và một bóng đèn vàng treo dưới mái hiên. Sau mấy tiếng đi trong rừng, chỉ một ô ánh sáng đó thôi cũng đủ khiến tôi thấy dễ thở.
 
-Chó trong sân sủa khi chúng tôi tới.
+Con chó trong sân sủa khi chúng tôi tới. Ông Tích gọi một tiếng, nó im nhưng vẫn đứng nhìn tôi, lông dọc sống lưng hơi dựng.
 
-Ông Tích gọi một tiếng, nó im ngay nhưng vẫn đứng nhìn tôi, lông dọc sống lưng dựng nhẹ.
+Cửa nhà mở. Một cô gái bước ra, nói nhanh với ông Tích bằng thứ tiếng tôi không hiểu. Ông đáp lại vài câu rồi quay sang chúng tôi.
 
-Cửa mở.
+— Con gái tôi. Nó hỏi sao về trễ.
 
-Một cô gái bước ra.
+Cô gái chuyển sang tiếng Việt rất rõ:
 
-Câu đầu tiên cô nói không phải tiếng phổ thông. Tôi nghe một chuỗi âm ngắn, ông Tích đáp lại rồi quay sang chúng tôi:
+— Bố có khách hả?
 
-— Con gái tôi. Nó hỏi sao về muộn vậy.
+— Gặp chuyện ngoài đường. Đây là Huy với anh Tài.
 
-Cô chuyển sang tiếng Việt rất rõ.
+Cô nhìn sang ông Tài trước. Ánh mắt dừng ở phần cổ áo còn dính thứ nhớt đã khô, sắc mặt hơi đổi.
 
-— Bố có khách à?
+— Lại gặp cái đó hả bố?
 
-Tôi nhìn cô hơi lâu.
-
-Không phải vì cô đẹp đến mức phim phải quay slow motion như tôi thường kể quá lên.
-
-Mà vì sau hai tiếng trong rừng, gương mặt người sống bình thường tự nhiên trở nên đẹp một cách cảm động.
-
-Cô khoảng hai mươi tuổi, da sáng, tóc đen búi thấp, mặc áo dài tay màu chàm và quần tối. Cổ áo mở vừa đủ để lộ phần cổ cao, có ba đường ngấn mảnh chạy ngang.
-
-Ba ngấn.
-
-Không xấu.
-
-Nhưng mắt tôi tự nhiên dừng ở đó.
-
-Có lẽ vì con Ma Lai khi nãy chỉ có đúng từ cổ trở lên.
-
-Tôi lập tức tự mắng mình thần kinh.
-
-— Đây Huy, đây Tài. — ông Tích nói. — Gặp chuyện ngoài đường.
-
-Cô gái nhìn ông Tài.
-
-Ánh mắt dừng ở lớp nhớt đã khô trên cổ áo.
-
-Mặt cô tái đi rất nhẹ.
-
-— Gặp... cái đó hả bố?
-
-Ông Tích đáp bằng một câu cụt lủn:
+Ông Tích gật.
 
 — Ừ.
 
-Cô không hỏi nữa.
+Cô không hỏi thêm, chỉ mở rộng cửa.
 
-— Hai anh vào đi. Em đun nước.
+— Hai anh vào trong đi. Ngoài này lạnh lắm. Em đun nước.
 
-Khi cô đi ngang, tôi ngửi thấy một mùi tanh rất mỏng.
+Lúc cô đi ngang, tôi mới nhìn rõ hơn. Mây khoảng hai mươi tuổi, da sáng, tóc đen búi thấp, mặc áo dài tay màu chàm với quần tối. Khuôn mặt không có gì kỳ lạ, nhưng cổ hơi cao và có ba đường ngấn mảnh nằm ngang trên da.
 
-Không phải mùi nước hoa.
+Ba ngấn ấy làm mắt tôi dừng lại lâu hơn cần thiết.
 
-Giống mùi cá sống hoặc tiết gà vừa rửa khỏi tay.
+Có lẽ vì vài tiếng trước tôi vừa nhìn thấy một cái đầu tách khỏi cổ người.
 
-Tôi nhìn theo.
+Tôi tự nhắc mình đừng biến bất kỳ đặc điểm cơ thể nào của người ta thành manh mối chỉ vì đang đi tìm chuyện ma.
 
-Cô gái quay đầu lại đúng lúc.
+Mây bắt gặp tôi nhìn, hơi nhíu mày.
 
-Bắt gặp tôi.
+— Anh sao vậy?
 
-— Anh nhìn gì vậy?
+— À... không có gì. Anh đi đường hơi choáng thôi.
 
-— À... không. Anh xem kiến trúc nhà.
+Cô nhìn vẻ mặt tôi rồi cười nhẹ.
 
-Cô nhìn cái tường tôi đang giả vờ ngắm.
+— Vậy vô ngồi đi, ngoài này còn lạnh hơn.
 
-— Tường đấy xây mười hai năm rồi.
+Khi cô quay vào bếp, một mùi tanh rất mỏng thoảng qua. Không nồng tới mức khó chịu, chỉ giống mùi cá sống hoặc tiết gà còn dính trên tay sau khi rửa.
 
-— Đẹp. Kiến trúc... bền vững.
-
-Cô bật cười.
-
-Tôi lập tức thấy khả năng mình sống sót chuyến công tác này tăng lên vì ít nhất có người chưa nghĩ tôi bị ngu hoàn toàn.
-
-Ông Tích nói:
-
-— Nó tên Mây.
-
-— Tên đẹp quá.
-
-— Tên ở nhà thôi.
-
-Mây đi vào bếp.
-
-Ông Tích đứng ở sân, thắp một nén nhang vào chiếc miếu nhỏ dưới gốc cây cạnh hàng rào. Ông không khấn to. Chỉ cúi đầu rất lâu rồi cắm nhang.
-
-Sau đó ông lấy túi đồ mang theo từ chuyến làm lễ, đặt một phần lên chiếc bàn thấp ở gian ngoài.
-
-Tôi quan sát tất cả.
-
-Nghề nghiệp bắt đầu thắng nỗi sợ.
-
-Tôi lấy điện thoại ghi chú:
-
-“Ông Tích biết Ma Lai. Không tiêu diệt. Có vẻ quen.”
-
-Rồi thêm:
-
-“Con gái: Mây. Biết ‘cái đó’. Mùi tanh. Cổ 3 ngấn.”
-
-Tôi nhìn dòng cuối.
-
-Xóa chữ “cổ 3 ngấn”.
-
-Viết lại:
-
-“Không được suy diễn ngoại hình người ta thành clue. Làm báo, không viết truyện ma.”
-
-Cái note này về sau khiến tôi thấy mình rất có khiếu tự vả.
+Tôi ghi nhận trong đầu rồi thôi. Nhà trên núi, bếp ngay cạnh sân, mùi như vậy chẳng có gì đủ để kết luận.
 
 ***
 
-Bữa tối có thịt gà, rau luộc, một bát canh nóng và cơm. Tôi đói đến mức quên luôn chuyện vừa uống thứ gì cách đó hai tiếng.
+Bữa tối có cơm, thịt gà, rau luộc và bát canh nóng. Tôi đói đến mức ăn được nửa bát mới nhớ ra buổi tối mình vừa nuốt thứ gì.
 
-Ông Tài ăn được nửa bát rồi xin nằm nghỉ.
+Ông Tài ăn chậm vì còn mệt, ông Tích gần như không tham gia câu chuyện. Mây ngồi đối diện tôi, thỉnh thoảng hỏi mấy câu về Hà Nội và tòa soạn.
 
-Tôi ngồi đối diện Mây.
+— Anh làm báo thật hả?
 
-Cô ít nói nhưng không lạnh lùng. Hỏi tôi từ đâu tới, làm nghề gì, tại sao đang yên đang lành lại lên núi tìm ma.
+— Ừ. Tòa soạn tên Âm Dương.
 
-— Anh làm báo.
+Mây cười.
 
-— Báo gì kỳ vậy?
+— Nghe tên là thấy chuyên chuyện kỳ rồi.
 
-— Báo tên Âm Dương.
+— Anh cũng nghĩ vậy. Nhưng lương vẫn trả bằng tiền bình thường.
 
-— Nghe đã thấy không bình thường.
+— Anh lên đây vì chuyện tối nay à?
 
-— Anh cũng nói với sếp vậy.
+— Thật ra anh lên trước khi biết nó có thật. Anh định tìm người từng nghe hoặc từng gặp.
 
-Cô cười.
+Mây đang gắp rau thì dừng tay.
 
-Ông Tích không cười.
+— Giờ gặp rồi, mai anh về chưa?
 
-Ông ăn chậm, gần như không tham gia câu chuyện.
+— Chắc phải hỏi thêm chút nữa.
 
-Một lúc sau Mây hỏi:
+Cô không nói gì, chỉ nhìn xuống bát.
+
+Một lúc sau Mây hỏi bất ngờ:
 
 — Anh có anh em sinh đôi không?
 
-Đũa tôi dừng giữa chén.
+Tôi ngẩng lên.
 
-— Không.
+— Không. Sao em hỏi vậy?
 
 — Chắc không?
 
-Tôi cười.
+— Mẹ anh mà giấu thêm một đứa hai mươi hai năm thì nhà anh giỏi lắm.
 
-— Chuyện này mà cũng không chắc được à? Mẹ anh chỉ đẻ một mình anh thôi.
-
-Mây nhìn tôi rất lâu.
+Mây không cười theo. Cô nhìn tôi khá lâu, vẻ mặt càng lúc càng khó hiểu.
 
 — Lạ thật.
 
-— Sao?
+— Gì lạ?
 
-Cô cúi xuống bát.
+Mây hơi nghiêng đầu, như đang cố xác định một thứ không nhìn bằng mắt.
 
-— Không có gì.
+— Trên người anh có hai mùi máu.
 
-— Em nói vậy làm anh tò mò đó.
+Đũa tôi dừng giữa bát.
 
-Mây ngẩng lên.
+Tôi vốn phản xạ bằng cách nói đùa khi không biết xử lý câu gì. Nhưng lần này, cách Mây nói không giống trêu người.
 
-Ánh đèn vàng chiếu vào mắt cô, trong con ngươi phản lại một chấm sáng nhỏ.
+— Hai mùi... là sao?
 
-— Em ngửi thấy trên người anh có hai mùi máu.
+Cô chớp mắt như vừa nhận ra mình nói thành tiếng.
 
-Tôi bật cười.
+— Em không biết. Có thể em nhầm.
 
-— Cách tán trai trên này độc lạ vậy?
+— Em từng ngửi thấy ở người khác chưa?
 
-Cô không cười theo.
-
-Ông Tích đặt mạnh đôi đũa xuống bàn.
-
-Cạch.
+Ông Tích đặt đôi đũa xuống bàn.
 
 — Mây.
 
-Chỉ một tiếng.
-
-Cô lập tức im.
-
-Không khí bàn ăn đổi hẳn.
+Chỉ một tiếng gọi. Mây lập tức im.
 
 Tôi nhìn hai cha con.
 
-— Hai mùi máu là sao bác?
+— Bác biết cô ấy đang nói gì hả?
 
-Ông Tích đứng dậy.
+Ông Tích tránh câu hỏi bằng cách đứng lên.
 
-— Ăn đi. Đêm rồi.
+— Ăn đi. Muốn hỏi chuyện ngoài đường thì sáng mai nói.
 
-— Nhưng...
+Không khí trên bàn thay đổi rõ rệt. Mây cúi xuống thu dọn bát, từ đó không nhìn tôi nữa.
 
-— Muốn hỏi chuyện Ma Lai thì sáng mai nói.
+Tôi hiểu mình khó moi thêm được gì nên cũng thôi hỏi.
 
-Ông bỏ vào buồng trong.
+***
 
-Mây thu bát, tránh mắt tôi.
+Sau bữa tối ông Tài xin nằm nghỉ. Tôi ở gian ngoài ghi lại những gì vừa xảy ra, cố tách riêng phần mình thấy với phần người khác nói. “Đầu người + nội tạng: tôi và Tài cùng quan sát.” “Ông Tích can thiệp.” “Mây nhận ra ‘cái đó’ trước khi được kể chi tiết.”
 
-Tôi ngồi lại một mình.
+Tôi gõ tới dòng “Mây nói trên người tôi có hai mùi máu” rồi dừng khá lâu.
 
-Ngoài sân, chó bỗng gầm rất khẽ.
+Cuối cùng vẫn ghi, nhưng thêm bên cạnh: “Chưa hiểu nghĩa. Không suy diễn.”
 
-Tôi quay qua cửa sổ.
+Lúc ngẩng lên, ngoài cửa sổ có một bóng người đứng sát hàng rào.
 
-Ở dưới ánh trăng mờ ngoài hàng rào có một bóng người đứng.
+Tóc dài. Áo sẫm màu. Không thấy rõ mặt.
 
-Tóc dài.
+Tôi tưởng là Mây nên gọi:
 
-Không nhìn rõ mặt.
+— Mây?
 
-Tôi đứng bật dậy.
+Bóng người không trả lời.
 
-— Mây.
+Tôi đứng dậy, vừa đi tới cửa thì thấy trên bàn, đúng chỗ Mây ngồi lúc ăn, có một giọt chất lỏng đỏ sẫm.
 
-Không ai trả lời.
+Tôi đưa ngón tay chạm rất nhẹ vào mép giọt rồi ngửi.
 
-Tôi chạy ra cửa bếp.
+Mùi tanh kim loại.
 
-Trống không.
+Máu.
 
-Quay lại cửa sổ.
+Tôi quay lại cửa sổ. Bóng ngoài hàng rào đã biến mất.
 
-Bóng người đã biến mất.
-
-Trên bàn, ngay chỗ Mây vừa ngồi, có một giọt nước đỏ sẫm.
-
-Tôi đưa ngón tay chạm vào.
-
-Tanh.
-
-Là máu.
-
-Từ gian sau vang lên tiếng ông Tích:
+Từ gian trong, giọng ông Tích vang ra:
 
 — Huy.
 
 — Dạ?
 
-— Đêm nay dù nghe gì cũng đừng mở cửa.
+— Đêm nay nghe ai gọi ngoài cửa cũng đừng mở.
 
-Tôi nhìn giọt máu trên đầu ngón tay.
+Tôi nhìn khoảng sân tối trước mặt.
 
-— Nếu người ngoài gọi thì sao?
+— Nếu người trong nhà gọi thì sao bác?
 
-Ông đáp sau một khoảng im lặng:
+Ông im một lúc mới trả lời:
 
-— Nhất là khi người ngoài gọi.
+— Cứ gọi tôi trước.
+
+Tôi khép then cửa lại.
+
+Tối đó, lần đầu tiên từ lúc rời Hà Nội, tôi không còn nghĩ mình chỉ đang đi tìm một câu chuyện hay nữa.

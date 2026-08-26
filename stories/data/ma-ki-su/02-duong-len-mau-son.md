@@ -1,491 +1,369 @@
-Tôi đặt chân xuống thành phố Lạng Sơn lúc gần năm giờ chiều với một cái ba lô, một vali kéo, một máy ghi âm mượn của tòa soạn và đúng một niềm tin duy nhất: hai triệu đồng công tác phí chắc chắn là một hình thức thử thách nhân cách.
+Tôi xuống xe ở thành phố Lạng Sơn lúc gần năm giờ chiều, mang theo một ba lô, một chiếc vali kéo, máy ghi âm mượn của tòa soạn và hai triệu đồng công tác phí mà càng đi xa Hà Nội tôi càng thấy mỏng.
 
-Thành phố lúc ấy vừa qua một trận mưa. Mặt đường còn loang nước, mái ngói và biển hiệu đều sạch bóng hơn dưới thứ ánh sáng cuối ngày. Phía xa, những dãy núi xanh xám chồng lên nhau, càng xa càng nhạt, trông như những lớp mực tàu bị nước làm loang.
+Thành phố vừa qua một trận mưa. Nước còn đọng thành những vệt dài ở mép đường, mái nhà và biển hiệu sạch bóng dưới ánh sáng cuối ngày. Phía xa, các dãy núi xanh xám chồng lên nhau, lớp sau nhạt hơn lớp trước, nhìn như mực tàu bị nước loang trên giấy.
 
-Tôi đứng cạnh bến xe, mở điện thoại kiểm tra ghi chú.
+Tôi đứng dưới mái hiên gần bến xe, mở lại phần ghi chú đã chuẩn bị từ tối hôm trước. Khu du lịch Mẫu Sơn không khó tìm; thứ tôi nhắm tới lại nằm sâu hơn, gần một cụm dân cư mà bài đăng cũ từng nhắc tới bằng mấy dòng rất mơ hồ: qua hai con dốc, rẽ khỏi đường lớn, có một nhà thường đóng kín cửa sau khi trời tối.
 
-Mẫu Sơn cách thành phố khoảng ba mươi cây số. Phần khu du lịch không khó tới. Cái tôi cần lại là một điểm ở sâu hơn, gần một cụm dân cư mà một bài đăng cũ trên diễn đàn từng nhắc đến chuyện “người đàn bà chỉ ăn sau khi trời tối”.
+Bảy năm trước người ta viết vậy. Tài khoản giờ đã xóa. Không số điện thoại, không tên thật, thậm chí địa điểm ghim của tôi cũng chỉ là kết quả ghép từ vài câu mô tả.
 
-Bài đăng bảy năm trước.
+Nguồn như thế đem về cho chị Linh thì chắc chắn bị gạch đỏ. Nhưng đã tới tận đây, tôi vẫn muốn đi xem trước rồi mới quyết định bài có đáng làm hay không.
 
-Tài khoản đã xóa.
+Dưới mái hiên bên kia có mấy người chạy xe ôm. Tôi hỏi hai người đầu, nghe tên điểm đến đều lắc đầu vì trời sắp tối. Người thứ ba là một ông ngoài bốn mươi, người chắc, da sạm, áo khoác gió xanh bạc màu ở hai vai. Ông cầm điện thoại của tôi, phóng bản đồ lên rồi nheo mắt nhìn khá lâu.
 
-Không địa chỉ rõ ràng.
+— Lên Mẫu Sơn thì tôi chở được. Còn chỗ cậu ghim này nằm qua bên kia nữa.
 
-Nguồn tin của tôi nói chung chất lượng ngang với việc hỏi chú bán trà đá xem UFO đáp ở đâu.
+— Chú biết đường không?
 
-Nhưng đi rồi mới có cái để viết.
-
-Tôi gọi một ông xe ôm đứng dưới mái hiên.
-
-Ông chừng ngoài bốn mươi, người chắc như cột nhà, da sạm nắng, mặc áo khoác gió xanh đã bạc ở vai. Tôi đưa địa điểm ghim trên bản đồ.
-
-Ông nhìn.
-
-— Lên khu Mẫu Sơn thì được. Chỗ này qua đó nữa.
+— Biết gần gần. Tới đó hỏi tiếp.
 
 — Bao nhiêu chú?
 
-Ông báo giá.
+Ông báo giá. Tôi mặc cả theo phản xạ nghề nghiệp lẫn túi tiền. Ông nhìn chiếc vali của tôi, rồi nhìn mặt tôi như muốn hỏi một đứa mang vali bánh nhỏ lên đường núi lấy tư cách gì ép giá.
 
-Tôi mặc cả.
+Cuối cùng hai bên bớt mỗi người một chút và chốt.
 
-Ông nhìn vali của tôi.
-
-Tôi nhìn cái xe số cũ của ông.
-
-Cuối cùng hai người đều hiểu không ai đang ở vị thế đẹp để làm giá nên chốt nhanh.
-
-— Chú tên gì để lát con còn biết viết vào bài?
+— Chú tên gì để lát con ghi vào sổ?
 
 — Tài.
 
-— Con là Huy.
+— Con Huy. Con làm phóng sự.
 
-— Lên chơi à?
+Ông Tài buộc vali lên sau xe.
 
-— Làm việc.
+— Phóng sự gì mà lên giờ này?
 
-— Việc gì?
+Tôi đội mũ bảo hiểm, leo lên.
 
-Tôi leo lên sau, ôm vali giữa hai chân.
+— Chuyện Ma Lai.
 
-— Tìm ma.
+Ông quay đầu lại nhìn.
 
-Ông Tài nhìn tôi qua gương chiếu hậu.
+— Cái gì?
 
-— Cậu nói lại xem?
+— Ma Lai. Con lên tìm người biết chuyện, nếu may thì có người từng thấy.
 
-— Tìm ma.
+— Cậu lên đây kiếm ma thiệt à?
 
-Ông nổ máy.
+— Nói vậy cho gọn thôi chú. Chủ yếu kiếm người kể chuyện.
 
-— Thanh niên giờ làm nghề lạ thật.
+Ông Tài nổ máy, lắc đầu.
+
+— Làm báo giờ cũng cực dữ.
+
+Tôi nghĩ tới sếp Hòa và hai triệu đồng trong túi, thấy câu ấy tương đối chính xác.
 
 ***
 
-Đường lên Mẫu Sơn lúc đầu đẹp hơn tôi tưởng.
+Đường lên Mẫu Sơn lúc đầu đẹp hơn tôi tưởng. Ra khỏi thành phố một đoạn, nhà cửa thưa dần, đường bắt đầu men theo sườn núi. Có chỗ nhìn xuống thấy ruộng với những mái nhà nằm thấp dưới lớp sương, xa tới mức tiếng chó sủa cũng nghe mỏng đi.
 
-Rời thành phố, nhà cửa thưa dần. Những sườn núi mở ra hai bên, có đoạn đường ôm lấy triền dốc, từ trên nhìn xuống thấy ruộng và mái nhà nhỏ lại dưới lớp sương cuối ngày. Càng lên cao, không khí càng lạnh. Tôi mặc thêm áo khoác mà gió vẫn luồn qua cổ áo.
+Càng lên cao, nhiệt độ càng hạ. Tôi mặc thêm áo khoác mà gió vẫn luồn qua cổ. Mây từ phía đỉnh núi tràn xuống thành từng dải, có lúc che khuất cả đoạn đường phía trước rồi lại tản ra rất nhanh.
 
-Đỉnh núi phía xa lúc hiện lúc mất trong mây.
+Tôi lấy điện thoại quay vài đoạn, sau đó mới hỏi ông Tài:
 
-Nếu bỏ qua chuyện tôi đang ngồi sau một ông xe ôm đi tìm ma bằng ngân sách hai triệu thì phong cảnh rất đáng để sống chậm.
-
-Tôi thử bắt chuyện.
-
-— Chú Tài.
+— Chú sống ở Lạng Sơn từ nhỏ hả?
 
 — Ừ.
 
-— Chú ở đây lâu chưa?
+— Vậy chắc nghe chuyện Ma Lai nhiều rồi?
 
-— Từ bé.
+Ông không trả lời ngay. Tay ga chỉ khựng rất nhẹ, nếu không đang nhìn gương chiếu hậu có lẽ tôi cũng không để ý.
 
-— Có nghe chuyện Ma Lai không?
+— Nghe người ta kể.
 
-Tay ông trên ga hơi khựng.
+— Có ai thấy thật chưa chú?
 
-Chỉ rất nhẹ.
+— Tôi không biết.
 
-— Nghe chuyện người ta kể thôi.
+— Có kiểu người ban ngày bình thường, tối tới ăn đồ sống hay đồ bẩn không?
 
-— Có ai thấy thật chưa?
+— Người say rượu làm chuyện kỳ cục thiếu gì.
 
-— Không biết.
+Tôi bật cười.
 
-— Có người nào ban ngày bình thường, tối đi ăn đồ sống không?
+— Nhưng đầu người say rượu chắc không bay ra khỏi cổ được.
 
-— Người say rượu thiếu gì.
+Lần này ông Tài im luôn.
 
-— Đầu có bay ra khỏi cổ không?
+Tôi tưởng mình làm ông khó chịu nên thôi hỏi. Một lúc sau ông nhìn tôi qua gương.
 
-Ông im.
+— Cậu chưa từng gặp thì đừng nói đùa nhiều quá.
 
-Tôi cười.
+Giọng ông không nặng, nhưng đủ khiến tôi cất điện thoại xuống.
 
-— Con hỏi để lấy tư liệu thôi. Chú đừng sợ.
+— Dạ. Con xin lỗi. Nghề con hỏi hơi nhiều.
 
-Ông nhìn tôi trong gương.
+Ông không nói thêm.
 
-— Tôi không sợ. Cậu lo cho cậu đi.
+Khoảng sáu giờ, chúng tôi tới chỗ phải rẽ khỏi tuyến chính. Khu du lịch nằm theo hướng khác; con đường tôi đánh dấu hẹp hơn, ôm theo sườn đất và mất dần dưới những tán cây dày. Mặt trời vừa lặn sau dãy núi nhưng ánh sáng tụt nhanh tới mức chỉ vài phút sau cây hai bên đường đã đổi từ xanh sẫm sang gần như đen.
 
-Câu nói đó đáng lẽ phải làm tôi suy nghĩ.
+Ông Tài chạy thêm chừng mười phút thì bất ngờ phanh lại. Tôi chúi người, suýt đập mũ bảo hiểm vào vai ông.
 
-Nhưng lúc ấy tôi bận quay video phong cảnh.
+— Gì vậy chú?
 
-Khoảng sáu giờ, chúng tôi tới đoạn rẽ khỏi đường chính. Khu du lịch và những nhà nghỉ nằm phía khác. Điểm tôi đánh dấu dẫn vào một tuyến nhỏ hẹp hơn, men theo sườn núi rồi chìm vào vùng cây rậm.
+Ông chống hai chân xuống đường.
 
-Mặt trời đã xuống sau lưng núi.
+Phía trước là một con dốc dài, sương trườn ngang mặt đường thành những vệt trắng mỏng. Không có đèn nhà, cũng không thấy xe nào đi qua.
 
-Ánh sáng tắt rất nhanh.
+— Tôi chở tới đây thôi.
 
-Ông Tài chạy thêm chừng mười phút rồi bất ngờ phanh lại.
+Tôi tưởng mình nghe nhầm.
 
-Tôi suýt đập mặt vào lưng ông.
+— Ủa, còn điểm ghim phía trước mà chú?
 
-— Sao vậy chú?
+— Qua hai con dốc nữa có nhà dân. Cậu đi bộ rồi hỏi.
 
-Ông chống chân xuống đường.
+— Mình nói chở tới chỗ mà.
 
-Phía trước là một con dốc dài, hai bên cây mọc sát. Sương bắt đầu tràn qua mặt đường thành từng dải trắng thấp.
+Ông Tài nhìn trời.
 
-— Tôi chở cậu tới đây thôi.
-
-— Gì?
-
-— Đi bộ qua hai con dốc nữa. Có nhà dân.
-
-— Mình thỏa thuận tới điểm mà.
-
-— Trời tối rồi.
+— Lúc thỏa thuận chưa tối.
 
 — Xe có đèn mà chú.
 
-Ông quay lại nhìn tôi.
+Ông quay hẳn lại. Gương mặt dưới mũ bảo hiểm không còn vẻ dễ nói chuyện lúc ở thành phố.
 
-Không còn vẻ đùa cợt lúc dưới thành phố.
+— Đoạn này tôi không đi sau khi trời tối.
 
-— Tôi không đi qua đoạn này sau khi tối.
-
-Tôi nhìn đường.
+Tôi nhìn con đường rồi nhìn ông.
 
 — Tại sao?
 
-— Không tại sao cả.
+— Không có gì để giải thích. Tôi không đi.
 
-— Chú muốn thêm tiền hả?
+Tôi nghi ngay tới chuyện nâng giá.
 
-Ông Tài tháo dây buộc vali khỏi yên sau, đặt xuống đất.
+— Nếu thêm tiền thì sao?
 
-— Thêm tiền tôi cũng không đi.
+Ông tháo dây buộc vali, đặt nó xuống cạnh chân tôi.
 
-Thái độ dứt khoát làm tôi bực.
+— Thêm cũng không đi.
 
-Tôi xuống xe.
+Thái độ ấy làm tôi vừa bực vừa hơi chột dạ. Nếu chỉ muốn kiếm thêm, ít nhất ông đã ra giá.
 
-— Chú bỏ con giữa núi vậy hả?
+— Chú để con đứng đây thật hả?
 
-— Cậu tự chọn lên đây tìm ma mà.
+— Cậu nói cậu lên tìm Ma Lai mà. Tôi đã bảo trời tối không nên vào sâu.
 
-Câu ấy làm tôi nghẹn mất hai giây.
+Tôi định cãi tiếp, nhưng nhìn cánh tay ông Tài rồi nhìn cánh tay mình, cân nhắc một số khả năng của tranh chấp dân sự và quyết định vẫn nên giữ hòa khí.
 
-Ông báo tiền đoạn đường đã đi.
+Tôi trả tiền đoạn đường đã đi. Ông cất vào túi, lên xe. Trước khi quay đầu, ông chợt nói:
 
-Tôi định cãi.
+— Nếu lát nữa nghe ai gọi sau lưng, đừng quay ngay.
 
-Rồi tôi nhìn cánh tay ông.
+Tôi tưởng ông lại dọa.
 
-Nhìn cánh tay mình.
+— Rồi làm gì chú?
 
-Tiến hành một phép so sánh khoa học rất nhanh, tôi kết luận hòa bình vẫn là giải pháp bền vững cho nhân loại.
+— Nhìn xuống đất trước. Có bóng người thì mới quay.
 
-Tôi trả tiền.
+— Không có bóng thì sao?
 
-Ông Tài cất vào túi.
+Ông Tài nhìn tôi vài giây.
 
-Trước khi quay xe, ông nói:
+— Đi tiếp.
 
-— Nếu nghe ai gọi sau lưng thì nhìn xuống chân trước.
+Tôi cười không nổi nữa.
 
-— Hả?
+Xe ông quay đầu. Tiếng máy nhỏ dần qua mấy khúc cua rồi mất hẳn, để lại tôi đứng giữa đường với một cái vali mà bánh xe được thiết kế rõ ràng cho sàn sân bay chứ không phải sỏi đá trên núi.
 
-— Có bóng thì hãy quay lại.
-
-— Chú vừa nói không sợ mà?
-
-Ông không trả lời.
-
-Xe quay đầu.
-
-Tiếng máy nhỏ dần rồi biến mất sau khúc cua.
-
-Tôi đứng một mình giữa con đường núi.
-
-Sương lướt qua mặt.
-
-Đột nhiên hai triệu công tác phí nghe còn ít hơn lúc ở Hà Nội.
+Sương lướt qua mặt. Tôi kéo khóa áo cao thêm một chút rồi bắt đầu đi.
 
 ***
 
-Tôi đeo ba lô, kéo vali đi bộ.
+Sau khoảng năm phút, bánh vali mắc đá lần thứ tư. Tôi bỏ ý định giữ hình tượng người đi công tác văn minh, xách luôn bằng tay.
 
-Được khoảng năm phút thì bánh vali mắc vào đá lần thứ tư. Tôi chửi thầm người phát minh vali bánh nhỏ và chuyển sang xách.
+Xung quanh không hoàn toàn im lặng. Có tiếng côn trùng trong bụi, tiếng gió luồn qua lá, thi thoảng phía dưới thung lũng vọng lên tiếng chó. Nhưng càng đi xa tuyến chính, tôi càng không nghe thấy động cơ xe hay tiếng người. Điện thoại lúc có một vạch sóng, lúc mất hẳn.
 
-Xung quanh im hơn rất nhiều so với đường chính.
+Tôi bật đèn pin. Luồng sáng quét qua những thân cây ướt, dương xỉ ven đường và các mảng rêu sáng lên dưới nước. Ban ngày chỗ này chắc đẹp. Ban đêm, sau một tối đọc quá nhiều chuyện đầu người bay trong rừng, trí óc tự biết cách làm khổ chủ của nó.
 
-Không phải hoàn toàn không có âm thanh. Có tiếng côn trùng. Có tiếng gió đi qua lá. Thỉnh thoảng đâu đó dưới thung lũng vọng lên tiếng chó sủa.
-
-Nhưng không có tiếng xe.
-
-Không đèn nhà.
-
-Điện thoại còn một vạch sóng.
-
-Tôi bật đèn pin.
-
-Luồng sáng quét qua những thân cây ướt, bụi dương xỉ và mấy phiến đá phủ rêu. Ban ngày chắc đẹp lắm. Ban đêm, trí tưởng tượng của một thằng vừa đọc hai mươi bài về ma quỷ có thể biến bất kỳ gốc cây nào thành người treo cổ.
-
-Tôi bắt đầu tự nói chuyện để đỡ sợ.
-
-— Không có gì hết. Ma nào rảnh ra đây đứng chờ mình. Nó cũng có cuộc sống riêng chứ.
-
-Một tiếng động vang sau lưng.
-
-Sột.
+Tôi đi được thêm một đoạn thì phía sau vang lên tiếng sột rất nhẹ.
 
 Tôi dừng.
 
 Âm thanh cũng dừng.
 
-Tôi nhớ câu ông Tài.
+Không hiểu sao lời ông Tài trở lại ngay trong đầu. Tôi rọi đèn xuống mặt đường phía sau trước, thấy bóng mình kéo dài theo luồng sáng nhưng không có bóng người thứ hai.
 
-“Nhìn xuống chân trước.”
-
-Tôi rọi đèn xuống mặt đường phía sau.
-
-Không thấy bóng người.
-
-Tốt.
-
-Tôi đi tiếp.
+Tôi đứng yên một lúc rồi đi tiếp, tự bảo chắc chỉ là lá rơi.
 
 Sột. Sột.
 
-Có tiếng bước chân thật.
+Lần này giống bước chân hơn.
 
-Cách tôi chừng mười mét.
+Tôi tăng tốc. Tiếng phía sau cũng nhanh lên. Tôi dừng đột ngột; nó cũng dừng.
 
-Tôi bước nhanh.
+Da ở hai cánh tay bắt đầu nổi lên từng hạt.
 
-Nó nhanh theo.
+— Có ai không?
 
-Tôi dừng.
+Không tiếng trả lời.
 
-Nó dừng.
+Tôi không quay hẳn lại, chỉ nghiêng đầu nghe. Sau vài giây, từ phía sau vọng tới một giọng kéo dài vì người nói đang vừa đi vừa hụt hơi:
 
-Da gà trên hai tay nổi lên.
+— Cậuu... đợi... với...
 
-Trong đầu tôi lúc ấy có hai nhân vật cãi nhau.
-
-Một thằng bảo quay lại nhìn.
-
-Thằng còn lại, rõ ràng thông minh hơn, bảo chạy.
-
-Rồi sau lưng có tiếng người kéo dài:
-
-— Cậuuu... ơiiii...
-
-Ba hồn bảy vía tôi nếu có chắc bỏ tôi đi hết sáu.
-
-Tôi đứng cứng.
-
-— Đợiii... tôiii... vớiii...
-
-Giọng nghe lạ mà quen.
-
-Tôi nuốt khan.
+Tôi cứng người. Giọng nghe quen nhưng sương với khoảng cách làm nó méo đi.
 
 — Ai đó?
 
-— Đi... gì... nhanh... vậy...
+— Đi gì... nhanh dữ vậy...
 
-Tôi bỗng nhận ra.
-
-— Chú Tài?
-
-Không ai đáp.
-
-Tôi quay phắt lại.
-
-Luồng đèn pin quét con đường.
-
-Trống không.
+Tôi nhận ra.
 
 — Chú Tài?
 
-Một bàn tay đặt lên vai tôi.
+Không nghe trả lời ngay. Tôi rọi đèn qua vai, chưa kịp nhìn rõ thì một bàn tay đặt lên vai trái.
 
-Tôi hét to đến mức nếu dưới thung lũng có ma thật chắc nó cũng giật mình.
+Tôi hét lớn đến mức chính mình cũng giật mình.
 
-— ĐÂY!
+Ông Tài đứng bên cạnh, cúi người thở hổn hển.
 
-Tôi quay lại.
-
-Ông Tài đứng ngay bên cạnh, thở hổn hển, mặt nhăn nhó.
-
-— Ông nội!
+— Tôi đây! La cái gì dữ vậy?
 
 Tôi ôm ngực.
 
-— Chú muốn giết con lấy tiền xe hả?
+— Chú đi kiểu gì mà không lên tiếng từ sớm?
 
-— Xe hỏng rồi.
+— Tôi gọi muốn khàn cổ rồi còn gì.
 
 — Xe đâu?
 
-— Dưới kia.
+— Hỏng dưới kia.
 
-— Sao không đứng chờ?
+— Sao chú không ở lại với xe?
 
-Ông nhìn xuống con đường tối phía sau.
+Ông Tài nhìn ngược về con đường tối phía sau, rồi trả lời thẳng:
 
-— Không muốn ở một mình.
+— Không muốn đứng một mình.
 
-Tôi nhìn ông.
+Tôi nhìn ông một lúc. Người vừa kiên quyết bỏ tôi lại giữa núi giờ chạy bộ theo vì không dám ở với cái xe chết máy.
 
-— Vậy hồi nãy ai nói con tự chọn tìm ma?
+— Vậy hồi nãy chú còn nói con tự chọn lên đây.
 
-— Tôi có nói tôi không được đổi ý đâu.
+— Thì tôi đổi ý.
 
-Tôi không biết nên tức hay nên vui vì cuối cùng có thêm một người sống đi cùng.
+Câu trả lời tỉnh đến mức tôi chẳng biết cãi sao. Dù vậy có thêm một người sống đi cùng vẫn tốt hơn rất nhiều, nên tôi chỉ xách vali rồi bước tiếp.
 
-Chúng tôi đi cạnh nhau.
+Đi được khoảng mười phút, ông Tài hỏi:
 
-Sau khoảng mười phút, ông Tài hỏi:
+— Cậu đọc về Ma Lai rồi phải không?
 
-— Cậu tìm Ma Lai thật à?
+— Cũng kha khá.
 
-— Ừ.
+— Người ta kể thế nào?
 
-— Biết nó là gì không?
+Tôi nói những gì mình đã ghi: ban ngày là người bình thường, ban đêm phần đầu và nội tạng tách khỏi thân; hay tìm máu, đồ tanh, xác động vật hoặc những thứ bẩn để ăn. Mỗi nơi lại thêm bớt khác nhau.
 
-— Theo chuyện kể thì ban ngày là người, ban đêm đầu với ruột bay ra ngoài.
-
-— Còn gì?
-
-— Hay ăn đồ tanh, đồ bẩn. Có nơi nói ăn phân, xác động vật, máu.
+Ông Tài nghe hết rồi hỏi:
 
 — Cậu tin không?
 
-— Chưa thấy thì chưa tin.
+— Trước hôm nay thì không. Giờ... con chưa biết.
 
-Tôi chỉ đại vào một bụi cây ven đường.
+Tôi đưa đèn về một bụi cây phía trước theo phản xạ.
 
-— Giờ trong đó có cái đầu bay ra thì con tin liền.
+— Có cái đầu nào bay ra ngay chỗ đó thì con tin chắc luôn.
 
-Ông Tài dừng lại.
+Ông Tài dừng bước.
 
-Tôi đi thêm hai bước mới nhận ra.
+Tôi đi thêm hai bước mới nhận ra ông không theo.
 
-— Sao vậy?
+— Chú sao vậy?
 
-Mặt ông trắng bệch.
+Ông không trả lời, chỉ giơ tay chỉ đúng bụi cây tôi vừa nói. Mặt ông tái đi dưới ánh đèn.
 
-Ngón tay run run chỉ về đúng bụi cây tôi vừa chỉ.
+— Rọi qua đó đi.
 
-— Cậu... thấy không?
+Tôi tưởng ông trả đũa vụ lúc nãy, nhưng giọng không có chút đùa nào.
 
-Tôi cười.
+Tôi chậm rãi đưa luồng sáng sang.
 
-— Chú đừng trả đũa con vụ hồi nãy nha.
+Ban đầu chỉ thấy lá ướt và cành cây đan vào nhau. Rồi giữa hai nhánh thấp hiện ra một khuôn mặt phụ nữ.
 
-— Nhìn đi.
+Không có vai.
 
-Giọng ông không giống đang đùa.
+Không có thân.
 
-Tôi từ từ quay đèn pin.
+Chỉ một khuôn mặt nằm giữa bụi cây ở độ cao ngang ngực người đứng. Tóc đen bết lại hai bên má. Mắt mở rất lớn, lòng trắng nhiều đến mức tròng đen chỉ còn như hai chấm nhỏ. Miệng đang nhai thứ gì đó, phát ra âm thanh ướt và chậm.
 
-Ánh sáng lướt qua lá.
+Nhoẹt. Nhoẹt.
 
-Một khuôn mặt phụ nữ xuất hiện giữa bụi cây.
+Tôi rọi thấp hơn một chút và nhìn thấy nửa con ếch đã trương mắc giữa hàm răng. Phần bụng bị cắn rách, dịch đen chảy xuống cằm người phụ nữ.
 
-Chỉ khuôn mặt.
+Dạ dày tôi co lại.
 
-Không thân.
+Khuôn mặt ngừng nhai, từ từ ngẩng lên nhìn thẳng vào luồng đèn.
 
-Tóc đen rũ xuống, bết thành từng mảng. Đôi mắt mở lớn, lòng trắng nhiều đến mức gần như không thấy tròng đen. Miệng đang nhai thứ gì đó.
+Rồi nó nhấc khỏi bụi cây.
 
-Nhoẹt.
+Bên dưới cổ là một chùm nội tạng dài, bóng ướt, kéo thành những dải sẫm màu dưới đầu. Chúng không rơi xuống đất mà đung đưa theo chuyển động, như toàn bộ thứ ấy nhẹ hơn trọng lượng nó đáng lẽ phải có. Một mùi tanh thối ập tới làm tôi phải quay mặt ho khan.
 
-Nhoẹt.
+Ông Tài nói bên cạnh, gần như không thành tiếng:
 
-Tôi rọi thấp hơn.
+— Chạy đi.
 
-Một con ếch đã trương nằm giữa hai hàm răng. Da bụng nó rách, nước đen chảy xuống cằm người phụ nữ.
+Lần này tôi không hỏi tại sao.
 
-Tôi không thở được.
+Hai chúng tôi cùng quay đầu. Chiếc vali bị bỏ lại ngay giữa đường. Tôi chỉ kịp giữ điện thoại và ba lô đang đeo trên người.
 
-Cái đầu ngẩng lên.
+Chúng tôi chạy qua một khúc cua, rồi thêm một đoạn nữa. Tôi không nghe tiếng đuổi theo, nhưng cũng không dám nhìn lại. Ông Tài thở nặng bên cạnh, giày trượt vài lần trên nền ướt.
 
-Nhìn thẳng vào tôi.
+Đến khi phổi đau rát, cả hai mới dừng dưới một đoạn đường trống hơn.
 
-Rồi nó bay lên khỏi bụi cây.
+Tôi chống tay lên gối, mất một lúc mới nói nổi.
 
-Bên dưới cổ không phải khoảng trống.
-
-Một bó nội tạng dài, bóng ướt, kéo theo dưới đầu như những sợi dây đỏ sẫm. Không có máu nhỏ xuống. Chúng chỉ đung đưa trong không khí, phát ra mùi tanh thối nồng đến mức tôi muốn nôn.
-
-Ông Tài nói rất nhỏ:
-
-— Chạy.
-
-Tôi chưa từng nghe một lời khuyên nào hợp lý hơn.
-
-Hai chúng tôi quay đầu chạy.
-
-Vali của tôi bị bỏ lại ngay giữa đường.
-
-Đời người có những lúc phải biết cái gì đáng giữ.
-
-Mười phút trước tôi còn nghĩ trong đó có laptop rất quan trọng.
-
-Bây giờ mạng sống có vẻ ưu tiên hơn.
-
-Chúng tôi chạy qua một khúc cua. Tôi không dám nhìn lại. Ông Tài thở như kéo bễ bên cạnh.
-
-Được chừng hai trăm mét, không thấy tiếng gì đuổi theo, cả hai mới dừng.
-
-Tôi chống tay lên gối, tim muốn nhảy ra ngoài.
-
-— Chú... thấy giống con không?
+— Chú... chú cũng thấy đúng không?
 
 — Thấy.
 
-— Vậy không phải con bị ảo giác.
+— Thấy cả ruột?
 
-— Cậu còn quan tâm cái đó hả?
+Ông Tài quay sang nhìn tôi như thể câu hỏi ấy xúc phạm tình hình hiện tại.
 
-Ông Tài ho dữ dội, quay sang ven đường khạc một bãi đờm.
+— Thấy hết.
 
-Tôi chưa kịp nói gì thì nghe sau lưng ông:
+Vậy ít nhất tôi chưa phát điên một mình.
 
-Nhoẹt.
+Ông Tài cúi người ho dữ, quay sang bụi cỏ ven đường khạc xuống. Tôi còn đang cố lấy lại hơi thì nghe phía sau ông một tiếng rất nhỏ.
 
 Nhoẹt.
 
 Tôi ngẩng lên.
 
-Cái đầu đang lơ lửng cách ông chưa tới nửa mét.
+Cái đầu đang lơ lửng cách lưng ông Tài chưa tới nửa mét.
 
-Nó cúi xuống.
+Nó cúi xuống bụi cỏ, cái lưỡi dài thò ra liếm đúng chỗ ông vừa khạc.
 
-Một cái lưỡi dài thò ra, liếm bãi đờm ông vừa khạc trên lá.
+Tôi không hét. Không biết vì sợ quá hay vì cơ thể đã hết hơi để hét.
 
-Tôi và nó nhìn nhau.
+Ông Tài nhìn mặt tôi, nhận ra có gì đó sau lưng.
 
-Tôi quyết định tình nghĩa con người có thể tạm hoãn ba giây.
+— Gì vậy?
 
-Tôi quay đầu chạy.
+Tôi lùi một bước.
 
-Sau lưng, ông Tài hỏi:
+— Chú... đừng quay nhanh.
 
-— Sao chạy nữa?
+Ông vẫn quay.
 
-Rồi im.
+Mọi thứ xảy ra rất lẹ. Ông Tài giật lùi, chân trượt khỏi mép đường rồi ngã ngửa. Tôi quay đầu chạy theo phản xạ, được vài chục mét mới nhận ra phía sau không còn tiếng bước chân của ông.
 
-Tôi nghe một tiếng bịch.
+Tôi dừng lại.
 
-Chạy được gần năm chục mét, tôi mới dám quay lại.
+Không nghe ông gọi.
 
-Ông Tài nằm bất động giữa đường.
+Tôi quay nhìn.
 
-Cái đầu đang bay trên người ông.
+Ông Tài nằm giữa đường, bất động. Cái đầu lơ lửng ngay phía trên ngực ông, chùm nội tạng rũ xuống gần như phủ cả phần thân.
 
-Tôi đứng trong bóng tối, thở đến đau phổi.
+Tôi đứng trong bóng tối, thở tới đau hai bên sườn. Toàn bộ cơ thể chỉ muốn chạy tiếp, tìm bất kỳ ngôi nhà nào rồi khóa cửa lại.
 
-Trong đầu chỉ có một câu.
+Nhưng ông Tài vẫn nằm đó.
 
-Mẹ kiếp.
+Tôi không biết ông đã chết chưa.
 
-Mình quay lại hay không?
+Tôi cũng không biết thứ kia sẽ làm gì nếu tôi quay lại.
+
+Trong đầu lúc ấy chỉ còn đúng một câu hỏi, đơn giản đến tàn nhẫn:
+
+Mình bỏ chạy, hay quay lại lấy một người còn có thể sống?

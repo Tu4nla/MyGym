@@ -1,715 +1,447 @@
-Đêm đầu tiên ở nhà ông Tích, tôi không ngủ.
+Đêm đầu tiên ở nhà ông Tích, tôi gần như không ngủ.
 
-Không phải vì sợ Ma Lai.
+Một phần vì giường gỗ cứng tới mức cứ trở mình là lưng lại nhắc tôi nhớ mình có xương sống. Phần khác vì ông Tài nằm cạnh ngáy rất đều, lúc trầm lúc cao, nghe như một cái máy nổ cũ không chịu tắt hẳn.
 
-Tôi xin đính chính: tôi không ngủ vì cái giường gỗ cứng như thể ông Tích đóng nó bằng lòng căm thù cột sống con người, với lại ông Tài ngáy bên cạnh như đang thử máy nổ.
+Tôi còn có thể chịu được hai chuyện đó.
 
-Còn chuyện ngoài cửa sổ cứ khoảng nửa tiếng lại có tiếng móng tay cào lên vách gỗ thì... ừm, cái đó chỉ góp phần nhỏ thôi.
+Thứ làm tôi tỉnh thật sự là tiếng cào ngoài vách.
 
-Tôi nằm ngửa, hai tay đặt trên ngực, mắt nhìn trần nhà tối om.
+Nó không vang liên tục. Cứ một lúc, khi tôi vừa bắt đầu lim dim, từ phía bức tường cạnh cửa sổ lại có ba bốn tiếng rất nhẹ, giống đầu móng tay kéo qua gỗ khô.
 
-Một giờ mười hai.
+Lần đầu tôi nghĩ chuột. Lần hai nghĩ cành cây. Tới lần thứ ba, tôi nhớ rất rõ phía bên đó không có cây nào mọc sát nhà.
 
-Một giờ bốn mươi.
-
-Hai giờ lẻ năm.
+Tôi mở điện thoại. Hai giờ lẻ năm.
 
 Tiếng cào lại vang lên.
 
-Kẹt.
+Kẹt... kẹt...
 
-Kẹt.
-
-Kẹt.
-
-Tôi quay sang ông Tài.
+Tôi nằm im thêm vài giây rồi quay sang ông Tài.
 
 — Chú Tài.
 
-Lão ngáy.
+Không phản ứng.
 
-— Chú Tài.
+— Chú Tài, dậy chút.
 
-Lão đổi bên, miệng vẫn mở.
+Ông đổi tư thế, kéo chăn lên vai.
 
-Tôi lấy gối ném.
+Tôi phải lay chân mới khiến ông bật dậy.
 
-— Chú Tài!
+— Gì vậy? — ông hỏi ngay, mắt còn chưa mở hết. — Nó vô hả?
 
-Ông bật dậy như bị điện giật.
+— Chưa thấy gì. Ngoài vách có tiếng.
 
-— Gì? Nó vô hả?
-
-— Chưa.
-
-— Vậy gọi tôi làm gì?
-
-— Ngoài kia có tiếng.
-
-Ông Tài im.
-
-Hai thằng cùng nhìn cửa sổ.
-
-Kẹt.
+Ông Tài tỉnh hẳn. Hai chúng tôi cùng ngồi nghe.
 
 Kẹt.
 
 Lần này rõ hơn.
 
-Ông Tài kéo chăn lên tới cằm.
+Ông nhìn tôi.
 
-— Cậu đi coi đi.
+— Cậu ra coi đi.
 
-Tôi nhìn lão.
+— Sao lại con?
 
-— Chú lớn tuổi hơn.
+— Cậu có đèn pin.
 
-— Cậu làm báo.
+— Chú cũng có điện thoại.
 
-— Liên quan gì?
+Ông Tài kéo chăn lại một chút.
 
-— Đi lấy tư liệu.
+— Tôi vừa suýt chết tối qua, cho tôi nghỉ một đêm được không?
 
-Tôi thề nghề báo là nghề đầu tiên trong đời bị người ta dùng để ép bạn ra xem ma lúc hai giờ sáng.
+Lý do hợp lý đến mức khó phản bác. Tôi đành xuống giường, nhưng nhớ lời ông Tích nên không đụng tới then cửa. Tôi chỉ cầm đèn pin đi qua gian ngoài, tới sát cửa sổ.
 
-Tôi lôi đèn pin, chậm rãi bước xuống giường.
+Cả nhà đã tắt đèn. Ánh trăng nhợt xuyên qua khung cửa, đủ thấy bàn gỗ, mấy chiếc ghế thấp và phần bàn thờ chìm trong bóng tối. Mùi nhang đã nguội trộn với khói bếp còn vương trong nhà.
 
-Căn phòng khách chúng tôi nằm thông với gian bếp nhỏ. Nhà ông Tích đã tắt hết đèn. Chỉ có chút ánh trăng nhợt nhạt xuyên qua khe cửa sổ, đủ thấy cái bàn gỗ, mấy chiếc ghế thấp và bàn thờ đặt sát vách.
+Tôi vừa tới nơi thì tiếng cào dừng.
 
-Mùi nhang lạnh trộn với mùi khói bếp.
+Tôi rọi đèn qua cửa kính.
 
-Tôi bước tới cửa sổ.
+Khoảng sân phủ một lớp sương mỏng. Con chó nằm cuộn dưới mái hiên, đầu ngẩng lên nhìn về phía tôi. Nó không sủa, cũng không có vẻ cảnh giác đặc biệt.
 
-Tiếng cào dừng.
+Tôi định quay về giường thì thấy bên mép sân có một người đứng quay lưng.
 
-Tôi nuốt khan.
+Tóc dài, áo sẫm màu, dáng nhỏ.
 
-Rọi đèn ra ngoài.
+Tim tôi nhảy lên một cái. Tôi đưa đèn cao hơn nhưng không mở cửa.
 
-Không có gì.
+— Ai đó?
 
-Khoảng sân trước nhà phủ sương mỏng. Con chó nằm cuộn dưới mái hiên, đầu ngẩng lên nhìn tôi. Nó không sủa.
-
-Tôi sắp quay lại thì thấy một bóng người đứng bên trái sân.
-
-Cách cửa sổ chưa tới mười mét.
-
-Tóc dài.
-
-Áo sẫm.
-
-Đứng quay lưng.
-
-Tôi đông cứng.
-
-— Chú Tài.
-
-— Gì?
-
-— Có người.
-
-Lão lập tức kéo chăn cao hơn.
-
-— Ai?
-
-— Con không biết.
-
-Bóng người từ từ quay đầu.
+Người kia quay đầu.
 
 Mây.
 
-Con gái ông Tích.
-
-Tôi thở ra mạnh đến mức suýt cười.
-
-— Trời ơi.
-
-Cô ấy không nhìn tôi.
-
-Mây đang nhìn về phía rừng sau nhà.
-
-Tôi mở cửa.
-
-Không khí lạnh đập thẳng vào mặt.
+Tôi thở ra. Cảm giác nhẹ nhõm tới nhanh rồi dừng lại ngay, vì nhớ lời ông Tích vừa dặn trước lúc ngủ.
 
 — Mây?
 
-Cô quay lại.
+Cô bước lại gần cửa sổ nhưng vẫn đứng ngoài sân.
 
 — Anh chưa ngủ à?
 
-— Anh cũng định hỏi em câu đó.
+— Anh cũng định hỏi em. Khuya rồi em đứng ngoài đó làm gì?
 
-— Em ra coi chó.
+— Em nghe chó động nên ra coi.
 
-Tôi nhìn con chó đang nằm rất bình thường.
+Tôi nhìn sang con chó. Nó vẫn nằm yên, chỉ có mắt mở.
 
-— Nó có vẻ ổn hơn anh nhiều.
+— Nó nhìn ổn hơn anh nhiều.
 
-Mây cười rất khẽ.
+Mây cười rất khẽ, rồi nụ cười nhanh chóng biến mất khi tôi hỏi:
 
-Trong ánh trăng, mặt cô trắng hơn ban tối.
+— Em có nghe tiếng cào ở vách bên này không?
 
-Tôi đi xuống hai bậc đá.
-
-— Em nghe tiếng cào không?
-
-Nụ cười trên mặt Mây biến mất.
+Cô quay sang nhìn phần tường ngoài phòng khách.
 
 — Tiếng gì?
 
-— Ngoài vách.
+— Giống móng tay kéo trên gỗ. Từ nãy mấy lần rồi.
 
-Cô nhìn sang bức tường cạnh phòng chúng tôi.
+Mây im một lúc.
 
-— Có thể cành cây.
+— Có thể con gì đó.
 
-— Vách đó không có cây sát.
+— Ừ. Anh cũng mong là con gì đó.
 
-Mây im.
+Tôi không muốn cố ép câu trả lời, nhưng câu chuyện ở bàn ăn vẫn mắc trong đầu. Qua lớp kính, tôi nhìn thấy ba ngấn mảnh trên cổ Mây dưới ánh trăng.
 
-Tôi nhìn cổ cô.
+— Mây, lúc tối em hỏi anh chuyện sinh đôi... rồi nói hai mùi máu. Em nói nhầm thật hả?
 
-Ba đường ngấn nằm yên trên da.
+Cô nhìn tôi khá lâu. Khi trả lời, giọng nhỏ hơn:
 
-Một ý nghĩ rất ngu ngốc chạy qua đầu.
+— Em không biết gọi nó là gì.
 
-Nếu tối nay cô ấy là người, vậy cái đầu ngoài đường là ai?
+— Vậy em cảm thấy gì?
 
-Tôi hỏi:
+— Giống như... một người mà có hai thứ khác nhau ở bên trong. Hai mùi máu không giống nhau, nhưng đều từ anh.
 
-— Em có chị em gái không?
+Tôi im. Bình thường đầu tôi sẽ lập tức tìm một câu đùa để lấp khoảng trống, nhưng nhìn nét mặt Mây, tôi không thấy câu nào thích hợp.
 
-Mây nhìn tôi hơi lâu.
+— Em từng gặp ai vậy chưa?
 
-— Không.
+— Chưa.
 
-— Anh em sinh đôi?
+— Bố em biết chuyện này?
 
-— Không.
+Mây quay mặt đi.
 
-— Người giống em?
+— Anh đừng hỏi nữa.
 
-— Anh đang hỏi gì vậy?
+— Anh không định viết tên em nếu em không đồng ý. Anh chỉ muốn hiểu chuyện mình vừa thấy.
 
-Tôi gãi đầu.
+Cô nhìn về phía gian nhà trong, như sợ ai nghe được.
 
-— Nghề nghiệp thôi. Thấy gì lạ thì hỏi.
+— Anh Huy, sáng mai anh rời đây đi.
 
-Cô nhìn tôi rồi bất ngờ hỏi ngược:
+— Vì thứ ngoài đường tối qua?
 
-— Anh có anh em sinh đôi không?
+— Vì nhiều thứ.
 
-Tôi bật cười.
+— Em cũng ở đây mà.
 
-— Không. Nhà anh nghèo lắm, nuôi một mình anh đã gần phá sản.
+Mây cười buồn.
 
-Mây không cười.
+— Nhà tôi thì tôi đi đâu?
 
-Cô bước lại gần một chút.
+Câu ấy làm tôi không biết trả lời.
 
-Tôi ngửi thấy mùi tanh ấy.
+Một luồng gió thổi qua sân, kéo sương dịch sang bên. Mây lùi lại một bước.
 
-Rất mỏng.
+— Anh đừng ở lại chỉ vì muốn có bài hay. Có những chuyện biết thêm chẳng giúp được gì đâu.
 
-Cô nhìn cổ tay tôi.
+— Em đang dọa anh hả?
 
-— Lạ thật.
+— Không. Em đang nói thật.
 
-— Gì?
+Cô nhìn tôi thêm một lúc rồi quay đi về phía gian nhà sau. Tôi không mở cửa, chỉ đứng bên cửa sổ nhìn cho tới khi bóng cô mất sau góc tường.
 
-— Trên người anh có hai mùi máu.
+Ông Tài từ phía sau nói nhỏ:
 
-Tôi đứng yên.
+— Nó bảo gì vậy?
 
-Trong đầu lập tức có khoảng năm câu đùa chạy qua, nhưng ánh mắt Mây khiến tôi không nói được câu nào.
+Tôi giật mình quay lại. Ông đã ngồi trên giường, chăn quấn quanh vai.
 
-— Hai mùi máu là sao?
-
-Mây như chợt nhận ra mình vừa nói quá nhiều.
-
-— Không có gì.
-
-— Em vừa nói rất có gì đó.
-
-— Em nói nhầm.
-
-— Người ta có thể nói nhầm tên, nhầm giờ. Ít ai nói nhầm số lượng mùi máu.
-
-Mây quay đi.
-
-— Anh vào ngủ đi.
-
-— Mây.
-
-Cô dừng.
-
-— Tối qua thứ tụi anh gặp là gì?
-
-Im lặng.
-
-Rừng phía sau nhà phát ra tiếng lá xào xạc dài như có thứ gì vừa lướt qua.
-
-Mây nhìn vào đó.
-
-— Nếu anh còn muốn viết tiếp Ma Kí Sự thì sáng mai rời đây.
-
-— Em đang đuổi khách hả?
-
-— Em đang khuyên anh.
-
-— Hai việc khác nhau hả?
-
-— Khác.
-
-Cô quay lại nhìn tôi.
-
-— Người ta chỉ chết một lần thôi, anh Huy.
-
-Nói xong cô đi thẳng vào gian nhà phía sau.
-
-Tôi đứng giữa sân.
-
-Gió lạnh hơn lúc nãy.
-
-Đằng sau, ông Tài hé cửa.
-
-— Nó nói gì?
-
-Tôi quay lại.
-
-— Nó bảo sáng mai đi.
+— Bảo sáng mai đi.
 
 — Vậy đi.
 
-— Chú không tò mò hả?
+— Chú quyết nhanh dữ.
 
-— Tôi bốn mươi sáu tuổi rồi. Tò mò là quyền của người trẻ.
-
-— Vậy tối qua chú chạy theo con làm gì?
-
-— Tôi sợ.
-
-— Chú sống thật ghê.
-
-— Nhờ vậy mới sống tới giờ.
-
-Tôi phải công nhận câu đó hợp lý.
-
-***
-
-Sáng hôm sau, ông Tích dậy từ lúc trời còn mờ.
-
-Tôi nghe tiếng dao chặt củi ngoài sân. Khi bước ra, sương phủ kín sườn núi đối diện, chỉ còn mấy mái nhà nhô lên như những hòn đảo nhỏ.
-
-Ông Tích đang bổ một khúc gỗ.
-
-— Bác.
-
-— Ừ.
-
-— Con hỏi chuyện tối qua được không?
-
-— Ăn sáng trước.
-
-— Con chưa đói.
-
-— Cậu ăn rồi tôi nói.
-
-Người lớn vùng núi có một kiểu quyền lực rất lạ: họ không cần nói to, bạn vẫn tự nhiên ngồi xuống ăn bát mì họ đưa.
-
-Tôi ăn.
-
-Ông Tài ăn hai bát.
-
-Mây không xuất hiện.
-
-Tôi hỏi:
-
-— Mây đâu bác?
-
-Ông Tích không ngẩng lên.
-
-— Ngủ.
-
-— Giờ này?
-
-— Tối qua nó mệt.
-
-Ông Tài và tôi cùng nhìn nhau.
-
-Tôi đặt đũa xuống.
-
-— Bác Tích. Cái tụi con gặp tối qua có liên quan tới Mây đúng không?
-
-Ông Tích dừng tay.
-
-Một lúc sau, ông nói:
-
-— Cậu làm báo. Cậu muốn sự thật hay muốn câu chuyện hay?
-
-— Nếu được thì cả hai.
-
-— Tham.
-
-— Nghề con vậy.
-
-Ông thở dài.
-
-— Vậy cậu đi theo tôi.
-
-Ông dẫn chúng tôi ra phía sau nhà.
-
-Có một gian nhỏ tách khỏi nhà chính bằng khoảng sân hẹp. Cửa khóa bằng thanh gỗ ngang, bên ngoài dán ba mảnh giấy đã ngả nâu.
-
-Tôi nhận ra đó là phòng Mây.
-
-Ông Tích gõ ba tiếng.
-
-Không ai đáp.
-
-Ông tháo thanh gỗ.
-
-Cửa mở.
-
-Trong phòng tối.
-
-Mùi tanh ập ra mạnh hơn nhiều.
-
-Ông Tài lùi một bước.
-
-Tôi bật đèn pin.
-
-Mây nằm trên giường.
-
-Rất ngay ngắn.
-
-Hai tay đặt dọc thân.
-
-Da mặt trắng bệch.
-
-Tôi nhìn cô vài giây rồi thấy có gì đó không đúng.
-
-Ngực không nhấp nhô.
-
-— Bác...
-
-Ông Tích bước vào, đặt hai ngón tay lên cổ con gái.
-
-— Không sao.
-
-— Cô ấy không thở.
-
-— Tôi biết.
-
-Tôi lạnh sống lưng.
-
-Ông kéo tấm chăn xuống một chút.
-
-Phần cổ Mây quấn một vòng vải trắng rất dày.
-
-Ở mép vải có vết máu khô.
-
-— Tối qua đầu nó rời khỏi thân. — ông Tích nói.
-
-Tôi không trả lời được.
-
-— Cái tụi con gặp là Mây?
-
-— Ừ.
-
-Ông Tài ngồi phịch xuống bậc cửa.
-
-— Trời đất...
-
-Tôi nhìn cô gái nằm im.
-
-Gương mặt ấy không giống quỷ.
-
-Chỉ giống một người đang ngủ rất sâu.
-
-— Vậy sao tối qua con thấy Mây đứng ngoài sân?
-
-Ông Tích quay sang.
-
-— Cậu thấy Mây?
-
-— Hai giờ sáng. Nói chuyện với con.
-
-Lần đầu tiên từ khi gặp, mặt ông Tích thực sự đổi sắc.
-
-— Cậu chắc?
-
-— Chắc.
-
-— Nó nói gì?
-
-— Khuyên con rời đi. Rồi nói...
-
-Tôi dừng.
-
-— Nói gì?
-
-— Trên người con có hai mùi máu.
-
-Ông Tích nhìn tôi rất lâu.
-
-Sau đó ông bước ra đóng cửa phòng Mây.
-
-— Hai cậu thu đồ đi.
-
-— Bác chưa giải thích.
-
-— Không cần nữa.
-
-— Sao vậy?
-
-— Vì người nói chuyện với cậu đêm qua không phải Mây.
-
-Gáy tôi lạnh hẳn.
-
-— Nhưng mặt giống hệt.
-
-— Nó không thể về thân trước khi trời sáng.
-
-Ông Tích cài lại thanh cửa.
-
-— Và khi đầu chưa về thân, cái xác này không có bóng.
-
-Tôi nhớ lại khoảng sân.
-
-Ánh trăng.
-
-Mây đứng cạnh bậc đá.
-
-Tôi đã không nhìn xuống chân.
-
-***
-
-Tôi không đi.
-
-Đây là đoạn mà nếu mẹ tôi đọc được chắc sẽ mắng tôi ba ngày.
-
-Nhưng lúc đó đầu tôi đã bị một thứ còn nguy hiểm hơn ma quỷ chiếm: tò mò nghề nghiệp.
-
-Tôi hỏi ông Tích:
-
-— Nếu thứ nói chuyện với con không phải Mây, nó biết chuyện hai mùi máu bằng cách nào?
-
-— Tôi không biết.
-
-— Bác từng nghe ai nói vậy chưa?
-
-Ông im.
-
-— Bác biết đúng không?
-
-— Biết một chuyện khác.
-
-Ông ngồi xuống ghế gỗ ngoài sân.
-
-— Mười chín năm trước, mẹ Mây sinh hai đứa.
+— Tôi bốn mươi sáu tuổi rồi. Tò mò ít lại sống khỏe hơn.
 
 Tôi nhìn ông.
 
-— Sinh đôi?
+— Tối qua chú vẫn chạy theo con mà.
 
-— Ừ. Một trai, một gái. Thằng bé chết ngay trong đêm. Mây sống.
+— Vì tôi sợ đứng một mình, chứ đâu phải vì tò mò.
 
-— Liên quan gì tới lời nguyền?
+Tôi không tranh luận được. Ít nhất ông Tài thành thật với nỗi sợ của mình hơn tôi.
+
+***
+
+Sáng hôm sau tôi tỉnh vì tiếng bổ củi ngoài sân. Sương phủ kín sườn núi đối diện, chỉ còn vài mái nhà nhô lên như những mảng tối giữa một biển trắng.
+
+Ông Tích đã dậy từ lâu. Ông đang bổ khúc gỗ cuối cùng thì tôi bước ra.
+
+— Bác Tích, con hỏi chuyện tối qua chút được không?
+
+Ông dựng rìu vào gốc cây.
+
+— Ăn sáng trước.
+
+— Con chưa đói lắm.
+
+— Vậy ăn ít.
+
+Không hiểu sao nghe ông nói là tôi tự đi vào ngồi. Ông Tài đã có mặt bên mâm từ lúc nào và đang ăn gần hết bát thứ nhất.
+
+Mây không xuất hiện.
+
+Tôi đợi một lúc rồi hỏi:
+
+— Mây chưa dậy hả bác?
+
+Ông Tích không nhìn lên.
+
+— Nó mệt. Đang nằm.
+
+Ông Tài với tôi cùng nhìn nhau. Sau chuyện đêm qua, câu ấy nghe không còn bình thường.
+
+Tôi đặt đũa xuống.
+
+— Bác, thứ tụi con gặp ngoài đường có liên quan tới Mây đúng không?
+
+Ông Tích dừng ăn. Một lúc sau mới hỏi:
+
+— Cậu làm báo, cậu muốn biết để giúp hay để viết?
+
+Tôi nghĩ thật rồi mới trả lời.
+
+— Ban đầu là để viết. Giờ con không chắc nữa. Nhưng con muốn biết mình đã thấy cái gì.
+
+Ông nhìn tôi, có vẻ câu trả lời ấy ít làm ông khó chịu hơn.
+
+— Đi theo tôi.
+
+Ông dẫn chúng tôi vòng ra phía sau nhà. Ở đó có một gian nhỏ tách khỏi nhà chính bằng khoảng sân hẹp. Cửa được chặn bởi một thanh gỗ ngang, trên khung dán mấy mảnh giấy đã ngả nâu. Tôi nhận ra tối qua Mây đi về hướng này.
+
+Ông Tích gõ cửa ba lần. Không tiếng đáp.
+
+Ông tháo thanh gỗ, mở cửa.
+
+Mùi tanh lập tức tràn ra, đậm hơn hẳn mùi tôi từng ngửi thấy trên người Mây.
+
+Ông Tài đứng sau lưng tôi lùi lại một bước.
+
+Trong phòng, Mây nằm trên chiếc giường thấp, hai tay đặt dọc thân. Gương mặt trắng bệch nhưng rất yên, như người ngủ sâu sau một cơn sốt.
+
+Tôi nhìn vài giây mới nhận ra ngực cô không hề nhấp nhô.
+
+— Bác... cô ấy không thở.
+
+— Tôi biết.
+
+Ông Tích bước vào, kiểm tra vùng cổ rồi kéo chăn xuống một chút. Quanh cổ Mây quấn một lớp vải trắng dày; ở mép vải có những vệt máu đã thẫm màu.
+
+Tôi không muốn hiểu câu trả lời trước khi ông nói ra, nhưng vẫn hiểu.
+
+— Tối qua đầu nó rời khỏi thân — ông Tích nói.
+
+Ông Tài ngồi xuống ngay bậc cửa.
+
+Tôi đứng yên.
+
+— Vậy thứ tụi con thấy ở ngoài đường là Mây?
+
+— Là đầu nó.
+
+Tôi nhìn gương mặt nằm trên giường. Không có gì giống một con quỷ. Chỉ là cô gái tối qua còn ngồi ăn cơm đối diện tôi.
+
+— Bác nói đầu rời khỏi thân... vậy cơ thể vẫn sống sao?
+
+— Không giống kiểu sống bình thường. Mạch gần như không có, không thở. Tới gần sáng nó mới về lại.
+
+Một ý nghĩ chạy qua đầu làm tôi lạnh cả người.
+
+— Nhưng tối qua khoảng hai giờ con nói chuyện với Mây ngoài sân.
+
+Ông Tích quay phắt sang.
+
+— Cậu nói gì?
+
+— Con không mở cửa. Con nói qua cửa sổ. Mây đứng ngoài đó, ngay cạnh sân. Tụi con nói mấy phút.
+
+Sắc mặt ông thay đổi lần đầu tiên từ khi tôi gặp ông.
+
+— Cậu chắc là nó?
+
+— Cùng mặt, cùng giọng. Cô ấy còn nhắc lại chuyện hai mùi máu.
+
+Ông Tích bước ra khỏi phòng, kéo cửa đóng lại rồi cài thanh gỗ rất nhanh.
+
+— Hai cậu thu đồ. Xuống núi hôm nay.
+
+— Bác, khoan đã. Nếu người tối qua không phải Mây thì là ai?
 
 — Tôi không biết.
 
-— Bác là bố mà.
+— Bác vừa nói đầu Mây chưa về thân. Vậy sao lại chắc người ngoài sân không phải cô ấy?
 
-— Là bố thì cái gì cũng phải biết à?
+Ông nhìn thẳng tôi.
 
-Câu hỏi làm tôi im.
+— Vì khi đầu nó còn ở ngoài, thân nó không có bóng. Thứ đi cùng đầu cũng không đứng thành một người nguyên vẹn như cậu tả.
 
-Ông Tích nhìn xuống hai bàn tay.
+Tôi nhớ ánh trăng đêm qua, nhớ mình chỉ nhìn mặt Mây qua cửa sổ mà không hề nhìn xuống dưới chân.
 
-— Mẹ nó mất ba năm sau đó. Từ lúc Mây mười ba tuổi mới bắt đầu có chuyện. Ban đầu chỉ sốt vào vài đêm nhất định. Sau đó ngủ không dậy. Rồi lần đầu tôi thấy đầu con mình ở ngoài thân.
+Lời ông Tài ở con đường hôm trước trở lại gần như nguyên vẹn.
 
-Giọng ông rất đều.
+Nhìn bóng trước rồi hãy quay.
 
-Chính sự đều ấy làm câu chuyện nặng hơn.
+***
 
-— Tôi đi tìm đủ người. Có người bảo tà thuật. Có người bảo nghiệp. Có người bảo giống ma lai bên Lào, bên Thái. Có người bảo trong nhà tôi nuôi quỷ. Mười người cho mười đáp án.
+Tôi đáng lẽ nên đi ngay.
 
-— Còn bác tin gì?
+Thật ra ông Tài đã bắt đầu thu đồ ngay khi nghe tới chữ “không phải Mây”. Nhưng tôi đứng ngoài sân, đầu đầy những câu hỏi không chịu xếp hàng.
 
-Ông ngẩng lên.
+— Bác Tích, cho con hỏi một câu cuối thôi.
 
-— Tôi tin nó là con gái tôi.
+Ông Tích đang cuộn sợi dây trong túi, không đáp.
 
-Không khí im đi.
+— Người tối qua biết chuyện hai mùi máu. Mây cũng biết. Nếu nó không phải Mây, sao nó biết?
 
-Tôi bỗng thấy mọi câu hỏi kiểu “có giết được nó không” tối qua của mình ngu kinh khủng.
+Tay ông dừng lại.
 
-Ông Tích nói tiếp:
+Tôi tiếp:
 
-— Nó không nhớ những lúc đó. Hoặc ít nhất nó nói không nhớ. Tôi giữ nó tránh xa người khác vào những đêm xấu. Thứ nó ăn chủ yếu là động vật chết, đồ bẩn. Tôi chưa từng thấy nó giết người.
+— Với lại lúc ăn tối Mây hỏi con có sinh đôi không. Câu đó có liên quan gì không?
 
-Ông Tài ho khẽ.
+Ông Tích ngồi xuống chiếc ghế gỗ ngoài hiên. Mất khá lâu ông mới nói:
 
-— Nó liếm tôi gần chết.
+— Mười chín năm trước, vợ tôi sinh hai đứa.
 
-— Ông còn sống.
+Tôi quay sang.
 
-— Cảm ơn vì tiêu chuẩn thấp vậy.
+— Mây là song sinh?
 
-Tôi suýt bật cười nhưng kìm lại.
+— Một trai, một gái. Thằng bé không qua được đêm đầu. Mây sống.
 
-— Vậy con Ma Lai không phải hung thủ ác quỷ gì hết.
+— Sau đó thì sao bác?
 
-— Tôi không nói thế.
+— Không có “sau đó” ngay. Mấy năm đầu Mây bình thường. Mẹ nó mất khi hai đứa mới ba tuổi. Tới lúc Mây mười ba mới bắt đầu sốt vào những đêm nhất định, rồi có lần ngủ không tỉnh. Lần đầu tôi nhìn thấy đầu con mình ở ngoài thân, tôi cũng nghĩ mình điên.
 
-Ông Tích nhìn thẳng tôi.
+Ông nói đều, gần như không đổi giọng. Chính vì vậy tôi mới nghe được sự mệt mỏi nằm dưới từng câu.
 
-— Người đói lâu thì hiền được bao lâu?
+— Bác từng hỏi người khác?
 
-Câu ấy khiến tôi hết muốn cười.
+— Hỏi nhiều. Người bảo tà thuật. Người bảo nghiệp. Người nói giống chuyện Ma Lai bên này bên kia. Có người còn bảo nhà tôi nuôi quỷ. Mười người mười cách giải thích, cuối cùng người phải khóa cửa mỗi đêm vẫn là tôi.
+
+— Bác tin cái nào?
+
+Ông Tích nhìn về gian phòng phía sau.
+
+— Tôi tin Mây là con gái tôi.
+
+Tôi im.
+
+Từ đầu chuyến đi, tôi luôn hỏi “nó là gì”, “có giết được không”, “có thật không”. Đối với ông Tích, câu hỏi đầu tiên lại đơn giản hơn nhiều: người nằm trong căn phòng kia là con ông.
+
+— Mây có nhớ những lúc đầu rời khỏi thân không?
+
+— Nó nói không. Tôi cũng không biết nó quên thật hay cố quên. Những đêm đó tôi giữ thân nó trong phòng, tránh cho đầu đi gần người. Phần lớn nó tìm xác động vật, đồ tanh hoặc những thứ bẩn. Tôi chưa từng thấy nó chủ động giết ai.
+
+Ông Tài xoa cổ.
+
+— Hôm qua nó làm tôi tưởng tới số rồi đó.
+
+Ông Tích nhìn sang.
+
+— Tôi đâu nói nó vô hại.
+
+Câu ấy đủ làm cả ba im.
 
 ***
 
 Gần trưa, Mây tỉnh.
 
-Tôi không được vào ngay.
-
-Ông Tích ở trong phòng gần nửa tiếng. Khi Mây bước ra, cổ cô quấn khăn cao. Mặt nhợt nhưng tỉnh táo.
-
-Cô nhìn tôi.
+Ông Tích vào phòng trước. Hơn hai mươi phút sau cô mới bước ra, cổ quấn khăn cao, gương mặt nhợt và đôi mắt thiếu ngủ. Vừa thấy hai chúng tôi còn ở đó, cô nhíu mày.
 
 — Anh chưa đi à?
 
-— Em đuổi khách dở quá.
+— Chú Tài đang muốn đi. Anh bị giữ lại vì hỏi nhiều.
 
-— Tôi nói thật.
+Ông Tài ở phía sân lập tức nói:
 
-— Anh cũng ở thật.
+— Tôi không giữ cậu nha.
 
-Mây nhìn cha.
+Mây không cười. Cô nhìn cha rồi nhìn tôi, dường như hiểu ông đã kể.
 
-Ông Tích gật rất nhẹ.
+— Anh thấy rồi phải không?
 
-Cô biết ông đã kể.
-
-Mặt Mây không thay đổi nhiều, nhưng bàn tay siết lại.
-
-— Anh thấy tôi rồi?
-
-— Tối qua ngoài đường.
+— Tối qua ngoài đường thì thấy.
 
 — Tôi có làm gì anh không?
 
-— Không.
+— Không. Chú Tài thì suýt có.
 
-— Chú Tài?
+Ông Tài ho khan, nhưng lần này tôi không cố biến câu đó thành trò vui. Mây cúi mặt.
 
-Ông Tài từ xa đáp ngay:
+— Em xin lỗi.
 
-— Có.
+— Em đâu nhớ mà xin lỗi.
 
-Tôi quay sang.
+— Vẫn là tôi.
 
-— Chú im giùm con chút được không?
-
-Mây cúi đầu.
-
-— Xin lỗi.
-
-Ông Tài định nói gì đó rồi thôi.
+Câu trả lời làm tôi nghẹn lại một chút.
 
 Tôi hỏi:
 
-— Em nhớ gì không?
-
-— Không.
-
-— Kể cả chuyện đứng ngoài sân nói chuyện với anh?
+— Em có nhớ tối qua ra ngoài sân nói chuyện với anh không?
 
 Mây ngẩng lên.
 
-— Tôi đâu có ra sân.
+— Tôi không ra sân.
 
-— Anh biết.
+— Anh biết rồi.
 
-— Vậy ai ra?
+Cô im lặng. Tôi kể lại cuộc nói chuyện qua cửa sổ, từ tiếng cào tới câu chuyện hai mùi máu. Mây càng nghe càng tái.
 
-— Đó là lý do anh chưa đi.
+— Em từng nghe ai nói như vậy trước đây chưa?
 
-Tôi kể lại.
+Mây nhìn ông Tích. Ông quay mặt sang chỗ khác.
 
-Khi nghe câu “hai mùi máu”, mặt Mây trắng hơn.
+— Hồi nhỏ, mẹ tôi có nói một câu gần giống — Mây đáp. — Lúc bà sốt nặng, trước khi mất.
 
-— Em từng nghe câu đó?
+— Nói gì?
 
-Mây không trả lời.
+— Bà nói trong nhà có hai đứa con... nhưng ba cái bóng.
 
-Ông Tích nói:
-
-— Mây.
-
-Cô nhìn cha.
-
-Rồi nhìn tôi.
-
-— Lúc nhỏ mẹ tôi từng nói một câu gần giống vậy.
-
-— Với ai?
-
-— Với bố.
-
-Ông Tích quay mặt đi.
-
-Mây nói tiếp:
-
-— Trước khi mẹ chết, có lần bà sốt mê man. Bà nói trong nhà có “hai đứa nhưng ba bóng”. Bố không bao giờ giải thích.
+Sân nhà im hẳn.
 
 Tôi nhìn ông Tích.
 
-Ông vẫn im.
+— Bác nghe câu đó?
 
-Một cơn gió thổi qua sân.
+Ông gật rất nhẹ.
 
-Con chó dưới hiên bỗng đứng bật dậy.
+— Bà ấy mê sảng. Tôi chưa bao giờ biết bà muốn nói gì.
 
-Nó nhìn về phía căn phòng Mây.
+Gió thổi qua sân. Con chó đang nằm dưới hiên bỗng ngẩng đầu, nhìn về phía sau lưng tôi rồi cụp tai xuống. Nó không sủa, chỉ rên một tiếng nhỏ.
 
-Gầm gừ.
+Phản xạ từ đêm trước khiến tôi không quay lại ngay.
 
-Không ai nói gì.
+Tôi cúi nhìn xuống đất.
 
-Tôi nhìn xuống đất.
+Nắng gần trưa chiếu xiên, bóng bốn chúng tôi kéo rõ trên nền: ông Tích, ông Tài, Mây và tôi.
 
-Bóng của tôi nằm dài theo nắng trưa.
+Tôi đếm lại.
 
-Bóng ông Tích.
+Rồi thấy bên cạnh bóng mình có một vệt đen khác, dài bằng một người đứng sát phía sau.
 
-Bóng ông Tài.
+Tôi ngẩng đầu nhìn khoảng sân trước mặt. Mây đang nhìn xuống đất giống tôi, mặt không còn chút máu.
 
-Bóng Mây.
+Sau lưng tôi không có ai.
 
-Bốn người.
-
-Bốn cái bóng.
-
-Tôi gần như tự cười vì mình thần kinh.
-
-Rồi con chó quay sang nhìn phía sau lưng tôi.
-
-Nó cụp tai.
-
-Rên lên một tiếng rất nhỏ.
-
-Tôi không quay lại ngay.
-
-Bài học tối qua tôi nhớ rồi.
-
-Tôi nhìn xuống đất trước.
-
-Bên cạnh bóng mình...
-
-có thêm một cái bóng nữa.
-
-Nhưng sau lưng tôi không có ai.
+Nhưng cái bóng thứ năm vẫn ở đó.

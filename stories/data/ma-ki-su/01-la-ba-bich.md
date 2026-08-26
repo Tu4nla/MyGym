@@ -1,349 +1,267 @@
-Xin chào tất cả các bạn.
+Xin chào tất cả các bạn. Tên tôi là Trương An Huy, hai mươi hai tuổi, cộng tác viên của tòa soạn Âm Dương. Nghề mơ ước của tôi là con trai duy nhất của một tỷ phú không biết tiêu tiền vào đâu; còn với tình hình lúc ấy, nghề có khả năng xảy ra nhất vào cuối tháng lại là thất nghiệp.
 
-Tên tôi là Trương An Huy, hai mươi hai tuổi, nghề nghiệp hiện tại là cộng tác viên tòa soạn Âm Dương, nghề nghiệp mơ ước là con trai duy nhất của một tỷ phú không biết tiêu tiền vào đâu, còn nghề nghiệp có khả năng xảy ra nhất cuối tháng này là thất nghiệp.
+Vì đây là lần đầu gặp nhau, tôi xin tự giới thiệu thêm một chút cho công bằng. Tôi cao khoảng mét bảy ba, người gọn chứ không có cơ bắp gì đáng khoe, tóc đen dày thường vuốt lệch sang phải, hôm nào ngủ quên thì mái rơi xuống gần mắt. Mặt hơi dài, lông mày đậm, mắt mí lót, mũi thẳng. Bên phải có một cái răng khểnh nhỏ, bình thường không thấy, cười lớn mới lộ.
 
-Về ngoại hình, tôi vốn định bỏ qua vì nói thật lại mang tiếng khoe.
+Mẹ tôi từng nhìn tôi rất lâu rồi kết luận:
 
-Nhưng vì đây là lần đầu gặp nhau, tôi mô tả khách quan.
+— Trông cũng được. Chỉ tiếc cái mồm.
 
-Tôi cao khoảng mét bảy ba, người gọn hơn là lực lưỡng, vai không rộng nhưng mặc sơ mi lên ảnh khá được. Tóc đen, dày, bình thường vuốt lệch sang phải; hôm nào lười thì mái rơi xuống gần mắt. Mặt hơi dài, lông mày đậm, mắt mí lót, mũi thẳng. Tôi có một cái răng khểnh nhỏ bên phải, mỗi lần cười lớn mới thấy.
+Tôi cho rằng đánh giá ấy có phần thiên kiến vì bà đã phải nuôi tôi suốt hai mươi hai năm.
 
-Theo lời mẹ tôi: “Trông cũng được, chỉ tiếc cái mồm.”
+Còn gia cảnh nhà tôi thì, nói thật, khổ lắm. Hồi nhỏ tôi xin quả bóng nhựa, ba mẹ không mua, thế là tôi đành vo mấy tờ năm trăm nghìn lại đá với tụi trong xóm. Chị tôi muốn nhảy dây, nhà thiếu dây nên phải tháo hai sợi dây chuyền vàng nối vào nhau. Sáng nào nhìn bạn bè được ba mẹ chở đi học bằng xe máy tôi cũng tủi thân, tự mở cửa chiếc Lamborghini cũ rồi ngồi chịu đựng mười lăm phút tới trường.
 
-Tôi thấy nhận xét đó thiếu khách quan.
+Đoạn trên là những gì tôi đang viết trong một bản nháp lúc chín giờ mười bảy phút sáng thì có thứ gì đó đập bốp vào sau đầu.
 
-Nếu Jin của BTS nhìn thấy tôi ngoài đường, khả năng cao cậu ấy vẫn đi tiếp vì cậu ấy không biết tôi là ai.
+Tôi ôm gáy, quay phắt lại.
 
-Đấy.
+— Ui da... ai vậy?
 
-Tôi là người rất khiêm tốn.
+Sếp Hòa đứng ngay sau ghế, một tay cầm cuộn tạp chí, tay kia cầm chính tờ nháp của tôi. Ánh đèn huỳnh quang hắt lên phần đỉnh đầu đã hói gần hết khiến ông trông càng khó ở.
 
-Gia cảnh nhà tôi thì nghèo kiết xác. Hồi nhỏ muốn có quả bóng nhựa đá với tụi trong xóm mà ba mẹ không mua nổi, đành vo mấy tờ năm trăm nghìn thành cục. Chị tôi muốn nhảy dây, nhà không có dây nên phải tháo hai sợi dây chuyền vàng nối lại. Đi học nhìn bạn bè được chở bằng xe máy mà tủi thân, sáng nào tôi cũng phải tự mở cửa chiếc Lamborghini cũ rồi chịu đựng mười lăm phút tới trường.
+— Cậu đang làm gì đây?
 
-Đời tôi nói chung khổ.
+— Viết mở đầu cho series mới, sếp.
 
-**BỐP!**
+— Tôi đọc từ nãy tới giờ không thấy series nào hết, chỉ thấy một thằng bốc phét.
 
-Một cuộn tạp chí đập thẳng vào sau đầu.
+Sếp lật tờ giấy xuống, đọc thành tiếng:
 
-— Ui da! Thằng nào...
+— “Ba tôi thuê xe rùa chở mẹ đi bán kim cương.” Cái này liên quan gì tới ma quỷ?
 
-Tôi quay lại.
+— Xây dựng nhân vật người kể ạ.
 
-Chiếc đầu hói của sếp Hòa phản chiếu ánh đèn huỳnh quang ngay sau lưng.
+— Xây xong chưa?
 
-— Dạ em chào sếp. Sáng nay da đầu sếp hồng hào ghê.
+— Dạ... gần xong.
 
-— Cậu còn ngồi đây viết mấy thứ rác này được nữa hả?
+— Vậy dỡ đi.
 
-Sếp giật tờ nháp khỏi bàn.
+Bên kia vách ngăn có tiếng ai đó ho rất khả nghi. Tôi liếc sang, thấy ba cái đầu lập tức cúi xuống màn hình như đang bận cứu thế giới.
 
-***
+Tòa soạn Âm Dương nằm trong một căn biệt thự Pháp cũ gần trung tâm Hà Nội. Tường ngoài đã xỉn vàng, cửa sổ cao, cầu thang gỗ bước mạnh một chút là kêu cọt kẹt. Tầng một dành cho hành chính với quảng cáo; tầng hai chia thành mấy ban nội dung, trong đó khu Kinh dị - Tâm linh của chúng tôi nằm ở cuối hành lang, nơi máy lạnh hỏng nhiều nhất và ngân sách đi công tác luôn có khả năng làm người ta suy nghĩ lại về tình yêu nghề.
 
-Tòa soạn Âm Dương nằm trong một căn biệt thự Pháp cũ gần trung tâm Hà Nội.
+Sếp Hòa là tổng biên tập. Người ông thấp vừa, bụng tròn, đầu cũng tròn, tóc chỉ còn một vòng mỏng ở hai bên. Trong nội bộ, có người gọi ông là sếp Hồ Lô. Tôi tuyệt đối không phải người đặt tên ấy.
 
-Tường vàng đã xỉn, cửa sổ cao, cầu thang gỗ bước mạnh một chút là kêu cọt kẹt. Tầng một là hành chính và quảng cáo. Tầng hai chia Đời sống, Hồ sơ và Kinh dị - Tâm linh.
+Tôi chỉ là người lỡ gọi thành tiếng trong một buổi liên hoan cuối năm.
 
-Phòng tôi thuộc khu cuối.
+Sếp đặt tờ nháp xuống bàn tôi.
 
-Cũng là khu ngân sách thấp nhất, máy lạnh hỏng nhiều nhất và nhân sự hay xin nghỉ nhất.
+— Huy, tôi nói thật. Cậu tới đây ba tháng rồi. Tin ngắn thì làm được, chạy hiện trường cũng chịu khó, nhưng cứ tới lúc giao bài dài là cậu lại biến nó thành trò đùa. Series này mà cậu còn làm kiểu đó thì cuối tháng tôi không giữ được đâu.
 
-Tổng cộng cả tòa soạn có năm mươi hai người.
+Nghe tới đó tôi bớt cười thật.
 
-Tôi biết chính xác vì hôm đó tôi phải đếm.
+— Sếp nói... thôi việc thật hả?
 
-Sếp tổng tên Hòa. Người thấp vừa, bụng tròn, đầu tròn, tóc quanh đỉnh chỉ còn một vòng mỏng. Trong lòng chúng tôi gọi ông là sếp Hồ Lô.
+— Cậu nghĩ tôi rảnh ngồi dọa cậu à?
 
-Tất nhiên tôi chưa bao giờ nói trước mặt ông.
+Tôi nhìn mặt ông. Không giống đùa.
 
-Ngoại trừ một lần say.
+— Dạ, em hiểu rồi.
 
-Có thể vì thế ông đặc biệt quan tâm tới con đường sự nghiệp của tôi.
+Sếp Hòa còn định nói tiếp thì chị Linh, trưởng ban Hồ sơ, xuất hiện ở cửa. Chị hơn ba mươi, tóc cắt ngang cằm, kính gọng mảnh; đi nhanh, nói cũng nhanh, và có cái nhìn khiến người bị nhìn tự nhớ xem hôm nay mình đã trễ deadline nào chưa.
 
-Sếp đọc tờ nháp, hai lỗ mũi phập phồng.
+— Anh Hòa, mọi người chờ phòng họp rồi.
 
-— “Ba tôi thuê xe rùa chở mẹ đi bán kim cương”?
+Sếp chỉ vào tôi.
 
-— Văn học cường điệu đó sếp.
+— Năm phút nữa xuống. Mang sổ theo. Đừng mang cái này.
 
-— “Tối ba mẹ lấy vàng cục chọi nhau”?
+Ông giơ tờ “Lamborghini cũ” lên.
 
-— Ẩn dụ cho xung đột giai cấp trong gia đình tư sản.
+— Dạ.
 
-— Cậu im!
+Sếp quay đi. Cửa kính ngay lối ra đang khép lại, ông mải nhìn chị Linh nên vai va trúng một cái cộp. Cả phòng im như tắt điện. Sếp Hòa đứng lại, nhìn cánh cửa vài giây rồi kéo ra đi tiếp như chưa có chuyện gì.
 
-Cả phòng bên kia đồng loạt cúi xuống màn hình, vai rung rung.
+Chờ tiếng chân ông xuống cầu thang, Quang ở bàn bên mới nghiêng ghế sang. Quang cao lêu nghêu, mặt hơi dài, tóc lúc nào cũng như vừa vò một cái; cây bút chì thường mắc sau tai dù tôi chưa bao giờ thấy anh dùng nó để viết.
 
-Sếp chỉ tay vào tôi.
+— Mày cứ chọc ổng hoài. Có ngày ổng đập mày thiệt đó.
 
-— Tôi cho cậu tới cuối tháng. Không có tư liệu tử tế cho series mới thì viết đơn nghỉ việc.
+— Ổng thương tao nên mới quan tâm nhiều vậy.
 
-Tôi lập tức nghiêm túc.
+Quang nhìn tôi.
 
-— Nghỉ phép bao nhiêu ngày vậy sếp?
+— Tao thấy ổng đang tập kiềm chế thì đúng hơn.
 
-— **NGHỈ VIỆC!**
-
-— Dạ em nghe hơi giống nghỉ phép nên hỏi cho chắc.
-
-Mặt sếp đỏ lên.
-
-Tôi bắt đầu tính từ bàn mình tới cầu thang bao nhiêu mét nếu phải chạy.
-
-May cho tôi, chị Linh trưởng ban Hồ sơ bước vào.
-
-Chị hơn ba mươi, tóc cắt ngang cằm, đeo kính gọng mảnh; đi nhanh, nói nhanh và có ánh mắt khiến người bị nhìn tự nhớ xem mình đã quên nộp cái gì.
-
-— Anh Hòa, họp rồi.
-
-Sếp hít một hơi.
-
-— Phòng họp. Năm phút. Cậu nói thêm câu nào tôi lấy ghế đóng vào mồm.
-
-Tôi giơ hai tay đầu hàng.
-
-Ông quay đi, tới cửa thì vai đâm đúng cánh kính đang khép.
-
-**Cốp.**
-
-Cả phòng nín thở.
-
-Sếp nhìn cánh cửa như muốn đá.
-
-Rất may Newton từ suối vàng chắc kịp nhắc định luật ba nên ông chỉ nghiến răng kéo cửa ra rồi đi.
-
-Ngay khi tiếng bước chân mất hẳn, cả phòng nổ cười.
-
-Anh Quang bàn bên — người cao lêu nghêu, mặt dài, lúc nào cũng có cây bút chì mắc sau tai — nói:
-
-— Mày sống tới giờ là kỳ tích đó Huy.
-
-— Người có tài thường được trời bảo hộ.
-
-— Tao nghĩ trời đang đợi cơ hội.
+Tôi cất bản nháp vào ngăn bàn. Lần này không cãi.
 
 ***
 
-Series mới mang cái tên rất kêu:
+Cuộc họp hôm đó là để khởi động một series mới: **MA KÍ SỰ**.
 
-**MA KÍ SỰ.**
+Ý tưởng của nó thật ra rất tử tế. Thay vì ngồi trong tòa soạn chép lại mấy câu chuyện ma trên mạng rồi gắn hình đỏ lòm, người viết phải tới tận nơi có truyền thuyết, gặp người thật, nghe nhiều phía, kiểm những thứ kiểm được và ghi rõ đâu là lời kể, đâu là dữ kiện. Nếu cuối cùng không có ma thì vẫn phải có một câu chuyện đáng đọc về những người tin rằng ma tồn tại.
 
-Ý tưởng thật ra khá hay.
+Tôi thích ý tưởng ngay từ đầu.
 
-Một loạt phóng sự thực địa về truyền thuyết ma quỷ, bùa ngải, nghi lễ và những hiện tượng kỳ lạ trong dân gian Việt Nam. Không copy chuyện mạng rồi thêm hình máu me. Phóng viên phải tới nơi, gặp người thật, kiểm nguồn, ghi lại cả cách lý giải dân gian lẫn thực tế.
+Chỉ có một vấn đề: chuyến đầu tiên chưa ai muốn đi.
 
-Ý tưởng hay đến mức khi sếp hỏi ai tình nguyện đi, năm mươi mốt người còn lại đồng loạt phát hiện mặt bàn của họ cực kỳ đáng quan sát.
+Sếp Hòa hỏi một vòng. Người cần đưa con đi khám. Người đang kẹt bài. Người chưa xin được tiền tạm ứng. Có người đơn giản cúi xuống nhìn sổ như thể trên đó vừa hiện ra một văn bản tuyệt mật.
 
-Tôi cũng nhìn xuống.
+Sếp ngồi im nghe hết, rồi hỏi:
 
-Nhưng bàn tôi sạch quá.
+— Tóm lại không ai tự nguyện đúng không?
 
-Sếp Hòa chống hai tay lên bàn họp.
+Không ai lên tiếng.
 
-— Không ai đi chứ gì?
+Ông thò tay vào túi xách bên ghế, lấy ra một bộ bài Tây còn nguyên hộp.
 
-Im lặng.
+Cả phòng bắt đầu ngẩng đầu.
 
-Ông móc từ túi ra một bộ bài Tây còn nguyên hộp.
+Chị Linh tháo kính xuống.
 
-Cả phòng ngẩng lên.
+— Anh tính làm gì vậy?
 
-— Năm mươi hai người. Năm mươi hai lá. Ai bốc trúng ba bích đi chuyến đầu.
+— Năm mươi hai người, năm mươi hai lá. Ai bốc trúng ba bích đi chuyến đầu.
 
-Chị Linh bật cười.
+— Anh nói thiệt hả?
 
-— Anh nghiêm túc hả?
+— Có cách nào công bằng hơn thì nói tôi nghe.
 
-— Rất.
+Chị Linh nhìn quanh phòng. Không ai dám góp ý.
 
-— Tòa soạn hay sòng bài vậy?
+— Thôi, anh làm đi.
 
-— Phương pháp phân công lao động dân chủ.
+Tôi phải công nhận lúc cần, sếp Hòa rất biết cách biến sự vô lý thành quy trình.
 
-Tôi phải công nhận sếp rất giỏi đặt tên trang trọng cho hành vi vô lý.
-
-Bộ bài nằm giữa bàn.
-
-Xác suất một trên năm mươi hai.
-
-Tôi học Toán không giỏi nhưng con số đó đủ thấp để sĩ diện thắng não.
+Bộ bài được xé niêm phong ngay trước mặt mọi người. Sếp đổ ra bàn, xáo mấy lượt rồi gom lại thành một chồng. Tôi ngồi gần nhất, nhìn đống bài một lúc và nghĩ xác suất một trên năm mươi hai cũng chẳng đến nỗi.
 
 Tôi đứng lên.
 
-— Em bốc đầu tiên.
+Quang kéo nhẹ tay áo.
 
-Anh Quang kéo tay áo.
+— Mày làm gì vậy?
 
-— Mày ngu à?
+— Bốc lẹ cho xong. Ngồi nhìn từng người bốc còn mệt hơn.
 
-Tôi thì thầm:
+— Xác suất trước sau như nhau.
 
-— Một trên năm mươi hai. Bốc trước đỡ hồi hộp.
+— Tao biết.
 
-— Xác suất như nhau, thằng dốt.
+Quang nhìn tôi với vẻ rất rõ là không tin tôi biết thật.
 
-— Tao muốn dốt trong tự tin.
-
-Tôi bước tới.
-
-Sếp đẩy bộ bài sang.
-
-— Bốc.
-
-Tôi rút lá trên cùng.
-
-Lật.
+Tôi mặc kệ, bước tới rút lá trên cùng.
 
 Ba bích.
 
-Căn phòng im đúng một giây.
+Phòng họp im mất một nhịp. Sau đó tiếng vỗ tay nổi lên từ khắp nơi, nhanh tới mức tôi hiểu ngay tình đồng nghiệp của mình sâu sắc đến đâu.
 
-Rồi năm mươi mốt con người còn lại vỗ tay như đội tuyển Việt Nam vừa ghi bàn.
+— Khoan đã.
 
-Tôi nhìn lá bài.
+Tôi lật lá bài qua lại.
 
-Nhìn sếp.
+— Sếp có xáo thiệt không vậy?
 
-Nhìn lại.
+— Cậu đứng cạnh nhìn tôi xáo mà.
 
-— Khoan.
+— Em đang sốc nên hỏi lại thôi.
 
-— Chúc mừng.
+Quang ngồi phía sau cười tới mức phải cúi mặt xuống bàn.
 
-— Có thằng nào chưa xáo bài đúng không?
+Tôi định ném lá bài vào anh thì chợt thấy ở góc phải dưới có một vết xước nhỏ hình bán nguyệt. Hộp bài mới, mặt giấy còn cứng, riêng vết xước ấy trông như đã có từ trước. Tôi đưa gần mắt hơn, nhưng sếp Hòa đã chìa tay.
 
-Không ai nhận.
+— Đưa đây. Mai bắt đầu chuẩn bị đi.
 
-Tôi quay sang đám đồng nghiệp đang cười đỏ mặt.
+— Mai luôn hả sếp?
 
-— Đồ khốn. Tình đồng nghiệp đâu?
+— Cậu cần mấy tháng để mua vé xe?
 
-Quang đáp:
+— Ít nhất phải cho em biết đi đâu chứ.
 
-— Ở nhà với người không bốc ba bích.
+— Tự chọn case. Tối nay gửi đề xuất cho Linh. Tôi cần địa điểm, nguồn ban đầu, chi phí và cách kiểm chứng. Đừng bê nguyên một truyền thuyết trên Google xuống đây.
 
-Tôi đưa lá bài sát mắt.
+Ông đặt một phong bì lên bàn.
 
-Mặt giấy hơi cũ dù hộp nhìn mới. Góc phải dưới có một vết xước nhỏ hình bán nguyệt.
+— Tạm ứng hai triệu.
 
-Không hiểu sao tôi nhớ rất rõ nó.
+Tôi mở ra đếm rồi nhìn ông.
 
-Sếp giật lá bài khỏi tay.
+— Hai triệu cho một chuyến đi thực địa hả sếp?
 
-— Mai đi.
+— Cậu còn chưa biết mình đi đâu mà đã chê ít rồi à?
 
-— Mai?
+— Em chuẩn bị tinh thần thôi.
 
-— Ừ.
+— Thiếu thì làm dự toán bổ sung. Có hóa đơn càng tốt. Còn nếu cậu tiêu hết vào cà phê thì tự chịu.
 
-— Đi đâu?
+Nghe tới chữ “bổ sung” tôi thấy cuộc đời vẫn còn ánh sáng.
 
-— Tự nghiên cứu. Tôi cần case đầu đủ hấp dẫn. Đi thực địa, ghi âm, chụp ảnh, phỏng vấn. Không ngồi cà phê chép Google.
-
-— Kinh phí?
-
-Ông đặt một phong bì xuống.
-
-Hai triệu.
-
-— Sếp.
-
-— Gì?
-
-— Đây là tiền xe hay tiền mai táng?
-
-— Công tác phí.
-
-— Nếu em chết?
-
-Sếp suy nghĩ nghiêm túc hai giây.
-
-— Tòa soạn sẽ đăng bài tưởng niệm rất trang trọng.
-
-Tôi quay sang mọi người.
-
-— Các anh chị nghe chưa? Môi trường làm việc độc hại.
+Sếp cất lá ba bích vào ngăn kéo cạnh chỗ ngồi, đóng lại trước mặt cả phòng. Vết xước bán nguyệt ở góc lá bài lúc đó chỉ là một chi tiết rất nhỏ. Tôi nhớ nó vì tôi vừa thua một trò bốc thăm ngu ngốc, chứ chưa có lý do nào khác.
 
 ***
 
-Tối đó, tôi ngồi trong phòng trọ với laptop, ba gói mì và giáo sư Google.
+Tối ấy tôi ngồi trong phòng trọ với laptop, một cốc mì và danh sách tìm kiếm dài tới mức nhìn lịch sử trình duyệt có thể khiến người khác nghĩ tôi đang chuẩn bị mở dịch vụ trừ tà.
 
-Tôi tìm từ “ma nổi tiếng miền Bắc” tới “cách xin nghỉ việc không mất lòng sếp”. Sau gần hai giờ, một cái tên nổi lên:
+Tôi đọc qua chuyện ma da, ma trành, bóng đè, bùa ngải, những giai thoại về người chết báo mộng. Phần lớn nguồn đều là bài kể lại từ bài khác, không dẫn người thật, không địa điểm rõ, rất khó làm phóng sự tử tế. Gần hai giờ sau tôi dừng ở một nhóm câu chuyện về **Ma Lai**.
 
-**Ma Lai.**
+Mỗi vùng kể khác nhau, nhưng có một hình ảnh lặp đi lặp lại: ban ngày là một người bình thường, ban đêm đầu cùng nội tạng tách khỏi thân, đi tìm những thứ tanh bẩn để ăn. Có nơi gọi đó là tà thuật; nơi khác coi như lời nguyền, hoặc chỉ là chuyện người lớn đem ra dọa trẻ không được đi đêm.
 
-Những câu chuyện về một người ban ngày sống bình thường, ban đêm đầu và nội tạng tách khỏi thân, đi tìm thức ăn tanh bẩn. Mỗi vùng kể một kiểu: tà thuật, lời nguyền, bệnh lạ, chuyện dọa trẻ.
+Tôi không biết cái nào đúng. Chính vì vậy nó đáng đi.
 
-Tôi thích ngay.
+Một diễn đàn cũ có bài nhắc tới vùng Mẫu Sơn, Lạng Sơn. Bài đăng đã bảy năm, tài khoản người viết không còn, chi tiết địa điểm chỉ đủ để khoanh một vùng khá rộng. Bình thường tôi sẽ bỏ qua nguồn mỏng như thế. Nhưng giữa hàng chục câu chuyện copy lẫn nhau, bài ấy có vài chi tiết rất đời: tên một con dốc, quãng đường từ đường chính, chuyện một gia đình thường đóng cửa từ chập tối. Tôi lưu lại, dò thêm bản đồ và gửi đề xuất sơ bộ cho chị Linh.
 
-Không phải vì tin.
+Mười một giờ bốn mươi, chị trả đúng một dòng:
 
-Nếu không có ma thật, tôi vẫn có thể viết về việc con người tin nó thế nào. Nghề của tôi cần câu chuyện thật về con người, không cần tôi bê một con ma về tòa soạn.
+“Được. Đi thì nhớ gọi người địa phương, đừng tự chui vào rừng.”
 
-Tôi khoanh địa điểm: Mẫu Sơn, Lạng Sơn.
+Tôi nhắn lại một cái mặt cười rồi đặt vé chuyến sớm hôm sau.
 
-Cách thành phố khoảng ba mươi cây số. Núi cao, lạnh ẩm, đường quanh co, đủ lớp truyền thuyết để mở series.
+Khoảng một giờ sáng, lúc đang nhét sạc dự phòng vào ba lô, Quang gọi.
 
-Tôi đặt vé chuyến sớm.
+— Mày còn thức không?
 
-***
+— Giọng tao đang trả lời mày đây còn gì.
 
-Khoảng một giờ sáng, điện thoại rung.
+— Tao vừa quay lại tòa soạn lấy cái sạc để quên. Mày có để lá bài trên bàn tao không?
 
-Quang nhắn:
+Tay tôi dừng lại.
 
-“Mày để lá 3 bích trên bàn tao à?”
+— Lá nào?
 
-Tôi trả:
+— Ba bích.
 
-“Lá sếp cầm mà?”
+— Sếp cầm rồi mà.
 
-Anh gửi ảnh.
+— Tao biết. Nên tao mới hỏi.
 
-Trên bàn Quang, giữa hai xấp tài liệu, là lá ba bích.
+Quang gửi ảnh qua Zalo. Trên bàn anh, giữa một xấp bản in và cốc cà phê rỗng, là lá ba bích. Tôi phóng to góc phải dưới.
 
-Góc phải dưới có vết xước bán nguyệt.
+Vết xước bán nguyệt vẫn ở đó.
 
-Tôi gọi ngay.
+— Mày lấy trong ngăn sếp ra chọc tao hả?
 
-— Mày giỡn tao hả?
-
-— Tao đang ở nhà. Sếp lấy lá đó rồi.
-
-— Vậy ai để đây?
+— Tao mới tới. Bảo vệ mở cửa cho tao, tao đi thẳng lên. Với lại tao có chìa ngăn bàn ổng đâu.
 
 — Camera?
 
-— Tòa soạn khóa rồi. Mai coi.
+— Mai hỏi. Giờ tao cầm lá này qua bàn mày nha?
 
-Tôi cười.
+Tôi định bảo anh cứ để nguyên, nhưng nghĩ tới chuyện sáng mai mình phải đi sớm.
 
-— Chắc sếp Hòa chọc mày.
+— Chụp thêm mấy tấm trước đã. Xong bỏ vào phong bì, để trong ngăn bàn tao. Đừng nghịch nữa.
 
-— Ừ. Chắc vậy.
+— Mày bắt đầu sợ rồi hả?
 
-Hai thằng cùng nói “chắc vậy”.
+— Tao đang làm nghề có quy trình.
 
-Không thằng nào thật sự chắc.
+— Ừ, nghe câu đó từ mày hơi lạ.
 
-Tôi tắt máy, kéo vali lại gần giường.
+Tôi cúp máy, vẫn nhìn tấm ảnh thêm một lúc. Có hàng chục lời giải thích đơn giản hơn ma quỷ: sếp Hòa lấy lá bài ra rồi quên, ai đó trong phòng chọc chúng tôi, Quang đang phối hợp với người khác để chơi tôi một vố. Tôi tự kể đủ từng khả năng cho tới khi buồn ngủ.
 
-Trước khi ngủ, mở ảnh lần nữa.
+Đêm đó tôi mơ thấy phòng họp của Âm Dương không còn bàn ghế. Năm mươi hai lá bài trải kín sàn, tất cả đều úp xuống trừ một lá ba bích nằm ngay giữa phòng.
 
-Vết xước giống một cái móng tay cào vào giấy.
+Tôi bước tới. Ba hình bích trên mặt bài đã biến mất, thay bằng ba cái tên viết bằng mực đen. Hai cái đầu bị gạch mạnh tới mức rách mặt giấy.
 
-Đêm đó tôi mơ thấy năm mươi hai lá bài trải kín sàn tòa soạn.
-
-Năm mươi mốt lá úp.
-
-Chỉ ba bích ngửa.
-
-Trên mặt bài không còn ba hình bích.
-
-Có ba cái tên viết bằng mực đen.
-
-Hai cái đã bị gạch.
-
-Cái cuối cùng là:
+Cái tên thứ ba còn nguyên.
 
 **TRƯƠNG AN HUY.**
+
+Tôi tỉnh dậy lúc chuông báo thức reo, tim đập nhanh nhưng đầu óc vẫn đủ tỉnh để tự mắng mình đọc chuyện ma quá nhiều trước khi ngủ.
+
+Sáu giờ mười, Quang nhắn thêm một tấm ảnh.
+
+“Phong bì tao để đúng ngăn bàn mày rồi. Tao không mở lại.”
+
+Tôi nhìn màn hình, rồi nhìn chiếc ba lô đã đóng khóa cạnh chân giường.
+
+Một chuyến công tác thôi mà, tôi tự nhủ.
+
+Lúc ấy tôi thực sự tin như vậy.
