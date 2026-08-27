@@ -1,9 +1,9 @@
 const $=s=>document.querySelector(s);let catalog=null,currentBook=null,currentChapter=null;const state={theme:localStorage.getItem('adk-theme')||'dark'};
 const BOOK_UI={
-  p201:{cover:'assets/covers/p201-cover.webp',intro:'Năm 2012, tám nữ sinh chuyển vào phòng 201 của một khu ký túc xá từng bị bỏ trống nhiều năm. Những câu chuyện cũ quanh căn phòng nhanh chóng khiến những đêm đầu tiên của họ trở nên khác thường.'},
-  'ma-ki-su':{cover:'assets/covers/ma-ki-su-cover.webp',intro:'Trương An Huy, 22 tuổi, cộng tác viên tòa soạn Âm Dương, bắt đầu rong ruổi khắp nơi để viết một series về những chuyện ma và giai thoại dân gian.'},
-  'an-hong-ngai':{cover:'assets/covers/an-hong-ngai-cover.webp',intro:'Bảy năm sau những ngày ở phòng 201, Quỳnh nhận được thư mời cưới của Trâm tại Hồng Ngài, một bản miền núi xa xôi nơi một chuyến đi lấy tư liệu khác vừa mất liên lạc.'},
-  'huyet-chung':{cover:'assets/covers/huyet-chung-cover.webp',intro:'Vài tháng sau Hồng Ngài, một vụ án mới kéo Thi và Trung trở lại những dấu vết tưởng đã khép lại, trong khi ký ức của Trung bắt đầu xuất hiện những khoảng trống.'}
+  p201:{cover:'assets/covers/p201-cover-v2.webp',intro:'Năm 2012, tám nữ sinh chuyển vào phòng 201 của một khu ký túc xá từng bị bỏ trống nhiều năm. Những câu chuyện cũ quanh căn phòng nhanh chóng khiến những đêm đầu tiên của họ trở nên khác thường.'},
+  'ma-ki-su':{cover:'assets/covers/ma-ki-su-cover-v2.webp',intro:'Trương An Huy, 22 tuổi, cộng tác viên tòa soạn Âm Dương, bắt đầu rong ruổi khắp nơi để viết một series về những chuyện ma và giai thoại dân gian.'},
+  'an-hong-ngai':{cover:'assets/covers/an-hong-ngai-cover-v2.webp',intro:'Bảy năm sau những ngày ở phòng 201, Quỳnh nhận được thư mời cưới của Trâm tại Hồng Ngài, một bản miền núi xa xôi nơi một chuyến đi lấy tư liệu khác vừa mất liên lạc.'},
+  'huyet-chung':{cover:'assets/covers/huyet-chung-cover-v2.webp',intro:'Vài tháng sau Hồng Ngài, một vụ án mới kéo Thi và Trung trở lại những dấu vết tưởng đã khép lại, trong khi ký ức của Trung bắt đầu xuất hiện những khoảng trống.'}
 };
 function applyTheme(){document.body.classList.toggle('light',state.theme==='light')}applyTheme();$('#themeToggle').onclick=()=>{state.theme=state.theme==='dark'?'light':'dark';localStorage.setItem('adk-theme',state.theme);applyTheme()};
 const esc=s=>String(s??'').replace(/[&<>"']/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#039;'}[m]));
