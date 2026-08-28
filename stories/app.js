@@ -270,25 +270,25 @@ function splitByCharacters(text, limit) {
       break;
     }
 
-    const hardEnd = cursor + limit;
-    const minPreferred = cursor + Math.floor(limit * 0.58);
-    const windowText = source.slice(cursor, hardEnd + 1);
+    const minPreferred = Math.floor(limit * 0.58);
+    const windowText = source.slice(cursor, cursor + limit + 1);
+    const paragraphBreak = windowText.lastIndexOf('\n\n');
+    const lineBreak = windowText.lastIndexOf('\n');
+    const periodBreak = windowText.lastIndexOf('. ');
+    const exclamationBreak = windowText.lastIndexOf('! ');
+    const questionBreak = windowText.lastIndexOf('? ');
+    const spaceBreak = windowText.lastIndexOf(' ');
     const candidates = [
-      windowText.lastIndexOf('\n\n'),
-      windowText.lastIndexOf('\n'),
-      windowText.lastIndexOf('. '),
-      windowText.lastIndexOf('! '),
-      windowText.lastIndexOf('? '),
-      windowText.lastIndexOf(' '),
-    ].filter((index) => index >= minPreferred - cursor);
+      paragraphBreak,
+      lineBreak,
+      periodBreak >= 0 ? periodBreak + 1 : -1,
+      exclamationBreak >= 0 ? exclamationBreak + 1 : -1,
+      questionBreak >= 0 ? questionBreak + 1 : -1,
+      spaceBreak,
+    ].filter((end) => end >= minPreferred && end > 0 && end <= limit);
 
-    let relativeEnd = candidates.length ? Math.max(...candidates) : limit;
-    if (relativeEnd <= 0) relativeEnd = limit;
-
-    let absoluteEnd = cursor + relativeEnd;
-    const boundary = source.slice(absoluteEnd, absoluteEnd + 2);
-    if (/^[.!?]\s$/.test(boundary)) absoluteEnd += 1;
-
+    const relativeEnd = candidates.length ? Math.max(...candidates) : limit;
+    const absoluteEnd = cursor + relativeEnd;
     const chunk = source.slice(cursor, absoluteEnd).trim();
     if (chunk) chunks.push(chunk);
 
