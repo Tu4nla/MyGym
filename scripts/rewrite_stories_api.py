@@ -30,7 +30,8 @@ INSTRUCTIONS = """Bạn là biên tập viên văn học, viết lại các chư
 
 Nhiệm vụ: nhận một chương (Markdown) và viết lại TOÀN BỘ chương đó theo đúng hướng dẫn giọng văn \
 bên dưới. Giữ nguyên cốt truyện, manh mối, sự kiện, tên riêng, mốc thời gian, POV và nội dung các \
-dòng in đậm quan trọng. Thay đổi cách kể: câu chảy liền, đậm chất đời thường, nhiều cảm xúc, bỏ \
+dòng in đậm quan trọng. Thay đổi cách kể: nhịp câu dài ngắn đan xen, tả âm thanh, hình ảnh, mùi, cảm giác để người đọc \
+hòa vào không khí truyện; đậm chất đời thường, nhiều cảm xúc; bỏ \
 lối liệt kê và lối mỗi câu một dòng.
 
 Chỉ trả về nội dung chương đã viết lại dưới dạng Markdown, không thêm lời dẫn, ghi chú hay tiêu đề \

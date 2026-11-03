@@ -27,7 +27,40 @@
 
 Pha sao cho người đọc thấy **một** giọng văn, không thấy bốn đoạn của bốn người. Nền vẫn là giọng tác giả ở mục 1.
 
-## 3. Những thứ phải bỏ (dấu hiệu "văn AI")
+## 3. Nhịp câu và giác quan: kéo người đọc vào trong truyện
+
+Người đọc phải **thấy, nghe, ngửi, chạm** được cảnh, như đang đứng ngay trong căn phòng, trên chuyến xe, giữa bản làng. Đừng đứng ngoài kể lại "có cái này, có cái kia".
+
+**Nhịp câu dài ngắn đan xen**
+- Câu dài để dẫn người đọc đi, để không khí ngấm dần: tả mưa, tả đường đêm, tả một căn nhà sàn ám khói, tả dòng suy nghĩ cứ kéo nhau đi không dứt.
+- Câu ngắn để đánh: lúc giật mình, lúc tim thót lại, lúc phát hiện manh mối. *"Cửa mở. Không có ai."*
+- Một đoạn hay thường là vài câu dài êm êm, rồi một hai câu ngắn cắt ngang, rồi lại dài ra. Đừng viết cả đoạn chỉ câu ngắn, cũng đừng viết cả trang chỉ câu dài.
+- Câu ngắn nằm **trong** đoạn văn. Chỉ tách riêng thành một dòng khi đó là cú đánh mạnh nhất chương.
+
+**Âm thanh** (truyện kinh dị sống nhờ tai)
+- Cho người đọc nghe được không gian: tiếng mưa gõ lên mái tôn, tiếng quạt trần kêu cót két mỗi vòng quay, tiếng dép lẹp xẹp ngoài hành lang, tiếng chó sủa xa xa dưới bản, tiếng củi nổ lách tách trong bếp, tiếng khèn vọng từ sườn núi bên kia.
+- Dùng sự im lặng như một âm thanh: *"tiếng mưa tạnh hẳn, im đến mức nó nghe thấy cả tiếng mình nuốt nước bọt"*.
+- Tượng thanh đặt đúng lúc: kéttttt, rầmmmm, cộc… cộc… cộc, tí tách, rì rầm.
+
+**Hình ảnh, ánh sáng, màu sắc**
+- Ánh sáng tạo không khí: đèn tuýp nhấp nháy, ánh đèn đường vàng vọt nhòe trong mưa, ánh lửa bếp hắt lên mặt người chập chờn, tia chớp rạch ngang soi rõ trong một tích tắc rồi tối sầm.
+- Chọn **một hai chi tiết đắt**, tả cho kỹ, đừng điểm danh mười đồ vật. Một cái ghế xoay lệch khỏi bàn, ai cũng né không dám chỉnh, nói được nhiều hơn cả danh sách đồ đạc.
+
+**Mùi, xúc giác, nhiệt độ**
+- Mùi: cà phê nguội, giấy cũ ẩm mốc, khói bếp ám vào tóc, rượu ngô nồng, mùi hương trầm, mùi đất sau mưa, mùi tanh không rõ từ đâu.
+- Cơ thể: áo ướt dính vào lưng lạnh buốt, đầu ngón tay tê cóng, gáy rờn rợn như có ai thổi vào, sàn gỗ lạnh dưới bàn chân trần.
+
+**Cảnh phải đi qua nhân vật.** Tả cái nhân vật đang để ý *lúc đó*, theo tâm trạng *lúc đó*. Cùng một cơn mưa, lúc Quỳnh vui thì "rả rích nghe như ru ngủ", lúc sợ thì "quất từng đợt vào cửa kính như có ai đứng ngoài đập".
+
+**Ví dụ sửa**
+
+Bản cũ (liệt kê, đứng ngoài):
+> Một cái ly trắng in chữ HOT BOY KHÔNG CẦN CÀ PHÊ. Một con mèo may mắn mất tay trái. Hai cây bút hết mực.
+
+Bản mới (có nhịp, có giác quan, có người nhìn):
+> Bàn của Huy vẫn y nguyên như hôm anh bỏ đi, cái ly trắng in dòng chữ "HOT BOY KHÔNG CẦN CÀ PHÊ" mà đáy vẫn còn một vệt cà phê khô cong lại thành màu nâu xỉn, con mèo vẫy tay cụt mất một bên cứ đứng đó cười cười với cả phòng. Quỳnh nhìn nó lâu hơn nó muốn. Quạt trần quay một vòng, kêu cót két, rồi lại một vòng nữa.
+
+## 4. Những thứ phải bỏ (dấu hiệu "văn AI")
 
 - **Liệt kê từng dòng:** *"Một cái ly trắng… / Một con mèo may mắn… / Hai cây bút…"*. Gộp lại thành một câu kể có cảm xúc, hoặc chỉ giữ một chi tiết đắt nhất.
 - **Mỗi câu một đoạn để giả kịch tính:** *"Không tìm được xác."*, *"Ba dấu bích."*, *"Mưa vẫn rơi."* đứng trơ trọi. Mỗi chương chỉ được dùng vài lần, đúng lúc đắt nhất.
@@ -37,7 +70,7 @@ Pha sao cho người đọc thấy **một** giọng văn, không thấy bốn �
 - **Tả cảm xúc bằng nhãn** ("Quỳnh lo lắng", "cô cảm thấy sợ"). Tả bằng cơ thể và hành động: mặt nóng ran, tự tát mình một cái, chân như chôn xuống sàn.
 - **Văn quá sạch, quá đều.** Người thật kể chuyện có lúc lan man, có lúc tự ngắt lời, có lúc chen một câu bông đùa.
 
-## 4. Những thứ phải giữ
+## 5. Những thứ phải giữ
 
 - Toàn bộ **cốt truyện, manh mối, sự kiện, mốc thời gian, tên người, tên đất, ai biết gì vào lúc nào.** Đây là truyện trinh thám kinh dị, một manh mối mất đi là hỏng cả vụ án.
 - Nội dung các dòng **in đậm** quan trọng (tin nhắn, tiêu đề bài, chữ viết tay, biển hiệu) giữ nguyên chữ.
@@ -46,7 +79,7 @@ Pha sao cho người đọc thấy **một** giọng văn, không thấy bốn �
 - Độ dài xấp xỉ bản cũ (±20%). Được gộp, được thêm đời thường, nhưng không cắt cảnh.
 - Chính tả chuẩn. Giọng văn đời thường nhưng không viết sai chính tả ("xảy ra", không viết "sảy ra"; "chôn chân", không viết "trôn chân").
 
-## 5. Đoạn mẫu tham chiếu
+## 6. Đoạn mẫu tham chiếu
 
 > Tòa soạn Âm Dương nằm gọn trong một góc phố vắng vẻ giữa màn đêm, một người con gái vẫn cặm cụi ngồi đánh máy giữa căn phòng rộng lớn của phòng Kinh dị - Tâm linh… 9 giờ rưỡi đêm, cả căn phòng chỉ có mình Quỳnh cùng với tiếng gõ phím, tiếng thùng máy, tiếng quạt quay đều đều và tiếng mưa rả rích ngoài trời, vốn là một đứa không sợ ma nhưng ở trong hoàn cảnh này, lại thêm đang viết bài về đề tài tâm linh khiến cho nó không khỏi sởn gai ốc. Nó nhìn xung quanh phòng, trong đầu nó bắt đầu tưởng tượng đến những hình ảnh ma quái, những viễn cảnh tồi tệ nhất, trống ngực nó đánh thình thịch, mặt nóng ran. Pép…nó tự tát mình một cái để tự trấn an rồi tiếp tục lúi húi viết bài trong lo sợ…
 >
